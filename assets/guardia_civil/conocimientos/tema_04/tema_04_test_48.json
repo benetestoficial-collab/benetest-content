@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_48",
+  "titulo": "Test 48 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t48_p01",
+      "pregunta": "Constitución Española. La CE de 1978 tuvo en cuenta influencias de constituciones extranjeras. ¿De qué país tomó el modelo de Tribunal Constitucional?",
+      "opciones": [
+        "a) Del modelo norteamericano de revisión judicial difusa",
+        "b) Del modelo austriaco-kelseniano de control concentrado, aplicado también en Alemania e Italia",
+        "c) Del modelo francés de Conseil Constitutionnel",
+        "d) Del modelo británico de control parlamentario sin tribunal especial"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "CE (Introducción). La CE española tomó el modelo de TRIBUNAL CONSTITUCIONAL del SISTEMA AUSTRIACO-KELSENIANO (Hans Kelsen diseñó el modelo austriaco de 1920) que fue adoptado también por Alemania (Bundesverfassungsgericht) e Italia. Es el modelo de CONTROL CONCENTRADO: solo el TC puede declarar inconstitucional una ley."
+    },
+    {
+      "id": "t04_t48_p02",
+      "pregunta": "Constitución Española, art. 14. ¿Es la edad una causa de discriminación prohibida por el artículo 14?",
+      "opciones": [
+        "a) No, el art. 14 no menciona la edad",
+        "b) Sí, el artículo 14 prohíbe discriminación por 'cualquier otra condición o circunstancia personal o social', lo que incluye la edad según el TC",
+        "c) Solo la discriminación por edad avanzada (mayores) está prohibida",
+        "d) Solo la discriminación por minoría de edad está prohibida"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 14 CE. El art. 14 prohíbe discriminación por raza, sexo, religión, opinión u 'CUALQUIER OTRA CONDICIÓN O CIRCUNSTANCIA PERSONAL O SOCIAL'. EL TC HA INTERPRETADO QUE ESTA CLÁUSULA RESIDUAL INCLUYE LA EDAD: aunque la discriminación por edad puede estar justificada en algunos casos (jubilaciones, edad mínima), la discriminación arbitraria por edad vulnera el art. 14."
+    },
+    {
+      "id": "t04_t48_p03",
+      "pregunta": "Constitución Española, art. 18. ¿Las cámaras de videovigilancia en espacios públicos vulneran el derecho a la intimidad?",
+      "opciones": [
+        "a) Siempre vulneran el derecho a la intimidad",
+        "b) No necesariamente; en espacios públicos donde no existe expectativa de intimidad, la videovigilancia puede ser legítima si está regulada por ley y es proporcional",
+        "c) Nunca vulneran el derecho a la intimidad por ser espacios públicos",
+        "d) Solo las cámaras privadas, no las de la Administración"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 18 CE. En espacios públicos la expectativa de intimidad es reducida. LA VIDEOVIGILANCIA EN ESPACIOS PÚBLICOS PUEDE SER LEGÍTIMA si está REGULADA POR LEY (Ley Orgánica de Seguridad Ciudadana), tiene UNA FINALIDAD LEGÍTIMA (seguridad pública) y es PROPORCIONAL. La LO 4/1997 y la LO 4/2015 regulan el uso de cámaras en lugares públicos."
+    },
+    {
+      "id": "t04_t48_p04",
+      "pregunta": "Constitución Española, art. 20. ¿Puede un medio de comunicación privado ser obligado a publicar una rectificación?",
+      "opciones": [
+        "a) No, la libertad de prensa es absoluta",
+        "b) Sí, la Ley Orgánica de Rectificación (2/1984) establece el derecho de rectificación: quien se considere agraviado por una información puede exigir su publicación en el mismo medio",
+        "c) Solo si hay resolución judicial previa",
+        "d) Solo en medios de titularidad pública"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 20 CE y LO 2/1984. La LO 2/1984 ESTABLECE EL DERECHO DE RECTIFICACIÓN: cualquier persona puede exigir que un medio de comunicación publique su rectificación a una información que le alude. El medio DEBE PUBLICAR LA RECTIFICACIÓN en el plazo establecido, sin necesidad de resolución judicial previa, aunque puede acudirse a los tribunales si el medio se niega."
+    },
+    {
+      "id": "t04_t48_p05",
+      "pregunta": "Constitución Española, art. 22. ¿Puede una asociación ser disuelta por la vía administrativa?",
+      "opciones": [
+        "a) Sí, el Gobierno puede disolver asociaciones por razones de orden público",
+        "b) No, las asociaciones solo pueden ser suspendidas o disueltas en virtud de resolución judicial motivada",
+        "c) Solo las asociaciones ilegales pueden disolverse por la Administración",
+        "d) Solo si la mayoría de sus miembros lo solicita"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 22.4 CE. 'Las asociaciones solo podrán ser DISUELTAS O SUSPENDIDAS EN SUS ACTIVIDADES EN VIRTUD DE RESOLUCIÓN JUDICIAL MOTIVADA.' LA VÍA ADMINISTRATIVA ESTÁ EXCLUIDA: ninguna autoridad administrativa puede disolver una asociación. Siempre se requiere resolución judicial. Esto protege la libertad de asociación frente a posibles arbitrariedades del ejecutivo."
+    },
+    {
+      "id": "t04_t48_p06",
+      "pregunta": "Constitución Española, art. 24. ¿Puede un juez condenar a alguien que no ha podido defenderse ni ha sido escuchado (indefensión)?",
+      "opciones": [
+        "a) Sí, si los hechos están probados",
+        "b) No, la indefensión está expresamente prohibida por el art. 24.1 CE; una condena sin audiencia vulnera el derecho a la tutela judicial efectiva",
+        "c) Solo en procesos de urgencia debidamente justificados",
+        "d) Solo si el acusado se niega voluntariamente a comparecer"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 24.1 CE. 'Todas las personas tienen derecho a obtener la tutela judicial efectiva, SIN QUE EN NINGÚN CASO PUEDA PRODUCIRSE INDEFENSIÓN.' Una CONDENA SIN AUDIENCIA del afectado vulnera el art. 24 CE. El principio AUDIATUR ET ALTERA PARS (oiga también a la otra parte) es un requisito constitucional ineludible."
+    },
+    {
+      "id": "t04_t48_p07",
+      "pregunta": "Constitución Española, art. 28. ¿El personal civil al servicio de las Administraciones militares tiene derecho de huelga?",
+      "opciones": [
+        "a) No, todo el personal en dependencias militares está excluido",
+        "b) Sí, el personal CIVIL (no militar) al servicio de la Administración militar sí tiene derecho de huelga como cualquier trabajador civil",
+        "c) Solo si no prestan servicios esenciales para la defensa",
+        "d) Solo en tiempo de paz y con autorización previa"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 28.2 CE. La restricción o excepción del derecho de huelga se aplica a los MILITARES Y CUERPOS SOMETIDOS A DISCIPLINA MILITAR. EL PERSONAL CIVIL que trabaja en dependencias militares NO está sujeto a disciplina militar y SÍ TIENE DERECHO DE HUELGA como cualquier trabajador civil, con las limitaciones de los servicios esenciales."
+    },
+    {
+      "id": "t04_t48_p08",
+      "pregunta": "Constitución Española, art. 30. La Ley 17/1999 suspendió el servicio militar en 2001. ¿Podría restablecerse?",
+      "opciones": [
+        "a) No, su abolición es definitiva e irreversible",
+        "b) Sí, el art. 30 CE prevé el deber de defender a España; el servicio militar podría restablecerse mediante ley sin necesidad de reforma constitucional",
+        "c) Solo mediante reforma constitucional por el procedimiento agravado",
+        "d) Solo en caso de guerra declarada"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 30.1 CE. El artículo 30 CE prevé que 'los españoles tienen el DERECHO Y EL DEBER DE DEFENDER A ESPAÑA'. El servicio militar es un desarrollo de ese deber. Como la CE no lo prohíbe sino que lo permite, PODRÍA RESTABLECERSE MEDIANTE LEY ORDINARIA sin necesidad de reforma constitucional. Solo se suspendió por decisión legislativa, no constitucional."
+    },
+    {
+      "id": "t04_t48_p09",
+      "pregunta": "Constitución Española, art. 47. ¿Puede el Estado imponer una contribución especial por el aumento de valor del suelo provocado por una actuación pública?",
+      "opciones": [
+        "a) No, las plusvalías del suelo pertenecen íntegramente al propietario",
+        "b) Sí, el art. 47 CE establece que la comunidad participará en las plusvalías generadas por la acción urbanística pública; el legislador puede regular tributos que capturen esa plusvalía",
+        "c) Solo puede hacerlo en caso de expropiación",
+        "d) Solo cuando el valor del suelo se triplica"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 47 CE. 'LA COMUNIDAD PARTICIPARÁ EN LAS PLUSVALÍAS que genere la acción urbanística de los entes públicos.' Esto habilita al legislador a establecer CONTRIBUCIONES ESPECIALES, el IMPUESTO SOBRE EL INCREMENTO DE VALOR DE LOS TERRENOS (plusvalía municipal) y otras figuras tributarias que capturen para la comunidad parte del valor generado por las actuaciones públicas."
+    },
+    {
+      "id": "t04_t48_p10",
+      "pregunta": "Constitución Española, art. 103. ¿Puede un funcionario público ser sancionado disciplinariamente sin procedimiento previo?",
+      "opciones": [
+        "a) Sí, en casos urgentes",
+        "b) No, el art. 103.3 CE establece garantías para la imparcialidad de los funcionarios; la Ley del Estatuto Básico del Empleado Público exige siempre un procedimiento disciplinario con audiencia",
+        "c) Solo si la sanción es una amonestación verbal",
+        "d) Solo si el funcionario está en periodo de prueba"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 103.3 CE y TREBEP. El art. 103.3 establece que la ley regulará 'LAS GARANTÍAS PARA LA IMPARCIALIDAD' del ejercicio de las funciones públicas. El TREBEP exige que toda sanción disciplinaria se imponga mediante PROCEDIMIENTO PREVIO con audiencia del interesado. No puede sancionarse sin procedimiento, ni siquiera con sanciones leves."
+    },
+    {
+      "id": "t04_t48_p11",
+      "pregunta": "Constitución Española, art. 117. ¿Puede el legislador crear nuevos órdenes jurisdiccionales distintos de los cuatro existentes?",
+      "opciones": [
+        "a) No, la Constitución fija definitivamente los cuatro órdenes jurisdiccionales",
+        "b) Sí, el art. 117.6 admite que la ley pueda crear jurisdicciones especializadas dentro de la unidad jurisdiccional; el legislador puede crear nuevas especialidades jurisdiccionales",
+        "c) Solo puede crear jurisdicciones dentro del orden civil",
+        "d) Solo el TC puede autorizar nuevas jurisdicciones"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117 CE. El principio de UNIDAD JURISDICCIONAL no impide la especialización. LA LEY PUEDE CREAR NUEVAS ESPECIALIDADES JURISDICCIONALES dentro del sistema judicial unificado. Lo que prohíbe el art. 117.6 son los 'tribunales de excepción': órganos creados ad hoc para juzgar asuntos concretos al margen del sistema ordinario."
+    },
+    {
+      "id": "t04_t48_p12",
+      "pregunta": "Constitución Española, art. 122. El CGPJ nombra a los magistrados del Tribunal Supremo. ¿Interviene en esos nombramientos el Gobierno?",
+      "opciones": [
+        "a) Sí, el Gobierno propone y el CGPJ ratifica",
+        "b) No, los nombramientos de los magistrados del TS son competencia del CGPJ, sin intervención del Gobierno; el Rey los nombra formalmente a propuesta del CGPJ",
+        "c) Sí, el Ministro de Justicia propone y el CGPJ aprueba",
+        "d) Son elegidos por las propias Salas del Tribunal Supremo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 122 CE y LOPJ. Los MAGISTRADOS DEL TRIBUNAL SUPREMO son nombrados por el REY A PROPUESTA DEL CGPJ. EL GOBIERNO NO INTERVIENE en estos nombramientos, lo que garantiza la independencia judicial frente al ejecutivo. El CGPJ propone, el Rey nombra, sin participación del Ministerio de Justicia."
+    },
+    {
+      "id": "t04_t48_p13",
+      "pregunta": "Constitución Española, art. 131. El Consejo del art. 131.2 para asesorar la planificación económica, ¿ha sido creado?",
+      "opciones": [
+        "a) Sí, fue creado en 1979 y funciona actualmente",
+        "b) No, el mandato constitucional del art. 131.2 sigue sin desarrollarse; el Consejo previsto en ese artículo nunca se ha creado por ley",
+        "c) Fue creado pero suprimido en 1996",
+        "d) Es el Consejo Económico y Social (CES), creado por ley en 1991"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 131.2 CE. El art. 131.2 prevé la creación de un Consejo regulado por ley para la planificación económica. EL MANDATO CONSTITUCIONAL SIGUE SIN DESARROLLARSE: NUNCA SE HA CREADO ESE CONSEJO. El CES (creado en 1991) tiene funciones consultivas sobre política socioeconómica pero no es exactamente el Consejo previsto en el art. 131.2."
+    },
+    {
+      "id": "t04_t48_p14",
+      "pregunta": "Constitución Española, art. 137. ¿Puede una CCAA secesionarse de España unilateralmente?",
+      "opciones": [
+        "a) Sí, si su Parlamento lo aprueba por mayoría",
+        "b) No, la Constitución parte del principio de unidad indisoluble del Estado español; la secesión unilateral vulneraría el art. 2 CE y requeriría reforma constitucional por el procedimiento agravado",
+        "c) Solo si lo aprueba el Congreso de los Diputados",
+        "d) Solo si hay un referéndum autonómico favorable"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 2 CE. La CE reconoce la indisoluble unidad de la Nación española. LA SECESIÓN UNILATERAL DE UNA CCAA VULNERARÍA EL ART. 2 CE. El TC (Declaración 1/2017) ha establecido que cualquier proceso de autodeterminación requiere reforma constitucional. Un referéndum autonómico de autodeterminación sin base constitucional es inconstitucional."
+    },
+    {
+      "id": "t04_t48_p15",
+      "pregunta": "Constitución Española, art. 155. ¿Ha sido aplicado el artículo 155 alguna vez en la historia de la democracia española?",
+      "opciones": [
+        "a) No, nunca se ha aplicado",
+        "b) Sí, fue aplicado en octubre de 2017 en relación con la Generalitat de Cataluña, con aprobación del Senado por mayoría absoluta",
+        "c) Fue aplicado en 1981 tras el intento de golpe de Estado del 23-F",
+        "d) Fue aplicado en el País Vasco durante los años 80 por la violencia de ETA"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 155 CE. SÍ, FUE APLICADO POR PRIMERA VEZ EN OCTUBRE DE 2017 en relación con la Generalitat de Cataluña, tras la declaración unilateral de independencia. El Gobierno propuso las medidas al Senado, que las aprobó por MAYORÍA ABSOLUTA el 27 de octubre de 2017. Las medidas estuvieron en vigor hasta enero de 2018."
+    },
+    {
+      "id": "t04_t48_p16",
+      "pregunta": "Constitución Española, art. 161. El TC, ¿puede pronunciarse en abstracto sobre la constitucionalidad de una norma sin que exista un caso concreto?",
+      "opciones": [
+        "a) No, el TC solo puede actuar cuando hay un caso concreto",
+        "b) Sí, el recurso de inconstitucionalidad permite un control abstracto de constitucionalidad de normas sin necesidad de un proceso concreto",
+        "c) Solo en la cuestión de inconstitucionalidad, que siempre surge de un caso",
+        "d) Solo respecto a tratados internacionales antes de su ratificación"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 161.1.a) CE. EL RECURSO DE INCONSTITUCIONALIDAD PERMITE UN CONTROL ABSTRACTO: el TC se pronuncia sobre la constitucionalidad de la norma EN SÍ MISMA, sin necesidad de que haya un caso concreto pendiente. A diferencia de la cuestión de inconstitucionalidad (que surge de un proceso), el recurso es un control objetivo y abstracto."
+    },
+    {
+      "id": "t04_t48_p17",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo investigar la actuación de las Fuerzas Armadas?",
+      "opciones": [
+        "a) No, las FFAA están excluidas de su ámbito",
+        "b) Sí, el artículo 14 LO 3/1981 extiende expresamente la supervisión del Defensor a la actividad de la Administración Militar",
+        "c) Solo en tiempo de paz y para asuntos no relacionados con la defensa",
+        "d) Solo si lo solicita el Ministro de Defensa"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 14 LO 3/1981. 'El Defensor del Pueblo podrá supervisar la actividad de la ADMINISTRACIÓN MILITAR, SIN QUE ELLO PUEDA ENTRAÑAR UNA INTERFERENCIA EN EL MANDO DE LA DEFENSA NACIONAL.' La supervisión se extiende a la Administración Militar, pero respetando el mando en funciones estrictamente militares operativas."
+    },
+    {
+      "id": "t04_t48_p18",
+      "pregunta": "Constitución Española, art. 167. ¿Puede una Comunidad Autónoma proponer una reforma de la Constitución?",
+      "opciones": [
+        "a) No, las CCAA no tienen iniciativa de reforma constitucional",
+        "b) Sí, las Asambleas de las CCAA pueden solicitar al Gobierno la adopción de un proyecto de reforma o pueden remitir proposición a la Mesa del Congreso",
+        "c) Solo si tres o más CCAA se ponen de acuerdo",
+        "d) Solo mediante sus Senadores en el Senado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 166 CE. La iniciativa de reforma se ejerce de acuerdo con el art. 87.1 y 87.2. El ART. 87.2 CE establece que LAS ASAMBLEAS DE LAS CCAA PODRÁN SOLICITAR AL GOBIERNO LA ADOPCIÓN DE UN PROYECTO DE LEY O REMITIR A LA MESA DEL CONGRESO UNA PROPOSICIÓN DE LEY. Esto incluye proposiciones de reforma constitucional."
+    },
+    {
+      "id": "t04_t48_p19",
+      "pregunta": "Constitución Española, art. 168. Si el proceso de reforma agravada se inicia pero las nuevas Cortes NO ratifican la decisión, ¿qué ocurre?",
+      "opciones": [
+        "a) La reforma sigue adelante con las Cortes disueltas",
+        "b) La reforma fracasa y queda sin efecto; el proceso constituyente se cierra sin reforma",
+        "c) El Gobierno puede aprobarla mediante decreto-ley de urgencia",
+        "d) El TC decide si la reforma puede continuarse"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 168.2 CE. Las nuevas Cámaras deben RATIFICAR LA DECISIÓN de reforma. SI LAS NUEVAS CÁMARAS NO RATIFICAN (rechazan o simplemente no votan en el plazo previsto), LA REFORMA FRACASA. El proceso constituyente se cierra sin resultado. Esta es una de las razones por las que el procedimiento agravado es prácticamente inédito en la historia constitucional comparada."
+    },
+    {
+      "id": "t04_t48_p20",
+      "pregunta": "Constitución Española. La CE de 1978, comparada con las anteriores constituciones españolas, se destaca por ser la más duradera. ¿Cuántas constituciones ha tenido España en su historia?",
+      "opciones": [
+        "a) 5 constituciones",
+        "b) 7 constituciones",
+        "c) 9 constituciones",
+        "d) 11 constituciones"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Historia constitucional española. España ha tenido NUEVE CONSTITUCIONES o textos de rango constitucional: Constitución de Cádiz (1812), Estatuto Real (1834), Constitución de 1837, Constitución de 1845, Constitución de 1869, Constitución de 1876, Constitución de 1931 y la vigente Constitución de 1978. La de 1978 es la que tiene mayor vigencia ininterrumpida."
+    }
+  ]
+}

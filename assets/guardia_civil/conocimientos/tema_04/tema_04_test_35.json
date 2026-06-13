@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_35",
+  "titulo": "Test 35 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t35_p01",
+      "pregunta": "Constitución Española, art. 68. La LOREG establece 350 Diputados. ¿Cuál es la mayoría absoluta del Congreso?",
+      "opciones": [
+        "a) 175 Diputados",
+        "b) 176 Diputados",
+        "c) 177 Diputados",
+        "d) 200 Diputados"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "LOREG y CE. La mayoría absoluta es la mitad más uno de los miembros. Con 350 Diputados: 350÷2 = 175 + 1 = 176 DIPUTADOS. Es imprescindible saber este cálculo para la moción de censura (art. 113), la ley orgánica (art. 81), la investidura (art. 99) y otras votaciones."
+    },
+    {
+      "id": "t04_t35_p02",
+      "pregunta": "Constitución Española, art. 81. Para la aprobación de una ley orgánica se requiere mayoría absoluta del Congreso (176 Diputados con 350). ¿Y para la reforma constitucional ordinaria (art. 167)?",
+      "opciones": [
+        "a) 175 votos (mitad más uno)",
+        "b) 210 votos (tres quintos del Congreso)",
+        "c) 234 votos (dos tercios del Congreso)",
+        "d) 263 votos (tres cuartos del Congreso)"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 167 CE. La reforma ordinaria requiere mayoría de TRES QUINTOS DE CADA CÁMARA. En el Congreso con 350 Diputados: 350 × 3/5 = 210 VOTOS. La mayoría de dos tercios (234 votos) se exige en el Congreso solo cuando el Senado ha aprobado el texto por mayoría absoluta pero no por 3/5."
+    },
+    {
+      "id": "t04_t35_p03",
+      "pregunta": "Constitución Española, art. 113. La moción de censura requiere la firma de al menos 1/10 de los Diputados. Con 350 Diputados, ¿cuántas firmas se necesitan mínimo?",
+      "opciones": [
+        "a) 30 firmas",
+        "b) 35 firmas",
+        "c) 40 firmas",
+        "d) 50 firmas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 113.2 CE. Con 350 Diputados: 350 ÷ 10 = 35 DIPUTADOS como mínimo. Adicionalmente, la moción debe incluir un candidato alternativo a la Presidencia del Gobierno y no puede ser votada hasta transcurridos 5 días desde su presentación."
+    },
+    {
+      "id": "t04_t35_p04",
+      "pregunta": "Constitución Española, art. 113. La moción de censura se aprueba por mayoría absoluta del Congreso. Con 350 Diputados, ¿cuántos votos se necesitan?",
+      "opciones": [
+        "a) 175 votos",
+        "b) 176 votos",
+        "c) 210 votos",
+        "d) 234 votos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 113.1 CE. La moción de censura se aprueba por MAYORÍA ABSOLUTA del Congreso: 350÷2=175+1=176 VOTOS. Esta es la misma mayoría que para la aprobación de leyes orgánicas y para la superación del veto del Senado en primera opción."
+    },
+    {
+      "id": "t04_t35_p05",
+      "pregunta": "Constitución Española, art. 159. Los miembros del TC propuestos por el Congreso se eligen por mayoría de 3/5. Con 350 Diputados, ¿cuántos votos se necesitan?",
+      "opciones": [
+        "a) 175 votos",
+        "b) 176 votos",
+        "c) 210 votos",
+        "d) 234 votos"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 159.1 CE. Los miembros del TC propuestos por el Congreso se eligen por MAYORÍA DE TRES QUINTOS de sus miembros. Con 350 Diputados: 350 × 3/5 = 210 VOTOS. La misma mayoría se requiere en el Senado para sus propuestas."
+    },
+    {
+      "id": "t04_t35_p06",
+      "pregunta": "Constitución Española, art. 162. Se necesitan 50 Diputados para interponer el recurso de inconstitucionalidad. ¿Qué porcentaje del Congreso (350 Diputados) representan?",
+      "opciones": [
+        "a) El 10%",
+        "b) Aproximadamente el 14,3%",
+        "c) El 15%",
+        "d) El 20%"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 162.1.a) CE. 50 Diputados sobre 350 representan: 50/350 = 0,1428... = APROXIMADAMENTE EL 14,3% del total de Diputados. No es el 10% (que serían 35 Diputados, el mínimo para la moción de censura) ni el 20% (que serían 70 Diputados)."
+    },
+    {
+      "id": "t04_t35_p07",
+      "pregunta": "Constitución Española, art. 167. Para la reforma constitucional ordinaria, si no hay acuerdo de 3/5, el Congreso puede aprobarla por 2/3 si el Senado votó por mayoría absoluta. ¿Cuántos votos son 2/3 de 350?",
+      "opciones": [
+        "a) 210 votos",
+        "b) 234 votos",
+        "c) 233 votos",
+        "d) 263 votos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 167.2 CE. Los dos tercios de 350 son: 350 × 2/3 = 233,33... que se redondea a 234 VOTOS. Para la mayoría de 2/3, se cuenta el número exacto y se redondea al alza cuando no es exacto. 234 votos son necesarios en el Congreso en este supuesto subsidiario de la reforma ordinaria."
+    },
+    {
+      "id": "t04_t35_p08",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. Su elección requiere 3/5 del Congreso. Con 350 Diputados, ¿cuántos votos necesita el candidato en el Congreso?",
+      "opciones": [
+        "a) 175 votos",
+        "b) 176 votos",
+        "c) 210 votos",
+        "d) 234 votos"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 2.4 LO 3/1981. Será designado quien obtuviese una votación favorable de las TRES QUINTAS PARTES de los miembros del Congreso. Con 350 Diputados: 350 × 3/5 = 210 VOTOS. Posteriormente necesita la ratificación del Senado también por 3/5, o por mayoría absoluta del Senado en las propuestas sucesivas."
+    },
+    {
+      "id": "t04_t35_p09",
+      "pregunta": "Constitución Española, art. 159. El TC se renueva por terceras partes cada 3 años. Con 12 miembros, ¿cuántos se renuevan cada vez?",
+      "opciones": [
+        "a) 3 miembros",
+        "b) 4 miembros",
+        "c) 5 miembros",
+        "d) 6 miembros"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 159.3 CE. 12 miembros ÷ 3 (terceras partes) = 4 MIEMBROS cada vez. Como los mandatos son de 9 años y se renuevan cada 3, en cada renovación se sustituyen 4 de los 12 magistrados. Esto garantiza continuidad y evita cambios bruscos en la composición del Tribunal."
+    },
+    {
+      "id": "t04_t35_p10",
+      "pregunta": "Constitución Española, art. 68. Con 350 Diputados y 50 provincias más Ceuta y Melilla, ¿cuántos Diputados se asignan como mínimo inicial por provincia peninsular e insular?",
+      "opciones": [
+        "a) 1 Diputado por provincia",
+        "b) 2 Diputados por provincia",
+        "c) 3 Diputados por provincia",
+        "d) 4 Diputados por provincia"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 68 CE y LOREG. A cada provincia le corresponde UN MÍNIMO INICIAL DE DOS DIPUTADOS. Ceuta y Melilla tienen 1 cada una. De los 350 totales: 50 provincias × 2 = 100 Diputados de mínimo inicial + 2 (Ceuta y Melilla) = 102 Diputados fijos. Los restantes 248 se distribuyen proporcionalmente por población."
+    },
+    {
+      "id": "t04_t35_p11",
+      "pregunta": "Constitución Española, art. 116. El estado de alarma dura máximo 15 días. Si se prorroga, ¿cuánto puede durar en total con una sola prórroga?",
+      "opciones": [
+        "a) 20 días",
+        "b) 25 días",
+        "c) 30 días",
+        "d) 60 días"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 116.2 CE. El estado de alarma dura MÁXIMO 15 DÍAS. Cada prórroga también puede ser de hasta 15 días (requiere autorización del Congreso). Con una prórroga: 15 + 15 = 30 DÍAS. Pueden encadenarse varias prórrogas con autorización del Congreso (como ocurrió en la pandemia de COVID-19)."
+    },
+    {
+      "id": "t04_t35_p12",
+      "pregunta": "Constitución Española, art. 116. El estado de excepción dura máximo 30 días. Con una prórroga, ¿cuánto puede durar en total?",
+      "opciones": [
+        "a) 45 días",
+        "b) 60 días",
+        "c) 90 días",
+        "d) Indefinidamente con sucesivas prórrogas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 116.3 CE. El estado de excepción tiene una duración que no podrá exceder de 30 días, PRORROGABLES POR OTRO PLAZO IGUAL. Por tanto, con una prórroga: 30 + 30 = 60 DÍAS en total. La Constitución limita a una sola prórroga (otro plazo igual al inicial), a diferencia del estado de alarma."
+    },
+    {
+      "id": "t04_t35_p13",
+      "pregunta": "Constitución Española, art. 87. La iniciativa legislativa popular requiere 500.000 firmas. ¿Qué porcentaje aproximado del censo electoral español de unos 37 millones de electores representa?",
+      "opciones": [
+        "a) Menos del 2%",
+        "b) Aproximadamente el 5%",
+        "c) Exactamente el 10%",
+        "d) El 1% del censo"
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 87.3 CE. 500.000 firmas sobre ~37.000.000 electores: 500.000/37.000.000 = 0,0135... = MENOS DEL 2% (concretamente, aproximadamente el 1,35%). Es un umbral bajo en términos de porcentaje del electorado, pero supone medio millón de firmas verificadas."
+    },
+    {
+      "id": "t04_t35_p14",
+      "pregunta": "Constitución Española, art. 99. El plazo de dos meses para el fracaso de la investidura. ¿Cuántos días naturales son aproximadamente dos meses?",
+      "opciones": [
+        "a) 45 días",
+        "b) 60 días",
+        "c) 90 días",
+        "d) 30 días"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 99.5 CE. El plazo es de DOS MESES desde la primera votación de investidura, que corresponde aproximadamente a 60 DÍAS NATURALES. Si ningún candidato obtiene la confianza en ese plazo, el Rey disolverá ambas Cámaras y convocará nuevas elecciones."
+    },
+    {
+      "id": "t04_t35_p15",
+      "pregunta": "Constitución Española, art. 122. El CGPJ tiene 20 miembros elegidos para 5 años. ¿Cuántos propone el Senado con mayoría de 3/5?",
+      "opciones": [
+        "a) 2 miembros",
+        "b) 4 miembros",
+        "c) 6 miembros",
+        "d) 8 miembros"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 122.3 CE. De los 20 miembros del CGPJ: 12 son Jueces y Magistrados; CUATRO A PROPUESTA DEL CONGRESO (3/5) y CUATRO A PROPUESTA DEL SENADO (3/5). Congreso y Senado proponen el mismo número (4 cada uno), siendo todos ellos abogados o juristas con más de 15 años de ejercicio."
+    },
+    {
+      "id": "t04_t35_p16",
+      "pregunta": "Constitución Española, art. 134. Si los PGE no se aprueban a tiempo, se prorrogan automáticamente. ¿Hasta cuándo?",
+      "opciones": [
+        "a) Hasta el 30 de junio del año siguiente",
+        "b) Hasta la aprobación de los nuevos",
+        "c) Por un período máximo de seis meses",
+        "d) Solo se prorrogan si el Gobierno solicita autorización al Congreso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 134.4 CE. Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior HASTA LA APROBACIÓN DE LOS NUEVOS. No hay límite temporal a esta prórroga automática."
+    },
+    {
+      "id": "t04_t35_p17",
+      "pregunta": "Constitución Española, art. 143. La iniciativa autonómica debe cumplirse en un plazo de 6 meses. Si no prospera, ¿cuántos años hay que esperar para reiterarla?",
+      "opciones": [
+        "a) 2 años",
+        "b) 3 años",
+        "c) 5 años",
+        "d) 10 años"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 143.3 CE. La iniciativa autonómica, EN CASO DE NO PROSPERAR, SOLAMENTE PODRÁ REITERARSE PASADOS CINCO AÑOS. Este período de enfriamiento evita procesos autonómicos repetitivos que generen inestabilidad institucional."
+    },
+    {
+      "id": "t04_t35_p18",
+      "pregunta": "Constitución Española, art. 148. Las CCAA de la 'vía lenta' pueden ampliar competencias. ¿Tras cuántos años?",
+      "opciones": [
+        "a) 2 años",
+        "b) 3 años",
+        "c) 5 años",
+        "d) 10 años"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 148.2 CE. TRANSCURRIDOS CINCO AÑOS, y mediante la reforma de sus Estatutos, las CCAA constituidas por la vía lenta podrán ampliar sucesivamente sus competencias dentro del marco del artículo 149 (competencias exclusivas del Estado). El mismo plazo que para reintentar la iniciativa autonómica fallida (art. 143.3)."
+    },
+    {
+      "id": "t04_t35_p19",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. Las quejas al Defensor deben presentarse en el plazo de 1 año. La Administración tiene 15 días para enviar informe. Las autoridades tienen 1 mes para responder a las recomendaciones. ¿Cuántos días son un mes aproximadamente?",
+      "opciones": [
+        "a) 28 días",
+        "b) 30 días",
+        "c) 30 días naturales (sin distinción de hábiles)",
+        "d) Depende del mes de que se trate"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "LO 3/1981, arts. 18 y 30. El plazo de INFORME ESCRITO de la Administración es de 15 DÍAS. El plazo de RESPUESTA A LAS RECOMENDACIONES del Defensor es de UN MES (aproximadamente 30 DÍAS NATURALES). Los plazos en la LO 3/1981 se computan en días naturales salvo indicación en contrario."
+    },
+    {
+      "id": "t04_t35_p20",
+      "pregunta": "Constitución Española, art. 90. El Senado tiene 2 meses para tramitar proyectos de ley ordinarios. Si se declara urgente, el plazo se reduce a 20 días naturales. ¿Cuántos días naturales son 2 meses aproximadamente?",
+      "opciones": [
+        "a) 30 días",
+        "b) 45 días",
+        "c) 60 días",
+        "d) 90 días"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 90 CE. El plazo ordinario del Senado es de DOS MESES (aproximadamente 60 DÍAS NATURALES). En caso de urgencia, se reduce a 20 DÍAS NATURALES. La diferencia entre el plazo ordinario y el urgente es enorme: el Senado pasa de tener ~60 días a tener solo 20 días para examinar el proyecto."
+    }
+  ]
+}

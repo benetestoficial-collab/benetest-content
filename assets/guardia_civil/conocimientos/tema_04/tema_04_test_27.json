@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_27",
+  "titulo": "Test 27 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t27_p01",
+      "pregunta": "Constitución Española, art. 117. La independencia de los Jueces y Magistrados se garantiza externamente por el principio de separación de poderes e internamente por:",
+      "opciones": [
+        "a) La inamovilidad y el sometimiento al CGPJ",
+        "b) La prohibición de que los propios tribunales superiores corrijan la actuación de los inferiores salvo a través de los recursos legalmente establecidos",
+        "c) La prohibición de cualquier forma de comunicación entre jueces de distintos órdenes",
+        "d) La designación de los jueces por el Parlamento"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117.1 CE. La independencia interna se garantiza no permitiendo intromisiones; así, NI LOS JUECES NI LOS TRIBUNALES SUPERIORES PUEDEN CORREGIR LA ACTUACIÓN DE LOS INFERIORES, A SALVO LOS RECURSOS LEGALMENTE ESTABLECIDOS. Cada juez aplica la ley con plena independencia en su grado."
+    },
+    {
+      "id": "t04_t27_p02",
+      "pregunta": "Constitución Española, art. 117. La responsabilidad penal de los Jueces deriva de:",
+      "opciones": [
+        "a) Cualquier error en sus resoluciones judiciales",
+        "b) El delito de prevaricación, que consiste en dictar a sabiendas una resolución injusta",
+        "c) El incumplimiento de plazos procesales",
+        "d) La discrepancia con la jurisprudencia del Tribunal Supremo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117 CE. La responsabilidad de los Jueces es específicamente PENAL, derivada del DELITO DE PREVARICACIÓN que consiste en DICTAR A SABIENDAS UNA RESOLUCIÓN INJUSTA. Los daños causados por error judicial o funcionamiento anormal de la justicia generan indemnización a cargo del Estado (art. 121 CE)."
+    },
+    {
+      "id": "t04_t27_p03",
+      "pregunta": "Constitución Española, art. 117. Se prohíben los Tribunales de excepción. ¿Afecta esta prohibición a la especialización de Juzgados?",
+      "opciones": [
+        "a) Sí, no pueden existir juzgados especializados de ningún tipo",
+        "b) No, la prohibición de jurisdicciones especiales no impide la especialización de Juzgados y Tribunales",
+        "c) Solo se prohíben los Tribunales creados para juzgar hechos ya cometidos",
+        "d) La prohibición afecta solo a los Tribunales de excepción militares"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117.6 CE. Se prohíben los TRIBUNALES DE EXCEPCIÓN. Sin embargo, la LOPJ permite la ESPECIALIZACIÓN DE JUZGADOS Y TRIBUNALES, que NO ESTÁ PROHIBIDA. Los juzgados especializados conservan su régimen ordinario y se enmarcan en la organización común."
+    },
+    {
+      "id": "t04_t27_p04",
+      "pregunta": "Constitución Española, art. 118. ¿Es obligatorio cumplir las sentencias y resoluciones firmes de los Jueces y Tribunales?",
+      "opciones": [
+        "a) Solo para los particulares, no para la Administración",
+        "b) Es obligado para todos, y también es obligatorio prestar la colaboración requerida por los Jueces en el curso del proceso",
+        "c) Solo para las partes en el proceso",
+        "d) Solo para las Administraciones Públicas, no para los particulares"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 118 CE. Es obligado CUMPLIR LAS SENTENCIAS Y DEMÁS RESOLUCIONES FIRMES DE LOS JUECES Y TRIBUNALES, así como PRESTAR LA COLABORACIÓN REQUERIDA POR ÉSTOS en el curso del proceso y en la ejecución de lo resuelto. Esta obligación se aplica a todos, sin excepción."
+    },
+    {
+      "id": "t04_t27_p05",
+      "pregunta": "Constitución Española, art. 120. Las actuaciones judiciales serán públicas. ¿Puede el procedimiento ser por escrito?",
+      "opciones": [
+        "a) Sí, el procedimiento puede ser predominantemente escrito en todas las materias",
+        "b) El procedimiento será predominantemente oral, sobre todo en materia criminal",
+        "c) Solo los recursos son escritos; los juicios son siempre orales",
+        "d) El procedimiento oral es opcional salvo en materia penal donde es obligatorio"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 120.2 CE. EL PROCEDIMIENTO SERÁ PREDOMINANTEMENTE ORAL, SOBRE TODO EN MATERIA CRIMINAL. 'Predominantemente' significa que puede haber elementos escritos, pero la oralidad es el criterio rector. En materia criminal la oralidad es especialmente relevante."
+    },
+    {
+      "id": "t04_t27_p06",
+      "pregunta": "Constitución Española, art. 122. El CGPJ es el órgano de gobierno del Poder Judicial. ¿Cuántos de sus miembros son propuestos por el Senado?",
+      "opciones": [
+        "a) Dos miembros",
+        "b) Cuatro miembros",
+        "c) Seis miembros",
+        "d) Ocho miembros"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 122.3 CE. Del total de veinte miembros del CGPJ: doce son Jueces y Magistrados; CUATRO A PROPUESTA DEL CONGRESO y CUATRO A PROPUESTA DEL SENADO, elegidos en ambos casos por MAYORÍA DE TRES QUINTOS entre abogados y otros juristas con más de 15 años de ejercicio."
+    },
+    {
+      "id": "t04_t27_p07",
+      "pregunta": "Constitución Española, art. 123. El Tribunal Supremo tiene sede en:",
+      "opciones": [
+        "a) Barcelona",
+        "b) La villa de Madrid",
+        "c) Donde lo determine el CGPJ",
+        "d) La ciudad capital del Estado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 123.1 CE y LOPJ. El Tribunal Supremo, con jurisdicción en toda España, tiene su SEDE EN LA VILLA DE MADRID. Tiene jurisdicción en todo el territorio nacional y es el órgano jurisdiccional superior en todos los órdenes salvo en materia de garantías constitucionales."
+    },
+    {
+      "id": "t04_t27_p08",
+      "pregunta": "Constitución Española, art. 123. ¿Cuántas Salas tiene el Tribunal Supremo?",
+      "opciones": [
+        "a) Tres salas",
+        "b) Cuatro salas",
+        "c) Cinco salas",
+        "d) Seis salas"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 123 CE y LOPJ. El Tribunal Supremo se configura en CINCO SALAS: Sala 1ª de lo CIVIL; Sala 2ª de lo PENAL; Sala 3ª de lo CONTENCIOSO-ADMINISTRATIVO; Sala 4ª de lo SOCIAL; y Sala 5ª de lo MILITAR."
+    },
+    {
+      "id": "t04_t27_p09",
+      "pregunta": "Constitución Española, art. 124. Los principios de actuación del Ministerio Fiscal son cuatro. Señale la opción CORRECTA:",
+      "opciones": [
+        "a) Unidad, legalidad, imparcialidad e independencia",
+        "b) Unidad, legalidad, imparcialidad y dependencia jerárquica",
+        "c) Autonomía, legalidad, imparcialidad y objetividad",
+        "d) Unidad, constitucionalidad, neutralidad e independencia"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 124.2 CE. Los principios de actuación del MF son: UNIDAD (todos actúan como uno), LEGALIDAD (sometimiento pleno a la ley), IMPARCIALIDAD (objetividad, sin interés particular) y DEPENDENCIA JERÁRQUICA (los superiores pueden dar instrucciones a los inferiores). La independencia NO es un principio del MF."
+    },
+    {
+      "id": "t04_t27_p10",
+      "pregunta": "Constitución Española, art. 125. ¿Cuántos Jurados componen el Tribunal del Jurado?",
+      "opciones": [
+        "a) Siete jurados y un magistrado",
+        "b) Nueve jurados y un magistrado",
+        "c) Doce jurados y un magistrado",
+        "d) Once jurados y dos magistrados"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 125 CE y LO del Tribunal del Jurado. El tribunal viene integrado por NUEVE JURADOS y un magistrado integrante de la Audiencia Provincial que lo presidirá. El Jurado emite el veredicto y el magistrado presidente dicta la sentencia."
+    },
+    {
+      "id": "t04_t27_p11",
+      "pregunta": "Constitución Española, art. 128. Mediante ley puede acordarse la intervención de empresas. ¿Cuándo?",
+      "opciones": [
+        "a) Cuando la empresa tenga deudas con la Seguridad Social",
+        "b) Cuando así lo exigiere el interés general",
+        "c) Cuando la empresa tenga más de 500 trabajadores",
+        "d) Cuando el Ministerio de Economía lo considere necesario por decreto"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 128.2 CE. Mediante ley se podrá reservar al sector público recursos o servicios esenciales, especialmente en caso de monopolio, y asimismo ACORDAR LA INTERVENCIÓN DE EMPRESAS CUANDO ASÍ LO EXIGIERE EL INTERÉS GENERAL."
+    },
+    {
+      "id": "t04_t27_p12",
+      "pregunta": "Constitución Española, art. 130. Los poderes públicos atenderán a la modernización de sectores económicos específicos. ¿Cuáles menciona expresamente la Constitución?",
+      "opciones": [
+        "a) La industria, el comercio y los servicios",
+        "b) La agricultura, la ganadería, la pesca y la artesanía",
+        "c) La minería, la energía y la construcción",
+        "d) El turismo, la hostelería y los transportes"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 130.1 CE. Los poderes públicos atenderán a la modernización y desarrollo de todos los sectores económicos y, EN PARTICULAR, DE LA AGRICULTURA, DE LA GANADERÍA, DE LA PESCA Y DE LA ARTESANÍA, a fin de equiparar el nivel de vida de todos los españoles."
+    },
+    {
+      "id": "t04_t27_p13",
+      "pregunta": "Constitución Española, art. 132. Los bienes de dominio público se rigen por los principios de inalienabilidad, imprescriptibilidad e inembargabilidad. ¿Qué significa la imprescriptibilidad?",
+      "opciones": [
+        "a) Que no pueden ser vendidos por el Estado",
+        "b) Que no pueden adquirirse por prescripción, es decir, por el uso continuado en el tiempo",
+        "c) Que no pueden ser objeto de embargo",
+        "d) Que no pueden ser modificados por ley ordinaria"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 132.1 CE. La IMPRESCRIPTIBILIDAD de los bienes de dominio público significa que NO PUEDEN ADQUIRIRSE POR PRESCRIPCIÓN, es decir, que el mero uso o posesión continuada en el tiempo por un particular no puede generar la adquisición de la propiedad de un bien de dominio público."
+    },
+    {
+      "id": "t04_t27_p14",
+      "pregunta": "Constitución Española, art. 133. ¿Pueden las CCAA establecer tributos propios?",
+      "opciones": [
+        "a) No, solo el Estado puede establecer tributos",
+        "b) Sí, las CCAA y las Corporaciones locales podrán establecer y exigir tributos, de acuerdo con la Constitución y las leyes",
+        "c) Solo mediante transferencia del Estado, no con potestad tributaria propia",
+        "d) Solo si así lo prevén sus Estatutos de Autonomía expresamente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 133.2 CE. LAS COMUNIDADES AUTÓNOMAS Y LAS CORPORACIONES LOCALES PODRÁN ESTABLECER Y EXIGIR TRIBUTOS, DE ACUERDO CON LA CONSTITUCIÓN Y LAS LEYES. La potestad originaria (crear tributos ex novo) corresponde exclusivamente al Estado, pero las CCAA y entes locales tienen potestad tributaria derivada."
+    },
+    {
+      "id": "t04_t27_p15",
+      "pregunta": "Constitución Española, art. 134. ¿Puede la Ley de Presupuestos crear un nuevo Ministerio o modificar la estructura del Gobierno?",
+      "opciones": [
+        "a) Sí, puede incluir cualquier disposición que el Gobierno considere necesaria",
+        "b) No, la Ley de Presupuestos tiene un contenido limitado: no puede crear tributos y su función esencial es la autorización del gasto e ingreso",
+        "c) Solo si el Gobierno lo propone como materia urgente",
+        "d) Sí, pero con la aprobación del Senado por mayoría absoluta"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 134 CE. La Ley de Presupuestos tiene un CONTENIDO LIMITADO. No puede crear tributos (art. 134.7 CE). El TC ha establecido jurisprudencia restrictiva sobre el contenido admisible de la LPG, limitándolo a materias con 'relación directa' con los ingresos y gastos del Estado."
+    },
+    {
+      "id": "t04_t27_p16",
+      "pregunta": "Constitución Española, art. 135. Las Entidades Locales deben presentar en materia presupuestaria:",
+      "opciones": [
+        "a) Déficit máximo del 3% según el límite europeo",
+        "b) Equilibrio presupuestario",
+        "c) Superávit mínimo del 1% del PIB local",
+        "d) La misma limitación que las CCAA"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 135.2 CE. Una ley orgánica fijará el déficit estructural máximo permitido al Estado y a las CCAA. LAS ENTIDADES LOCALES DEBERÁN PRESENTAR EQUILIBRIO PRESUPUESTARIO. Esta exigencia es más estricta para los entes locales que para el Estado o las CCAA."
+    },
+    {
+      "id": "t04_t27_p17",
+      "pregunta": "Constitución Española, art. 136. ¿Qué tipo de norma regula la composición, organización y funciones del Tribunal de Cuentas?",
+      "opciones": [
+        "a) Una ley ordinaria",
+        "b) Una ley orgánica",
+        "c) Un reglamento parlamentario",
+        "d) Un decreto del Consejo de Ministros"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 136.4 CE. UNA LEY ORGÁNICA regulará la composición, organización y funciones del Tribunal de Cuentas. El TC es un órgano constitucional cuya regulación requiere el mayor consenso legislativo."
+    },
+    {
+      "id": "t04_t27_p18",
+      "pregunta": "Constitución Española, art. 127. Los Jueces y Magistrados pueden crear asociaciones profesionales. ¿Con qué objetivo?",
+      "opciones": [
+        "a) Para defender sus intereses económicos mediante huelgas",
+        "b) La ley establecerá el sistema y modalidades de asociación profesional de los Jueces, Magistrados y Fiscales",
+        "c) Para afiliarse a partidos políticos de forma indirecta a través de la asociación",
+        "d) Solo para actividades culturales y formativas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 127.1 CE. LA LEY ESTABLECERÁ EL SISTEMA Y MODALIDADES DE ASOCIACIÓN PROFESIONAL DE LOS JUECES, MAGISTRADOS Y FISCALES. Dado que no pueden pertenecer a partidos políticos ni sindicatos, las asociaciones profesionales son el único cauce para defender sus intereses colectivos."
+    },
+    {
+      "id": "t04_t27_p19",
+      "pregunta": "Constitución Española, art. 131. El Gobierno elabora los proyectos de planificación económica asesorado y con la colaboración de sindicatos y otras organizaciones. Para ello se constituirá un Consejo regulado por:",
+      "opciones": [
+        "a) Un reglamento del Consejo de Ministros",
+        "b) Una ley",
+        "c) Un decreto del Presidente del Gobierno",
+        "d) La propia Constitución en el artículo 131"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 131.2 CE. El Gobierno elaborará los proyectos de planificación con el asesoramiento y colaboración de los sindicatos y otras organizaciones profesionales, empresariales y económicas. A tal fin se constituirá un Consejo CUYA COMPOSICIÓN Y FUNCIONES SE DESARROLLARÁN POR LEY."
+    },
+    {
+      "id": "t04_t27_p20",
+      "pregunta": "Constitución Española, art. 124. ¿Ante quién promueve el Ministerio Fiscal la acción de la justicia?",
+      "opciones": [
+        "a) Solo ante el Tribunal Supremo y los Tribunales Superiores de Justicia",
+        "b) Ante los Tribunales, para la satisfacción del interés social",
+        "c) Solo ante los juzgados de primera instancia",
+        "d) Ante el Tribunal Constitucional exclusivamente en materia de derechos fundamentales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 124.1 CE. El MF tiene por misión promover la acción de la justicia, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales y PROCURAR ANTE ÉSTOS LA SATISFACCIÓN DEL INTERÉS SOCIAL. Actúa ante todos los órdenes jurisdiccionales."
+    }
+  ]
+}

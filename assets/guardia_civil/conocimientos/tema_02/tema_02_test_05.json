@@ -1,0 +1,246 @@
+{
+  "id": "tema_02_test_05",
+  "titulo": "Test 5 — Tema 2",
+  "preguntas": [
+    {
+      "id": "t02_t05_p01",
+      "pregunta": "LO 3/2007. El principio de igualdad de trato entre mujeres y hombres supone la ausencia de discriminación por razón de sexo. Este principio se aplica, entre otros, en la afiliación y participación en:",
+      "opciones": [
+        "a) Solo en las organizaciones sindicales.",
+        "b) Las organizaciones sindicales y empresariales, o en cualquier organización cuyos miembros ejerzan una profesión concreta, incluidas las prestaciones concedidas por las mismas.",
+        "c) Solo en las organizaciones empresariales con más de 250 trabajadores.",
+        "d) Únicamente en las organizaciones sindicales de carácter estatal."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 5 LO 3/2007. El principio de igualdad se garantiza también en la afiliación y participación en las ORGANIZACIONES SINDICALES Y EMPRESARIALES, o en cualquier organización cuyos miembros ejerzan una profesión concreta, incluidas las prestaciones concedidas por las mismas."
+    },
+    {
+      "id": "t02_t05_p02",
+      "pregunta": "LO 3/2007. Según el artículo 6, en cualquier caso se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo. Esta previsión incluye:",
+      "opciones": [
+        "a) Solo las órdenes de los empleadores a sus trabajadores.",
+        "b) Cualquier orden de discriminar, con independencia de quién la emita.",
+        "c) Solo las órdenes de las autoridades públicas.",
+        "d) Únicamente las órdenes con efectos jurídicos vinculantes."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 6.3 LO 3/2007. Se considera discriminatoria TODA ORDEN de discriminar, directa o indirectamente, por razón de sexo. No se limita a órdenes de empleadores ni de autoridades públicas, sino que tiene carácter general."
+    },
+    {
+      "id": "t02_t05_p03",
+      "pregunta": "LO 3/2007. El condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará:",
+      "opciones": [
+        "a) Una infracción laboral grave.",
+        "b) Acto de discriminación por razón de sexo.",
+        "c) Una falta disciplinaria leve.",
+        "d) Un acto de competencia desleal."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 7.4 LO 3/2007. El condicionamiento de un DERECHO o de una EXPECTATIVA DE DERECHO a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará también ACTO DE DISCRIMINACIÓN POR RAZÓN DE SEXO."
+    },
+    {
+      "id": "t02_t05_p04",
+      "pregunta": "LO 3/2007. Sólo excepcionalmente, y mediante informe motivado y aprobado por el órgano competente, podrá justificarse el incumplimiento de las obligaciones estadísticas de los poderes públicos en materia de igualdad. Esto está previsto en:",
+      "opciones": [
+        "a) El artículo 17 (Plan Estratégico de Igualdad de Oportunidades).",
+        "b) El artículo 20 (Adecuación de las estadísticas y estudios).",
+        "c) El artículo 15 (Transversalidad del principio de igualdad).",
+        "d) El artículo 19 (Informes de impacto de género)."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 20 LO 3/2007. Según el art. 20, SOLO EXCEPCIONALMENTE y mediante INFORME MOTIVADO Y APROBADO por el órgano competente, podrá justificarse el incumplimiento de alguna de las obligaciones estadísticas establecidas para garantizar la perspectiva de género."
+    },
+    {
+      "id": "t02_t05_p05",
+      "pregunta": "LO 3/2007. Las Entidades Locales integrarán el derecho de igualdad en el ejercicio de sus competencias y colaborarán a tal efecto con:",
+      "opciones": [
+        "a) El Instituto de la Mujer.",
+        "b) El resto de las Administraciones públicas.",
+        "c) Solo con la Administración General del Estado.",
+        "d) Solo con la Comunidad Autónoma correspondiente."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 21.2 LO 3/2007. Las ENTIDADES LOCALES integrarán el derecho de igualdad en el ejercicio de sus competencias y colaborarán, a tal efecto, con el RESTO DE LAS ADMINISTRACIONES PÚBLICAS."
+    },
+    {
+      "id": "t02_t05_p06",
+      "pregunta": "LO 3/2007. Los medios de comunicación social de titularidad pública velarán por la transmisión de una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad y promoverán:",
+      "opciones": [
+        "a) La creación de programas exclusivamente dirigidos a la mujer.",
+        "b) El conocimiento y la difusión del principio de igualdad entre mujeres y hombres.",
+        "c) La adopción de cuotas de participación femenina en todos los programas.",
+        "d) La eliminación de contenidos considerados sexistas por la autoridad audiovisual."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 36 LO 3/2007. Los medios de titularidad pública velarán por una imagen IGUALITARIA, PLURAL Y NO ESTEREOTIPADA y promoverán el CONOCIMIENTO Y LA DIFUSIÓN DEL PRINCIPIO DE IGUALDAD entre mujeres y hombres."
+    },
+    {
+      "id": "t02_t05_p07",
+      "pregunta": "LO 3/2007. La Agencia EFE promoverá la incorporación de las mujeres a puestos de responsabilidad directiva y profesional. En el ejercicio de sus actividades, velará por el respeto del principio de igualdad y especialmente por:",
+      "opciones": [
+        "a) La paridad en su plantilla total.",
+        "b) La utilización no sexista del lenguaje.",
+        "c) La cobertura prioritaria de temas relacionados con la mujer.",
+        "d) La publicación de estadísticas desagregadas por sexo."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 38 LO 3/2007. La Agencia EFE velará por el respeto del principio de igualdad y, EN ESPECIAL, por la UTILIZACIÓN NO SEXISTA DEL LENGUAJE. También perseguirá los mismos objetivos que la RTVE (reflejar la presencia de la mujer, autorregulación, colaborar en campañas de igualdad)."
+    },
+    {
+      "id": "t02_t05_p08",
+      "pregunta": "LO 3/2007. Respecto a los planes de igualdad de empresas, señale cuándo la elaboración e implantación de planes de igualdad será VOLUNTARIA:",
+      "opciones": [
+        "a) Para empresas de 50 o más trabajadores.",
+        "b) Para las demás empresas no obligadas, previa consulta a la representación legal de los trabajadores.",
+        "c) Para todas las empresas del sector público.",
+        "d) Para empresas de entre 25 y 49 trabajadores exclusivamente."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 45.5 LO 3/2007. La elaboración e implantación de planes de igualdad será VOLUNTARIA para las DEMÁS EMPRESAS (las que no tienen obligación legal), previa CONSULTA A LA REPRESENTACIÓN LEGAL de los trabajadores y trabajadoras."
+    },
+    {
+      "id": "t02_t05_p09",
+      "pregunta": "LO 3/2007. Para obtener el distintivo empresarial en materia de igualdad, cualquier empresa, sea de capital público o privado, podrá presentar al Ministerio de Trabajo un balance sobre los parámetros de igualdad implantados respecto a:",
+      "opciones": [
+        "a) Solo las relaciones de trabajo.",
+        "b) Las relaciones de trabajo y la publicidad de los productos y servicios prestados.",
+        "c) Solo la publicidad de sus productos.",
+        "d) Los planes de formación y promoción interna."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 50.2 LO 3/2007. Para obtener el distintivo, cualquier empresa (capital PÚBLICO O PRIVADO) podrá presentar un balance sobre los parámetros de igualdad implantados respecto a las RELACIONES DE TRABAJO y la PUBLICIDAD DE LOS PRODUCTOS Y SERVICIOS prestados."
+    },
+    {
+      "id": "t02_t05_p10",
+      "pregunta": "LO 3/2007. Las Administraciones públicas, entre sus criterios de actuación en materia de igualdad, deberán remover los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación con el fin de ofrecer condiciones de igualdad efectiva en:",
+      "opciones": [
+        "a) Solo el acceso al empleo público.",
+        "b) El acceso al empleo público y el desarrollo de la carrera profesional, sin menoscabo de la promoción profesional.",
+        "c) Solo las condiciones retributivas.",
+        "d) Únicamente en las situaciones de maternidad y paternidad."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 51.a) LO 3/2007. Las Administraciones públicas removerán obstáculos con el fin de ofrecer igualdad efectiva en el ACCESO AL EMPLEO PÚBLICO y en el DESARROLLO DE LA CARRERA PROFESIONAL, sin menoscabo de la PROMOCIÓN PROFESIONAL."
+    },
+    {
+      "id": "t02_t05_p11",
+      "pregunta": "LO 3/2007. El Gobierno atenderá al principio de presencia equilibrada de mujeres y hombres en el nombramiento de las personas titulares de los órganos directivos de la Administración General del Estado, considerados:",
+      "opciones": [
+        "a) Individualmente, puesto por puesto.",
+        "b) En su conjunto, cuya designación le corresponda.",
+        "c) Por ministerio, de forma independiente.",
+        "d) Solo en los cargos de Secretario de Estado y superiores."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 52 LO 3/2007. El Gobierno atenderá al principio de presencia equilibrada en el nombramiento de los titulares de los órganos directivos de la AGE y de los organismos públicos vinculados o dependientes de ella, considerados EN SU CONJUNTO, cuya designación le corresponda."
+    },
+    {
+      "id": "t02_t05_p12",
+      "pregunta": "LO 3/2007. En las convocatorias de cursos de formación para empleados públicos, se otorgará preferencia durante un año a quienes procedan del permiso de maternidad o paternidad. Esta preferencia se aplica en:",
+      "opciones": [
+        "a) La adjudicación de plazas para participar en los cursos de formación.",
+        "b) La promoción interna y los concursos de traslados.",
+        "c) La asignación de complementos de productividad.",
+        "d) Los procesos de selección de nuevos empleados."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 60.1 LO 3/2007. Se otorgará PREFERENCIA, DURANTE UN AÑO, en la ADJUDICACIÓN DE PLAZAS PARA PARTICIPAR EN LOS CURSOS DE FORMACIÓN a quienes se hayan incorporado procedentes del permiso de maternidad o paternidad, o hayan reingresado desde la excedencia por guarda legal o atención a dependientes."
+    },
+    {
+      "id": "t02_t05_p13",
+      "pregunta": "LO 3/2007. La representación de la AGE y de los organismos públicos vinculados en las comisiones de valoración de méritos para la provisión de puestos de trabajo se ajustará al principio de composición equilibrada de ambos sexos. Las excepciones a este principio son:",
+      "opciones": [
+        "a) No se admite ninguna excepción.",
+        "b) Razones fundadas y objetivas, debidamente motivadas.",
+        "c) Cuando la composición sea acordada por convenio colectivo.",
+        "d) Cuando el órgano competente lo determine discrecionalmente."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 53 LO 3/2007. Los tribunales y órganos de selección responden al principio de PRESENCIA equilibrada, SALVO por razones fundadas y objetivas. Las comisiones de valoración de méritos se ajustan al principio de COMPOSICIÓN equilibrada de ambos sexos (distinción importante entre 'presencia' y 'composición')."
+    },
+    {
+      "id": "t02_t05_p14",
+      "pregunta": "LO 3/2007. El Plan para la Igualdad en la Administración General del Estado, aprobado al inicio de cada legislatura, será objeto de negociación y, en su caso, acuerdo con la representación legal de los empleados públicos. Su cumplimiento será evaluado:",
+      "opciones": [
+        "a) Semestralmente por el Ministerio de Igualdad.",
+        "b) Anualmente por el Consejo de Ministros.",
+        "c) Cada dos años por las Cortes Generales.",
+        "d) Al final de cada legislatura por el Gobierno."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 64 LO 3/2007. El cumplimiento del Plan para la Igualdad en la AGE será evaluado ANUALMENTE POR EL CONSEJO DE MINISTROS."
+    },
+    {
+      "id": "t02_t05_p15",
+      "pregunta": "LO 3/2007. Respecto a los factores actuariales, se prohíbe la celebración de contratos de seguros en los que, al considerar el sexo como factor de cálculo, se generen diferencias en primas y prestaciones. Esta prohibición se aplica a:",
+      "opciones": [
+        "a) Solo a los seguros de salud.",
+        "b) Los contratos de seguros o de servicios financieros afines.",
+        "c) Solo a los seguros de vida.",
+        "d) Únicamente a los seguros obligatorios."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 71 LO 3/2007. Se prohíbe la celebración de CONTRATOS DE SEGUROS O DE SERVICIOS FINANCIEROS AFINES en los que, al considerar el sexo como factor de cálculo de primas y prestaciones, se generen diferencias. Esta prohibición es general para todos los tipos de seguro."
+    },
+    {
+      "id": "t02_t05_p16",
+      "pregunta": "LO 3/2007. Las Administraciones públicas promoverán la adopción por parte de los medios de comunicación privados de acuerdos de autorregulación que contribuyan al cumplimiento de la legislación en materia de igualdad, incluyendo:",
+      "opciones": [
+        "a) Solo los contenidos informativos.",
+        "b) Las actividades de venta y publicidad que en aquellos se desarrollen.",
+        "c) Solo los programas de entretenimiento.",
+        "d) Únicamente la publicidad institucional."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 39.2 LO 3/2007. Las Administraciones públicas promoverán acuerdos de autorregulación que contribuyan al cumplimiento de la legislación en materia de igualdad entre mujeres y hombres, INCLUYENDO LAS ACTIVIDADES DE VENTA Y PUBLICIDAD que en aquellos se desarrollen."
+    },
+    {
+      "id": "t02_t05_p17",
+      "pregunta": "LO 3/2007. Cuando el período de vacaciones de quien disfrute del permiso de paternidad coincida con dicho permiso, tendrán derecho a disfrutar las vacaciones en fecha distinta. Este mismo derecho también se reconoce a:",
+      "opciones": [
+        "a) Solo a las trabajadoras embarazadas.",
+        "b) Quienes estén disfrutando del permiso de paternidad.",
+        "c) Solo a quienes disfruten de excedencia por cuidado de hijos.",
+        "d) Únicamente al personal con contrato indefinido."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 59 LO 3/2007. El derecho a disfrutar vacaciones en fecha distinta cuando coincidan con incapacidad temporal por embarazo, parto, lactancia o permiso de maternidad se aplica también a QUIENES ESTÉN DISFRUTANDO DE PERMISO DE PATERNIDAD."
+    },
+    {
+      "id": "t02_t05_p18",
+      "pregunta": "LO 3/2007. Las empresas deberán elaborar y aplicar un plan de igualdad cuando así se establezca en el convenio colectivo que sea aplicable, en los términos previstos en el mismo. Este es uno de los tres supuestos de obligatoriedad además de:",
+      "opciones": [
+        "a) Tener más de 25 trabajadores.",
+        "b) Tener 50 o más trabajadores, y cuando la autoridad laboral hubiera acordado la sustitución de sanciones accesorias por la elaboración del plan.",
+        "c) Pertenecer al sector público.",
+        "d) Estar incluida en el Registro Mercantil con más de cinco años de actividad."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 45 LO 3/2007. Los tres supuestos de obligatoriedad son: empresas con 50 O MÁS TRABAJADORES; cuando así lo establezca el CONVENIO COLECTIVO; y cuando la AUTORIDAD LABORAL hubiera acordado la SUSTITUCIÓN DE SANCIONES ACCESORIAS por la elaboración y aplicación del plan."
+    },
+    {
+      "id": "t02_t05_p19",
+      "pregunta": "LO 3/2007. En el acceso a bienes y servicios, la libertad de contratación incluye la libertad de la persona de elegir a la otra parte contratante, siempre y cuando dicha elección:",
+      "opciones": [
+        "a) No suponga un gasto superior al 10% del valor del contrato.",
+        "b) No venga determinada por su sexo.",
+        "c) Se justifique por razones económicas objetivas.",
+        "d) No afecte a servicios de interés general."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 69.2 LO 3/2007. La libertad de contratación incluye la libertad de elegir a la otra parte contratante, siempre y cuando dicha elección NO VENGA DETERMINADA POR SU SEXO."
+    },
+    {
+      "id": "t02_t05_p20",
+      "pregunta": "LO 3/2007. Las Unidades de Igualdad de los Ministerios tienen entre sus funciones recabar la información estadística elaborada por los órganos del Ministerio y asesorar a los mismos en relación con su elaboración. Esto está previsto en el artículo:",
+      "opciones": [
+        "a) Art. 63 LO 3/2007.",
+        "b) Art. 77 LO 3/2007.",
+        "c) Art. 76 LO 3/2007.",
+        "d) Art. 78 LO 3/2007."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 77 LO 3/2007. Las UNIDADES DE IGUALDAD están reguladas en el art. 77. Entre sus funciones: recabar información estadística, elaborar estudios, asesorar en informes de impacto de género, fomentar el conocimiento del principio de igualdad y velar por el cumplimiento de la Ley."
+    }
+  ]
+}

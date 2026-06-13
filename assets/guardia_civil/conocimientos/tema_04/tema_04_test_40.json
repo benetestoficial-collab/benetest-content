@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_40",
+  "titulo": "Test 40 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t40_p01",
+      "pregunta": "Constitución Española, art. 1. España se constituye en un Estado social y democrático de Derecho. ¿Cuál de los tres caracteres implica la intervención del Estado para lograr igualdad real?",
+      "opciones": [
+        "a) Estado de Derecho",
+        "b) Estado social",
+        "c) Estado democrático",
+        "d) Los tres por igual"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 1.1 CE. El ESTADO SOCIAL implica que el Estado interviene en la sociedad para poder proporcionar una IGUALDAD REAL para todos los ciudadanos, además de sus derechos sociales. El Estado de Derecho garantiza la libertad e igualdad formal; el Estado democrático garantiza la participación popular."
+    },
+    {
+      "id": "t04_t40_p02",
+      "pregunta": "Constitución Española, art. 9. ¿Cuántos principios garantiza el artículo 9.3 de la Constitución?",
+      "opciones": [
+        "a) Cinco principios",
+        "b) Seis principios",
+        "c) Siete principios",
+        "d) Ocho principios"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 9.3 CE. El artículo 9.3 garantiza SIETE principios: 1) legalidad; 2) jerarquía normativa; 3) publicidad de las normas; 4) irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales; 5) seguridad jurídica; 6) responsabilidad; 7) interdicción de la arbitrariedad de los poderes públicos."
+    },
+    {
+      "id": "t04_t40_p03",
+      "pregunta": "Constitución Española, art. 14. El artículo 14 establece la igualdad ante la ley. ¿Para quiénes?",
+      "opciones": [
+        "a) Para todos los seres humanos residentes en España",
+        "b) Para los españoles",
+        "c) Para los ciudadanos europeos residentes en España",
+        "d) Para todos los residentes legales en España"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 14 CE. LOS ESPAÑOLES son iguales ante la ley, sin que pueda prevalecer discriminación alguna. El sujeto del artículo 14 son los 'ESPAÑOLES', no todos los residentes. Esto no significa que los extranjeros carezcan de igualdad, sino que este artículo específicamente se refiere a los españoles en su relación con el ordenamiento jurídico español."
+    },
+    {
+      "id": "t04_t40_p04",
+      "pregunta": "Constitución Española, art. 27. ¿Quiénes intervienen en el control y gestión de los centros sostenidos con fondos públicos?",
+      "opciones": [
+        "a) Solo el Consejo Escolar del Centro",
+        "b) Los profesores, los padres y, en su caso, los alumnos",
+        "c) Solo los profesores y el equipo directivo",
+        "d) Los profesores, los padres, los alumnos y el Ayuntamiento"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 27.7 CE. LOS PROFESORES, LOS PADRES Y, EN SU CASO, LOS ALUMNOS intervendrán en el control y gestión de todos los centros sostenidos por la Administración con fondos públicos, en los términos que la ley establezca. Los alumnos solo en 'su caso', según lo que establezca la ley."
+    },
+    {
+      "id": "t04_t40_p05",
+      "pregunta": "Constitución Española, art. 56. El Rey ejerce 'las funciones que le atribuyen expresamente la Constitución y las leyes'. ¿Es una monarquía de prerrogativas o de funciones tasadas?",
+      "opciones": [
+        "a) De prerrogativas amplias: el Rey puede hacer todo lo que no esté prohibido",
+        "b) De funciones tasadas: el Rey solo puede ejercer las funciones expresamente atribuidas",
+        "c) Mixta: prerrogativas en política exterior y funciones tasadas en política interior",
+        "d) Discrecional: el Rey decide qué funciones ejercer en cada momento"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 56.1 CE. El Rey ejerce 'LAS FUNCIONES QUE LE ATRIBUYEN EXPRESAMENTE LA CONSTITUCIÓN Y LAS LEYES'. Es por tanto una MONARQUÍA DE FUNCIONES TASADAS, no de prerrogativas. El Rey no puede ejercer otras funciones que las expresamente atribuidas, a diferencia de los ciudadanos (art. 9.3) que pueden hacer todo lo no prohibido."
+    },
+    {
+      "id": "t04_t40_p06",
+      "pregunta": "Constitución Española, art. 66. Las Cortes Generales tienen estructura bicameral. ¿Cuántas funciones principales ejercen según el artículo 66.2?",
+      "opciones": [
+        "a) Dos: legislativa y presupuestaria",
+        "b) Tres: legislativa, presupuestaria y control del Gobierno",
+        "c) Cuatro: las tres anteriores más las que les atribuya la Constitución",
+        "d) Cinco, incluyendo la constituyente"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 66.2 CE. Las Cortes Generales: 1) EJERCEN LA POTESTAD LEGISLATIVA del Estado; 2) APRUEBAN SUS PRESUPUESTOS; 3) CONTROLAN LA ACCIÓN DEL GOBIERNO; 4) TIENEN LAS DEMÁS COMPETENCIAS QUE LES ATRIBUYA LA CONSTITUCIÓN. Son cuatro funciones expresamente enumeradas."
+    },
+    {
+      "id": "t04_t40_p07",
+      "pregunta": "Constitución Española, art. 78. Cuando las Cámaras están en período de sesiones ordinarias, ¿siguen existiendo las Diputaciones Permanentes?",
+      "opciones": [
+        "a) No, se disuelven durante el período ordinario",
+        "b) Sí, aunque en período de sesiones están inactivas; se activan al expirar el mandato o disolverse las Cámaras",
+        "c) Solo las preside el Presidente de la Cámara durante el período ordinario",
+        "d) Se transforman en Comisiones ordinarias durante el período de sesiones"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 78 CE. Las Diputaciones Permanentes existen de forma permanente durante toda la legislatura. En PERÍODO ORDINARIO están activas pero con escasa actividad. Su función principal se activa cuando las Cámaras no están reunidas, se han disuelto o ha expirado su mandato."
+    },
+    {
+      "id": "t04_t40_p08",
+      "pregunta": "Constitución Española, art. 97. El Gobierno ejerce la potestad reglamentaria. ¿Puede una norma reglamentaria contradecir una ley?",
+      "opciones": [
+        "a) Sí, si el Gobierno lo considera necesario por razones de urgencia",
+        "b) No, los reglamentos son normas de rango inferior a la ley y siempre sometidas al superior imperio de la ley",
+        "c) Solo pueden contradecirla los Decretos-leyes, no los reglamentos ordinarios",
+        "d) Pueden hacerlo si la ley expresamente lo autoriza"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 97 CE. Los reglamentos son NORMAS DE RANGO INFERIOR A LA LEY y SIEMPRE SOMETIDAS AL SUPERIOR IMPERIO DE LA LEY. Un reglamento que contradiga una ley es ilegal y puede ser impugnado ante la jurisdicción contencioso-administrativa. El principio de jerarquía normativa (art. 9.3) lo prohíbe."
+    },
+    {
+      "id": "t04_t40_p09",
+      "pregunta": "Constitución Española, art. 116. ¿Cuál de los tres estados constitucionales puede declararse en más materias o situaciones: alarma, excepción o sitio?",
+      "opciones": [
+        "a) El estado de alarma (por catástrofes, crisis sanitarias, desabastecimiento, huelgas)",
+        "b) El estado de excepción (por alteración grave del libre ejercicio de derechos, instituciones o servicios)",
+        "c) El estado de sitio (por insurrección o acto de fuerza contra la soberanía, integridad territorial u ordenamiento constitucional)",
+        "d) Los tres tienen el mismo ámbito de aplicación"
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 116 CE y LO 4/1981. El ESTADO DE ALARMA puede declararse por catástrofes, calamidades, crisis sanitarias, desabastecimiento Y PARALIZACIÓN POR HUELGAS de servicios esenciales. El de excepción, por grave alteración del orden público. El de sitio, solo por insurrección o acto de fuerza contra el orden constitucional. El alarma tiene el supuesto más amplio."
+    },
+    {
+      "id": "t04_t40_p10",
+      "pregunta": "Constitución Española, art. 136. ¿El Tribunal de Cuentas tiene competencias jurisdiccionales propias?",
+      "opciones": [
+        "a) No, es puramente fiscalizador sin competencias jurisdiccionales",
+        "b) Sí, sin perjuicio de su propia jurisdicción, remite informes a las Cortes",
+        "c) Solo tiene competencias consultivas",
+        "d) Sus funciones son exclusivamente administrativas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 136.2 CE. El Tribunal de Cuentas, SIN PERJUICIO DE SU PROPIA JURISDICCIÓN, remitirá a las Cortes Generales un informe anual. El TC tiene, pues, competencias tanto FISCALIZADORAS (supervisión de cuentas) como JURISDICCIONALES (enjuiciamiento de la responsabilidad contable de quienes tienen a su cargo fondos públicos)."
+    },
+    {
+      "id": "t04_t40_p11",
+      "pregunta": "Constitución Española, art. 145. ¿Pueden las CCAA federarse entre sí?",
+      "opciones": [
+        "a) Sí, con autorización de las Cortes por mayoría de dos tercios",
+        "b) No, en ningún caso se admitirá la federación de Comunidades Autónomas",
+        "c) Solo si son CCAA limítrofes con problemas comunes",
+        "d) Solo en materias de competencia exclusiva de las CCAA afectadas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 145.1 CE. EN NINGÚN CASO SE ADMITIRÁ LA FEDERACIÓN DE COMUNIDADES AUTÓNOMAS. Esta prohibición es taxativa y sin excepciones. Sí pueden celebrarse CONVENIOS (para gestión y prestación de servicios propios) o ACUERDOS DE COOPERACIÓN (con autorización de las Cortes), pero no una federación."
+    },
+    {
+      "id": "t04_t40_p12",
+      "pregunta": "Constitución Española, art. 161. ¿Cuándo tiene efectos retroactivos una sentencia del TC que declara inconstitucional una ley?",
+      "opciones": [
+        "a) Siempre tiene efectos retroactivos a la fecha de entrada en vigor de la ley",
+        "b) Nunca tiene efectos retroactivos",
+        "c) Los que el TC determine en su sentencia, que suele excluir los efectos sobre situaciones consolidadas (cosa juzgada)",
+        "d) Solo tiene efectos para los litigios pendientes en el momento de la sentencia"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 164.1 CE y LOTC. La CE dice que 'la declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia, AFECTARÁ A ESTA, SI BIEN la sentencia o sentencias recaídas NO PERDERÁN EL VALOR DE COSA JUZGADA'. La retroactividad depende de lo que establezca el fallo; las situaciones consolidadas y la cosa juzgada quedan protegidas."
+    },
+    {
+      "id": "t04_t40_p13",
+      "pregunta": "Constitución Española, art. 167. ¿Puede una sola Cámara reformar la Constitución?",
+      "opciones": [
+        "a) Sí, si hay urgencia declarada",
+        "b) No, siempre se requiere la aprobación de AMBAS CÁMARAS (con distintas posibilidades para superar el desacuerdo)",
+        "c) Solo el Congreso en el procedimiento agravado",
+        "d) El Congreso puede hacerlo solo si el Senado no se pronuncia en el plazo previsto"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 167 y 168 CE. SIEMPRE SE REQUIERE LA APROBACIÓN DE AMBAS CÁMARAS para reformar la Constitución. En el procedimiento ordinario (art. 167), si no hay acuerdo de 3/5, hay mecanismos de solución de discrepancias, pero el Senado siempre interviene. En el agravado (art. 168), ambas Cámaras deben aprobar por 2/3."
+    },
+    {
+      "id": "t04_t40_p14",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo investigar actuaciones de la Administración que ya han sido objeto de sentencia judicial firme?",
+      "opciones": [
+        "a) Sí, puede investigar libremente aunque haya sentencia firme",
+        "b) No entrará en el examen individual de quejas sobre las que esté pendiente resolución judicial, y lo suspenderá si se interpone recurso; respecto a sentencias firmes, velará por que la Administración las ejecute",
+        "c) Solo puede investigar actos anteriores a la sentencia, no la ejecución",
+        "d) Puede revisar la sentencia si considera que fue injusta"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 17.2 LO 3/1981. El Defensor NO ENTRA EN EL EXAMEN INDIVIDUAL cuando hay resolución judicial pendiente. En cualquier caso VELARÁ POR QUE LA ADMINISTRACIÓN RESUELVA EXPRESAMENTE, EN TIEMPO Y FORMA, las peticiones y recursos que le hayan sido formulados, lo que incluye vigilar la ejecución de sentencias."
+    },
+    {
+      "id": "t04_t40_p15",
+      "pregunta": "Constitución Española, art. 10. Los tratados de derechos humanos ratificados por España sirven como canon de interpretación de los derechos constitucionales. ¿Tienen rango constitucional?",
+      "opciones": [
+        "a) Sí, tienen el mismo rango que la Constitución",
+        "b) No, sirven como canon interpretativo pero no tienen rango constitucional; están integrados en el ordenamiento con el rango que les corresponda según el tipo de tratado",
+        "c) Solo el Convenio Europeo de Derechos Humanos tiene rango constitucional",
+        "d) Todos los tratados de derechos humanos tienen rango superior a la ley ordinaria y rango constitucional"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 10.2 CE. Los tratados de derechos humanos sirven como CANON INTERPRETATIVO de los derechos constitucionales, NO COMO NORMAS DE RANGO CONSTITUCIONAL. Su valor está en orientar la interpretación de los derechos, no en prevalecer sobre la Constitución o en integrar el bloque de constitucionalidad."
+    },
+    {
+      "id": "t04_t40_p16",
+      "pregunta": "Constitución Española. En la estructura constitucional, ¿cuántas Disposiciones adicionales tiene la Constitución?",
+      "opciones": [
+        "a) 2 Disposiciones adicionales",
+        "b) 4 Disposiciones adicionales",
+        "c) 6 Disposiciones adicionales",
+        "d) 9 Disposiciones adicionales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Constitución Española. La CE se estructura en 169 artículos, Preámbulo, Título Preliminar y diez Títulos, más: 4 DISPOSICIONES ADICIONALES, 9 Disposiciones transitorias, 1 Disposición derogatoria y 1 Disposición final. Dato exacto que puede aparecer en el examen."
+    },
+    {
+      "id": "t04_t40_p17",
+      "pregunta": "Constitución Española, art. 35. La ley regulará un estatuto de los trabajadores. ¿En qué apartado del artículo 35 se recoge?",
+      "opciones": [
+        "a) Artículo 35.1",
+        "b) Artículo 35.2",
+        "c) Se recoge en el artículo 37, no en el 35",
+        "d) Se recoge en el artículo 37.1"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 35.2 CE. 'LA LEY REGULARÁ UN ESTATUTO DE LOS TRABAJADORES'. Este mandato constitucional es la base del Estatuto de los Trabajadores (actualmente regulado por el Real Decreto Legislativo 2/2015). Se recoge específicamente en el APARTADO 2 del artículo 35."
+    },
+    {
+      "id": "t04_t40_p18",
+      "pregunta": "Constitución Española, art. 53. El sistema de garantías constitucionales es gradual. ¿Qué artículos tienen la protección más débil?",
+      "opciones": [
+        "a) Los artículos 15-29 (derechos fundamentales)",
+        "b) Los artículos 39-52 (principios rectores)",
+        "c) El artículo 14 (igualdad)",
+        "d) Los artículos 30-38 (derechos de los ciudadanos)"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 53.3 CE. Los PRINCIPIOS RECTORES (arts. 39-52) tienen la protección más débil: SOLO PUEDEN SER ALEGADOS ante la jurisdicción ordinaria DE ACUERDO CON LAS LEYES QUE LOS DESARROLLEN. No tienen amparo constitucional directo ni procedimiento preferente y sumario. Son mandatos al legislador, no derechos directamente exigibles."
+    },
+    {
+      "id": "t04_t40_p19",
+      "pregunta": "Constitución Española. ¿Cuántos títulos tiene la Constitución Española de 1978?",
+      "opciones": [
+        "a) Ocho títulos",
+        "b) Nueve títulos",
+        "c) Diez títulos",
+        "d) Once títulos"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Constitución Española. La CE tiene DIEZ TÍTULOS: Título Preliminar (arts. 1-9), y los Títulos I al X: I (derechos), II (Corona), III (Cortes), IV (Gobierno), V (relaciones Gobierno-Cortes), VI (Poder Judicial), VII (Economía), VIII (Organización Territorial), IX (TC) y X (Reforma constitucional)."
+    },
+    {
+      "id": "t04_t40_p20",
+      "pregunta": "Constitución Española, art. 1. El constitucionalismo español de 1978 supuso el paso de un Estado autoritario a un Estado social y democrático de Derecho. ¿Qué texto normativo hizo posible la transición constitucional?",
+      "opciones": [
+        "a) El Decreto-ley de Reforma Política de 1976",
+        "b) La Ley para la Reforma Política de 1976, que permitió la iniciativa constitucional del Congreso elegido en junio de 1977",
+        "c) El Decreto de Amnistía de 1977",
+        "d) Los Pactos de la Moncloa de 1977"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Constitución Española (Introducción). LA LEY PARA LA REFORMA POLÍTICA DE 1976 fue el instrumento jurídico que hizo posible la transición democrática: tras las elecciones del 15 de junio de 1977, el Congreso de los Diputados EJERCIÓ LA INICIATIVA CONSTITUCIONAL RECOGIDA EN ESTA LEY, aprobando una moción que creó la Comisión Constitucional."
+    }
+  ]
+}

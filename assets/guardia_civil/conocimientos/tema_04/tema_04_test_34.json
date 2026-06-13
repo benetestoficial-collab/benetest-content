@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_34",
+  "titulo": "Test 34 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t34_p01",
+      "pregunta": "Constitución Española. El referéndum de aprobación de la Constitución se celebró el:",
+      "opciones": [
+        "a) 5 de octubre de 1978",
+        "b) 31 de octubre de 1978",
+        "c) 6 de diciembre de 1978",
+        "d) 27 de diciembre de 1978"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Constitución Española. El referéndum mediante el que el pueblo español ratificó la Constitución se celebró el 6 DE DICIEMBRE DE 1978. El 27 de diciembre fue la sanción por el Rey. El 29 de diciembre fue la publicación en el BOE y la entrada en vigor."
+    },
+    {
+      "id": "t04_t34_p02",
+      "pregunta": "Constitución Española. ¿Qué reforma constitucional fue la primera en producirse?",
+      "opciones": [
+        "a) Reforma del artículo 49 (personas con discapacidad, 2024)",
+        "b) Reforma del artículo 135 (estabilidad presupuestaria, 2011)",
+        "c) Reforma del artículo 13.2 (sufragio de extranjeros en elecciones municipales, 1992)",
+        "d) Reforma del artículo 57 (sucesión a la Corona)"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Constitución Española. La PRIMERA REFORMA fue la del ARTÍCULO 13.2, publicada en el BOE número 207 del 28 de agosto de 1992. Añadió la expresión 'y pasivo' referida al sufragio de extranjeros en elecciones municipales, para adaptar la CE al Tratado de Maastricht."
+    },
+    {
+      "id": "t04_t34_p03",
+      "pregunta": "Constitución Española, art. 1. Los valores superiores del ordenamiento jurídico español son cuatro. ¿Cuáles?",
+      "opciones": [
+        "a) Libertad, justicia, igualdad y solidaridad",
+        "b) Libertad, justicia, igualdad y pluralismo político",
+        "c) Libertad, democracia, igualdad y pluralismo político",
+        "d) Libertad, justicia, fraternidad y pluralismo político"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 1.1 CE. Los valores superiores del ordenamiento jurídico son: la LIBERTAD, la JUSTICIA, la IGUALDAD y el PLURALISMO POLÍTICO. No es solidaridad (art. 2), ni democracia, ni fraternidad. Solo estos cuatro exactamente."
+    },
+    {
+      "id": "t04_t34_p04",
+      "pregunta": "Constitución Española, art. 17. Toda persona detenida debe ser informada de forma inmediata y de modo que le sea comprensible de sus derechos y de las razones de su detención. ¿Puede ser obligada a declarar?",
+      "opciones": [
+        "a) Sí, puede ser obligada a declarar ante el juez",
+        "b) No, no pudiendo ser obligada a declarar",
+        "c) Solo puede negarse a declarar si dispone de abogado",
+        "d) Solo puede negarse a declarar ante la policía, no ante el juez"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 17.3 CE. Toda persona detenida debe ser informada de sus derechos y de las razones de su detención, NO PUDIENDO SER OBLIGADA A DECLARAR. Se garantiza la asistencia de abogado al detenido en las diligencias policiales y judiciales. Este derecho no puede suspenderse ni siquiera en estado de excepción (art. 55.1 CE)."
+    },
+    {
+      "id": "t04_t34_p05",
+      "pregunta": "Constitución Española, art. 20. ¿Cuáles son los cuatro derechos reconocidos y protegidos en el artículo 20.1?",
+      "opciones": [
+        "a) Expresión, información, cátedra y producción artística",
+        "b) Expresión, producción artística, cátedra e información veraz",
+        "c) Expresión, información veraz, honor y propia imagen",
+        "d) Pensamiento, expresión, información y cátedra"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 20.1 CE. Los cuatro derechos reconocidos son: a) A EXPRESAR y difundir libremente los pensamientos; b) A la PRODUCCIÓN Y CREACIÓN LITERARIA, ARTÍSTICA, CIENTÍFICA Y TÉCNICA; c) A la LIBERTAD DE CÁTEDRA; d) A COMUNICAR O RECIBIR LIBREMENTE INFORMACIÓN VERAZ. Los derechos al honor e imagen son límites (art. 20.4), no derechos del art. 20."
+    },
+    {
+      "id": "t04_t34_p06",
+      "pregunta": "Constitución Española, art. 57. ¿Cuál es el título que recibe el Príncipe heredero?",
+      "opciones": [
+        "a) Príncipe de España",
+        "b) Príncipe de Asturias",
+        "c) Príncipe Real",
+        "d) Infante de España"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 57.2 CE. El Príncipe heredero tendrá la dignidad de PRÍNCIPE DE ASTURIAS y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España. Recibirá el tratamiento de Alteza Real."
+    },
+    {
+      "id": "t04_t34_p07",
+      "pregunta": "Constitución Española, art. 59. La Regencia dativa se compone de una, tres o cinco personas. ¿Quién la nombra?",
+      "opciones": [
+        "a) El Gobierno mediante decreto",
+        "b) Las Cortes Generales",
+        "c) El Tribunal Constitucional",
+        "d) El Consejo de Estado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 59.3 CE. Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por LAS CORTES GENERALES, y se compondrá de una, tres o cinco personas. Para ejercerla es preciso ser español y mayor de edad."
+    },
+    {
+      "id": "t04_t34_p08",
+      "pregunta": "Constitución Española, art. 62. ¿Cuál de estas NO es una función del Rey según el artículo 62?",
+      "opciones": [
+        "a) Sancionar y promulgar las leyes",
+        "b) El mando supremo de las Fuerzas Armadas",
+        "c) Ejercer el derecho de gracia",
+        "d) Presidir el Consejo de Ministros de forma ordinaria y permanente"
+      ],
+      "correcta": 3,
+      "retroalimentacion": "Art. 62.g) CE. El Rey puede PRESIDIR las sesiones del Consejo de Ministros CUANDO LO ESTIME OPORTUNO, A PETICIÓN DEL PRESIDENTE DEL GOBIERNO. No es una presidencia ordinaria y permanente. La presidencia habitual del Consejo de Ministros corresponde al Presidente del Gobierno."
+    },
+    {
+      "id": "t04_t34_p09",
+      "pregunta": "Constitución Española, art. 68. La LOREG fija el número de Diputados en 350. ¿Cuántos escaños tienen Ceuta y Melilla?",
+      "opciones": [
+        "a) Uno cada una, total 2",
+        "b) Dos cada una, total 4",
+        "c) Tres cada una, total 6",
+        "d) Ninguno; solo eligen Senadores"
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 68.2 CE y LOREG. Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por UN DIPUTADO. De los 350 Diputados: 2 son de Ceuta y Melilla (1 cada una), 248 se distribuyen proporcionalmente por población y 100 son el mínimo inicial de 2 por cada una de las 50 provincias."
+    },
+    {
+      "id": "t04_t34_p10",
+      "pregunta": "Constitución Española, art. 69. ¿Cuántos Senadores elige la ciudad de Melilla?",
+      "opciones": [
+        "a) Uno",
+        "b) Dos",
+        "c) Cuatro",
+        "d) Tres"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 69.4 CE. Las poblaciones de Ceuta y Melilla elegirán cada una de ellas DOS SENADORES. Contraste: para el Congreso eligen UN DIPUTADO cada una (art. 68.2). En el Senado, Ceuta y Melilla tienen mayor representación relativa que en el Congreso."
+    },
+    {
+      "id": "t04_t34_p11",
+      "pregunta": "Constitución Española, art. 81. Las leyes orgánicas regulan determinadas materias. ¿Con qué mayoría se aprueban?",
+      "opciones": [
+        "a) Mayoría simple del Congreso",
+        "b) Mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto",
+        "c) Mayoría de dos tercios del Congreso y mayoría simple del Senado",
+        "d) Mayoría absoluta de ambas Cámaras"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 81.2 CE. La aprobación, modificación o derogación de las leyes orgánicas exigirá MAYORÍA ABSOLUTA DEL CONGRESO, EN UNA VOTACIÓN FINAL SOBRE EL CONJUNTO DEL PROYECTO. El Senado vota con su trámite ordinario (puede introducir enmiendas o veto que el Congreso puede superar)."
+    },
+    {
+      "id": "t04_t34_p12",
+      "pregunta": "Constitución Española, art. 97. El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Además ejerce la función ejecutiva y la potestad reglamentaria. ¿Qué órgano colegiado es el Gobierno?",
+      "opciones": [
+        "a) El Consejo de Estado",
+        "b) El Consejo de Ministros",
+        "c) El Consejo de Seguridad Nacional",
+        "d) Las Cortes Generales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 97 CE. El GOBIERNO dirige la política del Estado. El CONSEJO DE MINISTROS es el órgano colegiado que materializa el Gobierno en sus decisiones colectivas. El art. 88 CE dice que 'los proyectos de ley serán aprobados en Consejo de Ministros'. Son en la práctica la misma institución en su vertiente colegial."
+    },
+    {
+      "id": "t04_t34_p13",
+      "pregunta": "Constitución Española, art. 107. El Consejo de Estado es el supremo órgano consultivo del Gobierno. ¿Qué ley regula su composición y competencia?",
+      "opciones": [
+        "a) Una ley ordinaria",
+        "b) Una ley orgánica",
+        "c) El Reglamento del Consejo de Estado aprobado por decreto",
+        "d) Un decreto legislativo del Gobierno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 107 CE. UNA LEY ORGÁNICA regulará la composición y competencia del Consejo de Estado. Es la LO 3/1980, de 22 de abril, del Consejo de Estado. La exigencia de ley orgánica refleja la importancia constitucional de este órgano."
+    },
+    {
+      "id": "t04_t34_p14",
+      "pregunta": "Constitución Española, art. 113. La moción de censura debe incluir un candidato alternativo. ¿Por qué se llama 'constructiva'?",
+      "opciones": [
+        "a) Porque propone medidas constructivas para el país",
+        "b) Porque al incluir un candidato, derroca al Presidente y automáticamente designa al sucesor, construyendo una nueva mayoría gubernamental",
+        "c) Porque requiere el apoyo constructivo de todos los grupos parlamentarios",
+        "d) Porque se aprueba en sesión especial de construcción de consensos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 113 CE. Se llama 'constructiva' porque AL INCLUIR UN CANDIDATO ALTERNATIVO, si se aprueba, no solo DERROCA AL GOBIERNO ACTUAL sino que AUTOMÁTICAMENTE DESIGNA AL NUEVO PRESIDENTE. Así se garantiza que la moción no crea un vacío de poder, sino que construye una nueva mayoría de gobierno."
+    },
+    {
+      "id": "t04_t34_p15",
+      "pregunta": "Constitución Española, art. 116. El estado de sitio es declarado por el Congreso a propuesta del Gobierno. ¿Puede el Congreso disolverse mientras está declarado el estado de sitio?",
+      "opciones": [
+        "a) Sí, el Presidente puede disolver el Congreso siempre",
+        "b) No, no podrá procederse a la disolución del Congreso mientras estén declarados alguno de estos estados",
+        "c) Solo si lo aprueba el propio Congreso por mayoría absoluta",
+        "d) Solo puede disolverse el Senado, no el Congreso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 116.5 CE. NO PODRÁ PROCEDERSE A LA DISOLUCIÓN DEL CONGRESO MIENTRAS ESTÉN DECLARADOS ALGUNOS DE LOS ESTADOS COMPRENDIDOS EN EL ARTÍCULO 116. Además, si el Congreso estuviere disuelto, sus competencias serán asumidas por la Diputación Permanente."
+    },
+    {
+      "id": "t04_t34_p16",
+      "pregunta": "Constitución Española, art. 122. ¿Cuántos miembros del CGPJ son Jueces y Magistrados de carrera?",
+      "opciones": [
+        "a) Ocho",
+        "b) Diez",
+        "c) Doce",
+        "d) Catorce"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 122.3 CE. De los veinte miembros del CGPJ: DOCE SON JUECES Y MAGISTRADOS de todas las categorías judiciales; cuatro son juristas propuestos por el Congreso y cuatro son juristas propuestos por el Senado. Los doce jueces son propuestos por las propias asociaciones judiciales."
+    },
+    {
+      "id": "t04_t34_p17",
+      "pregunta": "Constitución Española, art. 148. ¿Cuántas materias lista el artículo 148 como competencias que pueden asumir las CCAA?",
+      "opciones": [
+        "a) 18 materias",
+        "b) 20 materias",
+        "c) 22 materias",
+        "d) 32 materias"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 148.1 CE. El artículo 148 contiene un listado de 22 MATERIAS que las Comunidades Autónomas PUEDEN ASUMIR como competencias propias (son potestativas, no obligatorias). El artículo 149, en cambio, lista las COMPETENCIAS EXCLUSIVAS DEL ESTADO (32 materias en su apartado 1)."
+    },
+    {
+      "id": "t04_t34_p18",
+      "pregunta": "Constitución Española, art. 149. ¿Cuántas materias de competencia exclusiva del Estado lista el artículo 149.1?",
+      "opciones": [
+        "a) 22 materias",
+        "b) 28 materias",
+        "c) 32 materias",
+        "d) 38 materias"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 149.1 CE. El artículo 149.1 lista 32 MATERIAS DE COMPETENCIA EXCLUSIVA DEL ESTADO, numeradas del 1ª al 32ª. Estas son las que solo pueden ser reguladas por el Estado; las CCAA no pueden asumir competencias en estas materias (salvo lo que se les transfiera o delegue)."
+    },
+    {
+      "id": "t04_t34_p19",
+      "pregunta": "Constitución Española, art. 161. El TC tiene jurisdicción en todo el territorio español. ¿Cuántas salas tiene?",
+      "opciones": [
+        "a) Tres salas",
+        "b) Dos salas",
+        "c) Cuatro salas",
+        "d) Una sola sala"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 159 CE y LOTC. El TC consta de DOS SALAS compuestas por 6 magistrados cada una, nombrados por el Tribunal en pleno. La primera sala será presidida por el Presidente del TC y la segunda por el Vicepresidente. El Pleno y las salas constituirán secciones compuestas por el presidente y dos magistrados (actualmente 4 secciones)."
+    },
+    {
+      "id": "t04_t34_p20",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo dejar de actuar porque las Cortes no estén en período de sesiones?",
+      "opciones": [
+        "a) Sí, su actividad queda en suspenso durante los períodos no sesionales",
+        "b) No, su actividad no se interrumpe cuando las Cortes no se encuentren reunidas; se dirige a las Diputaciones Permanentes",
+        "c) Solo puede seguir actuando si las Diputaciones Permanentes lo autorizan",
+        "d) Solo puede actuar en los casos urgentes cuando las Cortes no están reunidas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 11 LO 3/1981. LA ACTIVIDAD DEL DEFENSOR DEL PUEBLO NO SE VERÁ INTERRUMPIDA cuando las Cortes no se encuentren reunidas, hubieren sido disueltas o hubiere expirado su mandato. En estos casos, EL DEFENSOR DEL PUEBLO SE DIRIGIRÁ A LAS DIPUTACIONES PERMANENTES DE LAS CÁMARAS."
+    }
+  ]
+}

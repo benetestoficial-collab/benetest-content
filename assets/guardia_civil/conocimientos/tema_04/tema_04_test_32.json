@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_32",
+  "titulo": "Test 32 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t32_p01",
+      "pregunta": "Constitución Española, art. 4. Las banderas autonómicas se utilizarán junto a la bandera de España en edificios y actos oficiales. ¿Qué ley especifica técnicamente los colores de la bandera nacional?",
+      "opciones": [
+        "a) La propia Constitución en su artículo 4",
+        "b) El Real Decreto 441/1981, de 27 de febrero",
+        "c) La Ley de Símbolos Nacionales de 1981",
+        "d) El Reglamento del Congreso de los Diputados"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.1 CE. La Constitución solo describe las franjas y proporciones. La ESPECIFICACIÓN TÉCNICA DE LOS COLORES de la bandera se recoge por REAL DECRETO 441/1981, DE 27 DE FEBRERO. Dato muy concreto que puede aparecer en el examen."
+    },
+    {
+      "id": "t04_t32_p02",
+      "pregunta": "Constitución Española, art. 13. Respecto a la extradición, los actos de terrorismo:",
+      "opciones": [
+        "a) Se consideran delitos políticos y quedan excluidos de la extradición",
+        "b) NO se consideran delitos políticos, por lo que no quedan excluidos de la extradición",
+        "c) Solo pueden extraditarse con un tratado bilateral específico",
+        "d) Requieren autorización del Congreso para su extradición"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 13.3 CE. Quedan excluidos de la extradición los delitos políticos, NO CONSIDERÁNDOSE COMO TALES LOS ACTOS DE TERRORISMO. Es una exclusión de la exclusión: el terrorismo parece 'político' pero constitucionalmente NO lo es, y por tanto SÍ puede dar lugar a extradición."
+    },
+    {
+      "id": "t04_t32_p03",
+      "pregunta": "Constitución Española, art. 15. La pena de muerte está abolida. ¿Existe alguna excepción en la Constitución?",
+      "opciones": [
+        "a) No, la abolición es total y sin excepciones",
+        "b) Sí, puede restablecerse en tiempos de guerra por leyes penales militares",
+        "c) Solo puede aplicarse para traición a la patria",
+        "d) Solo puede aplicarse en estado de sitio declarado por el Congreso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 15 CE. Queda abolida la pena de muerte, SALVO LO QUE PUEDAN DISPONER LAS LEYES PENALES MILITARES PARA TIEMPOS DE GUERRA. Esta excepción es importante: la abolición NO es absoluta. Hay que recordar que la legislación penal militar posterior la eliminó también en tiempo de guerra."
+    },
+    {
+      "id": "t04_t32_p04",
+      "pregunta": "Constitución Española, art. 22. Las asociaciones se inscriben en un registro. ¿Para qué?",
+      "opciones": [
+        "a) Para obtener personalidad jurídica",
+        "b) A los solos efectos de publicidad",
+        "c) Para obtener financiación pública",
+        "d) Para poder celebrar reuniones en lugares públicos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 22.3 CE. Las asociaciones deberán inscribirse en un registro A LOS SOLOS EFECTOS DE PUBLICIDAD. La inscripción no crea la asociación ni le da personalidad jurídica; la asociación existe desde que se constituye. El registro solo da publicidad frente a terceros."
+    },
+    {
+      "id": "t04_t32_p05",
+      "pregunta": "Constitución Española, art. 28. El derecho a la huelga corresponde a los trabajadores. ¿Y el derecho a adoptar medidas de conflicto colectivo?",
+      "opciones": [
+        "a) Solo a los trabajadores, no a los empresarios",
+        "b) Tanto a los trabajadores como a los empresarios",
+        "c) Solo a los sindicatos con representación legal reconocida",
+        "d) Solo a los empresarios; los trabajadores solo pueden ir a la huelga"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 37.2 CE (no el 28). Se reconoce el derecho de LOS TRABAJADORES Y EMPRESARIOS a adoptar MEDIDAS DE CONFLICTO COLECTIVO. La huelga (art. 28.2) es de los trabajadores; el cierre patronal (lock-out) es de los empresarios dentro de las 'medidas de conflicto colectivo' del art. 37.2."
+    },
+    {
+      "id": "t04_t32_p06",
+      "pregunta": "Constitución Española, art. 57. ¿Puede el Rey reinante contraer matrimonio sin autorización de las Cortes?",
+      "opciones": [
+        "a) No, necesita siempre la autorización del Rey y de las Cortes",
+        "b) Sí, la restricción del art. 57.4 solo aplica a personas CON DERECHO A LA SUCESIÓN que aún no son Rey",
+        "c) Solo puede casarse con autorización del Congreso",
+        "d) Necesita la autorización del Senado como cámara territorial"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 57.4 CE. La restricción aplica a 'aquellas PERSONAS QUE TENIENDO DERECHO A LA SUCESIÓN EN EL TRONO contraigan matrimonio...'. El REY REINANTE ya NO tiene derecho a la sucesión (ya ocupa el trono), por lo que PUEDE CASARSE LIBREMENTE sin necesidad de autorización."
+    },
+    {
+      "id": "t04_t32_p07",
+      "pregunta": "Constitución Española, art. 59. Para ejercer la Regencia, ¿se requiere ser español de nacimiento o basta con ser español?",
+      "opciones": [
+        "a) Se requiere ser español de nacimiento, igual que para la tutela",
+        "b) Basta con ser español (sin exigencia de nacimiento) y mayor de edad",
+        "c) Se requiere ser español de nacimiento y tener al menos 25 años",
+        "d) No se requiere nacionalidad española si es pariente directo del Rey"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 59.4 CE. Para ejercer la Regencia es preciso ser ESPAÑOL Y MAYOR DE EDAD. La Constitución NO exige ser español DE NACIMIENTO para la Regencia. Contraste: para ser TUTOR del Rey sí se exige 'español de nacimiento' (art. 60.1 CE). Error frecuente: confundir los requisitos de Regente y Tutor."
+    },
+    {
+      "id": "t04_t32_p08",
+      "pregunta": "Constitución Española, art. 67. ¿Se puede acumular ser Senador y miembro de una Asamblea autonómica?",
+      "opciones": [
+        "a) No, igual que el Diputado al Congreso",
+        "b) Sí, porque la CE solo prohíbe la acumulación con el acta de Diputado al Congreso",
+        "c) Solo con autorización del Senado",
+        "d) Solo si el Estatuto de Autonomía lo permite"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 67.1 CE. La Constitución dice que 'nadie podrá ser miembro de las dos Cámaras simultáneamente, NI ACUMULAR EL ACTA DE UNA ASAMBLEA DE CCAA CON LA DE DIPUTADO AL CONGRESO'. No prohíbe la acumulación con el SENADO. Por tanto, SÍ se puede ser Senador y miembro de una Asamblea autonómica."
+    },
+    {
+      "id": "t04_t32_p09",
+      "pregunta": "Constitución Española, art. 70. ¿Los miembros del Gobierno son inelegibles para ser Diputados o Senadores?",
+      "opciones": [
+        "a) Sí, los miembros del Gobierno están incluidos entre las causas de inelegibilidad",
+        "b) No, los miembros del Gobierno están expresamente excluidos de las causas de inelegibilidad",
+        "c) Solo son inelegibles durante el período de su mandato como ministros",
+        "d) Solo son inelegibles para el Senado, no para el Congreso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 70.1.b) CE. La ley electoral determinará las causas de inelegibilidad que comprenderán, entre otras, a los altos cargos de la Administración del Estado, CON LA EXCEPCIÓN DE LOS MIEMBROS DEL GOBIERNO. Es decir, los Ministros pueden ser Diputados o Senadores al mismo tiempo."
+    },
+    {
+      "id": "t04_t32_p10",
+      "pregunta": "Constitución Española, art. 71. La inmunidad de los parlamentarios les protege frente a procesamientos. ¿Y frente a detenciones?",
+      "opciones": [
+        "a) También frente a detenciones absolutamente en todo caso",
+        "b) Solo pueden ser detenidos en caso de flagrante delito",
+        "c) No les protege frente a detenciones, solo frente a procesamientos",
+        "d) Solo frente a detenciones ordenadas por la Administración, no por los jueces"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 71.2 CE. Durante el período de su mandato, los Diputados y Senadores gozan de inmunidad y SOLO PODRÁN SER DETENIDOS EN CASO DE FLAGRANTE DELITO. No podrán ser inculpados ni procesados sin la previa autorización de la Cámara. La inmunidad limita pero no elimina la posibilidad de detención."
+    },
+    {
+      "id": "t04_t32_p11",
+      "pregunta": "Constitución Española, art. 82. Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo. ¿Son estas las dos únicas limitaciones expresas?",
+      "opciones": [
+        "a) No, hay más limitaciones implícitas",
+        "b) Sí, el artículo 83 establece exactamente esas dos limitaciones para las leyes de bases",
+        "c) Solo se prohíbe la retroactividad; la modificación de la ley de bases sí está permitida",
+        "d) Se prohíben tres cosas: retroactividad, modificación y subdelegación"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 83 CE. Las leyes de bases no podrán en ningún caso: a) AUTORIZAR LA MODIFICACIÓN DE LA PROPIA LEY DE BASES; b) FACULTAR PARA DICTAR NORMAS CON CARÁCTER RETROACTIVO. Estas son las DOS ÚNICAS LIMITACIONES EXPRESAS del artículo 83. La prohibición de subdelegación (art. 82.3) es otra limitación, pero de la delegación legislativa en general."
+    },
+    {
+      "id": "t04_t32_p12",
+      "pregunta": "Constitución Española, art. 90. Para que el Congreso supere el veto del Senado por mayoría ABSOLUTA, ¿debe esperar los dos meses?",
+      "opciones": [
+        "a) Sí, siempre hay que esperar dos meses independientemente de la mayoría",
+        "b) No, con mayoría absoluta puede ratificar el texto inicial inmediatamente sin esperar dos meses",
+        "c) Basta con la mayoría simple sin necesidad de esperar",
+        "d) Solo puede superarlo el Senado volviendo a votar"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 90.2 CE. El Congreso puede ratificar el texto inicial: 1) POR MAYORÍA ABSOLUTA, en cuyo caso no necesita esperar los dos meses; 2) POR MAYORÍA SIMPLE, una vez transcurridos DOS MESES desde la interposición del veto. La espera de dos meses solo es necesaria para superar el veto con mayoría simple."
+    },
+    {
+      "id": "t04_t32_p13",
+      "pregunta": "Constitución Española, art. 102. La acusación del Presidente del Gobierno por traición requiere la iniciativa de la cuarta parte de los Diputados. Con 350 Diputados, ¿cuántos se necesitan exactamente?",
+      "opciones": [
+        "a) 35 Diputados",
+        "b) 70 Diputados",
+        "c) 87 Diputados",
+        "d) 87,5 Diputados (redondeando 88)"
+      ],
+      "correcta": 3,
+      "retroalimentacion": "Art. 102.2 CE. La acusación del Presidente por traición requiere la iniciativa de LA CUARTA PARTE de los Diputados. Con 350 Diputados: 350 ÷ 4 = 87,5. Al no poder haber medios Diputados, se redondeará a 88 DIPUTADOS. La aprobación requiere mayoría absoluta del Congreso (176 votos)."
+    },
+    {
+      "id": "t04_t32_p14",
+      "pregunta": "Constitución Española, art. 112. ¿Qué mayoría necesita el Presidente del Gobierno para ganar la cuestión de confianza?",
+      "opciones": [
+        "a) Mayoría absoluta del Congreso",
+        "b) Mayoría simple del Congreso",
+        "c) Mayoría de dos tercios del Congreso",
+        "d) Mayoría de tres quintos del Congreso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 112 CE. La confianza se entenderá otorgada cuando vote a favor de la misma LA MAYORÍA SIMPLE DE LOS DIPUTADOS. Contraste con la investidura: en primera votación se requiere mayoría absoluta; en segunda (48h después), bastará la mayoría simple. Para la cuestión de confianza siempre es mayoría simple."
+    },
+    {
+      "id": "t04_t32_p15",
+      "pregunta": "Constitución Española, art. 117. Los Jueces y Magistrados son responsables, ¿de qué tipo de responsabilidad?",
+      "opciones": [
+        "a) Responsabilidad política ante el CGPJ",
+        "b) Responsabilidad penal (por prevaricación) y responsabilidad civil indirecta a través del Estado",
+        "c) Solo responsabilidad disciplinaria ante el CGPJ",
+        "d) Responsabilidad civil directa ante las partes del proceso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117.1 CE. Los jueces son responsables. La responsabilidad más relevante es la PENAL (por el delito de prevaricación: dictar a sabiendas una resolución injusta). Los daños generan indemnización a cargo del ESTADO (art. 121 CE), no directamente del juez. También existe responsabilidad disciplinaria ante el CGPJ."
+    },
+    {
+      "id": "t04_t32_p16",
+      "pregunta": "Constitución Española, art. 133. La potestad originaria para establecer tributos corresponde exclusivamente al Estado. ¿Qué tipo de norma la ejerce?",
+      "opciones": [
+        "a) Ley orgánica",
+        "b) Ley ordinaria",
+        "c) Decreto-ley en casos urgentes",
+        "d) Decreto legislativo con delegación parlamentaria"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 133.1 CE. La potestad originaria para establecer los tributos corresponde exclusivamente al Estado, MEDIANTE LEY (ordinaria). No se exige ley orgánica para los tributos. El principio de reserva de ley tributaria exige que los elementos esenciales del tributo sean establecidos por ley."
+    },
+    {
+      "id": "t04_t32_p17",
+      "pregunta": "Constitución Española, art. 141. Para alterar los límites provinciales, ¿qué tipo de ley se requiere?",
+      "opciones": [
+        "a) Ley ordinaria de las Cortes Generales",
+        "b) Ley orgánica de las Cortes Generales",
+        "c) Decreto del Consejo de Ministros",
+        "d) Ley autonómica de la CCAA afectada"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 141.1 CE. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales MEDIANTE LEY ORGÁNICA. La provincia es una entidad territorial constitucional cuya modificación exige la mayor garantía parlamentaria."
+    },
+    {
+      "id": "t04_t32_p18",
+      "pregunta": "Constitución Española, art. 159. Los miembros del TC son designados por el Congreso, el Senado, el Gobierno y el CGPJ. ¿Quiénes son exactamente los propuestos por el CGPJ?",
+      "opciones": [
+        "a) Cuatro, igual que el Congreso y el Senado",
+        "b) Dos, igual que el Gobierno",
+        "c) Tres, en número diferente a los demás",
+        "d) Uno, el menos representado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 159.1 CE. Distribución: 4 propuestos por el CONGRESO (3/5); 4 propuestos por el SENADO (3/5); 2 propuestos por el GOBIERNO; 2 propuestos por el CGPJ. CGPJ Y GOBIERNO proponen DOS cada uno; CONGRESO Y SENADO proponen CUATRO cada uno. Total: 4+4+2+2 = 12 miembros."
+    },
+    {
+      "id": "t04_t32_p19",
+      "pregunta": "Constitución Española, art. 164. ¿Tienen efectos erga omnes (frente a todos) todas las sentencias del TC?",
+      "opciones": [
+        "a) Sí, todas las sentencias del TC tienen efectos frente a todos",
+        "b) No, solo las que declaran la inconstitucionalidad de una ley o norma con fuerza de ley y las que no se limitan a la estimación subjetiva de un derecho",
+        "c) Solo las dictadas en el Pleno, no las de las Salas",
+        "d) Solo las que son aprobadas por unanimidad"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 164.1 CE. No todas tienen efectos erga omnes. TIENEN PLENOS EFECTOS FRENTE A TODOS: las que declaren la inconstitucionalidad de una ley o norma con fuerza de ley Y TODAS LAS QUE NO SE LIMITEN A LA ESTIMACIÓN SUBJETIVA DE UN DERECHO. Las sentencias de amparo solo tienen efectos entre las partes."
+    },
+    {
+      "id": "t04_t32_p20",
+      "pregunta": "Constitución Española, art. 168. Las nuevas Cortes elegidas tras la disolución en el procedimiento agravado de reforma ¿con qué mayoría aprueban el texto definitivo de reforma?",
+      "opciones": [
+        "a) Mayoría simple",
+        "b) Mayoría absoluta de cada Cámara",
+        "c) Mayoría de dos tercios de ambas Cámaras",
+        "d) Mayoría de tres quintos de cada Cámara"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 168.2 CE. Las nuevas Cámaras deberán RATIFICAR LA DECISIÓN (por mayoría simple) Y PROCEDER AL ESTUDIO DEL NUEVO TEXTO CONSTITUCIONAL, que deberá ser aprobado POR MAYORÍA DE DOS TERCIOS DE AMBAS CÁMARAS. Es el paso más exigente del procedimiento agravado, seguido del referéndum obligatorio."
+    }
+  ]
+}

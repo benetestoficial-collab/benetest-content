@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_31",
+  "titulo": "Test 31 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t31_p01",
+      "pregunta": "Constitución Española, art. 68. Las elecciones al Congreso deben celebrarse entre los 30 y 60 días desde la terminación del mandato. ¿Cuántos días tiene el Rey para convocar el nuevo Congreso electo?",
+      "opciones": [
+        "a) 15 días",
+        "b) 20 días",
+        "c) 25 días",
+        "d) 30 días"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 68.6 CE. El Congreso electo deberá ser convocado dentro de los VEINTICINCO DÍAS siguientes a la celebración de las elecciones. Este plazo garantiza la rápida constitución del nuevo Parlamento tras las elecciones."
+    },
+    {
+      "id": "t04_t31_p02",
+      "pregunta": "Constitución Española, art. 69. Las CCAA designan senadores autonómicos. ¿Cuántos por cada millón de habitantes?",
+      "opciones": [
+        "a) Uno más por cada 500.000 habitantes",
+        "b) Uno más por cada millón de habitantes",
+        "c) Uno más por cada dos millones de habitantes",
+        "d) Uno más por cada 750.000 habitantes"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 69.5 CE. Las CCAA designarán además un Senador y OTRO MÁS POR CADA MILLÓN DE HABITANTES de su respectivo territorio. Así, una CCAA uniprovincial con 1 millón de habitantes tendría 1 senador; con 2 millones, 2 senadores autonómicos, etc."
+    },
+    {
+      "id": "t04_t31_p03",
+      "pregunta": "Constitución Española, art. 78. Las Diputaciones Permanentes se componen de un mínimo de 21 miembros. ¿Quién las preside?",
+      "opciones": [
+        "a) El Diputado o Senador de mayor antigüedad",
+        "b) El Presidente de la Cámara respectiva",
+        "c) Un miembro elegido por la propia Diputación",
+        "d) El Presidente del Gobierno en funciones"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 78.2 CE. Las Diputaciones Permanentes estarán PRESIDIDAS POR EL PRESIDENTE DE LA CÁMARA RESPECTIVA. Cada Cámara tiene la suya: el Presidente del Congreso preside la del Congreso y el Presidente del Senado la del Senado."
+    },
+    {
+      "id": "t04_t31_p04",
+      "pregunta": "Constitución Española, art. 86. Los Decretos-leyes deben ser sometidos a debate en el Congreso en 30 días. Durante ese plazo las Cortes pueden tramitarlos como proyectos de ley. ¿Por qué procedimiento?",
+      "opciones": [
+        "a) Procedimiento ordinario",
+        "b) Procedimiento de urgencia",
+        "c) Procedimiento de lectura única",
+        "d) Procedimiento de Comisión en Pleno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 86.3 CE. Durante el plazo de los treinta días, las Cortes podrán tramitar los Decretos-leyes como proyectos de ley POR EL PROCEDIMIENTO DE URGENCIA. Esto les permite convertirlos en leyes ordinarias con el pleno debate parlamentario."
+    },
+    {
+      "id": "t04_t31_p05",
+      "pregunta": "Constitución Española, art. 91. ¿En cuántos días debe el Rey sancionar las leyes aprobadas por las Cortes Generales?",
+      "opciones": [
+        "a) 8 días",
+        "b) 10 días",
+        "c) 15 días",
+        "d) 30 días"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 91 CE. El Rey sancionará en el plazo de QUINCE DÍAS las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación. No puede negarse a sancionar; es un acto reglado."
+    },
+    {
+      "id": "t04_t31_p06",
+      "pregunta": "Constitución Española, art. 99. ¿Cuántas horas hay entre la primera y la segunda votación de investidura si la primera fracasa?",
+      "opciones": [
+        "a) 24 horas",
+        "b) 48 horas",
+        "c) 72 horas",
+        "d) 96 horas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 99.3 CE. De no alcanzarse la mayoría absoluta en la primera votación, se somete la misma propuesta a nueva votación CUARENTA Y OCHO HORAS después de la anterior. En esta segunda votación basta la mayoría simple."
+    },
+    {
+      "id": "t04_t31_p07",
+      "pregunta": "Constitución Española, art. 113. La moción de censura no podrá ser votada hasta que transcurran cuántos días desde su presentación:",
+      "opciones": [
+        "a) 3 días",
+        "b) 5 días",
+        "c) 7 días",
+        "d) 10 días"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 113.3 CE. La moción de censura NO PODRÁ SER VOTADA HASTA QUE TRANSCURRAN CINCO DÍAS desde su presentación. En los DOS PRIMEROS DÍAS podrán presentarse mociones alternativas. Este 'período de reflexión' busca facilitar negociaciones y evitar votaciones precipitadas."
+    },
+    {
+      "id": "t04_t31_p08",
+      "pregunta": "Constitución Española, art. 115. ¿Cuánto tiempo debe esperar el Presidente del Gobierno entre dos disoluciones de Cámaras (salvo el supuesto del art. 99.5)?",
+      "opciones": [
+        "a) Seis meses",
+        "b) Un año",
+        "c) Dos años",
+        "d) Toda la legislatura"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 115.3 CE. No procederá nueva disolución ANTES DE QUE TRANSCURRA UN AÑO desde la anterior, salvo lo dispuesto en el artículo 99.5 (disolución automática por fracaso de todas las investiduras en dos meses)."
+    },
+    {
+      "id": "t04_t31_p09",
+      "pregunta": "Constitución Española, art. 116. El estado de excepción tiene una duración máxima inicial de 30 días. ¿Y el estado de alarma?",
+      "opciones": [
+        "a) 8 días",
+        "b) 10 días",
+        "c) 15 días",
+        "d) 30 días"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 116.2 CE. El estado de ALARMA es declarado por el Gobierno por un plazo máximo de QUINCE DÍAS. El de EXCEPCIÓN tiene un plazo máximo de TREINTA DÍAS (prorrogables por otros treinta). El de SITIO no tiene plazo máximo fijado por la Constitución."
+    },
+    {
+      "id": "t04_t31_p10",
+      "pregunta": "Constitución Española, art. 122. El CGPJ está integrado por el Presidente del TS y 20 miembros. ¿Cuántos años dura su mandato?",
+      "opciones": [
+        "a) 4 años",
+        "b) 5 años",
+        "c) 6 años",
+        "d) 9 años"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 122.3 CE. Los veinte miembros del CGPJ son nombrados por el Rey por un período de CINCO AÑOS. No confundir con el TC (9 años) ni con el Defensor del Pueblo (5 años también). El CGPJ y el Defensor del Pueblo comparten el mismo período de mandato: 5 años."
+    },
+    {
+      "id": "t04_t31_p11",
+      "pregunta": "Constitución Española, art. 134. ¿Cuántos meses antes de la expiración del ejercicio anterior debe presentar el Gobierno los Presupuestos al Congreso?",
+      "opciones": [
+        "a) Un mes",
+        "b) Dos meses",
+        "c) Tres meses",
+        "d) Cuatro meses"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 134.3 CE. El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos TRES MESES antes de la expiración de los del año anterior. Esto equivale a presentarlos antes del 30 de septiembre."
+    },
+    {
+      "id": "t04_t31_p12",
+      "pregunta": "Constitución Española, art. 159. ¿Cuántos años dura el mandato de los miembros del Tribunal Constitucional?",
+      "opciones": [
+        "a) 5 años",
+        "b) 6 años",
+        "c) 9 años",
+        "d) 12 años"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 159.3 CE. Los miembros del TC serán designados por un período de NUEVE AÑOS y se renovarán por terceras partes cada tres. No coincide con el del CGPJ (5 años) ni con el del Defensor del Pueblo (5 años). Es el mandato más largo de todos estos órganos constitucionales."
+    },
+    {
+      "id": "t04_t31_p13",
+      "pregunta": "Constitución Española, art. 160. ¿Cuántos años dura el mandato del Presidente del Tribunal Constitucional?",
+      "opciones": [
+        "a) 2 años, renovable indefinidamente",
+        "b) 3 años, renovable solo una vez",
+        "c) 4 años, no renovable",
+        "d) 5 años, renovable solo una vez"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 160 CE. El Presidente del TC es nombrado por el Rey, a propuesta del Tribunal en pleno, por un período de TRES AÑOS, siendo posible UNA ÚNICA REELECCIÓN. En primera votación se requiere mayoría absoluta; en segunda, mayoría simple."
+    },
+    {
+      "id": "t04_t31_p14",
+      "pregunta": "Constitución Española, art. 161. Cuando el Gobierno impugna una disposición autonómica, produce suspensión automática. ¿Cuánto tiempo tiene el TC para ratificar o levantar esa suspensión?",
+      "opciones": [
+        "a) 2 meses",
+        "b) 3 meses",
+        "c) 5 meses",
+        "d) 6 meses"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 161.2 CE. La impugnación gubernamental produce la suspensión automática, pero el TC deberá RATIFICARLA O LEVANTARLA en un plazo NO SUPERIOR A CINCO MESES. Este límite evita que la suspensión se prolongue indefinidamente como forma encubierta de control."
+    },
+    {
+      "id": "t04_t31_p15",
+      "pregunta": "Constitución Española, art. 167. El referéndum de la reforma ordinaria debe ser solicitado en los _____ días siguientes a la aprobación de la reforma:",
+      "opciones": [
+        "a) 5 días",
+        "b) 10 días",
+        "c) 15 días",
+        "d) 30 días"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 167.3 CE. El referéndum de ratificación en la reforma constitucional ordinaria deberá ser solicitado dentro de los QUINCE DÍAS SIGUIENTES a la aprobación de la reforma por las Cortes, por una décima parte de los miembros de cualquiera de las Cámaras."
+    },
+    {
+      "id": "t04_t31_p16",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Cuántos años dura el mandato del Defensor del Pueblo?",
+      "opciones": [
+        "a) 4 años",
+        "b) 5 años",
+        "c) 6 años",
+        "d) 9 años"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 2.1 LO 3/1981. El Defensor del Pueblo será elegido por las Cortes Generales para un período de CINCO AÑOS. Coincide con el mandato del CGPJ (también 5 años). No confundir con el TC (9 años) ni con el Congreso y Senado (4 años)."
+    },
+    {
+      "id": "t04_t31_p17",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. Las quejas deben presentarse en el plazo máximo de un año desde el conocimiento de los hechos. ¿Son gratuitas las actuaciones?",
+      "opciones": [
+        "a) No, hay tasas simbólicas para evitar quejas abusivas",
+        "b) Sí, todas las actuaciones del Defensor del Pueblo son gratuitas para el interesado",
+        "c) Solo son gratuitas para ciudadanos sin recursos económicos",
+        "d) Son gratuitas solo las quejas admitidas a trámite"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 15.2 LO 3/1981. TODAS LAS ACTUACIONES DEL DEFENSOR DEL PUEBLO SON GRATUITAS PARA EL INTERESADO y no será preceptiva la asistencia de Letrado ni de Procurador. Esta gratuidad es esencial para garantizar el acceso de todos los ciudadanos a esta institución."
+    },
+    {
+      "id": "t04_t31_p18",
+      "pregunta": "Constitución Española, art. 87. ¿Cuántas firmas se necesitan como mínimo para la iniciativa legislativa popular?",
+      "opciones": [
+        "a) 250.000 firmas",
+        "b) 500.000 firmas",
+        "c) 750.000 firmas",
+        "d) 1.000.000 de firmas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 87.3 CE. Para la iniciativa legislativa popular se exigirán no menos de 500.000 FIRMAS ACREDITADAS. No procede en materias propias de ley orgánica, tributarias, de carácter internacional, ni en lo relativo a la prerrogativa de gracia."
+    },
+    {
+      "id": "t04_t31_p19",
+      "pregunta": "Constitución Española, art. 162. ¿Cuántos Diputados o Senadores se necesitan para interponer el recurso de inconstitucionalidad?",
+      "opciones": [
+        "a) 25 Diputados o Senadores",
+        "b) 50 Diputados o Senadores",
+        "c) 75 Diputados o Senadores",
+        "d) 100 Diputados o Senadores"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 162.1.a) CE. Para interponer el recurso de inconstitucionalidad están legitimados, entre otros, CINCUENTA DIPUTADOS o CINCUENTA SENADORES. También el Presidente del Gobierno, el Defensor del Pueblo y los órganos ejecutivos y Asambleas de las CCAA."
+    },
+    {
+      "id": "t04_t31_p20",
+      "pregunta": "Constitución Española, art. 17. La detención preventiva tiene un plazo máximo de 72 horas. Si el detenido es puesto a disposición judicial ¿puede el juez ampliar ese plazo?",
+      "opciones": [
+        "a) No, el plazo de 72 horas es absoluto e insuperable",
+        "b) Sí, por ley se determinará el plazo máximo de duración de la prisión provisional que puede ser superior",
+        "c) El juez puede ampliar hasta otras 72 horas adicionales como máximo",
+        "d) Solo en casos de terrorismo puede ampliarse hasta 96 horas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 17.4 CE. Las 72 horas son el límite de la DETENCIÓN PREVENTIVA POLICIAL. Una vez puesto a disposición judicial, el juez puede decretar PRISIÓN PROVISIONAL cuyo plazo máximo es distinto: 'asimismo, por ley se determinará el PLAZO MÁXIMO DE DURACIÓN DE LA PRISIÓN PROVISIONAL' (que puede ser de meses o años)."
+    }
+  ]
+}

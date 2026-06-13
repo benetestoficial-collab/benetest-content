@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_20",
+  "titulo": "Test 20 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t20_p01",
+      "pregunta": "Constitución Española, arts. 1 y 9. ¿Cuál es la diferencia entre los 'valores superiores' del artículo 1 y los 'principios' del artículo 9.3?",
+      "opciones": [
+        "a) Los valores son meras aspiraciones éticas sin efecto jurídico; los principios sí tienen efecto",
+        "b) Los valores superiores (libertad, justicia, igualdad, pluralismo) inspiran todo el ordenamiento; los principios del art. 9.3 son garantías jurídicas concretas como la legalidad, jerarquía normativa e irretroactividad",
+        "c) Ambos tienen el mismo rango y función jurídica, siendo la distinción meramente nominal",
+        "d) Los principios del art. 9 prevalecen sobre los valores del art. 1 en caso de conflicto"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "CE. Los VALORES SUPERIORES del art. 1 (libertad, justicia, igualdad, pluralismo) son los fundamentos axiológicos del Estado. Los PRINCIPIOS del art. 9.3 son GARANTÍAS JURÍDICAS CONCRETAS: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de normas sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad."
+    },
+    {
+      "id": "t04_t20_p02",
+      "pregunta": "Constitución Española, art. 11. España puede concertar tratados de doble nacionalidad con países iberoamericanos aunque estos no reconozcan reciprocidad. ¿Qué ocurre con la nacionalidad española en ese caso?",
+      "opciones": [
+        "a) El español pierde la nacionalidad española al naturalizarse en el país extranjero",
+        "b) El español puede naturalizarse en esos países sin perder su nacionalidad de origen",
+        "c) Se suspende la nacionalidad española hasta el regreso del español a España",
+        "d) La doble nacionalidad debe ser aprobada por el Congreso caso por caso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 11.3 CE. En los países iberoamericanos o de especial vinculación con España, aun cuando no reconozcan a sus ciudadanos un derecho recíproco, PODRÁN NATURALIZARSE LOS ESPAÑOLES SIN PERDER SU NACIONALIDAD DE ORIGEN. La reciprocidad no es un requisito en estos casos especiales."
+    },
+    {
+      "id": "t04_t20_p03",
+      "pregunta": "Constitución Española, art. 16. Señale la relación correcta entre Estado y religión en España según la Constitución:",
+      "opciones": [
+        "a) España es un Estado laico que prohíbe cualquier cooperación con confesiones religiosas",
+        "b) España es un Estado aconfesional que mantiene relaciones de cooperación con la Iglesia Católica y las demás confesiones",
+        "c) El Estado tiene obligación de financiar igualitariamente a todas las confesiones religiosas",
+        "d) Las confesiones religiosas tienen carácter de corporaciones de Derecho público"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 16.3 CE. NINGUNA CONFESIÓN TENDRÁ CARÁCTER ESTATAL. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y MANTENDRÁN LAS CONSIGUIENTES RELACIONES DE COOPERACIÓN CON LA IGLESIA CATÓLICA Y LAS DEMÁS CONFESIONES. España es un Estado aconfesional, no laico en sentido estricto."
+    },
+    {
+      "id": "t04_t20_p04",
+      "pregunta": "Constitución Española, arts. 53 y 161. ¿Cuál es la diferencia entre el recurso de inconstitucionalidad y el recurso de amparo?",
+      "opciones": [
+        "a) El recurso de inconstitucionalidad lo interponen los ciudadanos; el de amparo lo interponen los poderes públicos",
+        "b) El recurso de inconstitucionalidad impugna normas con rango de ley y lo interponen órganos específicos; el recurso de amparo protege derechos fundamentales concretos y puede interponerlo cualquier persona con interés legítimo",
+        "c) Son idénticos en cuanto a legitimación, pero el de amparo tiene efectos más amplios",
+        "d) El recurso de amparo puede ser interpuesto por el Defensor del Pueblo, pero el de inconstitucionalidad no"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 161 y 162 CE. El RECURSO DE INCONSTITUCIONALIDAD impugna NORMAS CON RANGO DE LEY y solo pueden interponerlo el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores o los órganos de las CCAA. El RECURSO DE AMPARO protege DERECHOS FUNDAMENTALES CONCRETOS y puede interponerlo cualquier persona natural o jurídica con interés legítimo, el Defensor del Pueblo y el MF."
+    },
+    {
+      "id": "t04_t20_p05",
+      "pregunta": "Constitución Española, art. 57. Si falleciera el Rey sin dejar descendencia y sin hermanos ni sobrinos, ¿quién resolvería la sucesión?",
+      "opciones": [
+        "a) El Tribunal Constitucional mediante sentencia interpretativa",
+        "b) Las Cortes Generales proveerán a la sucesión en la forma que más convenga a los intereses de España",
+        "c) El Consejo de Estado designaría una Regencia hasta nueva designación",
+        "d) El Presidente del Gobierno asumiría las funciones del Estado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 57.3 CE. Extinguidas TODAS LAS LÍNEAS LLAMADAS EN DERECHO, LAS CORTES GENERALES PROVEERÁN A LA SUCESIÓN EN LA CORONA en la forma que más convenga a los intereses de España. Es el Parlamento quien tiene la última palabra en este supuesto excepcional."
+    },
+    {
+      "id": "t04_t20_p06",
+      "pregunta": "Constitución Española, art. 79. El voto de Senadores y Diputados es personal e indelegable. ¿Qué pasaría si un parlamentario vota en nombre de otro?",
+      "opciones": [
+        "a) El voto sería válido con autorización previa de la Mesa de la Cámara",
+        "b) El voto sería nulo, pues el carácter personal e indelegable del voto es una exigencia constitucional",
+        "c) El voto sería válido si el parlamentario ausente lo autorizó por escrito",
+        "d) El voto sería válido si lo aprueba el Presidente de la Cámara"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 79.3 CE. EL VOTO DE SENADORES Y DIPUTADOS ES PERSONAL E INDELEGABLE. Cualquier voto emitido en nombre de otro parlamentario sería NULO por vulnerar este mandato constitucional. Es una garantía del principio de representación individual dentro de las Cámaras."
+    },
+    {
+      "id": "t04_t20_p07",
+      "pregunta": "Constitución Española, art. 88. ¿Quién aprueba los proyectos de ley antes de remitirlos al Congreso?",
+      "opciones": [
+        "a) El Presidente del Gobierno mediante decreto",
+        "b) El Consejo de Ministros",
+        "c) El Ministerio competente por orden ministerial",
+        "d) El Consejo de Estado mediante dictamen preceptivo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 88 CE. Los proyectos de ley serán aprobados en EL CONSEJO DE MINISTROS, que los someterá al Congreso, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos."
+    },
+    {
+      "id": "t04_t20_p08",
+      "pregunta": "Constitución Española, art. 114. Si el Congreso niega la confianza al Gobierno mediante la no superación de la cuestión de confianza, ¿qué ocurre?",
+      "opciones": [
+        "a) El Gobierno continúa en funciones hasta que el Congreso elija nuevo Presidente",
+        "b) El Gobierno presentará su dimisión al Rey, procediéndose a la designación de Presidente según el art. 99",
+        "c) El Rey disuelve automáticamente las Cámaras y convoca elecciones",
+        "d) El Senado debe ratificar la retirada de confianza para que surta efectos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 114.1 CE. Si el Congreso niega su confianza al Gobierno, ÉSTE PRESENTARÁ SU DIMISIÓN AL REY, PROCEDIÉNDOSE A CONTINUACIÓN A LA DESIGNACIÓN DE PRESIDENTE DEL GOBIERNO según lo dispuesto en el artículo 99 (nueva investidura)."
+    },
+    {
+      "id": "t04_t20_p09",
+      "pregunta": "Constitución Española, art. 135. ¿Quién puede autorizar al Estado o a las CCAA a emitir deuda pública o contraer crédito?",
+      "opciones": [
+        "a) El Ministerio de Hacienda mediante orden ministerial",
+        "b) Una ley",
+        "c) El Consejo de Ministros mediante decreto-ley",
+        "d) El Banco de España con informe previo del CGPJ"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 135.3 CE. El Estado y las Comunidades Autónomas habrán de estar AUTORIZADOS POR LEY para emitir deuda pública o contraer crédito. La reserva de ley en esta materia es una garantía del principio de estabilidad presupuestaria introducido por la reforma de 2011."
+    },
+    {
+      "id": "t04_t20_p10",
+      "pregunta": "Constitución Española, art. 149. ¿Qué ocurre con las materias no atribuidas expresamente al Estado cuando las CCAA no las asumen en sus Estatutos?",
+      "opciones": [
+        "a) Quedan en una zona gris sin regulación posible",
+        "b) Corresponderán al Estado, cuyas normas prevalecerán en caso de conflicto y el derecho estatal será supletorio del derecho autonómico",
+        "c) Quedan automáticamente atribuidas a las CCAA por el principio de subsidiariedad",
+        "d) Requieren una ley de armonización de las Cortes para ser atribuidas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 149.3 CE. Las materias no atribuidas expresamente al Estado podrán corresponder a las CCAA en virtud de sus Estatutos. La competencia sobre materias no asumidas POR LOS ESTATUTOS CORRESPONDERÁ AL ESTADO, cuyas normas PREVALECERÁN EN CASO DE CONFLICTO y EL DERECHO ESTATAL SERÁ, EN TODO CASO, SUPLETORIO."
+    },
+    {
+      "id": "t04_t20_p11",
+      "pregunta": "Constitución Española, art. 168. En el procedimiento agravado de reforma, ¿qué pasa con las Cortes que han aprobado el principio de reforma por mayoría de dos tercios?",
+      "opciones": [
+        "a) Continúan en funcionamiento hasta que las nuevas Cortes ratifiquen la decisión",
+        "b) Se disuelven inmediatamente y se convocan elecciones",
+        "c) Quedan en funciones hasta la aprobación definitiva del nuevo texto",
+        "d) Se convocan elecciones solo para el Congreso, el Senado permanece"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 168.1 CE. Cuando se aprueba el principio de revisión total o de las materias protegidas por dos tercios de cada Cámara, se procederá a la DISOLUCIÓN INMEDIATA DE LAS CORTES. Se convocan nuevas elecciones, y las Cámaras elegidas deberán ratificar la decisión y elaborar el nuevo texto."
+    },
+    {
+      "id": "t04_t20_p12",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo interponer él mismo acciones de responsabilidad contra autoridades y funcionarios?",
+      "opciones": [
+        "a) No, solo puede recomendar al MF que lo haga",
+        "b) Sí, puede ejercitar de oficio la acción de responsabilidad contra todas las autoridades, funcionarios y agentes civiles del orden gubernativo o administrativo, sin necesidad de reclamación previa",
+        "c) Solo puede hacerlo previa autorización de la Comisión Mixta Congreso-Senado",
+        "d) Solo puede hacerlo en el orden administrativo, no en el penal"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 26 LO 3/1981. El Defensor del Pueblo PODRÁ, DE OFICIO, EJERCITAR LA ACCIÓN DE RESPONSABILIDAD contra todas las autoridades, funcionarios y agentes civiles del orden gubernativo o administrativo, incluso local, SIN QUE SEA NECESARIA EN NINGÚN CASO LA PREVIA RECLAMACIÓN POR ESCRITO."
+    },
+    {
+      "id": "t04_t20_p13",
+      "pregunta": "Constitución Española, art. 20. Las libertades del artículo 20 tienen un límite específico. ¿Cuál es?",
+      "opciones": [
+        "a) El respeto al orden público y la moral social",
+        "b) El respeto a los derechos reconocidos en el Título I, las leyes que lo desarrollen y especialmente el derecho al honor, a la intimidad, a la propia imagen y la protección de la juventud y de la infancia",
+        "c) El respeto a la dignidad de las instituciones del Estado",
+        "d) Los acuerdos de las Cortes sobre propaganda y publicidad"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 20.4 CE. Las libertades del art. 20 tienen su límite en el respeto a LOS DERECHOS RECONOCIDOS EN EL TÍTULO I, en los preceptos de las leyes que lo desarrollen y, ESPECIALMENTE, EN EL DERECHO AL HONOR, A LA INTIMIDAD, A LA PROPIA IMAGEN Y A LA PROTECCIÓN DE LA JUVENTUD Y DE LA INFANCIA."
+    },
+    {
+      "id": "t04_t20_p14",
+      "pregunta": "Constitución Española, art. 76. Las conclusiones de las Comisiones de investigación no son vinculantes para los tribunales. ¿Qué puede hacerse con los resultados de la investigación?",
+      "opciones": [
+        "a) Solo pueden publicarse en el Boletín Oficial de las Cortes",
+        "b) Pueden comunicarse al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas",
+        "c) Se remiten automáticamente al Tribunal Supremo para su valoración",
+        "d) Quedan archivados sin ninguna consecuencia jurídica posterior"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 76.1 CE. Las conclusiones de las Comisiones de investigación no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales, SIN PERJUICIO DE QUE EL RESULTADO DE LA INVESTIGACIÓN SEA COMUNICADO AL MINISTERIO FISCAL para el ejercicio, cuando proceda, de las acciones oportunas."
+    },
+    {
+      "id": "t04_t20_p15",
+      "pregunta": "Constitución Española, arts. 66 y 117. ¿Cuál es la diferencia entre la inviolabilidad de las Cortes y la inviolabilidad de los Jueces?",
+      "opciones": [
+        "a) Son idénticas: ambas protegen contra la interferencia del Ejecutivo",
+        "b) La inviolabilidad de las Cortes significa que sus funciones no pueden suspenderse; la inamovilidad de los jueces significa que no pueden separarse, suspenderse, trasladarse ni jubilarse salvo por causas legales",
+        "c) La inviolabilidad de los jueces es más amplia que la de los parlamentarios",
+        "d) Los jueces gozan de inviolabilidad por sus resoluciones y los parlamentarios de inamovilidad"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 66.3 y 117.2 CE. Las CORTES SON INVIOLABLES: sus funciones no pueden suspenderse y su funcionamiento es permanente. Los JUECES son INAMOVIBLES: no podrán ser separados, suspendidos, trasladados ni jubilados sino por las causas y con las garantías previstas en la ley. Son dos garantías institucionales distintas."
+    },
+    {
+      "id": "t04_t20_p16",
+      "pregunta": "Constitución Española, art. 46. La ley penal sancionará los atentados contra el patrimonio histórico. ¿Quién garantiza la conservación de ese patrimonio?",
+      "opciones": [
+        "a) Exclusivamente el Estado mediante la Administración del Patrimonio Nacional",
+        "b) Los poderes públicos, cualquiera que sea el régimen jurídico y la titularidad de los bienes",
+        "c) Solo las administraciones propietarias de los bienes patrimoniales",
+        "d) Las Comunidades Autónomas en su respectivo territorio"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 46 CE. LOS PODERES PÚBLICOS garantizarán la conservación y promoverán el enriquecimiento del patrimonio histórico, cultural y artístico de los pueblos de España y de los bienes que lo integran, CUALQUIERA QUE SEA SU RÉGIMEN JURÍDICO Y SU TITULARIDAD (pública o privada)."
+    },
+    {
+      "id": "t04_t20_p17",
+      "pregunta": "Constitución Española, art. 96. Para denunciar un tratado internacional ya en vigor, ¿qué procedimiento se usa?",
+      "opciones": [
+        "a) Un procedimiento simplificado aprobado por el Consejo de Ministros",
+        "b) El mismo procedimiento previsto para su aprobación en el artículo 94",
+        "c) Una ley orgánica específica para cada denuncia",
+        "d) Un referéndum consultivo de los ciudadanos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 96.2 CE. Para la denuncia de los tratados y convenios internacionales se utilizará EL MISMO PROCEDIMIENTO PREVISTO PARA SU APROBACIÓN EN EL ARTÍCULO 94. Esto garantiza la simetría entre el proceso de celebración y el de terminación de los compromisos internacionales."
+    },
+    {
+      "id": "t04_t20_p18",
+      "pregunta": "Constitución Española, art. 117. ¿Pueden los Juzgados y Tribunales ejercer funciones no jurisdiccionales?",
+      "opciones": [
+        "a) No, nunca pueden ejercer funciones distintas a las jurisdiccionales",
+        "b) Sí, podrán ejercer las funciones que expresamente les sean atribuidas por ley en garantía de cualquier derecho",
+        "c) Solo en casos de urgencia declarados por el Gobierno",
+        "d) Solo si así lo acuerda el CGPJ mediante reglamento"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117.4 CE. Los Juzgados y Tribunales no ejercerán MÁS FUNCIONES QUE LAS SEÑALADAS en el art. 117.3 (potestad jurisdiccional) Y LAS QUE EXPRESAMENTE LES SEAN ATRIBUIDAS POR LEY EN GARANTÍA DE CUALQUIER DERECHO. Esto permite la atribución de funciones como la jurisdicción voluntaria."
+    },
+    {
+      "id": "t04_t20_p19",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. Cuando el Defensor del Pueblo llega al convencimiento de que el cumplimiento riguroso de una norma provoca situaciones injustas, ¿qué puede hacer?",
+      "opciones": [
+        "a) Anular directamente la norma por su carácter inconstitucional",
+        "b) Sugerir al órgano legislativo competente o a la Administración la modificación de la misma",
+        "c) Suspender cautelarmente la aplicación de la norma hasta que se corrija",
+        "d) Requerir al TC que declare la inconstitucionalidad de oficio"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 28.2 LO 3/1981. Si como consecuencia de sus investigaciones llegase al convencimiento de que el cumplimiento riguroso de la norma puede provocar situaciones injustas, PODRÁ SUGERIR AL ÓRGANO LEGISLATIVO COMPETENTE O A LA ADMINISTRACIÓN LA MODIFICACIÓN DE LA MISMA. El Defensor sugiere, no anula."
+    },
+    {
+      "id": "t04_t20_p20",
+      "pregunta": "Constitución Española, art. 9. El principio de interdicción de la arbitrariedad de los poderes públicos está relacionado con:",
+      "opciones": [
+        "a) La eficacia y la economía en la actuación administrativa",
+        "b) La justicia y la igualdad como valores superiores del ordenamiento",
+        "c) El principio de proporcionalidad y la reserva de ley",
+        "d) El principio de seguridad jurídica y la publicidad de las normas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 9.3 CE. El TC establece que el principio de interdicción de la arbitrariedad está íntimamente relacionado con LA JUSTICIA Y LA IGUALDAD como valores superiores del ordenamiento jurídico. La arbitrariedad es la antítesis de la justicia: actuar arbitrariamente es actuar injusta y desigualmente."
+    }
+  ]
+}

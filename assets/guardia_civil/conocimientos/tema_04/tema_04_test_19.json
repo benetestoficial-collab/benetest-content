@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_19",
+  "titulo": "Test 19 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t19_p01",
+      "pregunta": "Constitución Española, art. 1. Señale cuál NO es un valor superior del ordenamiento jurídico español:",
+      "opciones": [
+        "a) La libertad",
+        "b) La igualdad",
+        "c) La solidaridad",
+        "d) El pluralismo político"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 1.1 CE. Los valores superiores del ordenamiento jurídico español son: la LIBERTAD, la JUSTICIA, la IGUALDAD y el PLURALISMO POLÍTICO. La solidaridad aparece en el artículo 2 como principio de relación entre nacionalidades y regiones, pero no es un valor superior del artículo 1."
+    },
+    {
+      "id": "t04_t19_p02",
+      "pregunta": "Constitución Española, art. 13. Los extranjeros en España gozan de las libertades públicas del Título I. En relación con el artículo 23 (derecho de participación política), señale la CORRECTA:",
+      "opciones": [
+        "a) Los extranjeros tienen pleno derecho de participación política en igualdad con los españoles",
+        "b) Solo los españoles serán titulares del derecho de participación política, salvo lo que por reciprocidad pueda establecerse en elecciones municipales",
+        "c) Los extranjeros comunitarios tienen plenos derechos políticos incluyendo elecciones generales",
+        "d) Los extranjeros residentes legales tienen derecho de voto en todas las elecciones tras 5 años de residencia"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 13.2 CE (reforma 1992). SOLAMENTE LOS ESPAÑOLES serán titulares de los derechos reconocidos en el artículo 23 (participación política), salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y PASIVO en las elecciones MUNICIPALES."
+    },
+    {
+      "id": "t04_t19_p03",
+      "pregunta": "Constitución Española, art. 22. ¿Qué tipos de asociaciones prohíbe expresamente la Constitución?",
+      "opciones": [
+        "a) Las asociaciones que persigan fines contrarios a la moral pública",
+        "b) Las asociaciones secretas y las de carácter paramilitar",
+        "c) Las asociaciones de carácter político que no cumplan el requisito de pluralismo",
+        "d) Las asociaciones religiosas que practiquen ritos contrarios al orden público"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 22.5 CE. Se prohíben LAS ASOCIACIONES SECRETAS Y LAS DE CARÁCTER PARAMILITAR. Adicionalmente, son ilegales las asociaciones que persigan fines o utilicen medios tipificados como delito (art. 22.2). Las asociaciones solo pueden disolverse por resolución judicial motivada."
+    },
+    {
+      "id": "t04_t19_p04",
+      "pregunta": "Constitución Española, art. 28. ¿Puede alguien ser obligado a afiliarse a un sindicato?",
+      "opciones": [
+        "a) Sí, en sectores estratégicos regulados por ley orgánica",
+        "b) Sí, si así lo establecen los convenios colectivos aplicables",
+        "c) No, nadie podrá ser obligado a afiliarse a un sindicato",
+        "d) Solo en el sector público, donde la sindicación puede ser obligatoria"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 28.1 CE. NADIE PODRÁ SER OBLIGADO A AFILIARSE A UN SINDICATO. La libertad sindical incluye tanto el derecho positivo de afiliación como el negativo de no afiliación. Esta garantía protege la autonomía individual frente a la coacción colectiva."
+    },
+    {
+      "id": "t04_t19_p05",
+      "pregunta": "Constitución Española, art. 53. ¿Cuál es el recurso constitucional específico para proteger la objeción de conciencia del artículo 30?",
+      "opciones": [
+        "a) El procedimiento preferente y sumario ante los tribunales ordinarios",
+        "b) El recurso de inconstitucionalidad",
+        "c) El recurso de amparo ante el Tribunal Constitucional",
+        "d) La cuestión de inconstitucionalidad planteada por el juez"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 53.2 CE. El recurso de amparo ante el Tribunal Constitucional es aplicable a LA OBJECIÓN DE CONCIENCIA reconocida en el artículo 30. Así, aunque el art. 30 está en la Sección 2ª del Cap. II (no en la 1ª), accede también al amparo constitucional."
+    },
+    {
+      "id": "t04_t19_p06",
+      "pregunta": "Constitución Española, art. 57. ¿Puede el Rey reinante contraer matrimonio sin autorización de las Cortes?",
+      "opciones": [
+        "a) No, necesita siempre la autorización de las Cortes",
+        "b) Sí, la prohibición del artículo 57.4 no se aplica al Rey reinante",
+        "c) Solo necesita la autorización del Senado como cámara de representación territorial",
+        "d) Solo necesita informar a las Cortes, no obtener su autorización"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 57.4 CE. La exclusión de la sucesión por matrimonio no autorizado afecta a quienes TENIENDO DERECHO A LA SUCESIÓN contraigan matrimonio contra la prohibición del Rey y las Cortes. La Constitución NO dice nada del Rey que ya esté en el trono, por lo que el Rey reinante puede casarse libremente."
+    },
+    {
+      "id": "t04_t19_p07",
+      "pregunta": "Constitución Española, art. 62. ¿Puede el Rey conceder indultos generales?",
+      "opciones": [
+        "a) Sí, es una de sus prerrogativas constitucionales",
+        "b) Solo puede concederlos en tiempos de guerra previa autorización de las Cortes",
+        "c) No, el derecho de gracia que corresponde al Rey no puede autorizar indultos generales",
+        "d) Solo puede concederlos si lo aprueba el Consejo de Ministros"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 62.i) CE. El Rey ejerce el derecho de gracia con arreglo a la ley, QUE NO PODRÁ AUTORIZAR INDULTOS GENERALES. Esta prohibición expresa impide el uso de la prerrogativa regia para anular masivamente condenas penales, lo que se considera contrario al principio del Estado de Derecho."
+    },
+    {
+      "id": "t04_t19_p08",
+      "pregunta": "Constitución Española, art. 66. ¿Cuántas funciones principales tienen las Cortes Generales?",
+      "opciones": [
+        "a) Dos: legislativa y presupuestaria",
+        "b) Tres: legislativa, presupuestaria y de control del Gobierno",
+        "c) Cuatro: legislativa, presupuestaria, de control del Gobierno y las demás que atribuya la Constitución",
+        "d) Cinco: legislativa, presupuestaria, de control del Gobierno, constituyente y de representación"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 66.2 CE. Las Cortes Generales ejercen: la POTESTAD LEGISLATIVA del Estado, aprueban sus PRESUPUESTOS, CONTROLAN LA ACCIÓN DEL GOBIERNO y tienen LAS DEMÁS COMPETENCIAS QUE LES ATRIBUYA LA CONSTITUCIÓN. Son cuatro funciones expresamente enumeradas."
+    },
+    {
+      "id": "t04_t19_p09",
+      "pregunta": "Constitución Española, art. 103. ¿Cuáles son los principios de actuación de la Administración Pública según el artículo 103.1?",
+      "opciones": [
+        "a) Eficacia, jerarquía, descentralización y coordinación",
+        "b) Eficacia, jerarquía, descentralización, desconcentración y coordinación",
+        "c) Eficacia, transparencia, responsabilidad y objetividad",
+        "d) Eficacia, legalidad, jerarquía y proporcionalidad"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 103.1 CE. La Administración Pública actúa de acuerdo con los principios de EFICACIA, JERARQUÍA, DESCENTRALIZACIÓN, DESCONCENTRACIÓN Y COORDINACIÓN, con sometimiento pleno a la ley y al Derecho. Son cinco principios, siendo la desconcentración el que más frecuentemente se omite."
+    },
+    {
+      "id": "t04_t19_p10",
+      "pregunta": "Constitución Española, art. 124. ¿A quién defiende el Ministerio Fiscal según el artículo 124.1?",
+      "opciones": [
+        "a) Únicamente al Estado y sus intereses patrimoniales",
+        "b) La legalidad, los derechos de los ciudadanos y el interés público tutelado por la ley",
+        "c) Solo a las víctimas de delitos violentos",
+        "d) El interés de la Administración Pública en todos los procesos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 124.1 CE. El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de LA LEGALIDAD, DE LOS DERECHOS DE LOS CIUDADANOS Y DEL INTERÉS PÚBLICO tutelado por la ley, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales."
+    },
+    {
+      "id": "t04_t19_p11",
+      "pregunta": "Constitución Española, art. 116. ¿Cuál de los tres estados constitucionales requiere autorización previa del Congreso para su declaración?",
+      "opciones": [
+        "a) Solo el estado de alarma",
+        "b) Solo el estado de excepción",
+        "c) Solo el estado de sitio",
+        "d) El estado de excepción y el de sitio"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 116 CE. El estado de alarma solo requiere dar CUENTA al Congreso (sin autorización previa). El ESTADO DE EXCEPCIÓN requiere PREVIA AUTORIZACIÓN DEL CONGRESO. El estado de sitio es declarado por la MAYORÍA ABSOLUTA DEL CONGRESO a propuesta del Gobierno."
+    },
+    {
+      "id": "t04_t19_p12",
+      "pregunta": "Constitución Española, art. 140. ¿Cómo se regula el concejo abierto (forma directa de gobierno municipal)?",
+      "opciones": [
+        "a) Está prohibido por la Constitución al vulnerar el principio representativo",
+        "b) La ley regulará las condiciones en las que proceda el régimen del concejo abierto",
+        "c) La Constitución lo regula directamente sin remisión a la ley",
+        "d) Solo puede aplicarse en municipios de menos de 100 habitantes"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 140 CE. LA LEY REGULARÁ LAS CONDICIONES en las que proceda el régimen del CONCEJO ABIERTO, forma de democracia directa en la que los vecinos participan directamente en la gestión municipal. La Constitución lo prevé pero remite su regulación al legislador."
+    },
+    {
+      "id": "t04_t19_p13",
+      "pregunta": "Constitución Española, art. 156. Las CCAA gozan de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de:",
+      "opciones": [
+        "a) Solidaridad, suficiencia y transparencia",
+        "b) Coordinación con la Hacienda estatal y solidaridad entre todos los españoles",
+        "c) Igualdad y progresividad",
+        "d) Subsidiariedad y proporcionalidad"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 156.1 CE. Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de COORDINACIÓN CON LA HACIENDA ESTATAL Y SOLIDARIDAD ENTRE TODOS LOS ESPAÑOLES."
+    },
+    {
+      "id": "t04_t19_p14",
+      "pregunta": "Constitución Española, art. 164. ¿Qué ocurre con la parte de una ley declarada inconstitucional cuando el resto no lo es?",
+      "opciones": [
+        "a) Queda anulada la totalidad de la ley",
+        "b) Subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad",
+        "c) La ley queda suspendida hasta que el legislador la corrija",
+        "d) Corresponde a los tribunales ordinarios determinar la aplicabilidad del resto"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 164.2 CE. Salvo que en el fallo se disponga otra cosa, SUBSISTIRÁ LA VIGENCIA DE LA LEY EN LA PARTE NO AFECTADA POR LA INCONSTITUCIONALIDAD. La declaración de inconstitucionalidad es parcial y no arrastra necesariamente a toda la norma."
+    },
+    {
+      "id": "t04_t19_p15",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Qué autoridad administrativa puede presentar quejas ante el Defensor del Pueblo?",
+      "opciones": [
+        "a) Cualquier autoridad administrativa que tenga un interés legítimo",
+        "b) Ninguna autoridad administrativa puede presentar quejas en asuntos de su competencia",
+        "c) Solo las autoridades administrativas locales frente a actos de la Administración central",
+        "d) Solo las CCAA en defensa de sus competencias frente al Estado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 10 LO 3/1981. NO PODRÁ PRESENTAR QUEJAS ANTE EL DEFENSOR DEL PUEBLO NINGUNA AUTORIDAD ADMINISTRATIVA EN ASUNTOS DE SU COMPETENCIA. El mecanismo está diseñado para proteger a los ciudadanos frente a la Administración, no para resolver conflictos internos entre administraciones."
+    },
+    {
+      "id": "t04_t19_p16",
+      "pregunta": "Constitución Española, art. 4. Las banderas y enseñas propias de las CCAA reconocidas en sus Estatutos se utilizarán:",
+      "opciones": [
+        "a) En sustitución de la bandera de España en los actos oficiales autonómicos",
+        "b) Junto a la bandera de España en sus edificios públicos y en sus actos oficiales",
+        "c) Solo en actos de la propia CCAA sin obligación de izar la bandera nacional",
+        "d) Únicamente en el Parlamento autonómico y en la sede del Gobierno regional"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.2 CE. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán JUNTO A LA BANDERA DE ESPAÑA en sus edificios públicos y en sus actos oficiales. Los símbolos autonómicos complementan pero no sustituyen a los nacionales."
+    },
+    {
+      "id": "t04_t19_p17",
+      "pregunta": "Constitución Española, art. 59. La Regencia dativa es la que:",
+      "opciones": [
+        "a) Corresponde al padre o madre del Rey menor",
+        "b) Es nombrada por las Cortes Generales cuando no hay persona a quien corresponda legítimamente",
+        "c) Ejercen los tutores legales del Rey",
+        "d) Corresponde al Príncipe heredero mayor de edad"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 59.3 CE. La REGENCIA DATIVA es la nombrada por las Cortes Generales cuando no hay ninguna persona a quien corresponda ejercer la Regencia. Se compondrá de una, tres o cinco personas. La Regencia LEGÍTIMA es la de los parientes del Rey (padre, madre o el más próximo a suceder)."
+    },
+    {
+      "id": "t04_t19_p18",
+      "pregunta": "Constitución Española, art. 168. Las nuevas Cámaras elegidas tras la disolución en el procedimiento agravado de reforma deben ratificar la decisión de reforma. ¿Qué mayoría necesitan para esa ratificación?",
+      "opciones": [
+        "a) Mayoría de dos tercios de cada Cámara",
+        "b) Mayoría simple",
+        "c) Mayoría absoluta de cada Cámara",
+        "d) Mayoría de tres quintos de cada Cámara"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 168.2 CE. Las nuevas Cámaras elegidas tras la disolución deberán RATIFICAR LA DECISIÓN adoptada por las Cámaras disueltas, bastando para ello LA MAYORÍA SIMPLE. Esta es una fase meramente confirmatoria. La aprobación del texto definitivo sí requiere mayoría de dos tercios."
+    },
+    {
+      "id": "t04_t19_p19",
+      "pregunta": "Constitución Española, art. 149. El tráfico y circulación de vehículos a motor es competencia:",
+      "opciones": [
+        "a) De las Comunidades Autónomas en su territorio",
+        "b) Exclusiva del Estado",
+        "c) Compartida entre el Estado y las CCAA",
+        "d) Municipal en los cascos urbanos y estatal en carreteras nacionales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 149.1.21ª CE. El TRÁFICO Y CIRCULACIÓN DE VEHÍCULOS A MOTOR es competencia EXCLUSIVA DEL ESTADO, junto con el régimen general de comunicaciones, correos y telecomunicaciones, cables submarinos y radiocomunicación. Esto explica que la DGT y la normativa vial sean estatales."
+    },
+    {
+      "id": "t04_t19_p20",
+      "pregunta": "Constitución Española, arts. 9 y 2. Señale la afirmación CORRECTA sobre la relación entre autonomía y unidad nacional:",
+      "opciones": [
+        "a) La autonomía de las CCAA puede oponerse al principio de unidad cuando así lo establezcan sus Estatutos",
+        "b) El principio de autonomía no puede oponerse al de unidad; la autonomía alcanza su verdadero sentido dentro del principio de unidad",
+        "c) La soberanía autonómica y la soberanía nacional coexisten en términos de igualdad",
+        "d) Las CCAA tienen soberanía plena en las materias de su competencia exclusiva"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 2 y 9 CE. El TC establece que 'en ningún caso el principio de autonomía puede OPONERSE al de UNIDAD, sino que es precisamente DENTRO DE ÉSTE donde alcanza su verdadero sentido'. Las CCAA tienen autonomía (poder limitado), no soberanía. La soberanía nacional reside en el pueblo español (art. 1.2 CE)."
+    }
+  ]
+}

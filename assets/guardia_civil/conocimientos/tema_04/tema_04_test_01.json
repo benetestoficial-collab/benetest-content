@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_01",
+  "titulo": "Test 1 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t01_p01",
+      "pregunta": "Constitución Española de 1978. ¿En qué fecha fue sancionada por el Rey la Constitución Española?",
+      "opciones": [
+        "a) El 6 de diciembre de 1978",
+        "b) El 27 de diciembre de 1978",
+        "c) El 29 de diciembre de 1978",
+        "d) El 31 de octubre de 1978"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Constitución Española. La Constitución fue sancionada por el Rey el 27 de diciembre de 1978, en sesión conjunta del Congreso y del Senado. El 6 de diciembre fue el referéndum, y el 29 de diciembre fue la publicación en el BOE y entrada en vigor."
+    },
+    {
+      "id": "t04_t01_p02",
+      "pregunta": "Constitución Española de 1978. ¿En qué número del Boletín Oficial del Estado fue publicada la Constitución Española el 29 de diciembre de 1978?",
+      "opciones": [
+        "a) BOE número 177",
+        "b) BOE número 207",
+        "c) BOE número 311",
+        "d) BOE número 135"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Constitución Española. La Constitución fue publicada en el BOE número 311 el 29 de diciembre de 1978, entrando en vigor ese mismo día según su Disposición Final."
+    },
+    {
+      "id": "t04_t01_p03",
+      "pregunta": "Constitución Española de 1978. ¿Cuántas reformas ha sufrido la Constitución Española a lo largo de su historia?",
+      "opciones": [
+        "a) Una",
+        "b) Dos",
+        "c) Tres",
+        "d) Cuatro"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Constitución Española. La Constitución ha sufrido tres reformas: en 1992 (art. 13.2, sufragio extranjeros en elecciones municipales), en 2011 (art. 135, estabilidad presupuestaria) y en 2024 (art. 49, personas con discapacidad)."
+    },
+    {
+      "id": "t04_t01_p04",
+      "pregunta": "Constitución Española de 1978. La reforma del artículo 135 de la Constitución, relativa a la estabilidad presupuestaria, fue publicada en el BOE número 233 del:",
+      "opciones": [
+        "a) 28 de agosto de 1992",
+        "b) 27 de septiembre de 2011",
+        "c) 17 de febrero de 2024",
+        "d) 6 de noviembre de 1978"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Constitución Española. La reforma del artículo 135 (estabilidad presupuestaria) fue publicada en el BOE número 233 del 27 de septiembre de 2011. La del art. 13.2 fue en agosto de 1992, y la del art. 49 fue en febrero de 2024."
+    },
+    {
+      "id": "t04_t01_p05",
+      "pregunta": "Constitución Española de 1978. ¿Cuántos artículos contiene la Constitución Española?",
+      "opciones": [
+        "a) 155 artículos",
+        "b) 165 artículos",
+        "c) 169 artículos",
+        "d) 175 artículos"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Constitución Española. La Constitución se estructura en 169 artículos distribuidos en un Preámbulo, Título Preliminar (arts. 1-9), diez Títulos y diversas Disposiciones adicionales, transitorias, derogatoria y final."
+    },
+    {
+      "id": "t04_t01_p06",
+      "pregunta": "Constitución Española de 1978. El Título Preliminar de la Constitución consta de:",
+      "opciones": [
+        "a) 7 artículos (del 1 al 7)",
+        "b) 9 artículos (del 1 al 9)",
+        "c) 10 artículos (del 1 al 10)",
+        "d) 12 artículos (del 1 al 12)"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Constitución Española, Título Preliminar. El Título Preliminar consta de 9 artículos (del 1 al 9) que recogen los principios básicos o principios generales sobre los que se apoya el régimen político español."
+    },
+    {
+      "id": "t04_t01_p07",
+      "pregunta": "Constitución Española, art. 1. Señale la INCORRECTA en relación con los valores superiores del ordenamiento jurídico español:",
+      "opciones": [
+        "a) La libertad",
+        "b) La justicia",
+        "c) La igualdad",
+        "d) La fraternidad"
+      ],
+      "correcta": 3,
+      "retroalimentacion": "Art. 1 CE. Los valores superiores del ordenamiento jurídico son la libertad, la justicia, la igualdad y el pluralismo político. La fraternidad NO es un valor superior constitucional, aunque se asocie a la Revolución Francesa."
+    },
+    {
+      "id": "t04_t01_p08",
+      "pregunta": "Constitución Española, art. 1. Según el artículo 1.3 de la Constitución, la forma política del Estado español es:",
+      "opciones": [
+        "a) Una República federal",
+        "b) Una Monarquía constitucional",
+        "c) Una Monarquía parlamentaria",
+        "d) Una democracia representativa"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 1.3 CE. La forma política del Estado español es la Monarquía parlamentaria, en la que el Rey reina pero no gobierna, pues la soberanía reside en el pueblo español."
+    },
+    {
+      "id": "t04_t01_p09",
+      "pregunta": "Constitución Española, art. 1. De acuerdo con el artículo 1.2 de la Constitución, la soberanía nacional reside en:",
+      "opciones": [
+        "a) El Rey de España",
+        "b) Las Cortes Generales",
+        "c) El pueblo español",
+        "d) El Gobierno de la Nación"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 1.2 CE. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado. Este principio ya estaba recogido en la Constitución de Cádiz de 1812 en su artículo 3."
+    },
+    {
+      "id": "t04_t01_p10",
+      "pregunta": "Constitución Española, art. 2. El artículo 2 de la Constitución establece que la Constitución se fundamenta en la indisoluble unidad de la Nación española y reconoce y garantiza:",
+      "opciones": [
+        "a) La soberanía de las Comunidades Autónomas",
+        "b) El derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre todas ellas",
+        "c) El derecho a la independencia de las regiones históricas",
+        "d) La igualdad de rango entre Estado y Comunidades Autónomas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 2 CE. La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que integran España y la solidaridad entre todas ellas. Autonomía no equivale a soberanía."
+    },
+    {
+      "id": "t04_t01_p11",
+      "pregunta": "Constitución Española, art. 3. En relación con las lenguas de España, señale la INCORRECTA:",
+      "opciones": [
+        "a) El castellano es la lengua española oficial del Estado",
+        "b) Todos los españoles tienen el deber de conocer el castellano y el derecho a usarlo",
+        "c) Todos los españoles tienen el deber de conocer las demás lenguas cooficiales en sus respectivas CCAA",
+        "d) Las demás lenguas españolas son también oficiales en las respectivas CCAA de acuerdo con sus Estatutos"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 3 CE. Los Estatutos de Autonomía reconocen el derecho a usar las lenguas cooficiales, pero en ninguno de ellos se establece el deber de conocerlas. Solo respecto al castellano existe tanto el deber de conocerla como el derecho a usarla."
+    },
+    {
+      "id": "t04_t01_p12",
+      "pregunta": "Constitución Española, art. 4. La bandera de España está formada por:",
+      "opciones": [
+        "a) Tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de igual anchura que cada una de las rojas",
+        "b) Tres franjas verticales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas",
+        "c) Tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas",
+        "d) Tres franjas horizontales, amarilla, roja y amarilla, siendo la roja de doble anchura que cada una de las amarillas"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 4.1 CE. La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas. La especificación técnica de colores se recoge en el RD 441/1981."
+    },
+    {
+      "id": "t04_t01_p13",
+      "pregunta": "Constitución Española, art. 6. En relación con los partidos políticos, señale la CORRECTA:",
+      "opciones": [
+        "a) Los partidos políticos son órganos del Estado según la jurisprudencia del Tribunal Constitucional",
+        "b) Los partidos políticos son poderes públicos según la STC 5/83",
+        "c) Los partidos políticos no son poderes públicos, pero ejercen funciones públicas según el TC",
+        "d) Los partidos políticos están sujetos a control preventivo de carácter administrativo previo a su creación"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 6 CE. Según la jurisprudencia del TC (STC 5/83 y STC 10/83), los partidos políticos no son poderes públicos y no son órganos del Estado, pero desde el punto de vista de sus funciones, ejercen funciones públicas."
+    },
+    {
+      "id": "t04_t01_p14",
+      "pregunta": "Constitución Española, art. 8. Las Fuerzas Armadas están constituidas por:",
+      "opciones": [
+        "a) El Ejército de Tierra, la Armada y el Ejército del Aire",
+        "b) El Ejército de Tierra, la Marina y el Ejército del Aire y del Espacio",
+        "c) El Ejército de Tierra, la Armada y el Ejército del Aire y del Espacio",
+        "d) El Ejército de Tierra, la Armada, el Ejército del Aire y la Guardia Civil"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 8.1 CE. Las Fuerzas Armadas están constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire y del Espacio. Las Fuerzas y Cuerpos de Seguridad quedan excluidas de este precepto y se regulan en el artículo 104."
+    },
+    {
+      "id": "t04_t01_p15",
+      "pregunta": "Constitución Española, art. 9. El principio de legalidad, la jerarquía normativa, la publicidad de las normas y la seguridad jurídica están garantizados por la Constitución en su artículo:",
+      "opciones": [
+        "a) Artículo 1",
+        "b) Artículo 7",
+        "c) Artículo 9",
+        "d) Artículo 14"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 9.3 CE. El artículo 9 garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad."
+    },
+    {
+      "id": "t04_t01_p16",
+      "pregunta": "Constitución Española, art. 9. En relación con la excepción al principio de responsabilidad de los poderes públicos, señale la CORRECTA:",
+      "opciones": [
+        "a) El Presidente del Gobierno está exento de responsabilidad por sus actos",
+        "b) La persona del Rey es inviolable y no está sujeta a responsabilidad; el responsable será quien refrende el acto",
+        "c) Los Ministros no están sujetos a responsabilidad por los actos refrendados por el Rey",
+        "d) Las Fuerzas Armadas están exentas de responsabilidad en tiempo de guerra"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 9.3 y 56 CE. La única excepción al principio de responsabilidad es el Jefe del Estado: la persona del Rey es inviolable y no está sujeta a responsabilidad. El responsable será quien refrende el acto (art. 56 CE)."
+    },
+    {
+      "id": "t04_t01_p17",
+      "pregunta": "Constitución Española de 1978. El anteproyecto de Constitución fue publicado en el Boletín Oficial de las Cortes el:",
+      "opciones": [
+        "a) 15 de junio de 1977",
+        "b) 5 de enero de 1978",
+        "c) 21 de julio de 1978",
+        "d) 31 de octubre de 1978"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Constitución Española. El 5 de enero de 1978 se publicó en el BOC número 44 el texto del anteproyecto de Constitución, abriéndose plazo para presentación de enmiendas. El 15 de junio de 1977 fueron las elecciones generales."
+    },
+    {
+      "id": "t04_t01_p18",
+      "pregunta": "Constitución Española, art. 5. La capital del Estado español es:",
+      "opciones": [
+        "a) La ciudad de Madrid",
+        "b) La villa de Madrid",
+        "c) La comarca de Madrid",
+        "d) La provincia de Madrid"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 5 CE. La capital del Estado es la villa de Madrid. La RAE define capital como la 'principal y cabeza de un Estado, provincia o distrito', siendo Madrid donde se localizan las sedes de las instituciones supremas."
+    },
+    {
+      "id": "t04_t01_p19",
+      "pregunta": "Constitución Española, art. 7. Respecto a los sindicatos de trabajadores y asociaciones empresariales, señale la INCORRECTA:",
+      "opciones": [
+        "a) Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios",
+        "b) Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley",
+        "c) Su estructura interna y funcionamiento deberán ser democráticos",
+        "d) Se establece un triple derecho sindical: de fundación, afiliación y huelga"
+      ],
+      "correcta": 3,
+      "retroalimentacion": "Art. 7 CE. El artículo 7 establece un doble derecho sindical: el de fundación y el de afiliación. El derecho a la huelga se recoge en el artículo 28.2 CE, no en el artículo 7."
+    },
+    {
+      "id": "t04_t01_p20",
+      "pregunta": "Constitución Española de 1978. La Constitución recoge del constitucionalismo alemán e italiano:",
+      "opciones": [
+        "a) El rechazo a la reserva reglamentaria y a la reserva negativa de la ley",
+        "b) La moción de censura constructiva",
+        "c) El sistema bicameral de Cortes",
+        "d) El modelo de Estado federal"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Constitución Española (Introducción). La CE recoge del sistema francés el rechazo a la reserva reglamentaria y a la reserva negativa de la ley, y del constitucionalismo alemán e italiano la moción de censura constructiva."
+    }
+  ]
+}

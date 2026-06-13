@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_39",
+  "titulo": "Test 39 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t39_p01",
+      "pregunta": "Constitución Española. La Comisión Constitucional encargada de redactar el proyecto de Constitución fue creada por el Pleno del Congreso elegido en elecciones de:",
+      "opciones": [
+        "a) 15 de junio de 1975",
+        "b) 15 de junio de 1976",
+        "c) 15 de junio de 1977",
+        "d) 15 de junio de 1978"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Constitución Española (Introducción). Las elecciones generales democráticas se celebraron el 15 DE JUNIO DE 1977. El Congreso elegido en esas elecciones ejerció la iniciativa constitucional aprobando una moción por la que se creó una Comisión Constitucional encargada de la redacción del proyecto de Constitución."
+    },
+    {
+      "id": "t04_t39_p02",
+      "pregunta": "Constitución Española, art. 1. ¿La Constitución de 1978 establece expresamente que España es un Estado laico?",
+      "opciones": [
+        "a) Sí, el artículo 16.3 establece que España es un Estado laico",
+        "b) No, el art. 16.3 establece que ninguna confesión tendrá carácter estatal (Estado aconfesional), lo cual es diferente de ser laico",
+        "c) Sí, el artículo 1 establece que España es un Estado laico y democrático",
+        "d) Sí, el Preámbulo proclama expresamente el laicismo del Estado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 16.3 CE. La Constitución NO establece que España sea un Estado 'laico' (que implica separación absoluta). Establece que NINGUNA CONFESIÓN TENDRÁ CARÁCTER ESTATAL (Estado ACONFESIONAL). La diferencia es importante: España puede cooperar con confesiones religiosas (de hecho, el art. 16.3 lo prevé expresamente)."
+    },
+    {
+      "id": "t04_t39_p03",
+      "pregunta": "Constitución Española, art. 18. El artículo 18.4 CE sobre la protección de datos, ¿es directamente aplicable o necesita desarrollo legal?",
+      "opciones": [
+        "a) Es directamente aplicable sin necesidad de ley",
+        "b) La ley limitará el uso de la informática, por lo que necesita desarrollo legal",
+        "c) Es directamente aplicable pero el TC puede desarrollarlo por vía jurisprudencial",
+        "d) Solo el Gobierno puede regular el uso de la informática por decreto"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 18.4 CE. 'LA LEY LIMITARÁ EL USO DE LA INFORMÁTICA para garantizar el honor y la intimidad personal y familiar de los ciudadanos'. El precepto constitucional NECESITA DESARROLLO LEGAL para ser plenamente efectivo: la ley es el instrumento que fija los límites concretos del uso de la informática."
+    },
+    {
+      "id": "t04_t39_p04",
+      "pregunta": "Constitución Española, art. 27. ¿Los centros docentes privados pueden recibir ayuda de los poderes públicos?",
+      "opciones": [
+        "a) No, los poderes públicos solo pueden financiar centros públicos",
+        "b) Sí, los poderes públicos ayudarán a los centros docentes que reúnan los requisitos que la ley establezca",
+        "c) Solo si tienen carácter confesional",
+        "d) Solo si son centros universitarios de investigación"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 27.9 CE. LOS PODERES PÚBLICOS AYUDARÁN A LOS CENTROS DOCENTES QUE REÚNAN LOS REQUISITOS QUE LA LEY ESTABLEZCA. Esta es la base constitucional del sistema de colegios concertados: centros privados que reciben financiación pública a cambio de cumplir determinados requisitos."
+    },
+    {
+      "id": "t04_t39_p05",
+      "pregunta": "Constitución Española, art. 38. ¿Puede el Estado planificar la actividad económica según la Constitución?",
+      "opciones": [
+        "a) No, la Constitución prohíbe la planificación al reconocer la economía de mercado",
+        "b) Sí, el artículo 131 permite planificar mediante ley y el artículo 38 menciona que la libertad de empresa se ejerce de acuerdo con la planificación cuando proceda",
+        "c) Solo puede planificar en sectores estratégicos declarados por ley orgánica",
+        "d) La planificación está reservada a las CCAA en sus territorios"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 38 y 131 CE. La Constitución reconoce la ECONOMÍA DE MERCADO pero no prohíbe la planificación. El art. 38 dice que la libertad de empresa se ejerce 'de acuerdo con... LA PLANIFICACIÓN'. El art. 131 permite al Estado PLANIFICAR LA ACTIVIDAD ECONÓMICA GENERAL mediante ley para atender las necesidades colectivas."
+    },
+    {
+      "id": "t04_t39_p06",
+      "pregunta": "Constitución Española, art. 57. ¿Puede el Congreso o el Senado por sí solo resolver la sucesión en la Corona si se extinguen todas las líneas?",
+      "opciones": [
+        "a) Sí, cualquiera de las dos Cámaras puede resolver la sucesión",
+        "b) No, lo resuelven las CORTES GENERALES (ambas Cámaras conjuntamente), no una sola",
+        "c) Solo el Congreso, al ser la cámara más representativa",
+        "d) Solo el Senado, al ser la cámara de representación territorial"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 57.3 CE. Extinguidas todas las líneas llamadas en Derecho, LAS CORTES GENERALES (ambas Cámaras) proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España. No es el Congreso solo ni el Senado solo; es el Parlamento completo en su conjunto."
+    },
+    {
+      "id": "t04_t39_p07",
+      "pregunta": "Constitución Española, art. 61. ¿El Príncipe heredero jura lo mismo que el Rey al alcanzar la mayoría de edad?",
+      "opciones": [
+        "a) Jura menos: solo la fidelidad al Rey",
+        "b) Jura lo mismo que el Rey más el juramento de fidelidad al Rey",
+        "c) Jura lo mismo que el Rey exactamente, sin nada adicional",
+        "d) No jura hasta que accede al trono"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 61.2 CE. El Príncipe heredero al alcanzar la mayoría de edad prestará EL MISMO JURAMENTO QUE EL REY (desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes, respetar los derechos de los ciudadanos y de las CCAA), ASÍ COMO EL JURAMENTO DE FIDELIDAD AL REY (adicional)."
+    },
+    {
+      "id": "t04_t39_p08",
+      "pregunta": "Constitución Española, art. 66. Las Cortes Generales son inviolables. ¿Qué implica esto?",
+      "opciones": [
+        "a) Que sus miembros no pueden ser procesados",
+        "b) Que en relación con sus funciones, estas no pueden ser suspendidas y su funcionamiento es permanente",
+        "c) Que sus acuerdos son irrecurribles",
+        "d) Que el Gobierno no puede disolver las Cámaras en ningún caso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 66.3 CE. La inviolabilidad de las Cortes Generales significa que, EN RELACIÓN CON SUS FUNCIONES, ÉSTAS NO PUEDEN SER SUSPENDIDAS Y SU FUNCIONAMIENTO ES PERMANENTE. No implica irrecurribilidad de sus acuerdos ni inmunidad personal de sus miembros (eso es la inviolabilidad e inmunidad del art. 71)."
+    },
+    {
+      "id": "t04_t39_p09",
+      "pregunta": "Constitución Española, art. 74. ¿Cuántos actos del Título II se realizan en sesión conjunta de las Cámaras?",
+      "opciones": [
+        "a) Cinco actos",
+        "b) Siete actos",
+        "c) Nueve actos",
+        "d) Once actos"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 74.1 CE. Los actos del Título II realizados en sesión conjunta son NUEVE: 1) autorizar al Rey para declarar la guerra o paz; 2) proveer la sucesión si se extinguen las líneas; 3) juramento del Regente; 4) resolución sobre matrimonios sucesorios prohibidos; 5) juramento del Príncipe heredero; 6) nombramiento del Regente; 7) nombramiento del tutor; 8) reconocimiento de inhabilitación del Rey; 9) juramento y proclamación del Rey."
+    },
+    {
+      "id": "t04_t39_p10",
+      "pregunta": "Constitución Española, art. 82. ¿Se puede delegar legislativamente en una autoridad distinta del Gobierno?",
+      "opciones": [
+        "a) Sí, puede delegarse en los Ministerios competentes",
+        "b) No, la delegación no podrá permitir la subdelegación a autoridades distintas del propio Gobierno",
+        "c) Solo puede subdelegarse en el Presidente del Gobierno",
+        "d) Puede subdelegarse si así lo prevé expresamente la ley de delegación"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 82.3 CE. La delegación legislativa tampoco PODRÁ PERMITIR LA SUBDELEGACIÓN A AUTORIDADES DISTINTAS DEL PROPIO GOBIERNO. La delegación va del Parlamento al Gobierno como órgano colegiado; no puede descender a niveles inferiores (Ministerios, organismos, etc.)."
+    },
+    {
+      "id": "t04_t39_p11",
+      "pregunta": "Constitución Española, art. 88. ¿Qué acompaña a los proyectos de ley cuando el Gobierno los remite al Congreso?",
+      "opciones": [
+        "a) Solo el texto articulado",
+        "b) El texto articulado acompañado de una exposición de motivos y los antecedentes necesarios",
+        "c) El texto articulado y el dictamen del Consejo de Estado",
+        "d) El texto articulado y la memoria económica del proyecto"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 88 CE. Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá al Congreso, ACOMPAÑADOS DE UNA EXPOSICIÓN DE MOTIVOS Y DE LOS ANTECEDENTES NECESARIOS PARA PRONUNCIARSE SOBRE ELLOS. La exposición de motivos explica la finalidad de la norma."
+    },
+    {
+      "id": "t04_t39_p12",
+      "pregunta": "Constitución Española, art. 92. El referéndum consultivo del artículo 92 sobre decisiones de especial trascendencia, ¿puede convocarlo el Gobierno directamente?",
+      "opciones": [
+        "a) Sí, es una prerrogativa del Gobierno",
+        "b) No, el referéndum es convocado por el Rey mediante propuesta del Presidente del Gobierno PREVIAMENTE AUTORIZADA POR EL CONGRESO",
+        "c) Lo convocan directamente las Cortes Generales",
+        "d) Lo convoca el Presidente del Gobierno con aprobación del Senado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 92.2 CE. El referéndum será convocado POR EL REY, mediante propuesta del PRESIDENTE DEL GOBIERNO, PREVIAMENTE AUTORIZADA POR EL CONGRESO DE LOS DIPUTADOS. Son tres requisitos: propuesta del Presidente, autorización del Congreso y convocatoria formal por el Rey."
+    },
+    {
+      "id": "t04_t39_p13",
+      "pregunta": "Constitución Española, art. 103. La Administración pública sirve con objetividad los intereses generales. ¿Puede actuar discrecionalmente sin sometimiento a la ley?",
+      "opciones": [
+        "a) Sí, la discrecionalidad administrativa es amplia según la CE",
+        "b) No, actúa con sometimiento PLENO a la ley y al Derecho",
+        "c) Solo puede actuar discrecionalmente en materia de organización interna",
+        "d) La discrecionalidad solo está limitada en materia sancionadora"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 103.1 CE. La Administración Pública actúa 'CON SOMETIMIENTO PLENO A LA LEY Y AL DERECHO'. El adjetivo 'pleno' es relevante: no hay zonas exentas de control jurídico. La discrecionalidad administrativa es posible pero está siempre limitada por la ley y los principios generales del Derecho."
+    },
+    {
+      "id": "t04_t39_p14",
+      "pregunta": "Constitución Española, art. 117. El principio de unidad jurisdiccional, ¿excluye la existencia de Juzgados de Paz o de órganos de justicia consuetudinaria (Tribunal de las Aguas de Valencia)?",
+      "opciones": [
+        "a) Sí, todos deben integrarse en el sistema judicial ordinario",
+        "b) No, el principio no afecta a la posibilidad de especialización ni a los tribunales consuetudinarios y tradicionales reconocidos",
+        "c) Los Juzgados de Paz están prohibidos por el principio de unidad",
+        "d) El Tribunal de las Aguas está prohibido por ser un tribunal de excepción"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117.5 CE y art. 125 CE. El principio de UNIDAD JURISDICCIONAL no impide la especialización ni excluye los TRIBUNALES CONSUETUDINARIOS Y TRADICIONALES que el art. 125 CE reconoce expresamente. El Tribunal de las Aguas de Valencia es un ejemplo histórico reconocido constitucionalmente."
+    },
+    {
+      "id": "t04_t39_p15",
+      "pregunta": "Constitución Española, art. 132. ¿Pueden los bienes de dominio público ser objeto de prescripción adquisitiva (adquiridos por posesión continuada)?",
+      "opciones": [
+        "a) Sí, si la posesión dura más de 30 años",
+        "b) No, son imprescriptibles: no pueden adquirirse por prescripción",
+        "c) Solo si han perdido su afectación al uso público",
+        "d) Solo las zonas marítimas terrestres son imprescriptibles"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 132.1 CE. Los bienes de dominio público se rigen por el principio de IMPRESCRIPTIBILIDAD: NO PUEDEN ADQUIRIRSE POR PRESCRIPCIÓN. Ningún particular puede alegar que ha poseído de buena fe un bien de dominio público durante suficiente tiempo como para adquirirlo por usucapión."
+    },
+    {
+      "id": "t04_t39_p16",
+      "pregunta": "Constitución Española, art. 144. ¿Para qué sirve el mecanismo del artículo 144 en relación con las CCAA?",
+      "opciones": [
+        "a) Para disolver una CCAA que incumpla sus obligaciones",
+        "b) Para que las Cortes Generales puedan autorizar la constitución de CCAA en supuestos excepcionales que no se ajustan al proceso ordinario del artículo 143",
+        "c) Para ampliar las competencias de las CCAA por motivos de interés nacional",
+        "d) Para transferir competencias estatales a las CCAA por motivos de urgencia"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 144 CE. El artículo 144 permite a las Cortes, mediante ley orgánica y por MOTIVOS DE INTERÉS NACIONAL: a) AUTORIZAR LA CONSTITUCIÓN DE UNA CCAA cuando su territorio no supere el de una provincia; b) autorizar Estatutos para territorios no integrados en la organización provincial; c) SUSTITUIR LA INICIATIVA DE LAS CORPORACIONES LOCALES."
+    },
+    {
+      "id": "t04_t39_p17",
+      "pregunta": "Constitución Española, art. 159. Los magistrados del TC son independientes e inamovibles. ¿Puede el Pleno separar a un magistrado?",
+      "opciones": [
+        "a) No, la inamovilidad es absoluta durante el mandato de 9 años",
+        "b) Sí, por causas previstas en la LOTC (incompatibilidad sobrevenida, condena penal, negligencia grave, etc.)",
+        "c) Solo el Rey puede separarlos, a propuesta de las Cortes",
+        "d) Solo el TC en pleno puede proponerlo, pero decide el Tribunal Supremo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 159.5 CE. Los miembros del TC SERÁN INDEPENDIENTES E INAMOVIBLES EN EL EJERCICIO DE SU MANDATO. Sin embargo, la LOTC establece causas de cese (incompatibilidad sobrevenida que no se subsana, renuncia, expiración del mandato, condena penal por delito doloso, incapacidad). La inamovilidad no es absoluta; las causas están tasadas."
+    },
+    {
+      "id": "t04_t39_p18",
+      "pregunta": "Constitución Española, art. 167. ¿Cuántas reformas constitucionales se han llevado a cabo por el procedimiento ordinario del art. 167?",
+      "opciones": [
+        "a) Una reforma (la del art. 135 en 2011)",
+        "b) Dos reformas (art. 13.2 en 1992 y art. 135 en 2011)",
+        "c) Tres reformas (art. 13.2 en 1992, art. 135 en 2011 y art. 49 en 2024)",
+        "d) Ninguna; todas las reformas se han hecho por el procedimiento agravado"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Constitución Española. Las TRES REFORMAS constitucionales realizadas hasta 2024 se han llevado a cabo todas por el PROCEDIMIENTO ORDINARIO del art. 167: la del art. 13.2 (1992), la del art. 135 (2011) y la del art. 49 (2024). Ninguna ha requerido el procedimiento agravado del art. 168."
+    },
+    {
+      "id": "t04_t39_p19",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo investigar la actuación de las Fuerzas y Cuerpos de Seguridad del Estado?",
+      "opciones": [
+        "a) No, las FFCCS están excluidas de su ámbito de supervisión",
+        "b) Sí, como funcionarios que actúan al servicio de las Administraciones públicas, están dentro de su ámbito de supervisión",
+        "c) Solo si la queja la presenta la propia víctima, no de oficio",
+        "d) Solo el Defensor de la Policía puede investigar a las FFCCS"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 9 y 14 LO 3/1981. Las atribuciones del Defensor se extienden a LA ACTIVIDAD DE LOS MINISTROS, AUTORIDADES ADMINISTRATIVAS, FUNCIONARIOS Y CUALQUIER PERSONA QUE ACTÚE AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS. Las FFCCS son personal al servicio de la Administración. El art. 14 extiende expresamente su supervisión a la Administración Militar."
+    },
+    {
+      "id": "t04_t39_p20",
+      "pregunta": "Constitución Española, art. 2. El TC define la autonomía autonómica como 'cualitativamente superior a la administrativa de los entes locales'. ¿Qué la hace superior?",
+      "opciones": [
+        "a) El mayor presupuesto de las CCAA respecto a los entes locales",
+        "b) Las potestades legislativas y gubernamentales que tienen las CCAA y que configuran una autonomía de naturaleza política, no solo administrativa",
+        "c) El mayor tamaño territorial de las CCAA",
+        "d) La elección directa de sus órganos de gobierno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 2 CE. El TC indica que las CCAA 'gozan de autonomía CUALITATIVAMENTE SUPERIOR a la ADMINISTRATIVA que corresponde a los entes locales, ya que se añaden POTESTADES LEGISLATIVAS Y GUBERNAMENTALES que lo configuran como AUTONOMÍA DE NATURALEZA POLÍTICA'. Los entes locales no legislan; las CCAA sí."
+    }
+  ]
+}

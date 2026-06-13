@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_26",
+  "titulo": "Test 26 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t26_p01",
+      "pregunta": "Constitución Española, art. 97. La potestad reglamentaria se puede entender como:",
+      "opciones": [
+        "a) La potestad del Gobierno de dictar leyes de urgencia",
+        "b) La potestad de dictar normas (reglamentos), propia del Poder Ejecutivo, de rango inferior a la ley",
+        "c) La potestad del Congreso de delegar en el Gobierno la elaboración de normas",
+        "d) La potestad del Tribunal Constitucional de interpretar las leyes"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 97 CE. La potestad reglamentaria puede entenderse como LA POTESTAD DE DICTAR NORMAS, PROPIA DEL PODER EJECUTIVO. Mientras que al Parlamento le corresponde dictar leyes, el Gobierno dicta reglamentos, NORMAS DE RANGO INFERIOR A AQUÉLLAS, y siempre sometidas al superior imperio de la ley."
+    },
+    {
+      "id": "t04_t26_p02",
+      "pregunta": "Constitución Española, art. 98. ¿Puede el Presidente del Gobierno interferir en la gestión directa de los Ministros?",
+      "opciones": [
+        "a) Sí, el Presidente puede anular cualquier decisión de los Ministros",
+        "b) El Presidente dirige y coordina las funciones del Gobierno sin perjuicio de la competencia y responsabilidad directa de cada Ministro en su gestión",
+        "c) No, los Ministros son completamente independientes en su gestión",
+        "d) Solo puede interferir si la decisión del Ministro afecta a más de un departamento"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 98.2 CE. El Presidente DIRIGE LA ACCIÓN DEL GOBIERNO Y COORDINA LAS FUNCIONES DE LOS DEMÁS MIEMBROS DEL MISMO, SIN PERJUICIO DE LA COMPETENCIA Y RESPONSABILIDAD DIRECTA DE ÉSTOS EN SU GESTIÓN. Hay así un equilibrio entre dirección presidencial y autonomía ministerial."
+    },
+    {
+      "id": "t04_t26_p03",
+      "pregunta": "Constitución Española, art. 99. El Rey consulta a los representantes de los Grupos políticos con representación parlamentaria antes de proponer candidato a Presidente. ¿A través de quién realiza esas consultas?",
+      "opciones": [
+        "a) A través del Presidente del Senado",
+        "b) A través del Presidente del Congreso",
+        "c) A través del Presidente del Tribunal Constitucional",
+        "d) A través del Defensor del Pueblo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 99.1 CE. El Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y A TRAVÉS DEL PRESIDENTE DEL CONGRESO, propondrá un candidato a la Presidencia del Gobierno."
+    },
+    {
+      "id": "t04_t26_p04",
+      "pregunta": "Constitución Española, art. 101. ¿Cuándo cesa el Gobierno por pérdida de confianza parlamentaria?",
+      "opciones": [
+        "a) Cuando el Senado le retira la confianza por mayoría absoluta",
+        "b) En los casos de pérdida de la confianza parlamentaria previstos en la Constitución (moción de censura aprobada o cuestión de confianza no superada)",
+        "c) Cuando más de la mitad de los Ministros presentan su dimisión",
+        "d) Cuando el Presidente del Gobierno pierde las primarias de su partido"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 101.1 CE. El Gobierno cesa en los CASOS DE PÉRDIDA DE LA CONFIANZA PARLAMENTARIA PREVISTOS EN LA CONSTITUCIÓN: cuando el Congreso aprueba una moción de censura (art. 113-114) o cuando el Gobierno plantea la cuestión de confianza y no la supera (art. 112-114)."
+    },
+    {
+      "id": "t04_t26_p05",
+      "pregunta": "Constitución Española, art. 102. ¿Puede el Rey indultar al Presidente del Gobierno por un delito cometido en el ejercicio de sus funciones?",
+      "opciones": [
+        "a) Sí, el indulto real alcanza a todos los ciudadanos incluidos los miembros del Gobierno",
+        "b) No, la prerrogativa real de gracia no será aplicable a ninguno de los supuestos del artículo 102",
+        "c) Solo puede conceder el indulto si lo propone el Consejo de Ministros",
+        "d) Solo puede conceder el indulto a miembros del Gobierno que ya hayan cesado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 102.3 CE. LA PRERROGATIVA REAL DE GRACIA NO SERÁ APLICABLE A NINGUNO DE LOS SUPUESTOS DEL PRESENTE ARTÍCULO (responsabilidad criminal del Presidente y miembros del Gobierno). Esta limitación evita que el Rey pueda proteger al Gobierno frente a la justicia penal."
+    },
+    {
+      "id": "t04_t26_p06",
+      "pregunta": "Constitución Española, art. 103. El acceso a la función pública se rige por los principios de mérito y capacidad. ¿Qué otros aspectos regula la ley sobre los funcionarios?",
+      "opciones": [
+        "a) Solo el sistema de incompatibilidades",
+        "b) El estatuto de los funcionarios, el acceso, las peculiaridades de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad",
+        "c) Solo el acceso y las incompatibilidades",
+        "d) El sistema de ascensos y los derechos retributivos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 103.3 CE. La ley regulará: el ESTATUTO DE LOS FUNCIONARIOS PÚBLICOS, el ACCESO (principios de mérito y capacidad), las PECULIARIDADES DEL EJERCICIO DE SU DERECHO A SINDICACIÓN, el SISTEMA DE INCOMPATIBILIDADES y las GARANTÍAS PARA LA IMPARCIALIDAD en el ejercicio de sus funciones."
+    },
+    {
+      "id": "t04_t26_p07",
+      "pregunta": "Constitución Española, art. 104. ¿Qué tipo de norma determina las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad?",
+      "opciones": [
+        "a) Un decreto del Consejo de Ministros",
+        "b) Una ley orgánica",
+        "c) Una ley ordinaria",
+        "d) Un reglamento autónomo del Ministerio del Interior"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 104.2 CE. UNA LEY ORGÁNICA determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad. Es la LO 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad del Estado."
+    },
+    {
+      "id": "t04_t26_p08",
+      "pregunta": "Constitución Española, art. 105. En relación con el procedimiento administrativo, la ley garantizará la audiencia del interesado cuando proceda. ¿Existe siempre el derecho de audiencia?",
+      "opciones": [
+        "a) Sí, la audiencia del interesado es obligatoria en todo procedimiento administrativo",
+        "b) No, la ley garantiza la audiencia cuando proceda, no en todos los casos",
+        "c) Solo en los procedimientos sancionadores",
+        "d) Solo en los procedimientos que afecten a derechos fundamentales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 105.c) CE. La ley regulará el procedimiento a través del cual deben producirse los actos administrativos, garantizando, CUANDO PROCEDA, la audiencia del interesado. No se garantiza en todos los casos, pues hay actos en los que no procede la audiencia."
+    },
+    {
+      "id": "t04_t26_p09",
+      "pregunta": "Constitución Española, art. 106. ¿Cuál es el límite expreso a la responsabilidad patrimonial del Estado por el funcionamiento de los servicios públicos?",
+      "opciones": [
+        "a) Los actos de gobierno y las decisiones de política económica",
+        "b) Los casos de fuerza mayor",
+        "c) Los daños que excedan de 50.000 euros",
+        "d) Los daños causados por terceros en el ejercicio de actividades privadas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 106.2 CE. Los particulares tienen derecho a ser indemnizados por toda lesión consecuencia del funcionamiento de los servicios públicos, SALVO EN LOS CASOS DE FUERZA MAYOR. La fuerza mayor es el único límite constitucional expreso a esta responsabilidad patrimonial del Estado."
+    },
+    {
+      "id": "t04_t26_p10",
+      "pregunta": "Constitución Española, art. 108. La responsabilidad solidaria del Gobierno significa que:",
+      "opciones": [
+        "a) Cada Ministro responde individualmente por sus propias decisiones",
+        "b) Todo el Gobierno responde por las decisiones políticas de un solo miembro",
+        "c) El Gobierno responde ante el Senado y el Congreso conjuntamente",
+        "d) La responsabilidad solo se hace efectiva en caso de moción de censura"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 108 CE. La RESPONSABILIDAD SOLIDARIA a la que hace referencia este artículo quiere decir que TODO EL GOBIERNO RESPONDE POR LAS DECISIONES POLÍTICAS DE UN SOLO MIEMBRO. El Gobierno actúa como un colegio que asume colectivamente la responsabilidad de sus decisiones."
+    },
+    {
+      "id": "t04_t26_p11",
+      "pregunta": "Constitución Española, art. 109. ¿Pueden las Cámaras recabar información directamente de cualquier autoridad de las CCAA?",
+      "opciones": [
+        "a) No, solo pueden recabar información del Gobierno central",
+        "b) Sí, pueden recabar información del Gobierno y sus Departamentos y de cualesquiera autoridades del Estado y de las CCAA",
+        "c) Solo si el Pleno lo aprueba por mayoría absoluta",
+        "d) Solo mediante las Comisiones de investigación"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 109 CE. Las Cámaras y sus Comisiones podrán recabar, a través de los Presidentes de aquéllas, la información y ayuda que precisen del GOBIERNO y de sus DEPARTAMENTOS y de CUALESQUIERA AUTORIDADES DEL ESTADO Y DE LAS COMUNIDADES AUTÓNOMAS."
+    },
+    {
+      "id": "t04_t26_p12",
+      "pregunta": "Constitución Española, art. 111. ¿Toda interpelación puede dar lugar a una moción?",
+      "opciones": [
+        "a) No, solo las interpelaciones aprobadas por mayoría del Pleno",
+        "b) Sí, toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición",
+        "c) Solo si la interpelación es seguida de votación",
+        "d) Solo las interpelaciones al Presidente del Gobierno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 111.2 CE. TODA INTERPELACIÓN PODRÁ DAR LUGAR A UNA MOCIÓN en la que la Cámara manifieste su posición. Las preguntas, en cambio, no dan lugar a moción. Esta distinción es la diferencia esencial entre preguntas e interpelaciones parlamentarias."
+    },
+    {
+      "id": "t04_t26_p13",
+      "pregunta": "Constitución Española, art. 112. ¿Quién puede plantear la cuestión de confianza?",
+      "opciones": [
+        "a) El Presidente del Gobierno, previa deliberación del Consejo de Ministros",
+        "b) Cualquier miembro del Gobierno individualmente",
+        "c) El Presidente del Congreso de los Diputados",
+        "d) Al menos la décima parte de los Diputados"
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 112 CE. EL PRESIDENTE DEL GOBIERNO, PREVIA DELIBERACIÓN DEL CONSEJO DE MINISTROS, puede plantear ante el Congreso la cuestión de confianza. La iniciativa corresponde al Gobierno, a diferencia de la moción de censura que surge del Parlamento."
+    },
+    {
+      "id": "t04_t26_p14",
+      "pregunta": "Constitución Española, art. 114. Si el Congreso adopta una moción de censura, ¿quién se convierte en nuevo Presidente del Gobierno?",
+      "opciones": [
+        "a) El Presidente del Congreso temporalmente hasta nuevas elecciones",
+        "b) El candidato incluido en la moción de censura, al que el Rey nombrará Presidente",
+        "c) El candidato más votado en las últimas elecciones generales",
+        "d) El Presidente del Senado en funciones hasta nueva investidura"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 114.2 CE. Si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión al Rey y EL CANDIDATO INCLUIDO EN AQUÉLLA SE ENTENDERÁ INVESTIDO DE LA CONFIANZA DE LA CÁMARA. EL REY LE NOMBRARÁ PRESIDENTE DEL GOBIERNO. Por eso se llama moción de censura 'constructiva': incluye ya al sucesor."
+    },
+    {
+      "id": "t04_t26_p15",
+      "pregunta": "Constitución Española, art. 115. ¿Bajo qué responsabilidad propone el Presidente del Gobierno la disolución de las Cámaras?",
+      "opciones": [
+        "a) Bajo la responsabilidad solidaria del Consejo de Ministros",
+        "b) Bajo su exclusiva responsabilidad, previa deliberación del Consejo de Ministros",
+        "c) Bajo la supervisión del Presidente del Congreso",
+        "d) Bajo la responsabilidad compartida del Gobierno y el Rey"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 115.1 CE. El Presidente del Gobierno, previa deliberación del Consejo de Ministros, y BAJO SU EXCLUSIVA RESPONSABILIDAD, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales. La deliberación en Consejo es requisito formal, pero la responsabilidad es exclusivamente presidencial."
+    },
+    {
+      "id": "t04_t26_p16",
+      "pregunta": "Constitución Española, art. 116. El estado de alarma puede declararse ante catástrofes o calamidades públicas como terremotos o inundaciones. ¿Puede declararse también por huelgas que paralicen servicios esenciales?",
+      "opciones": [
+        "a) No, las huelgas no son causa válida para declarar el estado de alarma",
+        "b) Sí, la paralización de los servicios esenciales para la comunidad como consecuencia de huelgas o conflictos colectivos puede motivar el estado de alarma",
+        "c) Solo si la huelga afecta a servicios sanitarios de urgencia",
+        "d) Solo en estado de excepción, no de alarma"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 116 CE y LO 4/1981. El estado de alarma puede declararse cuando se produzca la PARALIZACIÓN DE LOS SERVICIOS ESENCIALES PARA LA COMUNIDAD QUE DETERMINE alguno de los resultados anteriores (catástrofes, crisis sanitarias, desabastecimiento), COMO CONSECUENCIA DE HUELGAS O CONFLICTOS COLECTIVOS."
+    },
+    {
+      "id": "t04_t26_p17",
+      "pregunta": "Constitución Española, art. 116. ¿Puede el Gobierno disolver el Congreso mientras está en vigor el estado de sitio?",
+      "opciones": [
+        "a) Sí, la disolución es siempre posible como prerrogativa constitucional",
+        "b) No, no podrá procederse a la disolución del Congreso mientras estén declarados alguno de estos estados",
+        "c) Solo si la disolución la aprueba el propio Congreso",
+        "d) Solo si lo autoriza el Tribunal Constitucional"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 116.5 CE. NO PODRÁ PROCEDERSE A LA DISOLUCIÓN DEL CONGRESO MIENTRAS ESTÉN DECLARADOS ALGUNOS DE LOS ESTADOS COMPRENDIDOS EN EL PRESENTE ARTÍCULO. Las Cámaras quedan automáticamente convocadas y su funcionamiento no puede interrumpirse durante estos estados."
+    },
+    {
+      "id": "t04_t26_p18",
+      "pregunta": "Constitución Española, art. 116. La declaración de los estados de alarma, excepción y sitio, ¿modifica el principio de responsabilidad del Gobierno?",
+      "opciones": [
+        "a) Sí, suspende temporalmente la responsabilidad del Gobierno ante el Congreso",
+        "b) No, la declaración de estos estados no modificará el principio de responsabilidad del Gobierno y de sus agentes",
+        "c) Solo en el estado de sitio se suspende la responsabilidad gubernamental",
+        "d) Se modifica solo respecto a los actos estrictamente militares"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 116.6 CE. LA DECLARACIÓN DE LOS ESTADOS DE ALARMA, DE EXCEPCIÓN Y DE SITIO NO MODIFICARÁN EL PRINCIPIO DE RESPONSABILIDAD DEL GOBIERNO Y DE SUS AGENTES reconocidos en la Constitución y en las leyes. Los estados de crisis no son una 'carta blanca' para el Gobierno."
+    },
+    {
+      "id": "t04_t26_p19",
+      "pregunta": "Constitución Española, art. 107. ¿Puede el Consejo de Estado elaborar estudios o informes por propia iniciativa?",
+      "opciones": [
+        "a) Sí, puede elaborarlos de oficio cuando lo considere necesario",
+        "b) No, solo puede elaborarlos a petición del Presidente del Gobierno o de un Ministro",
+        "c) Solo puede elevar mociones al Gobierno, no elaborar estudios por iniciativa propia",
+        "d) Puede elaborar estudios de oficio pero solo en materia de política exterior"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 107 CE. El Consejo de Estado puede elaborar estudios, informes o memorias A PETICIÓN DEL PRESIDENTE DEL GOBIERNO O DE UN MINISTRO. Además, está facultado para ELEVAR AL GOBIERNO MOCIONES sobre cualquier asunto que la práctica y experiencia de sus funciones le sugieran, esta última sí es de oficio."
+    },
+    {
+      "id": "t04_t26_p20",
+      "pregunta": "Constitución Española, art. 105. Los ciudadanos tienen derecho de acceso a los archivos y registros administrativos. ¿Qué documentos están excluidos de este derecho de acceso?",
+      "opciones": [
+        "a) Todos los documentos clasificados como secretos por el Gobierno",
+        "b) Los que afecten a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas",
+        "c) Solo los documentos declarados secretos por el Consejo de Ministros",
+        "d) Todos los documentos con más de 25 años de antigüedad"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 105.b) CE. El derecho de acceso de los ciudadanos a los archivos y registros administrativos queda excluido EN LO QUE AFECTE A LA SEGURIDAD Y DEFENSA DEL ESTADO, LA AVERIGUACIÓN DE LOS DELITOS Y LA INTIMIDAD DE LAS PERSONAS."
+    }
+  ]
+}

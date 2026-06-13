@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_07",
+  "titulo": "Test 7 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t07_p01",
+      "pregunta": "Constitución Española, art. 117. La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados que son:",
+      "opciones": [
+        "a) Independientes, inamovibles, responsables y sometidos al Gobierno",
+        "b) Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley",
+        "c) Independientes, temporales, responsables y sometidos a las Cortes Generales",
+        "d) Independientes, inamovibles, irresponsables y sometidos al Consejo General del Poder Judicial"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117.1 CE. Los Jueces y Magistrados son INDEPENDIENTES, INAMOVIBLES, RESPONSABLES y sometidos ÚNICAMENTE AL IMPERIO DE LA LEY. No están sometidos al Gobierno ni a las Cortes. Su responsabilidad es penal (prevaricación), no política."
+    },
+    {
+      "id": "t04_t07_p02",
+      "pregunta": "Constitución Española, art. 117. El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales. La ley regulará el ejercicio de la jurisdicción militar:",
+      "opciones": [
+        "a) En todos los ámbitos con plena autonomía respecto a la jurisdicción ordinaria",
+        "b) En el ámbito estrictamente castrense y en los supuestos de estado de sitio",
+        "c) Solo en tiempo de guerra y bajo declaración expresa de las Cortes",
+        "d) En los estados de alarma, excepción y sitio"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117.5 CE. La ley regulará el ejercicio de la jurisdicción militar en el ámbito ESTRICTAMENTE CASTRENSE y en los supuestos de ESTADO DE SITIO, de acuerdo con los principios de la Constitución. Se prohíben los Tribunales de excepción (art. 117.6)."
+    },
+    {
+      "id": "t04_t07_p03",
+      "pregunta": "Constitución Española, art. 120. En relación con las actuaciones judiciales, señale la INCORRECTA:",
+      "opciones": [
+        "a) Las actuaciones judiciales serán públicas, con las excepciones que prevean las leyes de procedimiento",
+        "b) El procedimiento será predominantemente oral, sobre todo en materia criminal",
+        "c) Las sentencias serán siempre motivadas y se pronunciarán en audiencia pública",
+        "d) Las sentencias podrán dictarse sin motivación cuando así lo acuerde el tribunal por razones de urgencia"
+      ],
+      "correcta": 3,
+      "retroalimentacion": "Art. 120.3 CE. Las sentencias serán SIEMPRE MOTIVADAS y se pronunciarán en audiencia pública. No existe excepción por razones de urgencia: la motivación de las sentencias es un requisito constitucional absoluto que garantiza el control de la arbitrariedad judicial."
+    },
+    {
+      "id": "t04_t07_p04",
+      "pregunta": "Constitución Española, art. 122. El Consejo General del Poder Judicial está integrado por el Presidente del Tribunal Supremo y por:",
+      "opciones": [
+        "a) Quince miembros nombrados por el Rey por un período de cuatro años",
+        "b) Veinte miembros nombrados por el Rey por un período de cinco años",
+        "c) Veinticinco miembros nombrados por el Congreso por un período de cuatro años",
+        "d) Veinte miembros nombrados por las Cortes Generales por un período de cuatro años"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 122.3 CE. El CGPJ está integrado por el Presidente del Tribunal Supremo y por VEINTE MIEMBROS nombrados por el REY por un período de CINCO AÑOS: doce entre Jueces y Magistrados, cuatro a propuesta del Congreso y cuatro a propuesta del Senado, por mayoría de tres quintos."
+    },
+    {
+      "id": "t04_t07_p05",
+      "pregunta": "Constitución Española, art. 122. Los cuatro miembros del CGPJ propuestos por el Congreso y los cuatro propuestos por el Senado deben ser elegidos por:",
+      "opciones": [
+        "a) Mayoría simple de sus miembros, entre abogados y juristas con más de diez años de ejercicio",
+        "b) Mayoría de tres quintos de sus miembros, entre abogados y juristas con más de quince años de ejercicio",
+        "c) Mayoría absoluta de sus miembros, entre magistrados y fiscales con más de veinte años de ejercicio",
+        "d) Mayoría de dos tercios de sus miembros, entre cualquier profesional jurídico"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 122.3 CE. Los cuatro miembros propuestos por el Congreso y los cuatro por el Senado se elegirán por MAYORÍA DE TRES QUINTOS de sus miembros, entre abogados y otros juristas de reconocida competencia con MÁS DE QUINCE AÑOS de ejercicio en su profesión."
+    },
+    {
+      "id": "t04_t07_p06",
+      "pregunta": "Constitución Española, art. 123. El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, salvo:",
+      "opciones": [
+        "a) Lo dispuesto en materia contencioso-administrativa",
+        "b) Lo dispuesto en materia de garantías constitucionales",
+        "c) Lo dispuesto respecto al Tribunal de Cuentas",
+        "d) Lo dispuesto para los Tribunales Superiores de Justicia de las CCAA"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 123.1 CE. El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, SALVO LO DISPUESTO EN MATERIA DE GARANTÍAS CONSTITUCIONALES, cuyo control corresponde al Tribunal Constitucional."
+    },
+    {
+      "id": "t04_t07_p07",
+      "pregunta": "Constitución Española, art. 124. El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno:",
+      "opciones": [
+        "a) Sin necesidad de informe previo de ningún órgano",
+        "b) Oído el Consejo General del Poder Judicial",
+        "c) Con la aprobación de las Cortes Generales",
+        "d) A propuesta del Congreso de los Diputados por mayoría absoluta"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 124.4 CE. El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, OÍDO EL CONSEJO GENERAL DEL PODER JUDICIAL. El Ministerio Fiscal actúa conforme a los principios de unidad de actuación, dependencia jerárquica, legalidad e imparcialidad."
+    },
+    {
+      "id": "t04_t07_p08",
+      "pregunta": "Constitución Española, art. 127. Los Jueces y Magistrados, mientras se hallen en activo, no podrán:",
+      "opciones": [
+        "a) Desempeñar otros cargos públicos ni pertenecer a partidos políticos o sindicatos",
+        "b) Pertenecer a partidos políticos, pero sí a sindicatos de jueces",
+        "c) Desempeñar cargos públicos, pero pueden pertenecer a partidos políticos",
+        "d) Ejercer la docencia universitaria ni participar en medios de comunicación"
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 127.1 CE. Los Jueces, Magistrados y Fiscales, mientras se hallen en activo, no podrán desempeñar OTROS CARGOS PÚBLICOS, NI PERTENECER A PARTIDOS POLÍTICOS O SINDICATOS. La ley establecerá el sistema de asociación profesional."
+    },
+    {
+      "id": "t04_t07_p09",
+      "pregunta": "Constitución Española, art. 134. Los Presupuestos Generales del Estado tendrán carácter:",
+      "opciones": [
+        "a) Plurianual, con vigencia de cuatro años",
+        "b) Anual",
+        "c) Bienal, con revisión semestral",
+        "d) Cuatrienal, coincidiendo con la legislatura"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 134.2 CE. Los Presupuestos Generales del Estado tendrán CARÁCTER ANUAL, incluirán la totalidad de los gastos e ingresos del sector público estatal. El Gobierno debe presentarlos al Congreso al menos tres meses antes de la expiración de los del año anterior."
+    },
+    {
+      "id": "t04_t07_p10",
+      "pregunta": "Constitución Española, art. 134. Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente:",
+      "opciones": [
+        "a) El Gobierno queda obligado a dimitir",
+        "b) Se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos",
+        "c) El Senado aprobará los Presupuestos por delegación del Congreso",
+        "d) El Gobierno podrá gobernar sin Presupuesto por un plazo máximo de seis meses"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 134.4 CE. Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico, se considerarán AUTOMÁTICAMENTE PRORROGADOS los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos."
+    },
+    {
+      "id": "t04_t07_p11",
+      "pregunta": "Constitución Española, art. 134. En relación con la Ley de Presupuestos, señale la INCORRECTA:",
+      "opciones": [
+        "a) Corresponde al Gobierno la elaboración de los Presupuestos Generales del Estado",
+        "b) Corresponde a las Cortes Generales el examen, enmienda y aprobación de los Presupuestos",
+        "c) La Ley de Presupuestos puede crear nuevos tributos",
+        "d) La Ley de Presupuestos podrá modificar tributos cuando una ley tributaria sustantiva así lo prevea"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 134.7 CE. La Ley de Presupuestos NO PUEDE CREAR TRIBUTOS. Podrá modificarlos cuando una ley tributaria sustantiva así lo prevea. La potestad originaria para establecer tributos corresponde exclusivamente al Estado mediante ley (art. 133.1 CE)."
+    },
+    {
+      "id": "t04_t07_p12",
+      "pregunta": "Constitución Española, art. 136. El Tribunal de Cuentas es:",
+      "opciones": [
+        "a) El supremo órgano consultivo del Gobierno en materia económica",
+        "b) El supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público",
+        "c) El órgano dependiente del Ministerio de Hacienda",
+        "d) El órgano de control interno de las Cortes Generales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 136.1 CE. El Tribunal de Cuentas es el SUPREMO ÓRGANO FISCALIZADOR de las cuentas y de la gestión económica del Estado y del sector público. Depende directamente de las Cortes Generales. Sus miembros gozan de la misma independencia e inamovilidad que los Jueces."
+    },
+    {
+      "id": "t04_t07_p13",
+      "pregunta": "Constitución Española, art. 133. La potestad originaria para establecer los tributos corresponde exclusivamente al Estado:",
+      "opciones": [
+        "a) Mediante decreto del Consejo de Ministros",
+        "b) Mediante ley",
+        "c) Mediante orden ministerial",
+        "d) Mediante cualquier norma con rango reglamentario"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 133.1 CE. La potestad originaria para establecer los tributos corresponde exclusivamente al Estado, MEDIANTE LEY. Las CCAA y las Corporaciones locales también pueden establecer tributos, pero de acuerdo con la Constitución y las leyes del Estado."
+    },
+    {
+      "id": "t04_t07_p14",
+      "pregunta": "Constitución Española, art. 125. La institución del Jurado en España está integrada por:",
+      "opciones": [
+        "a) Siete jurados y un magistrado presidente",
+        "b) Nueve jurados y un magistrado presidente",
+        "c) Doce jurados y un magistrado presidente",
+        "d) Once jurados y dos magistrados"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 125 CE y Ley Orgánica del Tribunal del Jurado. El tribunal del Jurado viene integrado por NUEVE JURADOS y un magistrado integrante de la Audiencia Provincial que lo presidirá. El juicio del Jurado se celebra solo en el ámbito de la Audiencia Provincial."
+    },
+    {
+      "id": "t04_t07_p15",
+      "pregunta": "Constitución Española, art. 121. Los daños causados por error judicial o funcionamiento anormal de la Administración de Justicia darán derecho a una indemnización a cargo de:",
+      "opciones": [
+        "a) El Juez o Magistrado responsable del error",
+        "b) El Estado, conforme a la ley",
+        "c) El Consejo General del Poder Judicial",
+        "d) El Ministerio de Justicia mediante resolución administrativa"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 121 CE. Los daños causados por error judicial o funcionamiento anormal de la Administración de Justicia darán derecho a una indemnización a cargo del ESTADO, conforme a la ley. La responsabilidad es del Estado, no directamente del juez."
+    },
+    {
+      "id": "t04_t07_p16",
+      "pregunta": "Constitución Española, art. 135. El límite de superación del déficit estructural y el volumen de deuda pública establecidos en el artículo 135 solo podrán superarse:",
+      "opciones": [
+        "a) Cuando lo autorice el Gobierno por decreto-ley",
+        "b) En caso de catástrofes naturales, recesión económica o emergencia extraordinaria, apreciadas por la mayoría absoluta del Congreso",
+        "c) Cuando así lo apruebe el Senado por mayoría de dos tercios",
+        "d) En caso de guerra, por decreto del Consejo de Ministros"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 135.4 CE. Los límites de déficit y deuda solo podrán superarse en caso de catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria que escapen al control del Estado, APRECIADAS POR LA MAYORÍA ABSOLUTA DE LOS MIEMBROS DEL CONGRESO."
+    },
+    {
+      "id": "t04_t07_p17",
+      "pregunta": "Constitución Española, art. 132. Son bienes de dominio público estatal en todo caso:",
+      "opciones": [
+        "a) Los montes y bosques nacionales",
+        "b) La zona marítimo-terrestre, las playas, el mar territorial y los recursos naturales de la zona económica y la plataforma continental",
+        "c) Los edificios públicos de la Administración General del Estado",
+        "d) Los ríos y lagos de carácter intercomunitario"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 132.2 CE. Son bienes de dominio público estatal los que determine la ley y, EN TODO CASO, la ZONA MARÍTIMO-TERRESTRE, las PLAYAS, el MAR TERRITORIAL y los recursos naturales de la ZONA ECONÓMICA y la PLATAFORMA CONTINENTAL."
+    },
+    {
+      "id": "t04_t07_p18",
+      "pregunta": "Constitución Española, art. 117. Los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados:",
+      "opciones": [
+        "a) En ningún caso",
+        "b) Sino por alguna de las causas y con las garantías previstas en la ley",
+        "c) Salvo por orden del Consejo General del Poder Judicial sin necesidad de ley",
+        "d) Salvo por orden del Ministro de Justicia previa instrucción de expediente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 117.2 CE. Los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados, SINO POR ALGUNA DE LAS CAUSAS Y CON LAS GARANTÍAS PREVISTAS EN LA LEY. Esta inamovilidad garantiza su independencia frente a los demás poderes."
+    },
+    {
+      "id": "t04_t07_p19",
+      "pregunta": "Constitución Española, art. 134. El Gobierno deberá presentar ante el Congreso los Presupuestos Generales del Estado al menos:",
+      "opciones": [
+        "a) Un mes antes de la expiración de los del año anterior",
+        "b) Dos meses antes de la expiración de los del año anterior",
+        "c) Tres meses antes de la expiración de los del año anterior",
+        "d) Cuatro meses antes de la expiración de los del año anterior"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 134.3 CE. El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos TRES MESES antes de la expiración de los del año anterior."
+    },
+    {
+      "id": "t04_t07_p20",
+      "pregunta": "Constitución Española, art. 126. La Policía Judicial depende, en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, de:",
+      "opciones": [
+        "a) El Ministerio del Interior exclusivamente",
+        "b) Los Jueces, los Tribunales y el Ministerio Fiscal",
+        "c) El Consejo General del Poder Judicial",
+        "d) El Director General de la Policía"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 126 CE. La Policía Judicial depende de los JUECES, de los TRIBUNALES y del MINISTERIO FISCAL en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "tema_02_test_03",
+  "titulo": "Test 3 — Tema 2",
+  "preguntas": [
+    {
+      "id": "t02_t03_p01",
+      "pregunta": "LO 3/2007. El acoso por razón de sexo consiste en cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de:",
+      "opciones": ["a) Atentar contra su dignidad y crear un entorno intimidatorio, degradante u ofensivo.", "b) Causarle un perjuicio económico directo.", "c) Modificar sus condiciones retributivas.", "d) Excluirla de los procesos de promoción profesional."],
+      "correcta": 0,
+      "retroalimentacion": "Art. 7.2 LO 3/2007. El acoso por razón de sexo es cualquier comportamiento realizado EN FUNCIÓN DEL SEXO de una persona, con el propósito o efecto de atentar contra su DIGNIDAD y crear un entorno INTIMIDATORIO, DEGRADANTE U OFENSIVO."
+    },
+    {
+      "id": "t02_t03_p02",
+      "pregunta": "LO 3/2007. Los Poderes Públicos adoptarán medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres. Tales medidas serán aplicables:",
+      "opciones": ["a) Con carácter permanente e indefinido.", "b) En tanto subsistan dichas situaciones.", "c) Durante un período máximo de diez años.", "d) Hasta que se alcance el 50% de representación femenina en todos los ámbitos."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 11 LO 3/2007. Las medidas de acción positiva serán aplicables EN TANTO SUBSISTAN las situaciones patentes de desigualdad de hecho. Son temporales y condicionadas a la existencia de la desigualdad, no permanentes ni sujetas a un plazo fijo."
+    },
+    {
+      "id": "t02_t03_p03",
+      "pregunta": "LO 3/2007. Los poderes públicos, en la elaboración de sus estudios y estadísticas, deberán incluir sistemáticamente:",
+      "opciones": ["a) La variable de edad en todas las estadísticas.", "b) La variable de sexo en las estadísticas, encuestas y recogida de datos.", "c) La variable de origen geográfico en todas las encuestas.", "d) La variable de nivel de estudios en todas las estadísticas."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 20 LO 3/2007. Los poderes públicos deberán incluir SISTEMÁTICAMENTE la variable de SEXO en las estadísticas, encuestas y recogida de datos que lleven a cabo, para garantizar la integración de la perspectiva de género."
+    },
+    {
+      "id": "t02_t03_p04",
+      "pregunta": "LO 3/2007. En el seno de la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos de actuación, con la finalidad de:",
+      "opciones": ["a) Coordinar la política laboral entre el Estado y las CCAA.", "b) Integrar el derecho de igualdad entre mujeres y hombres en el ejercicio de las respectivas competencias.", "c) Aprobar los planes de igualdad de las empresas públicas.", "d) Supervisar la aplicación de las sanciones por discriminación."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 21 LO 3/2007. La Administración General del Estado y las CCAA cooperarán para integrar el derecho de igualdad en el ejercicio de sus competencias, especialmente en sus actuaciones de planificación. En la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos."
+    },
+    {
+      "id": "t02_t03_p05",
+      "pregunta": "LO 3/2007. Las corporaciones locales podrán establecer Planes Municipales de organización del tiempo de la ciudad con el fin de:",
+      "opciones": ["a) Regular los horarios comerciales en función del sexo de los trabajadores.", "b) Avanzar hacia un reparto equitativo de los tiempos entre mujeres y hombres.", "c) Establecer cuotas de participación femenina en el gobierno municipal.", "d) Regular la conciliación en las empresas del municipio."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 22 LO 3/2007. Las corporaciones locales podrán establecer Planes Municipales de organización del tiempo de la ciudad para avanzar hacia un reparto EQUITATIVO de los tiempos entre mujeres y hombres. El Estado podrá prestar asistencia técnica, sin perjuicio de las competencias de las CCAA."
+    },
+    {
+      "id": "t02_t03_p06",
+      "pregunta": "LO 3/2007. Las políticas de empleo tendrán como uno de sus objetivos prioritarios, en cuanto al fomento de la empleabilidad de las mujeres:",
+      "opciones": ["a) Reservar el 40% de los puestos de trabajo para mujeres en todos los sectores.", "b) Aumentar la participación de las mujeres en el mercado de trabajo y avanzar en la igualdad efectiva, potenciando su nivel formativo y adaptabilidad.", "c) Establecer bonificaciones exclusivamente en las contrataciones a tiempo parcial.", "d) Limitar las contrataciones de hombres en sectores con infrarrepresentación femenina."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 42 LO 3/2007. Las políticas de empleo tendrán como objetivo prioritario aumentar la PARTICIPACIÓN de las mujeres en el mercado de trabajo y avanzar en la igualdad efectiva, mejorando su empleabilidad y permanencia en el empleo, potenciando su nivel FORMATIVO y su ADAPTABILIDAD."
+    },
+    {
+      "id": "t02_t03_p07",
+      "pregunta": "LO 3/2007. Los Programas de inserción laboral activa comprenderán todos los niveles educativos y edad de las mujeres, incluyendo los de Formación Profesional, Escuelas Taller y Casas de Oficios, y se podrán destinar prioritariamente a:",
+      "opciones": ["a) Solo a mujeres mayores de 45 años.", "b) Colectivos específicos de mujeres o contemplar una determinada proporción de mujeres.", "c) Exclusivamente a mujeres con cargas familiares.", "d) Solo a mujeres en situación de desempleo de larga duración."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 42.2 LO 3/2007. Los Programas de inserción laboral activa, dirigidos a personas en desempleo, se podrán destinar prioritariamente a COLECTIVOS ESPECÍFICOS DE MUJERES o contemplar una determinada PROPORCIÓN DE MUJERES, sin restringirse a un colectivo concreto por edad o situación."
+    },
+    {
+      "id": "t02_t03_p08",
+      "pregunta": "LO 3/2007. Las empresas deberán promover condiciones de trabajo que eviten la comisión de delitos y conductas contra la libertad sexual e integridad moral, incidiendo especialmente en el acoso sexual y el acoso por razón de sexo, incluidos los cometidos en el:",
+      "opciones": ["a) Ámbito familiar.", "b) Ámbito digital.", "c) Ámbito educativo.", "d) Ámbito sanitario."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 48 LO 3/2007. Las empresas deberán promover condiciones que eviten conductas contra la libertad sexual e integridad moral, incidiendo en el acoso sexual y el acoso por razón de sexo, incluidos los cometidos en el ÁMBITO DIGITAL. Pueden establecerse medidas negociadas con los representantes de los trabajadores."
+    },
+    {
+      "id": "t02_t03_p09",
+      "pregunta": "LO 3/2007. La aprobación de convocatorias de pruebas selectivas para el acceso al empleo público deberá acompañarse de un informe de impacto de género, salvo en casos de:",
+      "opciones": ["a) Convocatorias con menos de 10 plazas.", "b) Urgencia.", "c) Convocatorias para puestos directivos.", "d) Pruebas de carácter interno o de promoción."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 55 LO 3/2007. La aprobación de convocatorias de pruebas selectivas para el acceso al empleo público deberá acompañarse de informe de impacto de género, SALVO EN CASOS DE URGENCIA y siempre sin perjuicio de la prohibición de discriminación por razón de sexo."
+    },
+    {
+      "id": "t02_t03_p10",
+      "pregunta": "LO 3/2007. Cuando el período de vacaciones de una empleada pública coincida con una incapacidad temporal derivada del embarazo, parto o lactancia natural, o con el permiso de maternidad:",
+      "opciones": ["a) Perderá el derecho a las vacaciones de ese año natural.", "b) Tendrá derecho a disfrutar las vacaciones en fecha distinta, aunque haya terminado el año natural al que correspondan.", "c) Solo podrá acumular las vacaciones al permiso de maternidad, no en otra fecha.", "d) Deberá solicitarlo expresamente en los tres meses anteriores al inicio del permiso."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 59 LO 3/2007. Cuando el período de vacaciones coincida con incapacidad temporal por embarazo, parto o lactancia, o con permiso de maternidad o su ampliación por lactancia, la empleada pública tendrá derecho a disfrutar las vacaciones en FECHA DISTINTA, aunque haya terminado el año natural. Este derecho se extiende también a quienes disfruten de permiso de paternidad."
+    },
+    {
+      "id": "t02_t03_p11",
+      "pregunta": "LO 3/2007. Con el objeto de actualizar los conocimientos de los empleados y empleadas públicas, se otorgará preferencia, durante un año, en la adjudicación de plazas para cursos de formación a quienes se hayan incorporado procedentes del permiso de maternidad o paternidad, o hayan reingresado desde la situación de excedencia por:",
+      "opciones": ["a) Razones de salud o enfermedad grave.", "b) Guarda legal y atención a personas mayores dependientes o personas con discapacidad.", "c) Estudio o formación académica.", "d) Ejercicio de cargo público electo."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 60.1 LO 3/2007. Se otorgará preferencia, durante UN AÑO, a quienes se incorporen del permiso de maternidad o paternidad, o hayan reingresado desde la excedencia por GUARDA LEGAL y ATENCIÓN A PERSONAS MAYORES DEPENDIENTES O PERSONAS CON DISCAPACIDAD."
+    },
+    {
+      "id": "t02_t03_p12",
+      "pregunta": "LO 3/2007. Todas las pruebas de acceso al empleo público de la Administración General del Estado contemplarán el estudio y la aplicación del principio de igualdad entre mujeres y hombres. Asimismo, la AGE impartirá cursos de formación sobre igualdad y prevención de la violencia de género, que se dirigirán a:",
+      "opciones": ["a) Solo al personal directivo.", "b) Todo su personal.", "c) Solo al personal de nuevos ingresos.", "d) Solo al personal de recursos humanos."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 61 LO 3/2007. La Administración General del Estado y los organismos públicos vinculados o dependientes de ella impartirán cursos de formación sobre igualdad de trato y oportunidades y sobre prevención de la violencia de género, que se dirigirán a TODO SU PERSONAL."
+    },
+    {
+      "id": "t02_t03_p13",
+      "pregunta": "LO 3/2007. El protocolo de actuación frente al acoso sexual negociado por las Administraciones públicas comprenderá, al menos, el tratamiento reservado de las denuncias y:",
+      "opciones": ["a) La identificación de las personas responsables de atender a quienes formulen una queja o denuncia.", "b) La publicación de los nombres de los acosadores en el tablón de anuncios.", "c) La suspensión cautelar automática del presunto acosador.", "d) La obligación de denunciar ante la policía."],
+      "correcta": 0,
+      "retroalimentacion": "Art. 62 LO 3/2007. El protocolo de actuación frente al acoso sexual comprenderá al menos: el compromiso de prevenir y no tolerar el acoso, la instrucción al personal sobre dignidad e igualdad, el tratamiento RESERVADO de las denuncias, y la IDENTIFICACIÓN de las personas responsables de atender quejas y denuncias."
+    },
+    {
+      "id": "t02_t03_p14",
+      "pregunta": "LO 3/2007. Todos los Departamentos Ministeriales y Organismos Públicos remitirán, al menos anualmente, a los Ministerios de Trabajo y Administraciones Públicas, información relativa al principio de igualdad, con desagregación por sexo de los datos sobre:",
+      "opciones": ["a) Distribución de plantilla, grupo de titulación, nivel de complemento de destino y retribuciones promediadas.", "b) Solo los datos de distribución de plantilla y retribuciones.", "c) Únicamente los datos de selección y contratación.", "d) Solo los datos relativos a permisos de maternidad y paternidad."],
+      "correcta": 0,
+      "retroalimentacion": "Art. 63 LO 3/2007. Los Departamentos Ministeriales remitirán AL MENOS ANUALMENTE información con desagregación por sexo sobre: distribución de PLANTILLA, grupo de TITULACIÓN, nivel de COMPLEMENTO DE DESTINO y RETRIBUCIONES PROMEDIADAS de su personal."
+    },
+    {
+      "id": "t02_t03_p15",
+      "pregunta": "LO 3/2007. Las normas sobre personal de las Fuerzas Armadas procurarán la efectividad del principio de igualdad entre mujeres y hombres, en especial en lo que se refiere al régimen de acceso, formación, ascensos, destinos y situaciones administrativas. Respecto a la aplicación de las normas sobre personal de las Administraciones públicas en las Fuerzas Armadas, estas serán de aplicación:",
+      "opciones": ["a) De forma automática y directa sin adaptación alguna.", "b) Con las adaptaciones que resulten necesarias y en los términos establecidos en su normativa específica.", "c) Solo en materia de igualdad retributiva.", "d) Únicamente en los casos expresamente previstos por el Ministerio de Defensa."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 66 LO 3/2007. Las normas en materia de igualdad aplicables al personal de las Administraciones públicas serán de aplicación en las FUERZAS ARMADAS con las ADAPTACIONES QUE RESULTEN NECESARIAS y en los términos establecidos en su NORMATIVA ESPECÍFICA."
+    },
+    {
+      "id": "t02_t03_p16",
+      "pregunta": "LO 3/2007. En relación con la igualdad de trato en el acceso a bienes y servicios, serán admisibles las diferencias de trato cuando:",
+      "opciones": ["a) Lo determine libremente el prestador del servicio.", "b) Estén justificadas por un propósito legítimo y los medios para lograrlo sean adecuados y necesarios.", "c) Sean acordadas por convenio colectivo.", "d) Afecten solo a ciudadanos extranjeros."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 69 LO 3/2007. Serán admisibles las diferencias de trato en el acceso a bienes y servicios cuando estén JUSTIFICADAS por un PROPÓSITO LEGÍTIMO y los MEDIOS para lograrlo sean ADECUADOS Y NECESARIOS. También se preserva la libertad de contratación siempre que la elección de contraparte no venga determinada por el sexo."
+    },
+    {
+      "id": "t02_t03_p17",
+      "pregunta": "LO 3/2007. Se prohíbe la celebración de contratos de seguros en los que, al considerar el sexo como factor de cálculo de primas y prestaciones, se generen diferencias en las primas y prestaciones de las personas aseguradas. Respecto a los costes relacionados con el embarazo y el parto:",
+      "opciones": ["a) Podrán justificar diferencias en las primas cuando sean estadísticamente relevantes.", "b) No justificarán diferencias en las primas y prestaciones de las personas consideradas individualmente.", "c) Solo afectarán a seguros de salud, no a los de vida.", "d) Podrán tenerse en cuenta en seguros de accidentes."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 71 LO 3/2007. Los costes relacionados con el EMBARAZO Y EL PARTO no justificarán diferencias en las primas y prestaciones de las personas consideradas INDIVIDUALMENTE, sin que puedan autorizarse diferencias al respecto."
+    },
+    {
+      "id": "t02_t03_p18",
+      "pregunta": "LO 3/2007. Las empresas podrán asumir la realización voluntaria de acciones de responsabilidad social en materia de igualdad. La realización de estas acciones podrá ser concertada con organizaciones de consumidores y consumidoras y también con:",
+      "opciones": ["a) Los organismos tributarios.", "b) Las asociaciones cuyo fin primordial sea la defensa de la igualdad de trato entre mujeres y hombres y los Organismos de Igualdad.", "c) Los colegios profesionales.", "d) Las Cámaras de Comercio."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 73 LO 3/2007. Las acciones de responsabilidad social podrán concertarse con: la representación de los trabajadores, las organizaciones de consumidores y usuarios, y las ASOCIACIONES cuyo fin primordial sea la DEFENSA DE LA IGUALDAD DE TRATO y los ORGANISMOS DE IGUALDAD."
+    },
+    {
+      "id": "t02_t03_p19",
+      "pregunta": "LO 3/2007. Las Unidades de Igualdad se encomiendan en todos los Ministerios a uno de sus órganos directivos. Entre sus funciones figura velar por el cumplimiento de esta Ley y también:",
+      "opciones": ["a) Aprobar los planes de igualdad de las empresas del sector.", "b) Elaborar estudios para promover la igualdad en las áreas de actividad del Departamento y asesorar en la elaboración del informe de impacto de género.", "c) Imponer sanciones a las empresas que incumplan la normativa de igualdad.", "d) Gestionar las denuncias por acoso sexual en las empresas privadas."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 77 LO 3/2007. Entre las funciones de las Unidades de Igualdad están: recabar información estadística, ELABORAR ESTUDIOS para promover la igualdad, ASESORAR en la elaboración del informe de impacto de género, fomentar el conocimiento del principio de igualdad y velar por el cumplimiento de la Ley."
+    },
+    {
+      "id": "t02_t03_p20",
+      "pregunta": "LO 3/2007. Respecto a la publicidad de las acciones de responsabilidad social en materia de igualdad, el Instituto de la Mujer u órganos equivalentes de las Comunidades Autónomas estarán legitimados para ejercer la acción de cesación cuando:",
+      "opciones": ["a) Se incumplan los planes de igualdad registrados.", "b) Consideren que pudiera haberse incurrido en supuestos de publicidad engañosa.", "c) La empresa no haya alcanzado la representación equilibrada en sus órganos directivos.", "d) Las campañas publicitarias no incluyan a mujeres en posiciones de liderazgo."],
+      "correcta": 1,
+      "retroalimentacion": "Art. 74 LO 3/2007. El Instituto de la Mujer u órganos equivalentes de las CCAA estarán LEGITIMADOS PARA EJERCER LA ACCIÓN DE CESACIÓN cuando consideren que pudiera haberse incurrido en supuestos de PUBLICIDAD ENGAÑOSA en las acciones de responsabilidad social."
+    }
+  ]
+}

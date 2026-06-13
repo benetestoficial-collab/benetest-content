@@ -1,0 +1,155 @@
+{
+  "simulacros": [
+    {
+      "nombre": "Simulacro 01",
+      "archivo": "guardia_civil/simulacros/simulacro_01.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 02",
+      "archivo": "guardia_civil/simulacros/simulacro_02.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 03",
+      "archivo": "guardia_civil/simulacros/simulacro_03.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 04",
+      "archivo": "guardia_civil/simulacros/simulacro_04.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 05",
+      "archivo": "guardia_civil/simulacros/simulacro_05.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 06",
+      "archivo": "guardia_civil/simulacros/simulacro_06.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 07",
+      "archivo": "guardia_civil/simulacros/simulacro_07.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 08",
+      "archivo": "guardia_civil/simulacros/simulacro_08.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 09",
+      "archivo": "guardia_civil/simulacros/simulacro_09.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 10",
+      "archivo": "guardia_civil/simulacros/simulacro_10.json",
+      "preguntas": 99
+    },
+    {
+      "nombre": "Simulacro 11",
+      "archivo": "guardia_civil/simulacros/simulacro_11.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 12",
+      "archivo": "guardia_civil/simulacros/simulacro_12.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 13",
+      "archivo": "guardia_civil/simulacros/simulacro_13.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 14",
+      "archivo": "guardia_civil/simulacros/simulacro_14.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 15",
+      "archivo": "guardia_civil/simulacros/simulacro_15.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 16",
+      "archivo": "guardia_civil/simulacros/simulacro_16.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 17",
+      "archivo": "guardia_civil/simulacros/simulacro_17.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 18",
+      "archivo": "guardia_civil/simulacros/simulacro_18.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 19",
+      "archivo": "guardia_civil/simulacros/simulacro_19.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 20",
+      "archivo": "guardia_civil/simulacros/simulacro_20.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 21",
+      "archivo": "guardia_civil/simulacros/simulacro_21.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 22",
+      "archivo": "guardia_civil/simulacros/simulacro_22.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 23",
+      "archivo": "guardia_civil/simulacros/simulacro_23.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 24",
+      "archivo": "guardia_civil/simulacros/simulacro_24.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 25",
+      "archivo": "guardia_civil/simulacros/simulacro_25.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 26",
+      "archivo": "guardia_civil/simulacros/simulacro_26.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 27",
+      "archivo": "guardia_civil/simulacros/simulacro_27.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 28",
+      "archivo": "guardia_civil/simulacros/simulacro_28.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 29",
+      "archivo": "guardia_civil/simulacros/simulacro_29.json",
+      "preguntas": 100
+    },
+    {
+      "nombre": "Simulacro 30",
+      "archivo": "guardia_civil/simulacros/simulacro_30.json",
+      "preguntas": 100
+    }
+  ],
+  "total_preguntas": 2999
+}

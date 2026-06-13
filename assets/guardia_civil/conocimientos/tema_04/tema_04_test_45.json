@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_45",
+  "titulo": "Test 45 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t45_p01",
+      "pregunta": "Constitución Española, art. 137. El artículo 137 garantiza la autonomía de los municipios, provincias y CCAA para la gestión de sus respectivos intereses. ¿Pueden estos entes autonormarse libremente?",
+      "opciones": [
+        "a) Sí, tienen plena potestad normativa autónoma",
+        "b) Su autonomía tiene carácter normativo pero está subordinada a la Constitución y a las leyes del Estado y de las CCAA en sus respectivos ámbitos",
+        "c) Solo las CCAA tienen potestad normativa; los municipios y provincias solo gestionan",
+        "d) Su autonomía es solo de gestión, sin potestad normativa alguna"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 137 CE. La autonomía territorial tiene CARÁCTER NORMATIVO pero SUBORDINADO A LA CONSTITUCIÓN Y A LAS LEYES. Las CCAA pueden legislar en sus competencias; los municipios y provincias pueden dictar ordenanzas y reglamentos, pero siempre en el marco de las leyes. La autonomía no equivale a soberanía ni a potestad normativa ilimitada."
+    },
+    {
+      "id": "t04_t45_p02",
+      "pregunta": "Constitución Española, art. 138. El principio de solidaridad entre CCAA prohíbe privilegios económicos o sociales. ¿Permite diferencias en los servicios públicos entre CCAA?",
+      "opciones": [
+        "a) No, los servicios deben ser idénticos en toda España",
+        "b) Sí, pueden existir diferencias derivadas del ejercicio legítimo de las competencias autonómicas, siempre que no sean privilegios económicos o sociales arbitrarios",
+        "c) Solo se permiten diferencias en el nivel de prestación, no en los tipos de servicios",
+        "d) Solo se permiten diferencias en CCAA con régimen foral"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 138.2 CE. 'Las diferencias entre los Estatutos de las distintas CCAA no podrán implicar, en ningún caso, PRIVILEGIOS ECONÓMICOS O SOCIALES.' Sin embargo, SÍ SE PERMITEN DIFERENCIAS DERIVADAS DEL EJERCICIO LEGÍTIMO DE COMPETENCIAS AUTONÓMICAS: distintas políticas sanitarias, educativas, etc., siempre que no sean privilegios arbitrarios."
+    },
+    {
+      "id": "t04_t45_p03",
+      "pregunta": "Constitución Española, art. 140. ¿Pueden los municipios fusionarse voluntariamente?",
+      "opciones": [
+        "a) No, los límites municipales los fija el Estado y no pueden modificarse",
+        "b) Sí, la legislación de régimen local permite la fusión voluntaria de municipios con la aprobación de sus respectivos Ayuntamientos",
+        "c) Solo pueden fusionarse por ley orgánica de las Cortes Generales",
+        "d) Solo si la CCAA lo determina mediante ley autonómica"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 140 CE. La CE garantiza la autonomía municipal pero NO IMPIDE LA FUSIÓN. LA LEGISLACIÓN DE RÉGIMEN LOCAL PERMITE LA FUSIÓN VOLUNTARIA DE MUNICIPIOS, previa deliberación y acuerdo de los Ayuntamientos afectados. Las fusiones de municipios requieren en general la aprobación de la CCAA."
+    },
+    {
+      "id": "t04_t45_p04",
+      "pregunta": "Constitución Española, art. 141. ¿Pueden crearse agrupaciones de municipios diferentes de la provincia?",
+      "opciones": [
+        "a) No, la provincia es la única agrupación territorial reconocida",
+        "b) Sí, se podrán crear agrupaciones de municipios diferentes de la provincia, que gozarán de plena personalidad jurídica",
+        "c) Solo las mancomunidades de municipios para servicios concretos",
+        "d) Solo en las islas, como los Cabildos y Consejos Insulares"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 141.3 CE. 'SE PODRÁN CREAR AGRUPACIONES DE MUNICIPIOS DIFERENTES DE LA PROVINCIA.' Esto es la base constitucional de las COMARCAS, MANCOMUNIDADES y otras entidades locales supramunicipales distintas de la provincia. Gozan de personalidad jurídica propia cuando la ley así lo establece."
+    },
+    {
+      "id": "t04_t45_p05",
+      "pregunta": "Constitución Española, art. 143. ¿Cuántos meses tienen las provincias para formular la iniciativa autonómica por la vía ordinaria?",
+      "opciones": [
+        "a) 3 meses",
+        "b) 6 meses",
+        "c) 9 meses",
+        "d) 12 meses"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 143.2 CE. La iniciativa del proceso autonómico debe ser acordada DENTRO DE LOS SEIS MESES siguientes a la primera solicitud de ella, por las Diputaciones interesadas o el órgano interinsular y las dos terceras partes de los municipios cuya población represente la mayoría del censo electoral de cada provincia."
+    },
+    {
+      "id": "t04_t45_p06",
+      "pregunta": "Constitución Española, art. 145. Los convenios entre CCAA para la gestión y prestación de servicios solo deben 'comunicarse' a las Cortes. ¿Qué consecuencia tiene esa comunicación?",
+      "opciones": [
+        "a) Las Cortes deben aprobarlos en el plazo de 30 días",
+        "b) Las Cortes toman conocimiento; si no se pronuncian en 30 días se entienden aprobados",
+        "c) La comunicación es informativa; las Cortes no tienen que aprobarlo pero sí tienen conocimiento",
+        "d) Las Cortes pueden vetarlos en el plazo de 60 días"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 145.2 CE. Los convenios para la gestión de servicios propios de las CCAA 'serán comunicados a las Cortes Generales'. La comunicación es solo INFORMATIVA: LAS CORTES TOMAN CONOCIMIENTO DEL CONVENIO pero NO tienen que aprobarlo. A diferencia de los acuerdos de cooperación, que sí requieren autorización previa de las Cortes."
+    },
+    {
+      "id": "t04_t45_p07",
+      "pregunta": "Constitución Española, art. 147. Los Estatutos de Autonomía son la norma institucional básica de cada CCAA. ¿Pueden las leyes autonómicas contradecirlos?",
+      "opciones": [
+        "a) Sí, si son leyes orgánicas autonómicas",
+        "b) No, las leyes autonómicas están subordinadas a sus Estatutos, que son la norma básica de la CCAA y tienen rango de ley orgánica estatal",
+        "c) Solo en materias de competencia exclusiva de la CCAA",
+        "d) Solo si el Parlamento autonómico lo aprueba por mayoría de dos tercios"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 147.1 CE. Los Estatutos de Autonomía son 'LA NORMA INSTITUCIONAL BÁSICA DE CADA COMUNIDAD AUTÓNOMA'. Las leyes autonómicas están subordinadas al Estatuto de su CCAA y NO PUEDEN CONTRADECIRLO. El Estatuto tiene rango de ley orgánica estatal; las leyes autonómicas son normas de rango inferior al Estatuto."
+    },
+    {
+      "id": "t04_t45_p08",
+      "pregunta": "Constitución Española, art. 148. ¿Puede una CCAA asumir competencias distintas a las listadas en el artículo 148?",
+      "opciones": [
+        "a) No, el art. 148 es un numerus clausus cerrado",
+        "b) Sí, pasados cinco años pueden ampliar competencias dentro del marco del art. 149; además, las del art. 150 permiten otras ampliaciones",
+        "c) Solo si el Estado lo autoriza mediante ley ordinaria",
+        "d) Solo las CCAA del art. 151 pueden superar el listado del art. 148"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 148.2 CE. 'TRANSCURRIDOS CINCO AÑOS, y mediante la reforma de sus Estatutos, las CCAA podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.' Además, el art. 150.2 permite al Estado transferir competencias propias a las CCAA. El art. 148 no es un techo definitivo."
+    },
+    {
+      "id": "t04_t45_p09",
+      "pregunta": "Constitución Española, art. 149. ¿Puede el Estado legislar sobre materias de competencia exclusiva de las CCAA mediante leyes de armonización?",
+      "opciones": [
+        "a) Sí, mediante leyes de armonización puede regular cualquier materia",
+        "b) Solo cuando así lo exija el interés general, y para armonizar disposiciones de las CCAA; no puede invadir el núcleo de sus competencias",
+        "c) No, las competencias exclusivas de las CCAA son inviolables por el Estado",
+        "d) Solo el TC puede armonizar la legislación autonómica"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 150.3 CE. Las leyes de armonización pueden dictarse 'CUANDO ASÍ LO EXIJA EL INTERÉS GENERAL, apreciado por las Cortes Generales'. Pero el TC (STC 76/1983) limitó su alcance: NO PUEDEN INVADIR EL NÚCLEO DE LAS COMPETENCIAS EXCLUSIVAS AUTONÓMICAS ni servir para atribuir competencias nuevas al Estado."
+    },
+    {
+      "id": "t04_t45_p10",
+      "pregunta": "Constitución Española, art. 150. Las leyes orgánicas de transferencia del art. 150.2 difieren de las del art. 150.1. ¿Cuál es la diferencia principal?",
+      "opciones": [
+        "a) Las del 150.1 son para materias de competencia compartida; las del 150.2 para exclusivas",
+        "b) Las del 150.1 atribuyen a las CCAA la facultad de dictar normas legislativas en materias estatales; las del 150.2 transfieren o delegan competencias estatales propias con sus medios",
+        "c) Las del 150.1 son revocables; las del 150.2 son definitivas",
+        "d) No hay diferencia sustancial entre ambos tipos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 150.1 y 150.2 CE. Las del ART. 150.1 (leyes marco) ATRIBUYEN a las CCAA la facultad de dictar normas legislativas en materias estatales, dentro de los principios establecidos. Las del ART. 150.2 (leyes orgánicas de transferencia) TRANSFIEREN O DELEGAN AL ESTADO competencias propias con la correspondiente transferencia de medios financieros."
+    },
+    {
+      "id": "t04_t45_p11",
+      "pregunta": "Constitución Española, art. 151. ¿Cuántas CCAA accedieron por la vía rápida del artículo 151?",
+      "opciones": [
+        "a) Una (Cataluña)",
+        "b) Tres (País Vasco, Cataluña y Galicia)",
+        "c) Cuatro (País Vasco, Cataluña, Galicia y Andalucía)",
+        "d) Cinco"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 151 CE. Cuatro CCAA accedieron por la vía rápida del art. 151 o disposiciones transitorias: PAÍS VASCO, CATALUÑA Y GALICIA (que ya habían plebiscitado Estatutos en la Segunda República, disposición transitoria 2ª CE) y ANDALUCÍA (que siguió el procedimiento del art. 151). Navarra accedió por la vía de la disposición adicional 1ª."
+    },
+    {
+      "id": "t04_t45_p12",
+      "pregunta": "Constitución Española, art. 152. ¿Tiene el Presidente de la CCAA prerrogativas similares a las del Presidente del Gobierno central?",
+      "opciones": [
+        "a) No, el Presidente autonómico no tiene prerrogativas constitucionales propias",
+        "b) Sí, la CE le atribuye la dirección del Consejo de Gobierno, la suprema representación de la CCAA y la ordinaria del Estado en aquélla",
+        "c) Solo tiene prerrogativas en materia de policía autonómica",
+        "d) Sus prerrogativas las determina exclusivamente el Estatuto de Autonomía"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 152.1 CE. El Presidente de la CCAA (en las de vía rápida) es elegido por la Asamblea y nombrado por el Rey. Le corresponde: LA DIRECCIÓN DEL CONSEJO DE GOBIERNO, LA SUPREMA REPRESENTACIÓN DE LA CCAA y LA ORDINARIA DEL ESTADO EN AQUÉLLA. Tiene así un perfil similar al Presidente del Gobierno a escala autonómica."
+    },
+    {
+      "id": "t04_t45_p13",
+      "pregunta": "Constitución Española, art. 159. El TC puede actuar en Pleno, en Salas y en Secciones. ¿Qué asuntos reserva la LOTC al Pleno?",
+      "opciones": [
+        "a) Solo los recursos de inconstitucionalidad",
+        "b) Los recursos de inconstitucionalidad, los conflictos constitucionales entre el Estado y las CCAA, las impugnaciones del art. 161.2, y los asuntos de mayor trascendencia",
+        "c) Solo los conflictos entre poderes del Estado",
+        "d) Todos los asuntos deben pasar por el Pleno antes de decidirse"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 159 CE y LOTC. El PLENO conoce de: RECURSOS DE INCONSTITUCIONALIDAD, CONFLICTOS DE COMPETENCIA entre el Estado y las CCAA, IMPUGNACIONES DEL ART. 161.2, cuestiones constitucionales de mayor trascendencia, y aquellos que las Salas le elevan. Las SALAS conocen principalmente de recursos de amparo; las SECCIONES, de admisión."
+    },
+    {
+      "id": "t04_t45_p14",
+      "pregunta": "Constitución Española, art. 161. La legitimación para interponer recurso de inconstitucionalidad incluye a los órganos de las CCAA. ¿Pueden las CCAA impugnar leyes de OTRAS CCAA?",
+      "opciones": [
+        "a) Sí, cualquier CCAA puede impugnar leyes de otra CCAA",
+        "b) No directamente; las CCAA solo pueden impugnar normas estatales o disposiciones autonómicas que invadan SUS competencias; para leyes de otras CCAA deben acudir al Gobierno estatal",
+        "c) Solo si hay un conflicto de competencias previo",
+        "d) Sí, pero solo si la ley impugnada afecta a sus ciudadanos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 162.1.a) CE y LOTC. Los órganos ejecutivos y Asambleas de las CCAA están legitimados para interponer el recurso de inconstitucionalidad CONTRA LEYES DEL ESTADO QUE AFECTEN A SUS COMPETENCIAS. La impugnación directa de leyes de otras CCAA no está prevista en esos términos; pueden acudir al conflicto de competencias o al Gobierno central."
+    },
+    {
+      "id": "t04_t45_p15",
+      "pregunta": "Constitución Española, art. 163. ¿Puede un ciudadano plantear una cuestión de inconstitucionalidad directamente ante el TC?",
+      "opciones": [
+        "a) Sí, cualquier ciudadano con interés legítimo puede plantearla",
+        "b) No, solo los órganos judiciales pueden plantear la cuestión de inconstitucionalidad; el ciudadano puede solicitar al juez que la plantee, pero no puede hacerlo directamente",
+        "c) Solo el Ministerio Fiscal puede plantearla directamente",
+        "d) Solo en el marco de un recurso de amparo previo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 163 CE. LA CUESTIÓN DE INCONSTITUCIONALIDAD SOLO PUEDE SER PLANTEADA POR EL ÓRGANO JUDICIAL que conoce del proceso en que la norma es aplicable. EL CIUDADANO NO PUEDE PLANTEARLO DIRECTAMENTE: puede solicitarlo al juez (a instancia de parte), pero es el juez quien decide si eleva la cuestión al TC."
+    },
+    {
+      "id": "t04_t45_p16",
+      "pregunta": "Constitución Española, art. 164. ¿Pueden los votos particulares de los magistrados del TC publicarse junto a la sentencia?",
+      "opciones": [
+        "a) No, los votos particulares son confidenciales",
+        "b) Sí, las sentencias del TC se publicarán en el BOE con los votos particulares si los hubiere",
+        "c) Solo si la mayoría del Pleno lo autoriza",
+        "d) Solo en los recursos de inconstitucionalidad, no en el amparo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 164.1 CE. 'Las sentencias del Tribunal Constitucional se publicarán en el BOE con LOS VOTOS PARTICULARES, SI LOS HUBIERE.' Los votos particulares (discrepantes o concurrentes) son públicos y se publican junto a la sentencia. Esto garantiza la transparencia y contribuye al debate jurídico."
+    },
+    {
+      "id": "t04_t45_p17",
+      "pregunta": "Constitución Española, art. 166. ¿Puede un partido político en la oposición proponer una reforma constitucional?",
+      "opciones": [
+        "a) No, la iniciativa de reforma es exclusiva del Gobierno",
+        "b) Sí, la iniciativa corresponde también al Congreso y al Senado de acuerdo con sus reglamentos; cualquier grupo parlamentario puede presentar proposición de reforma",
+        "c) Solo los grupos parlamentarios con más del 20% de los escaños",
+        "d) Solo el Gobierno o una mayoría de las Cámaras"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 166 CE. La iniciativa de reforma corresponde: al GOBIERNO, al CONGRESO Y AL SENADO, de acuerdo con sus Reglamentos (art. 87.1 y 87.2). Dentro de las Cámaras, CUALQUIER GRUPO PARLAMENTARIO puede presentar una proposición de reforma constitucional, sin necesidad de ser el grupo gobernante."
+    },
+    {
+      "id": "t04_t45_p18",
+      "pregunta": "Constitución Española, art. 167. Si el Congreso aprueba la reforma ordinaria por 3/5 pero el Senado solo lo hace por mayoría absoluta (no por 3/5), ¿qué ocurre?",
+      "opciones": [
+        "a) La reforma fracasa",
+        "b) Se constituye una Comisión Mixta paritaria Congreso-Senado para elaborar un texto de consenso",
+        "c) El Congreso puede aprobarla definitivamente por mayoría simple",
+        "d) Se somete a referéndum popular para resolver el desacuerdo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 167.2 CE. Si no hay acuerdo de 3/5 en ambas Cámaras, 'SE CONSTITUIRÁ UNA COMISIÓN MIXTA PARITARIA DE DIPUTADOS Y SENADORES que presentará un texto que será votado por el Congreso y el Senado. Si tampoco aquí hay acuerdo, el Congreso puede aprobar la reforma por 2/3 si el Senado la aprobó por mayoría absoluta."
+    },
+    {
+      "id": "t04_t45_p19",
+      "pregunta": "Constitución Española, art. 168. ¿Cuántos referendos puede haber en el procedimiento agravado de reforma?",
+      "opciones": [
+        "a) Ninguno, el procedimiento agravado no incluye referéndum",
+        "b) Solo uno, al final del proceso",
+        "c) Podría haber dos: uno para ratificar la decisión de reforma (potestativo) y otro obligatorio al final",
+        "d) Solo referéndum obligatorio al final"
+      ],
+      "correcta": 3,
+      "retroalimentacion": "Art. 168 CE. En el procedimiento agravado, hay UN SOLO REFERÉNDUM: el OBLIGATORIO al final del proceso, tras la aprobación del nuevo texto por 2/3 de ambas Cámaras elegidas tras la disolución. No hay referéndum intermedio en el art. 168. El referéndum potestativo del art. 167 es diferente y exclusivo de la reforma ordinaria."
+    },
+    {
+      "id": "t04_t45_p20",
+      "pregunta": "Constitución Española, art. 169. ¿Por qué se prohíbe iniciar la reforma constitucional en tiempo de guerra?",
+      "opciones": [
+        "a) Porque el Gobierno necesita concentrar todos los recursos en la defensa",
+        "b) Porque en esas circunstancias las Cámaras no pueden funcionar libremente y la reforma no reflejaría la voluntad genuina del pueblo",
+        "c) Porque la Constitución es especialmente valiosa en tiempos de crisis",
+        "d) Por razones de seguridad nacional que impiden el debate público"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 169 CE. La prohibición de iniciar la reforma en tiempos de crisis se fundamenta en que EN ESAS CIRCUNSTANCIAS LAS CÁMARAS NO PUEDEN FUNCIONAR CON PLENA LIBERTAD, LAS PRESIONES EXTERNAS SON ENORMES Y LA REFORMA NO REFLEJARÍA LA VOLUNTAD GENUINA DEL PUEBLO. La reforma constitucional requiere un ambiente de normalidad democrática."
+    }
+  ]
+}

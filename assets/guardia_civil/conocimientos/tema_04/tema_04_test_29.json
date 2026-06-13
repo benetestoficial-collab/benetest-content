@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_29",
+  "titulo": "Test 29 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t29_p01",
+      "pregunta": "Constitución Española, art. 159. El Tribunal Constitucional, pese a ejercer una función jurisdiccional, NO es un órgano del Poder Judicial. ¿Qué tipo de órgano es?",
+      "opciones": [
+        "a) Un órgano del Poder Judicial con funciones especiales",
+        "b) Un órgano constitucional sometido exclusivamente a la Constitución y a su Ley Orgánica",
+        "c) Un órgano de control dependiente de las Cortes Generales",
+        "d) Un órgano del Gobierno con funciones de revisión judicial"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 159 CE. El TC es un ÓRGANO CONSTITUCIONAL de autoaseguramiento constitucional que, pese a ejercer una función jurisdiccional, NO SE TRATA DE UN ÓRGANO DEL PODER JUDICIAL, sino un órgano constitucional, SOMETIDO EXCLUSIVAMENTE A LA CONSTITUCIÓN Y A LA LO 2/79 DE 3 DE OCTUBRE."
+    },
+    {
+      "id": "t04_t29_p02",
+      "pregunta": "Constitución Española, art. 159. En el TC, ¿quién preside en sustitución del Vicepresidente cuando este también falta?",
+      "opciones": [
+        "a) El magistrado de mayor edad",
+        "b) El magistrado más antiguo en el cargo y, en caso de igual antigüedad, el de mayor edad",
+        "c) El magistrado más antiguo en la carrera judicial",
+        "d) Un magistrado designado por el Pleno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 159 CE y LOTC. El Pleno está integrado por todos los magistrados y presidido por el Presidente; en su defecto por el Vicepresidente; en su defecto, por EL MAGISTRADO MÁS ANTIGUO EN EL CARGO, y en caso de igual antigüedad, EL DE MAYOR EDAD."
+    },
+    {
+      "id": "t04_t29_p03",
+      "pregunta": "Constitución Española, art. 160. En caso de empate en la votación del Presidente del TC en segunda votación, ¿cómo se decide?",
+      "opciones": [
+        "a) Por nueva votación con voto de calidad del Presidente saliente",
+        "b) Por orden de antigüedad y, en caso de igualdad, por la de mayor edad",
+        "c) Por sorteo entre los candidatos empatados",
+        "d) El Gobierno propone al candidato en caso de empate"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 160 CE y LOTC. En caso de empate tras una nueva votación, la elección del Presidente del TC se decide POR ORDEN DE ANTIGÜEDAD Y EN CASO DE IGUALDAD SERÁ ELEGIDO EL DE MAYOR EDAD. En primera votación se requiere mayoría absoluta; en segunda, mayoría simple."
+    },
+    {
+      "id": "t04_t29_p04",
+      "pregunta": "Constitución Española, art. 161. En relación con los conflictos de competencias, señale la CORRECTA:",
+      "opciones": [
+        "a) Solo se conocen conflictos positivos (cuando alguien asume competencias que no le corresponden)",
+        "b) Existen conflictos positivos (asunción de competencia ajena) y negativos (rechazo de competencia propia)",
+        "c) Los conflictos negativos solo puede plantearlos el Gobierno central",
+        "d) Los conflictos negativos no están previstos en la Constitución"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 161.1.c) CE. Respecto a los conflictos de competencias, existen: CONFLICTOS POSITIVOS (Estado o CCAA asume competencia que no le corresponde) y CONFLICTOS NEGATIVOS (ninguno quiere asumir una competencia que le corresponde). En los negativos, también pueden instarlo personas físicas o jurídicas interesadas."
+    },
+    {
+      "id": "t04_t29_p05",
+      "pregunta": "Constitución Española, art. 162. ¿Puede el Ministerio Fiscal interponer el recurso de inconstitucionalidad?",
+      "opciones": [
+        "a) Sí, es uno de los órganos legitimados",
+        "b) No, el MF no está entre los legitimados para el recurso de inconstitucionalidad",
+        "c) Solo para defender la constitucionalidad de las leyes del Estado",
+        "d) Solo si lo solicita el Presidente del Gobierno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 162.1.a) CE. Los legitimados para el recurso de inconstitucionalidad son: el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, y los órganos ejecutivos y Asambleas de las CCAA. EL MINISTERIO FISCAL NO ESTÁ LEGITIMADO para este recurso."
+    },
+    {
+      "id": "t04_t29_p06",
+      "pregunta": "Constitución Española, art. 163. La cuestión de inconstitucionalidad, ¿tiene efectos suspensivos sobre el proceso en curso?",
+      "opciones": [
+        "a) Sí, suspende el proceso hasta que el TC resuelva",
+        "b) No, en ningún caso tendrá efectos suspensivos",
+        "c) Solo tiene efectos suspensivos en procesos penales",
+        "d) Depende de lo que decida el TC al admitirla"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 163 CE. Cuando un órgano judicial plantee la cuestión de inconstitucionalidad, los efectos sobre el proceso no serán, EN NINGÚN CASO, SUSPENSIVOS. El proceso judicial continúa su curso mientras el TC resuelve si la norma es constitucional."
+    },
+    {
+      "id": "t04_t29_p07",
+      "pregunta": "Constitución Española, art. 164. ¿Desde cuándo tiene valor de cosa juzgada una sentencia del TC publicada en el BOE?",
+      "opciones": [
+        "a) Desde el día de su publicación en el BOE",
+        "b) Desde el día siguiente de su publicación en el BOE",
+        "c) Desde los diez días hábiles de su publicación",
+        "d) Desde que se notifique a las partes del proceso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 164.1 CE. Las sentencias del TC se publicarán en el BOE con los votos particulares si los hubiere. Tienen el valor de cosa juzgada A PARTIR DEL DÍA SIGUIENTE DE SU PUBLICACIÓN y no cabe recurso alguno contra ellas."
+    },
+    {
+      "id": "t04_t29_p08",
+      "pregunta": "Constitución Española, art. 166. ¿Quién puede ejercer la iniciativa de reforma constitucional?",
+      "opciones": [
+        "a) Solo el Gobierno",
+        "b) El Gobierno, el Congreso y el Senado (igual que la iniciativa legislativa ordinaria); también las Asambleas autonómicas pueden solicitarla al Gobierno o remitir proposición al Congreso",
+        "c) Solo las Cortes Generales, en sesión conjunta",
+        "d) El Gobierno y las Cortes conjuntamente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 166 CE. La iniciativa de reforma constitucional se ejercerá en los términos del art. 87.1 y 87.2: corresponde al GOBIERNO, al CONGRESO Y AL SENADO, de acuerdo con sus Reglamentos. Las ASAMBLEAS DE LAS CCAA también pueden solicitarla al Gobierno o remitir proposición de ley al Congreso."
+    },
+    {
+      "id": "t04_t29_p09",
+      "pregunta": "Constitución Española, arts. 167 y 168. ¿Cuál es la principal diferencia entre la reforma ordinaria (art. 167) y la agravada (art. 168)?",
+      "opciones": [
+        "a) La reforma agravada requiere más votos pero sigue el mismo procedimiento",
+        "b) La reforma agravada se aplica para la revisión total o de materias especialmente protegidas (Título Preliminar, Sección 1ª del Cap. II del Título I y Título II), conlleva disolución de las Cortes y referéndum obligatorio",
+        "c) La reforma ordinaria nunca requiere referéndum; la agravada siempre lo requiere",
+        "d) La reforma agravada solo puede ser iniciada por el Gobierno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 167-168 CE. La REFORMA AGRAVADA se aplica cuando se propone REVISIÓN TOTAL o parcial que afecte al TÍTULO PRELIMINAR, SECCIÓN 1ª DEL CAPÍTULO II DEL TÍTULO I o TÍTULO II. Conlleva aprobación por 2/3, DISOLUCIÓN DE LAS CORTES, ratificación por las nuevas Cámaras, y REFERÉNDUM OBLIGATORIO."
+    },
+    {
+      "id": "t04_t29_p10",
+      "pregunta": "Constitución Española, art. 169. ¿En qué momento puede iniciarse una reforma constitucional que coincida con el estado de excepción declarado?",
+      "opciones": [
+        "a) Puede iniciarse pero queda suspendida hasta que cese el estado de excepción",
+        "b) No puede iniciarse durante la vigencia de los estados de alarma, excepción o sitio; debe esperarse a que cesen",
+        "c) Solo puede iniciarse si la aprueba el TC previamente",
+        "d) Puede iniciarse si lo acuerda la Diputación Permanente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 169 CE. NO PODRÁ INICIARSE LA REFORMA CONSTITUCIONAL EN TIEMPO DE GUERRA O DE VIGENCIA DE ALGUNO DE LOS ESTADOS PREVISTOS EN EL ARTÍCULO 116 (alarma, excepción o sitio). Debe esperarse a que cesen estos estados antes de comenzar cualquier proceso de reforma."
+    },
+    {
+      "id": "t04_t29_p11",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. La Comisión Mixta Congreso-Senado relacionada con el Defensor del Pueblo se reunirá cuando:",
+      "opciones": [
+        "a) Solo cuando lo decida el Defensor del Pueblo",
+        "b) Cuando así lo acuerden conjuntamente el Presidente del Congreso y del Senado, y en todo caso para proponer candidatos a Defensor del Pueblo",
+        "c) Solo durante los períodos ordinarios de sesiones",
+        "d) Mensualmente de forma ordinaria"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 2.3 LO 3/1981. La Comisión Mixta se reunirá CUANDO ASÍ LO ACUERDEN CONJUNTAMENTE EL PRESIDENTE DEL CONGRESO Y DEL SENADO, y EN TODO CASO, PARA PROPONER A LOS PLENOS DE LAS CÁMARAS EL CANDIDATO O CANDIDATOS A DEFENSOR DEL PUEBLO."
+    },
+    {
+      "id": "t04_t29_p12",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. El nombramiento del Defensor del Pueblo se publica en el BOE y es acreditado con las firmas de:",
+      "opciones": [
+        "a) El Rey",
+        "b) Los Presidentes del Congreso y del Senado conjuntamente",
+        "c) El Presidente del Gobierno",
+        "d) El Presidente del Congreso únicamente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.1 LO 3/1981. LOS PRESIDENTES DEL CONGRESO Y DEL SENADO ACREDITARÁN CONJUNTAMENTE CON SUS FIRMAS el nombramiento del Defensor del Pueblo que se publicará en el Boletín Oficial del Estado."
+    },
+    {
+      "id": "t04_t29_p13",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Cuándo se vacante el cargo de Defensor del Pueblo por incapacidad sobrevenida, quién lo declara?",
+      "opciones": [
+        "a) El Presidente del Congreso de forma automática",
+        "b) Mediante votación de las tres quintas partes de los componentes de cada Cámara, previa audiencia del interesado",
+        "c) El Tribunal Supremo mediante sentencia",
+        "d) El Consejo de Estado mediante dictamen vinculante"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 5.2 LO 3/1981. En los casos distintos a muerte, renuncia y expiración del mandato (donde la vacante la declara el Presidente del Congreso), la vacante se decidirá por MAYORÍA DE LAS TRES QUINTAS PARTES DE LOS COMPONENTES DE CADA CÁMARA, mediante debate y PREVIA AUDIENCIA DEL INTERESADO."
+    },
+    {
+      "id": "t04_t29_p14",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo ser multado o expedientado por las opiniones que formule en el ejercicio de su cargo?",
+      "opciones": [
+        "a) Sí, si sus opiniones son constitutivas de delito",
+        "b) No, goza de inviolabilidad y no puede ser detenido, expedientado, multado, perseguido o juzgado por las opiniones en ejercicio de sus funciones",
+        "c) Solo puede ser expedientado con autorización de las Cortes",
+        "d) Solo puede ser perseguido judicialmente, no multado administrativamente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 6.2 LO 3/1981. El Defensor del Pueblo GOZARÁ DE INVIOLABILIDAD. NO PODRÁ SER DETENIDO, EXPEDIENTADO, MULTADO, PERSEGUIDO O JUZGADO EN RAZÓN A LAS OPINIONES QUE FORMULE O A LOS ACTOS QUE REALICE en el ejercicio de las competencias propias de su cargo."
+    },
+    {
+      "id": "t04_t29_p15",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. Los Adjuntos al Defensor del Pueblo son nombrados por él previa conformidad de las Cámaras. ¿Cuántos Adjuntos existen?",
+      "opciones": [
+        "a) Uno: el Adjunto",
+        "b) Dos: Adjunto Primero y Adjunto Segundo",
+        "c) Tres: Adjunto Primero, Segundo y Tercero",
+        "d) Los que determine el Defensor del Pueblo según necesidades"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 8.1 LO 3/1981. El Defensor del Pueblo estará auxiliado por UN ADJUNTO PRIMERO Y UN ADJUNTO SEGUNDO, en los que podrá delegar sus funciones y que le sustituirán por su orden, en los supuestos de imposibilidad temporal y en los de cese."
+    },
+    {
+      "id": "t04_t29_p16",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo supervisar la actividad de los Comunidades Autónomas?",
+      "opciones": [
+        "a) No, sus competencias se limitan a la Administración del Estado central",
+        "b) Sí, puede supervisar por sí mismo la actividad de la CCAA en el ámbito de competencias definido por la Ley",
+        "c) Solo puede hacerlo mediante los órganos análogos de las CCAA (Síndic, Ararteko, etc.)",
+        "d) Solo si la CCAA afectada lo solicita"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 12.1 LO 3/1981. El Defensor del Pueblo podrá, en todo caso, de oficio o a instancia de parte, SUPERVISAR POR SÍ MISMO LA ACTIVIDAD DE LA COMUNIDAD AUTÓNOMA en el ámbito de competencias definido por esta Ley. Los órganos similares de las CCAA coordinarán sus funciones con el Defensor del Pueblo."
+    },
+    {
+      "id": "t04_t29_p17",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede la correspondencia del Defensor del Pueblo con reclusos en centros penitenciarios ser escuchada o interferida?",
+      "opciones": [
+        "a) Sí, puede ser revisada por la dirección del centro por razones de seguridad",
+        "b) No, tampoco podrán ser objeto de escucha o interferencia las conversaciones entre el Defensor y personas en centros de detención o internamiento",
+        "c) Solo puede intervenirse con autorización judicial",
+        "d) Solo la correspondencia escrita está protegida, no las conversaciones"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 16.2 LO 3/1981. TAMPOCO PODRÁN SER OBJETO DE ESCUCHA O INTERFERENCIA LAS CONVERSACIONES que se produzcan entre el Defensor del Pueblo o sus delegados y cualquier persona en centros de detención, internamiento o custodia. La protección es total: tanto la correspondencia como las conversaciones."
+    },
+    {
+      "id": "t04_t29_p18",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo proponer la modificación de una norma aunque su aplicación no sea ilegal?",
+      "opciones": [
+        "a) No, solo puede actuar cuando la Administración actúa ilegalmente",
+        "b) Sí, si llegase al convencimiento de que el cumplimiento riguroso de una norma puede provocar situaciones injustas, puede sugerir su modificación",
+        "c) Solo si la norma vulnera derechos fundamentales expresamente reconocidos",
+        "d) Solo si lo solicita la mayoría simple de cualquiera de las Cámaras"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 28.2 LO 3/1981. Si el Defensor del Pueblo llega al convencimiento de que el CUMPLIMIENTO RIGUROSO DE LA NORMA PUEDE PROVOCAR SITUACIONES INJUSTAS O PERJUDICIALES para los administrados, PODRÁ SUGERIR al órgano legislativo o a la Administración LA MODIFICACIÓN DE LA MISMA."
+    },
+    {
+      "id": "t04_t29_p19",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿En qué caso puede el Defensor del Pueblo presentar un informe extraordinario?",
+      "opciones": [
+        "a) Solo cuando finaliza el período ordinario de sesiones",
+        "b) Cuando la gravedad o urgencia de los hechos lo aconsejen",
+        "c) Solo cuando lo soliciten las Cortes Generales",
+        "d) Solo cuando el número de quejas supere un umbral determinado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 32.2 LO 3/1981. CUANDO LA GRAVEDAD O URGENCIA DE LOS HECHOS LO ACONSEJEN, el Defensor del Pueblo podrá presentar un INFORME EXTRAORDINARIO que dirigirá a las Diputaciones Permanentes de las Cámaras si estas no se encontraran reunidas."
+    },
+    {
+      "id": "t04_t29_p20",
+      "pregunta": "Constitución Española, art. 167. Las dos reformas constitucionales realizadas hasta 2024 se llevaron a cabo por el procedimiento ordinario. ¿Se celebró referéndum en alguna de ellas?",
+      "opciones": [
+        "a) Sí, en ambas se celebró referéndum por ser materias relevantes",
+        "b) No, en ninguna de las dos se celebró referéndum porque ninguna décima parte de los miembros de las Cámaras lo solicitó",
+        "c) Solo en la reforma de 2011 se celebró referéndum",
+        "d) Solo en la reforma de 1992 se celebró referéndum"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 167 CE. AMBAS REFORMAS CONSTITUCIONALES (1992, art. 13.2; 2011, art. 135) SE LLEVARON A CABO POR EL PROCEDIMIENTO ORDINARIO SIN NECESIDAD DE REFERÉNDUM al no solicitarlo la décima parte de los miembros de alguna de las Cámaras en los quince días siguientes a la aprobación. (La de 2024, art. 49, también siguió este procedimiento.)"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_13",
+  "titulo": "Test 13 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t13_p01",
+      "pregunta": "Constitución Española, art. 10. El libre desarrollo de la personalidad y la dignidad de la persona son fundamento del:",
+      "opciones": [
+        "a) Sistema tributario español",
+        "b) Orden político y de la paz social",
+        "c) Ordenamiento jurídico internacional",
+        "d) Sistema de derechos sociales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 10.1 CE. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son FUNDAMENTO DEL ORDEN POLÍTICO Y DE LA PAZ SOCIAL."
+    },
+    {
+      "id": "t04_t13_p02",
+      "pregunta": "Constitución Española, art. 20. El secuestro de publicaciones podrá acordarse solo en virtud de resolución judicial. Antes de eso, la Constitución prohíbe expresamente:",
+      "opciones": [
+        "a) La difamación en medios de comunicación",
+        "b) Cualquier tipo de censura previa",
+        "c) La publicación de informaciones no contrastadas",
+        "d) El ejercicio de la cláusula de conciencia sin regulación legal"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 20.2 CE. El ejercicio de los derechos de expresión e información no puede restringirse mediante NINGÚN TIPO DE CENSURA PREVIA. Esta prohibición es absoluta. Solo cabe el secuestro posterior mediante resolución judicial (art. 20.5 CE)."
+    },
+    {
+      "id": "t04_t13_p03",
+      "pregunta": "Constitución Española, art. 24. El derecho a la presunción de inocencia está reconocido en el artículo:",
+      "opciones": [
+        "a) Artículo 17 de la Constitución",
+        "b) Artículo 24 de la Constitución",
+        "c) Artículo 25 de la Constitución",
+        "d) Artículo 53 de la Constitución"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 24.2 CE. El artículo 24 recoge el derecho a la tutela judicial efectiva y entre sus garantías incluye expresamente el derecho a la PRESUNCIÓN DE INOCENCIA, junto a otros derechos procesales como el derecho al juez ordinario predeterminado por la ley y el derecho a no declarar contra uno mismo."
+    },
+    {
+      "id": "t04_t13_p04",
+      "pregunta": "Constitución Española, art. 27. ¿Quién puede crear centros docentes según la Constitución?",
+      "opciones": [
+        "a) Solo los poderes públicos",
+        "b) Las personas físicas y jurídicas, dentro del respeto a los principios constitucionales",
+        "c) Solo las entidades sin ánimo de lucro debidamente autorizadas",
+        "d) Solo las instituciones religiosas reconocidas por el Estado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 27.6 CE. Se reconoce a las PERSONAS FÍSICAS Y JURÍDICAS la libertad de creación de centros docentes, DENTRO DEL RESPETO A LOS PRINCIPIOS CONSTITUCIONALES. Los poderes públicos inspeccionarán y homologarán el sistema educativo para garantizar el cumplimiento de las leyes."
+    },
+    {
+      "id": "t04_t13_p05",
+      "pregunta": "Constitución Española, art. 38. La libertad de empresa se reconoce en el marco de:",
+      "opciones": [
+        "a) La planificación económica estatal",
+        "b) La economía de mercado",
+        "c) El interés público y la utilidad social",
+        "d) El sistema cooperativo y de economía social"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 38 CE. Se reconoce la libertad de empresa en el MARCO DE LA ECONOMÍA DE MERCADO. Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación."
+    },
+    {
+      "id": "t04_t13_p06",
+      "pregunta": "Constitución Española, art. 53. ¿Cuál de las siguientes herramientas de garantía es la más intensa para los derechos del artículo 14 y la Sección 1ª del Capítulo II del Título I?",
+      "opciones": [
+        "a) La legislación positiva ordinaria",
+        "b) El recurso de amparo ante el Tribunal Constitucional",
+        "c) La jurisdicción ordinaria por procedimiento ordinario",
+        "d) El recurso contencioso-administrativo"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 53.2 CE. Los derechos del art. 14 y la Sección 1ª del Cap. II del Título I disfrutan de la garantía más reforzada: tutela ante los tribunales ordinarios por procedimiento preferente y sumario y, en su caso, RECURSO DE AMPARO ANTE EL TRIBUNAL CONSTITUCIONAL, que es la máxima protección constitucional."
+    },
+    {
+      "id": "t04_t13_p07",
+      "pregunta": "Constitución Española, art. 63. Al Rey corresponde manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados, de conformidad con:",
+      "opciones": [
+        "a) La decisión exclusiva del Presidente del Gobierno",
+        "b) La Constitución y las leyes",
+        "c) La aprobación previa del Senado",
+        "d) Las directrices del Ministerio de Asuntos Exteriores"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 63.2 CE. Al Rey corresponde manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados, de conformidad con LA CONSTITUCIÓN Y LAS LEYES. Esto es coherente con el papel del Rey como representante del Estado en las relaciones internacionales."
+    },
+    {
+      "id": "t04_t13_p08",
+      "pregunta": "Constitución Española, art. 66. El principio de que las Cortes Generales son inviolables significa que:",
+      "opciones": [
+        "a) Sus miembros no pueden ser procesados en ningún caso",
+        "b) Sus funciones no pueden ser suspendidas y su funcionamiento es permanente",
+        "c) Sus acuerdos no pueden ser recurridos ante ningún tribunal",
+        "d) El Gobierno no puede disolver las Cámaras en ninguna circunstancia"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 66.3 CE. Las Cortes Generales son inviolables. Esta inviolabilidad significa que, en relación con sus funciones, ÉSTAS NO PUEDEN SER SUSPENDIDAS Y SU FUNCIONAMIENTO ES PERMANENTE. No se confunde con la inviolabilidad de sus miembros, que se regula en el art. 71."
+    },
+    {
+      "id": "t04_t13_p09",
+      "pregunta": "Constitución Española, art. 75. ¿Qué materias no pueden ser delegadas por las Cámaras a las Comisiones Legislativas Permanentes?",
+      "opciones": [
+        "a) Los proyectos de ley de menor importancia",
+        "b) La reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del Estado",
+        "c) Solo la reforma constitucional y los Presupuestos",
+        "d) Todas las materias pueden delegarse si así lo acuerda el Pleno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 75.3 CE. Quedan exceptuadas de la delegación en Comisiones Legislativas Permanentes: LA REFORMA CONSTITUCIONAL, las CUESTIONES INTERNACIONALES, las LEYES ORGÁNICAS Y DE BASES y los PRESUPUESTOS GENERALES DEL ESTADO. Estas materias siempre deben ser aprobadas por el Pleno."
+    },
+    {
+      "id": "t04_t13_p10",
+      "pregunta": "Constitución Española, art. 84. Cuando una proposición de ley o una enmienda sea contraria a una delegación legislativa en vigor, ¿qué puede hacer el Gobierno?",
+      "opciones": [
+        "a) Aprobarla mediante decreto-ley de urgencia",
+        "b) Oponerse a su tramitación",
+        "c) Solicitar al Tribunal Constitucional la suspensión del trámite parlamentario",
+        "d) Vetar la proposición mediante resolución del Consejo de Ministros"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 84 CE. Cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor, el GOBIERNO ESTÁ FACULTADO PARA OPONERSE A SU TRAMITACIÓN. En tal supuesto, podrá presentarse una proposición de ley para la derogación total o parcial de la ley de delegación."
+    },
+    {
+      "id": "t04_t13_p11",
+      "pregunta": "Constitución Española, art. 98. Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario ni:",
+      "opciones": [
+        "a) Ninguna función pública, pero pueden ejercer actividades privadas no lucrativas",
+        "b) Ninguna otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna",
+        "c) Actividades académicas universitarias, pero pueden ejercer la abogacía de forma limitada",
+        "d) Ser miembros de consejos de administración de empresas privadas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 98.3 CE. Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra FUNCIÓN PÚBLICA QUE NO DERIVE DE SU CARGO, NI ACTIVIDAD PROFESIONAL O MERCANTIL ALGUNA."
+    },
+    {
+      "id": "t04_t13_p12",
+      "pregunta": "Constitución Española, art. 148. ¿Cuál de las siguientes es competencia que pueden asumir las CCAA según el artículo 148?",
+      "opciones": [
+        "a) La legislación mercantil",
+        "b) El régimen electoral general",
+        "c) La ordenación del territorio, urbanismo y vivienda",
+        "d) Las relaciones internacionales"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 148.1.3ª CE. La ORDENACIÓN DEL TERRITORIO, URBANISMO Y VIVIENDA es una de las materias que las Comunidades Autónomas pueden asumir como competencia propia. La legislación mercantil, el régimen electoral general y las relaciones internacionales son competencias exclusivas del Estado."
+    },
+    {
+      "id": "t04_t13_p13",
+      "pregunta": "Constitución Española, art. 149. La pesca marítima es competencia:",
+      "opciones": [
+        "a) Exclusiva de las Comunidades Autónomas costeras",
+        "b) Exclusiva del Estado, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las CCAA",
+        "c) Compartida al 50% entre el Estado y las CCAA costeras",
+        "d) Exclusiva de la Unión Europea en virtud de los tratados comunitarios"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 149.1.19ª CE. La PESCA MARÍTIMA es competencia exclusiva del ESTADO, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas. No confundir con la pesca en aguas interiores (art. 148.1.11ª), que pueden asumir las CCAA."
+    },
+    {
+      "id": "t04_t13_p14",
+      "pregunta": "Constitución Española, art. 155. El mecanismo de coerción estatal sobre las Comunidades Autónomas requiere la previa aprobación del:",
+      "opciones": [
+        "a) Congreso de los Diputados por mayoría absoluta",
+        "b) Senado por mayoría absoluta",
+        "c) Tribunal Constitucional",
+        "d) Consejo de Estado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 155.1 CE. El mecanismo de coerción del Estado sobre las CCAA requiere que el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma, cuente con la aprobación de la MAYORÍA ABSOLUTA DEL SENADO, cámara de representación territorial."
+    },
+    {
+      "id": "t04_t13_p15",
+      "pregunta": "Constitución Española, art. 165. El funcionamiento del Tribunal Constitucional, el estatuto de sus miembros y el procedimiento ante el mismo se regulará por:",
+      "opciones": [
+        "a) Ley ordinaria del Parlamento",
+        "b) Ley orgánica",
+        "c) Reglamento del propio Tribunal Constitucional",
+        "d) Decreto del Consejo de Ministros"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 165 CE. Una LEY ORGÁNICA regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones. Es la LO 2/1979, de 3 de octubre, del Tribunal Constitucional."
+    },
+    {
+      "id": "t04_t13_p16",
+      "pregunta": "Constitución Española, art. 1. España se constituye en un Estado social y democrático de Derecho. Los valores superiores son la libertad, la justicia, la igualdad y el pluralismo político. ¿Cuál de estos valores es recogido por el Tribunal Constitucional como el que 'permite contemplar en el marco de la Constitución diversas soluciones legales'?",
+      "opciones": [
+        "a) La libertad",
+        "b) La justicia",
+        "c) La igualdad",
+        "d) El pluralismo político"
+      ],
+      "correcta": 3,
+      "retroalimentacion": "Art. 1.1 CE. El TC define el PLURALISMO POLÍTICO como el valor que 'permite contemplar en el marco de la Constitución diversas soluciones legales; permite una libertad al legislador para apreciar la oportunidad o conveniencia de modificaciones normativas'. Justifica la diversidad de opciones dentro del Estado de Derecho."
+    },
+    {
+      "id": "t04_t13_p17",
+      "pregunta": "Constitución Española, art. 33. La expropiación forzosa de bienes y derechos puede realizarse:",
+      "opciones": [
+        "a) Sin indemnización si existe una causa grave de interés general",
+        "b) Solo por causa de utilidad pública, mediante la correspondiente indemnización y de conformidad con las leyes",
+        "c) Por causa de interés social, sin necesidad de indemnización si el propietario es extranjero",
+        "d) Solo mediante ley orgánica aprobada por el Congreso"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 33.3 CE. Nadie podrá ser privado de sus bienes y derechos sino por CAUSA JUSTIFICADA DE UTILIDAD PÚBLICA O INTERÉS SOCIAL, MEDIANTE LA CORRESPONDIENTE INDEMNIZACIÓN y de conformidad con lo dispuesto por las leyes. La indemnización es requisito constitucional ineludible."
+    },
+    {
+      "id": "t04_t13_p18",
+      "pregunta": "Constitución Española, art. 87. Las Asambleas de las CCAA pueden remitir a la Mesa del Congreso una proposición de ley delegando ante dicha Cámara un máximo de:",
+      "opciones": [
+        "a) Un miembro de la Asamblea encargado de su defensa",
+        "b) Dos miembros de la Asamblea encargados de su defensa",
+        "c) Tres miembros de la Asamblea encargados de su defensa",
+        "d) Cinco miembros de la Asamblea encargados de su defensa"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 87.2 CE. Las Asambleas de las Comunidades Autónomas podrán remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de TRES MIEMBROS de la Asamblea encargados de su defensa."
+    },
+    {
+      "id": "t04_t13_p19",
+      "pregunta": "Constitución Española, art. 103. El acceso a la función pública se rige por los principios de:",
+      "opciones": [
+        "a) Igualdad, publicidad y objetividad",
+        "b) Mérito y capacidad",
+        "c) Antigüedad y especialización",
+        "d) Mérito, capacidad y representación territorial"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 103.3 CE. La ley regulará el acceso a la función pública de acuerdo con los principios de MÉRITO Y CAPACIDAD. También regulará el estatuto de los funcionarios, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad."
+    },
+    {
+      "id": "t04_t13_p20",
+      "pregunta": "Constitución Española, art. 6. Los partidos políticos que no se creen conforme a la Constitución pueden ser ilegales por:",
+      "opciones": [
+        "a) Ser contrarios al interés general apreciado por el Gobierno",
+        "b) Ser anticonstitucionales, no por ilícito penal",
+        "c) Ser contrarios a la moral social y pública",
+        "d) Incumplir las normas de procedimiento electoral"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 6 CE. Un partido político no creado en base a lo establecido en la Constitución puede ser ilegal por ser ANTICONSTITUCIONAL y NO POR ILÍCITO PENAL. El TC señaló que los partidos no son órganos del Estado pero ejercen funciones públicas (STC 5/83 y 10/83)."
+    }
+  ]
+}

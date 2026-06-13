@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_46",
+  "titulo": "Test 46 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t46_p01",
+      "pregunta": "Constitución Española, art. 1. ¿Cuál fue el primer país en consagrar constitucionalmente el principio de Estado social?",
+      "opciones": [
+        "a) España en 1978",
+        "b) Alemania con la Ley Fundamental de Bonn de 1949",
+        "c) México con la Constitución de Querétaro de 1917",
+        "d) Francia con la Constitución de 1958"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "CE (Introducción). Aunque México (1917) fue pionero en derechos sociales, LA LEY FUNDAMENTAL DE BONN DE 1949 fue la primera en consagrar de forma sistemática el concepto de ESTADO SOCIAL (Sozialstaat) como categoría jurídica constitucional que luego influyó en la CE española de 1978."
+    },
+    {
+      "id": "t04_t46_p02",
+      "pregunta": "Constitución Española, art. 3. La Constitución afirma que 'las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos'. ¿Qué significa 'también'?",
+      "opciones": [
+        "a) Que las lenguas autonómicas sustituyen al castellano en sus territorios",
+        "b) Que son oficiales ADEMÁS del castellano, no en lugar de él; el castellano sigue siendo oficial en toda España",
+        "c) Que tienen el mismo rango que el castellano en sus territorios",
+        "d) Que pueden establecerse por encima del castellano en sus territorios"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 3.2 CE. 'TAMBIÉN' implica que las lenguas cooficiales son oficiales ADEMÁS DEL CASTELLANO, no en lugar de él. En los territorios con lengua cooficial conviven DOS LENGUAS OFICIALES: el castellano (que es oficial en toda España) y la lengua autonómica (que es oficial solo en ese territorio)."
+    },
+    {
+      "id": "t04_t46_p03",
+      "pregunta": "Constitución Española, art. 7. Los sindicatos contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. ¿Pueden los sindicatos tener fines políticos?",
+      "opciones": [
+        "a) Sí, los sindicatos pueden tener cualquier fin",
+        "b) Los sindicatos deben centrarse en la defensa de los intereses económicos y sociales de los trabajadores; los fines estrictamente políticos son propios de los partidos políticos",
+        "c) Sí, la CE no distingue entre fines sindicales y políticos",
+        "d) Solo los sindicatos con más de 10% de representatividad pueden tener fines políticos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 7 CE. Los sindicatos son para la 'DEFENSA Y PROMOCIÓN DE LOS INTERESES ECONÓMICOS Y SOCIALES'. Los fines ESTRICTAMENTE POLÍTICOS son propios de los PARTIDOS POLÍTICOS (art. 6 CE). La distinción es relevante aunque en la práctica los sindicatos también participen en el debate político amplio."
+    },
+    {
+      "id": "t04_t46_p04",
+      "pregunta": "Constitución Española, art. 9. El artículo 9.2 obliga a los poderes públicos a promover la igualdad real. ¿Este artículo va más allá de la igualdad formal del art. 14?",
+      "opciones": [
+        "a) No, ambos artículos tienen el mismo contenido",
+        "b) Sí, el art. 14 garantiza la igualdad formal (igual trato jurídico); el art. 9.2 va más allá exigiendo una igualdad REAL Y EFECTIVA que puede requerir actuaciones positivas del Estado",
+        "c) El art. 9.2 solo aplica en materia laboral y económica",
+        "d) El art. 9.2 contradice al art. 14 al permitir discriminaciones positivas"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 9.2 y 14 CE. El ART. 14 garantiza la IGUALDAD FORMAL: igual trato ante la ley. El ART. 9.2 va más allá: obliga a los poderes públicos a PROMOVER LAS CONDICIONES PARA QUE LA IGUALDAD SEA REAL Y EFECTIVA, lo que puede requerir acciones positivas para corregir desigualdades fácticas (discriminación positiva, cuotas, etc.)."
+    },
+    {
+      "id": "t04_t46_p05",
+      "pregunta": "Constitución Española, art. 16. ¿La objeción de conciencia está regulada solo en el artículo 30 CE (servicio militar) o también tiene amparo en el artículo 16?",
+      "opciones": [
+        "a) Solo en el art. 30; el art. 16 no menciona la objeción de conciencia",
+        "b) El art. 16 también ampara formas de objeción de conciencia no relacionadas con el servicio militar, como expresión de la libertad ideológica y religiosa",
+        "c) El art. 16 solo ampara la objeción de conciencia religiosa, no la ideológica",
+        "d) La objeción de conciencia está prohibida fuera del supuesto del art. 30"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 16 y 30 CE. EL TC HA RECONOCIDO QUE EL ART. 16 TAMBIÉN AMPARA FORMAS DE OBJECIÓN DE CONCIENCIA más allá del servicio militar. La libertad ideológica y religiosa protege el derecho a actuar conforme a las propias convicciones en diversas situaciones, aunque la objeción al servicio militar tiene su regulación específica en el art. 30."
+    },
+    {
+      "id": "t04_t46_p06",
+      "pregunta": "Constitución Española, art. 18. El derecho a la intimidad protege el domicilio. ¿Un local empresarial tiene la misma protección que el domicilio personal?",
+      "opciones": [
+        "a) Sí, exactamente la misma protección constitucional",
+        "b) El TC ha establecido que los locales empresariales tienen protección, pero de menor intensidad que el domicilio personal, admitiendo controles administrativos de inspección con menores garantías",
+        "c) No tienen ninguna protección constitucional",
+        "d) Solo tienen protección si hay personas físicas residiendo en ellos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 18.2 CE. EL TC HA ESTABLECIDO QUE LOS LOCALES EMPRESARIALES TIENEN PROTECCIÓN, pero de MENOR INTENSIDAD que el domicilio de las personas físicas. Por ello, las inspecciones administrativas de locales comerciales tienen menores requisitos (no siempre se exige mandamiento judicial) que la entrada en domicilios particulares."
+    },
+    {
+      "id": "t04_t46_p07",
+      "pregunta": "Constitución Española, art. 20. ¿Pueden los periodistas negarse a revelar sus fuentes de información alegando secreto profesional?",
+      "opciones": [
+        "a) No, el secreto profesional no se aplica a los periodistas",
+        "b) Sí, el art. 20.1.d) CE reconoce el secreto profesional en el ejercicio de las libertades informativas; la ley lo regula",
+        "c) Solo si el juez lo autoriza expresamente en cada caso",
+        "d) Solo en procesos penales, no en otros ámbitos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 20.1.d) CE. 'La LEY REGULARÁ EL DERECHO A LA CLÁUSULA DE CONCIENCIA Y AL SECRETO PROFESIONAL en el ejercicio de estas libertades.' El SECRETO PROFESIONAL periodístico tiene reconocimiento constitucional expreso. Los periodistas pueden negarse a revelar sus fuentes, y esta protección está reconocida constitucional y legalmente."
+    },
+    {
+      "id": "t04_t46_p08",
+      "pregunta": "Constitución Española, art. 23. El sufragio activo (votar) y el pasivo (ser elegido) son derechos. ¿Pueden los nacionales de otros países de la UE votar en elecciones generales en España?",
+      "opciones": [
+        "a) Sí, todos los ciudadanos de la UE tienen el mismo derecho de voto en España",
+        "b) No, el art. 13.2 CE solo prevé reciprocidad para el sufragio activo y pasivo en ELECCIONES MUNICIPALES; las generales son exclusivas de los españoles",
+        "c) Sí, desde la adhesión de España a la UE en 1986",
+        "d) Solo pueden votar en elecciones al Parlamento Europeo, no en municipales ni generales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 13.2 CE. Los ciudadanos europeos tienen el derecho de sufragio activo y pasivo en ELECCIONES MUNICIPALES (no en las generales). Las ELECCIONES GENERALES (Congreso y Senado) son EXCLUSIVAS DE LOS CIUDADANOS ESPAÑOLES. Solo los ciudadanos de la UE también votan en elecciones al Parlamento Europeo."
+    },
+    {
+      "id": "t04_t46_p09",
+      "pregunta": "Constitución Española, art. 24. ¿El derecho a recurrir una resolución judicial es un derecho fundamental garantizado por el art. 24?",
+      "opciones": [
+        "a) Sí, el art. 24 garantiza el derecho a recurrir toda resolución judicial",
+        "b) Solo en materia penal hay un derecho constitucional a la doble instancia; en otros órdenes el legislador puede configurar los recursos",
+        "c) No, el art. 24 no menciona el derecho de recurso",
+        "d) Solo en materia civil hay derecho a recurrir"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 24 CE. El TC ha distinguido: en MATERIA PENAL hay un derecho constitucional a la DOBLE INSTANCIA (revisar la condena). En otros órdenes, EL LEGISLADOR PUEDE CONFIGURAR LOS RECURSOS disponibles; no hay un derecho constitucional autónomo a recurrir cualquier resolución, aunque el art. 24 sí protege el derecho a la tutela efectiva."
+    },
+    {
+      "id": "t04_t46_p10",
+      "pregunta": "Constitución Española, art. 25. ¿Puede la Administración sancionadora aplicar una sanción más grave que la prevista en la ley mediante interpretación extensiva?",
+      "opciones": [
+        "a) Sí, si la conducta es especialmente grave",
+        "b) No, el principio de tipicidad exige que las sanciones estén predeterminadas con suficiente precisión; la interpretación extensiva en perjuicio del sancionado vulnera el art. 25 CE",
+        "c) Solo si lo aprueba el Tribunal Contencioso-Administrativo",
+        "d) Solo en materia de tráfico y seguridad vial"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 25.1 CE. El PRINCIPIO DE TIPICIDAD exige que tanto las infracciones como las sanciones estén PREDETERMINADAS POR LA LEY CON SUFICIENTE PRECISIÓN. LA INTERPRETACIÓN EXTENSIVA EN PERJUICIO DEL SANCIONADO vulnera el art. 25 CE. Las normas sancionadoras deben interpretarse restrictivamente, nunca extensivamente contra el infractor."
+    },
+    {
+      "id": "t04_t46_p11",
+      "pregunta": "Constitución Española, art. 27. Los poderes públicos garantizan el derecho de todos a la educación mediante la programación general de la enseñanza. ¿Puede haber centros de enseñanza con ideario propio?",
+      "opciones": [
+        "a) No, todos los centros deben ser ideológicamente neutros",
+        "b) Sí, el art. 27.6 reconoce la libertad de creación de centros docentes con ideario propio, siempre dentro del respeto a los principios constitucionales",
+        "c) Solo los centros religiosos pueden tener ideario propio",
+        "d) Solo si el ideario es de carácter cultural, no ideológico"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 27.6 CE. Se reconoce la libertad de creación de centros docentes. El TC ha reconocido el 'DERECHO AL IDEARIO' de los centros: pueden tener un carácter propio (religioso, pedagógico, cultural) que no es discriminatorio sino expresión de la libertad de enseñanza, SIEMPRE DENTRO DEL RESPETO A LOS PRINCIPIOS CONSTITUCIONALES."
+    },
+    {
+      "id": "t04_t46_p12",
+      "pregunta": "Constitución Española, art. 28. La huelga en servicios esenciales está limitada por los servicios mínimos. ¿Quién los fija?",
+      "opciones": [
+        "a) Los propios sindicatos convocantes",
+        "b) El Gobierno o la Administración competente mediante decreto, que puede ser impugnado judicialmente",
+        "c) El Tribunal Laboral Central",
+        "d) El Ministerio del Interior por razones de orden público"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 28.2 CE. Los servicios mínimos en servicios esenciales LOS FIJA EL GOBIERNO O LA ADMINISTRACIÓN COMPETENTE mediante decreto o resolución. Esta decisión es recurrible judicialmente. El TC ha establecido que los servicios mínimos deben ser proporcionales: suficientes para mantener los servicios esenciales, pero sin vaciar el derecho de huelga."
+    },
+    {
+      "id": "t04_t46_p13",
+      "pregunta": "Constitución Española, art. 33. ¿Puede el Estado expropiar acciones o participaciones en empresas privadas?",
+      "opciones": [
+        "a) No, la expropiación solo afecta a bienes inmuebles",
+        "b) Sí, la expropiación puede afectar a toda clase de derechos (acciones, participaciones, concesiones) no solo a bienes inmuebles, siempre con indemnización y causa justificada",
+        "c) Solo si la empresa tiene posición de dominio en el mercado",
+        "d) Solo mediante nacionalización aprobada por las Cortes"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 33.3 CE. 'Nadie podrá ser privado de sus BIENES Y DERECHOS sino por causa justificada de utilidad pública o interés social.' LA EXPROPIACIÓN PUEDE AFECTAR A TODA CLASE DE BIENES Y DERECHOS: acciones de empresas, concesiones administrativas, patentes, etc. Lo que exige la CE es la causa justificada y la correspondiente indemnización."
+    },
+    {
+      "id": "t04_t46_p14",
+      "pregunta": "Constitución Española, art. 35. ¿Tiene protección constitucional el trabajo autónomo o por cuenta propia?",
+      "opciones": [
+        "a) No, el art. 35 solo protege el trabajo por cuenta ajena",
+        "b) Sí, el derecho al trabajo y la libre elección de profesión u oficio del art. 35 ampara también el trabajo autónomo y por cuenta propia",
+        "c) Solo el art. 38 (libertad de empresa) protege el trabajo autónomo",
+        "d) El trabajo autónomo solo tiene protección infraconstitucional"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 35 CE. El art. 35 reconoce el derecho 'a la LIBRE ELECCIÓN DE PROFESIÓN U OFICIO'. Esto incluye tanto el trabajo por cuenta ajena como el TRABAJO AUTÓNOMO O POR CUENTA PROPIA. El TC ha reconocido que el trabajo independiente está amparado por este precepto constitucional."
+    },
+    {
+      "id": "t04_t46_p15",
+      "pregunta": "Constitución Española, art. 38. ¿Pueden los poderes públicos prohibir determinadas actividades económicas privadas?",
+      "opciones": [
+        "a) No, la libertad de empresa es absoluta y no admite prohibiciones",
+        "b) Sí, pueden prohibir o restringir actividades económicas cuando así lo exijan las exigencias de la economía general, el interés general o la protección de otros bienes constitucionales",
+        "c) Solo pueden prohibir actividades que sean delito penal",
+        "d) Solo si la prohibición la aprueba el TC"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 38 CE. La libertad de empresa NO ES ABSOLUTA. LOS PODERES PÚBLICOS PUEDEN PROHIBIR O RESTRINGIR ACTIVIDADES ECONÓMICAS cuando así lo exijan 'LAS EXIGENCIAS DE LA ECONOMÍA GENERAL Y, EN SU CASO, DE LA PLANIFICACIÓN'. También pueden prohibirse por razones de salud pública, seguridad, medio ambiente u otros bienes constitucionales."
+    },
+    {
+      "id": "t04_t46_p16",
+      "pregunta": "Constitución Española, art. 40. ¿Existe un derecho constitucional al salario mínimo?",
+      "opciones": [
+        "a) Sí, el art. 35 garantiza el salario mínimo interprofesional",
+        "b) El art. 35 garantiza una 'remuneración suficiente' y el art. 40 obliga a los poderes públicos a garantizar el descanso; el SMI no está en la CE pero tiene base constitucional",
+        "c) No, el salario es una cuestión puramente contractual",
+        "d) Solo los funcionarios públicos tienen derecho constitucional a una retribución mínima"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 35 y 40 CE. EL ART. 35 GARANTIZA 'UNA REMUNERACIÓN SUFICIENTE PARA SATISFACER SUS NECESIDADES Y LAS DE SU FAMILIA'. El SMI como tal no está en la CE, pero tiene BASE CONSTITUCIONAL en ese precepto y en el art. 40 (garantía del descanso y condiciones dignas). La fijación concreta del SMI corresponde al Gobierno mediante real decreto."
+    },
+    {
+      "id": "t04_t46_p17",
+      "pregunta": "Constitución Española, art. 41. ¿Puede el Estado delimitar quiénes tienen acceso a la Seguridad Social?",
+      "opciones": [
+        "a) No, todos los residentes tienen igual acceso a la Seguridad Social",
+        "b) Sí, la CE garantiza prestaciones 'para todos los ciudadanos'; la ley puede determinar los requisitos de acceso, aunque el sistema debe ser universal en sus prestaciones mínimas",
+        "c) Solo los trabajadores que cotizan tienen derecho a prestaciones",
+        "d) El acceso es solo para los ciudadanos españoles"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 41 CE. Los poderes públicos mantendrán un régimen de Seguridad Social PARA TODOS LOS CIUDADANOS que garantice prestaciones ante situaciones de necesidad. LA LEY PUEDE DELIMITAR LOS REQUISITOS DE ACCESO (cotizaciones, residencia, etc.), pero el sistema debe ser UNIVERSAL en sus prestaciones mínimas de asistencia y protección."
+    },
+    {
+      "id": "t04_t46_p18",
+      "pregunta": "Constitución Española, art. 43. ¿Tiene el Estado obligación de prestar asistencia sanitaria gratuita a todos los ciudadanos?",
+      "opciones": [
+        "a) Sí, la sanidad universal y gratuita es un derecho fundamental",
+        "b) El art. 43 es un principio rector que obliga a los poderes públicos a organizar y tutelar la salud pública mediante prestaciones y servicios necesarios; la universalidad y gratuidad depende de cómo la ley lo configure",
+        "c) Solo la sanidad de urgencias es obligatoriamente gratuita",
+        "d) La asistencia sanitaria gratuita solo es obligatoria para ciudadanos sin recursos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 43 CE. El art. 43 es un PRINCIPIO RECTOR que obliga al Estado a organizar la salud pública con PRESTACIONES Y SERVICIOS NECESARIOS. La universalidad y gratuidad del sistema sanitario DEPENDE DE CÓMO LA LEY LO CONFIGURE. En España, la Ley General de Sanidad y legislación posterior han optado por un sistema universal con copago en algunos servicios."
+    },
+    {
+      "id": "t04_t46_p19",
+      "pregunta": "Constitución Española, art. 45. El derecho al medio ambiente adecuado, ¿puede invocarse directamente ante los tribunales sin ley de desarrollo?",
+      "opciones": [
+        "a) Sí, es directamente invocable como derecho fundamental",
+        "b) No, al ser un principio rector del Cap. III, solo puede alegarse ante la jurisdicción ordinaria de acuerdo con las leyes que lo desarrollen",
+        "c) Solo puede invocarse ante el TC en recurso de amparo",
+        "d) Solo puede invocarse en jurisdicción contencioso-administrativa"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 45 CE. El derecho al medio ambiente es un PRINCIPIO RECTOR del Capítulo III del Título I. Conforme al art. 53.3 CE, SOLO PUEDE ALEGARSE ANTE LA JURISDICCIÓN ORDINARIA DE ACUERDO CON LAS LEYES QUE LO DESARROLLEN. No tiene acceso al recurso de amparo. La legislación medioambiental (aguas, costas, espacios naturales, etc.) desarrolla este principio."
+    },
+    {
+      "id": "t04_t46_p20",
+      "pregunta": "Constitución Española, art. 55. En el estado de excepción, el plazo máximo de detención preventiva puede extenderse más allá de las 72 horas del art. 17. ¿Quién autoriza esa extensión?",
+      "opciones": [
+        "a) El Gobierno mediante decreto especial",
+        "b) El Ministro del Interior con comunicación al juez",
+        "c) La autoridad gubernativa, que comunicará al juez la detención en el plazo que establezca la ley de desarrollo del estado de excepción",
+        "d) El propio texto constitucional del estado de excepción, sin necesidad de autorización adicional"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 55.1 CE y LO 4/1981. En estado de excepción pueden extenderse los plazos de detención más allá de 72 horas. La LO 4/1981 establece que la AUTORIDAD GUBERNATIVA PODRÁ DECRETAR LA DETENCIÓN DE CUALQUIER PERSONA si existen fundadas sospechas, COMUNICÁNDOLO AL JUEZ en el plazo que establezca la ley. El juez puede alzar la detención en cualquier momento."
+    }
+  ]
+}

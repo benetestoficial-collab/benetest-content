@@ -1,0 +1,246 @@
+{
+  "id": "tema_02_test_02",
+  "titulo": "Test 2 — Tema 2",
+  "preguntas": [
+    {
+      "id": "t02_t02_p01",
+      "pregunta": "LO 3/2007. La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal:",
+      "opciones": [
+        "a) Se integrará y observará en la interpretación y aplicación de las normas jurídicas.",
+        "b) Solo se aplicará en el ámbito del empleo público.",
+        "c) Tendrá carácter programático sin efectos jurídicos directos.",
+        "d) Se aplicará únicamente en los procesos judiciales."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 4 LO 3/2007. La igualdad de trato y oportunidades es un principio informador del ordenamiento jurídico que se integrará y observará en la INTERPRETACIÓN Y APLICACIÓN de las normas jurídicas, con carácter transversal."
+    },
+    {
+      "id": "t02_t02_p02",
+      "pregunta": "LO 3/2007. El principio de igualdad de trato y de oportunidades entre mujeres y hombres en el ámbito del empleo privado y público se garantizará, entre otros, en:",
+      "opciones": [
+        "a) El acceso al empleo, incluso al trabajo por cuenta propia, la formación profesional y la promoción profesional.",
+        "b) Solo en las condiciones retributivas y de despido.",
+        "c) Únicamente en el empleo público, no en el privado.",
+        "d) Solo en los procesos de selección y contratación."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 5 LO 3/2007. El principio se aplica tanto en empleo privado como público, garantizándose en: acceso al empleo (incluso por cuenta propia), formación profesional, promoción profesional, condiciones de trabajo (incluidas retributivas y de despido), y afiliación sindical."
+    },
+    {
+      "id": "t02_t02_p03",
+      "pregunta": "LO 3/2007. No constituirá discriminación en el acceso al empleo una diferencia de trato basada en una característica relacionada con el sexo cuando:",
+      "opciones": [
+        "a) La empresa así lo determine en su reglamento interno.",
+        "b) Dicha característica constituya un requisito profesional esencial y determinante, el objetivo sea legítimo y el requisito proporcionado.",
+        "c) Se trate de una empresa con más de 250 trabajadores que tenga plan de igualdad.",
+        "d) Exista autorización expresa de la Inspección de Trabajo."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 5 LO 3/2007. No hay discriminación cuando la característica relacionada con el sexo constituye un requisito PROFESIONAL ESENCIAL Y DETERMINANTE, debido a la naturaleza de las actividades profesionales o al contexto, siempre que el objetivo sea legítimo y el requisito proporcionado."
+    },
+    {
+      "id": "t02_t02_p04",
+      "pregunta": "LO 3/2007. Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán:",
+      "opciones": [
+        "a) Anulables a instancia de parte interesada.",
+        "b) Nulos y sin efecto.",
+        "c) Irregulares, susceptibles de subsanación.",
+        "d) Válidos salvo que exista perjuicio acreditado."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 10 LO 3/2007. Los actos y cláusulas discriminatorios son NULOS Y SIN EFECTO, y dan lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones reales, efectivas y proporcionadas, así como un sistema eficaz y disuasorio de sanciones."
+    },
+    {
+      "id": "t02_t02_p05",
+      "pregunta": "LO 3/2007. Las acciones positivas del artículo 11 establece que los Poderes Públicos adoptarán medidas específicas en favor de las mujeres. Dichas medidas habrán de ser:",
+      "opciones": [
+        "a) Permanentes e irrevocables una vez adoptadas.",
+        "b) Razonables y proporcionadas en relación con el objetivo perseguido en cada caso.",
+        "c) Aprobadas por el Parlamento en cada caso concreto.",
+        "d) Exclusivamente de carácter económico."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 11 LO 3/2007. Las medidas de acción positiva habrán de ser RAZONABLES Y PROPORCIONADAS en relación con el objetivo perseguido. Son aplicables en tanto subsistan las situaciones de desigualdad de hecho, y también las personas físicas y jurídicas privadas podrán adoptarlas."
+    },
+    {
+      "id": "t02_t02_p06",
+      "pregunta": "LO 3/2007. La tutela judicial efectiva del derecho a la igualdad entre mujeres y hombres podrá recabarse de los tribunales:",
+      "opciones": [
+        "a) Solo durante la vigencia de la relación laboral o contractual.",
+        "b) Incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación.",
+        "c) Únicamente en los doce meses siguientes al acto discriminatorio.",
+        "d) Solo a través del procedimiento contencioso-administrativo."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 12 LO 3/2007. Cualquier persona podrá recabar la tutela del derecho a la igualdad de acuerdo con el art. 53.2 CE, INCLUSO TRAS LA TERMINACIÓN de la relación en la que se produjo la discriminación."
+    },
+    {
+      "id": "t02_t02_p07",
+      "pregunta": "LO 3/2007. La persona acosada será la única legitimada en los litigios sobre:",
+      "opciones": [
+        "a) Discriminación directa e indirecta por razón de sexo.",
+        "b) Acoso sexual y acoso por razón de sexo.",
+        "c) Discriminación en el acceso al empleo público.",
+        "d) Vulneración del principio de igualdad retributiva."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 12.3 LO 3/2007. La persona acosada será la ÚNICA LEGITIMADA en los litigios sobre acoso sexual y acoso por razón de sexo. En otros tipos de discriminación, la capacidad y legitimación corresponde a personas físicas y jurídicas con interés legítimo."
+    },
+    {
+      "id": "t02_t02_p08",
+      "pregunta": "LO 3/2007. Según el artículo 14, son criterios generales de actuación de los Poderes Públicos. Señale cuál NO lo es:",
+      "opciones": [
+        "a) La participación equilibrada de mujeres y hombres en las candidaturas electorales y en la toma de decisiones.",
+        "b) La adopción de las medidas necesarias para la erradicación de la violencia de género, la violencia familiar y todas las formas de acoso sexual.",
+        "c) La protección de la maternidad, con especial atención a la asunción por la sociedad de los efectos del embarazo, parto y lactancia.",
+        "d) La eliminación de toda distinción entre trabajo doméstico y trabajo remunerado a efectos de la Seguridad Social."
+      ],
+      "correcta": 3,
+      "retroalimentacion": "Art. 14 LO 3/2007. Los criterios a), b) y c) figuran expresamente en el artículo 14. La opción d) no es un criterio de actuación previsto en dicho artículo. El art. 14.8 habla de fomento de la corresponsabilidad, no de equiparar ambos tipos de trabajo a efectos de Seguridad Social."
+    },
+    {
+      "id": "t02_t02_p09",
+      "pregunta": "LO 3/2007. El principio de igualdad de trato y oportunidades informará, con carácter transversal, la actuación de todos los Poderes Públicos. Las Administraciones públicas lo integrarán de forma activa en:",
+      "opciones": [
+        "a) Solo en la adopción y ejecución de sus disposiciones normativas.",
+        "b) La adopción y ejecución de sus disposiciones normativas, la definición y presupuestación de políticas públicas en todos los ámbitos y en el desarrollo de todas sus actividades.",
+        "c) Solo en la definición de políticas de empleo.",
+        "d) Únicamente en los ámbitos de educación y sanidad."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 15 LO 3/2007. La transversalidad se aplica en: la adopción y ejecución de disposiciones normativas, la definición y PRESUPUESTACIÓN de políticas públicas en TODOS LOS ÁMBITOS, y en el desarrollo del CONJUNTO DE TODAS SUS ACTIVIDADES."
+    },
+    {
+      "id": "t02_t02_p10",
+      "pregunta": "LO 3/2007. El Gobierno elaborará un informe periódico sobre el conjunto de sus actuaciones en relación con la efectividad del principio de igualdad. De este informe se dará cuenta a:",
+      "opciones": [
+        "a) El Congreso de los Diputados.",
+        "b) El Senado.",
+        "c) Las Cortes Generales.",
+        "d) El Consejo de Estado."
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Art. 18 LO 3/2007. El Gobierno elaborará un informe periódico sobre la efectividad del principio de igualdad entre mujeres y hombres, del que se dará cuenta a las CORTES GENERALES (no solo al Congreso ni al Senado por separado)."
+    },
+    {
+      "id": "t02_t02_p11",
+      "pregunta": "LO 3/2007. La Agencia EFE, en el ejercicio de sus actividades, velará especialmente por la utilización no sexista del lenguaje y perseguirá entre sus objetivos:",
+      "opciones": [
+        "a) Reflejar adecuadamente la presencia de la mujer en los diversos ámbitos de la vida social.",
+        "b) Sustituir todos los géneros gramaticales masculinos por formas neutras.",
+        "c) Publicar exclusivamente noticias relacionadas con la igualdad de género.",
+        "d) Limitar la cobertura informativa a temas de interés para las mujeres."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 38 LO 3/2007. Entre los objetivos de la Agencia EFE figuran: reflejar adecuadamente la presencia de la mujer, utilizar el lenguaje en forma no sexista, adoptar códigos de conducta mediante autorregulación y colaborar con campañas institucionales de igualdad y contra la violencia hacia las mujeres."
+    },
+    {
+      "id": "t02_t02_p12",
+      "pregunta": "LO 3/2007. Respecto a los medios de comunicación social de titularidad privada, señale la CORRECTA:",
+      "opciones": [
+        "a) No están sujetos a ninguna obligación en materia de igualdad al ser empresas privadas.",
+        "b) Todos los medios de comunicación respetarán la igualdad entre mujeres y hombres, evitando cualquier forma de discriminación.",
+        "c) Solo los medios de comunicación de ámbito nacional tienen obligaciones en materia de igualdad.",
+        "d) Las obligaciones de igualdad solo se aplican a los contenidos publicitarios, no a los informativos."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 39 LO 3/2007. TODOS los medios de comunicación (incluidos los privados) respetarán la igualdad entre mujeres y hombres, evitando cualquier forma de discriminación. Las Administraciones públicas promoverán la adopción de acuerdos de autorregulación."
+    },
+    {
+      "id": "t02_t02_p13",
+      "pregunta": "LO 3/2007. Mediante la negociación colectiva se podrán establecer medidas de acción positiva para favorecer:",
+      "opciones": [
+        "a) El acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación.",
+        "b) Solo la igualdad retributiva entre mujeres y hombres.",
+        "c) Únicamente las medidas de conciliación de la vida personal y laboral.",
+        "d) La reducción de jornada exclusivamente para trabajadoras con hijos menores."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 43 LO 3/2007. Mediante la negociación colectiva se podrán establecer medidas de acción positiva para favorecer: el ACCESO de las mujeres al empleo y la APLICACIÓN EFECTIVA del principio de igualdad de trato y no discriminación en las condiciones de trabajo."
+    },
+    {
+      "id": "t02_t02_p14",
+      "pregunta": "LO 3/2007. Los derechos de conciliación de la vida personal, familiar y laboral se reconocerán a los trabajadores y trabajadoras en forma que:",
+      "opciones": [
+        "a) Fomenten la asunción equilibrada de las responsabilidades familiares, evitando toda discriminación basada en su ejercicio.",
+        "b) Solo beneficien a las trabajadoras madres.",
+        "c) Se apliquen exclusivamente durante el primer año de vida del hijo.",
+        "d) Queden reservados a los trabajadores con jornada parcial."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Art. 44 LO 3/2007. Los derechos de conciliación se reconocerán en forma que FOMENTEN LA ASUNCIÓN EQUILIBRADA de las responsabilidades familiares, evitando toda discriminación. El art. 44.3 reconoce a los padres el derecho al permiso y prestación por paternidad."
+    },
+    {
+      "id": "t02_t02_p15",
+      "pregunta": "LO 3/2007. Los planes de igualdad de las empresas contendrán un conjunto ordenado de medidas adoptadas después de realizar:",
+      "opciones": [
+        "a) Una auditoría retributiva.",
+        "b) Un diagnóstico de situación.",
+        "c) Una consulta a la Inspección de Trabajo.",
+        "d) Un informe del Instituto de la Mujer."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 46 LO 3/2007. Los planes de igualdad son un conjunto ordenado de medidas adoptadas después de realizar un DIAGNÓSTICO DE SITUACIÓN, tendentes a alcanzar la igualdad de trato y oportunidades y a eliminar la discriminación por razón de sexo."
+    },
+    {
+      "id": "t02_t02_p16",
+      "pregunta": "LO 3/2007. El Registro de Planes de Igualdad de las Empresas depende de:",
+      "opciones": [
+        "a) El Instituto de la Mujer.",
+        "b) La Dirección General de Trabajo del Ministerio de Trabajo, Migraciones y Seguridad Social y de las Autoridades Laborales de las Comunidades Autónomas.",
+        "c) El Consejo de Participación de la Mujer.",
+        "d) La Comisión Interministerial de Igualdad."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 46 LO 3/2007. El Registro de Planes de Igualdad forma parte de los Registros de convenios y acuerdos colectivos de trabajo dependientes de la Dirección General de Trabajo del Ministerio de Trabajo, Migraciones y Seguridad Social y de las Autoridades Laborales de las CCAA."
+    },
+    {
+      "id": "t02_t02_p17",
+      "pregunta": "LO 3/2007. Las empresas están obligadas a inscribir sus planes de igualdad en el Registro de Planes de Igualdad. Respecto a la transparencia en la implantación del plan, se garantiza el acceso a la información sobre el plan a:",
+      "opciones": [
+        "a) Cualquier ciudadano que lo solicite.",
+        "b) La representación legal de los trabajadores y trabajadoras o, en su defecto, a los propios trabajadores y trabajadoras.",
+        "c) Solo a los representantes sindicales con implantación en la empresa.",
+        "d) Exclusivamente a la Inspección de Trabajo."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 47 LO 3/2007. Se garantiza el acceso de la REPRESENTACIÓN LEGAL de los trabajadores y trabajadoras o, en su defecto, de los PROPIOS TRABAJADORES Y TRABAJADORAS, a la información sobre el contenido de los Planes de igualdad y la consecución de sus objetivos."
+    },
+    {
+      "id": "t02_t02_p18",
+      "pregunta": "LO 3/2007. Para impulsar la adopción voluntaria de planes de igualdad en las empresas, el Gobierno establecerá medidas de fomento especialmente dirigidas a:",
+      "opciones": [
+        "a) Las grandes empresas con más de 500 trabajadores.",
+        "b) Las pequeñas y medianas empresas.",
+        "c) Las empresas del sector público.",
+        "d) Las empresas con presencia sindical."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 49 LO 3/2007. Para impulsar la adopción voluntaria de planes de igualdad, el Gobierno establecerá medidas de fomento especialmente dirigidas a las PEQUEÑAS Y MEDIANAS EMPRESAS, que incluirán el apoyo técnico necesario."
+    },
+    {
+      "id": "t02_t02_p19",
+      "pregunta": "LO 3/2007. Las Administraciones públicas, en aplicación del principio de igualdad, deberán promover la presencia equilibrada de mujeres y hombres en:",
+      "opciones": [
+        "a) Solo en los órganos de selección.",
+        "b) Los órganos de selección y valoración.",
+        "c) Solo en los puestos directivos.",
+        "d) Únicamente en los tribunales de oposición."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 51.d) LO 3/2007. Entre los criterios de actuación de las Administraciones públicas figura promover la presencia equilibrada de mujeres y hombres en los ÓRGANOS DE SELECCIÓN Y VALORACIÓN. También deben establecer medidas contra el acoso y eliminar discriminación retributiva."
+    },
+    {
+      "id": "t02_t02_p20",
+      "pregunta": "LO 3/2007. El Consejo de Participación de la Mujer, como órgano colegiado de consulta y asesoramiento, tiene como fin esencial:",
+      "opciones": [
+        "a) Coordinar las políticas y medidas adoptadas por los departamentos ministeriales.",
+        "b) Servir de cauce para la participación de las mujeres en la consecución del principio de igualdad y la lucha contra la discriminación por razón de sexo.",
+        "c) Aprobar los planes de igualdad de las empresas públicas.",
+        "d) Gestionar las denuncias por discriminación laboral."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 78 LO 3/2007. El Consejo de Participación de la Mujer es el órgano colegiado de CONSULTA Y ASESORAMIENTO cuyo fin es servir de cauce para la participación de las mujeres en la consecución del principio de igualdad y la lucha contra la discriminación. No confundir con la Comisión Interministerial (art. 76), que coordina."
+    }
+  ]
+}

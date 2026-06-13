@@ -1,0 +1,307 @@
+{
+  "tema_numero": 3,
+  "tema": "Prevención de riesgos laborales",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_03_test_04_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Qué deberá hacer el empresario cuando los resultados de la evaluación de riesgos lo hicieran necesario?",
+      "options": {
+        "a": "Realizar actividades de prevención que garanticen un mayor nivel de protección",
+        "b": "Esperar a que se produzca un accidente",
+        "c": "Solicitar autorización judicial",
+        "d": "Suspender siempre la actividad empresarial"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Cuando la evaluación lo haga necesario, el empresario realizará actividades preventivas, incluidas las relacionadas con métodos de trabajo y producción, para garantizar un mayor nivel de protección.",
+      "ley": "Ley 31/1995, art. 16.2"
+    },
+    {
+      "id": "tema_03_test_04_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto a la investigación de daños para la salud.",
+      "options": {
+        "a": "El empresario llevará a cabo una investigación para detectar sus causas",
+        "b": "La investigación procederá cuando se haya producido un daño para la salud",
+        "c": "La investigación podrá proceder si aparecen indicios de que las medidas preventivas son insuficientes",
+        "d": "La investigación corresponde exclusivamente a los trabajadores afectados"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La investigación corresponde al empresario cuando se produzcan daños o existan indicios de insuficiencia de las medidas preventivas.",
+      "ley": "Ley 31/1995, art. 16.3"
+    },
+    {
+      "id": "tema_03_test_04_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Cuando la utilización de un equipo de trabajo pueda presentar un riesgo específico, el empresario adoptará medidas para que su utilización quede reservada:",
+      "options": {
+        "a": "A los encargados de dicha utilización",
+        "b": "A cualquier trabajador de la empresa",
+        "c": "Solo a los representantes sindicales",
+        "d": "Exclusivamente al personal sanitario"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La Ley exige que, si existe riesgo específico, la utilización del equipo quede reservada a los encargados de dicha utilización.",
+      "ley": "Ley 31/1995, art. 17.1"
+    },
+    {
+      "id": "tema_03_test_04_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los trabajos de reparación, transformación, mantenimiento o conservación de equipos con riesgo específico serán realizados:",
+      "options": {
+        "a": "Por trabajadores específicamente capacitados",
+        "b": "Por cualquier trabajador disponible",
+        "c": "Solo por trabajadores menores de edad",
+        "d": "Por los delegados de prevención"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Cuando exista riesgo específico, estos trabajos deben ser realizados por trabajadores específicamente capacitados para ello.",
+      "ley": "Ley 31/1995, art. 17.1"
+    },
+    {
+      "id": "tema_03_test_04_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. El empresario deberá proporcionar a sus trabajadores equipos de protección individual adecuados y:",
+      "options": {
+        "a": "Velar por su uso efectivo cuando sean necesarios",
+        "b": "Cobrar su coste al trabajador",
+        "c": "Sustituir con ellos toda evaluación de riesgos",
+        "d": "Entregarlos solo si lo solicita la Inspección"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El empresario debe proporcionar equipos de protección individual adecuados y velar por su uso efectivo cuando sean necesarios.",
+      "ley": "Ley 31/1995, art. 17.2"
+    },
+    {
+      "id": "tema_03_test_04_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre el uso de equipos de protección individual.",
+      "options": {
+        "a": "Se utilizarán cuando los riesgos no puedan evitarse",
+        "b": "Se utilizarán cuando no puedan limitarse suficientemente por medios de protección colectiva",
+        "c": "Se utilizarán cuando no puedan limitarse mediante medidas organizativas",
+        "d": "Se utilizarán siempre como primera medida preventiva antes que la protección colectiva"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). Los equipos de protección individual no son la primera medida si el riesgo puede evitarse o limitarse mediante protección colectiva u organización del trabajo.",
+      "ley": "Ley 31/1995, art. 17.2"
+    },
+    {
+      "id": "tema_03_test_04_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En materia de información, el empresario deberá informar a los trabajadores sobre:",
+      "options": {
+        "a": "Riesgos, medidas de protección y medidas de emergencia",
+        "b": "Únicamente salarios y horarios",
+        "c": "Solo sanciones laborales",
+        "d": "Solo accidentes ya producidos"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La información debe comprender los riesgos, las medidas y actividades de protección y prevención, así como las medidas de emergencia.",
+      "ley": "Ley 31/1995, art. 18.1"
+    },
+    {
+      "id": "tema_03_test_04_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto a la información preventiva.",
+      "options": {
+        "a": "En empresas con representantes, la información se facilitará a través de ellos",
+        "b": "Debe informarse directamente a cada trabajador de los riesgos específicos de su puesto",
+        "c": "La información sobre riesgos específicos puede omitirse si existen representantes",
+        "d": "También debe informarse sobre medidas de emergencia"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). Aunque exista representación de los trabajadores, cada trabajador debe ser informado directamente de los riesgos específicos de su puesto o función.",
+      "ley": "Ley 31/1995, art. 18.1"
+    },
+    {
+      "id": "tema_03_test_04_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Los trabajadores tendrán derecho a efectuar propuestas dirigidas a la mejora de los niveles de protección:",
+      "options": {
+        "a": "Al empresario y a los órganos de participación y representación",
+        "b": "Solo al juzgado de guardia",
+        "c": "Únicamente a la autoridad sanitaria",
+        "d": "Exclusivamente al Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La Ley reconoce el derecho de los trabajadores a formular propuestas al empresario y a los órganos de participación y representación.",
+      "ley": "Ley 31/1995, art. 18.2"
+    },
+    {
+      "id": "tema_03_test_04_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La formación preventiva deberá garantizarse:",
+      "options": {
+        "a": "En el momento de la contratación y cuando cambien funciones o equipos",
+        "b": "Solo a los trabajadores fijos",
+        "c": "Solo después de un accidente grave",
+        "d": "Cada diez años obligatoriamente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La formación debe garantizarse al contratar, cuando cambien funciones y cuando se introduzcan nuevas tecnologías o cambios en equipos.",
+      "ley": "Ley 31/1995, art. 19.1"
+    },
+    {
+      "id": "tema_03_test_04_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción CORRECTA sobre la formación preventiva.",
+      "options": {
+        "a": "Debe estar centrada específicamente en el puesto o función de cada trabajador",
+        "b": "Debe ser siempre genérica",
+        "c": "Debe limitarse a una charla inicial",
+        "d": "Debe ser costeada por el trabajador"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La formación debe estar centrada específicamente en el puesto de trabajo o función de cada trabajador.",
+      "ley": "Ley 31/1995, art. 19.1"
+    },
+    {
+      "id": "tema_03_test_04_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre la formación de los trabajadores.",
+      "options": {
+        "a": "Debe adaptarse a la evolución de los riesgos",
+        "b": "Debe repetirse periódicamente si fuera necesario",
+        "c": "Su coste no recaerá en ningún caso sobre los trabajadores",
+        "d": "Deberá impartirse siempre fuera de la jornada sin descuento del tiempo invertido"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La formación debe impartirse, siempre que sea posible, dentro de la jornada; si se imparte fuera, debe descontarse de aquella el tiempo invertido.",
+      "ley": "Ley 31/1995, art. 19.2"
+    },
+    {
+      "id": "tema_03_test_04_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En materia de emergencias, el empresario deberá adoptar medidas en materia de:",
+      "options": {
+        "a": "Primeros auxilios, lucha contra incendios y evacuación",
+        "b": "Únicamente evacuación",
+        "c": "Solo seguridad privada",
+        "d": "Solamente vigilancia sanitaria ordinaria"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El empresario debe adoptar medidas de primeros auxilios, lucha contra incendios y evacuación de los trabajadores.",
+      "ley": "Ley 31/1995, art. 20"
+    },
+    {
+      "id": "tema_03_test_04_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. El personal encargado de poner en práctica las medidas de emergencia deberá:",
+      "options": {
+        "a": "Poseer formación necesaria, ser suficiente en número y disponer de material adecuado",
+        "b": "Ser exclusivamente personal externo",
+        "c": "Ser siempre personal sanitario",
+        "d": "Ser designado por la autoridad judicial"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La Ley exige que el personal designado posea formación, sea suficiente en número y disponga del material adecuado.",
+      "ley": "Ley 31/1995, art. 20"
+    },
+    {
+      "id": "tema_03_test_04_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto a las medidas de emergencia.",
+      "options": {
+        "a": "El empresario debe comprobar periódicamente su correcto funcionamiento",
+        "b": "Debe tenerse en cuenta la posible presencia de personas ajenas a la empresa",
+        "c": "El empresario debe organizar relaciones con servicios externos cuando sea necesario",
+        "d": "Solo serán necesarias en empresas de más de 250 trabajadores"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La obligación no se limita a empresas de más de 250 trabajadores; debe valorarse tamaño, actividad y presencia de personas ajenas.",
+      "ley": "Ley 31/1995, art. 20"
+    },
+    {
+      "id": "tema_03_test_04_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Ante riesgo grave e inminente, el empresario estará obligado a:",
+      "options": {
+        "a": "Informar lo antes posible a los trabajadores afectados",
+        "b": "Esperar siempre a la autorización de la autoridad laboral",
+        "c": "No comunicar el riesgo hasta que se materialice",
+        "d": "Suspender todos los contratos de trabajo"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El empresario debe informar lo antes posible a todos los trabajadores afectados sobre el riesgo y las medidas adoptadas o que deban adoptarse.",
+      "ley": "Ley 31/1995, art. 21.1"
+    },
+    {
+      "id": "tema_03_test_04_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Cuando el empresario no adopte medidas ante un riesgo grave e inminente, los representantes legales de los trabajadores podrán acordar la paralización de la actividad:",
+      "options": {
+        "a": "Por mayoría de sus miembros",
+        "b": "Por unanimidad de toda la plantilla",
+        "c": "Solo por decisión del empresario",
+        "d": "Exclusivamente por orden judicial"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Los representantes legales podrán acordar la paralización por mayoría de sus miembros cuando el empresario no adopte o no permita adoptar las medidas necesarias.",
+      "ley": "Ley 31/1995, art. 21.3"
+    },
+    {
+      "id": "tema_03_test_04_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El acuerdo de paralización de actividad por riesgo grave e inminente será comunicado de inmediato:",
+      "options": {
+        "a": "A la empresa y a la autoridad laboral",
+        "b": "Solo a los trabajadores",
+        "c": "Solo al servicio médico",
+        "d": "Al Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El acuerdo debe comunicarse de inmediato a la empresa y a la autoridad laboral.",
+      "ley": "Ley 31/1995, art. 21.3"
+    },
+    {
+      "id": "tema_03_test_04_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. La autoridad laboral, tras recibir el acuerdo de paralización de actividad, deberá anularlo o ratificarlo en el plazo de:",
+      "options": {
+        "a": "24 horas",
+        "b": "48 horas",
+        "c": "72 horas",
+        "d": "10 días hábiles"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La autoridad laboral anulará o ratificará la paralización acordada en el plazo de 24 horas.",
+      "ley": "Ley 31/1995, art. 21.3"
+    },
+    {
+      "id": "tema_03_test_04_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción CORRECTA respecto a los trabajadores o sus representantes que adopten medidas ante riesgo grave e inminente.",
+      "options": {
+        "a": "No podrán sufrir perjuicio alguno salvo mala fe o negligencia grave",
+        "b": "Responderán siempre disciplinariamente",
+        "c": "Perderán el salario en todo caso",
+        "d": "Necesitan autorización judicial previa"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). No podrán sufrir perjuicio por adoptar estas medidas, salvo que hayan obrado de mala fe o cometido negligencia grave.",
+      "ley": "Ley 31/1995, art. 21.4"
+    }
+  ]
+}

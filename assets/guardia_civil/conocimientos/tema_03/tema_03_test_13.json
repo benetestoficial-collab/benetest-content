@@ -1,0 +1,246 @@
+{
+  "id": "tema_03_test_13",
+  "titulo": "Test 13 — Prevención de Riesgos Laborales",
+  "preguntas": [
+    {
+      "id": "t03_t13_p01",
+      "pregunta": "Ley 31/1995, PRL. La «Condición de trabajo» es cualquier característica del mismo que pueda tener una influencia significativa en la generación de riesgos. Están específicamente incluidos en esta definición los procedimientos para la utilización de los agentes físicos, químicos y biológicos que influyan en la generación de riesgos, y también:",
+      "opciones": [
+        "a) Las retribuciones de los trabajadores expuestos.",
+        "b) Todas aquellas otras características del trabajo, incluidas las relativas a su organización y ordenación, que influyan en la magnitud de los riesgos.",
+        "c) Las instalaciones de higiene y bienestar de la empresa.",
+        "d) Las medidas de emergencia adoptadas por la empresa."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.7.d) Ley 31/1995. Están incluidas en «CONDICIÓN DE TRABAJO» todas aquellas OTRAS CARACTERÍSTICAS DEL TRABAJO, incluidas las relativas a su ORGANIZACIÓN Y ORDENACIÓN, que influyan en la MAGNITUD DE LOS RIESGOS a que esté expuesto el trabajador."
+    },
+    {
+      "id": "t03_t13_p02",
+      "pregunta": "Ley 31/1995, PRL. Las empresas que contraten o subcontraten con otras la realización de obras o servicios correspondientes a la propia actividad de aquéllas y que se desarrollen en sus propios centros de trabajo deberán:",
+      "opciones": [
+        "a) Asumir directamente toda la prevención de los trabajadores subcontratados.",
+        "b) Vigilar el cumplimiento por dichos contratistas y subcontratistas de la normativa de prevención de riesgos laborales.",
+        "c) Excluir a los trabajadores subcontratados de su evaluación de riesgos.",
+        "d) Proporcionar sus propios equipos de protección a los trabajadores subcontratados."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 24.3 Ley 31/1995. Las empresas que contraten o subcontraten actividades propias deberán VIGILAR EL CUMPLIMIENTO por dichos CONTRATISTAS Y SUBCONTRATISTAS de la normativa de PREVENCIÓN DE RIESGOS LABORALES."
+    },
+    {
+      "id": "t03_t13_p03",
+      "pregunta": "Ley 31/1995, PRL. Los trabajadores no podrán sufrir perjuicio alguno derivado de la adopción de medidas de paralización de la actividad por riesgo grave e inminente, a menos que hubieran:",
+      "opciones": [
+        "a) Adoptado las medidas sin consultar con el empresario.",
+        "b) Obrado de mala fe o cometido negligencia grave.",
+        "c) Incumplido las instrucciones del empresario.",
+        "d) Comunicado el riesgo a la Inspección de Trabajo."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 21.4 Ley 31/1995. Los trabajadores o sus representantes NO PODRÁN SUFRIR PERJUICIO alguno derivado de la adopción de las medidas de paralización, A MENOS QUE HUBIERAN OBRADO DE MALA FE O COMETIDO NEGLIGENCIA GRAVE."
+    },
+    {
+      "id": "t03_t13_p04",
+      "pregunta": "Ley 31/1995, PRL. En la documentación que el empresario debe elaborar y conservar figura la relación de accidentes de trabajo y enfermedades profesionales que hayan causado incapacidad laboral superior a 1 día. En el momento de cesación de su actividad, las empresas deberán remitir esta documentación a:",
+      "opciones": [
+        "a) El Instituto Nacional de la Seguridad Social.",
+        "b) La Autoridad Laboral.",
+        "c) La Inspección de Trabajo y Seguridad Social.",
+        "d) El Ministerio de Trabajo."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 23.2 Ley 31/1995. En el momento de CESACIÓN DE SU ACTIVIDAD, las empresas deberán REMITIR A LA AUTORIDAD LABORAL la documentación señalada en el apartado anterior."
+    },
+    {
+      "id": "t03_t13_p05",
+      "pregunta": "RD 67/2010, adaptación PRL a la AGE. En los servicios operativos de Protección Civil y Peritaje Forense en los casos de grave riesgo, catástrofe y calamidad pública, la exclusión de la normativa únicamente se entenderá a efectos de:",
+      "opciones": [
+        "a) Toda la actividad del personal de protección civil.",
+        "b) Asegurar el buen funcionamiento de los servicios indispensables para la protección de la seguridad, salud y orden público en circunstancias de excepcional gravedad.",
+        "c) Las actividades de riesgo realizadas fuera del horario de servicio.",
+        "d) Las actividades de formación y entrenamiento."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 2.6 RD 67/2010. En los servicios operativos de Protección Civil y Peritaje Forense en casos de catástrofe, la EXCLUSIÓN únicamente se entenderá a efectos de ASEGURAR EL BUEN FUNCIONAMIENTO DE LOS SERVICIOS INDISPENSABLES para la protección de la seguridad, salud y orden público en circunstancias de excepcional gravedad."
+    },
+    {
+      "id": "t03_t13_p06",
+      "pregunta": "RD 67/2010, adaptación PRL a la AGE. Podrán existir Grupos Técnicos de Prevención de Riesgos Laborales en el ámbito de cada Departamento u Organismo Público cuando así se acuerde en los mismos y:",
+      "opciones": [
+        "a) Lo autorice el Ministerio de Trabajo.",
+        "b) Exista más de 1 Comité de Seguridad y Salud.",
+        "c) El número de empleados supere los 1000.",
+        "d) Lo soliciten los sindicatos representativos."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.3 RD 67/2010. PODRÁN EXISTIR GRUPOS TÉCNICOS DE PREVENCIÓN en el ámbito de cada Departamento u Organismo Público cuando ASÍ SE ACUERDE en los mismos y SIEMPRE QUE EXISTA MÁS DE 1 COMITÉ DE SEGURIDAD Y SALUD."
+    },
+    {
+      "id": "t03_t13_p07",
+      "pregunta": "RD 67/2010, adaptación PRL a la AGE. Si en un ámbito determinado no pudiese completarse el número de Delegados de Prevención, los Delegados restantes podrán ser elegidos por las Centrales Sindicales. Esta posibilidad deberá ser negociada por la Mesa Delegada correspondiente y comunicada a:",
+      "opciones": [
+        "a) El Ministerio de Trabajo.",
+        "b) La Dirección General de la Función Pública.",
+        "c) El Comité de Seguridad y Salud.",
+        "d) La Comisión Nacional de Seguridad y Salud en el Trabajo."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 5.1 RD 67/2010. Esta posibilidad deberá ser negociada por la MESA DELEGADA correspondiente, previa acreditación de las circunstancias, y comunicada a la DIRECCIÓN GENERAL DE LA FUNCIÓN PÚBLICA."
+    },
+    {
+      "id": "t03_t13_p08",
+      "pregunta": "RD 67/2010, adaptación PRL a la AGE. Cada Departamento u organismo público acreditará de forma individualizada a los Delegados de Prevención, con la finalidad de:",
+      "opciones": [
+        "a) Controlar el uso del crédito horario sindical.",
+        "b) Facilitar el desempeño de sus tareas, una vez comunicado su nombramiento.",
+        "c) Certificar su nivel de cualificación en materia preventiva.",
+        "d) Registrarlos en el sistema de información de la AGE."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 5.4 RD 67/2010. Cada Departamento u organismo público ACREDITARÁ DE FORMA INDIVIDUALIZADA a los Delegados de Prevención, con la finalidad de FACILITAR EL DESEMPEÑO DE SUS TAREAS, una vez comunicado su nombramiento."
+    },
+    {
+      "id": "t03_t13_p09",
+      "pregunta": "RD 179/2005, PRL en la Guardia Civil. En el RD 179/2005, respecto a la protección de la maternidad, si los resultados de la evaluación revelasen un riesgo para la seguridad y la salud o una posible repercusión sobre el embarazo o la lactancia, los Mandos Competentes adoptarán las medidas necesarias previstas en las normas sobre:",
+      "opciones": [
+        "a) Disciplina y régimen de sanciones de la Guardia Civil.",
+        "b) Destinos y Permisos en la Guardia Civil.",
+        "c) Selección y formación del personal.",
+        "d) Equipos de protección individual."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 10 RD 179/2005. Si la evaluación revela riesgo para el embarazo o la lactancia, los MANDOS COMPETENTES adoptarán las medidas necesarias de las previstas en las normas sobre DESTINOS Y PERMISOS EN LA GUARDIA CIVIL y en la legislación vigente sobre permisos para el personal al servicio de las Administraciones públicas."
+    },
+    {
+      "id": "t03_t13_p10",
+      "pregunta": "RD 179/2005, PRL en la Guardia Civil. El personal de la Guardia Civil deberá informar de inmediato, por conducto regular, al personal designado para realizar actividades de protección y de prevención, acerca de cualquier situación que por motivos razonables pueda suponer un riesgo. También deberá contribuir al cumplimiento de las obligaciones de los mandos competentes y:",
+      "opciones": [
+        "a) Comunicarlo directamente a la Inspección de Trabajo.",
+        "b) Prestar su leal cooperación para garantizar unas condiciones seguras en la prestación del servicio.",
+        "c) Redactar un informe formal sobre el riesgo detectado.",
+        "d) Consultar previamente con el Delegado de Prevención."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 12 RD 179/2005. El personal deberá CONTRIBUIR AL CUMPLIMIENTO DE LAS OBLIGACIONES establecidas por los mandos competentes para proteger la seguridad y la salud, y PRESTAR SU LEAL COOPERACIÓN para garantizar unas CONDICIONES SEGURAS EN LA PRESTACIÓN DEL SERVICIO."
+    },
+    {
+      "id": "t03_t13_p11",
+      "pregunta": "RD 179/2005, PRL en la Guardia Civil. El Consejo Asesor de Personal del Cuerpo de la Guardia Civil, al que el personal puede dirigir propuestas y sugerencias en materia de prevención, dará traslado de las citadas propuestas y sugerencias al:",
+      "opciones": [
+        "a) Servicio de Prevención de la DGGC.",
+        "b) Director General de la Guardia Civil, al que asesorará en cuantas medidas se adopten.",
+        "c) Secretario de Estado de Seguridad.",
+        "d) Comité de Seguridad y Salud."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 14 RD 179/2005. El CONSEJO ASESOR DE PERSONAL DEL CUERPO DE LA GUARDIA CIVIL DARÁ TRASLADO de las propuestas y sugerencias al DIRECTOR GENERAL DE LA GUARDIA CIVIL, al que ASESORARÁ en cuantas medidas se adopten en esta materia."
+    },
+    {
+      "id": "t03_t13_p12",
+      "pregunta": "Ley 31/1995, PRL. Las Administraciones Públicas fomentarán aquellas actividades desarrolladas en orden a la mejora de las condiciones de seguridad y salud en el trabajo y la reducción de los riesgos laborales, así como la investigación o fomento de nuevas formas de protección y la promoción de:",
+      "opciones": [
+        "a) Sistemas de control de los trabajadores.",
+        "b) Estructuras eficaces de prevención.",
+        "c) Seguros de accidentes de trabajo más baratos.",
+        "d) Sistemas de registro de accidentalidad."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 5.3 Ley 31/1995. Las Administraciones Públicas FOMENTARÁN actividades de mejora de las condiciones de seguridad y salud, reducción de riesgos laborales, INVESTIGACIÓN O FOMENTO de nuevas formas de protección y la PROMOCIÓN DE ESTRUCTURAS EFICACES DE PREVENCIÓN."
+    },
+    {
+      "id": "t03_t13_p13",
+      "pregunta": "Ley 31/1995, PRL. En el ámbito de la Administración General del Estado se establecerá una colaboración permanente entre tres ministerios. ¿Cuáles son?",
+      "opciones": [
+        "a) Ministerio de Trabajo, Ministerio de Justicia y Ministerio de Sanidad.",
+        "b) Ministerio de Trabajo y Seguridad Social, Ministerio de Educación y Ciencia y Ministerio de Sanidad y Consumo.",
+        "c) Ministerio de Interior, Ministerio de Trabajo y Ministerio de Industria.",
+        "d) Ministerio de Hacienda, Ministerio de Trabajo y Ministerio de Sanidad."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 5.2 Ley 31/1995. En el ámbito de la AGE se establecerá una COLABORACIÓN PERMANENTE entre: el MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL, el MINISTERIO DE EDUCACIÓN Y CIENCIA y el MINISTERIO DE SANIDAD Y CONSUMO, para establecer los niveles formativos y especializaciones idóneas."
+    },
+    {
+      "id": "t03_t13_p14",
+      "pregunta": "RD 179/2005, PRL en la Guardia Civil. La formación en materia de prevención en la Guardia Civil será garantizada por la Dirección General de la Guardia Civil. La prevención de la seguridad y de la salud se incorporará a los Planes de Formación Continua, se centrará en aspectos relativos a las distintas funciones asignadas y:",
+      "opciones": [
+        "a) Será obligatoria solo para el personal de nueva incorporación.",
+        "b) Se adaptará a la evolución de los riesgos o a la aparición de otros nuevos.",
+        "c) Tendrá una duración mínima de 40 horas anuales.",
+        "d) Se impartirá exclusivamente por el Servicio de Prevención central."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 9 RD 179/2005. La prevención de la seguridad y la salud: se INCORPORARÁ a los PLANES DE FORMACIÓN CONTINUA; se CENTRARÁ en las DISTINTAS FUNCIONES ASIGNADAS; y se ADAPTARÁ A LA EVOLUCIÓN DE LOS RIESGOS o a la APARICIÓN DE OTROS NUEVOS."
+    },
+    {
+      "id": "t03_t13_p15",
+      "pregunta": "Ley 31/1995, PRL. La normativa sobre Prevención de Riesgos Laborales está constituida por la presente Ley, sus disposiciones de desarrollo o complementarias y:",
+      "opciones": [
+        "a) Solo las normas reglamentarias del Gobierno.",
+        "b) Cuantas otras normas, legales o convencionales, que contengan prescripciones relativas a la adopción de medidas preventivas en el ámbito laboral.",
+        "c) Únicamente las directivas europeas transpuestas al ordenamiento español.",
+        "d) Los convenios colectivos de ámbito nacional."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 1 Ley 31/1995. La normativa está constituida por: la presente LEY, sus DISPOSICIONES DE DESARROLLO O COMPLEMENTARIAS y CUANTAS OTRAS NORMAS, legales o convencionales, que CONTENGAN PRESCRIPCIONES RELATIVAS A LA ADOPCIÓN DE MEDIDAS PREVENTIVAS en el ámbito laboral."
+    },
+    {
+      "id": "t03_t13_p16",
+      "pregunta": "Ley 31/1995, PRL. Se consideran «Daños derivados del trabajo»:",
+      "opciones": [
+        "a) Solo los accidentes de trabajo con resultado de lesión grave o muy grave.",
+        "b) Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+        "c) Únicamente las enfermedades profesionales reconocidas oficialmente.",
+        "d) Los daños producidos exclusivamente durante la jornada laboral."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.3 Ley 31/1995. «DAÑOS DERIVADOS DEL TRABAJO» son las ENFERMEDADES, PATOLOGÍAS O LESIONES sufridas CON MOTIVO U OCASIÓN DEL TRABAJO."
+    },
+    {
+      "id": "t03_t13_p17",
+      "pregunta": "Ley 31/1995, PRL. El «Riesgo Laboral Grave e Inminente» es aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores. Respecto a la exposición a agentes susceptibles de causar daños graves, se considerará que existe este riesgo aun cuando los daños:",
+      "opciones": [
+        "a) Se hayan producido ya.",
+        "b) No se manifiesten de forma inmediata.",
+        "c) Afecten a menos del 10% de los trabajadores expuestos.",
+        "d) Sean reversibles con tratamiento médico."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.4 Ley 31/1995. En el caso de exposición a agentes susceptibles de causar daños graves, existe riesgo grave e inminente cuando sea probable racionalmente que se materialice una exposición de la que puedan derivarse daños graves para la salud, AUN CUANDO ÉSTOS NO SE MANIFIESTEN DE FORMA INMEDIATA."
+    },
+    {
+      "id": "t03_t13_p18",
+      "pregunta": "Ley 31/1995, PRL. El «Equipo de Protección Individual» es cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como:",
+      "opciones": [
+        "a) Cualquier herramienta de trabajo utilizada habitualmente.",
+        "b) Cualquier complemento o accesorio destinado a tal fin.",
+        "c) Los dispositivos de protección colectiva instalados en la empresa.",
+        "d) La ropa de trabajo de uso común."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.8 Ley 31/1995. El EPI es cualquier equipo destinado a ser LLEVADO O SUJETADO por el trabajador para que le PROTEJA de uno o varios riesgos, ASÍ COMO CUALQUIER COMPLEMENTO O ACCESORIO destinado a tal fin."
+    },
+    {
+      "id": "t03_t13_p19",
+      "pregunta": "Ley 31/1995, PRL. Los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo. Entre los derechos de los trabajadores que forman parte de este derecho de protección eficaz figura el derecho a la paralización de la actividad en caso de riesgo grave e inminente y también el derecho a:",
+      "opciones": [
+        "a) La reducción de jornada cuando existan riesgos ergonómicos.",
+        "b) La vigilancia de su estado de salud.",
+        "c) El cambio de puesto de trabajo por motivos preventivos.",
+        "d) La baja médica preventiva sin límite de tiempo."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 14.1 Ley 31/1995. Los DERECHOS DE LOS TRABAJADORES que forman parte del derecho a protección eficaz son: INFORMACIÓN, CONSULTA, PARTICIPACIÓN, FORMACIÓN en materia preventiva, PARALIZACIÓN de la actividad en caso de riesgo grave e inminente y VIGILANCIA DE SU ESTADO DE SALUD."
+    },
+    {
+      "id": "t03_t13_p20",
+      "pregunta": "Ley 31/1995, PRL. Entre los principios de la acción preventiva, el principio de sustituir lo peligroso significa:",
+      "opciones": [
+        "a) Eliminar los equipos de trabajo obsoletos.",
+        "b) Sustituir lo peligroso por lo que entrañe poco o ningún peligro.",
+        "c) Reemplazar a los trabajadores expuestos a riesgos graves.",
+        "d) Cambiar los procedimientos de trabajo cada cinco años."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 15.1.f) Ley 31/1995. Entre los principios de la acción preventiva: SUSTITUIR lo PELIGROSO por lo que ENTRAÑE POCO O NINGÚN PELIGRO."
+    }
+  ]
+}
