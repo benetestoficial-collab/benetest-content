@@ -1,0 +1,34 @@
+{
+  "version": "2026-06-14T02:35:44.640914",
+  "fecha": "14 de junio de 2026",
+  "novedades": {
+    "guardia_civil": [],
+    "cabo": [],
+    "sargento": [],
+    "teniente": []
+  },
+  "hay_novedades": false,
+  "archivos_nuevos": [
+    "teniente/simulacros/index.json",
+    "sargento/psicotecnicos/index.json",
+    "cabo/psicotecnicos/index.json",
+    "cabo/conocimientos/index.json",
+    "cabo/ingles/index.json",
+    "sargento/simulacros/index.json",
+    "sargento/ingles/index.json",
+    "teniente/ortografia/index.json",
+    "cabo/ortografia/index.json",
+    "teniente/conocimientos/index.json",
+    "sargento/ortografia/index.json",
+    "teniente/ingles/index.json",
+    "teniente/psicotecnicos/index.json",
+    "guardia_civil/ingles/index.json",
+    "guardia_civil/conocimientos/index.json",
+    "sargento/conocimientos/index.json",
+    "guardia_civil/psicotecnicos/index.json",
+    "guardia_civil/simulacros/index.json",
+    "guardia_civil/ortografia/index.json",
+    "cabo/simulacros/index.json"
+  ],
+  "archivos_eliminados": []
+}
