@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-14T02:41:56.713841",
+  "version": "2026-06-14T02:51:08.163609",
   "fecha": "14 de junio de 2026",
   "novedades": {
     "guardia_civil": [],
@@ -8,29 +8,6 @@
     "teniente": []
   },
   "hay_novedades": false,
-  "archivos_nuevos": [
-    "sargento/ortografia/index.json",
-    "cabo/simulacros/index.json",
-    "cabo/ingles/index.json",
-    "cabo/ortografia/index.json",
-    "guardia_civil/ingles/index.json",
-    "teniente/conocimientos/index.json",
-    "sargento/simulacros/index.json",
-    "teniente/ortografia/index.json",
-    "cabo/psicotecnicos/index.json",
-    "sargento/ingles/index.json",
-    "cabo/conocimientos/index.json",
-    "guardia_civil/psicotecnicos/index.json",
-    "sargento/psicotecnicos/index.json",
-    "guardia_civil/conocimientos/index.json",
-    "guardia_civil/simulacros/index.json",
-    "teniente/simulacros/index.json",
-    "guardia_civil/ortografia/index.json",
-    "teniente/ingles/index.json",
-    "sargento/conocimientos/index.json",
-    "teniente/psicotecnicos/index.json"
-  ],
-  "archivos_eliminados": [
-    "guardia_civil/conocimientos/tema_04/tema_04_test_51.json"
-  ]
+  "archivos_nuevos": [],
+  "archivos_eliminados": []
 }
