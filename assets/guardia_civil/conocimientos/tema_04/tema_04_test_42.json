@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 42,
+  "preguntas": [
+    {
+      "id": "tema_04_test_42_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 30. ¿Existe actualmente el servicio militar obligatorio en España?",
+      "options": {
+        "a": "No, fue suspendido en el año 2001 y las Fuerzas Armadas son profesionales",
+        "b": "Sí, sigue siendo obligatorio pero puede sustituirse por servicio civil",
+        "c": "Solo existe para varones entre 18 y 25 años",
+        "d": "Solo existe en tiempos de guerra declarada"
+      },
+      "correct": "a",
+      "explicacion": "Art. 30.1 CE. El artículo 30 prevé el servicio militar, pero LA LEY 17/1999 DE RÉGIMEN DEL PERSONAL DE LAS FUERZAS ARMADAS SUSPENDIÓ LA PRESTACIÓN DEL SERVICIO MILITAR a partir de 2001. Actualmente las FFAA son PROFESIONALES. El art. 30 CE sigue vigente y permite su reinstauración por ley.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 31. ¿Puede el Estado establecer tasas por la prestación de servicios públicos además de tributos?",
+      "options": {
+        "a": "No, el gasto público se financia solo con impuestos",
+        "b": "Sí, el gasto público puede financiarse además de con tributos con otros ingresos públicos",
+        "c": "Solo mediante tasas aprobadas por las Cortes Generales",
+        "d": "Solo si el servicio tiene una alternativa privada disponible"
+      },
+      "correct": "b",
+      "explicacion": "Art. 31.2 CE. El gasto público realizará una asignación equitativa de los recursos públicos y su programación y ejecución responderán a criterios de eficiencia y economía. ADEMÁS DE CON TRIBUTOS, el gasto público puede financiarse con otros ingresos públicos (tasas, precios públicos, deuda pública, etc.).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 33. La propiedad privada tiene una función social. ¿Qué consecuencia tiene esto?",
+      "options": {
+        "a": "La función social delimita el contenido del derecho de propiedad: el propietario no puede hacer con su propiedad todo lo que quiera si perjudica a la colectividad",
+        "b": "El Estado puede expropiar cualquier bien sin indemnización por motivos sociales",
+        "c": "El Estado puede usar la propiedad privada temporalmente sin indemnización",
+        "d": "Los propietarios deben ceder parte de sus rentas al Estado como contribución social"
+      },
+      "correct": "a",
+      "explicacion": "Art. 33.2 CE. 'La función social de estos derechos delimitará su contenido de acuerdo con las leyes.' LA FUNCIÓN SOCIAL DELIMITA EL CONTENIDO DEL DERECHO DE PROPIEDAD: el propietario tiene el ius utendi, fruendi et abutendi, pero con los límites que impone la función social del bien. No es una expropiación; es una limitación del contenido del derecho.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 35. La ley que regula el estatuto de los trabajadores, ¿puede establecer diferencias de trato entre trabajadores?",
+      "options": {
+        "a": "No, debe tratar igualmente a todos los trabajadores",
+        "b": "Sí, puede establecer diferencias justificadas (por tipo de contrato, categoría profesional, etc.) siempre que no sean discriminatorias en el sentido del art. 14 CE",
+        "c": "Solo puede establecer diferencias por razón del sector productivo",
+        "d": "Solo puede establecer diferencias que favorezcan a los trabajadores de menor renta"
+      },
+      "correct": "b",
+      "explicacion": "Art. 35 CE. El legislador laboral PUEDE ESTABLECER DIFERENCIAS JUSTIFICADAS entre trabajadores (por tipo de contrato, sector, categoría, etc.) siempre que tengan una justificación objetiva y razonable y no incurran en discriminación por los motivos prohibidos en el art. 14 CE (sexo, raza, religión, opinión política, etc.).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 37. El convenio colectivo puede establecer condiciones de trabajo inferiores a la ley, ¿o siempre debe respetar los mínimos legales?",
+      "options": {
+        "a": "El convenio puede establecer condiciones inferiores si los trabajadores lo aceptan",
+        "b": "El convenio colectivo debe respetar siempre los mínimos establecidos por la ley (principio de norma mínima); solo puede mejorarlos, no empeorarlos",
+        "c": "El convenio puede modificar en cualquier sentido lo establecido por la ley",
+        "d": "Solo los convenios de empresa pueden mejorar la ley; los sectoriales no"
+      },
+      "correct": "b",
+      "explicacion": "Art. 37 CE. El principio de NORMA MÍNIMA implica que EL CONVENIO COLECTIVO DEBE RESPETAR LOS MÍNIMOS LEGALES: puede mejorar las condiciones legales en beneficio del trabajador, pero no puede empeorarlas. La ley actúa como suelo mínimo inderogable por la negociación colectiva.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 39. Los poderes públicos aseguran la protección integral de los hijos. ¿Existe en la CE alguna distinción entre hijos matrimoniales y extramatrimoniales?",
+      "options": {
+        "a": "Sí, los hijos matrimoniales tienen mayor protección constitucional",
+        "b": "Solo los hijos reconocidos voluntariamente tienen plena protección",
+        "c": "No, los hijos son iguales ante la ley con independencia de su filiación",
+        "d": "Los hijos adoptivos tienen un régimen diferenciado"
+      },
+      "correct": "c",
+      "explicacion": "Art. 39.2 CE. Los poderes públicos aseguran la protección integral de los hijos, IGUALES ÉSTOS ANTE LA LEY CON INDEPENDENCIA DE SU FILIACIÓN. La CE suprimió la distinción entre hijos 'legítimos' e 'ilegítimos' existente en el ordenamiento anterior. Todos los hijos tienen los mismos derechos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 41. La Seguridad Social tiene carácter público. ¿Puede el Estado privatizarla?",
+      "options": {
+        "a": "Sí, mediante ley orgánica",
+        "b": "No, el artículo 41 exige que el régimen de Seguridad Social sea PÚBLICO; privatizarla requeriría reforma constitucional",
+        "c": "Puede privatizarse parcialmente, manteniendo el sistema público para pensiones",
+        "d": "Solo puede privatizarse la asistencia sanitaria, no las prestaciones económicas"
+      },
+      "correct": "b",
+      "explicacion": "Art. 41 CE. El artículo 41 exige que los poderes públicos mantengan 'UN RÉGIMEN PÚBLICO de Seguridad Social'. El adjetivo 'público' tiene carácter constitucional: PRIVATIZAR LA SEGURIDAD SOCIAL REQUERIRÍA REFORMA CONSTITUCIONAL. Las prestaciones complementarias privadas son libres, pero el sistema básico debe ser público.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 43. El derecho a la protección de la salud, ¿es un derecho subjetivo directamente exigible ante los tribunales?",
+      "options": {
+        "a": "Sí, es un derecho fundamental directamente invocable",
+        "b": "Es directamente exigible solo en situaciones de urgencia vital",
+        "c": "Es directamente exigible solo en centros públicos, no en concertados",
+        "d": "No, es un principio rector del Capítulo III que solo puede alegarse de acuerdo con las leyes que lo desarrollen"
+      },
+      "correct": "d",
+      "explicacion": "Art. 43 CE. El derecho a la protección de la salud es un PRINCIPIO RECTOR del Capítulo III del Título I, por lo que conforme al art. 53.3 CE SOLO PUEDE ALEGARSE ANTE LA JURISDICCIÓN ORDINARIA DE ACUERDO CON LAS LEYES QUE LO DESARROLLEN. No es un derecho fundamental directamente invocable ante el TC vía amparo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 45. ¿Puede el Estado establecer sanciones penales por daños al medio ambiente?",
+      "options": {
+        "a": "No, los daños medioambientales solo pueden ser sancionados administrativamente",
+        "b": "Sí, el propio artículo 45.3 CE prevé que la ley establezca sanciones penales y administrativas para los atentados contra el medio ambiente",
+        "c": "Solo sanciones civiles de responsabilidad extracontractual",
+        "d": "Solo puede establecer la obligación de restaurar el daño, no sanciones"
+      },
+      "correct": "b",
+      "explicacion": "Art. 45.3 CE. 'Para quienes violen lo dispuesto en el apartado anterior, en los términos que la ley fije se establecerán SANCIONES PENALES O, EN SU CASO, ADMINISTRATIVAS, así como la obligación de reparar el daño causado.' La propia CE prevé explícitamente la posibilidad de sanciones penales medioambientales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 47. Los poderes públicos promoverán las condiciones necesarias para que el derecho a la vivienda sea efectivo. ¿Es un derecho fundamental?",
+      "options": {
+        "a": "Sí, es un derecho fundamental del artículo 47",
+        "b": "Es un derecho fundamental pero sin recurso de amparo",
+        "c": "Es un derecho fundamental solo para los ciudadanos sin recursos",
+        "d": "No, es un principio rector del Capítulo III; no tiene la misma protección que los derechos fundamentales del Capítulo II"
+      },
+      "correct": "d",
+      "explicacion": "Art. 47 CE. El derecho a la vivienda está recogido en el CAPÍTULO III DEL TÍTULO I (principios rectores), NO EN EL CAPÍTULO II (derechos y libertades). Por tanto, NO ES UN DERECHO FUNDAMENTAL: solo puede alegarse ante la jurisdicción ordinaria de acuerdo con las leyes que lo desarrollen, sin acceso al recurso de amparo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 48. Los poderes públicos promoverán la participación de la juventud en el desarrollo político, social, económico y cultural. ¿Existe una definición constitucional de 'juventud'?",
+      "options": {
+        "a": "No, la CE no define qué se entiende por juventud; la ley determina los límites de edad",
+        "b": "Sí, la CE define la juventud como personas entre 14 y 30 años",
+        "c": "La CE la define como personas menores de 25 años",
+        "d": "La define como personas menores de 18 años (menores de edad)"
+      },
+      "correct": "a",
+      "explicacion": "Art. 48 CE. La CONSTITUCIÓN NO DEFINE QUÉ SE ENTIENDE POR 'JUVENTUD'. ES LA LEY la que determina los límites de edad a efectos de las políticas de juventud. En España, administrativamente se considera juventud el tramo de 14 a 30 años, pero esto no tiene rango constitucional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 49. La reforma de 2024 del artículo 49 CE, ¿qué principal cambio de terminología introdujo?",
+      "options": {
+        "a": "Cambió 'minusválidos' por 'personas con discapacidad'",
+        "b": "Cambió 'disminuidos físicos' por 'personas con diversidad funcional'",
+        "c": "Cambió 'discapacitados' por 'personas con capacidades diferentes'",
+        "d": "Cambió 'inválidos' por 'personas con necesidades especiales'"
+      },
+      "correct": "a",
+      "explicacion": "Art. 49 CE (reforma 2024). La reforma del artículo 49 CE, publicada en el BOE nº 43 del 17 de febrero de 2024, sustituyó el término 'DISMINUIDOS' (físicos, psíquicos y sensoriales) por el de 'PERSONAS CON DISCAPACIDAD', término acorde con la Convención Internacional sobre los Derechos de las Personas con Discapacidad.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 50. Las pensiones de jubilación deben ser adecuadas y periódicamente actualizadas. ¿Con qué criterio se actualizan?",
+      "options": {
+        "a": "Siempre con el IPC (Índice de Precios al Consumo)",
+        "b": "Con el crecimiento del PIB",
+        "c": "Con el aumento del salario mínimo interprofesional",
+        "d": "La CE remite a la ley para los criterios de actualización; el art. 50 solo exige que sean 'adecuadas y periódicamente actualizadas'"
+      },
+      "correct": "d",
+      "explicacion": "Art. 50 CE. La CE garantiza que las pensiones serán 'ADECUADAS Y PERIÓDICAMENTE ACTUALIZADAS', pero NO FIJA EL CRITERIO DE ACTUALIZACIÓN: ELLO CORRESPONDE A LA LEY. La ley puede usar el IPC, el PIB u otros criterios, con el límite constitucional de que sean adecuadas y se actualicen periódicamente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 51. ¿Los consumidores tienen derecho a organizarse en asociaciones de consumidores?",
+      "options": {
+        "a": "No hay mención expresa en la CE a asociaciones de consumidores",
+        "b": "Solo si son sin ánimo de lucro y reconocidas por el Estado",
+        "c": "Solo si se registran en el Ministerio de Consumo",
+        "d": "Sí, el art. 51.2 CE prevé que los poderes públicos fomentarán las organizaciones de consumidores y usuarios"
+      },
+      "correct": "d",
+      "explicacion": "Art. 51.2 CE. LOS PODERES PÚBLICOS PROMOVERÁN LA INFORMACIÓN Y LA EDUCACIÓN DE LOS CONSUMIDORES Y USUARIOS, FOMENTARÁN SUS ORGANIZACIONES y las oirán en las cuestiones que puedan afectarles. El fomento de las organizaciones de consumidores tiene respaldo constitucional expreso.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 52. Las organizaciones empresariales, ¿tienen reconocimiento constitucional expreso?",
+      "options": {
+        "a": "Sí, el artículo 7 reconoce las asociaciones empresariales y el artículo 52 las organizaciones profesionales que contribuyen a defender intereses económicos",
+        "b": "No, la CE solo menciona a los sindicatos y partidos políticos",
+        "c": "Solo las organizaciones de trabajadores autónomos tienen reconocimiento",
+        "d": "Solo las cámaras de comercio tienen reconocimiento constitucional"
+      },
+      "correct": "a",
+      "explicacion": "CE. Las ASOCIACIONES EMPRESARIALES están reconocidas en el ARTÍCULO 7 CE (junto con los sindicatos). El ARTÍCULO 52 CE reconoce las ORGANIZACIONES PROFESIONALES que contribuyen a la defensa de los intereses económicos que les son propios. Ambos artículos dan cobertura constitucional a la organización empresarial.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 53. ¿Los derechos del Capítulo III son directamente aplicables por los jueces?",
+      "options": {
+        "a": "Sí, todos los artículos de la Constitución son directamente aplicables",
+        "b": "Los jueces pueden aplicarlos directamente cuando no hay ley que los regule",
+        "c": "Los principios rectores del Cap. III solo pueden ser alegados en la medida en que las leyes que los desarrollen lo permitan; los jueces no pueden aplicarlos directamente sin desarrollo legal",
+        "d": "Solo los jueces del TC pueden aplicarlos directamente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 53.3 CE. Los principios rectores del Cap. III 'SOLO PODRÁN SER ALEGADOS ANTE LA JURISDICCIÓN ORDINARIA DE ACUERDO CON LO QUE DISPONGAN LAS LEYES QUE LOS DESARROLLEN'. Sin ley de desarrollo, NO SON DIRECTAMENTE APLICABLES como derechos subjetivos. Esto los distingue de los derechos fundamentales, que sí son directamente aplicables.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 55. ¿La suspensión de derechos en estados de excepción o sitio afecta a TODOS los derechos del Título I?",
+      "options": {
+        "a": "Sí, suspende todos los derechos del Título I",
+        "b": "Solo los derechos de la Sección 1ª del Cap. II",
+        "c": "No, solo pueden suspenderse los derechos expresamente mencionados en el art. 55.1 (arts. 17, 18.2 y 3, 19, 20.1.a) y d) y 5, 21, 28.2 y 37.2)",
+        "d": "Todos salvo el derecho a la vida y a la integridad física"
+      },
+      "correct": "c",
+      "explicacion": "Art. 55.1 CE. SOLO PUEDEN SUSPENDERSE LOS DERECHOS EXPRESAMENTE ENUMERADOS en el art. 55.1: arts. 17 (libertad personal), 18.2 y 3 (domicilio y comunicaciones), 19 (libre circulación), 20.1.a) y d) y 5 (expresión e información), 21 (reunión), 28.2 (huelga) y 37.2 (conflicto colectivo). El resto del Título I permanece intacto.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 31. ¿Puede una misma renta ser gravada por dos impuestos distintos (doble imposición)?",
+      "options": {
+        "a": "No, la doble imposición está prohibida por el principio de no confiscatoriedad",
+        "b": "Solo si es doble imposición internacional, no interna",
+        "c": "Sí, no existe prohibición constitucional expresa de la doble imposición, aunque el sistema debe ser justo en su conjunto",
+        "d": "Solo si la segunda imposición la establece una CCAA"
+      },
+      "correct": "c",
+      "explicacion": "Art. 31 CE. NO EXISTE PROHIBICIÓN CONSTITUCIONAL EXPRESA DE LA DOBLE IMPOSICIÓN. El sistema tributario debe ser justo y no tener alcance confiscatorio en su conjunto, pero puede gravar la misma renta con distintos tributos (IRPF e IVA, por ejemplo) si el resultado global no es confiscatorio.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 32. La ley que regule el matrimonio, ¿puede establecer requisitos de edad mínima superiores a la mayoría de edad civil?",
+      "options": {
+        "a": "No, la mayoría de edad civil es el único requisito de edad posible",
+        "b": "Solo puede establecer requisitos de edad para matrimonios con menores extranjeros",
+        "c": "La CE prohíbe fijar una edad mínima superior a 16 años para el matrimonio",
+        "d": "Sí, la ley regulará la edad y capacidad para contraer matrimonio, pudiendo establecer requisitos específicos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 32.2 CE. 'La LEY regulará las formas de matrimonio, la EDAD Y CAPACIDAD para contraerlo...' La Constitución encomienda al legislador la fijación de los requisitos de edad, sin establecer un mínimo constitucional específico. La ley puede establecer la edad mínima que considere adecuada (actualmente 16 años con emancipación, o 18 en general).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_42_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 36. Los Colegios Profesionales ejercen funciones públicas. ¿Puede la Administración controlar su funcionamiento?",
+      "options": {
+        "a": "No, los Colegios son completamente autónomos e independientes",
+        "b": "Solo en lo relativo a sus actividades económicas",
+        "c": "Sí, los poderes públicos pueden controlar que su estructura y funcionamiento sean democráticos y que cumplan las exigencias legales, aunque respetando su autonomía",
+        "d": "Solo el TC puede controlar a los Colegios Profesionales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 36 CE. Los Colegios Profesionales ejercen funciones públicas pero también son corporaciones de Derecho público con autonomía. LA ADMINISTRACIÓN PUEDE CONTROLAR QUE SU ESTRUCTURA Y FUNCIONAMIENTO SEAN DEMOCRÁTICOS (exigencia constitucional expresa) y que cumplan las exigencias legales, pero respetando su autonomía corporativa.",
+      "ley": ""
+    }
+  ]
+}

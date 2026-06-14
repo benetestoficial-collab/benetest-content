@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 11,
+  "preguntas": [
+    {
+      "id": "tema_04_test_11_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Admitida la queja, el Defensor del Pueblo promoverá una investigación sumaria e informal y dará cuenta al organismo afectado para que remita informe escrito en el plazo máximo de:",
+      "options": {
+        "a": "Cinco días",
+        "b": "Diez días",
+        "c": "Treinta días",
+        "d": "Quince días"
+      },
+      "correct": "d",
+      "explicacion": "Art. 18.1 LO 3/1981. Admitida la queja, el Defensor del Pueblo dará cuenta del contenido al Organismo o Dependencia administrativa procedente con el fin de que su Jefe remita informe escrito en el plazo máximo de QUINCE DÍAS, ampliable cuando concurran circunstancias que lo aconsejen.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Todos los poderes públicos están obligados a auxiliar al Defensor del Pueblo en sus investigaciones:",
+      "options": {
+        "a": "Con carácter ordinario, en el plazo de un mes",
+        "b": "Solo cuando el Defensor del Pueblo lo solicite formalmente mediante escrito motivado",
+        "c": "Solo cuando así lo requiera la Comisión Mixta Congreso-Senado",
+        "d": "Con carácter preferente y urgente"
+      },
+      "correct": "d",
+      "explicacion": "Art. 19.1 LO 3/1981. Todos los poderes públicos están obligados a auxiliar, CON CARÁCTER PREFERENTE Y URGENTE, al Defensor del Pueblo en sus investigaciones e inspecciones. El Defensor puede personarse en cualquier centro de la Administración pública.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Cuando el Defensor del Pueblo tenga conocimiento de una conducta o hechos presumiblemente delictivos, los pondrá en conocimiento de:",
+      "options": {
+        "a": "El Fiscal General del Estado",
+        "b": "El Presidente del Tribunal Supremo",
+        "c": "El Ministerio de Justicia",
+        "d": "El Presidente del Congreso de los Diputados"
+      },
+      "correct": "a",
+      "explicacion": "Art. 25.1 LO 3/1981. Cuando el Defensor del Pueblo tenga conocimiento de una conducta o hechos presumiblemente delictivos, lo pondrá de inmediato en conocimiento del FISCAL GENERAL DEL ESTADO. Este informará periódicamente al Defensor del trámite de las actuaciones iniciadas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo puede modificar o anular los actos y resoluciones de la Administración Pública:",
+      "options": {
+        "a": "Puede modificar y anular los actos cuando sean claramente contrarios a la Constitución",
+        "b": "Puede anular los actos administrativos pero no modificarlos",
+        "c": "Puede suspender cautelarmente los actos durante su investigación",
+        "d": "No puede modificar ni anular los actos, pero puede sugerir la modificación de los criterios utilizados"
+      },
+      "correct": "d",
+      "explicacion": "Art. 28.1 LO 3/1981. El Defensor del Pueblo, AUN NO SIENDO COMPETENTE para modificar o anular los actos y resoluciones de la Administración Pública, PODRÁ SUGERIR la modificación de los criterios utilizados para la producción de aquellos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo está legitimado para interponer:",
+      "options": {
+        "a": "Solo el recurso de amparo",
+        "b": "El recurso de inconstitucionalidad, de amparo y la cuestión de inconstitucionalidad",
+        "c": "Los recursos de inconstitucionalidad y de amparo",
+        "d": "Solo el recurso de inconstitucionalidad"
+      },
+      "correct": "c",
+      "explicacion": "Art. 29 LO 3/1981. El Defensor del Pueblo está legitimado para interponer LOS RECURSOS DE INCONSTITUCIONALIDAD Y DE AMPARO, de acuerdo con lo dispuesto en la Constitución y en la Ley Orgánica del Tribunal Constitucional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Las autoridades y funcionarios a los que el Defensor del Pueblo formule recomendaciones, advertencias o recordatorios deberán responder por escrito en un plazo no superior a:",
+      "options": {
+        "a": "Quince días",
+        "b": "Un mes",
+        "c": "Dos meses",
+        "d": "Tres meses"
+      },
+      "correct": "b",
+      "explicacion": "Art. 30.1 LO 3/1981. El Defensor del Pueblo podrá formular advertencias, recomendaciones, recordatorios de deberes legales y sugerencias. Las autoridades y funcionarios vendrán obligados a responder por escrito en término NO SUPERIOR AL DE UN MES.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. El informe anual del Defensor del Pueblo se presentará ante las Cortes Generales:",
+      "options": {
+        "a": "Cuando se hallen reunidas en período extraordinario de sesiones",
+        "b": "Cuando se hallen reunidas en período ordinario de sesiones",
+        "c": "En cualquier momento, sin limitación de sesiones",
+        "d": "Solo en el primer período ordinario de sesiones del año"
+      },
+      "correct": "b",
+      "explicacion": "Art. 32.1 LO 3/1981. El Defensor del Pueblo dará cuenta anualmente a las Cortes Generales de la gestión realizada en un informe que presentará ante las mismas CUANDO SE HALLEN REUNIDAS EN PERÍODO ORDINARIO DE SESIONES. En casos urgentes puede presentar informe extraordinario.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo ejerce las funciones del Mecanismo Nacional de Prevención de la Tortura de conformidad con:",
+      "options": {
+        "a": "El Protocolo facultativo de la Convención contra la tortura u otros tratos o penas crueles, inhumanos o degradantes",
+        "b": "El Convenio Europeo de Derechos Humanos",
+        "c": "La Declaración Universal de Derechos Humanos",
+        "d": "El Pacto Internacional de Derechos Civiles y Políticos"
+      },
+      "correct": "a",
+      "explicacion": "Disposición final única LO 3/1981. El Defensor del Pueblo ejerce las funciones del Mecanismo Nacional de Prevención de la Tortura de conformidad con la Constitución, la presente Ley y el PROTOCOLO FACULTATIVO DE LA CONVENCIÓN CONTRA LA TORTURA u otros tratos o penas crueles, inhumanos o degradantes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 1/1982, Honor e Intimidad. Los derechos al honor, a la intimidad personal y familiar y a la propia imagen están reconocidos en el artículo de la Constitución:",
+      "options": {
+        "a": "Artículo 15",
+        "b": "Artículo 16",
+        "c": "Artículo 18",
+        "d": "Artículo 20"
+      },
+      "correct": "c",
+      "explicacion": "Art. 18 CE y art. 1 LO 1/1982. El derecho fundamental al honor, a la intimidad personal y familiar y a la propia imagen está garantizado en el ARTÍCULO 18 DE LA CONSTITUCIÓN, siendo protegido civilmente frente a todo género de intromisiones ilegítimas por la LO 1/1982.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 1/1982, Honor e Intimidad. En relación con el consentimiento para la intromisión en los derechos de honor, intimidad e imagen, señale la CORRECTA:",
+      "options": {
+        "a": "El consentimiento debe ser expreso y no puede revocarse una vez otorgado",
+        "b": "El consentimiento puede ser tácito y es irrevocable",
+        "c": "El consentimiento debe ser expreso y puede ser revocado en cualquier momento, aunque con indemnización de los perjuicios causados",
+        "d": "El consentimiento de los menores lo otorgan sus padres de forma definitiva e irrevocable"
+      },
+      "correct": "c",
+      "explicacion": "LO 1/1982. La ley exige que el consentimiento sea EXPRESO y permite que pueda ser REVOCADO EN CUALQUIER MOMENTO, aunque con indemnización de los perjuicios que de la revocación se siguieren al destinatario. El consentimiento no implica abdicación absoluta del derecho.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo podrá solicitar a los poderes públicos documentos clasificados como secretos. Si no se le remiten, la denegación deberá ser acordada por:",
+      "options": {
+        "a": "El Ministro del Departamento afectado mediante resolución motivada",
+        "b": "El Presidente del Gobierno por decreto",
+        "c": "El Consejo de Ministros, acompañada de certificación acreditativa del acuerdo denegatorio",
+        "d": "La Comisión Mixta Congreso-Senado de relaciones con el Defensor del Pueblo"
+      },
+      "correct": "c",
+      "explicacion": "Art. 22.1 LO 3/1981. La no remisión de documentos clasificados como secretos al Defensor del Pueblo deberá ser acordada por el CONSEJO DE MINISTROS y se acompañará una certificación acreditativa del acuerdo denegatorio.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española de 1978. El Preámbulo de la Constitución finaliza con las palabras:",
+      "options": {
+        "a": "'El Rey sanciona y el pueblo ratifica la siguiente Constitución'",
+        "b": "'Las Cortes Generales aprueban y el Rey sanciona la siguiente Constitución'",
+        "c": "'Las Cortes y el pueblo español aprueban y ratifican conjuntamente la siguiente Constitución'",
+        "d": "'Las Cortes aprueban y el pueblo español ratifica la siguiente Constitución'"
+      },
+      "correct": "d",
+      "explicacion": "Constitución Española, Preámbulo. El Preámbulo de la Constitución finaliza diciendo 'LAS CORTES APRUEBAN Y EL PUEBLO ESPAÑOL RATIFICA LA SIGUIENTE CONSTITUCIÓN'. El referéndum del 6 de diciembre de 1978 fue precisamente esa ratificación por el pueblo español.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 14. La igualdad ante la ley en relación con las causas de discriminación prohibidas, señale la INCORRECTA:",
+      "options": {
+        "a": "No puede prevalecer discriminación por razón de nacimiento",
+        "b": "No puede prevalecer discriminación por razón de edad",
+        "c": "No puede prevalecer discriminación por razón de raza o sexo",
+        "d": "No puede prevalecer discriminación por razón de religión u opinión"
+      },
+      "correct": "b",
+      "explicacion": "Art. 14 CE. Los españoles son iguales ante la ley sin discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social. La EDAD no aparece expresamente mencionada en el artículo 14 (aunque puede incluirse en 'cualquier otra condición').",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, Disposiciones. La Constitución española contiene 4 Disposiciones adicionales, 9 Disposiciones transitorias y:",
+      "options": {
+        "a": "2 Disposiciones derogatorias y 2 Disposiciones finales",
+        "b": "1 Disposición derogatoria y 1 Disposición final",
+        "c": "1 Disposición derogatoria y 2 Disposiciones finales",
+        "d": "2 Disposiciones derogatorias y 1 Disposición final"
+      },
+      "correct": "b",
+      "explicacion": "Constitución Española. Además de sus 169 artículos y el Preámbulo, la Constitución contiene: 4 Disposiciones adicionales, 9 Disposiciones transitorias, 1 DISPOSICIÓN DEROGATORIA y 1 DISPOSICIÓN FINAL. La Disposición Final establece que la Constitución entró en vigor el mismo día de su publicación en el BOE (29 de diciembre de 1978).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 56. El título del Rey de España es:",
+      "options": {
+        "a": "Rey de España",
+        "b": "Rey de las Españas",
+        "c": "Rey de España y Monarca Constitucional",
+        "d": "Monarca de España"
+      },
+      "correct": "a",
+      "explicacion": "Art. 56.2 CE. El título del Rey es el de REY DE ESPAÑA y podrá utilizar los demás que correspondan a la Corona. La persona del Rey es inviolable y no está sujeta a responsabilidad (art. 56.3 CE).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 70. Entre las causas de inelegibilidad e incompatibilidad de los Diputados y Senadores que la ley electoral deberá comprender, señale la INCORRECTA:",
+      "options": {
+        "a": "Los componentes del Tribunal Constitucional",
+        "b": "El Defensor del Pueblo",
+        "c": "Los miembros del Gobierno",
+        "d": "Los Magistrados, Jueces y Fiscales en activo"
+      },
+      "correct": "c",
+      "explicacion": "Art. 70.1 CE. Entre las causas de inelegibilidad que la ley debe comprender se incluyen los componentes del TC, los altos cargos (EXCEPTO LOS MIEMBROS DEL GOBIERNO), el Defensor del Pueblo, Magistrados y Jueces en activo, militares en activo y miembros de las Juntas Electorales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 93. La autorización para la celebración de tratados que atribuyan competencias constitucionales a organizaciones internacionales se realizará mediante:",
+      "options": {
+        "a": "Ley orgánica",
+        "b": "Ley ordinaria de las Cortes Generales",
+        "c": "Decreto del Consejo de Ministros refrendado por el Rey",
+        "d": "Referéndum consultivo del pueblo español"
+      },
+      "correct": "a",
+      "explicacion": "Art. 93 CE. Mediante LEY ORGÁNICA se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución. Es el fundamento de la adhesión de España a la Unión Europea.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 72. Los Reglamentos de las Cámaras y su reforma requerirán una votación final sobre su totalidad que exigirá:",
+      "options": {
+        "a": "Mayoría simple de la Cámara respectiva",
+        "b": "Mayoría de dos tercios de la Cámara respectiva",
+        "c": "Mayoría de tres quintos de la Cámara respectiva",
+        "d": "Mayoría absoluta de la Cámara respectiva"
+      },
+      "correct": "d",
+      "explicacion": "Art. 72.1 CE. Las Cámaras establecen sus propios Reglamentos y los aprueban autónomamente. Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad que requerirá la MAYORÍA ABSOLUTA.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 99. Si el candidato propuesto a la investidura no obtiene mayoría absoluta en la primera votación, la segunda votación se celebrará:",
+      "options": {
+        "a": "A las veinticuatro horas de la anterior",
+        "b": "A las cuarenta y ocho horas de la anterior",
+        "c": "A los siete días de la anterior",
+        "d": "A los quince días de la anterior"
+      },
+      "correct": "b",
+      "explicacion": "Art. 99.3 CE. De no alcanzarse la mayoría absoluta en la primera votación, se someterá la misma propuesta a nueva votación CUARENTA Y OCHO HORAS después de la anterior, y la confianza se entenderá otorgada si obtuviese la mayoría simple.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_11_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 82. La delegación legislativa al Gobierno no podrá permitir:",
+      "options": {
+        "a": "La subdelegación a autoridades distintas del propio Gobierno",
+        "b": "Dictar normas sobre materias no incluidas en el artículo 81",
+        "c": "La refundición de varios textos legales en uno solo",
+        "d": "El uso de la delegación en un plazo determinado"
+      },
+      "correct": "a",
+      "explicacion": "Art. 82.3 CE. La delegación legislativa habrá de otorgarse de forma expresa para materia concreta y con fijación del plazo. No podrá entenderse concedida de modo implícito o por tiempo indeterminado. TAMPOCO PODRÁ PERMITIR LA SUBDELEGACIÓN A AUTORIDADES DISTINTAS DEL PROPIO GOBIERNO.",
+      "ley": ""
+    }
+  ]
+}

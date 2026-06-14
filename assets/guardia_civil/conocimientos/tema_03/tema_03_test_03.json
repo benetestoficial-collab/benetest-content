@@ -1,0 +1,307 @@
+{
+  "tema_numero": 3,
+  "tema": "Prevención de riesgos laborales",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_03_test_03_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuál de las siguientes modalidades puede asumir la actividad preventiva en una empresa?",
+      "options": {
+        "a": "Asunción personal por el empresario",
+        "b": "Servicio de prevención propio",
+        "c": "Servicio de prevención ajeno",
+        "d": "Todas son correctas"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La Ley contempla distintas modalidades de organización preventiva, incluyendo todas las indicadas.",
+      "ley": "Ley 31/1995, art. 30"
+    },
+    {
+      "id": "tema_03_test_03_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Los recursos preventivos podrán estar presentes en el centro de trabajo cuando:",
+      "options": {
+        "a": "Lo exija la Inspección de Trabajo",
+        "b": "Los riesgos puedan verse agravados por la concurrencia de operaciones",
+        "c": "Se realicen actividades reglamentariamente previstas",
+        "d": "Todas son correctas"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). Existen varios supuestos legales que justifican la presencia de recursos preventivos.",
+      "ley": "Ley 31/1995, art. 32 bis"
+    },
+    {
+      "id": "tema_03_test_03_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre los servicios de prevención.",
+      "options": {
+        "a": "Asesoran al empresario",
+        "b": "Apoyan la evaluación de riesgos",
+        "c": "Sustituyen todas las responsabilidades del empresario",
+        "d": "Participan en la planificación preventiva"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). La responsabilidad preventiva sigue correspondiendo al empresario.",
+      "ley": "Ley 31/1995, arts. 30 y ss."
+    },
+    {
+      "id": "tema_03_test_03_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Entre las especialidades preventivas se encuentra:",
+      "options": {
+        "a": "Seguridad en el trabajo",
+        "b": "Higiene industrial",
+        "c": "Ergonomía y psicosociología aplicada",
+        "d": "Todas son correctas"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). Las tres forman parte de las disciplinas preventivas reconocidas.",
+      "ley": "Ley 31/1995"
+    },
+    {
+      "id": "tema_03_test_03_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Los delegados de prevención son:",
+      "options": {
+        "a": "Representantes de los trabajadores con funciones específicas en prevención",
+        "b": "Inspectores de Trabajo",
+        "c": "Miembros del Gobierno",
+        "d": "Empresarios designados"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Los delegados de prevención representan a los trabajadores en materia preventiva.",
+      "ley": "Ley 31/1995, art. 35"
+    },
+    {
+      "id": "tema_03_test_03_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los delegados de prevención serán designados por y entre:",
+      "options": {
+        "a": "Los representantes de los trabajadores",
+        "b": "Los empresarios",
+        "c": "Los inspectores",
+        "d": "Los servicios de prevención"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Su designación corresponde a los representantes de los trabajadores.",
+      "ley": "Ley 31/1995, art. 35"
+    },
+    {
+      "id": "tema_03_test_03_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto a los delegados de prevención.",
+      "options": {
+        "a": "Pueden acompañar a los inspectores",
+        "b": "Tienen acceso a información preventiva",
+        "c": "Pueden imponer sanciones disciplinarias",
+        "d": "Pueden formular propuestas preventivas"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). No tienen potestad sancionadora.",
+      "ley": "Ley 31/1995, art. 36"
+    },
+    {
+      "id": "tema_03_test_03_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El Comité de Seguridad y Salud es:",
+      "options": {
+        "a": "Un órgano paritario y colegiado",
+        "b": "Un órgano exclusivamente empresarial",
+        "c": "Un órgano judicial",
+        "d": "Un órgano sindical exclusivamente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Es un órgano de participación destinado a la consulta regular y periódica.",
+      "ley": "Ley 31/1995, art. 38"
+    },
+    {
+      "id": "tema_03_test_03_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. El Comité de Seguridad y Salud se constituirá en empresas o centros con:",
+      "options": {
+        "a": "50 o más trabajadores",
+        "b": "25 o más trabajadores",
+        "c": "100 o más trabajadores",
+        "d": "250 o más trabajadores"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La ley fija el umbral en 50 trabajadores.",
+      "ley": "Ley 31/1995, art. 38"
+    },
+    {
+      "id": "tema_03_test_03_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El Comité de Seguridad y Salud estará formado por:",
+      "options": {
+        "a": "Delegados de prevención y representantes del empresario",
+        "b": "Solo delegados de prevención",
+        "c": "Solo representantes empresariales",
+        "d": "Inspectores y empresarios"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Su composición es paritaria entre ambas partes.",
+      "ley": "Ley 31/1995, art. 38"
+    },
+    {
+      "id": "tema_03_test_03_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre el Comité de Seguridad y Salud.",
+      "options": {
+        "a": "Participa en la elaboración de planes preventivos",
+        "b": "Conoce la memoria y programación anual del servicio de prevención",
+        "c": "Puede sustituir al empresario en sus obligaciones preventivas",
+        "d": "Promueve iniciativas preventivas"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). No sustituye las obligaciones legales del empresario.",
+      "ley": "Ley 31/1995, art. 39"
+    },
+    {
+      "id": "tema_03_test_03_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Con qué periodicidad se reunirá el Comité de Seguridad y Salud como mínimo?",
+      "options": {
+        "a": "Trimestralmente",
+        "b": "Mensualmente",
+        "c": "Semestralmente",
+        "d": "Anualmente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La ley establece una reunión trimestral mínima.",
+      "ley": "Ley 31/1995, art. 38"
+    },
+    {
+      "id": "tema_03_test_03_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Los trabajadores tienen derecho a efectuar propuestas dirigidas a:",
+      "options": {
+        "a": "Mejorar los niveles de protección",
+        "b": "Modificar salarios",
+        "c": "Cambiar convenios",
+        "d": "Elegir inspectores"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La participación activa forma parte del sistema preventivo.",
+      "ley": "Ley 31/1995, art. 18"
+    },
+    {
+      "id": "tema_03_test_03_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La documentación preventiva deberá incluir:",
+      "options": {
+        "a": "Evaluación de riesgos",
+        "b": "Planificación preventiva",
+        "c": "Relación de accidentes de trabajo",
+        "d": "Todas son correctas"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). Toda esta documentación forma parte de las obligaciones documentales.",
+      "ley": "Ley 31/1995, art. 23"
+    },
+    {
+      "id": "tema_03_test_03_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto a la documentación preventiva.",
+      "options": {
+        "a": "Debe mantenerse a disposición de la autoridad laboral",
+        "b": "Incluye controles periódicos de salud",
+        "c": "Incluye evaluación de riesgos",
+        "d": "Puede destruirse libremente tras cada evaluación"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La documentación preventiva debe conservarse conforme a la normativa.",
+      "ley": "Ley 31/1995, art. 23"
+    },
+    {
+      "id": "tema_03_test_03_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La coordinación de actividades empresariales será necesaria cuando:",
+      "options": {
+        "a": "Coincidan trabajadores de varias empresas en un centro de trabajo",
+        "b": "Siempre exista un único empresario",
+        "c": "Solo en la Administración Pública",
+        "d": "Solo en obras militares"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La coordinación evita riesgos derivados de la concurrencia empresarial.",
+      "ley": "Ley 31/1995, art. 24"
+    },
+    {
+      "id": "tema_03_test_03_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En materia de coordinación empresarial podrán intercambiarse:",
+      "options": {
+        "a": "Información sobre riesgos",
+        "b": "Medidas preventivas",
+        "c": "Medidas de emergencia",
+        "d": "Todas son correctas"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La coordinación exige compartir información preventiva relevante.",
+      "ley": "Ley 31/1995, art. 24"
+    },
+    {
+      "id": "tema_03_test_03_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre la protección de trabajadores temporales.",
+      "options": {
+        "a": "Deben disfrutar del mismo nivel de protección",
+        "b": "Deben recibir información suficiente",
+        "c": "Pueden quedar excluidos de determinadas medidas preventivas por temporalidad",
+        "d": "Deben recibir formación adecuada"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). La temporalidad no justifica una menor protección.",
+      "ley": "Ley 31/1995, art. 28"
+    },
+    {
+      "id": "tema_03_test_03_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La protección frente a riesgos laborales debe inspirarse en el principio de:",
+      "options": {
+        "a": "Igualdad de protección",
+        "b": "Jerarquía administrativa",
+        "c": "Antigüedad profesional",
+        "d": "Libre designación"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Todos los trabajadores deben disfrutar de una protección equivalente.",
+      "ley": "Ley 31/1995"
+    },
+    {
+      "id": "tema_03_test_03_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuál de las siguientes respuestas aparece habitualmente como correcta en preguntas de prevención cuando todas las opciones son válidas?",
+      "options": {
+        "a": "Todas son correctas",
+        "b": "Ninguna es correcta",
+        "c": "Solo a y b",
+        "d": "Solo b y c"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). En exámenes oficiales es frecuente encontrar preguntas donde todas las opciones son válidas y la respuesta correcta es 'Todas son correctas'.",
+      "ley": "Técnica de examen"
+    }
+  ]
+}

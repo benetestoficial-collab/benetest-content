@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 47,
+  "preguntas": [
+    {
+      "id": "tema_04_test_47_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española. ¿En qué Título de la CE se regula la Seguridad Social?",
+      "options": {
+        "a": "Título I, Capítulo II, Sección 1ª (derechos fundamentales)",
+        "b": "Título I, Capítulo III (principios rectores de la política social y económica)",
+        "c": "Título VII (Economía y Hacienda)",
+        "d": "Título IV (Gobierno y Administración)"
+      },
+      "correct": "b",
+      "explicacion": "Art. 41 CE. La Seguridad Social está regulada en el TÍTULO I, CAPÍTULO III (principios rectores), concretamente en el artículo 41. Al estar en el Capítulo III, no es un derecho fundamental directamente exigible, sino un principio rector que orienta la actuación de los poderes públicos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 68. ¿Puede una circunscripción electoral del Congreso coincidir con el territorio de toda una Comunidad Autónoma?",
+      "options": {
+        "a": "No, la circunscripción siempre es la provincia",
+        "b": "Sí, en todas las CCAA si así lo establece la LOREG",
+        "c": "Solo en las islas",
+        "d": "Solo en las CCAA uniprovinciales, donde la única provincia coincide con el territorio de la CCAA"
+      },
+      "correct": "d",
+      "explicacion": "Art. 68.2 CE. La circunscripción es la provincia. EN LAS CCAA UNIPROVINCIALES (Madrid, Murcia, Asturias, Cantabria, Navarra, La Rioja, Aragón en teoría uniprovincias, etc.), la provincia (y por tanto la circunscripción) coincide con el territorio de la CCAA. No es una excepción sino una consecuencia natural de la organización territorial.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 76. Una Comisión de Investigación investiga un asunto donde ya hay juicio penal en curso. ¿Puede continuar su actividad?",
+      "options": {
+        "a": "No, debe suspenderse hasta que concluya el proceso penal",
+        "b": "Sí, las conclusiones no vinculan a los tribunales y no afectan a las resoluciones judiciales; la comisión puede investigar paralelamente",
+        "c": "Solo si el juez instructor lo autoriza",
+        "d": "Solo si el asunto ya tiene sentencia firme"
+      },
+      "correct": "b",
+      "explicacion": "Art. 76.1 CE. LAS CONCLUSIONES DE LAS COMISIONES DE INVESTIGACIÓN NO SERÁN VINCULANTES PARA LOS TRIBUNALES, NI AFECTARÁN A LAS RESOLUCIONES JUDICIALES. Por ello, UNA COMISIÓN PUEDE INVESTIGAR PARALELAMENTE a un proceso penal. Sus conclusiones pueden comunicarse al MF para acciones posteriores, pero no interfieren en la jurisdicción.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 82. Las leyes de bases tienen una estructura especial. ¿Puede el Gobierno en el texto articulado incluir materias no previstas en la ley de bases?",
+      "options": {
+        "a": "Sí, puede desarrollar libremente el encargo del legislador",
+        "b": "No, el Gobierno no puede ir más allá del marco fijado por la ley de bases; el texto articulado debe ajustarse estrictamente a los principios y criterios definidos en aquélla",
+        "c": "Puede ampliar el ámbito si lo justifica en la exposición de motivos",
+        "d": "Puede incluir materias relacionadas aunque no estén en la ley de bases"
+      },
+      "correct": "b",
+      "explicacion": "Art. 82.4 CE. 'Sin perjuicio de su competencia propia, LAS COMISIONES LEGISLATIVAS PERMANENTES...' El art. 82.6 CE establece que los Decretos Legislativos podrán ser impugnados ante el TC si EXCEDEN los límites de la delegación. EL GOBIERNO NO PUEDE IR MÁS ALLÁ DEL MARCO DEFINIDO POR LA LEY DE BASES: el exceso ultra vires invalida el decreto legislativo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 86. ¿Puede el Congreso rechazar la convalidación de un Decreto-ley?",
+      "options": {
+        "a": "No, el Congreso solo puede aceptar o tramitar como ley ordinaria",
+        "b": "Solo puede rechazarlo si hay recurso de inconstitucionalidad previo del Senado",
+        "c": "Sí, el Congreso puede votar en contra de la convalidación, en cuyo caso el Decreto-ley queda derogado",
+        "d": "Solo puede rechazarlo por mayoría absoluta"
+      },
+      "correct": "c",
+      "explicacion": "Art. 86.2 CE. El Congreso debe pronunciarse expresamente DENTRO DE LOS TREINTA DÍAS siguientes sobre su convalidación o derogación. SI VOTA EN CONTRA DE LA CONVALIDACIÓN, EL DECRETO-LEY QUEDA DEROGADO y deja de tener efectos. La convalidación exige mayoría simple; el rechazo también.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 92. ¿Puede el resultado del referéndum consultivo del artículo 92 obligar jurídicamente al Gobierno a actuar de una manera determinada?",
+      "options": {
+        "a": "Sí, el resultado del referéndum es jurídicamente vinculante",
+        "b": "Sí, si participa más del 50% del censo electoral",
+        "c": "Solo si las Cortes así lo deciden previamente",
+        "d": "No, el referéndum es consultivo; no es jurídicamente vinculante, aunque políticamente tiene un peso decisivo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 92.1 CE. Las decisiones de especial trascendencia PODRÁN ser sometidas a REFERÉNDUM CONSULTIVO. El adjetivo 'CONSULTIVO' implica que NO ES JURÍDICAMENTE VINCULANTE: el Gobierno y las Cortes no están obligados jurídicamente a actuar según el resultado. Sin embargo, POLÍTICAMENTE su peso es enorme.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 97. ¿Puede el Gobierno dictar reglamentos sobre materias reservadas a ley sin habilitación legislativa previa?",
+      "options": {
+        "a": "No, en materias reservadas a ley el Gobierno no puede dictar reglamentos que desarrollen directamente la reserva; necesita una ley previa que le sirva de base",
+        "b": "Sí, la potestad reglamentaria es autónoma y no necesita habilitación",
+        "c": "Solo puede dictarlos mediante decreto-ley de urgencia",
+        "d": "Solo si el Consejo de Estado emite dictamen favorable"
+      },
+      "correct": "a",
+      "explicacion": "Art. 97 CE. El principio de RESERVA DE LEY implica que EN LAS MATERIAS RESERVADAS A LEY el Gobierno NO PUEDE DICTAR REGLAMENTOS QUE REGULEN LA MATERIA DIRECTAMENTE sin una ley previa. Los reglamentos en esas materias deben ser 'ejecutivos' (desarrollo de una ley preexistente), no independientes o autónomos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 99. Una vez investido el Presidente del Gobierno, ¿puede el Congreso volver a retirarle la confianza por razones políticas distintas a las de la investidura?",
+      "options": {
+        "a": "No, la investidura es irrevocable",
+        "b": "Solo mediante otro proceso de investidura",
+        "c": "Sí, mediante la moción de censura (art. 113) o negándole la confianza en la cuestión de confianza que el propio Presidente plantee (art. 112)",
+        "d": "Solo en la primera legislatura del Presidente"
+      },
+      "correct": "c",
+      "explicacion": "Arts. 112-114 CE. Una vez investido, el Presidente puede perder la confianza por: 1) MOCIÓN DE CENSURA aprobada por el Congreso (art. 113-114); 2) CUESTIÓN DE CONFIANZA planteada por el propio Presidente que no logre el apoyo del Congreso (art. 112-114). Ambos mecanismos permiten retirar la confianza durante la legislatura.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 101. ¿Puede el Gobierno en funciones aprobar el Proyecto de Ley de Presupuestos?",
+      "options": {
+        "a": "No, la elaboración y aprobación de los PGE es una medida que compromete la política del Gobierno entrante; un Gobierno en funciones no puede adoptarla",
+        "b": "Sí, es una gestión ordinaria necesaria para la continuidad del Estado",
+        "c": "Puede hacerlo si las Cortes lo autorizan",
+        "d": "Solo puede prorrogar los anteriores Presupuestos"
+      },
+      "correct": "a",
+      "explicacion": "Art. 101 CE y Ley 50/1997. El Gobierno en funciones debe 'LIMITARSE AL DESPACHO ORDINARIO DE LOS ASUNTOS PÚBLICOS'. LA ELABORACIÓN DE LOS PGE ES UNA MEDIDA DE ALTO CONTENIDO POLÍTICO que COMPROMETE LA POLÍTICA DEL GOBIERNO ENTRANTE. Por ello, un Gobierno en funciones NO PUEDE aprobar el Proyecto de Ley de Presupuestos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 107. El dictamen del Consejo de Estado, cuando es preceptivo, ¿es vinculante para el Gobierno?",
+      "options": {
+        "a": "Sí, si es preceptivo, el Gobierno está obligado a seguirlo",
+        "b": "No, aunque el dictamen sea preceptivo, el Gobierno no está obligado a seguirlo; es consultivo aunque obligatorio en cuanto a su solicitud",
+        "c": "Solo es vinculante si es unánime",
+        "d": "Solo en materia de tratados internacionales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 107 CE. El CONSEJO DE ESTADO es el supremo órgano CONSULTIVO del Gobierno. Sus dictámenes, aunque sean PRECEPTIVOS (obligatorios en cuanto a su solicitud), SON SOLO CONSULTIVOS: EL GOBIERNO NO ESTÁ OBLIGADO A SEGUIRLOS. Lo que es obligatorio es solicitar el dictamen, no seguirlo. El Gobierno puede apartarse de él motivadamente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 116. ¿Puede el estado de alarma suspender derechos fundamentales?",
+      "options": {
+        "a": "Sí, puede suspender cualquier derecho que sea necesario",
+        "b": "Solo puede suspender la libertad de circulación",
+        "c": "No, el estado de alarma NO permite la suspensión de derechos; solo permite su limitación conforme a la LO 4/1981",
+        "d": "Solo puede suspender derechos económicos y laborales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 116 CE. El ESTADO DE ALARMA es el menos grave: NO PERMITE LA SUSPENSIÓN DE DERECHOS FUNDAMENTALES. Solo permite LIMITACIONES y restricciones de derechos previstas en la LO 4/1981. El ESTADO DE EXCEPCIÓN y el de SITIO sí permiten la suspensión de determinados derechos conforme al art. 55.1 CE.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 122. El CGPJ elabora su propio presupuesto para incluirlo en los PGE. ¿Con qué garantiza la independencia económica del Poder Judicial?",
+      "options": {
+        "a": "Con la dotación arbitraria del Ministerio de Justicia",
+        "b": "Con la fijación constitucional de una dotación mínima",
+        "c": "Con la asignación del 1% del PIB a la Administración de Justicia",
+        "d": "Con la elaboración autónoma de su presupuesto por el CGPJ, que se integra en los PGE como una sección separada"
+      },
+      "correct": "d",
+      "explicacion": "Art. 122 CE y LOPJ. El CGPJ ELABORA SU PROPIO PRESUPUESTO, que se integra en los PGE como una sección separada del Ministerio de Justicia. Esta AUTONOMÍA PRESUPUESTARIA DEL CGPJ garantiza la independencia económica del Poder Judicial frente al Ejecutivo, evitando que el Gobierno pueda presionar a los jueces mediante la gestión de sus recursos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 134. ¿Puede el Gobierno gastar por encima de los créditos autorizados en los PGE?",
+      "options": {
+        "a": "Como regla general no; puede haber créditos extraordinarios y suplementos de crédito aprobados mediante ley",
+        "b": "Sí, con autorización del Ministerio de Hacienda",
+        "c": "Sí, si el Presidente del Gobierno lo autoriza por decreto",
+        "d": "Solo en situaciones de catástrofe natural declarada"
+      },
+      "correct": "a",
+      "explicacion": "Art. 134.5 CE. 'Aprobados los Presupuestos Generales del Estado, el GOBIERNO PODRÁ PRESENTAR PROYECTOS DE LEY que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario.' Las ampliaciones del gasto deben aprobarse mediante ley; el Gobierno no puede gastar por encima de lo autorizado unilateralmente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 148. La 'agricultura y ganadería, pesca en aguas interiores, marisqueo y acuicultura' es una materia que pueden asumir las CCAA según el art. 148. ¿Y la pesca marítima?",
+      "options": {
+        "a": "También la pueden asumir las CCAA costeras",
+        "b": "Es competencia compartida al 50% entre el Estado y las CCAA",
+        "c": "Es competencia de la Unión Europea desde la adhesión española",
+        "d": "La pesca marítima (aguas exteriores) es competencia exclusiva del Estado (art. 149.1.19ª), aunque las CCAA pueden tener competencias en ordenación del sector"
+      },
+      "correct": "d",
+      "explicacion": "Arts. 148.1.11ª y 149.1.19ª CE. La pesca en AGUAS INTERIORES puede asumirse por las CCAA (art. 148.1.11ª). Pero la PESCA MARÍTIMA (en aguas exteriores) es COMPETENCIA EXCLUSIVA DEL ESTADO (art. 149.1.19ª), sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las CCAA.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo iniciar de oficio una investigación sin que haya queja previa?",
+      "options": {
+        "a": "Sí, el Defensor puede actuar DE OFICIO en aquellos casos en que tenga conocimiento de actuaciones o resoluciones que supongan vulneración de derechos",
+        "b": "No, solo puede actuar en respuesta a quejas ciudadanas",
+        "c": "Solo puede hacerlo si las Cortes lo autorizan expresamente",
+        "d": "Solo cuando hay un informe del Gobierno que lo justifique"
+      },
+      "correct": "a",
+      "explicacion": "Art. 9.1 LO 3/1981. El Defensor del Pueblo puede iniciar y proseguir DE OFICIO CUALQUIER INVESTIGACIÓN CONDUCENTE AL ESCLARECIMIENTO DE LOS ACTOS Y RESOLUCIONES DE LA ADMINISTRACIÓN PÚBLICA en relación con los ciudadanos. No necesita queja previa para actuar; puede actuar de oficio cuando tenga conocimiento de irregularidades.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Qué ocurre si un funcionario entorpece deliberadamente la investigación del Defensor?",
+      "options": {
+        "a": "El Defensor archiva la queja y comunica al ciudadano",
+        "b": "El Defensor puede suspender al funcionario temporalmente",
+        "c": "El Defensor acude directamente al CGPJ para que inicie diligencias",
+        "d": "El Defensor pone en conocimiento del MF los hechos para las acciones que procedan; puede además hacer constar en su informe la hostilidad con nombre del responsable"
+      },
+      "correct": "d",
+      "explicacion": "Arts. 18.2 y 32 LO 3/1981. Si hay hostilidad o entorpecimiento, el Defensor pondrá los hechos en conocimiento del MINISTERIO FISCAL para que este ejercite las acciones procedentes. Además, PUEDE HACER CONSTAR EN SU INFORME ANUAL EL NOMBRE DEL ORGANISMO Y LOS RESPONSABLES que hayan adoptado una conducta de obstrucción.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 1/1982, Honor e Intimidad. ¿Puede una persona jurídica (empresa, partido político, etc.) ser titular del derecho al honor y reclamar su protección?",
+      "options": {
+        "a": "No, el honor es un derecho exclusivo de las personas físicas",
+        "b": "Solo las personas jurídicas sin ánimo de lucro tienen derecho al honor",
+        "c": "Sí, el TC ha reconocido que las personas jurídicas también pueden ser titulares del derecho al honor en aquellos aspectos que les sean aplicables",
+        "d": "Solo las administraciones públicas tienen este reconocimiento"
+      },
+      "correct": "c",
+      "explicacion": "Art. 18 CE y LO 1/1982. EL TC HA RECONOCIDO QUE LAS PERSONAS JURÍDICAS TAMBIÉN PUEDEN SER TITULARES DEL DERECHO AL HONOR en aquellos aspectos que les sean aplicables (reputación, prestigio comercial, etc.). La LO 1/1982 protege civilmente el honor frente a intromisiones ilegítimas sin distinguir expresamente entre personas físicas y jurídicas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 20. Si un periódico publica una información que resulta falsa pero que el periodista contrastó diligentemente, ¿vulnera el art. 20 CE?",
+      "options": {
+        "a": "Sí, si la información es falsa siempre vulnera el art. 20",
+        "b": "Solo si el periodista actuó de buena fe, pero aun así vulnera el art. 20",
+        "c": "No, el requisito de 'veracidad' exige diligencia en la comprobación, no verdad objetiva; una información incorrecta pero diligentemente verificada está protegida por el art. 20",
+        "d": "Depende del medio de comunicación; los medios digitales tienen menor protección"
+      },
+      "correct": "c",
+      "explicacion": "Art. 20.1.d) CE. El TC ha interpretado que 'VERAZ' NO SIGNIFICA VERDAD OBJETIVA, sino que el informador haya actuado CON DILIGENCIA PARA CONTRASTAR LOS HECHOS. UNA INFORMACIÓN INCORRECTA PERO DILIGENTEMENTE VERIFICADA ESTÁ PROTEGIDA POR EL ART. 20: no vulnera el requisito de veracidad constitucional aunque sea factualmente errónea.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 53. ¿Puede el legislador restringir un derecho fundamental del art. 15-29 en mayor medida que los límites previstos en la CE?",
+      "options": {
+        "a": "No, el legislador está vinculado por el contenido constitucional del derecho; no puede restringirlo más allá de lo que la CE permite ni afectar al contenido esencial del derecho",
+        "b": "Sí, si la restricción responde a razones de interés general",
+        "c": "Sí, mediante ley orgánica aprobada por mayoría de dos tercios",
+        "d": "Solo el TC puede ampliar las restricciones sobre derechos fundamentales"
+      },
+      "correct": "a",
+      "explicacion": "Art. 53.1 CE. 'SOLO POR LEY, que en todo caso DEBERÁ RESPETAR SU CONTENIDO ESENCIAL, podrá regularse el ejercicio de los derechos y libertades.' El legislador puede regular y limitar los derechos fundamentales, pero NO PUEDE AFECTAR A SU CONTENIDO ESENCIAL. La CE fija el marco; el legislador no puede ir más allá.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_47_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española. ¿Cuántos años lleva en vigor la Constitución Española de 1978 en 2026?",
+      "options": {
+        "a": "45 años",
+        "b": "47 años",
+        "c": "48 años",
+        "d": "50 años"
+      },
+      "correct": "b",
+      "explicacion": "Constitución Española. La CE entró en vigor el 29 de diciembre de 1978. En 2026, lleva exactamente 47 AÑOS en vigor (2026 - 1978 = 48, pero como aún no ha llegado el 29 de diciembre de 2026, son 47 años completos). Es la Constitución española con mayor vigencia ininterrumpida de la historia, superando a la Constitución de 1876 (43 años).",
+      "ley": ""
+    }
+  ]
+}

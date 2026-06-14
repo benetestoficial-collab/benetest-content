@@ -1,0 +1,307 @@
+{
+  "tema_numero": 3,
+  "tema": "Prevención de riesgos laborales",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_03_test_05_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Quién designa a los Delegados de Prevención?",
+      "options": {
+        "a": "Los representantes de los trabajadores",
+        "b": "El empresario",
+        "c": "La Inspección de Trabajo",
+        "d": "La autoridad laboral"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Los Delegados de Prevención son designados por y entre los representantes de los trabajadores.",
+      "ley": "Ley 31/1995, art. 35"
+    },
+    {
+      "id": "tema_03_test_05_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de:",
+      "options": {
+        "a": "Prevención de riesgos laborales",
+        "b": "Negociación colectiva",
+        "c": "Contratación laboral",
+        "d": "Seguridad Social"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La Ley les atribuye funciones específicas en materia preventiva.",
+      "ley": "Ley 31/1995, art. 35"
+    },
+    {
+      "id": "tema_03_test_05_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto a los Delegados de Prevención.",
+      "options": {
+        "a": "Pueden acompañar a los inspectores",
+        "b": "Tienen acceso a información preventiva",
+        "c": "Pueden imponer sanciones disciplinarias",
+        "d": "Pueden efectuar propuestas preventivas"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). Los Delegados de Prevención carecen de potestad sancionadora.",
+      "ley": "Ley 31/1995, art. 36"
+    },
+    {
+      "id": "tema_03_test_05_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Entre las competencias de los Delegados de Prevención se encuentra:",
+      "options": {
+        "a": "Colaborar con la dirección en la mejora de la acción preventiva",
+        "b": "Imponer sanciones",
+        "c": "Autorizar despidos",
+        "d": "Aprobar convenios colectivos"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Deben colaborar con la dirección para mejorar la prevención.",
+      "ley": "Ley 31/1995, art. 36"
+    },
+    {
+      "id": "tema_03_test_05_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los Delegados de Prevención podrán ser consultados por el empresario acerca de:",
+      "options": {
+        "a": "Las decisiones que puedan tener efectos sustanciales sobre la seguridad y salud",
+        "b": "Los salarios individuales",
+        "c": "Las vacaciones exclusivamente",
+        "d": "Las cuentas anuales"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La consulta es obligatoria en las materias preventivas previstas por la Ley.",
+      "ley": "Ley 31/1995, art. 33"
+    },
+    {
+      "id": "tema_03_test_05_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. El Comité de Seguridad y Salud es un órgano:",
+      "options": {
+        "a": "Paritario y colegiado",
+        "b": "Judicial",
+        "c": "Exclusivamente empresarial",
+        "d": "Exclusivamente sindical"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Es un órgano de participación regular y periódica en materia preventiva.",
+      "ley": "Ley 31/1995, art. 38"
+    },
+    {
+      "id": "tema_03_test_05_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El Comité de Seguridad y Salud se constituirá en empresas o centros de trabajo que cuenten con:",
+      "options": {
+        "a": "50 o más trabajadores",
+        "b": "25 o más trabajadores",
+        "c": "100 o más trabajadores",
+        "d": "250 o más trabajadores"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La Ley fija el umbral de 50 trabajadores.",
+      "ley": "Ley 31/1995, art. 38"
+    },
+    {
+      "id": "tema_03_test_05_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre el Comité de Seguridad y Salud.",
+      "options": {
+        "a": "Participa en la elaboración de planes preventivos",
+        "b": "Promueve iniciativas preventivas",
+        "c": "Sustituye al empresario en sus obligaciones legales",
+        "d": "Conoce la programación anual de los servicios de prevención"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El empresario mantiene sus obligaciones preventivas.",
+      "ley": "Ley 31/1995, art. 39"
+    },
+    {
+      "id": "tema_03_test_05_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El Comité de Seguridad y Salud se reunirá como mínimo:",
+      "options": {
+        "a": "Trimestralmente",
+        "b": "Mensualmente",
+        "c": "Semestralmente",
+        "d": "Anualmente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La reunión mínima prevista es trimestral.",
+      "ley": "Ley 31/1995, art. 38"
+    },
+    {
+      "id": "tema_03_test_05_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La documentación preventiva deberá incluir:",
+      "options": {
+        "a": "La evaluación de riesgos",
+        "b": "La planificación preventiva",
+        "c": "La relación de accidentes",
+        "d": "Todas son correctas"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). Toda esta documentación debe conservarse y estar disponible.",
+      "ley": "Ley 31/1995, art. 23"
+    },
+    {
+      "id": "tema_03_test_05_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En caso de concurrencia de trabajadores de varias empresas en un mismo centro de trabajo:",
+      "options": {
+        "a": "Deberá existir coordinación de actividades empresariales",
+        "b": "No existe obligación específica",
+        "c": "Solo coordina la empresa principal",
+        "d": "Coordina únicamente la autoridad laboral"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La Ley establece mecanismos de coordinación preventiva.",
+      "ley": "Ley 31/1995, art. 24"
+    },
+    {
+      "id": "tema_03_test_05_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La coordinación de actividades empresariales comprende el intercambio de:",
+      "options": {
+        "a": "Información sobre riesgos",
+        "b": "Medidas preventivas",
+        "c": "Medidas de emergencia",
+        "d": "Todas son correctas"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). Toda la información preventiva relevante debe compartirse.",
+      "ley": "Ley 31/1995, art. 24"
+    },
+    {
+      "id": "tema_03_test_05_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto a los trabajadores temporales.",
+      "options": {
+        "a": "Deben disfrutar del mismo nivel de protección",
+        "b": "Deben recibir formación adecuada",
+        "c": "Pueden quedar excluidos de medidas preventivas por temporalidad",
+        "d": "Deben ser informados de los riesgos"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). La temporalidad no justifica una protección inferior.",
+      "ley": "Ley 31/1995, art. 28"
+    },
+    {
+      "id": "tema_03_test_05_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Los trabajadores temporales tendrán derecho a:",
+      "options": {
+        "a": "El mismo nivel de protección que los demás trabajadores",
+        "b": "Menor protección preventiva",
+        "c": "Protección solo si lo prevé el convenio",
+        "d": "Protección exclusivamente sanitaria"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La Ley garantiza igualdad de protección.",
+      "ley": "Ley 31/1995, art. 28"
+    },
+    {
+      "id": "tema_03_test_05_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El empresario deberá garantizar que cada trabajador reciba información sobre:",
+      "options": {
+        "a": "Los riesgos específicos de su puesto",
+        "b": "Únicamente los riesgos generales",
+        "c": "Solo las sanciones",
+        "d": "Exclusivamente los accidentes anteriores"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La información debe adaptarse al puesto desempeñado.",
+      "ley": "Ley 31/1995, arts. 18 y 28"
+    },
+    {
+      "id": "tema_03_test_05_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre la documentación preventiva.",
+      "options": {
+        "a": "Debe estar a disposición de la autoridad laboral",
+        "b": "Incluye controles de salud",
+        "c": "Incluye la evaluación de riesgos",
+        "d": "Puede destruirse libremente tras una inspección"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La documentación debe conservarse conforme a la normativa.",
+      "ley": "Ley 31/1995, art. 23"
+    },
+    {
+      "id": "tema_03_test_05_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los representantes de los trabajadores podrán acceder a:",
+      "options": {
+        "a": "Información y documentación preventiva",
+        "b": "Historias clínicas completas de otros trabajadores",
+        "c": "Información tributaria personal",
+        "d": "Datos bancarios de la empresa"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Tienen acceso a la información preventiva con las limitaciones legales.",
+      "ley": "Ley 31/1995, art. 36"
+    },
+    {
+      "id": "tema_03_test_05_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Entre las facultades de los Delegados de Prevención se encuentra:",
+      "options": {
+        "a": "Acompañar a los técnicos en evaluaciones preventivas",
+        "b": "Aprobar presupuestos",
+        "c": "Imponer sanciones",
+        "d": "Modificar contratos"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Pueden acompañar a técnicos e inspectores en actuaciones preventivas.",
+      "ley": "Ley 31/1995, art. 36"
+    },
+    {
+      "id": "tema_03_test_05_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Las propuestas formuladas por los Delegados de Prevención deberán dirigirse a:",
+      "options": {
+        "a": "Mejorar los niveles de protección",
+        "b": "Reducir salarios",
+        "c": "Modificar la fiscalidad",
+        "d": "Cambiar convenios colectivos"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Su finalidad es mejorar la prevención y la protección de los trabajadores.",
+      "ley": "Ley 31/1995, art. 36"
+    },
+    {
+      "id": "tema_03_test_05_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción CORRECTA.",
+      "options": {
+        "a": "Los Delegados de Prevención pueden acompañar a la Inspección de Trabajo",
+        "b": "Los Delegados de Prevención pueden imponer sanciones",
+        "c": "El Comité de Seguridad y Salud sustituye al empresario",
+        "d": "La documentación preventiva es opcional"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Los Delegados de Prevención tienen derecho a acompañar a la Inspección de Trabajo en visitas y verificaciones.",
+      "ley": "Ley 31/1995, art. 36"
+    }
+  ]
+}

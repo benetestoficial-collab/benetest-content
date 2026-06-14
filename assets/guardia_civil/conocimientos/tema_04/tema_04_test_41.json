@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 41,
+  "preguntas": [
+    {
+      "id": "tema_04_test_41_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 2. ¿Cuál de los tres principios que recoge el artículo 2 CE actúa como elemento integrador frente a las tendencias centrífugas del sistema autonómico?",
+      "options": {
+        "a": "El principio de autonomía",
+        "b": "El principio de solidaridad",
+        "c": "El principio de unidad",
+        "d": "El principio de igualdad"
+      },
+      "correct": "c",
+      "explicacion": "Art. 2 CE. El artículo 2 recoge tres principios: unidad, autonomía y solidaridad. EL PRINCIPIO DE UNIDAD actúa como elemento integrador frente a las tendencias centrífugas: el TC afirma que 'en ningún caso el principio de autonomía puede oponerse al de UNIDAD, sino que es precisamente dentro de éste donde alcanza su verdadero sentido'.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 6. Según la Constitución, ¿pueden existir partidos políticos de ámbito exclusivamente autonómico?",
+      "options": {
+        "a": "No, los partidos deben tener implantación en al menos la mitad del territorio nacional",
+        "b": "Solo si así lo permite el Estatuto de Autonomía correspondiente",
+        "c": "Sí, la Constitución no impone ninguna restricción territorial para la creación de partidos",
+        "d": "Solo si obtienen representación parlamentaria en las Cortes Generales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 6 CE. La Constitución solo exige que los partidos se creen conforme a la Constitución y actúen dentro del respeto a ella y a la ley. NO IMPONE RESTRICCIONES TERRITORIALES: pueden existir partidos de ámbito exclusivamente autonómico, municipal o nacional. La Ley Orgánica de Partidos Políticos tampoco exige implantación nacional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 10. Los derechos fundamentales reconocidos en la Constitución, ¿constituyen un numerus clausus (lista cerrada)?",
+      "options": {
+        "a": "Sí, solo los enumerados en el Título I son derechos fundamentales",
+        "b": "Son numerus clausus salvo lo que establezcan los tratados internacionales",
+        "c": "No, el artículo 10.1 reconoce la existencia de derechos inviolables inherentes a la persona que pueden no estar expresamente recogidos en el texto constitucional",
+        "d": "Son numerus clausus pero el TC puede ampliarlos por jurisprudencia"
+      },
+      "correct": "c",
+      "explicacion": "Art. 10.1 CE. El artículo 10.1 reconoce 'los derechos inviolables que le son inherentes' a la persona como fundamento del orden político. Esto implica que los derechos fundamentales NO FORMAN UN NUMERUS CLAUSUS: pueden existir derechos inherentes a la dignidad humana no expresamente recogidos en el texto constitucional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 15. ¿Puede el legislador establecer la pena de cadena perpetua?",
+      "options": {
+        "a": "No, vulneraría el artículo 15 CE por ser pena inhumana",
+        "b": "Sí, siempre que se prevean mecanismos de revisión periódica, pues el artículo 25.2 exige orientación a la reinserción",
+        "c": "No, porque el artículo 17 garantiza el derecho a la libertad sin excepciones",
+        "d": "Solo en casos de terrorismo con previa ley orgánica"
+      },
+      "correct": "b",
+      "explicacion": "Arts. 15 y 25.2 CE. El TC y el TEDH han admitido la cadena perpetua revisable como compatible con la Constitución SIEMPRE QUE HAYA MECANISMOS DE REVISIÓN PERIÓDICA, pues el art. 25.2 orienta las penas hacia la reinserción. La LO 1/2015 introdujo la 'prisión permanente revisable' en España con ese mecanismo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 16. ¿Puede el Estado financiar directamente a las confesiones religiosas?",
+      "options": {
+        "a": "No, la aconfesionalidad prohíbe toda financiación religiosa pública",
+        "b": "Solo puede financiar a la Iglesia Católica por razones históricas",
+        "c": "Sí, el artículo 16.3 prevé relaciones de cooperación con las confesiones; la financiación puede ser una forma de cooperación",
+        "d": "Solo mediante donaciones voluntarias de los ciudadanos, nunca directamente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 16.3 CE. El Estado puede mantener RELACIONES DE COOPERACIÓN CON LA IGLESIA CATÓLICA Y LAS DEMÁS CONFESIONES, lo que incluye diversas formas de cooperación económica. El sistema actual (IRPF, asignación tributaria) es una forma de financiación indirecta derivada de estos acuerdos de cooperación.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 17. ¿Puede la Policía detener preventivamente a alguien sin indicios de delito?",
+      "options": {
+        "a": "Sí, en situaciones de orden público puede realizarse detención preventiva sin indicios",
+        "b": "No, la detención solo procede cuando haya necesidad de hacerlo; la CE prohíbe la privación de libertad arbitraria",
+        "c": "Sí, durante 24 horas por razones de seguridad pública",
+        "d": "Solo durante estados de excepción o sitio"
+      },
+      "correct": "b",
+      "explicacion": "Art. 17.1 CE. 'Nadie puede ser privado de su libertad, sino con LA OBSERVANCIA DE LO ESTABLECIDO EN ESTE ARTÍCULO Y EN LOS CASOS Y EN LA FORMA PREVISTOS EN LA LEY'. La detención sin indicios de delito sería una privación arbitraria de libertad, contraria al artículo 17 CE y al derecho fundamental a la libertad personal.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 18. El derecho a la intimidad, ¿protege también la intimidad económica y patrimonial?",
+      "options": {
+        "a": "El TC ha reconocido que la intimidad tiene una dimensión económica: ciertos datos económicos pertenecen a la esfera íntima de la persona",
+        "b": "No, solo protege la esfera personal y familiar",
+        "c": "Solo la intimidad laboral tiene protección constitucional expresa",
+        "d": "La intimidad económica solo la protege la LO 1/1982, no la CE"
+      },
+      "correct": "a",
+      "explicacion": "Art. 18 CE. EL TC HA RECONOCIDO que el derecho a la intimidad tiene también una DIMENSIÓN ECONÓMICA: ciertos datos económicos y patrimoniales 'pertenecen al ámbito de la vida privada' de las personas. Esto limita el acceso de terceros, incluida la Administración tributaria, a información económica personal sin habilitación legal.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 19. El derecho a residir en cualquier lugar del territorio nacional, ¿puede un Ayuntamiento limitar el empadronamiento de personas sin hogar?",
+      "options": {
+        "a": "Sí, el Ayuntamiento puede establecer requisitos de residencia efectiva",
+        "b": "No, el derecho a elegir libremente la residencia es un derecho fundamental; negar el empadronamiento vulneraría este derecho y otros derechos vinculados",
+        "c": "Solo puede limitarlo si así lo autoriza la CCAA",
+        "d": "Puede limitarlo por razones de capacidad de servicios municipales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 19 CE. El DERECHO A ELEGIR LIBREMENTE LA RESIDENCIA no puede ser limitado por los Ayuntamientos. El TC ha señalado que negar el empadronamiento a personas sin domicilio fijo vulneraría este derecho y privaría a estas personas del acceso a servicios esenciales vinculados al padrón municipal.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 20. La libertad de información requiere veracidad. ¿Qué significa exactamente el requisito de 'veracidad'?",
+      "options": {
+        "a": "Que la información debe ser objetivamente verdadera y verificada",
+        "b": "Que el informador haya actuado con diligencia para contrastar los hechos, aunque finalmente resulten erróneos",
+        "c": "Que la información no contenga ningún error de hecho",
+        "d": "Que la información sea confirmada por fuentes oficiales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 20.1.d) CE. El TC ha interpretado que 'veraz' no significa verdad objetiva absoluta, sino QUE EL INFORMADOR HAYA ACTUADO CON DILIGENCIA PARA CONTRASTAR LOS HECHOS (diligencia informativa). Una información errada pero diligentemente contrastada sigue siendo 'veraz' en sentido constitucional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 21. ¿Deben las reuniones al aire libre comunicarse siempre a la autoridad?",
+      "options": {
+        "a": "Solo las reuniones en lugares de tránsito público y las manifestaciones requieren comunicación previa; las reuniones en lugares cerrados no",
+        "b": "Todas las reuniones, incluidas las privadas, deben comunicarse",
+        "c": "Solo si hay más de 20 personas",
+        "d": "Solo si tienen carácter político o sindical"
+      },
+      "correct": "a",
+      "explicacion": "Art. 21 CE. El derecho de reunión no necesita autorización previa. SOLO EN EL CASO DE REUNIONES EN LUGARES DE TRÁNSITO PÚBLICO Y MANIFESTACIONES se dará comunicación previa a la autoridad, que solo podrá prohibirlas cuando existan razones fundadas de alteración del orden público con peligro para personas o bienes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 23. El derecho de acceso a cargos públicos, ¿protege también el ejercicio del cargo una vez obtenido?",
+      "options": {
+        "a": "Sí, el TC ha extendido la protección del art. 23.2 al ejercicio del cargo: los representantes no pueden ser privados de sus funciones sin causa legítima",
+        "b": "No, solo protege el acceso; una vez en el cargo, rigen otras normas",
+        "c": "Solo protege el acceso por sufragio, no los cargos por designación",
+        "d": "Solo protege a los representantes electos, no a los cargos de libre designación"
+      },
+      "correct": "a",
+      "explicacion": "Art. 23.2 CE. EL TC HA EXTENDIDO LA PROTECCIÓN DEL ART. 23.2 AL EJERCICIO DEL CARGO: 'el derecho de acceso en condiciones de igualdad a las funciones y cargos públicos comprende también el derecho a permanecer en ellos y a ejercerlos sin perturbaciones ilegítimas'. El ius in officium está protegido constitucionalmente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 24. ¿Puede el legislador excluir el acceso a la jurisdicción para determinadas materias?",
+      "options": {
+        "a": "No, el derecho a la tutela judicial efectiva implica que toda controversia jurídica debe poder plantearse ante un órgano judicial",
+        "b": "Sí, libremente en cualquier materia",
+        "c": "Solo puede excluirlo para materias de seguridad nacional",
+        "d": "Solo puede excluirlo mediante ley orgánica"
+      },
+      "correct": "a",
+      "explicacion": "Art. 24 CE. EL DERECHO A LA TUTELA JUDICIAL EFECTIVA IMPLICA QUE TODA CONTROVERSIA JURÍDICA DEBE PODER PLANTEARSE ANTE UN ÓRGANO JUDICIAL. El legislador no puede excluir materias del control judicial: la prohibición de indefensión y el derecho al juez son exigencias constitucionales absolutas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 26. ¿Qué son los Tribunales de Honor?",
+      "options": {
+        "a": "Órganos no judiciales dentro de corporaciones (colegios profesionales, FFAA, etc.) que imponían sanciones graves por conductas contrarias al honor profesional",
+        "b": "Tribunales especiales que juzgan delitos contra el honor de funcionarios públicos",
+        "c": "Secciones especiales del Tribunal Supremo para cuestiones de honor",
+        "d": "Comisiones parlamentarias de investigación sobre conductas deshonrosas"
+      },
+      "correct": "a",
+      "explicacion": "Art. 26 CE. Los TRIBUNALES DE HONOR eran ÓRGANOS NO JUDICIALES dentro de corporaciones (colegios profesionales, FFAA, etc.) que imponían sanciones graves (expulsión, inhabilitación) por conductas contrarias al honor profesional. La CE los prohíbe en el ámbito civil y de organizaciones profesionales por ser incompatibles con las garantías del art. 24.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 27. ¿Puede el Estado imponer una religión concreta en la enseñanza pública?",
+      "options": {
+        "a": "Sí, dado que la Iglesia Católica tiene especial reconocimiento en el art. 16.3",
+        "b": "Solo la formación religiosa de la Iglesia Católica puede ser obligatoria en centros concertados",
+        "c": "No, el artículo 27.3 reconoce el derecho de los padres a que sus hijos reciban formación religiosa acorde a sus convicciones, pero no impone ninguna religión",
+        "d": "Sí, si así lo decide el Parlamento por mayoría de dos tercios"
+      },
+      "correct": "c",
+      "explicacion": "Art. 27.3 CE. Los poderes públicos GARANTIZAN EL DERECHO QUE ASISTE A LOS PADRES PARA QUE SUS HIJOS RECIBAN LA FORMACIÓN RELIGIOSA Y MORAL QUE ESTÉ DE ACUERDO CON SUS PROPIAS CONVICCIONES. Esto es un derecho de los padres a elegir; el Estado no puede imponer una religión concreta en la enseñanza.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 28. ¿Puede la huelga declararse en servicios ajenos al conflicto laboral para apoyar a otros trabajadores (huelga de solidaridad)?",
+      "options": {
+        "a": "No, la CE solo protege la huelga directamente vinculada al conflicto laboral propio",
+        "b": "Solo si lo prevé expresamente el convenio colectivo aplicable",
+        "c": "Solo si la declaran sindicatos con representación en la empresa en conflicto",
+        "d": "Sí, el derecho de huelga del art. 28.2 no limita la causa de la huelga; la huelga de solidaridad es constitucionalmente admisible"
+      },
+      "correct": "d",
+      "explicacion": "Art. 28.2 CE. El TC ha reconocido que la HUELGA DE SOLIDARIDAD (por trabajadores ajenos al conflicto que apoyan a otros) ES CONSTITUCIONALMENTE ADMISIBLE, pues el art. 28.2 no limita la causa de la huelga. El único límite es el respeto a los servicios esenciales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 29. El derecho de petición, ¿puede ejercerse ante empresas privadas?",
+      "options": {
+        "a": "Sí, puede ejercerse ante cualquier persona o entidad",
+        "b": "Solo ante organismos públicos, no ante empresas privadas prestadoras de servicios públicos",
+        "c": "Solo ante las Cámaras legislativas",
+        "d": "No, el artículo 29 CE regula el derecho de petición solo ante los poderes públicos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 29 CE. El DERECHO DE PETICIÓN se ejerce ante los PODERES PÚBLICOS. No es un derecho que obligue a las empresas privadas a responder. La Ley Orgánica 4/2001 regula el derecho de petición ante las Administraciones Públicas, organismos públicos y autoridades públicas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 14. El principio de igualdad prohíbe discriminaciones por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición. ¿Admite la Constitución medidas de acción positiva?",
+      "options": {
+        "a": "No, cualquier diferenciación basada en esas características es inconstitucional",
+        "b": "Solo si las aprueba el TC caso por caso",
+        "c": "Solo en materia laboral y para el colectivo femenino",
+        "d": "Sí, el TC ha admitido medidas de acción positiva (discriminación positiva) para corregir situaciones de desigualdad real, que son distintas a la discriminación prohibida"
+      },
+      "correct": "d",
+      "explicacion": "Art. 14 CE. EL TC HA ADMITIDO LAS MEDIDAS DE ACCIÓN POSITIVA (discriminación positiva) para corregir situaciones de desigualdad real. No toda distinción de trato vulnera el art. 14: solo la arbitraria o injustificada. Las medidas que buscan una igualdad real y efectiva (art. 9.2 CE) pueden justificar diferencias de trato.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 15. ¿Está la eutanasia activa prohibida por el artículo 15 CE?",
+      "options": {
+        "a": "Sí, el derecho a la vida del artículo 15 CE impide cualquier forma de eutanasia",
+        "b": "El TC ha señalado que el art. 15 no contiene un deber de vivir y que el legislador tiene margen para regularla; la Ley Orgánica 3/2021 la reguló sin que el TC la haya declarado inconstitucional en su conjunto",
+        "c": "Solo la eutanasia pasiva está permitida; la activa siempre es inconstitucional",
+        "d": "La Constitución la prohíbe expresamente en el artículo 15.2"
+      },
+      "correct": "b",
+      "explicacion": "Art. 15 CE. EL TC HA SEÑALADO QUE EL ART. 15 NO CONTIENE UN DEBER DE VIVIR. La LO 3/2021, de 24 de marzo, reguló la eutanasia activa en España. Aunque fue recurrida, el TC admitió que el legislador tiene margen para regular estos supuestos dentro del marco constitucional, reconociendo la autonomía personal y dignidad del paciente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 16. ¿Está protegida la libertad de conciencia del objetor de conciencia a participar en actos contrarios a sus creencias religiosas?",
+      "options": {
+        "a": "Solo si sus creencias están reconocidas por el Estado",
+        "b": "Solo la objeción de conciencia al servicio militar (art. 30 CE)",
+        "c": "Solo en materia laboral con causa justificada",
+        "d": "Sí, la libertad ideológica y religiosa del art. 16 ampara la objeción de conciencia como manifestación del derecho a actuar conforme a las propias convicciones"
+      },
+      "correct": "d",
+      "explicacion": "Art. 16 CE. EL TC HA RECONOCIDO que la LIBERTAD IDEOLÓGICA Y RELIGIOSA ampara la OBJECIÓN DE CONCIENCIA como manifestación del derecho a actuar conforme a las propias convicciones. No se limita al servicio militar (art. 30); el art. 16 protege la objeción de conciencia como expresión genuina de la libertad ideológica y religiosa.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_41_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 9. El principio de interdicción de la arbitrariedad de los poderes públicos, ¿aplica también al legislador?",
+      "options": {
+        "a": "No, solo aplica a la Administración Pública y al Poder Judicial",
+        "b": "Solo aplica a los actos administrativos de carácter reglamentario",
+        "c": "Solo aplica cuando afecta a derechos fundamentales",
+        "d": "Sí, el legislador también está vinculado por este principio; una ley arbitraria puede ser declarada inconstitucional"
+      },
+      "correct": "d",
+      "explicacion": "Art. 9.3 CE. EL TC HA APLICADO EL PRINCIPIO DE INTERDICCIÓN DE LA ARBITRARIEDAD TAMBIÉN AL LEGISLADOR: 'el legislador no puede establecer diferenciaciones o discriminaciones sin justificación objetiva y razonable'. Una ley que establezca diferencias arbitrarias puede ser declarada inconstitucional por vulnerar el art. 9.3 CE.",
+      "ley": ""
+    }
+  ]
+}

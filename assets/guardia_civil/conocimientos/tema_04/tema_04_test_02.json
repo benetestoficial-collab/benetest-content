@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 2,
+  "preguntas": [
+    {
+      "id": "tema_04_test_02_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 10. Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con:",
+      "options": {
+        "a": "La jurisprudencia del Tribunal Constitucional y los tratados internacionales",
+        "b": "El Convenio Europeo de Derechos Humanos exclusivamente",
+        "c": "La Declaración Universal de Derechos Humanos y los tratados internacionales ratificados por España",
+        "d": "Los principios generales del Derecho y la costumbre internacional"
+      },
+      "correct": "c",
+      "explicacion": "Art. 10.2 CE. Las normas relativas a los derechos fundamentales se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 11. En relación con la nacionalidad española, señale la INCORRECTA:",
+      "options": {
+        "a": "La nacionalidad española se adquiere, conserva y pierde de acuerdo con lo establecido por la ley",
+        "b": "El Estado podrá concertar tratados de doble nacionalidad únicamente con países que reconozcan reciprocidad",
+        "c": "Ningún español de origen podrá ser privado de su nacionalidad",
+        "d": "El Estado podrá concertar tratados de doble nacionalidad con países iberoamericanos"
+      },
+      "correct": "b",
+      "explicacion": "Art. 11.3 CE. En los países iberoamericanos o de especial vinculación con España, aun cuando NO reconozcan a sus ciudadanos un derecho recíproco, podrán naturalizarse los españoles sin perder su nacionalidad de origen. La reciprocidad no es requisito.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 12. Los españoles son mayores de edad a los:",
+      "options": {
+        "a": "Dieciocho años",
+        "b": "Dieciséis años",
+        "c": "Diecisiete años",
+        "d": "Veintiún años"
+      },
+      "correct": "a",
+      "explicacion": "Art. 12 CE. Los españoles son mayores de edad a los dieciocho años. Este mismo umbral se aplica para la mayoría de edad del Rey según la Constitución actual, a diferencia de constituciones históricas que establecían 14 o 16 años.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 13. En relación con la extradición, señale la CORRECTA:",
+      "options": {
+        "a": "Quedan excluidos de la extradición los delitos políticos, incluidos los actos de terrorismo",
+        "b": "Los delitos políticos y los actos de terrorismo quedan excluidos de la extradición",
+        "c": "La extradición solo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad",
+        "d": "La extradición puede concederse discrecionalmente por el Gobierno sin necesidad de tratado"
+      },
+      "correct": "c",
+      "explicacion": "Art. 13.3 CE. La extradición solo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. Quedan excluidos los delitos políticos, pero los actos de terrorismo NO se consideran delitos políticos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 15. En relación con el derecho a la vida, señale la INCORRECTA:",
+      "options": {
+        "a": "Todos tienen derecho a la vida y a la integridad física y moral",
+        "b": "Nadie puede ser sometido a tortura ni a penas o tratos inhumanos o degradantes",
+        "c": "Queda abolida la pena de muerte de forma absoluta, sin excepciones",
+        "d": "Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra"
+      },
+      "correct": "c",
+      "explicacion": "Art. 15 CE. La pena de muerte queda abolida, SALVO lo que puedan disponer las leyes penales militares para tiempos de guerra. No es una abolición absoluta, pues existe esa excepción en el ámbito militar durante guerra.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 17. La detención preventiva no podrá durar más de:",
+      "options": {
+        "a": "Cuarenta y ocho horas",
+        "b": "Noventa y seis horas",
+        "c": "Veinticuatro horas",
+        "d": "Setenta y dos horas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 17.2 CE. La detención preventiva no podrá durar más del tiempo estrictamente necesario, y en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 17. En relación con el procedimiento de «habeas corpus», señale la CORRECTA:",
+      "options": {
+        "a": "Produce la inmediata puesta a disposición judicial de toda persona detenida ilegalmente",
+        "b": "Lo regula directamente el artículo 17 de la Constitución en todos sus términos",
+        "c": "Lo activa el Ministerio Fiscal de oficio sin necesidad de solicitud del detenido",
+        "d": "Solo puede invocarse durante las primeras veinticuatro horas de detención"
+      },
+      "correct": "a",
+      "explicacion": "Art. 17.4 CE. La ley regulará un procedimiento de habeas corpus para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. La Constitución encomienda a la ley su regulación, no lo desarrolla ella misma.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 18. En relación con la inviolabilidad del domicilio, señale la INCORRECTA:",
+      "options": {
+        "a": "El domicilio es inviolable",
+        "b": "Ninguna entrada o registro podrá hacerse sin consentimiento del titular o resolución judicial",
+        "c": "Cabe la entrada sin consentimiento ni resolución judicial cuando lo ordene la autoridad gubernativa",
+        "d": "Cabe la entrada sin consentimiento ni resolución judicial en caso de flagrante delito"
+      },
+      "correct": "c",
+      "explicacion": "Art. 18.2 CE. El domicilio es inviolable. Solo caben excepciones con consentimiento del titular, resolución judicial, o en caso de flagrante delito. La autoridad gubernativa por sí sola NO puede ordenar una entrada y registro sin esas circunstancias.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 19. El derecho a la libertad de residencia y circulación de los españoles:",
+      "options": {
+        "a": "No podrá ser limitado por ningún motivo",
+        "b": "No podrá ser limitado por motivos políticos o ideológicos",
+        "c": "Podrá ser limitado por motivos de seguridad nacional mediante decreto",
+        "d": "Solo aplica dentro del territorio nacional, no al derecho de salida de España"
+      },
+      "correct": "b",
+      "explicacion": "Art. 19 CE. Los españoles tienen derecho a elegir libremente su residencia, circular por el territorio nacional y entrar y salir de España. Este derecho no podrá ser limitado por motivos políticos o ideológicos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 20. En relación con el secuestro de publicaciones, grabaciones y otros medios de información, señale la CORRECTA:",
+      "options": {
+        "a": "Solo podrá acordarse en virtud de resolución gubernativa",
+        "b": "Podrá acordarse por el Ministerio Fiscal en casos urgentes",
+        "c": "Está prohibido en todo caso al tratarse de censura previa",
+        "d": "Solo podrá acordarse en virtud de resolución judicial"
+      },
+      "correct": "d",
+      "explicacion": "Art. 20.5 CE. Solo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial. No cabe el secuestro por resolución gubernativa, pues supondría censura.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 21. En relación con el derecho de reunión, señale la INCORRECTA:",
+      "options": {
+        "a": "La autoridad podrá prohibir cualquier manifestación por razones de oportunidad política",
+        "b": "Se reconoce el derecho de reunión pacífica y sin armas",
+        "c": "El ejercicio de este derecho no necesitará autorización previa",
+        "d": "Las reuniones en lugares de tránsito público requieren comunicación previa a la autoridad"
+      },
+      "correct": "a",
+      "explicacion": "Art. 21.2 CE. La autoridad solo podrá prohibir reuniones en lugares de tránsito público o manifestaciones cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes. No cabe prohibición por mera oportunidad política.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 22. En relación con el derecho de asociación, señale la CORRECTA:",
+      "options": {
+        "a": "Las asociaciones solo podrán ser disueltas o suspendidas en virtud de resolución judicial motivada",
+        "b": "Las asociaciones podrán ser disueltas por resolución gubernativa motivada",
+        "c": "Se prohíben las asociaciones secretas, pero se permiten las de carácter paramilitar",
+        "d": "Las asociaciones no necesitan inscribirse en ningún registro"
+      },
+      "correct": "a",
+      "explicacion": "Art. 22.4 CE. Las asociaciones solo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada. El art. 22.5 prohíbe tanto las asociaciones secretas como las de carácter paramilitar.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 23. El derecho a participar en los asuntos públicos directamente o por medio de representantes se recoge en:",
+      "options": {
+        "a": "El artículo 23 de la Constitución",
+        "b": "El artículo 14 de la Constitución",
+        "c": "El artículo 19 de la Constitución",
+        "d": "El artículo 29 de la Constitución"
+      },
+      "correct": "a",
+      "explicacion": "Art. 23 CE. El derecho de participación, tanto directamente como por medio de representantes elegidos en elecciones periódicas por sufragio universal, se recoge en el artículo 23. Es el único derecho del que solo son titulares los españoles (art. 13.2).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 25. En relación con el principio de legalidad penal, señale la INCORRECTA:",
+      "options": {
+        "a": "Nadie puede ser condenado por acciones que no constituyan delito en el momento de producirse",
+        "b": "La Administración civil puede imponer sanciones que impliquen privación de libertad si existe ley que lo autorice",
+        "c": "Las penas privativas de libertad estarán orientadas hacia la reeducación y reinserción social",
+        "d": "El condenado a pena de prisión tendrá derecho a un trabajo remunerado y a los beneficios de la Seguridad Social"
+      },
+      "correct": "b",
+      "explicacion": "Art. 25.3 CE. La Administración civil NO podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad. Esta prohibición es absoluta, sin excepción por ley.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 27. En relación con el derecho a la educación, señale la CORRECTA:",
+      "options": {
+        "a": "La enseñanza básica es obligatoria, pero no gratuita",
+        "b": "La enseñanza básica es gratuita, pero no obligatoria",
+        "c": "La enseñanza básica es voluntaria y gratuita",
+        "d": "La enseñanza básica es obligatoria y gratuita"
+      },
+      "correct": "d",
+      "explicacion": "Art. 27.4 CE. La enseñanza básica es obligatoria y gratuita. Además, el art. 27.10 reconoce la autonomía de las Universidades en los términos que la ley establezca.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 28. En relación con el derecho de sindicación, señale la CORRECTA:",
+      "options": {
+        "a": "Las Fuerzas o Institutos armados tienen garantizado el derecho de sindicación sin restricciones",
+        "b": "Nadie podrá ser obligado a afiliarse a un sindicato",
+        "c": "La huelga de funcionarios públicos está prohibida por la Constitución",
+        "d": "El derecho a la huelga solo corresponde a los trabajadores del sector privado"
+      },
+      "correct": "b",
+      "explicacion": "Art. 28.1 CE. Nadie podrá ser obligado a afiliarse a un sindicato. La ley podrá limitar o exceptuar el derecho de sindicación a las Fuerzas o Institutos armados. El derecho a la huelga corresponde a los trabajadores para la defensa de sus intereses (art. 28.2).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 29. En relación con el derecho de petición, señale la INCORRECTA:",
+      "options": {
+        "a": "Todos los españoles tienen el derecho de petición individual y colectiva, por escrito",
+        "b": "Los miembros de las Fuerzas Armadas podrán ejercer este derecho solo individualmente",
+        "c": "Los miembros de las Fuerzas Armadas pueden ejercer el derecho de petición de forma colectiva",
+        "d": "El ejercicio del derecho de petición en las Fuerzas Armadas se realiza con arreglo a su legislación específica"
+      },
+      "correct": "c",
+      "explicacion": "Art. 29.2 CE. Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho SOLO individualmente y con arreglo a lo dispuesto en su legislación específica. No cabe la petición colectiva.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 16. En relación con la libertad ideológica, religiosa y de culto, señale la INCORRECTA:",
+      "options": {
+        "a": "Se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades",
+        "b": "La limitación de sus manifestaciones se produce cuando sea necesario para el mantenimiento del orden público",
+        "c": "Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias",
+        "d": "El Estado español tiene como confesión oficial la Iglesia Católica"
+      },
+      "correct": "d",
+      "explicacion": "Art. 16.3 CE. Ninguna confesión tendrá carácter estatal. España es un Estado aconfesional. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad y mantendrán relaciones de cooperación con la Iglesia Católica y las demás confesiones.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 24. En relación con la tutela judicial efectiva, señale la CORRECTA:",
+      "options": {
+        "a": "Solo las personas físicas tienen derecho a obtener tutela efectiva de jueces y tribunales",
+        "b": "Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales sin que pueda producirse indefensión",
+        "c": "El derecho al Juez ordinario predeterminado solo aplica en el orden penal",
+        "d": "La presunción de inocencia no está recogida en el artículo 24 de la Constitución"
+      },
+      "correct": "b",
+      "explicacion": "Art. 24.1 CE. Todas las personas (físicas y jurídicas, nacionales y extranjeras) tienen derecho a obtener la tutela efectiva de los jueces y tribunales, sin que en ningún caso pueda producirse indefensión. La presunción de inocencia sí está recogida en el art. 24.2.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_02_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 26. Los Tribunales de Honor están prohibidos en el ámbito de:",
+      "options": {
+        "a": "La Administración civil únicamente",
+        "b": "Las organizaciones profesionales únicamente",
+        "c": "Todas las instituciones públicas y privadas sin excepción",
+        "d": "La Administración civil y de las organizaciones profesionales"
+      },
+      "correct": "d",
+      "explicacion": "Art. 26 CE. Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales. Este artículo es breve pero preciso en su delimitación.",
+      "ley": ""
+    }
+  ]
+}

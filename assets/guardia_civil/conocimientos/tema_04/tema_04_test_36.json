@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 36,
+  "preguntas": [
+    {
+      "id": "tema_04_test_36_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. La elección del Defensor requiere 3/5 del Congreso y posteriormente 3/5 del Senado. ¿En qué plazo debe el Senado ratificar la designación del Congreso?",
+      "options": {
+        "a": "En el plazo máximo de diez días",
+        "b": "En el plazo máximo de un mes",
+        "c": "En el plazo máximo de veinte días",
+        "d": "En el plazo máximo de dos meses"
+      },
+      "correct": "c",
+      "explicacion": "Art. 2.4 LO 3/1981. Será designado Defensor quien obtuviese la votación favorable de las 3/5 del Congreso y posteriormente, EN UN PLAZO MÁXIMO DE VEINTE DÍAS, fuese ratificado por esta misma mayoría del Senado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Si el candidato obtiene 3/5 del Congreso pero no los 3/5 del Senado en primera vuelta, ¿qué mayoría basta entonces en el Senado?",
+      "options": {
+        "a": "Mayoría simple del Senado",
+        "b": "Mayoría absoluta del Senado",
+        "c": "Mayoría de dos tercios del Senado",
+        "d": "Sigue siendo necesaria la mayoría de 3/5"
+      },
+      "correct": "b",
+      "explicacion": "Art. 2.5 LO 3/1981. En propuestas sucesivas, una vez conseguida la mayoría de tres quintos en el Congreso, la designación quedará realizada al alcanzarse LA MAYORÍA ABSOLUTA DEL SENADO. La exigencia en el Senado se rebaja de 3/5 a mayoría absoluta en segunda y sucesivas propuestas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor toma posesión de su cargo ante las Mesas de ambas Cámaras reunidas conjuntamente. ¿Qué presta en ese acto?",
+      "options": {
+        "a": "Solo promesa de lealtad constitucional",
+        "b": "Juramento de fidelidad al Rey",
+        "c": "Juramento o promesa de fiel desempeño de su función",
+        "d": "Juramento de imparcialidad política"
+      },
+      "correct": "c",
+      "explicacion": "Art. 4.2 LO 3/1981. El Defensor del Pueblo tomará posesión de su cargo ANTE LAS MESAS DE AMBAS CÁMARAS REUNIDAS CONJUNTAMENTE, PRESTANDO JURAMENTO O PROMESA DE FIEL DESEMPEÑO DE SU FUNCIÓN.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. La condición de Defensor del Pueblo es incompatible con el desempeño de funciones directivas en un sindicato. ¿Y con la mera afiliación a un sindicato?",
+      "options": {
+        "a": "La afiliación está permitida; solo las funciones directivas están prohibidas",
+        "b": "Solo se prohíbe la afiliación a partidos políticos, no a sindicatos",
+        "c": "La afiliación también es incompatible; se prohíbe la afiliación a partido político o sindicato",
+        "d": "La afiliación está permitida a sindicatos pero no a partidos políticos"
+      },
+      "correct": "c",
+      "explicacion": "Art. 7 LO 3/1981. La condición de Defensor del Pueblo es incompatible con: '...LA AFILIACIÓN A UN PARTIDO POLÍTICO o el desempeño de funciones directivas en un PARTIDO POLÍTICO O EN UN SINDICATO, ASOCIACIÓN O FUNDACIÓN, y con el empleo al servicio de los mismos'. Se prohíbe la afiliación a partido político; para sindicato se prohíben las funciones directivas o el empleo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Cuándo se declara la vacante del cargo en caso de muerte del Defensor del Pueblo?",
+      "options": {
+        "a": "Por las Cortes Generales en pleno",
+        "b": "Por el Tribunal Constitucional",
+        "c": "Por el Consejo de Ministros",
+        "d": "Por el Presidente del Congreso"
+      },
+      "correct": "d",
+      "explicacion": "Art. 5.2 LO 3/1981. La vacante en el cargo se declarará POR EL PRESIDENTE DEL CONGRESO en los casos de MUERTE, RENUNCIA Y EXPIRACIÓN DEL PLAZO DEL MANDATO. En los demás casos (negligencia o condena por delito doloso) se decide por mayoría de 3/5 de cada Cámara, previa audiencia del interesado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Si el Defensor detecta un posible delito en el ejercicio de sus funciones, ¿qué debe hacer?",
+      "options": {
+        "a": "Presentar denuncia directamente ante el juez de instrucción",
+        "b": "Ponerlo de inmediato en conocimiento del Fiscal General del Estado",
+        "c": "Comunicarlo a las Cortes Generales para que decidan",
+        "d": "Hacer pública la situación en su informe anual"
+      },
+      "correct": "b",
+      "explicacion": "Art. 25.1 LO 3/1981. Cuando el Defensor del Pueblo tenga conocimiento de una conducta o hechos PRESUMIBLEMENTE DELICTIVOS, LO PONDRÁ DE INMEDIATO EN CONOCIMIENTO DEL FISCAL GENERAL DEL ESTADO. El Fiscal General informará periódicamente al Defensor del trámite de las actuaciones iniciadas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Fiscal General del Estado, ¿también tiene obligación de informar al Defensor del Pueblo?",
+      "options": {
+        "a": "No, la comunicación es unidireccional: solo del Defensor al Fiscal",
+        "b": "Solo en casos en que el Defensor lo solicite expresamente",
+        "c": "Sí, el Fiscal General pondrá en conocimiento del Defensor todas las posibles irregularidades administrativas de que tenga conocimiento el MF",
+        "d": "Solo respecto a irregularidades que afecten a derechos fundamentales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 25.3 LO 3/1981. EL FISCAL GENERAL DEL ESTADO PONDRÁ EN CONOCIMIENTO DEL DEFENSOR DEL PUEBLO TODAS AQUELLAS POSIBLES IRREGULARIDADES ADMINISTRATIVAS de que tenga conocimiento el Ministerio Fiscal en el ejercicio de sus funciones. La comunicación es bidireccional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor actuar sobre documentos clasificados como secretos?",
+      "options": {
+        "a": "Puede solicitarlos; si el Gobierno no los envía, debe hacerlo mediante acuerdo del Consejo de Ministros con certificación acreditativa",
+        "b": "No, los documentos secretos están completamente vetados al Defensor",
+        "c": "Solo puede acceder a documentos reservados, no a los secretos",
+        "d": "Solo puede acceder si el TC lo autoriza mediante auto"
+      },
+      "correct": "a",
+      "explicacion": "Art. 22.1 LO 3/1981. El Defensor podrá solicitar todos los documentos que considere necesarios, INCLUIDOS LOS CLASIFICADOS COMO SECRETOS. Si no se remiten, la no remisión deberá ser ACORDADA POR EL CONSEJO DE MINISTROS y se acompañará una CERTIFICACIÓN ACREDITATIVA del acuerdo denegatorio.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. El informe anual del Defensor se expone oralmente ante los Plenos de ambas Cámaras. ¿Quién puede intervenir para fijar su postura?",
+      "options": {
+        "a": "Solo el Presidente del Gobierno",
+        "b": "Los grupos parlamentarios",
+        "c": "Solo los Presidentes de las Cámaras",
+        "d": "Solo los Diputados que lo soliciten individualmente"
+      },
+      "correct": "b",
+      "explicacion": "Art. 33.4 LO 3/1981. Un resumen del informe será expuesto ORALMENTE por el Defensor del Pueblo ante los Plenos de ambas Cámaras, PUDIENDO INTERVENIR LOS GRUPOS PARLAMENTARIOS a efectos de fijar su postura.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 1/1982, Honor e Intimidad. ¿Cuál es el objetivo de la LO 1/1982 en relación con los derechos que protege?",
+      "options": {
+        "a": "La protección penal de estos derechos",
+        "b": "La protección constitucional directa de estos derechos",
+        "c": "La protección administrativa de estos derechos",
+        "d": "La protección civil de los derechos al honor, a la intimidad personal y familiar y a la propia imagen frente a intromisiones ilegítimas"
+      },
+      "correct": "d",
+      "explicacion": "LO 1/1982, art. 1. El objetivo de la LO 1/1982 es LA PROTECCIÓN CIVIL del derecho fundamental al honor, a la intimidad personal y familiar y a la propia imagen FRENTE A TODO GÉNERO DE INTROMISIONES ILEGÍTIMAS. Protección civil, no penal; aunque si hay delito también puede acudirse a la vía penal (sin excluir la civil).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 18. El artículo 18 CE reconoce cuatro derechos. ¿Cuáles son?",
+      "options": {
+        "a": "Honor, intimidad, propia imagen e inviolabilidad del domicilio",
+        "b": "Honor, intimidad, imagen y secreto de comunicaciones",
+        "c": "Intimidad, domicilio, comunicaciones y datos personales",
+        "d": "Honor e intimidad (ap.1), inviolabilidad del domicilio (ap.2), secreto de comunicaciones (ap.3) y protección informática (ap.4)"
+      },
+      "correct": "d",
+      "explicacion": "Art. 18 CE. El artículo 18 tiene cuatro apartados con derechos distintos: 1) HONOR, INTIMIDAD Y PROPIA IMAGEN; 2) INVIOLABILIDAD DEL DOMICILIO; 3) SECRETO DE LAS COMUNICACIONES (postales, telegráficas y telefónicas); 4) PROTECCIÓN DE DATOS (límite del uso de la informática).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Puede una autoridad administrativa que está siendo investigada negarse a que el Defensor acceda a los documentos de su expediente?",
+      "options": {
+        "a": "No, no podrá negársele el acceso a ningún expediente o documentación administrativa relacionada con la investigación",
+        "b": "Sí, siempre que motiven la negativa",
+        "c": "Solo puede negarse si los documentos afectan a la seguridad nacional",
+        "d": "Puede negarse con autorización del Ministro competente"
+      },
+      "correct": "a",
+      "explicacion": "Art. 19.3 LO 3/1981. NO PODRÁ NEGÁRSELE EL ACCESO A NINGÚN EXPEDIENTE O DOCUMENTACIÓN ADMINISTRATIVA o que se encuentre relacionada con la actividad o servicio objeto de la investigación, sin perjuicio de lo dispuesto en el artículo 22 (documentos secretos).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. Cuando el Defensor del Pueblo inicia una investigación por una queja y posteriormente el interesado presenta recurso judicial, ¿qué hace el Defensor?",
+      "options": {
+        "a": "Continúa la investigación paralelamente al proceso judicial",
+        "b": "Suspende su actuación si, iniciada su actuación, se interpusiere demanda o recurso ante los Tribunales",
+        "c": "Cancela definitivamente su intervención y archiva el expediente",
+        "d": "Espera a la resolución judicial para retomar la investigación"
+      },
+      "correct": "b",
+      "explicacion": "Art. 17.2 LO 3/1981. El Defensor del Pueblo SUSPENDERÁ SU ACTUACIÓN si, iniciada su actuación, SE INTERPUSIERE POR PERSONA INTERESADA DEMANDA O RECURSO ANTE LOS TRIBUNALES ORDINARIOS O EL TRIBUNAL CONSTITUCIONAL. Sin embargo, puede continuar investigando los problemas generales planteados en la queja.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Cuándo pueden los Diputados y Senadores solicitar individualmente la intervención del Defensor del Pueblo?",
+      "options": {
+        "a": "Individualmente o mediante las Comisiones de investigación o relacionadas con la defensa de derechos y libertades",
+        "b": "Solo mediante la Comisión Mixta Congreso-Senado",
+        "c": "Solo mediante escrito del grupo parlamentario",
+        "d": "No pueden solicitarla individualmente; solo el pleno de la Cámara"
+      },
+      "correct": "a",
+      "explicacion": "Art. 10.2 LO 3/1981. Podrán solicitar la intervención del Defensor mediante escrito motivado: LOS DIPUTADOS Y SENADORES INDIVIDUALMENTE, las comisiones de investigación o relacionadas con la defensa general o parcial de los derechos y libertades públicas y, principalmente, la Comisión Mixta Congreso-Senado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo ejerce también como Mecanismo Nacional de Prevención de la Tortura. ¿Qué Consejo Asesor se crea para estas funciones?",
+      "options": {
+        "a": "Un Consejo de Derechos Humanos",
+        "b": "Una Comisión de Vigilancia Penitenciaria",
+        "c": "Un Consejo Asesor como órgano de cooperación técnica y jurídica",
+        "d": "Un Comité de Derechos del Detenido"
+      },
+      "correct": "c",
+      "explicacion": "Disposición final única LO 3/1981. Se crea UN CONSEJO ASESOR COMO ÓRGANO DE COOPERACIÓN TÉCNICA Y JURÍDICA en el ejercicio de las funciones del Mecanismo Nacional de Prevención de la Tortura, presidido por el Adjunto en quien el Defensor del Pueblo delegue dichas funciones.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. Las resoluciones del Defensor del Pueblo (rechazar quejas, etc.) ¿son susceptibles de recurso?",
+      "options": {
+        "a": "Sí, pueden recurrirse ante el Tribunal Constitucional",
+        "b": "Pueden recurrirse ante los tribunales ordinarios",
+        "c": "Pueden recurrirse ante las propias Cortes Generales",
+        "d": "No, sus decisiones no serán susceptibles de recurso"
+      },
+      "correct": "d",
+      "explicacion": "Art. 17.3 LO 3/1981. El Defensor del Pueblo rechazará las quejas anónimas y puede rechazar las que adviertan mala fe o carencia de fundamento. SUS DECISIONES NO SERÁN SUSCEPTIBLES DE RECURSO. Esto garantiza la independencia del Defensor y evita que sus resoluciones queden bloqueadas por impugnaciones.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 1/1982, Honor e Intimidad. ¿Cómo se determina la esfera de protección del honor y la intimidad de cada persona?",
+      "options": {
+        "a": "Exclusivamente por la ley",
+        "b": "Por la jurisprudencia del TC exclusivamente",
+        "c": "Por el propio interesado sin tener en cuenta factores sociales",
+        "d": "De manera decisiva por las ideas que prevalezcan en la sociedad y por el propio concepto que cada persona mantenga según sus actos propios"
+      },
+      "correct": "d",
+      "explicacion": "LO 1/1982, art. 2. La esfera del honor, de la intimidad y del uso de la imagen está determinada DE MANERA DECISIVA POR LAS IDEAS QUE PREVALEZCAN EN CADA MOMENTO EN LA SOCIEDAD y POR EL PROPIO CONCEPTO QUE CADA PERSONA SEGÚN SUS ACTOS PROPIOS MANTENGA al respecto. Es un sistema dinámico que evoluciona con la sociedad.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 1/1982, Honor e Intimidad. Si una persona ya fallecida fue objeto de intromisión en su honor antes de morir, ¿quién puede ejercer la acción?",
+      "options": {
+        "a": "Solo el Ministerio Fiscal",
+        "b": "El Ministerio Fiscal o las personas designadas en el testamento, o en su defecto los parientes supervivientes",
+        "c": "Solo los herederos legales con derecho a la herencia",
+        "d": "Nadie; las acciones se extinguen con la muerte"
+      },
+      "correct": "b",
+      "explicacion": "LO 1/1982. En el caso de fallecimiento del titular, la protección podrá ejercerla: en primer lugar la PERSONA DESIGNADA EN SU TESTAMENTO; en defecto de ella, LOS PARIENTES SUPERVIVIENTES; en último término, EL MINISTERIO FISCAL, con una limitación temporal. La acción ya entablada también es transmisible.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. La persistencia en actitud hostil hacia el Defensor por parte de una Administración puede ser objeto de:",
+      "options": {
+        "a": "Informe especial o mención en el informe anual con nombres de las autoridades",
+        "b": "Recurso de inconstitucionalidad",
+        "c": "Expediente disciplinario inmediato por el CGPJ",
+        "d": "Denuncia penal ante la Sala de lo Penal del Tribunal Supremo"
+      },
+      "correct": "a",
+      "explicacion": "Arts. 18.2 y 30.2 LO 3/1981. La negativa o actitud hostil podrá ser considerada entorpecedora, haciéndola pública. La PERSISTENCIA EN ACTITUD HOSTIL O ENTORPECEDORA podrá ser OBJETO DE UN INFORME ESPECIAL, además de destacarlo en la sección correspondiente de su informe anual (con mención de los nombres).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_36_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Quién puede presentar quejas en nombre de menores o personas incapacitadas ante el Defensor?",
+      "options": {
+        "a": "Cualquier persona natural o jurídica que invoque un interés legítimo, sin restricción alguna, incluyendo la minoría de edad o incapacidad legal",
+        "b": "Solo el Ministerio Fiscal en representación de los mismos",
+        "c": "Solo sus representantes legales (padres o tutores)",
+        "d": "Solo las entidades de protección de menores reconocidas"
+      },
+      "correct": "a",
+      "explicacion": "Art. 10.1 LO 3/1981. Podrá dirigirse al Defensor del Pueblo TODA PERSONA NATURAL O JURÍDICA que invoque un interés legítimo, SIN RESTRICCIÓN ALGUNA. No podrán constituir impedimento la MINORÍA DE EDAD, la INCAPACIDAD LEGAL DEL SUJETO, el internamiento en centro penitenciario, ni cualquier relación especial de sujeción.",
+      "ley": ""
+    }
+  ]
+}

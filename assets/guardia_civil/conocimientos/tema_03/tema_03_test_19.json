@@ -1,0 +1,307 @@
+{
+  "tema_numero": 3,
+  "tema": "Prevención de riesgos laborales",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_03_test_19_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre los derechos de los trabajadores en materia de seguridad y salud.",
+      "options": {
+        "a": "Derecho a la información sobre los riesgos para su seguridad y salud",
+        "b": "Derecho a la consulta y participación en materia preventiva",
+        "c": "Derecho a designar directamente al responsable del Servicio de Prevención de la empresa",
+        "d": "Derecho a la paralización de la actividad en caso de riesgo grave e inminente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 14.1 Ley 31/1995. Los derechos de los trabajadores en materia preventiva son: INFORMACIÓN, CONSULTA, PARTICIPACIÓN, FORMACIÓN, PARALIZACIÓN ante riesgo grave e inminente y VIGILANCIA de su estado de salud. No incluye el derecho a designar al responsable del Servicio de Prevención.",
+      "ley": "Ley 31/1995, art. 14.1"
+    },
+    {
+      "id": "tema_03_test_19_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Las funciones de nivel superior en materia de prevención en la AGE corresponden a las especialidades de Medicina del Trabajo, Seguridad en el Trabajo, Higiene Industrial y:",
+      "options": {
+        "a": "Ergonomía y Psicosociología aplicada",
+        "b": "Formación y Capacitación Preventiva",
+        "c": "Prevención de Incendios y Emergencias",
+        "d": "Auditoría de Sistemas de Gestión"
+      },
+      "correct": "a",
+      "explicacion": "Art. 8.1 RD 67/2010. Las funciones de nivel SUPERIOR corresponden a las especialidades de: MEDICINA DEL TRABAJO, SEGURIDAD EN EL TRABAJO, HIGIENE INDUSTRIAL y ERGONOMÍA Y PSICOSOCIOLOGÍA APLICADA.",
+      "ley": "RD 67/2010, art. 8.1"
+    },
+    {
+      "id": "tema_03_test_19_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre el Comité de Seguridad y Salud en la AGE.",
+      "options": {
+        "a": "Estará formado por los Delegados de Prevención y representantes de la Administración en número no superior al de delegados",
+        "b": "Es el órgano paritario y colegiado de participación destinado a la consulta regular y periódica",
+        "c": "Su constitución es obligatoria en cualquier centro de trabajo independientemente del número de empleados",
+        "d": "Se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones"
+      },
+      "correct": "c",
+      "explicacion": "Art. 6.2 RD 67/2010. El Comité de Seguridad y Salud solo se constituye OBLIGATORIAMENTE cuando el centro cuente con 50 O MÁS EMPLEADOS PÚBLICOS. Su constitución puede acordarse en otros supuestos, pero no es obligatoria en cualquier centro.",
+      "ley": "RD 67/2010, art. 6.2"
+    },
+    {
+      "id": "tema_03_test_19_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Las medidas que se adopten en aplicación del RD 179/2005 tendrán como objetivo principal la promoción de la mejora de las condiciones del servicio y tratarán de:",
+      "options": {
+        "a": "Elevar el nivel de protección de la seguridad y la salud del personal",
+        "b": "Aumentar la eficiencia operativa de las unidades",
+        "c": "Reducir el número de bajas por enfermedad común en el cuerpo",
+        "d": "Cumplir con las exigencias mínimas de la normativa europea"
+      },
+      "correct": "a",
+      "explicacion": "Art. 3 RD 179/2005. Las medidas tendrán como OBJETIVO PRINCIPAL: la PROMOCIÓN DE LA MEJORA DE LAS CONDICIONES DEL SERVICIO y ELEVAR EL NIVEL DE PROTECCIÓN DE LA SEGURIDAD Y LA SALUD del personal.",
+      "ley": "RD 179/2005, art. 3"
+    },
+    {
+      "id": "tema_03_test_19_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Respecto a los trabajadores con relaciones de trabajo temporales o de duración determinada y los contratados por empresas de trabajo temporal, señale la opción CORRECTA:",
+      "options": {
+        "a": "Solo tienen derecho a vigilancia de la salud si su contrato supera seis meses",
+        "b": "Tienen menor nivel de protección que los trabajadores fijos",
+        "c": "No están incluidos en la evaluación de riesgos de la empresa",
+        "d": "Disfrutarán del mismo nivel de protección en materia de seguridad y salud que los restantes trabajadores de la empresa"
+      },
+      "correct": "d",
+      "explicacion": "Art. 28.1 Ley 31/1995. Los trabajadores TEMPORALES Y LOS DE EMPRESAS DE TRABAJO TEMPORAL deberán DISFRUTAR DEL MISMO NIVEL DE PROTECCIÓN en materia de seguridad y salud que los RESTANTES TRABAJADORES de la empresa. La modalidad contractual no justifica diferencia de trato.",
+      "ley": "Ley 31/1995, art. 28.1"
+    },
+    {
+      "id": "tema_03_test_19_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. El control periódico externo de cada sistema de prevención en la AGE corresponderá al INSHT. Señale la opción INCORRECTA sobre dicho control.",
+      "options": {
+        "a": "El INSHT emitirá un informe de evaluación externa del sistema de prevención",
+        "b": "Con carácter extraordinario podrá solicitarse una Auditoría del Sistema de Gestión de la Prevención",
+        "c": "El control periódico externo sustituye a la obligación de las empresas de realizar auditorías internas",
+        "d": "El INSHT recabará información de cada Departamento y realizará visitas para evaluar sus sistemas de prevención"
+      },
+      "correct": "c",
+      "explicacion": "Art. 10 RD 67/2010. El control periódico externo lo realiza el INSHT. Además, la AGE FOMENTARÁ que cada Departamento someta su sistema de prevención al CONTROL DE AUDITORÍAS O EVALUACIONES INTERNAS con carácter voluntario. El control externo NO sustituye a las auditorías internas.",
+      "ley": "RD 67/2010, art. 10"
+    },
+    {
+      "id": "tema_03_test_19_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Según el artículo 3 de la Ley 31/1995, ¿a qué actividades NO será de aplicación esta Ley?",
+      "options": {
+        "a": "Al personal civil de las Administraciones Públicas",
+        "b": "A los trabajadores de Sociedades Cooperativas",
+        "c": "A los trabajadores autónomos",
+        "d": "A las Fuerzas Armadas y actividades militares de la Guardia Civil"
+      },
+      "correct": "d",
+      "explicacion": "Art. 3.2 Ley 31/1995. La Ley NO SERÁ DE APLICACIÓN en las actividades cuyas particularidades lo impidan, entre ellas: FUERZAS ARMADAS Y ACTIVIDADES MILITARES DE LA GUARDIA CIVIL.",
+      "ley": "Ley 31/1995, art. 3.2"
+    },
+    {
+      "id": "tema_03_test_19_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El Instituto Nacional de Seguridad e Higiene en el Trabajo (ahora Instituto Nacional de Seguridad y Salud en el Trabajo) es el órgano científico técnico especializado de la Administración General del Estado. ¿Cuál es su misión?",
+      "options": {
+        "a": "Gestionar las prestaciones económicas por accidente de trabajo",
+        "b": "El análisis y estudio de las condiciones de seguridad y salud en el trabajo, y la promoción y apoyo a la mejora de las mismas",
+        "c": "Imponer sanciones a las empresas que incumplan la normativa",
+        "d": "Regular los convenios colectivos en materia de seguridad"
+      },
+      "correct": "b",
+      "explicacion": "Art. 8.1 Ley 31/1995. La MISIÓN del INSHT es: el ANÁLISIS Y ESTUDIO DE LAS CONDICIONES DE SEGURIDAD Y SALUD en el trabajo y la PROMOCIÓN Y APOYO A LA MEJORA de las mismas.",
+      "ley": "Ley 31/1995, art. 8.1"
+    },
+    {
+      "id": "tema_03_test_19_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En las reuniones del Comité de Seguridad y Salud podrán participar, con voz pero sin voto, los Delegados Sindicales del centro de trabajo que NO sean delegados de prevención, los Asesores Sindicales y:",
+      "options": {
+        "a": "Los Inspectores de Trabajo y Seguridad Social",
+        "b": "Los Responsables Técnicos de Prevención en el ámbito correspondiente",
+        "c": "Los técnicos del INSHT designados para ello",
+        "d": "Los representantes del Ministerio de Trabajo"
+      },
+      "correct": "b",
+      "explicacion": "Art. 6.4 RD 67/2010. Podrán participar CON VOZ PERO SIN VOTO: los Delegados Sindicales que NO sean delegados de prevención, los Asesores Sindicales y los RESPONSABLES TÉCNICOS DE PREVENCIÓN en el ámbito correspondiente.",
+      "ley": "RD 67/2010, art. 6.4"
+    },
+    {
+      "id": "tema_03_test_19_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. La coordinación administrativa en materia de prevención requiere coordinar las actuaciones de las Administraciones competentes en materia laboral, sanitaria y de industria. En el marco de dicha coordinación, la Administración laboral velará para que la información de la Inspección de Trabajo sea puesta en conocimiento de:",
+      "options": {
+        "a": "Los sindicatos más representativos",
+        "b": "La autoridad sanitaria competente y la Administración competente en materia de industria",
+        "c": "Los Delegados de Prevención de las empresas afectadas",
+        "d": "Las organizaciones empresariales representativas"
+      },
+      "correct": "b",
+      "explicacion": "Art. 11 Ley 31/1995. La Administración laboral velará para que la información de la ITSS sea puesta en conocimiento de la AUTORIDAD SANITARIA COMPETENTE y de la ADMINISTRACIÓN COMPETENTE EN MATERIA DE INDUSTRIA.",
+      "ley": "Ley 31/1995, art. 11"
+    },
+    {
+      "id": "tema_03_test_19_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre la vigilancia de la salud.",
+      "options": {
+        "a": "Las medidas de vigilancia se llevarán a cabo respetando el derecho a la intimidad y la dignidad de la persona",
+        "b": "El acceso a la información médica personal podrá facilitarse al empresario directamente y sin restricciones",
+        "c": "Los resultados de la vigilancia serán comunicados a los trabajadores afectados",
+        "d": "Los datos relativos a la vigilancia de la salud no podrán usarse con fines discriminatorios"
+      },
+      "correct": "b",
+      "explicacion": "Art. 22 Ley 31/1995. El ACCESO A LA INFORMACIÓN MÉDICA SE LIMITARÁ al personal médico y a las Autoridades Sanitarias, SIN QUE PUEDA FACILITARSE AL EMPRESARIO O A OTRAS PERSONAS SIN CONSENTIMIENTO EXPRESO DEL TRABAJADOR.",
+      "ley": "Ley 31/1995, art. 22.4"
+    },
+    {
+      "id": "tema_03_test_19_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por 1 representante de cada Comunidad Autónoma, por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de:",
+      "options": {
+        "a": "Los juzgados de lo social y los tribunales superiores de justicia",
+        "b": "Los Ministerios de Trabajo, Sanidad y Educación",
+        "c": "Las Organizaciones Empresariales y Sindicales más representativas",
+        "d": "Los Delegados de Prevención de las empresas públicas"
+      },
+      "correct": "c",
+      "explicacion": "Art. 13.2 Ley 31/1995. La Comisión está integrada por 1 representante de cada CCAA, por IGUAL NÚMERO de miembros de la AGE, y PARITARIAMENTE con todos los anteriores, por representantes de las ORGANIZACIONES EMPRESARIALES Y SINDICALES más representativas.",
+      "ley": "Ley 31/1995, art. 13.2"
+    },
+    {
+      "id": "tema_03_test_19_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El «Riesgo Laboral» se define como:",
+      "options": {
+        "a": "Las enfermedades sufridas con motivo del trabajo",
+        "b": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo",
+        "c": "El conjunto de actividades para evitar los riesgos del trabajo",
+        "d": "Cualquier característica del trabajo que pueda generar riesgos"
+      },
+      "correct": "b",
+      "explicacion": "Art. 4.2 Ley 31/1995. «RIESGO LABORAL»: la POSIBILIDAD de que un TRABAJADOR SUFRA UN DETERMINADO DAÑO derivado del trabajo.",
+      "ley": "Ley 31/1995, art. 4.2"
+    },
+    {
+      "id": "tema_03_test_19_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Para calificar un riesgo desde el punto de vista de su gravedad, se valorarán conjuntamente:",
+      "options": {
+        "a": "La duración de la exposición y el coste de las medidas preventivas",
+        "b": "La frecuencia de exposición y el número de trabajadores expuestos",
+        "c": "La probabilidad de que se produzca el daño y la severidad del mismo",
+        "d": "El tipo de actividad y el tamaño de la empresa"
+      },
+      "correct": "c",
+      "explicacion": "Art. 4.2 Ley 31/1995. Para calificar un riesgo desde el punto de vista de su GRAVEDAD se valorarán conjuntamente: la PROBABILIDAD de que se produzca el daño y la SEVERIDAD del mismo.",
+      "ley": "Ley 31/1995, art. 4.2"
+    },
+    {
+      "id": "tema_03_test_19_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los fabricantes, importadores y suministradores de maquinaria están obligados a asegurar que éstos no constituyan una fuente de peligro para el trabajador, siempre que sean instalados y utilizados en las condiciones y para los fines:",
+      "options": {
+        "a": "Recomendados por ellos",
+        "b": "Establecidos por la Inspección de Trabajo",
+        "c": "Acordados con los representantes de los trabajadores",
+        "d": "Autorizados por el Ministerio de Industria"
+      },
+      "correct": "a",
+      "explicacion": "Art. 41.1 Ley 31/1995. Los fabricantes, importadores y suministradores están obligados a asegurar que sus productos NO constituyan fuente de peligro, SIEMPRE QUE SEAN INSTALADOS Y UTILIZADOS en las condiciones, forma y para los fines RECOMENDADOS POR ELLOS.",
+      "ley": "Ley 31/1995, art. 41.1"
+    },
+    {
+      "id": "tema_03_test_19_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. En la Guardia Civil, el contenido de la información médica de carácter personal se limitará al personal médico y autoridades que lleven a cabo la vigilancia de la salud. No obstante, los Órganos Competentes en materia de prevención serán informados de las conclusiones relativas a:",
+      "options": {
+        "a": "El diagnóstico clínico completo del interesado",
+        "b": "El historial médico del personal desde su ingreso en el cuerpo",
+        "c": "Las bajas médicas y su duración prevista",
+        "d": "La aptitud del interesado para el desempeño del puesto de trabajo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 6 RD 179/2005. Los ÓRGANOS COMPETENTES en materia de prevención SERÁN INFORMADOS de las conclusiones relativas a la APTITUD DEL INTERESADO para el desempeño del PUESTO DE TRABAJO o con la necesidad de introducir o mejorar las medidas de protección.",
+      "ley": "RD 179/2005, art. 6"
+    },
+    {
+      "id": "tema_03_test_19_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Qué es el «Equipo de Trabajo» según la Ley 31/1995?",
+      "options": {
+        "a": "El conjunto de medidas preventivas adoptadas por la empresa",
+        "b": "El conjunto de trabajadores que realizan la misma tarea",
+        "c": "Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo",
+        "d": "Los equipos de protección individual del trabajador"
+      },
+      "correct": "c",
+      "explicacion": "Art. 4.6 Ley 31/1995. «EQUIPO DE TRABAJO»: cualquier MÁQUINA, APARATO, INSTRUMENTO O INSTALACIÓN utilizada en el trabajo.",
+      "ley": "Ley 31/1995, art. 4.6"
+    },
+    {
+      "id": "tema_03_test_19_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. La empresa podrá impugnar la paralización de trabajos ordenada por el Inspector de Trabajo ante la Autoridad Laboral en el plazo de 3 días hábiles. Esta impugnación deberá resolverse en el plazo máximo de:",
+      "options": {
+        "a": "24 horas",
+        "b": "72 horas",
+        "c": "48 horas",
+        "d": "5 días hábiles"
+      },
+      "correct": "a",
+      "explicacion": "Art. 44 Ley 31/1995. La empresa PODRÁ IMPUGNAR la paralización ante la Autoridad Laboral en el plazo de 3 DÍAS HÁBILES, debiendo RESOLVERSE en el plazo máximo de 24 HORAS. Tal resolución será EJECUTIVA.",
+      "ley": "Ley 31/1995, art. 44"
+    },
+    {
+      "id": "tema_03_test_19_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre las funciones de la Inspección de Trabajo y Seguridad Social en materia preventiva.",
+      "options": {
+        "a": "Vigilar el cumplimiento de la normativa, proponiendo a la Autoridad Laboral la sanción correspondiente",
+        "b": "Aprobar directamente los planes de prevención de las empresas",
+        "c": "Elaborar los informes solicitados por los Juzgados de lo Social en procedimientos de accidentes de trabajo",
+        "d": "Ordenar la paralización inmediata de trabajos cuando aprecie riesgo grave e inminente"
+      },
+      "correct": "b",
+      "explicacion": "Art. 9 Ley 31/1995. La ITSS NO tiene competencia para APROBAR planes de prevención. Sus funciones incluyen: vigilar, asesorar, elaborar informes, informar sobre accidentes mortales, comprobar los servicios de prevención y ORDENAR la paralización ante riesgo grave e inminente.",
+      "ley": "Ley 31/1995, art. 9"
+    },
+    {
+      "id": "tema_03_test_19_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La Dirección General de la Función Pública ejercerá la presidencia de la Comisión Técnica de Prevención de Riesgos Laborales. Entre sus funciones específicas figura desarrollar una acción permanente de seguimiento de la actividad preventiva de la AGE. Asimismo asumirá la interlocución con:",
+      "options": {
+        "a": "El Instituto Nacional de Seguridad y Salud en el Trabajo",
+        "b": "La Inspección de Trabajo y Seguridad Social",
+        "c": "Los Delegados de Prevención de cada Departamento",
+        "d": "Las Organizaciones Sindicales representativas en el ámbito de aplicación del RD"
+      },
+      "correct": "d",
+      "explicacion": "Art. 11 RD 67/2010. La DIRECCIÓN GENERAL DE LA FUNCIÓN PÚBLICA realizará funciones de coordinación, seguimiento, promoción e impulso de la PRL en la AGE y asumirá la INTERLOCUCIÓN con las ORGANIZACIONES SINDICALES representativas en el ámbito de aplicación del RD.",
+      "ley": "RD 67/2010, art. 11"
+    }
+  ]
+}

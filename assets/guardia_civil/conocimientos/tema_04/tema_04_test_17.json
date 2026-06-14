@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 17,
+  "preguntas": [
+    {
+      "id": "tema_04_test_17_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 1/1982, Honor e Intimidad. El derecho al honor, la intimidad y la propia imagen protegido por esta ley es:",
+      "options": {
+        "a": "Un derecho de la personalidad de carácter irrenunciable",
+        "b": "Un derecho de naturaleza patrimonial y transmisible",
+        "c": "Un derecho disponible que puede cederse de forma definitiva",
+        "d": "Un derecho exclusivo de las personas físicas mayores de edad"
+      },
+      "correct": "a",
+      "explicacion": "LO 1/1982. Los derechos al honor, intimidad e imagen han sido encuadrados entre los DERECHOS DE LA PERSONALIDAD, de los que se desprende el carácter de IRRENUNCIABILIDAD referido con carácter genérico a la protección civil que la ley establece.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 1/1982, Honor e Intimidad. El consentimiento para la intromisión en la esfera del honor, intimidad o imagen puede ser revocado. ¿Qué consecuencia tiene la revocación?",
+      "options": {
+        "a": "Procede la indemnización de los perjuicios causados al destinatario del consentimiento",
+        "b": "Es nula de pleno derecho, sin ninguna consecuencia económica",
+        "c": "Solo puede revocarse transcurridos doce meses desde el otorgamiento",
+        "d": "Requiere autorización judicial previa para ser efectiva"
+      },
+      "correct": "a",
+      "explicacion": "LO 1/1982. La ley permite que el consentimiento pueda ser revocado en cualquier momento, AUNQUE CON INDEMNIZACIÓN DE LOS PERJUICIOS QUE DE LA REVOCACIÓN SE SIGUIEREN AL DESTINATARIO DEL MISMO. El consentimiento no implica la absoluta abdicación del derecho.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 1/1982, Honor e Intimidad. En caso de fallecimiento del titular del derecho, la protección podrá ejercerla, en primer lugar:",
+      "options": {
+        "a": "El Ministerio Fiscal de oficio",
+        "b": "Los herederos legales",
+        "c": "El juez a petición de parte interesada",
+        "d": "La persona designada por el titular en su testamento"
+      },
+      "correct": "d",
+      "explicacion": "LO 1/1982. En caso de fallecimiento, la protección se atribuye en primer lugar a LA PERSONA QUE EL TITULAR HUBIERA DESIGNADO EN SU TESTAMENTO; en defecto de ella, a los parientes supervivientes; y en último término, al Ministerio Fiscal con limitación temporal.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 2. El Tribunal Constitucional define la autonomía de las CCAA como:",
+      "options": {
+        "a": "Un poder equivalente a la soberanía estatal en su ámbito territorial",
+        "b": "Un poder de naturaleza puramente administrativa, sin potestades legislativas",
+        "c": "Un poder delegado por el Estado que puede ser revocado unilateralmente",
+        "d": "Un poder limitado, distinto de la soberanía, que no puede oponerse al principio de unidad"
+      },
+      "correct": "d",
+      "explicacion": "Art. 2 CE. El TC establece que 'la autonomía hace referencia a UN PODER LIMITADO. Autonomía no soberanía, y en ningún caso el principio de autonomía puede oponerse al de UNIDAD, sino que es precisamente dentro de éste donde alcanza su verdadero sentido'.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 107. El Consejo de Estado emite dictámenes que pueden ser preceptivos o facultativos. La función principal del Consejo de Estado es:",
+      "options": {
+        "a": "Controlar la legalidad de los actos del Gobierno",
+        "b": "Asesorar a las Cortes Generales en materia legislativa",
+        "c": "Fiscalizar la gestión económica del sector público",
+        "d": "Emitir dictámenes y el último trámite que concluye la tramitación de un expediente"
+      },
+      "correct": "d",
+      "explicacion": "Art. 107 CE. La función principal del Consejo de Estado es EMITIR DICTÁMENES, siendo su dictamen EL ÚLTIMO TRÁMITE que concluye la tramitación de un expediente. Las consultas pueden ser preceptivas o facultativas. También puede elaborar estudios, informes o memorias a petición del Ejecutivo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 30. ¿Puede la ley establecer un servicio civil para el cumplimiento de fines de interés general?",
+      "options": {
+        "a": "No, la Constitución solo prevé el servicio militar y la objeción de conciencia",
+        "b": "Solo si existe un estado de necesidad declarado por el Gobierno",
+        "c": "Sí, podrá establecerse un servicio civil para el cumplimiento de fines de interés general",
+        "d": "Solo si lo ratifican las Cortes Generales mediante ley orgánica"
+      },
+      "correct": "c",
+      "explicacion": "Art. 30.3 CE. PODRÁ ESTABLECERSE UN SERVICIO CIVIL para el cumplimiento de fines de interés general. También puede la ley imponer una prestación social sustitutoria para quienes sean objetores de conciencia al servicio militar. El art. 30.4 permite regular deberes ciudadanos en catástrofes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 34. Las fundaciones que persigan fines o utilicen medios tipificados como delito son:",
+      "options": {
+        "a": "Ilegales",
+        "b": "Sometidas a tutela administrativa pero no ilegales",
+        "c": "Objeto de suspensión temporal hasta que regularicen su actividad",
+        "d": "Disueltas solo mediante ley especial"
+      },
+      "correct": "a",
+      "explicacion": "Art. 34 CE. Se reconoce el derecho de fundación para fines de interés general. Las FUNDACIONES QUE PERSIGAN FINES O UTILICEN MEDIOS TIPIFICADOS COMO DELITO SON ILEGALES. Las fundaciones solo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 42. El Estado velará especialmente por los derechos de los trabajadores españoles en el extranjero y orientará su política hacia:",
+      "options": {
+        "a": "Su integración en los países de destino",
+        "b": "Su retorno",
+        "c": "La protección de sus derechos laborales en el país de acogida",
+        "d": "La negociación de convenios bilaterales de empleo"
+      },
+      "correct": "b",
+      "explicacion": "Art. 42 CE. El Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y ORIENTARÁ SU POLÍTICA HACIA SU RETORNO.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 131. La planificación de la actividad económica general mediante ley se usa para atender las necesidades colectivas, equilibrar el desarrollo regional y sectorial y:",
+      "options": {
+        "a": "Garantizar el superávit presupuestario permanente",
+        "b": "Estimular el crecimiento de la renta y de la riqueza y su más justa distribución",
+        "c": "Favorecer la libre competencia en el mercado interior",
+        "d": "Reducir la deuda pública a los límites fijados por la UE"
+      },
+      "correct": "b",
+      "explicacion": "Art. 131.1 CE. La planificación económica sirve para atender a las necesidades colectivas, equilibrar y armonizar el desarrollo regional y sectorial y ESTIMULAR EL CRECIMIENTO DE LA RENTA Y DE LA RIQUEZA Y SU MÁS JUSTA DISTRIBUCIÓN.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 129. Los poderes públicos promoverán eficazmente las diversas formas de participación en la empresa y fomentarán, mediante una legislación adecuada:",
+      "options": {
+        "a": "Los fondos de inversión colectiva y los planes de pensiones",
+        "b": "Las sociedades anónimas con participación pública",
+        "c": "Las sociedades cooperativas",
+        "d": "Las empresas multinacionales con capital nacional"
+      },
+      "correct": "c",
+      "explicacion": "Art. 129.2 CE. Los poderes públicos promoverán eficazmente las diversas formas de participación en la empresa y fomentarán, mediante una legislación adecuada, LAS SOCIEDADES COOPERATIVAS. También establecerán los medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 47. ¿Quién participará en las plusvalías que genere la acción urbanística de los entes públicos?",
+      "options": {
+        "a": "Exclusivamente el Estado",
+        "b": "Los propietarios del suelo colindante",
+        "c": "La comunidad",
+        "d": "La Administración autonómica competente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 47 CE. Los poderes públicos regularán la utilización del suelo de acuerdo con el interés general para impedir la especulación. LA COMUNIDAD PARTICIPARÁ EN LAS PLUSVALÍAS que genere la acción urbanística de los entes públicos. Esto da base constitucional a figuras como la cesión de suelo a la administración.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 48. Los poderes públicos promoverán las condiciones para la participación libre y eficaz de la juventud en el desarrollo:",
+      "options": {
+        "a": "Solo político y social",
+        "b": "Económico y cultural exclusivamente",
+        "c": "Político, social, económico y cultural",
+        "d": "Laboral y profesional"
+      },
+      "correct": "c",
+      "explicacion": "Art. 48 CE. Los poderes públicos promoverán las condiciones para la participación libre y eficaz de la juventud en el desarrollo POLÍTICO, SOCIAL, ECONÓMICO Y CULTURAL.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 51. Los poderes públicos promoverán la información y la educación de los consumidores y usuarios y fomentarán sus organizaciones. ¿Deben oírlas?",
+      "options": {
+        "a": "No, la audición de organizaciones de consumidores es potestativa",
+        "b": "Sí, las oirán en las cuestiones que puedan afectar a aquellos, en los términos que la ley establezca",
+        "c": "Solo en las materias expresamente reguladas por decreto",
+        "d": "Solo cuando las organizaciones superen los 50.000 asociados"
+      },
+      "correct": "b",
+      "explicacion": "Art. 51.2 CE. Los poderes públicos promoverán la información y la educación de los consumidores y usuarios, fomentarán sus organizaciones y LAS OIRÁN en las cuestiones que puedan afectar a aquellos, en los términos que la ley establezca.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 146. El proyecto de Estatuto de Autonomía (vía ordinaria del art. 143) es elaborado por una asamblea compuesta por:",
+      "options": {
+        "a": "Solo los Diputados al Congreso elegidos en las circunscripciones afectadas",
+        "b": "Los Alcaldes de los municipios que integran las provincias afectadas",
+        "c": "Los parlamentarios de las Cortes Generales que voluntariamente decidan participar",
+        "d": "Los miembros de la Diputación u órgano interinsular de las provincias afectadas y por los Diputados y Senadores elegidos en ellas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 146 CE. El proyecto de Estatuto será elaborado por una asamblea compuesta por LOS MIEMBROS DE LA DIPUTACIÓN U ÓRGANO INTERINSULAR de las provincias afectadas y por LOS DIPUTADOS Y SENADORES ELEGIDOS EN ELLAS, y será elevado a las Cortes Generales para su tramitación como ley.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 150. Las leyes orgánicas de transferencia o delegación permiten al Estado transferir facultades a las CCAA en materias de titularidad estatal. ¿Qué debe prever la ley en cada caso?",
+      "options": {
+        "a": "Solo la identificación de la materia objeto de transferencia",
+        "b": "La correspondiente transferencia de medios financieros, así como las formas de control que se reserve el Estado",
+        "c": "Solo las formas de control, sin necesidad de transferir medios financieros",
+        "d": "La aprobación por referéndum en el territorio de la CCAA beneficiaria"
+      },
+      "correct": "b",
+      "explicacion": "Art. 150.2 CE. Las leyes orgánicas de transferencia o delegación preverán en cada caso LA CORRESPONDIENTE TRANSFERENCIA DE MEDIOS FINANCIEROS, así como LAS FORMAS DE CONTROL QUE SE RESERVE EL ESTADO.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 158. El Fondo de Compensación Interterritorial tiene como destinatarios las inversiones en:",
+      "options": {
+        "a": "Territorios comparativamente menos desarrollados",
+        "b": "Las CCAA con mayor presupuesto",
+        "c": "Las provincias insulares exclusivamente",
+        "d": "Los municipios con menos de 10.000 habitantes"
+      },
+      "correct": "a",
+      "explicacion": "Art. 158.2 CE. Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por las Cortes Generales entre las CCAA y provincias, con el objetivo de atender a TERRITORIOS COMPARATIVAMENTE MENOS DESARROLLADOS.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 71. La asignación económica de los Diputados y Senadores será fijada por:",
+      "options": {
+        "a": "El Gobierno mediante decreto",
+        "b": "La Ley de Presupuestos Generales del Estado",
+        "c": "El Presidente del Congreso mediante resolución",
+        "d": "Las respectivas Cámaras"
+      },
+      "correct": "d",
+      "explicacion": "Art. 71.4 CE. Los Diputados y Senadores percibirán una asignación que será fijada por LAS RESPECTIVAS CÁMARAS. Cada Cámara fija autónomamente la asignación de sus miembros, en coherencia con la autonomía parlamentaria reconocida en el artículo 72.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 83. Las leyes de bases no podrán en ningún caso:",
+      "options": {
+        "a": "Autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo",
+        "b": "Delegar competencias exclusivas del Estado a las CCAA",
+        "c": "Ser modificadas por el Gobierno sin retorno al Parlamento",
+        "d": "Regular materias que afecten a derechos fundamentales"
+      },
+      "correct": "a",
+      "explicacion": "Art. 83 CE. Las leyes de bases no podrán en ningún caso: a) AUTORIZAR LA MODIFICACIÓN DE LA PROPIA LEY DE BASES; b) FACULTAR PARA DICTAR NORMAS CON CARÁCTER RETROACTIVO. Estas son las dos limitaciones expresas que el Constituyente impuso a este instrumento de delegación legislativa.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 95. Si el Gobierno o cualquiera de las Cámaras requiere al TC para que se pronuncie sobre la constitucionalidad de un tratado, ¿qué efecto tiene este requerimiento?",
+      "options": {
+        "a": "Ninguno, el proceso de ratificación continúa hasta que el TC se pronuncie",
+        "b": "Solo suspende la tramitación en el Senado, no en el Congreso",
+        "c": "Interrumpe la tramitación hasta la decisión del TC",
+        "d": "Produce la suspensión automática y definitiva del tratado"
+      },
+      "correct": "c",
+      "explicacion": "Art. 95 CE y LOTC. Los efectos del requerimiento producen LA INTERRUPCIÓN DE LA TRAMITACIÓN hasta la decisión del Tribunal y la necesidad de reforma constitucional para la continuación del trámite en el supuesto de estimación del requerimiento (contradicción con la CE).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_17_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 139. Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen:",
+      "options": {
+        "a": "El ejercicio de la función pública por parte de los ciudadanos",
+        "b": "La libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español",
+        "c": "El ejercicio de los derechos fundamentales por los ciudadanos extranjeros",
+        "d": "La autonomía de las Comunidades Autónomas en el ejercicio de sus competencias"
+      },
+      "correct": "b",
+      "explicacion": "Art. 139.2 CE. Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen LA LIBERTAD DE CIRCULACIÓN Y ESTABLECIMIENTO DE LAS PERSONAS Y LA LIBRE CIRCULACIÓN DE BIENES EN TODO EL TERRITORIO ESPAÑOL. Este principio garantiza la unidad del mercado interior.",
+      "ley": ""
+    }
+  ]
+}

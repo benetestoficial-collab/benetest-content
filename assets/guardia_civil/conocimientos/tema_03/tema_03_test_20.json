@@ -1,0 +1,307 @@
+{
+  "tema_numero": 3,
+  "tema": "Prevención de riesgos laborales",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_03_test_20_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En la AGE, los Delegados de Prevención serán designados entre los Representantes del Personal. ¿Señale cuál de los siguientes NO está incluido entre los que pueden ser Delegados de Prevención?",
+      "options": {
+        "a": "Personal funcionario y estatutario miembros de la Junta de Personal",
+        "b": "Delegados de Personal",
+        "c": "Cualquier trabajador voluntario con más de dos años de antigüedad",
+        "d": "Representantes del personal laboral miembros del Comité de Empresa"
+      },
+      "correct": "c",
+      "explicacion": "Art. 5.1 RD 67/2010. Los Delegados de Prevención se designan ENTRE: personal funcionario y estatutario MIEMBROS DE LA JUNTA DE PERSONAL; representantes del personal laboral MIEMBROS DEL COMITÉ DE EMPRESA; y DELEGADOS DE PERSONAL. No se permite la designación de cualquier trabajador voluntario.",
+      "ley": "RD 67/2010, art. 5.1"
+    },
+    {
+      "id": "tema_03_test_20_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Qué es la «Condición de Trabajo»?",
+      "options": {
+        "a": "El salario y las condiciones económicas del trabajador",
+        "b": "Las normas de seguridad establecidas por convenio colectivo",
+        "c": "Cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador",
+        "d": "El horario y la jornada laboral del trabajador"
+      },
+      "correct": "c",
+      "explicacion": "Art. 4.7 Ley 31/1995. «CONDICIÓN DE TRABAJO»: cualquier CARACTERÍSTICA DEL MISMO que pueda tener una INFLUENCIA SIGNIFICATIVA en la GENERACIÓN DE RIESGOS para la seguridad y la salud del trabajador.",
+      "ley": "Ley 31/1995, art. 4.7"
+    },
+    {
+      "id": "tema_03_test_20_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuál es el objeto de la Ley 31/1995 de Prevención de Riesgos Laborales?",
+      "options": {
+        "a": "Regular las condiciones salariales mínimas de los trabajadores",
+        "b": "Establecer el régimen de incapacidad temporal por accidente de trabajo",
+        "c": "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo",
+        "d": "Sancionar a los empresarios que incumplan la normativa laboral"
+      },
+      "correct": "c",
+      "explicacion": "Art. 2.1 Ley 31/1995. El OBJETO de la Ley es PROMOVER LA SEGURIDAD Y LA SALUD DE LOS TRABAJADORES mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+      "ley": "Ley 31/1995, art. 2.1"
+    },
+    {
+      "id": "tema_03_test_20_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La información sobre los riesgos de la función y las medidas adoptadas para su prevención en la Guardia Civil estará contenida en los manuales de los servicios, las instrucciones impartidas y las órdenes impartidas. Su contenido deberá ser conocido por los miembros del Cuerpo de la Guardia Civil hasta el nivel necesario para:",
+      "options": {
+        "a": "Redactar informes preventivos completos",
+        "b": "Superar las pruebas de aptitud física",
+        "c": "Asegurar la prevención",
+        "d": "Obtener la certificación de prevención de nivel básico"
+      },
+      "correct": "c",
+      "explicacion": "Art. 7 RD 179/2005. El contenido de la información sobre riesgos deberá ser CONOCIDO por los miembros del Cuerpo de la Guardia Civil hasta el NIVEL NECESARIO PARA ASEGURAR LA PREVENCIÓN.",
+      "ley": "RD 179/2005, art. 7"
+    },
+    {
+      "id": "tema_03_test_20_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La efectividad de las medidas preventivas deberá prever las distracciones o imprudencias no temerarias que pudiera cometer el trabajador. Las medidas preventivas adicionales que impliquen riesgos solo podrán adoptarse cuando:",
+      "options": {
+        "a": "El trabajador firme un documento de consentimiento",
+        "b": "Lo autorice la Inspección de Trabajo previamente",
+        "c": "La magnitud de dichos riesgos sea sustancialmente inferior a la de los que se pretende controlar y no existan alternativas más seguras",
+        "d": "Lo autoricen los representantes de los trabajadores"
+      },
+      "correct": "c",
+      "explicacion": "Art. 15.4 Ley 31/1995. Las medidas preventivas con riesgos adicionales solo podrán adoptarse cuando la MAGNITUD DE DICHOS RIESGOS SEA SUSTANCIALMENTE INFERIOR a la de los que se pretende controlar y NO EXISTAN ALTERNATIVAS MÁS SEGURAS.",
+      "ley": "Ley 31/1995, art. 15.4"
+    },
+    {
+      "id": "tema_03_test_20_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El personal incluido en el ámbito del RD 179/2005 tendrá derecho a efectuar propuestas a los Órganos de Prevención y al Consejo Asesor de Personal del Cuerpo de la Guardia Civil. Este Consejo dará traslado de las propuestas y sugerencias al:",
+      "options": {
+        "a": "Director General de la Guardia Civil",
+        "b": "Secretario de Estado de Seguridad",
+        "c": "Servicio de Prevención de la DGGC",
+        "d": "Comité de Seguridad y Salud"
+      },
+      "correct": "a",
+      "explicacion": "Art. 14 RD 179/2005. El CONSEJO ASESOR DE PERSONAL DEL CUERPO DE LA GUARDIA CIVIL dará TRASLADO de las propuestas y sugerencias al DIRECTOR GENERAL DE LA GUARDIA CIVIL, al que asesorará en cuantas medidas se adopten.",
+      "ley": "RD 179/2005, art. 14"
+    },
+    {
+      "id": "tema_03_test_20_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En caso de discrepancias con la Propuesta de Requerimiento, tras las alegaciones formuladas por la DGGC, la Inspección de Personal y Servicios de Seguridad podrá elevar una Propuesta de Requerimiento Definitivo al Secretario de Estado de Seguridad, quien:",
+      "options": {
+        "a": "La remitirá al Consejo de Ministros para su decisión final",
+        "b": "La archivará si no se acreditan los incumplimientos",
+        "c": "La trasladará a la Inspección de Trabajo y Seguridad Social para su ejecución",
+        "d": "Dictará la resolución procedente previos los informes que estime oportunos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 16 RD 179/2005. El SECRETARIO DE ESTADO DE SEGURIDAD, previos los informes que estime oportunos, DICTARÁ LA RESOLUCIÓN PROCEDENTE sobre la Propuesta de Requerimiento Definitivo.",
+      "ley": "RD 179/2005, art. 16"
+    },
+    {
+      "id": "tema_03_test_20_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuántos Vicepresidentes tendrá la Comisión Nacional de Seguridad y Salud en el Trabajo?",
+      "options": {
+        "a": "2 Vicepresidentes",
+        "b": "3 Vicepresidentes",
+        "c": "4 Vicepresidentes, uno por cada uno de los grupos que la integran",
+        "d": "5 Vicepresidentes"
+      },
+      "correct": "c",
+      "explicacion": "Art. 13.5 Ley 31/1995. La Comisión Nacional contará con: 1 PRESIDENTE (Secretaría de Estado de Empleo y Economía Social) y 4 VICEPRESIDENTES, UNO POR CADA UNO DE LOS GRUPOS QUE LA INTEGRAN.",
+      "ley": "Ley 31/1995, art. 13.5"
+    },
+    {
+      "id": "tema_03_test_20_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre los principios de la acción preventiva.",
+      "options": {
+        "a": "Anteponer la protección individual a la colectiva",
+        "b": "Planificar la prevención integrando la técnica, la organización del trabajo, las condiciones de trabajo, las relaciones sociales y los factores ambientales",
+        "c": "Sustituir lo peligroso por lo que entrañe poco o ningún peligro",
+        "d": "Combatir los riesgos en su origen"
+      },
+      "correct": "a",
+      "explicacion": "Art. 15.1.h) Ley 31/1995. El principio es ANTEPONER LA PROTECCIÓN COLECTIVA A LA INDIVIDUAL, no al revés. Las demás opciones son principios correctamente enunciados.",
+      "ley": "Ley 31/1995, art. 15.1"
+    },
+    {
+      "id": "tema_03_test_20_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En las relaciones a través de empresas de trabajo temporal, ¿quién es responsable de las condiciones de ejecución del trabajo?",
+      "options": {
+        "a": "La Empresa de Trabajo Temporal",
+        "b": "La Empresa Usuaria",
+        "c": "La Seguridad Social",
+        "d": "El propio trabajador"
+      },
+      "correct": "b",
+      "explicacion": "Art. 28.5 Ley 31/1995. En las relaciones de trabajo a través de ETT, la EMPRESA USUARIA será RESPONSABLE DE LAS CONDICIONES DE EJECUCIÓN DEL TRABAJO en todo lo relacionado con la protección de la seguridad y la salud. La ETT es responsable de formación y vigilancia de la salud.",
+      "ley": "Ley 31/1995, art. 28.5"
+    },
+    {
+      "id": "tema_03_test_20_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En el momento de cesación de su actividad, las empresas deberán remitir la documentación preventiva a:",
+      "options": {
+        "a": "La Inspección de Trabajo y Seguridad Social",
+        "b": "La Autoridad Laboral",
+        "c": "El Instituto Nacional de la Seguridad Social",
+        "d": "El Instituto Nacional de Seguridad y Salud en el Trabajo"
+      },
+      "correct": "b",
+      "explicacion": "Art. 23.2 Ley 31/1995. En el momento de CESACIÓN DE SU ACTIVIDAD, las empresas deberán REMITIR A LA AUTORIDAD LABORAL la documentación señalada en el apartado anterior.",
+      "ley": "Ley 31/1995, art. 23.2"
+    },
+    {
+      "id": "tema_03_test_20_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre las obligaciones de los trabajadores en materia de prevención.",
+      "options": {
+        "a": "Las obligaciones de los trabajadores en prevención eximen al empresario de su deber de protección",
+        "b": "Deben usar adecuadamente las máquinas, aparatos, herramientas y sustancias peligrosas",
+        "c": "Deben informar de inmediato a su Superior Jerárquico, a los trabajadores designados y al Servicio de Prevención sobre situaciones de riesgo",
+        "d": "Deben utilizar correctamente los medios y equipos de protección facilitados por el empresario"
+      },
+      "correct": "a",
+      "explicacion": "Art. 29 Ley 31/1995. Las OBLIGACIONES DE LOS TRABAJADORES complementarán las acciones del empresario, SIN QUE POR ELLO LE EXIMAN DEL CUMPLIMIENTO DE SU DEBER en materia de prevención.",
+      "ley": "Ley 31/1995, art. 29"
+    },
+    {
+      "id": "tema_03_test_20_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuál es el objeto de la política en materia de prevención según el artículo 5 de la Ley 31/1995?",
+      "options": {
+        "a": "La promoción de la mejora de las condiciones de trabajo dirigida a elevar el nivel de protección de la seguridad y la salud",
+        "b": "Sancionar a las empresas que incumplan la normativa",
+        "c": "Establecer cuotas mínimas de trabajadores en materia preventiva",
+        "d": "Regular las condiciones salariales de los trabajadores"
+      },
+      "correct": "a",
+      "explicacion": "Art. 5.1 Ley 31/1995. La POLÍTICA en materia de prevención tendrá por objeto la PROMOCIÓN DE LA MEJORA DE LAS CONDICIONES DE TRABAJO dirigida a ELEVAR EL NIVEL DE PROTECCIÓN de la seguridad y la salud de los trabajadores.",
+      "ley": "Ley 31/1995, art. 5.1"
+    },
+    {
+      "id": "tema_03_test_20_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La Inspección y Control EXTERNO de las actividades de los Órganos de Prevención de la Guardia Civil corresponde a:",
+      "options": {
+        "a": "La Inspección de Trabajo y Seguridad Social",
+        "b": "La Inspección de Personal y Servicios de Seguridad de la Secretaría de Estado de Seguridad",
+        "c": "El Instituto Nacional de Seguridad y Salud en el Trabajo",
+        "d": "El Servicio de Prevención de la DGGC"
+      },
+      "correct": "b",
+      "explicacion": "Art. 15 RD 179/2005. La INSPECCIÓN DE PERSONAL Y SERVICIOS DE SEGURIDAD de la SECRETARÍA DE ESTADO DE SEGURIDAD realizará las funciones de INSPECCIÓN Y CONTROL EXTERNO de las actividades de los órganos de prevención. El Servicio de Prevención le remitirá una copia de la MEMORIA ANUAL.",
+      "ley": "RD 179/2005, art. 15"
+    },
+    {
+      "id": "tema_03_test_20_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Las disposiciones de carácter laboral contenidas en la Ley 31/1995 tendrán en todo caso el carácter de:",
+      "options": {
+        "a": "Derecho Necesario Máximo que no puede mejorarse",
+        "b": "Recomendaciones de obligado cumplimiento solo en grandes empresas",
+        "c": "Derecho Necesario Mínimo Indisponible, pudiendo ser mejoradas y desarrolladas en los Convenios Colectivos",
+        "d": "Normas orientativas no vinculantes"
+      },
+      "correct": "c",
+      "explicacion": "Art. 2.2 Ley 31/1995. Las disposiciones tienen el carácter de DERECHO NECESARIO MÍNIMO INDISPONIBLE, pudiendo ser MEJORADAS Y DESARROLLADAS en los Convenios Colectivos.",
+      "ley": "Ley 31/1995, art. 2.2"
+    },
+    {
+      "id": "tema_03_test_20_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La vigilancia de la salud de los trabajadores tiene carácter voluntario. ¿Cuándo se exceptúa este carácter voluntario?",
+      "options": {
+        "a": "Cuando lo solicite el empresario",
+        "b": "Cuando así lo acuerde el Comité de Empresa",
+        "c": "Cuando el trabajador lleve más de 5 años en la empresa",
+        "d": "Cuando la realización de los reconocimientos sea imprescindible para evaluar los efectos de las condiciones de trabajo o verificar si el estado de salud puede constituir un peligro"
+      },
+      "correct": "d",
+      "explicacion": "Art. 22.1 Ley 31/1995. El carácter voluntario SOLO SE EXCEPTÚA, previo informe de los representantes, cuando la realización sea IMPRESCINDIBLE para EVALUAR LOS EFECTOS de las condiciones de trabajo o para VERIFICAR si el ESTADO DE SALUD puede CONSTITUIR UN PELIGRO para él mismo, los demás trabajadores u otras personas.",
+      "ley": "Ley 31/1995, art. 22.1"
+    },
+    {
+      "id": "tema_03_test_20_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Según los principios de la acción preventiva, el primer principio que debe aplicar el empresario es:",
+      "options": {
+        "a": "Adoptar medidas de protección colectiva",
+        "b": "Planificar la prevención",
+        "c": "Proporcionar equipos de protección individual",
+        "d": "Evitar los riesgos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 15.1 Ley 31/1995. El primer principio general del deber de prevención es EVITAR LOS RIESGOS. Solo cuando no puedan evitarse, procederá evaluarlos y adoptar otras medidas.",
+      "ley": "Ley 31/1995, art. 15.1.a"
+    },
+    {
+      "id": "tema_03_test_20_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud. ¿Qué correlativo deber supone este derecho para el empresario?",
+      "options": {
+        "a": "La obligación de crear un Servicio de Prevención propio",
+        "b": "El deber de protección de los trabajadores frente a los riesgos laborales",
+        "c": "Contratar un seguro de responsabilidad civil",
+        "d": "La exigencia de elaborar estadísticas de accidentalidad"
+      },
+      "correct": "b",
+      "explicacion": "Art. 14.1 Ley 31/1995. El derecho a la protección eficaz supone la existencia de un correlativo DEBER DEL EMPRESARIO DE PROTECCIÓN de los trabajadores frente a los riesgos laborales. También es deber de las Administraciones Públicas respecto de su personal.",
+      "ley": "Ley 31/1995, art. 14.1"
+    },
+    {
+      "id": "tema_03_test_20_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La Presidencia de la Comisión Nacional de Seguridad y Salud en el Trabajo corresponderá a:",
+      "options": {
+        "a": "La Secretaría de Estado de Empleo y Economía Social",
+        "b": "El Ministro de Trabajo",
+        "c": "El Director del INSHT",
+        "d": "El Inspector Jefe de Trabajo"
+      },
+      "correct": "a",
+      "explicacion": "Art. 13.5 Ley 31/1995. La PRESIDENCIA de la Comisión Nacional corresponderá a la SECRETARÍA DE ESTADO DE EMPLEO Y ECONOMÍA SOCIAL, recayendo la Vicepresidencia de la AGE en el Subsecretario de Sanidad y Consumo.",
+      "ley": "Ley 31/1995, art. 13.5"
+    },
+    {
+      "id": "tema_03_test_20_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los reconocimientos médicos y psicológicos en la Guardia Civil serán realizados por los Servicios de Asistencia Sanitaria y de Psicología de la Guardia Civil, siendo independientes de cualquier otro. En todo caso, sus resultados serán comunicados a:",
+      "options": {
+        "a": "Cada uno de los interesados",
+        "b": "La Dirección General de la Guardia Civil",
+        "c": "El mando directo del personal reconocido",
+        "d": "El Servicio de Prevención de la DGGC"
+      },
+      "correct": "a",
+      "explicacion": "Art. 6 RD 179/2005. Los reconocimientos son realizados por los Servicios de Asistencia Sanitaria y de Psicología de la GC, y sus RESULTADOS serán comunicados A CADA UNO DE LOS INTERESADOS.",
+      "ley": "RD 179/2005, art. 6"
+    }
+  ]
+}

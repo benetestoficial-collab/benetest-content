@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 30,
+  "preguntas": [
+    {
+      "id": "tema_04_test_30_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 1/1982, Honor e Intimidad. ¿Protege esta ley los derechos de personas jurídicas?",
+      "options": {
+        "a": "Sí, protege civilmente frente a intromisiones ilegítimas a toda persona natural o jurídica",
+        "b": "No, solo protege a personas físicas",
+        "c": "Solo a las personas jurídicas sin ánimo de lucro",
+        "d": "Solo a las personas físicas mayores de dieciocho años"
+      },
+      "correct": "a",
+      "explicacion": "LO 1/1982, art. 1.1. El derecho fundamental al honor, a la intimidad personal y familiar y a la propia imagen, garantizado en el artículo 18 CE, SERÁ PROTEGIDO CIVILMENTE FRENTE A TODO GÉNERO DE INTROMISIONES ILEGÍTIMAS, de acuerdo con lo establecido en la presente Ley Orgánica.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 1/1982, Honor e Intimidad. Cuando hay carácter delictivo en la intromisión en el honor, intimidad o propia imagen, ¿puede igualmente recurrirse al procedimiento de tutela civil?",
+      "options": {
+        "a": "Sí, el carácter delictivo de la intromisión no impedirá el recurso al procedimiento de tutela judicial civil",
+        "b": "No, si hay delito se aplica exclusivamente la vía penal",
+        "c": "Solo si el denunciante renuncia a la acción penal",
+        "d": "Solo si el juez penal así lo autoriza"
+      },
+      "correct": "a",
+      "explicacion": "LO 1/1982, art. 1.2. EL CARÁCTER DELICTIVO DE LA INTROMISIÓN NO IMPEDIRÁ EL RECURSO AL PROCEDIMIENTO DE TUTELA JUDICIAL previsto en el artículo 9 de esta Ley. En cualquier caso, serán aplicables los criterios de esta Ley para la determinación de la responsabilidad civil derivada de delito.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 1/1982, Honor e Intimidad. La protección del honor y la intimidad está vinculada también a las ideas que prevalezcan en cada momento en la sociedad. ¿Qué principio recoge la ley para determinar el ámbito de protección?",
+      "options": {
+        "a": "Un estándar fijo y objetivo establecido por el legislador",
+        "b": "La jurisprudencia consolidada del Tribunal Constitucional",
+        "c": "El criterio de la persona razonable media de la sociedad",
+        "d": "Los usos sociales del momento y el propio concepto que cada persona mantenga según sus propios actos"
+      },
+      "correct": "d",
+      "explicacion": "LO 1/1982, art. 2. La ESFERA DEL HONOR, LA INTIMIDAD Y LA PROPIA IMAGEN está determinada de manera decisiva por LAS IDEAS QUE PREVALEZCAN EN CADA MOMENTO EN LA SOCIEDAD y por EL PROPIO CONCEPTO QUE CADA PERSONA SEGÚN SUS ACTOS PROPIOS MANTENGA al respecto.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 1/1982, Honor e Intimidad. Si el titular del derecho fallece antes de ejercer la acción por la lesión sufrida en vida, ¿pueden sus herederos ejercerla?",
+      "options": {
+        "a": "Sí, siempre, los herederos pueden ejercitar cualquier acción del causante",
+        "b": "No, las acciones de la personalidad se extinguen con la muerte",
+        "c": "Solo el Ministerio Fiscal puede continuar la acción tras el fallecimiento",
+        "d": "Solo si el titular no pudo ejercerlas por imposibilidad o si ya las había entablado antes de fallecer"
+      },
+      "correct": "d",
+      "explicacion": "LO 1/1982. Si la lesión tuvo lugar antes del fallecimiento, las acciones SOLO SUBSISTIRÁN si no hubieran podido ser ejercitadas por aquél o su representante legal (imposibilidad), pues si pudo ejercitarlas y no lo hizo, existe presunción de que los actos no merecieron tal consideración. La acción ya entablada SÍ es transmisible.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 1/1982, Honor e Intimidad. En relación con la indemnización de perjuicios por intromisiones ilegítimas acreditadas, señale la CORRECTA:",
+      "options": {
+        "a": "El perjudicado debe probar los daños sufridos para obtener indemnización",
+        "b": "Solo se indemnizan los perjuicios materiales acreditables",
+        "c": "La indemnización requiere sentencia penal previa",
+        "d": "Se presume que los perjuicios existen en todo caso de injerencias o intromisiones acreditadas, y comprenden los perjuicios materiales y morales"
+      },
+      "correct": "d",
+      "explicacion": "LO 1/1982, art. 9. SE PRESUME QUE LOS PERJUICIOS EXISTEN EN TODO CASO DE INJERENCIAS O INTROMISIONES ACREDITADAS, y comprenderán no solo la de los perjuicios MATERIALES, sino también la de los MORALES, de especial relevancia en este tipo de actos ilícitos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 9. ¿Cuál es el único sujeto exceptuado del principio de responsabilidad de los poderes públicos recogido en el art. 9.3?",
+      "options": {
+        "a": "El Presidente del Gobierno",
+        "b": "El Rey, cuya persona es inviolable y no está sujeta a responsabilidad según el art. 56",
+        "c": "Los miembros del Gobierno en el ejercicio de sus funciones",
+        "d": "Los Jueces y Magistrados en sus resoluciones jurisdiccionales"
+      },
+      "correct": "b",
+      "explicacion": "Arts. 9.3 y 56 CE. La única excepción al principio de responsabilidad de los poderes públicos se refiere al JEFE DEL ESTADO: 'la persona del REY es inviolable y no está sujeta a responsabilidad' (art. 56 CE). El responsable será quien refrende el acto.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 17. ¿Puede el Ministerio Fiscal interponer el procedimiento de habeas corpus?",
+      "options": {
+        "a": "Sí, la ley que lo regula (LO 6/1984) permite que lo interpongan el propio detenido, el cónyuge, parientes, el Defensor del Pueblo, el MF y el juez de oficio",
+        "b": "No, solo puede interponerlo el propio detenido",
+        "c": "Solo puede interponerlo el juez de oficio",
+        "d": "Solo puede interponerlo el abogado del detenido"
+      },
+      "correct": "a",
+      "explicacion": "Art. 17.4 CE y LO 6/1984. El procedimiento de habeas corpus puede ser iniciado por: el PROPIO PRIVADO DE LIBERTAD, su CÓNYUGE o PARIENTE, el DEFENSOR DEL PUEBLO, el MINISTERIO FISCAL y el JUEZ DE OFICIO. La ley amplía la legitimación para garantizar la máxima protección frente a detenciones ilegales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española. En el proceso constituyente de 1978, ¿cuántos ponentes elaboraron el anteproyecto de Constitución?",
+      "options": {
+        "a": "Cuatro ponentes",
+        "b": "Cinco ponentes",
+        "c": "Siete ponentes",
+        "d": "Nueve ponentes"
+      },
+      "correct": "c",
+      "explicacion": "Constitución Española. El anteproyecto fue elaborado por los conocidos como los 'PADRES DE LA CONSTITUCIÓN': SIETE PONENTES, uno por cada grupo parlamentario con representación (AP, UCD, PCE-PSUC, PSOE, PNV, Minoría Catalana y uno adicional). Su trabajo fue la base del texto constitucional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 53. Los derechos del artículo 14 CE (igualdad) pueden defenderse mediante recurso de amparo ante el TC. ¿Y la objeción de conciencia del art. 30?",
+      "options": {
+        "a": "No, el art. 30 no tiene protección de amparo",
+        "b": "La objeción de conciencia solo tiene protección ante la jurisdicción ordinaria",
+        "c": "Solo tiene protección mediante el procedimiento preferente y sumario, no mediante amparo",
+        "d": "Sí, el recurso de amparo también es aplicable a la objeción de conciencia reconocida en el art. 30"
+      },
+      "correct": "d",
+      "explicacion": "Art. 53.2 CE. El recurso de amparo 'SERÁ APLICABLE A LA OBJECIÓN DE CONCIENCIA RECONOCIDA EN EL ARTÍCULO 30'. Este es un supuesto especial: aunque el art. 30 está en la Sección 2ª del Cap. II, la CE expresamente extiende la protección de amparo a la objeción de conciencia.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 20. La ley regulará la organización y el control parlamentario de los medios de comunicación social dependientes del Estado. ¿Y el acceso a estos medios?",
+      "options": {
+        "a": "No hay acceso garantizado para grupos políticos o sociales",
+        "b": "La ley garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo",
+        "c": "Solo los partidos con representación parlamentaria tienen acceso garantizado",
+        "d": "Solo en período electoral se garantiza el acceso a medios públicos"
+      },
+      "correct": "b",
+      "explicacion": "Art. 20.3 CE. La ley regulará la organización de los medios de comunicación dependientes del Estado y GARANTIZARÁ EL ACCESO A DICHOS MEDIOS DE LOS GRUPOS SOCIALES Y POLÍTICOS SIGNIFICATIVOS, respetando el pluralismo de la sociedad y de las diversas lenguas de España.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 27. Los poderes públicos garantizan el derecho de todos a la educación. ¿Cómo?",
+      "options": {
+        "a": "Estableciendo un sistema exclusivo de enseñanza pública",
+        "b": "Mediante una programación general de la enseñanza, con participación efectiva de todos los sectores afectados y la creación de centros docentes",
+        "c": "Financiando únicamente centros docentes de titularidad pública",
+        "d": "Obligando a todos los ciudadanos a escolarizarse hasta los 18 años"
+      },
+      "correct": "b",
+      "explicacion": "Art. 27.5 CE. Los poderes públicos garantizan el derecho de todos a la educación MEDIANTE UNA PROGRAMACIÓN GENERAL DE LA ENSEÑANZA, CON PARTICIPACIÓN EFECTIVA DE TODOS LOS SECTORES AFECTADOS Y LA CREACIÓN DE CENTROS DOCENTES. Esto implica tanto centros públicos como financiación de centros concertados.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 43. Los poderes públicos fomentarán la educación sanitaria, la educación física y el deporte. ¿Qué más facilitarán?",
+      "options": {
+        "a": "El acceso al trabajo para personas con enfermedades crónicas",
+        "b": "La investigación científica en materia de salud",
+        "c": "La adecuada utilización del ocio",
+        "d": "El acceso universal a los medicamentos"
+      },
+      "correct": "c",
+      "explicacion": "Art. 43.3 CE. Los poderes públicos fomentarán la educación sanitaria, la educación física y el deporte. ASIMISMO FACILITARÁN LA ADECUADA UTILIZACIÓN DEL OCIO. Esta mención expresa al ocio como objeto de política pública es llamativa y puede ser objeto de pregunta de examen.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 49 (reforma 2024). Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal y la inclusión social de las personas con discapacidad. ¿Qué personas concretas se mencionan expresamente?",
+      "options": {
+        "a": "Solo las personas con discapacidad física o sensorial",
+        "b": "Se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad",
+        "c": "Las personas con discapacidad que necesiten cuidados permanentes",
+        "d": "Las personas con discapacidad mental o intelectual"
+      },
+      "correct": "b",
+      "explicacion": "Art. 49.2 CE (reforma 2024). Los poderes públicos impulsarán las políticas de plena autonomía e inclusión social y fomentarán la participación de sus organizaciones. SE ATENDERÁN PARTICULARMENTE LAS NECESIDADES ESPECÍFICAS DE LAS MUJERES Y LOS MENORES CON DISCAPACIDAD.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 55. La utilización injustificada o abusiva de las facultades reconocidas en la ley orgánica de suspensión individual de derechos (art. 55.2) producirá:",
+      "options": {
+        "a": "Nulidad del acto policial correspondiente",
+        "b": "Responsabilidad penal como violación de los derechos y libertades reconocidos por las leyes",
+        "c": "Responsabilidad disciplinaria del funcionario implicado",
+        "d": "Solo responsabilidad civil ante los tribunales ordinarios"
+      },
+      "correct": "b",
+      "explicacion": "Art. 55.2 CE. La UTILIZACIÓN INJUSTIFICADA O ABUSIVA DE LAS FACULTADES RECONOCIDAS EN DICHA LEY ORGÁNICA PRODUCIRÁ RESPONSABILIDAD PENAL, como violación de los derechos y libertades reconocidos por las leyes. Este mecanismo garantiza que la suspensión individual no sea utilizada arbitrariamente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española. ¿Qué artículos de la Constitución conforman el 'Capítulo cuarto' del Título I?",
+      "options": {
+        "a": "Arts. 39-52 (principios rectores de la política social y económica)",
+        "b": "Arts. 15-29 (derechos fundamentales y libertades públicas)",
+        "c": "Arts. 53-54 (garantías de las libertades y derechos fundamentales)",
+        "d": "Arts. 30-38 (derechos y deberes de los ciudadanos)"
+      },
+      "correct": "c",
+      "explicacion": "CE. El CAPÍTULO CUARTO DEL TÍTULO I se denomina 'De las garantías de las libertades y derechos fundamentales' y comprende los ARTÍCULOS 53 Y 54. El artículo 53 regula las garantías de los derechos y el art. 54 regula el Defensor del Pueblo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 78. ¿Las Diputaciones Permanentes tienen capacidad para aprobar leyes?",
+      "options": {
+        "a": "Sí, pueden aprobar leyes urgentes cuando las Cámaras están disueltas",
+        "b": "Solo pueden aprobar decretos-leyes del Gobierno",
+        "c": "No, no tienen capacidad legislativa; asumen las facultades no legislativas de las Cámaras y velan por sus poderes",
+        "d": "Solo pueden tramitar proyectos de ley de urgente necesidad"
+      },
+      "correct": "c",
+      "explicacion": "Art. 78 CE. Las Diputaciones Permanentes NO TIENEN CAPACIDAD LEGISLATIVA PROPIA. Asumen las FACULTADES QUE CORRESPONDAN A LAS CÁMARAS de acuerdo con los artículos 86 (convalidar o derogar decretos-leyes) y 116 (estados excepcionales), y VELAN POR LOS PODERES DE LAS CÁMARAS cuando no están reunidas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 92. El referéndum consultivo puede ser convocado sobre 'decisiones políticas de especial trascendencia'. ¿Está limitado a materias específicas?",
+      "options": {
+        "a": "Sí, solo puede convocarse sobre reformas constitucionales",
+        "b": "Solo sobre materias de competencia exclusiva del Estado",
+        "c": "Solo sobre tratados internacionales de especial importancia",
+        "d": "No, puede convocarse sobre cualquier decisión política de especial trascendencia"
+      },
+      "correct": "d",
+      "explicacion": "Art. 92.1 CE. Las DECISIONES POLÍTICAS DE ESPECIAL TRASCENDENCIA podrán ser sometidas a referéndum consultivo. La Constitución NO LIMITA EL TIPO DE MATERIAS; cualquier decisión de especial trascendencia puede ser objeto de referéndum, siempre bajo los requisitos del art. 92 (propuesta del Presidente con autorización del Congreso).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 135 (reforma 2011). ¿Cuál era el objetivo declarado de la reforma del artículo 135?",
+      "options": {
+        "a": "Garantizar el principio de estabilidad presupuestaria, reforzar el compromiso de España con la UE y garantizar la sostenibilidad económica y social",
+        "b": "Establecer el déficit cero para todas las Administraciones Públicas",
+        "c": "Reducir el gasto público en al menos un 20% en cinco años",
+        "d": "Equiparar el sistema fiscal español al de los países de la eurozona"
+      },
+      "correct": "a",
+      "explicacion": "Constitución Española (Introducción). La segunda reforma (2011, BOE nº 233, 27 sep 2011), del artículo 135, buscaba: GARANTIZAR EL PRINCIPIO DE ESTABILIDAD PRESUPUESTARIA vinculando a todas las AAPP en su consecución, REFORZAR EL COMPROMISO DE ESPAÑA CON LA UE y GARANTIZAR LA SOSTENIBILIDAD ECONÓMICA Y SOCIAL.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 129. Los poderes públicos establecerán los medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción. Este principio está relacionado con:",
+      "options": {
+        "a": "La libertad de empresa del artículo 38",
+        "b": "El derecho al trabajo del artículo 35",
+        "c": "El fomento de las sociedades cooperativas y la participación en la empresa",
+        "d": "La intervención pública en la economía del artículo 128"
+      },
+      "correct": "c",
+      "explicacion": "Art. 129.2 CE. Los poderes públicos promoverán las diversas formas de participación en la empresa, fomentarán LAS SOCIEDADES COOPERATIVAS y establecerán los medios que FACILITEN EL ACCESO DE LOS TRABAJADORES A LA PROPIEDAD DE LOS MEDIOS DE PRODUCCIÓN. Estos principios expresan el mandato constitucional de economía social.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_30_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 148. El turismo es una competencia que las CCAA pueden asumir. ¿Con qué limitación territorial?",
+      "options": {
+        "a": "La promoción y ordenación del turismo en su ámbito territorial",
+        "b": "Solo el turismo nacional",
+        "c": "Solo el turismo interior de la propia CCAA",
+        "d": "Sin limitación, incluyendo el turismo internacional que capten"
+      },
+      "correct": "a",
+      "explicacion": "Art. 148.1.18ª CE. Las CCAA pueden asumir competencias sobre 'PROMOCIÓN Y ORDENACIÓN DEL TURISMO EN SU ÁMBITO TERRITORIAL'. La limitación 'en su ámbito territorial' es importante: la promoción exterior del turismo (ej. en ferias internacionales) puede corresponder al Estado en materia de relaciones exteriores.",
+      "ley": ""
+    }
+  ]
+}

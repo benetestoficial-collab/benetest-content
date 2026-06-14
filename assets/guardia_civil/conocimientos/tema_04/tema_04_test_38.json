@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 38,
+  "preguntas": [
+    {
+      "id": "tema_04_test_38_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 57. Don Juan Carlos I abdicó en 2014. ¿Qué tipo de norma reguló esa abdicación?",
+      "options": {
+        "a": "Un decreto del Consejo de Ministros",
+        "b": "Una ley orgánica",
+        "c": "Un decreto del Rey refrendado por el Presidente del Gobierno",
+        "d": "Una resolución de las Cortes Generales reunidas en sesión conjunta"
+      },
+      "correct": "b",
+      "explicacion": "Art. 57.5 CE. Las ABDICACIONES y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por UNA LEY ORGÁNICA. La abdicación de Juan Carlos I se tramitó mediante la LO 3/2014, de 18 de junio.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 3. ¿Tienen el deber de conocer las lenguas cooficiales autonómicas los ciudadanos que residen en dichas CCAA?",
+      "options": {
+        "a": "Sí, la Constitución establece ese deber igual que para el castellano",
+        "b": "Solo para los funcionarios públicos de la CCAA",
+        "c": "Solo para los nacidos en la CCAA con lengua propia",
+        "d": "No, los Estatutos de Autonomía reconocen el derecho de usar las lenguas cooficiales pero en ninguno se establece el deber de conocerlas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 3.2 CE. Las demás lenguas españolas son oficiales en las CCAA de acuerdo con sus Estatutos. Sin embargo, LOS ESTATUTOS RECONOCEN EL DERECHO DE USARLOS PERO EN NINGUNO DE ELLOS SE ESTABLECE EL DEBER DE CONOCERLOS. Solo el castellano genera simultáneamente deber de conocimiento (art. 3.1).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 20. ¿Puede el Gobierno secuestrar una publicación por decreto en casos urgentes?",
+      "options": {
+        "a": "No, el secuestro de publicaciones solo puede acordarse en virtud de resolución judicial",
+        "b": "Sí, en casos urgentes y con comunicación posterior al juez",
+        "c": "Sí, el Ministro del Interior tiene esa competencia",
+        "d": "Solo el Fiscal General del Estado puede ordenarlo en casos de terrorismo"
+      },
+      "correct": "a",
+      "explicacion": "Art. 20.5 CE. SOLO PODRÁ ACORDARSE EL SECUESTRO DE PUBLICACIONES, grabaciones y otros medios de información EN VIRTUD DE RESOLUCIÓN JUDICIAL. El Gobierno no puede ordenarlo nunca; hacerlo constituiría censura previa prohibida por el art. 20.2 CE.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 25. Los condenados a pena de prisión tienen derechos fundamentales. ¿Cuáles no tienen?",
+      "options": {
+        "a": "Los relacionados con la libertad de circulación",
+        "b": "Los derechos políticos en todo caso",
+        "c": "Los que se vean expresamente limitados por el contenido del fallo condenatorio, el sentido de la pena y la ley penitenciaria",
+        "d": "Todos los derechos del Título I"
+      },
+      "correct": "c",
+      "explicacion": "Art. 25.2 CE. El condenado gozará de los derechos fundamentales, A EXCEPCIÓN DE LOS QUE SE VEAN EXPRESAMENTE LIMITADOS POR EL CONTENIDO DEL FALLO CONDENATORIO, EL SENTIDO DE LA PENA Y LA LEY PENITENCIARIA. La privación de libertad es la pena; los demás derechos se mantienen en principio.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 47. La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos. ¿Y en las generadas por actuaciones privadas?",
+      "options": {
+        "a": "La Constitución no prevé participación en plusvalías privadas",
+        "b": "También participa la comunidad, pues la Constitución no distingue",
+        "c": "Solo en actuaciones mixtas público-privadas",
+        "d": "Siempre que el suelo sea de dominio público"
+      },
+      "correct": "a",
+      "explicacion": "Art. 47 CE. La CE habla expresamente de 'la acción urbanística DE LOS ENTES PÚBLICOS'. La participación constitucional en plusvalías se refiere a las generadas por la actuación de los entes públicos. En el caso de actuaciones privadas, la CE no establece expresamente esa participación, aunque el legislador puede regularla.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 60. El tutor testamentario del Rey menor debe ser mayor de edad y español de nacimiento. Si no existe tutor testamentario, ¿quién es el tutor legítimo?",
+      "options": {
+        "a": "El Presidente del Gobierno",
+        "b": "El pariente mayor de edad más próximo a la sucesión",
+        "c": "El padre o la madre mientras permanezcan viudos",
+        "d": "El miembro de mayor rango de la Casa Real"
+      },
+      "correct": "c",
+      "explicacion": "Art. 60.1 CE. Si no hubiera tutor testamentario, SERÁ TUTOR EL PADRE O LA MADRE mientras permanezcan VIUDOS. En su defecto, el tutor parlamentario (lo nombran las Cortes). No podrán acumularse los cargos de Regente y tutor, salvo en el padre, madre o ascendientes directos del Rey.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 71. ¿Qué es el suplicatorio parlamentario?",
+      "options": {
+        "a": "Una petición del parlamentario al Presidente de la Cámara para hablar en sesión",
+        "b": "Una petición de los ciudadanos al Parlamento",
+        "c": "La solicitud de un diputado para modificar el orden del día",
+        "d": "El procedimiento por el que se solicita a la Cámara respectiva la autorización para inculpar o procesar a un parlamentario"
+      },
+      "correct": "d",
+      "explicacion": "Art. 71.2 CE. Los parlamentarios no podrán ser inculpados ni procesados sin LA PREVIA AUTORIZACIÓN DE LA CÁMARA RESPECTIVA. El SUPLICATORIO es el procedimiento para levantar esa inmunidad: se presenta ante la cámara, que lo examina en Pleno en SESIÓN SECRETA pronunciándose sobre la autorización.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 86. ¿Pueden los Decretos-leyes afectar al Derecho electoral general?",
+      "options": {
+        "a": "Sí, en situaciones de urgencia electoral",
+        "b": "Solo si es el propio Congreso quien lo autoriza",
+        "c": "Solo pueden afectarle en aspectos puramente procedimentales",
+        "d": "No, el Derecho electoral general es una de las materias vedadas a los Decretos-leyes"
+      },
+      "correct": "d",
+      "explicacion": "Art. 86.1 CE. Los Decretos-leyes no podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos del Título I, al régimen de las CCAA NI AL DERECHO ELECTORAL GENERAL. El Derecho electoral es especialmente sensible porque afecta directamente a la legitimidad democrática del sistema.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 102. La acusación al Presidente del Gobierno por traición requiere la iniciativa de la cuarta parte del Congreso y la aprobación por mayoría absoluta del mismo. ¿Y la prerrogativa real de gracia?",
+      "options": {
+        "a": "La prerrogativa real de gracia no será aplicable a ninguno de los supuestos del artículo 102",
+        "b": "El Rey puede indultar al Presidente del Gobierno como a cualquier ciudadano",
+        "c": "El Rey puede conceder el indulto con aprobación del Senado",
+        "d": "El Rey puede conceder el indulto solo si el Congreso lo autoriza"
+      },
+      "correct": "a",
+      "explicacion": "Art. 102.3 CE. LA PRERROGATIVA REAL DE GRACIA NO SERÁ APLICABLE A NINGUNO DE LOS SUPUESTOS DEL PRESENTE ARTÍCULO. Esto impide que el Rey pueda proteger al Presidente del Gobierno y a los Ministros de la responsabilidad penal por sus actos en el ejercicio del cargo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 103. Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con:",
+      "options": {
+        "a": "La decisión del Gobierno",
+        "b": "La ley",
+        "c": "Un decreto del Consejo de Ministros",
+        "d": "El Reglamento Orgánico de cada Ministerio"
+      },
+      "correct": "b",
+      "explicacion": "Art. 103.2 CE. LOS ÓRGANOS DE LA ADMINISTRACIÓN DEL ESTADO SON CREADOS, REGIDOS Y COORDINADOS DE ACUERDO CON LA LEY. La reserva de ley garantiza que la organización administrativa no queda al arbitrio exclusivo del Gobierno sino que responde a mandatos del legislador.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 116. ¿Puede el Presidente del Gobierno proponer la disolución del Congreso mientras está vigente el estado de excepción?",
+      "options": {
+        "a": "Sí, puede disolver el Congreso en todo momento",
+        "b": "No, no podrá procederse a la disolución del Congreso mientras estén declarados los estados de alarma, excepción o sitio",
+        "c": "Solo en el estado de alarma, no en el de excepción",
+        "d": "Solo con aprobación previa del Senado"
+      },
+      "correct": "b",
+      "explicacion": "Art. 116.5 CE. NO PODRÁ PROCEDERSE A LA DISOLUCIÓN DEL CONGRESO MIENTRAS ESTÉN DECLARADOS ALGUNOS DE LOS ESTADOS comprendidos en el artículo 116 (alarma, excepción Y sitio). Esta garantía protege al órgano de control parlamentario durante las situaciones de crisis.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 126. ¿La Policía Judicial actúa solo bajo órdenes del juez?",
+      "options": {
+        "a": "No, depende de los Jueces, los Tribunales Y el Ministerio Fiscal en sus funciones de averiguación del delito",
+        "b": "Sí, exclusivamente del juez de instrucción",
+        "c": "Solo del Ministerio Fiscal, no de los jueces",
+        "d": "Solo en la fase de instrucción, no en la de juicio oral"
+      },
+      "correct": "a",
+      "explicacion": "Art. 126 CE. La Policía Judicial depende DE LOS JUECES, DE LOS TRIBUNALES Y DEL MINISTERIO FISCAL en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente. Los tres órganos (Jueces, Tribunales y MF) pueden dirigir a la Policía Judicial.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 147. ¿Pueden las Cortes Generales modificar un Estatuto de Autonomía sin la participación de la CCAA afectada?",
+      "options": {
+        "a": "Sí, las Cortes tienen plena soberanía para modificar cualquier norma de su ordenamiento",
+        "b": "No, la reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá la aprobación por las Cortes Generales mediante ley orgánica",
+        "c": "Solo pueden modificarlos si la CCAA incumple la Constitución (art. 155)",
+        "d": "Solo el TC puede ordenar la modificación de un Estatuto"
+      },
+      "correct": "b",
+      "explicacion": "Art. 147.3 CE. LA REFORMA DE LOS ESTATUTOS SE AJUSTARÁ AL PROCEDIMIENTO ESTABLECIDO EN LOS MISMOS y requerirá la aprobación por las Cortes Generales MEDIANTE LEY ORGÁNICA. El procedimiento de reforma estatutaria generalmente requiere la iniciativa o aprobación de la CCAA afectada antes de acudir a las Cortes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 155. El mecanismo del art. 155 puede incluir dar instrucciones a todas las autoridades de las CCAA. ¿Tiene límite temporal?",
+      "options": {
+        "a": "No, puede durar indefinidamente hasta que cese el incumplimiento",
+        "b": "Sí, el Senado puede ponerle fin en cualquier momento con la misma mayoría absoluta",
+        "c": "El plazo lo fija el propio acuerdo del Senado",
+        "d": "Dura automáticamente seis meses prorrogables"
+      },
+      "correct": "c",
+      "explicacion": "Art. 155 CE. La Constitución no fija un plazo máximo explícito para las medidas del art. 155. Sin embargo, EL PLAZO LO FIJA EL PROPIO ACUERDO DEL SENADO que autoriza las medidas; el Senado puede establecer su duración y puede revocarlas. Las medidas son temporales y proporcionales al incumplimiento.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 163. La cuestión de inconstitucionalidad planteada por un juez, ¿quién puede plantearla?",
+      "options": {
+        "a": "Cualquier ciudadano o parte del proceso",
+        "b": "Solo el juez o tribunal que conoce del proceso, de oficio o a instancia de parte",
+        "c": "El Ministerio Fiscal en cualquier proceso",
+        "d": "Solo el Tribunal Supremo"
+      },
+      "correct": "b",
+      "explicacion": "Art. 163 CE. La cuestión de inconstitucionalidad la plantea EL ÓRGANO JUDICIAL cuando considere, en algún proceso, que una norma con rango de ley aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución. El juez actúa DE OFICIO O A INSTANCIA DE PARTE, pero es él quien la plantea ante el TC.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 169. ¿Puede iniciarse la reforma constitucional cuando el Congreso está disuelto por el art. 115?",
+      "options": {
+        "a": "No, la Constitución prohíbe iniciar la reforma en tiempo de guerra o de vigencia de los estados del art. 116, pero la disolución del art. 115 no figura entre esas causas",
+        "b": "Sí, la disolución del Congreso no afecta a la reforma constitucional",
+        "c": "Sí está prohibido; la disolución implica imposibilidad de reforma hasta la nueva legislatura",
+        "d": "Solo puede iniciarse por el Senado mientras el Congreso está disuelto"
+      },
+      "correct": "a",
+      "explicacion": "Art. 169 CE. NO PODRÁ INICIARSE LA REFORMA CONSTITUCIONAL EN TIEMPO DE GUERRA O DE VIGENCIA DE ALGUNO DE LOS ESTADOS PREVISTOS EN EL ARTÍCULO 116 (alarma, excepción, sitio). La disolución del Congreso del art. 115 NO ESTÁ ENTRE ESAS CAUSAS. Sin embargo, si el Congreso está disuelto, materialmente no puede tramitarse la reforma.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo investigar actuaciones de una empresa privada?",
+      "options": {
+        "a": "Sí, puede investigar cualquier actuación que afecte a los ciudadanos",
+        "b": "Solo si la empresa privada presta un servicio público concesionado",
+        "c": "Solo si así lo solicita el ciudadano afectado",
+        "d": "No, las atribuciones del Defensor se extienden a la actividad de los ministros, autoridades administrativas, funcionarios y personas al servicio de las Administraciones públicas, no de empresas privadas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 9.2 LO 3/1981. LAS ATRIBUCIONES DEL DEFENSOR DEL PUEBLO SE EXTIENDEN A LA ACTIVIDAD DE LOS MINISTROS, AUTORIDADES ADMINISTRATIVAS, FUNCIONARIOS Y CUALQUIER PERSONA QUE ACTÚE AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS. NO alcanza a las empresas privadas, salvo cuando actúan como concesionarias de servicios públicos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española. La Constitución fue publicada en el BOE nº 311 de 29 de diciembre de 1978. ¿Cuándo entró en vigor?",
+      "options": {
+        "a": "El 27 de diciembre de 1978, día de la sanción real",
+        "b": "El 1 de enero de 1979",
+        "c": "El 29 de diciembre de 1978, el mismo día de su publicación en el BOE",
+        "d": "A los 20 días de su publicación, según las normas generales"
+      },
+      "correct": "c",
+      "explicacion": "Constitución Española, Disposición Final. La CE fue publicada en el BOE nº 311, de 29 de diciembre de 1978, ENTRANDO EN VIGOR ESE MISMO DÍA (29 de diciembre) como así se establece en su Disposición Final. No esperó el plazo ordinario de vacatio legis.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 159. ¿Qué perfil profesional deben tener los miembros del TC?",
+      "options": {
+        "a": "Solo Magistrados y Fiscales",
+        "b": "Solo Magistrados del Tribunal Supremo",
+        "c": "Exclusivamente catedráticos de Derecho Constitucional",
+        "d": "Magistrados, Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de 15 años de ejercicio"
+      },
+      "correct": "d",
+      "explicacion": "Art. 159.2 CE. Los miembros del TC deberán ser nombrados entre MAGISTRADOS Y FISCALES, PROFESORES DE UNIVERSIDAD, FUNCIONARIOS PÚBLICOS Y ABOGADOS, todos ellos JURISTAS DE RECONOCIDA COMPETENCIA con MÁS DE QUINCE AÑOS DE EJERCICIO PROFESIONAL.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_38_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 64. La propuesta y el nombramiento del Presidente del Gobierno y la disolución del Congreso prevista en el art. 99 son refrendados por el Presidente del Congreso. ¿Por qué no por el Presidente del Gobierno?",
+      "options": {
+        "a": "Por razones de protocolo y tradición constitucional",
+        "b": "Porque el Presidente del Congreso tiene mayor rango que el del Gobierno",
+        "c": "Porque en estos actos el Presidente del Gobierno todavía no existe (está siendo nombrado) o su mandato ya termina (disolución); el Presidente del Congreso es la única autoridad neutral disponible",
+        "d": "Por decisión arbitraria del constituyente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 64.1 CE. En el NOMBRAMIENTO DEL PRESIDENTE DEL GOBIERNO, este aún no existe (no puede refrendar su propio nombramiento). En la DISOLUCIÓN DEL ART. 99 (fracaso de investiduras), el Presidente del Gobierno está en funciones y en situación delicada. EN AMBOS CASOS EL PRESIDENTE DEL CONGRESO ES LA AUTORIDAD NEUTRAL DISPONIBLE.",
+      "ley": ""
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 23,
+  "preguntas": [
+    {
+      "id": "tema_04_test_23_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 30. Mediante ley pueden regularse los deberes de los ciudadanos en los casos de:",
+      "options": {
+        "a": "Huelga general que paralice los servicios esenciales",
+        "b": "Alteración del orden público en vía pública",
+        "c": "Grave riesgo, catástrofe o calamidad pública",
+        "d": "Estado de alarma declarado por el Gobierno"
+      },
+      "correct": "c",
+      "explicacion": "Art. 30.4 CE. MEDIANTE LEY podrán regularse los deberes de los ciudadanos EN LOS CASOS DE GRAVE RIESGO, CATÁSTROFE O CALAMIDAD PÚBLICA. Estos deberes son distintos del servicio militar y de la prestación social sustitutoria.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 31. El sistema tributario se inspira en los principios de igualdad y progresividad. ¿Qué límite expreso establece la Constitución para el sistema tributario?",
+      "options": {
+        "a": "Que los tipos impositivos no superen el 50% de la base imponible",
+        "b": "Que no grave rentas inferiores al salario mínimo interprofesional",
+        "c": "Que no se aplique retroactivamente",
+        "d": "Que en ningún caso tenga alcance confiscatorio"
+      },
+      "correct": "d",
+      "explicacion": "Art. 31.1 CE. El sistema tributario justo inspirado en los principios de igualdad y progresividad que, EN NINGÚN CASO, TENDRÁ ALCANCE CONFISCATORIO. La prohibición de confiscatoriedad es el límite constitucional expreso al poder impositivo del Estado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 32. La ley regulará las causas de separación y disolución del matrimonio y sus efectos. Además, la ley regulará:",
+      "options": {
+        "a": "Solo los efectos patrimoniales del matrimonio",
+        "b": "Únicamente los matrimonios civiles, dejando el religioso a las confesiones",
+        "c": "Las condiciones del matrimonio entre extranjeros en España",
+        "d": "Las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges"
+      },
+      "correct": "d",
+      "explicacion": "Art. 32.2 CE. La ley regulará: las FORMAS DE MATRIMONIO, la EDAD Y CAPACIDAD para contraerlo, los DERECHOS Y DEBERES DE LOS CÓNYUGES, las causas de SEPARACIÓN Y DISOLUCIÓN y sus EFECTOS. La Constitución es neutral sobre si el matrimonio puede ser entre personas del mismo sexo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 33. La expropiación forzosa requiere causa justificada. ¿Cuáles son las causas que la justifican?",
+      "options": {
+        "a": "Causa justificada de utilidad pública o interés social",
+        "b": "Solo causa de utilidad pública",
+        "c": "Solo interés social apreciado por el Gobierno",
+        "d": "Interés general, utilidad pública o necesidad de la Administración"
+      },
+      "correct": "a",
+      "explicacion": "Art. 33.3 CE. Nadie podrá ser privado de sus bienes y derechos sino por CAUSA JUSTIFICADA DE UTILIDAD PÚBLICA O INTERÉS SOCIAL, mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 34. Las fundaciones solo pueden ser disueltas o suspendidas en sus actividades mediante:",
+      "options": {
+        "a": "Resolución judicial motivada",
+        "b": "Resolución del Ministerio competente por motivos de interés público",
+        "c": "Acuerdo de la asamblea de la propia fundación",
+        "d": "Resolución del Protectorado de Fundaciones"
+      },
+      "correct": "a",
+      "explicacion": "Art. 34 CE. Las fundaciones solo podrán ser DISUELTAS O SUSPENDIDAS en sus actividades en virtud de RESOLUCIÓN JUDICIAL MOTIVADA. Esta garantía es idéntica a la de las asociaciones (art. 22.4 CE): en ambos casos se exige intervención judicial.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 35. ¿Tienen los españoles el derecho al trabajo y el deber de trabajar?",
+      "options": {
+        "a": "Solo tienen el derecho al trabajo, no el deber",
+        "b": "Tienen tanto el derecho al trabajo como el deber de trabajar",
+        "c": "Solo tienen el deber de trabajar, no un derecho subjetivo exigible",
+        "d": "El deber de trabajar solo aplica a los beneficiarios de prestaciones sociales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 35.1 CE. Todos los españoles tienen EL DEBER DE TRABAJAR Y EL DERECHO AL TRABAJO, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 36. En relación con los Colegios Profesionales, la estructura interna y el funcionamiento de los Colegios deberán ser:",
+      "options": {
+        "a": "Jerárquicos para garantizar la disciplina profesional",
+        "b": "Proporcionales a la representación de sus miembros por especialidad",
+        "c": "Los que determinen sus propios Estatutos sin restricción constitucional",
+        "d": "Democráticos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 36 CE. La ley regulará las peculiaridades del régimen jurídico de los Colegios Profesionales. La ESTRUCTURA INTERNA Y EL FUNCIONAMIENTO DE LOS COLEGIOS DEBERÁN SER DEMOCRÁTICOS. Este requisito aplica también a los partidos políticos (art. 6), sindicatos (art. 7) y organizaciones profesionales (art. 52).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 37. La ley que regule el ejercicio del derecho de huelga garantizará el mantenimiento de:",
+      "options": {
+        "a": "El orden público y la seguridad ciudadana",
+        "b": "La producción mínima necesaria para evitar daños económicos",
+        "c": "Los derechos laborales de los trabajadores no huelguistas",
+        "d": "Los servicios esenciales de la comunidad"
+      },
+      "correct": "d",
+      "explicacion": "Art. 37.2 CE. La ley que regule el ejercicio del derecho de huelga incluirá las garantías precisas para asegurar EL MANTENIMIENTO DE LOS SERVICIOS ESENCIALES DE LA COMUNIDAD. Igualmente, la ley que regule el conflicto colectivo debe incluir estas garantías.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 38. La libertad de empresa se reconoce en el marco de la economía de mercado. Los poderes públicos deben garantizar también:",
+      "options": {
+        "a": "El ejercicio de la libertad de empresa y la defensa de la productividad",
+        "b": "La distribución equitativa de los beneficios empresariales",
+        "c": "El acceso igualitario al mercado para todas las empresas",
+        "d": "La prohibición de monopolios en todos los sectores económicos"
+      },
+      "correct": "a",
+      "explicacion": "Art. 38 CE. Los poderes públicos GARANTIZAN Y PROTEGEN su ejercicio (la libertad de empresa) Y LA DEFENSA DE LA PRODUCTIVIDAD, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 39. ¿Cuál es el fundamento constitucional de la investigación de la paternidad?",
+      "options": {
+        "a": "El artículo 10 CE sobre la dignidad de la persona",
+        "b": "El artículo 14 CE sobre igualdad ante la ley",
+        "c": "El artículo 32 CE sobre el matrimonio",
+        "d": "El artículo 39.2 CE sobre protección a la familia e igualdad de los hijos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 39.2 CE. Los poderes públicos aseguran la protección integral de los hijos, IGUALES ESTOS ANTE LA LEY CON INDEPENDENCIA DE SU FILIACIÓN. LA LEY POSIBILITARÁ LA INVESTIGACIÓN DE LA PATERNIDAD. Esto garantiza el derecho a conocer el propio origen biológico.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 40. Los poderes públicos fomentarán una política que garantice la formación y readaptación profesionales. ¿Qué más garantizan los poderes públicos en el ámbito laboral?",
+      "options": {
+        "a": "La seguridad e higiene en el trabajo y el descanso necesario, mediante la limitación de la jornada laboral y vacaciones periódicas retribuidas",
+        "b": "La igualdad salarial entre hombres y mujeres",
+        "c": "El salario mínimo interprofesional actualizado anualmente",
+        "d": "La representación proporcional de los trabajadores en los consejos de administración"
+      },
+      "correct": "a",
+      "explicacion": "Art. 40.2 CE. Los poderes públicos fomentarán la formación y readaptación profesionales; VELARÁN POR LA SEGURIDAD E HIGIENE EN EL TRABAJO y GARANTIZARÁN EL DESCANSO NECESARIO, mediante la LIMITACIÓN DE LA JORNADA LABORAL, LAS VACACIONES PERIÓDICAS RETRIBUIDAS y la promoción de centros adecuados.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 41. Las asistencias y prestaciones complementarias de la Seguridad Social son:",
+      "options": {
+        "a": "Obligatorias para el Estado",
+        "b": "Libres",
+        "c": "Prohibidas para no afectar al régimen público",
+        "d": "Optativas solo para los trabajadores autónomos"
+      },
+      "correct": "b",
+      "explicacion": "Art. 41 CE. Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad. La ASISTENCIA Y PRESTACIONES COMPLEMENTARIAS SERÁN LIBRES.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 45. ¿Solo el derecho o también el deber de conservar el medio ambiente?",
+      "options": {
+        "a": "Existe tanto el derecho a disfrutar de un medio ambiente adecuado como el deber de conservarlo",
+        "b": "Solo existe el derecho a disfrutar del medio ambiente",
+        "c": "Solo existe el deber de conservarlo, no un derecho subjetivo a disfrutarlo",
+        "d": "El deber de conservación solo incumbe a los poderes públicos, no a los ciudadanos"
+      },
+      "correct": "a",
+      "explicacion": "Art. 45.1 CE. TODOS TIENEN EL DERECHO a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, ASÍ COMO EL DEBER DE CONSERVARLO. Derecho y deber coexisten en este precepto: el ciudadano puede exigir un ambiente sano pero también está obligado a cuidarlo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 46. La ley penal sancionará los atentados contra el patrimonio histórico y artístico. ¿Quién garantiza su conservación?",
+      "options": {
+        "a": "Exclusivamente el Estado central",
+        "b": "Solo las Comunidades Autónomas en su respectivo territorio",
+        "c": "Los poderes públicos, cualquiera que sea el régimen jurídico y la titularidad de los bienes",
+        "d": "Los propietarios privados de los bienes catalogados"
+      },
+      "correct": "c",
+      "explicacion": "Art. 46 CE. LOS PODERES PÚBLICOS garantizarán la conservación y promoverán el enriquecimiento del patrimonio histórico, cultural y artístico de los pueblos de España, CUALQUIERA QUE SEA SU RÉGIMEN JURÍDICO Y SU TITULARIDAD. Tanto los bienes públicos como los privados están protegidos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 47. ¿Quién puede participar en las plusvalías urbanísticas según la Constitución?",
+      "options": {
+        "a": "El Estado exclusivamente",
+        "b": "El propietario del suelo y el Ayuntamiento a partes iguales",
+        "c": "La comunidad",
+        "d": "Las CCAA en ejercicio de sus competencias urbanísticas"
+      },
+      "correct": "c",
+      "explicacion": "Art. 47 CE. LA COMUNIDAD PARTICIPARÁ EN LAS PLUSVALÍAS que genere la acción urbanística de los entes públicos. Los poderes públicos promoverán las condiciones necesarias y regularán la utilización del suelo de acuerdo con el interés general para impedir la especulación.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 49 (reformado en 2024). Las personas con discapacidad ejercen los derechos previstos en el Título I en condiciones de:",
+      "options": {
+        "a": "Equiparación con los demás ciudadanos bajo tutela administrativa",
+        "b": "Libertad e igualdad reales y efectivas",
+        "c": "Protección especial que puede implicar limitación de capacidad",
+        "d": "Acceso gradual según el grado de discapacidad reconocido"
+      },
+      "correct": "b",
+      "explicacion": "Art. 49.1 CE (reforma 2024). Las personas con discapacidad ejercen los derechos previstos en este Título en CONDICIONES DE LIBERTAD E IGUALDAD REALES Y EFECTIVAS. Se regulará por ley la protección especial que sea necesaria para dicho ejercicio.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 50. Los poderes públicos promoverán el bienestar de la tercera edad mediante un sistema de servicios sociales que atenderá sus problemas específicos de:",
+      "options": {
+        "a": "Solo salud y pensiones",
+        "b": "Salud, vivienda, cultura y ocio",
+        "c": "Salud, empleo y formación continua",
+        "d": "Salud y accesibilidad al transporte"
+      },
+      "correct": "b",
+      "explicacion": "Art. 50 CE. Los poderes públicos promoverán el bienestar de la tercera edad mediante un sistema de servicios sociales que atenderá sus problemas específicos de SALUD, VIVIENDA, CULTURA Y OCIO. Además, garantizarán pensiones adecuadas y periódicamente actualizadas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 53. Los derechos del Capítulo tercero del Título I (principios rectores, arts. 39-52) tienen como garantía principal:",
+      "options": {
+        "a": "El recurso de amparo ante el Tribunal Constitucional",
+        "b": "La jurisdicción ordinaria, según las leyes que los desarrollen",
+        "c": "El procedimiento preferente y sumario ante los tribunales",
+        "d": "La acción popular ante cualquier jurisdicción"
+      },
+      "correct": "b",
+      "explicacion": "Art. 53.3 CE. Los principios rectores (arts. 39-52) solo podrán ser alegados ante la JURISDICCIÓN ORDINARIA de acuerdo con lo que dispongan LAS LEYES QUE LOS DESARROLLEN. No son directamente invocables como derechos fundamentales; necesitan ser desarrollados por ley para generar derechos exigibles.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 54. El Defensor del Pueblo puede supervisar la actividad de la Administración y dará cuenta a las Cortes Generales. ¿Cuántos derechos está llamado a defender?",
+      "options": {
+        "a": "Los derechos de la Sección 1ª del Capítulo II (arts. 15-29)",
+        "b": "Todos los derechos reconocidos en la Constitución",
+        "c": "Los derechos comprendidos en el Título I (arts. 10-52 principalmente)",
+        "d": "Solo los derechos de los ciudadanos españoles, no de los extranjeros"
+      },
+      "correct": "c",
+      "explicacion": "Art. 54 CE. El Defensor del Pueblo es el alto comisionado de las Cortes Generales para la DEFENSA DE LOS DERECHOS COMPRENDIDOS EN ESTE TÍTULO (TÍTULO I), a cuyo efecto podrá supervisar la actividad de la Administración.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_23_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 55. Los derechos que pueden suspenderse individualmente para investigaciones de bandas armadas o terrorismo incluyen la detención preventiva, la inviolabilidad del domicilio y:",
+      "options": {
+        "a": "El derecho a la vida y a la integridad física",
+        "b": "El derecho a la igualdad ante la ley",
+        "c": "La garantía del secreto de las comunicaciones",
+        "d": "El derecho a la tutela judicial efectiva"
+      },
+      "correct": "c",
+      "explicacion": "Art. 55.2 CE. Para personas determinadas en relación con investigaciones de bandas armadas o terroristas, pueden suspenderse individualmente: la detención preventiva (plazo máx. 72h), la inviolabilidad del domicilio y LA GARANTÍA DEL SECRETO DE LAS COMUNICACIONES. Requiere intervención judicial y control parlamentario.",
+      "ley": ""
+    }
+  ]
+}

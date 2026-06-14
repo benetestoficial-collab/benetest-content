@@ -1,0 +1,307 @@
+{
+  "tema_numero": 3,
+  "tema": "Prevención de riesgos laborales",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_03_test_17_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La Presidencia de la Comisión Nacional de Seguridad y Salud en el Trabajo corresponderá a:",
+      "options": {
+        "a": "El Ministro de Trabajo",
+        "b": "La Secretaría de Estado de Empleo y Economía Social",
+        "c": "El Director del INSHT",
+        "d": "El Inspector Jefe de Trabajo"
+      },
+      "correct": "b",
+      "explicacion": "Art. 13.5 Ley 31/1995. La PRESIDENCIA de la Comisión Nacional corresponderá a la SECRETARÍA DE ESTADO DE EMPLEO Y ECONOMÍA SOCIAL, recayendo la Vicepresidencia de la AGE en el Subsecretario de Sanidad y Consumo.",
+      "ley": "Ley 31/1995, art. 13.5"
+    },
+    {
+      "id": "tema_03_test_17_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los reconocimientos médicos y psicológicos en la Guardia Civil serán realizados por los Servicios de Asistencia Sanitaria y de Psicología de la Guardia Civil, siendo independientes de cualquier otro. En todo caso, sus resultados serán comunicados a:",
+      "options": {
+        "a": "El mando directo del personal reconocido",
+        "b": "La Dirección General de la Guardia Civil",
+        "c": "El Servicio de Prevención de la DGGC",
+        "d": "Cada uno de los interesados"
+      },
+      "correct": "d",
+      "explicacion": "Art. 6 RD 179/2005. Los reconocimientos son realizados por los Servicios de Asistencia Sanitaria y de Psicología de la GC, y sus RESULTADOS serán comunicados A CADA UNO DE LOS INTERESADOS.",
+      "ley": "RD 179/2005, art. 6"
+    },
+    {
+      "id": "tema_03_test_17_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. En el procedimiento para el establecimiento de medidas correctoras en la Guardia Civil, si no se formulasen alegaciones a la Propuesta de Requerimiento en el plazo de 30 días hábiles, dicha Propuesta:",
+      "options": {
+        "a": "Adquirirá automáticamente carácter definitivo",
+        "b": "Se remitirá a la Inspección de Trabajo y Seguridad Social",
+        "c": "Será elevada al Secretario de Estado de Seguridad para su resolución",
+        "d": "Decaerá automáticamente y deberá iniciarse un nuevo procedimiento"
+      },
+      "correct": "a",
+      "explicacion": "Art. 16 RD 179/2005. Si NO se formulasen ALEGACIONES en el plazo de 30 DÍAS HÁBILES, la Propuesta de Requerimiento ADQUIRIRÁ AUTOMÁTICAMENTE CARÁCTER DEFINITIVO, y el Director General de la GC encomendará al Servicio de Prevención los trámites necesarios.",
+      "ley": "RD 179/2005, art. 16"
+    },
+    {
+      "id": "tema_03_test_17_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cómo se define la «PREVENCIÓN» en la Ley 31/1995?",
+      "options": {
+        "a": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo",
+        "b": "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo",
+        "c": "Cualquier característica del trabajo que pueda influir en la generación de riesgos",
+        "d": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo"
+      },
+      "correct": "a",
+      "explicacion": "Art. 4.1 Ley 31/1995. PREVENCIÓN: el CONJUNTO DE ACTIVIDADES O MEDIDAS adoptadas o previstas en TODAS LAS FASES de actividad de la empresa con el fin de EVITAR O DISMINUIR los riesgos derivados del trabajo.",
+      "ley": "Ley 31/1995, art. 4.1"
+    },
+    {
+      "id": "tema_03_test_17_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. La Comisión Técnica de Prevención de Riesgos Laborales es el órgano específico de participación y negociación de las Organizaciones Sindicales en materia de PRL en la AGE. ¿De quién depende?",
+      "options": {
+        "a": "Del Instituto Nacional de Seguridad e Higiene en el Trabajo",
+        "b": "Del Ministerio de Trabajo y Economía Social",
+        "c": "De la Mesa General de Negociación de la Administración General del Estado",
+        "d": "Del Comité de Seguridad y Salud de la AGE"
+      },
+      "correct": "c",
+      "explicacion": "Art. 4.2 RD 67/2010. La COMISIÓN TÉCNICA DE PREVENCIÓN DE RIESGOS LABORALES es el órgano específico de PARTICIPACIÓN Y NEGOCIACIÓN de las Organizaciones Sindicales en materia de PRL y DEPENDE DE LA MESA GENERAL DE NEGOCIACIÓN DE LA AGE.",
+      "ley": "RD 67/2010, art. 4.2"
+    },
+    {
+      "id": "tema_03_test_17_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre las «Condiciones de Trabajo».",
+      "options": {
+        "a": "Quedan incluidas las características generales de los locales, instalaciones, equipos, productos y demás útiles",
+        "b": "Se incluye la naturaleza de los agentes físicos, químicos y biológicos presentes en el ambiente",
+        "c": "Se incluyen los procedimientos para la utilización de los agentes que influyan en la generación de riesgos",
+        "d": "Solo se consideran condiciones de trabajo las características físicas del entorno, no la organización"
+      },
+      "correct": "d",
+      "explicacion": "Art. 4.7.d) Ley 31/1995. Se incluyen TODAS AQUELLAS OTRAS CARACTERÍSTICAS DEL TRABAJO, incluidas las relativas a su ORGANIZACIÓN Y ORDENACIÓN, que influyan en la magnitud de los riesgos. La organización SÍ está incluida.",
+      "ley": "Ley 31/1995, art. 4.7"
+    },
+    {
+      "id": "tema_03_test_17_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La vigilancia de la salud en la Guardia Civil garantizada por la DGGC tendrá carácter periódico y voluntario, excepto cuando sea necesaria para verificar si el estado de salud de este personal puede constituir un peligro para él mismo o para:",
+      "options": {
+        "a": "Las demás personas relacionadas con la función que desempeña",
+        "b": "El cumplimiento de las misiones encomendadas",
+        "c": "El prestigio del Cuerpo",
+        "d": "La imagen institucional de la Guardia Civil"
+      },
+      "correct": "a",
+      "explicacion": "Art. 6 RD 179/2005. La excepción al carácter VOLUNTARIO se produce cuando sea necesaria para VERIFICAR si el ESTADO DE SALUD puede CONSTITUIR UN PELIGRO PARA ÉL MISMO O PARA LAS DEMÁS PERSONAS relacionadas con la función que desempeña.",
+      "ley": "RD 179/2005, art. 6"
+    },
+    {
+      "id": "tema_03_test_17_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. En el ámbito de la Administración General del Estado se establecerá una colaboración permanente entre el Ministerio de Trabajo y Seguridad Social, el Ministerio de Educación y Ciencia y:",
+      "options": {
+        "a": "El Ministerio de Industria",
+        "b": "El Ministerio del Interior",
+        "c": "El Ministerio de Justicia",
+        "d": "El Ministerio de Sanidad y Consumo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 5.2 Ley 31/1995. Se establecerá una COLABORACIÓN PERMANENTE entre: el MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL, el MINISTERIO DE EDUCACIÓN Y CIENCIA y el MINISTERIO DE SANIDAD Y CONSUMO, para establecer los niveles formativos y especializaciones idóneas.",
+      "ley": "Ley 31/1995, art. 5.2"
+    },
+    {
+      "id": "tema_03_test_17_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre las funciones del INSHT.",
+      "options": {
+        "a": "Asesoramiento técnico en la elaboración de la normativa legal y en el desarrollo de la normalización",
+        "b": "Colaboración con organismos internacionales y desarrollo de programas de cooperación",
+        "c": "Imposición de sanciones directas a las empresas infractoras",
+        "d": "Apoyo técnico y colaboración con la Inspección de Trabajo y Seguridad Social"
+      },
+      "correct": "c",
+      "explicacion": "Art. 8 Ley 31/1995. El INSHT NO tiene potestad sancionadora directa. Sus funciones son: asesoramiento técnico, promoción de formación e investigación, APOYO a la Inspección de Trabajo, y colaboración con organismos internacionales.",
+      "ley": "Ley 31/1995, art. 8"
+    },
+    {
+      "id": "tema_03_test_17_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La Comisión Nacional de Seguridad y Salud en el Trabajo funcionará en Pleno, en Comisión Permanente y en:",
+      "options": {
+        "a": "Comisiones Territoriales",
+        "b": "Grupos de Trabajo",
+        "c": "Subcomisiones Técnicas",
+        "d": "Comités Especiales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 13.7 Ley 31/1995. La Comisión Nacional FUNCIONARÁ: en PLENO, en COMISIÓN PERMANENTE y en GRUPOS DE TRABAJO.",
+      "ley": "Ley 31/1995, art. 13.7"
+    },
+    {
+      "id": "tema_03_test_17_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El coste de las medidas relativas a la seguridad y la salud en el trabajo:",
+      "options": {
+        "a": "Podrá descontarse de la nómina del trabajador si éste incumple las normas de seguridad",
+        "b": "Será compartido a partes iguales entre empresa y trabajadores",
+        "c": "No deberá recaer en modo alguno sobre los trabajadores",
+        "d": "Podrá ser asumido por el trabajador hasta un máximo del 25%"
+      },
+      "correct": "c",
+      "explicacion": "Art. 14.5 Ley 31/1995. El COSTE de las medidas relativas a la seguridad y la salud en el trabajo NO DEBERÁ RECAER EN MODO ALGUNO SOBRE LOS TRABAJADORES.",
+      "ley": "Ley 31/1995, art. 14.5"
+    },
+    {
+      "id": "tema_03_test_17_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La acción preventiva en la empresa se planificará por el empresario a partir de una evaluación inicial de los riesgos. Esta evaluación deberá actualizarse cuando cambien las condiciones de trabajo y revisarse con ocasión de:",
+      "options": {
+        "a": "Cada inicio del año natural",
+        "b": "Los daños para la salud que se hayan producido",
+        "c": "La solicitud de la Inspección de Trabajo",
+        "d": "Cada nueva contratación de trabajadores"
+      },
+      "correct": "b",
+      "explicacion": "Art. 16.1 Ley 31/1995. La evaluación será ACTUALIZADA cuando CAMBIEN LAS CONDICIONES DE TRABAJO y, en todo caso, se someterá a consideración y se REVISARÁ, si fuera necesario, con ocasión de los DAÑOS PARA LA SALUD que se hayan producido.",
+      "ley": "Ley 31/1995, art. 16.1"
+    },
+    {
+      "id": "tema_03_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Aunque las actividades militares de la Guardia Civil están excluidas de la Ley 31/1995, esta Ley respecto a dichas actividades:",
+      "options": {
+        "a": "No tiene ninguna relevancia ni aplicación",
+        "b": "Solo se aplicará si lo autoriza el Ministerio de Defensa",
+        "c": "Se aplicará directamente sin adaptación alguna",
+        "d": "Inspirará la normativa específica que se dicte para regular la protección de la seguridad y la salud"
+      },
+      "correct": "d",
+      "explicacion": "Art. 3.2 Ley 31/1995. Aunque excluida, la Ley 31/1995 INSPIRARÁ LA NORMATIVA ESPECÍFICA que se dicte para regular la protección de la seguridad y la salud de los trabajadores en las actividades excluidas.",
+      "ley": "Ley 31/1995, art. 3.2"
+    },
+    {
+      "id": "tema_03_test_17_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El Gobierno regulará las normas reglamentarias sobre prevención previa consulta a las organizaciones sindicales y empresariales. Entre las materias a regular figura el procedimiento de calificación de las enfermedades profesionales, así como requisitos y procedimientos para la comunicación e información a la autoridad competente de:",
+      "options": {
+        "a": "Los contratos de trabajo en sectores de riesgo",
+        "b": "Las actas de infracción de la Inspección de Trabajo",
+        "c": "Las condiciones salariales de los trabajadores expuestos",
+        "d": "Los daños derivados del trabajo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 6.1.g) Ley 31/1995. El Gobierno regulará el PROCEDIMIENTO DE CALIFICACIÓN DE LAS ENFERMEDADES PROFESIONALES, así como los requisitos y procedimientos para la comunicación e información a la autoridad competente de los DAÑOS DERIVADOS DEL TRABAJO.",
+      "ley": "Ley 31/1995, art. 6.1.g"
+    },
+    {
+      "id": "tema_03_test_17_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. El incumplimiento por los empresarios de sus obligaciones en materia de prevención de riesgos laborales dará lugar a responsabilidades:",
+      "options": {
+        "a": "Administrativas, penales y civiles",
+        "b": "Laborales y administrativas exclusivamente",
+        "c": "Solo administrativas",
+        "d": "Solo penales"
+      },
+      "correct": "a",
+      "explicacion": "Art. 42 Ley 31/1995. El incumplimiento empresarial dará lugar a RESPONSABILIDADES: ADMINISTRATIVAS, PENALES Y CIVILES. Las responsabilidades administrativas son COMPATIBLES con las indemnizaciones y el RECARGO de prestaciones económicas de la Seguridad Social.",
+      "ley": "Ley 31/1995, art. 42"
+    },
+    {
+      "id": "tema_03_test_17_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Cuando el Inspector de Trabajo compruebe una infracción a la normativa sobre prevención de riesgos laborales, requerirá al empresario para la subsanación de las deficiencias observadas. El requerimiento se hará saber por escrito al empresario y se pondrá, asimismo, en conocimiento de:",
+      "options": {
+        "a": "La Autoridad Judicial",
+        "b": "El Instituto Nacional de Seguridad y Salud en el Trabajo",
+        "c": "El Comité de Empresa",
+        "d": "Los Delegados de Prevención"
+      },
+      "correct": "d",
+      "explicacion": "Art. 43.2 Ley 31/1995. El requerimiento se HARÁ SABER POR ESCRITO al empresario señalando las anomalías y el plazo para subsanarlas. Dicho requerimiento se pondrá en conocimiento de los DELEGADOS DE PREVENCIÓN.",
+      "ley": "Ley 31/1995, art. 43.2"
+    },
+    {
+      "id": "tema_03_test_17_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. El Real Decreto 67/2010 tiene por objeto la adaptación de la Ley 31/1995 a la Administración General del Estado. ¿En qué ámbito es de aplicación?",
+      "options": {
+        "a": "Solo en los organismos con personal laboral",
+        "b": "En la Administración General del Estado y en los Organismos Públicos vinculados o dependientes de ella que tengan personal funcionario o estatutario, ya tengan o no además personal laboral",
+        "c": "Únicamente en las Delegaciones y Subdelegaciones del Gobierno",
+        "d": "Solo en los Ministerios con más de 500 empleados"
+      },
+      "correct": "b",
+      "explicacion": "Art. 2.1 RD 67/2010. Es de APLICACIÓN en la AGE y en los ORGANISMOS PÚBLICOS vinculados o dependientes de ella que tengan PERSONAL FUNCIONARIO O ESTATUTARIO, YA TENGAN O NO, ADEMÁS, PERSONAL LABORAL.",
+      "ley": "RD 67/2010, art. 2.1"
+    },
+    {
+      "id": "tema_03_test_17_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre el «Riesgo Laboral Grave e Inminente».",
+      "options": {
+        "a": "En caso de agentes que causen daños graves, el riesgo existe aunque los daños no se manifiesten de forma inmediata",
+        "b": "Debe poder suponer un daño grave para la salud de los trabajadores",
+        "c": "Solo existe riesgo grave e inminente cuando el daño ya se ha producido",
+        "d": "Debe resultar probable racionalmente que se materialice en un futuro inmediato"
+      },
+      "correct": "c",
+      "explicacion": "Art. 4.4 Ley 31/1995. El riesgo grave e inminente requiere que sea PROBABLE que se materialice y que pueda SUPONER UN DAÑO GRAVE. No es necesario que el daño ya se haya producido; puede existir aunque los daños no se manifiesten de forma inmediata.",
+      "ley": "Ley 31/1995, art. 4.4"
+    },
+    {
+      "id": "tema_03_test_17_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Cuando concurran circunstancias de excepcional gravedad en las infracciones en materia de seguridad y salud, el Gobierno o los órganos de gobierno de las CCAA podrán acordar la suspensión de las actividades laborales y, en caso extremo:",
+      "options": {
+        "a": "El cierre del centro de trabajo",
+        "b": "La inhabilitación permanente del empresario",
+        "c": "La disolución de la empresa",
+        "d": "La intervención judicial de la empresa"
+      },
+      "correct": "a",
+      "explicacion": "Art. 53 Ley 31/1995. Cuando concurran CIRCUNSTANCIAS DE EXCEPCIONAL GRAVEDAD, el Gobierno o los órganos de gobierno de las CCAA podrán acordar: la SUSPENSIÓN DE LAS ACTIVIDADES por tiempo determinado, o el CIERRE DEL CENTRO DE TRABAJO, en CASO EXTREMO.",
+      "ley": "Ley 31/1995, art. 53"
+    },
+    {
+      "id": "tema_03_test_17_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los Planes de Emergencia de edificios e instalaciones en la Guardia Civil serán definidos, implantados y mantenidos al día por los Órganos de Prevención y se incorporarán como:",
+      "options": {
+        "a": "Parte integrante del Plan de Prevención de Riesgos Laborales",
+        "b": "Capítulo específico del Plan de Operaciones de la unidad",
+        "c": "Documentos independientes de aplicación autónoma",
+        "d": "Anexo a los correspondientes planes de seguridad de los centros y organismos de la DGGC"
+      },
+      "correct": "d",
+      "explicacion": "Art. 5 RD 179/2005. Los Planes de Emergencia se INCORPORARÁN como ANEXO a los correspondientes PLANES DE SEGURIDAD DE LOS CENTROS Y ORGANISMOS DE LA DGGC.",
+      "ley": "RD 179/2005, art. 5"
+    }
+  ]
+}

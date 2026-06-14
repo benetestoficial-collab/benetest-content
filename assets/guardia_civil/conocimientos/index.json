@@ -11,16 +11,474 @@
       "total_preguntas": 10
     },
     "tema_02": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_03": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Prevención de riesgos laborales",
+          "archivo": "guardia_civil/conocimientos/tema_03/tema_03_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_04": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "1 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "2 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "3 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "4 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "5 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "6 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "7 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "8 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "9 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "10 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "11 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "12 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "13 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "14 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "15 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "16 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "17 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "18 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "19 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "20 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_20.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "21 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_21.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "22 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_22.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "23 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_23.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "24 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_24.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "25 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_25.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "26 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_26.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "27 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_27.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "28 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_28.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "29 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_29.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "30 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_30.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "31 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_31.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "32 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_32.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "33 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_33.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "34 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_34.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "35 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_35.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "36 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_36.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "37 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_37.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "38 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_38.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "39 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_39.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "40 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_40.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "41 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_41.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "42 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_42.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "43 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_43.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "44 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_44.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "45 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_45.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "46 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_46.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "47 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_47.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "48 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_48.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "49 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_49.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "50 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_50.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "51 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_51.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 1020
     },
     "tema_05": {
       "tests": [],

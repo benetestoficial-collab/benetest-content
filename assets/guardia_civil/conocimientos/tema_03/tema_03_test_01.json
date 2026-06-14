@@ -1,0 +1,307 @@
+{
+  "tema_numero": 3,
+  "tema": "Prevención de riesgos laborales",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_03_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La normativa sobre Prevención de Riesgos Laborales está constituida por:",
+      "options": {
+        "a": "Únicamente la Ley 31/1995",
+        "b": "La Ley 31/1995, sus disposiciones de desarrollo o complementarias y otras normas con prescripciones preventivas",
+        "c": "Solamente las normas reglamentarias dictadas por el Gobierno",
+        "d": "Exclusivamente los convenios colectivos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). La normativa sobre prevención está formada por la Ley 31/1995, sus disposiciones de desarrollo o complementarias y cuantas otras normas contengan prescripciones relativas a medidas preventivas en el ámbito laboral.",
+      "ley": "Ley 31/1995, art. 1"
+    },
+    {
+      "id": "tema_03_test_01_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuál es el objeto principal de la Ley 31/1995?",
+      "options": {
+        "a": "Regular el régimen disciplinario de los trabajadores",
+        "b": "Promover la seguridad y la salud de los trabajadores",
+        "c": "Establecer únicamente sanciones en materia laboral",
+        "d": "Regular exclusivamente los accidentes de trabajo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). La Ley tiene por objeto promover la seguridad y la salud de los trabajadores mediante medidas y actividades necesarias para la prevención de riesgos derivados del trabajo.",
+      "ley": "Ley 31/1995, art. 2.1"
+    },
+    {
+      "id": "tema_03_test_01_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA. La Ley 31/1995 establece principios generales relativos a:",
+      "options": {
+        "a": "La protección de la seguridad y de la salud",
+        "b": "La eliminación o disminución de los riesgos derivados del trabajo",
+        "c": "La información, consulta, participación equilibrada y formación preventiva",
+        "d": "La determinación de las retribuciones básicas de los trabajadores"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La Ley establece principios preventivos como protección, eliminación o disminución de riesgos, información, consulta, participación y formación, pero no regula las retribuciones básicas.",
+      "ley": "Ley 31/1995, art. 2.1"
+    },
+    {
+      "id": "tema_03_test_01_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Las disposiciones laborales contenidas en la Ley 31/1995 y en sus normas reglamentarias tendrán carácter de:",
+      "options": {
+        "a": "Derecho necesario mínimo indisponible",
+        "b": "Derecho supletorio disponible",
+        "c": "Normas meramente orientativas",
+        "d": "Recomendaciones de carácter técnico"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Las disposiciones laborales de la Ley y de sus normas reglamentarias tienen carácter de Derecho necesario mínimo indisponible, aunque pueden ser mejoradas por convenio colectivo.",
+      "ley": "Ley 31/1995, art. 2.2"
+    },
+    {
+      "id": "tema_03_test_01_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La Ley 31/1995 será de aplicación:",
+      "options": {
+        "a": "Solo a los trabajadores por cuenta ajena del sector privado",
+        "b": "A las relaciones laborales y, con peculiaridades, al personal civil al servicio de las Administraciones Públicas",
+        "c": "Únicamente al personal funcionario",
+        "d": "Solo a las empresas con más de cincuenta trabajadores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). La Ley se aplica en el ámbito de las relaciones laborales y también al personal civil al servicio de las Administraciones Públicas, con las peculiaridades previstas.",
+      "ley": "Ley 31/1995, art. 3.1"
+    },
+    {
+      "id": "tema_03_test_01_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto al ámbito de aplicación de la Ley 31/1995.",
+      "options": {
+        "a": "Será aplicable a las sociedades cooperativas en las que existan socios cuya actividad consista en la prestación de su trabajo personal",
+        "b": "Será aplicable al personal civil con relación administrativa o estatutaria al servicio de las Administraciones Públicas",
+        "c": "Será aplicable, sin excepción, a las actividades militares de la Guardia Civil",
+        "d": "No será de aplicación a determinadas funciones públicas cuando sus particularidades lo impidan"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). La Ley no será de aplicación a las actividades militares de la Guardia Civil cuando sus particularidades lo impidan, aunque inspirará la normativa específica que se dicte.",
+      "ley": "Ley 31/1995, art. 3.2"
+    },
+    {
+      "id": "tema_03_test_01_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuál de las siguientes actividades aparece expresamente excluida del ámbito de aplicación de la Ley 31/1995?",
+      "options": {
+        "a": "Relaciones laborales reguladas por el Estatuto de los Trabajadores",
+        "b": "Personal civil al servicio de las Administraciones Públicas",
+        "c": "Relación laboral de carácter especial del servicio del hogar familiar",
+        "d": "Sociedades cooperativas con socios trabajadores"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). La Ley no será de aplicación a la relación laboral de carácter especial del servicio del hogar familiar, aunque el titular del hogar debe cuidar que el trabajo se realice en condiciones de seguridad e higiene.",
+      "ley": "Ley 31/1995, art. 3.4"
+    },
+    {
+      "id": "tema_03_test_01_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. A efectos de la Ley 31/1995, se entenderá por prevención:",
+      "options": {
+        "a": "La posibilidad de que un trabajador sufra un daño derivado del trabajo",
+        "b": "El conjunto de actividades o medidas adoptadas o previstas para evitar o disminuir riesgos derivados del trabajo",
+        "c": "Las enfermedades, patologías o lesiones sufridas con motivo del trabajo",
+        "d": "Cualquier característica del trabajo que influya en los riesgos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). La prevención es el conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa para evitar o disminuir los riesgos derivados del trabajo.",
+      "ley": "Ley 31/1995, art. 4.1"
+    },
+    {
+      "id": "tema_03_test_01_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. A efectos de la Ley 31/1995, el riesgo laboral es:",
+      "options": {
+        "a": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo",
+        "b": "Toda lesión producida necesariamente durante la jornada laboral",
+        "c": "La enfermedad profesional ya declarada",
+        "d": "La infracción cometida por el empresario"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La Ley define el riesgo laboral como la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+      "ley": "Ley 31/1995, art. 4.2"
+    },
+    {
+      "id": "tema_03_test_01_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Para calificar un riesgo desde el punto de vista de su gravedad, se valorarán conjuntamente:",
+      "options": {
+        "a": "La edad del trabajador y su antigüedad",
+        "b": "La probabilidad de que se produzca el daño y la severidad del mismo",
+        "c": "La jornada laboral y el salario",
+        "d": "El número de trabajadores y el tipo de contrato"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Para valorar la gravedad de un riesgo se tienen en cuenta conjuntamente la probabilidad de que se produzca el daño y la severidad del mismo.",
+      "ley": "Ley 31/1995, art. 4.2"
+    },
+    {
+      "id": "tema_03_test_01_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Se entenderá como riesgo laboral grave e inminente aquel que:",
+      "options": {
+        "a": "Se materialice siempre de forma inmediata",
+        "b": "Haya causado ya una incapacidad laboral",
+        "c": "Resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave",
+        "d": "Exija en todo caso la intervención de la autoridad judicial"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El riesgo grave e inminente exige probabilidad racional de materialización en un futuro inmediato y posibilidad de daño grave para la salud de los trabajadores.",
+      "ley": "Ley 31/1995, art. 4.4"
+    },
+    {
+      "id": "tema_03_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Qué se entiende por equipo de trabajo?",
+      "options": {
+        "a": "Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo",
+        "b": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para protegerle",
+        "c": "La organización de trabajadores de una empresa",
+        "d": "El conjunto de medidas preventivas de una empresa"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Equipo de trabajo es cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+      "ley": "Ley 31/1995, art. 4.6"
+    },
+    {
+      "id": "tema_03_test_01_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA respecto a la condición de trabajo.",
+      "options": {
+        "a": "Comprende cualquier característica del trabajo que pueda influir significativamente en la generación de riesgos",
+        "b": "Incluye las características generales de locales, instalaciones, equipos, productos y útiles existentes en el centro de trabajo",
+        "c": "Incluye la naturaleza de los agentes físicos, químicos y biológicos presentes en el ambiente de trabajo",
+        "d": "Se limita exclusivamente al horario y jornada del trabajador"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La condición de trabajo no se limita a horario y jornada; comprende cualquier característica que pueda influir en los riesgos, incluidos locales, instalaciones, agentes, procedimientos y organización del trabajo.",
+      "ley": "Ley 31/1995, art. 4.7"
+    },
+    {
+      "id": "tema_03_test_01_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. Un equipo de protección individual es aquel destinado a:",
+      "options": {
+        "a": "Ser llevado o sujetado por el trabajador para protegerle de uno o varios riesgos",
+        "b": "Sustituir toda medida de protección colectiva",
+        "c": "Ser utilizado únicamente por la Inspección de Trabajo",
+        "d": "Eliminar cualquier obligación preventiva del empresario"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El equipo de protección individual es cualquier equipo destinado a ser llevado o sujetado por el trabajador para protegerle de uno o varios riesgos que puedan amenazar su seguridad o salud.",
+      "ley": "Ley 31/1995, art. 4.8"
+    },
+    {
+      "id": "tema_03_test_01_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La política en materia de prevención tendrá por objeto:",
+      "options": {
+        "a": "La promoción de la mejora de las condiciones de trabajo para elevar el nivel de protección",
+        "b": "La supresión de la negociación colectiva",
+        "c": "La fijación de las plantillas mínimas de las empresas",
+        "d": "La determinación de los salarios del personal preventivo"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La política preventiva tiene por objeto promover la mejora de las condiciones de trabajo dirigida a elevar el nivel de protección de la seguridad y salud de los trabajadores.",
+      "ley": "Ley 31/1995, art. 5.1"
+    },
+    {
+      "id": "tema_03_test_01_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre las normas reglamentarias previstas en la Ley 31/1995.",
+      "options": {
+        "a": "El Gobierno regulará determinadas materias mediante normas reglamentarias",
+        "b": "Las normas reglamentarias deberán ajustarse a los principios de política preventiva establecidos en la Ley",
+        "c": "Las normas reglamentarias mantendrán coordinación con la normativa sanitaria y de seguridad industrial",
+        "d": "Las normas reglamentarias serán dictadas exclusivamente por la Comisión Nacional de Seguridad y Salud en el Trabajo"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). Las normas reglamentarias corresponde dictarlas al Gobierno, previa consulta a las organizaciones sindicales y empresariales más representativas.",
+      "ley": "Ley 31/1995, art. 6"
+    },
+    {
+      "id": "tema_03_test_01_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Las Administraciones Públicas competentes en materia laboral desarrollarán funciones de:",
+      "options": {
+        "a": "Promoción de la prevención, asesoramiento técnico, vigilancia, control y sanción",
+        "b": "Exclusivamente sanción de infracciones",
+        "c": "Únicamente formación sanitaria",
+        "d": "Dirección de la actividad productiva de las empresas"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). Las Administraciones competentes en materia laboral desarrollan funciones de promoción, asesoramiento técnico, vigilancia, control del cumplimiento y sanción de infracciones.",
+      "ley": "Ley 31/1995, art. 7.1"
+    },
+    {
+      "id": "tema_03_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El Instituto Nacional de Seguridad y Salud en el Trabajo es:",
+      "options": {
+        "a": "El órgano judicial competente en prevención",
+        "b": "El órgano científico técnico especializado de la Administración General del Estado",
+        "c": "Un órgano disciplinario de las Comunidades Autónomas",
+        "d": "Una entidad privada de certificación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El Instituto Nacional de Seguridad y Salud en el Trabajo es el órgano científico técnico especializado de la Administración General del Estado en esta materia.",
+      "ley": "Ley 31/1995, art. 8.1"
+    },
+    {
+      "id": "tema_03_test_01_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuál de las siguientes funciones corresponde a la Inspección de Trabajo y Seguridad Social?",
+      "options": {
+        "a": "Aprobar las normas reglamentarias de prevención",
+        "b": "Ordenar la paralización inmediata de trabajos cuando exista riesgo grave e inminente",
+        "c": "Ejercer la Secretaría de la Comisión Nacional de Seguridad y Salud en el Trabajo",
+        "d": "Nombrar a los representantes empresariales en la Comisión Nacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). La Inspección de Trabajo y Seguridad Social puede ordenar la paralización inmediata de trabajos cuando advierta riesgo grave e inminente para la seguridad o salud de los trabajadores.",
+      "ley": "Ley 31/1995, art. 9.1.f"
+    },
+    {
+      "id": "tema_03_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La participación de empresarios y trabajadores en la planificación, programación, organización y control de la gestión preventiva constituye:",
+      "options": {
+        "a": "Un principio básico de la política de prevención de riesgos laborales",
+        "b": "Una función exclusiva de la Inspección de Trabajo",
+        "c": "Una competencia reservada al empresario",
+        "d": "Una actuación voluntaria sin relevancia legal"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La participación de empresarios y trabajadores, a través de sus organizaciones representativas, constituye un principio básico de la política de prevención de riesgos laborales.",
+      "ley": "Ley 31/1995, art. 12"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 8,
+  "preguntas": [
+    {
+      "id": "tema_04_test_08_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 137. El Estado se organiza territorialmente en:",
+      "options": {
+        "a": "Municipios y Comunidades Autónomas únicamente",
+        "b": "Municipios, comarcas, provincias y Comunidades Autónomas",
+        "c": "Municipios, provincias y Comunidades Autónomas",
+        "d": "Provincias y Comunidades Autónomas únicamente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 137 CE. El Estado se organiza territorialmente en MUNICIPIOS, EN PROVINCIAS Y EN LAS COMUNIDADES AUTÓNOMAS que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 140. En relación con los Alcaldes, según la Constitución:",
+      "options": {
+        "a": "Serán elegidos exclusivamente por sufragio universal directo de los vecinos",
+        "b": "Serán elegidos exclusivamente por los Concejales",
+        "c": "Serán nombrados por el Gobierno de la Comunidad Autónoma",
+        "d": "Serán elegidos por los Concejales o por los vecinos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 140 CE. La Constitución establece que los Alcaldes serán elegidos POR LOS CONCEJALES O POR LOS VECINOS. Los Concejales sí son elegidos exclusivamente por los vecinos mediante sufragio universal, igual, libre, directo y secreto.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 141. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante:",
+      "options": {
+        "a": "Ley ordinaria",
+        "b": "Ley orgánica",
+        "c": "Decreto del Consejo de Ministros",
+        "d": "Real Decreto refrendado por el Presidente del Gobierno"
+      },
+      "correct": "b",
+      "explicacion": "Art. 141.1 CE. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales MEDIANTE LEY ORGÁNICA. En los archipiélagos, las islas tendrán su administración propia en forma de Cabildos (Canarias) o Consejos (Baleares).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 143. La iniciativa del proceso autonómico, en el procedimiento ordinario, corresponde a las Diputaciones y a las dos terceras partes de los municipios que representen al menos la mayoría del censo electoral, debiendo cumplirse en el plazo de:",
+      "options": {
+        "a": "Seis meses desde el primer acuerdo adoptado",
+        "b": "Tres meses desde el primer acuerdo adoptado",
+        "c": "Un año desde el primer acuerdo adoptado",
+        "d": "Dos años desde el primer acuerdo adoptado"
+      },
+      "correct": "a",
+      "explicacion": "Art. 143.2 CE. Los requisitos de la iniciativa autonómica deberán ser cumplidos en el plazo de SEIS MESES desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas. Si no prospera, solo podrá reiterarse pasados cinco años.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 143. Si la iniciativa autonómica no prospera, ¿cuándo podrá reiterarse?",
+      "options": {
+        "a": "Pasados dos años",
+        "b": "Pasados tres años",
+        "c": "Pasados cinco años",
+        "d": "Pasados diez años"
+      },
+      "correct": "c",
+      "explicacion": "Art. 143.3 CE. La iniciativa, en caso de no prosperar, solamente podrá reiterarse PASADOS CINCO AÑOS. Esta limitación temporal busca evitar procesos autonómicos continuos fallidos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 145. En relación con la cooperación entre Comunidades Autónomas, señale la CORRECTA:",
+      "options": {
+        "a": "Está permitida la federación de Comunidades Autónomas con autorización de las Cortes",
+        "b": "Las CCAA pueden crear federaciones si así lo prevén sus Estatutos",
+        "c": "La federación de CCAA requiere referéndum en cada territorio afectado",
+        "d": "En ningún caso se admitirá la federación de Comunidades Autónomas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 145.1 CE. EN NINGÚN CASO se admitirá la federación de Comunidades Autónomas. Los acuerdos de cooperación entre CCAA pueden celebrarse, pero necesitarán la autorización de las Cortes Generales, salvo los previstos en los Estatutos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 147. Los Estatutos de Autonomía son:",
+      "options": {
+        "a": "La norma institucional básica de cada Comunidad Autónoma, pero no forman parte del ordenamiento estatal",
+        "b": "La norma institucional básica de cada Comunidad Autónoma y el Estado los reconoce y ampara como parte integrante de su ordenamiento jurídico",
+        "c": "Normas con el mismo rango que la Constitución en su ámbito territorial",
+        "d": "Normas de rango reglamentario aprobadas por las Asambleas autonómicas"
+      },
+      "correct": "b",
+      "explicacion": "Art. 147.1 CE. Los Estatutos son la NORMA INSTITUCIONAL BÁSICA de cada Comunidad Autónoma y el Estado los RECONOCE Y AMPARA COMO PARTE INTEGRANTE DE SU ORDENAMIENTO JURÍDICO. Su reforma requiere aprobación por las Cortes mediante ley orgánica.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 149. La seguridad pública es una competencia:",
+      "options": {
+        "a": "Exclusiva de las Comunidades Autónomas",
+        "b": "Exclusiva del Estado, sin posibilidad de que las CCAA creen policías propias",
+        "c": "Exclusiva del Estado, sin perjuicio de la posibilidad de creación de policías por las CCAA en la forma establecida en sus Estatutos en el marco de una ley orgánica",
+        "d": "Compartida en partes iguales entre el Estado y las Comunidades Autónomas"
+      },
+      "correct": "c",
+      "explicacion": "Art. 149.1.29ª CE. La seguridad pública es competencia exclusiva del Estado, SIN PERJUICIO de la posibilidad de creación de policías por las CCAA en la forma que se establezca en los respectivos Estatutos en el marco de lo que disponga UNA LEY ORGÁNICA.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 149. Señale la INCORRECTA en relación con las competencias exclusivas del Estado:",
+      "options": {
+        "a": "La defensa y Fuerzas Armadas",
+        "b": "La legislación laboral, sin perjuicio de su ejecución por los órganos de las CCAA",
+        "c": "La administración de Justicia",
+        "d": "La pesca en aguas interiores y el marisqueo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 149 y 148 CE. La PESCA EN AGUAS INTERIORES, el marisqueo y la acuicultura, la caza y la pesca fluvial son competencias que pueden ASUMIR LAS CCAA (art. 148.1.11ª). La pesca marítima sí es competencia exclusiva del Estado (art. 149.1.19ª).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 149. La autorización para la convocatoria de consultas populares por vía de referéndum es competencia:",
+      "options": {
+        "a": "Exclusiva del Presidente del Gobierno",
+        "b": "Compartida entre el Estado y las Comunidades Autónomas",
+        "c": "Exclusiva del Estado (art. 149.1.32ª)",
+        "d": "Exclusiva de cada Comunidad Autónoma en su territorio"
+      },
+      "correct": "c",
+      "explicacion": "Art. 149.1.32ª CE. La autorización para la convocatoria de consultas populares por vía de referéndum es COMPETENCIA EXCLUSIVA DEL ESTADO. Ninguna CCAA puede convocar un referéndum de autodeterminación sin esta autorización.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 150. Las leyes de armonización que puede dictar el Estado para armonizar disposiciones normativas de las CCAA, incluso en materias de su competencia, requerirán la apreciación de esta necesidad por:",
+      "options": {
+        "a": "Mayoría absoluta de cada Cámara",
+        "b": "Mayoría simple de cada Cámara",
+        "c": "Mayoría de dos tercios de ambas Cámaras reunidas en sesión conjunta",
+        "d": "Mayoría absoluta del Congreso únicamente"
+      },
+      "correct": "a",
+      "explicacion": "Art. 150.3 CE. Corresponde a las Cortes Generales, por MAYORÍA ABSOLUTA DE CADA CÁMARA, la apreciación de la necesidad de dictar leyes de armonización que establezcan principios para armonizar las disposiciones normativas de las CCAA.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 152. La organización institucional autonómica de las CCAA que accedieron por vía rápida se basa en:",
+      "options": {
+        "a": "Solo una Asamblea Legislativa elegida por sufragio universal",
+        "b": "Una Asamblea Legislativa, un Consejo de Gobierno con Presidente y un Tribunal Superior de Justicia",
+        "c": "Una Asamblea Legislativa y un Presidente elegido directamente por los ciudadanos",
+        "d": "Un Consejo de Gobierno y un Tribunal Constitucional autonómico"
+      },
+      "correct": "b",
+      "explicacion": "Art. 152.1 CE. La organización institucional autonómica se basa en: una ASAMBLEA LEGISLATIVA elegida por sufragio universal; un CONSEJO DE GOBIERNO con funciones ejecutivas y un PRESIDENTE elegido por la Asamblea y nombrado por el Rey; y un TRIBUNAL SUPERIOR DE JUSTICIA.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 155. En relación con el incumplimiento de obligaciones constitucionales o legales por una Comunidad Autónoma, el Gobierno, previo requerimiento al Presidente de la CCAA y con aprobación de la mayoría absoluta del Senado, podrá:",
+      "options": {
+        "a": "Adoptar las medidas necesarias para obligar al cumplimiento forzoso de sus obligaciones o para proteger el interés general",
+        "b": "Disolver la Asamblea autonómica por decreto del Consejo de Ministros",
+        "c": "Intervenir directamente la CCAA sin necesidad de aprobación parlamentaria en casos urgentes",
+        "d": "Suprimir la Comunidad Autónoma mediante ley orgánica"
+      },
+      "correct": "a",
+      "explicacion": "Art. 155.1 CE. El Gobierno, previo requerimiento al Presidente de la CCAA y con la aprobación de la MAYORÍA ABSOLUTA DEL SENADO, podrá adoptar las medidas necesarias para obligar a la CCAA al cumplimiento forzoso de sus obligaciones o para proteger el interés general.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 148. Las Comunidades Autónomas constituidas por la vía lenta podrán ampliar sus competencias, mediante reforma de sus Estatutos, transcurridos:",
+      "options": {
+        "a": "Dos años desde su constitución",
+        "b": "Cinco años desde su constitución",
+        "c": "Tres años desde su constitución",
+        "d": "Diez años desde su constitución"
+      },
+      "correct": "b",
+      "explicacion": "Art. 148.2 CE. Transcurridos CINCO AÑOS, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149 (competencias exclusivas del Estado).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 141. En los archipiélagos, las islas tendrán su administración propia en forma de:",
+      "options": {
+        "a": "Cabildos o Consejos",
+        "b": "Mancomunidades",
+        "c": "Diputaciones insulares",
+        "d": "Comarcas insulares"
+      },
+      "correct": "a",
+      "explicacion": "Art. 141.4 CE. En los archipiélagos, las islas tendrán además su administración propia en forma de CABILDOS O CONSEJOS. Los Cabildos son los órganos insulares en Canarias, y los Consejos Insulares en Baleares.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 149. Las relaciones internacionales son competencia:",
+      "options": {
+        "a": "Compartida entre el Estado y las CCAA que lo soliciten",
+        "b": "De las CCAA con más de un millón de habitantes",
+        "c": "Del Ministerio de Asuntos Exteriores, sin reserva constitucional expresa",
+        "d": "Exclusiva del Estado"
+      },
+      "correct": "d",
+      "explicacion": "Art. 149.1.3ª CE. Las relaciones internacionales son competencia EXCLUSIVA DEL ESTADO. Del mismo modo lo son la defensa y Fuerzas Armadas (4ª), la administración de Justicia (5ª), la legislación mercantil, penal y penitenciaria (6ª), entre otras.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 138. Las diferencias entre los Estatutos de las distintas Comunidades Autónomas:",
+      "options": {
+        "a": "Podrán implicar privilegios económicos si así lo aprueban las Cortes Generales",
+        "b": "Podrán implicar ventajas económicas si así lo prevé el Estatuto correspondiente",
+        "c": "No podrán implicar en ningún caso privilegios económicos o sociales",
+        "d": "Se regularán por el principio de libre competencia entre territorios"
+      },
+      "correct": "c",
+      "explicacion": "Art. 138.2 CE. Las diferencias entre los Estatutos de las distintas Comunidades Autónomas NO PODRÁN IMPLICAR, EN NINGÚN CASO, PRIVILEGIOS ECONÓMICOS O SOCIALES. Este es el principio de neutralidad que complementa al de solidaridad.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 149. La legislación laboral es competencia exclusiva del Estado:",
+      "options": {
+        "a": "En su totalidad, sin intervención de las CCAA",
+        "b": "Sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas",
+        "c": "Solo en cuanto a las normas básicas; el desarrollo corresponde a las CCAA",
+        "d": "Solo en materias que afecten a más de una Comunidad Autónoma"
+      },
+      "correct": "b",
+      "explicacion": "Art. 149.1.7ª CE. La legislación laboral es competencia exclusiva del Estado, SIN PERJUICIO DE SU EJECUCIÓN por los órganos de las Comunidades Autónomas. El Estado legisla, pero las CCAA ejecutan.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 142. Las Haciendas locales se nutrirán fundamentalmente de:",
+      "options": {
+        "a": "Tributos propios únicamente",
+        "b": "Participación en los tributos del Estado únicamente",
+        "c": "Transferencias del Estado establecidas en los Presupuestos Generales",
+        "d": "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 142 CE. Las Haciendas locales se nutrirán fundamentalmente de TRIBUTOS PROPIOS Y DE PARTICIPACIÓN EN LOS DEL ESTADO Y DE LAS COMUNIDADES AUTÓNOMAS. Deben disponer de los medios suficientes para el desempeño de sus funciones.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_08_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 149. La nacionalidad, inmigración, emigración, extranjería y derecho de asilo son materias de competencia:",
+      "options": {
+        "a": "Exclusiva del Estado",
+        "b": "Compartida entre el Estado y las Comunidades Autónomas",
+        "c": "De las Comunidades Autónomas con frontera exterior",
+        "d": "Compartida entre el Estado y la Unión Europea"
+      },
+      "correct": "a",
+      "explicacion": "Art. 149.1.2ª CE. La nacionalidad, inmigración, emigración, extranjería y derecho de asilo son COMPETENCIA EXCLUSIVA DEL ESTADO. No pueden cederse a las CCAA, pues afectan a los derechos fundamentales de todos los españoles y extranjeros.",
+      "ley": ""
+    }
+  ]
+}

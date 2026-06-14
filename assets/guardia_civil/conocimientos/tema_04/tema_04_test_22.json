@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 22,
+  "preguntas": [
+    {
+      "id": "tema_04_test_22_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 15. Señale la CORRECTA sobre el derecho a la vida y la integridad física:",
+      "options": {
+        "a": "Todos tienen derecho a la vida y a la integridad física y moral",
+        "b": "Solo los ciudadanos españoles tienen derecho a la vida según la CE",
+        "c": "La pena de muerte está abolida de forma absoluta en todo caso",
+        "d": "Los tratos inhumanos están prohibidos salvo en estado de guerra"
+      },
+      "correct": "a",
+      "explicacion": "Art. 15 CE. TODOS (no solo españoles) tienen derecho a la vida y a la integridad FÍSICA Y MORAL, sin que en ningún caso puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes. La pena de muerte queda abolida salvo en las leyes penales militares para tiempos de guerra.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 16. En relación con la libertad religiosa, señale la INCORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser obligado a declarar sobre su religión o creencias",
+        "b": "El Estado tiene carácter confesional católico",
+        "c": "La limitación de sus manifestaciones solo es posible para el mantenimiento del orden público",
+        "d": "Los poderes públicos mantendrán relaciones de cooperación con la Iglesia Católica y demás confesiones"
+      },
+      "correct": "b",
+      "explicacion": "Art. 16.3 CE. NINGUNA CONFESIÓN TENDRÁ CARÁCTER ESTATAL. España es un Estado ACONFESIONAL. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán relaciones de cooperación con la Iglesia Católica y las demás confesiones.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 17. El procedimiento de habeas corpus se aplica para la puesta a disposición judicial de toda persona detenida ilegalmente. ¿Quién regula este procedimiento?",
+      "options": {
+        "a": "La ley, según mandato del artículo 17.4 CE",
+        "b": "La propia Constitución en el artículo 17 con todo detalle",
+        "c": "El Tribunal Constitucional mediante reglamento",
+        "d": "El Consejo General del Poder Judicial"
+      },
+      "correct": "a",
+      "explicacion": "Art. 17.4 CE. LA LEY regulará un procedimiento de habeas corpus para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. La Constitución encomienda la regulación a la ley ordinaria (Ley Orgánica 6/1984, de 24 de mayo).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 18. El secreto de las comunicaciones garantizado en el art. 18.3 CE puede levantarse mediante:",
+      "options": {
+        "a": "Orden del Ministro del Interior en casos urgentes",
+        "b": "Resolución gubernativa del Delegado del Gobierno",
+        "c": "Resolución judicial",
+        "d": "Autorización del Fiscal General del Estado"
+      },
+      "correct": "c",
+      "explicacion": "Art. 18.3 CE. Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, SALVO RESOLUCIÓN JUDICIAL. Solo la autorización judicial puede levantar este secreto, no basta con resolución administrativa o policial.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 19. El derecho a entrar y salir libremente de España no podrá ser limitado por motivos políticos o ideológicos. ¿Puede limitarse por otros motivos?",
+      "options": {
+        "a": "No, es un derecho absoluto sin limitación alguna",
+        "b": "Solo puede limitarse por resolución judicial en procesos penales",
+        "c": "Sí, en los términos que la ley establezca, y puede suspenderse en estados de excepción o sitio",
+        "d": "Solo puede limitarse por razones de deuda tributaria pendiente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 19 CE. Los españoles tienen derecho a entrar y salir libremente de España EN LOS TÉRMINOS QUE LA LEY ESTABLEZCA. Este derecho NO PODRÁ SER LIMITADO POR MOTIVOS POLÍTICOS O IDEOLÓGICOS. Pero puede limitarse por otros motivos (como una orden judicial) y suspenderse en estados de excepción o sitio.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 20. El derecho a comunicar o recibir libremente información veraz incluye el derecho a la cláusula de conciencia y al secreto profesional. ¿Quién regula estos derechos?",
+      "options": {
+        "a": "La propia Constitución con detalle suficiente",
+        "b": "El Tribunal Constitucional mediante sentencia",
+        "c": "Los propios medios de comunicación mediante sus estatutos de redacción",
+        "d": "La ley, según mandato del artículo 20.1.d) CE"
+      },
+      "correct": "d",
+      "explicacion": "Art. 20.1.d) CE. A comunicar o recibir libremente información veraz. LA LEY REGULARÁ el derecho a la CLÁUSULA DE CONCIENCIA y al SECRETO PROFESIONAL en el ejercicio de estas libertades. La Constitución reconoce el derecho pero encomienda su desarrollo a la ley.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 21. ¿Requieren autorización previa las reuniones en lugares privados?",
+      "options": {
+        "a": "Sí, siempre se requiere autorización previa de la autoridad",
+        "b": "Solo si participan más de diez personas",
+        "c": "Solo si la reunión tiene carácter político o sindical",
+        "d": "No, el ejercicio del derecho de reunión no necesitará autorización previa"
+      },
+      "correct": "d",
+      "explicacion": "Art. 21.1 CE. Se reconoce el derecho de reunión pacífica y sin armas. EL EJERCICIO DE ESTE DERECHO NO NECESITARÁ AUTORIZACIÓN PREVIA. Solo en el caso de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 22. Las asociaciones deben inscribirse en un registro para:",
+      "options": {
+        "a": "Los solos efectos de publicidad",
+        "b": "Obtener personalidad jurídica propia",
+        "c": "Poder desarrollar actividades mercantiles",
+        "d": "Obtener subvenciones públicas"
+      },
+      "correct": "a",
+      "explicacion": "Art. 22.3 CE. Las asociaciones constituidas al amparo del artículo 22 deberán inscribirse en un registro A LOS SOLOS EFECTOS DE PUBLICIDAD. La inscripción no es constitutiva de la personalidad jurídica; la asociación existe desde su constitución, no desde su registro.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 23. ¿Son titulares del derecho de participación política (art. 23) los extranjeros residentes en España?",
+      "options": {
+        "a": "Sí, todos los residentes legales tienen plenos derechos políticos",
+        "b": "Sí, si llevan más de cinco años residiendo legalmente en España",
+        "c": "Solo los extranjeros de países miembros de la Unión Europea",
+        "d": "No, solo los españoles son titulares, salvo lo que se establezca por reciprocidad para elecciones municipales"
+      },
+      "correct": "d",
+      "explicacion": "Art. 13.2 CE (reforma 1992). SOLAMENTE LOS ESPAÑOLES serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el DERECHO DE SUFRAGIO ACTIVO Y PASIVO EN LAS ELECCIONES MUNICIPALES.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 24. El derecho a la tutela judicial efectiva prohíbe expresamente:",
+      "options": {
+        "a": "Las resoluciones judiciales sin recurso",
+        "b": "La indefensión",
+        "c": "Las penas desproporcionadas",
+        "d": "Los juicios sin publicidad"
+      },
+      "correct": "b",
+      "explicacion": "Art. 24.1 CE. Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales, SIN QUE, EN NINGÚN CASO, PUEDA PRODUCIRSE INDEFENSIÓN. La prohibición expresa de la indefensión es el núcleo esencial de este derecho fundamental.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 25. En relación con las sanciones administrativas, señale la CORRECTA:",
+      "options": {
+        "a": "La Administración civil puede imponer sanciones que impliquen privación de libertad en casos graves",
+        "b": "La Administración civil NO podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad",
+        "c": "Solo las sanciones de más de seis meses de duración requieren autorización judicial",
+        "d": "La Administración puede imponer prisión preventiva en casos de infracciones tributarias graves"
+      },
+      "correct": "b",
+      "explicacion": "Art. 25.3 CE. LA ADMINISTRACIÓN CIVIL NO PODRÁ IMPONER SANCIONES QUE, DIRECTA O SUBSIDIARIAMENTE, IMPLIQUEN PRIVACIÓN DE LIBERTAD. Esta prohibición es absoluta; la privación de libertad es una pena que solo puede imponer la jurisdicción penal.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 26. ¿Están prohibidos los Tribunales de Honor en el ámbito de las Fuerzas Armadas?",
+      "options": {
+        "a": "Sí, están prohibidos en todos los ámbitos",
+        "b": "Solo están prohibidos en tiempo de paz",
+        "c": "Están permitidos si así lo prevé una ley orgánica",
+        "d": "No, el artículo 26 solo los prohíbe en la Administración civil y organizaciones profesionales, no en las FFAA"
+      },
+      "correct": "d",
+      "explicacion": "Art. 26 CE. Se prohíben los Tribunales de Honor EN EL ÁMBITO DE LA ADMINISTRACIÓN CIVIL Y DE LAS ORGANIZACIONES PROFESIONALES. La Constitución NO los prohíbe expresamente en las Fuerzas Armadas, lo que históricamente permitió su existencia en ese ámbito hasta que la legislación posterior los suprimió.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 27. En relación con las Universidades, señale la CORRECTA:",
+      "options": {
+        "a": "Solo las Universidades públicas pueden crear centros docentes",
+        "b": "Las Universidades no pueden tener carácter privado según la Constitución",
+        "c": "Se reconoce la autonomía de las Universidades, en los términos que la ley establezca",
+        "d": "El Gobierno homologa directamente los títulos universitarios sin intermediación autonómica"
+      },
+      "correct": "c",
+      "explicacion": "Art. 27.10 CE. SE RECONOCE LA AUTONOMÍA DE LAS UNIVERSIDADES, en los términos que la ley establezca. Además, los poderes públicos inspeccionarán y homologarán el sistema educativo para garantizar el cumplimiento de las leyes (art. 27.8 CE).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 28. ¿Quién puede limitar o exceptuar el derecho de sindicación?",
+      "options": {
+        "a": "La ley, para las Fuerzas o Institutos armados o cuerpos sometidos a disciplina militar",
+        "b": "El Gobierno, para cualquier cuerpo o colectivo, mediante decreto",
+        "c": "El Ministerio de Defensa, para los cuerpos a su cargo",
+        "d": "El TC, cuando el ejercicio del derecho ponga en riesgo la seguridad nacional"
+      },
+      "correct": "a",
+      "explicacion": "Art. 28.1 CE. LA LEY PODRÁ LIMITAR O EXCEPTUAR el ejercicio del derecho de sindicación A LAS FUERZAS O INSTITUTOS ARMADOS O A LOS DEMÁS CUERPOS SOMETIDOS A DISCIPLINA MILITAR y regulará las peculiaridades de su ejercicio para los funcionarios públicos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 29. El derecho de petición, ¿es colectivo para los militares?",
+      "options": {
+        "a": "Sí, los militares pueden ejercerlo colectivamente como cualquier ciudadano",
+        "b": "Los militares tienen prohibido el derecho de petición en todo caso",
+        "c": "No, los miembros de las FFAA podrán ejercer este derecho solo individualmente",
+        "d": "Solo el derecho de petición ante el Defensor del Pueblo es individual para los militares"
+      },
+      "correct": "c",
+      "explicacion": "Art. 29.2 CE. LOS MIEMBROS DE LAS FUERZAS O INSTITUTOS ARMADOS o de los Cuerpos sometidos a disciplina militar PODRÁN EJERCER ESTE DERECHO SOLO INDIVIDUALMENTE y con arreglo a lo dispuesto en su legislación específica. La petición colectiva les está vedada.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 20. ¿Quién puede acordar el secuestro de publicaciones e información?",
+      "options": {
+        "a": "El Gobierno mediante decreto-ley en casos urgentes",
+        "b": "Solo la autoridad judicial",
+        "c": "El Director General de la Policía Nacional con autorización ministerial",
+        "d": "El Fiscal General del Estado en casos de amenaza a la seguridad del Estado"
+      },
+      "correct": "b",
+      "explicacion": "Art. 20.5 CE. SOLO PODRÁ ACORDARSE EL SECUESTRO DE PUBLICACIONES, grabaciones y otros medios de información en virtud de RESOLUCIÓN JUDICIAL. Ninguna autoridad administrativa puede ordenar el secuestro; hacerlo constituiría censura previa prohibida por el art. 20.2 CE.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 18. La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos. ¿En qué apartado del artículo 18 se recoge esto?",
+      "options": {
+        "a": "Artículo 18.1 (honor e intimidad)",
+        "b": "Artículo 18.2 (inviolabilidad del domicilio)",
+        "c": "Artículo 18.3 (secreto de comunicaciones)",
+        "d": "Artículo 18.4 (uso de la informática)"
+      },
+      "correct": "d",
+      "explicacion": "Art. 18.4 CE. LA LEY LIMITARÁ EL USO DE LA INFORMÁTICA para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos. Este precepto es el fundamento constitucional de la protección de datos personales en España.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 24. El derecho a no declarar contra sí mismo está reconocido en el artículo 24. ¿A quién corresponde este derecho?",
+      "options": {
+        "a": "A todos en el marco del artículo 24.2 CE",
+        "b": "Solo al acusado en procesos penales",
+        "c": "Solo a los testigos en procesos civiles",
+        "d": "Solo a los funcionarios públicos en expedientes disciplinarios"
+      },
+      "correct": "a",
+      "explicacion": "Art. 24.2 CE. El derecho a NO DECLARAR CONTRA SÍ MISMOS y a NO CONFESARSE CULPABLES está reconocido en el artículo 24.2 CE para TODOS, junto con otros derechos procesales como la presunción de inocencia y el derecho al juez predeterminado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 17. ¿Puede la Constitución prever sanciones penales para el funcionamiento anormal del servicio público de la Justicia?",
+      "options": {
+        "a": "No, la Constitución no regula este supuesto",
+        "b": "No, pero las leyes procesales sí pueden preverlo",
+        "c": "Sí, el art. 121 CE prevé indemnizaciones por error judicial o funcionamiento anormal de la Administración de Justicia",
+        "d": "Solo el TC puede apreciar el funcionamiento anormal y ordenar indemnizaciones"
+      },
+      "correct": "c",
+      "explicacion": "Art. 121 CE. Los daños causados por ERROR JUDICIAL, así como los que sean consecuencia del FUNCIONAMIENTO ANORMAL DE LA ADMINISTRACIÓN DE JUSTICIA, darán derecho a una INDEMNIZACIÓN a cargo del Estado, conforme a la ley. Este artículo es el fundamento constitucional de la responsabilidad judicial del Estado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_22_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 18. ¿Puede entrarse en un domicilio sin consentimiento del titular cuando hay un flagrante delito en curso?",
+      "options": {
+        "a": "No, siempre se necesita resolución judicial",
+        "b": "Sí, en caso de flagrante delito no se requiere ni consentimiento del titular ni resolución judicial",
+        "c": "Solo si hay heridos en el interior y existe riesgo para su vida",
+        "d": "Solo si lo ordena el fiscal con carácter de urgencia"
+      },
+      "correct": "b",
+      "explicacion": "Art. 18.2 CE. El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, SALVO EN CASO DE FLAGRANTE DELITO. La flagrancia justifica la entrada sin los requisitos ordinarios.",
+      "ley": ""
+    }
+  ]
+}

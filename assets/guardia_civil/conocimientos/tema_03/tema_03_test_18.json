@@ -1,0 +1,307 @@
+{
+  "tema_numero": 3,
+  "tema": "Prevención de riesgos laborales",
+  "test": "Test 18",
+  "preguntas": [
+    {
+      "id": "tema_03_test_18_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Entre los principios de la acción preventiva, el principio de «adaptar el trabajo a la persona» hace referencia especialmente a:",
+      "options": {
+        "a": "La concepción de los puestos de trabajo y la elección de equipos y métodos de trabajo, con miras a atenuar el trabajo monótono y repetitivo",
+        "b": "La reducción de la jornada laboral en puestos de riesgo",
+        "c": "La adecuación del salario a las condiciones de riesgo",
+        "d": "La asignación de turnos de trabajo en función de la edad del trabajador"
+      },
+      "correct": "a",
+      "explicacion": "Art. 15.1.d) Ley 31/1995. ADAPTAR EL TRABAJO A LA PERSONA, en particular en lo que respecta a la CONCEPCIÓN DE LOS PUESTOS DE TRABAJO y a la elección de los EQUIPOS Y MÉTODOS DE TRABAJO, con miras a atenuar el trabajo MONÓTONO Y REPETITIVO y reducir los efectos del mismo en la salud.",
+      "ley": "Ley 31/1995, art. 15.1.d"
+    },
+    {
+      "id": "tema_03_test_18_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Las Administraciones Públicas competentes en materia laboral continuarán siendo las responsables en lo referente a los trabajos en Minas, Canteras y Túneles que exijan la aplicación de técnica minera y a los que impliquen fabricación, transporte, almacenamiento, manipulación y utilización de explosivos o el empleo de:",
+      "options": {
+        "a": "Energía nuclear",
+        "b": "Sustancias tóxicas clasificadas",
+        "c": "Radiaciones ionizantes industriales",
+        "d": "Agentes biológicos de grupo 4"
+      },
+      "correct": "a",
+      "explicacion": "Art. 7.2 Ley 31/1995. Las funciones CONTINUARÁN siendo desarrolladas en lo referente a Minas, Canteras y Túneles con TÉCNICA MINERA, a los que impliquen manejo de explosivos o el empleo de ENERGÍA NUCLEAR, por los órganos específicos contemplados en su normativa.",
+      "ley": "Ley 31/1995, art. 7.2"
+    },
+    {
+      "id": "tema_03_test_18_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Los Servicios de Prevención Mancomunados podrán constituirse entre Departamentos ministeriales y Organismos públicos que desarrollen simultáneamente actividades en un mismo edificio o en un área geográfica limitada. Deberán contar con al menos:",
+      "options": {
+        "a": "2 especialidades preventivas",
+        "b": "3 especialidades preventivas",
+        "c": "1 especialidad preventiva",
+        "d": "4 especialidades preventivas"
+      },
+      "correct": "b",
+      "explicacion": "Art. 7.4 RD 67/2010. Los SERVICIOS DE PREVENCIÓN MANCOMUNADOS deberán CONTAR con, AL MENOS, 3 ESPECIALIDADES O DISCIPLINAS PREVENTIVAS.",
+      "ley": "RD 67/2010, art. 7.4"
+    },
+    {
+      "id": "tema_03_test_18_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El Plan de Prevención de Riesgos Laborales en la AGE deberá reflejarse en un documento que se conservará a disposición de la Autoridad Laboral, las Autoridades Sanitarias y los Representantes de los Trabajadores. Los instrumentos esenciales para su gestión son:",
+      "options": {
+        "a": "Los Delegados de Prevención y el Comité de Seguridad y Salud",
+        "b": "La formación de los trabajadores y la vigilancia de la salud",
+        "c": "La evaluación de riesgos laborales y la planificación de la actividad preventiva",
+        "d": "Las auditorías internas y las evaluaciones externas"
+      },
+      "correct": "c",
+      "explicacion": "Art. 3.4 RD 67/2010. Los INSTRUMENTOS ESENCIALES para la gestión y aplicación del Plan de Prevención son: la EVALUACIÓN DE RIESGOS LABORALES y la PLANIFICACIÓN DE LA ACTIVIDAD PREVENTIVA.",
+      "ley": "RD 67/2010, art. 3.4"
+    },
+    {
+      "id": "tema_03_test_18_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Señale la opción INCORRECTA sobre el Plan de Prevención de Riesgos Laborales en la Guardia Civil.",
+      "options": {
+        "a": "La acción preventiva se planificará a partir de una evaluación inicial de los riesgos",
+        "b": "La prevención de riesgos laborales en la GC deberá integrarse en el conjunto de sus actividades",
+        "c": "Los instrumentos esenciales son la evaluación de riesgos y la planificación de la actividad preventiva",
+        "d": "La evaluación inicial no tendrá en cuenta las actividades preventivas desarrolladas hasta la fecha del estudio"
+      },
+      "correct": "d",
+      "explicacion": "Art. 4.2 RD 179/2005. La evaluación inicial se realizará teniendo en cuenta: la naturaleza de la actividad, las características de los servicios y LAS ACTIVIDADES PREVENTIVAS DESARROLLADAS HASTA LA FECHA DEL ESTUDIO. Sí se tiene en cuenta.",
+      "ley": "RD 179/2005, art. 4.2"
+    },
+    {
+      "id": "tema_03_test_18_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. La paralización de los trabajos ordenada por el Inspector de Trabajo se levantará por la Inspección de Trabajo que la hubiera decretado, y también:",
+      "options": {
+        "a": "Por los representantes de los trabajadores si así lo acuerdan",
+        "b": "Por decisión judicial ordinaria",
+        "c": "Por el empresario tan pronto como se subsanen las causas que la motivaron",
+        "d": "Por el Ministerio de Trabajo a petición de la empresa"
+      },
+      "correct": "c",
+      "explicacion": "Art. 44 Ley 31/1995. La paralización SE LEVANTARÁ: por la INSPECCIÓN DE TRABAJO que la hubiera decretado, o por el EMPRESARIO tan pronto como SE SUBSANEN LAS CAUSAS que la motivaron.",
+      "ley": "Ley 31/1995, art. 44"
+    },
+    {
+      "id": "tema_03_test_18_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Entre la documentación que el empresario debe elaborar y conservar a disposición de la Autoridad Laboral, figura la relación de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral superior a:",
+      "options": {
+        "a": "1 día de trabajo",
+        "b": "5 días de trabajo",
+        "c": "7 días de trabajo",
+        "d": "3 días de trabajo"
+      },
+      "correct": "a",
+      "explicacion": "Art. 23.1.f) Ley 31/1995. El empresario debe documentar la RELACIÓN DE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES que hayan causado al trabajador una incapacidad laboral SUPERIOR A 1 DÍA DE TRABAJO.",
+      "ley": "Ley 31/1995, art. 23.1.f"
+    },
+    {
+      "id": "tema_03_test_18_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. En la Guardia Civil, los Órganos de Prevención son el conjunto de medios humanos necesarios para realizar las actividades preventivas. En la DGGC se constituirán el Servicio de Prevención, la Sección de Prevención de Zona, la Oficina de Prevención de Comandancia y otras unidades. El nivel orgánico, adscripción, normas de funcionamiento y funciones específicas de cada Órgano de Prevención se determinarán mediante:",
+      "options": {
+        "a": "Instrucción de la Dirección General de la Guardia Civil",
+        "b": "Orden Ministerial",
+        "c": "Real Decreto del Consejo de Ministros",
+        "d": "Resolución del Secretario de Estado de Seguridad"
+      },
+      "correct": "b",
+      "explicacion": "Art. 13 RD 179/2005. Mediante ORDEN MINISTERIAL se DETERMINARÁ el nivel orgánico, la adscripción, la dependencia orgánica y funcional, las normas de funcionamiento, el ámbito de competencias, los medios humanos y materiales y las funciones específicas de cada ÓRGANO DE PREVENCIÓN.",
+      "ley": "RD 179/2005, art. 13"
+    },
+    {
+      "id": "tema_03_test_18_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. El tiempo que los Delegados de Prevención dediquen a su formación en materia preventiva se considerará como:",
+      "options": {
+        "a": "Tiempo no retribuido de formación voluntaria",
+        "b": "Tiempo que debe recuperarse en horas extras",
+        "c": "Tiempo libre retribuido que se imputa al crédito horario sindical",
+        "d": "Tiempo de trabajo efectivo a todos los efectos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 5.7 RD 67/2010. El TIEMPO dedicado a la FORMACIÓN de los Delegados de Prevención será considerado como TIEMPO DE TRABAJO EFECTIVO a todos los efectos.",
+      "ley": "RD 67/2010, art. 5.7"
+    },
+    {
+      "id": "tema_03_test_18_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. La Comisión Nacional de Seguridad y Salud en el Trabajo se crea como órgano colegiado asesor de las Administraciones Públicas en la formulación de las políticas de prevención, y también como:",
+      "options": {
+        "a": "Organismo gestor de las prestaciones por accidente de trabajo",
+        "b": "Órgano de participación institucional en materia de seguridad y salud en el trabajo",
+        "c": "Órgano de control de la Inspección de Trabajo",
+        "d": "Órgano sancionador de las infracciones en materia de seguridad"
+      },
+      "correct": "b",
+      "explicacion": "Art. 13.1 Ley 31/1995. La Comisión Nacional se crea como: ÓRGANO COLEGIADO ASESOR en la formulación de políticas de prevención, y como ÓRGANO DE PARTICIPACIÓN INSTITUCIONAL en materia de seguridad y salud en el trabajo.",
+      "ley": "Ley 31/1995, art. 13.1"
+    },
+    {
+      "id": "tema_03_test_18_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. En la Comisión Nacional de Seguridad y Salud en el Trabajo, ¿cuántos votos tienen los representantes de las Administraciones Públicas y cuántos los de las Organizaciones Empresariales y Sindicales?",
+      "options": {
+        "a": "Las AAPP tienen 1 voto y las organizaciones empresariales y sindicales tienen 2 votos",
+        "b": "Las AAPP tienen 2 votos y las organizaciones empresariales y sindicales tienen 1 voto",
+        "c": "Todos tienen el mismo número de votos",
+        "d": "Las AAPP tienen 3 votos y las organizaciones empresariales y sindicales tienen 2 votos"
+      },
+      "correct": "a",
+      "explicacion": "Art. 13.4 Ley 31/1995. Los representantes de las ADMINISTRACIONES PÚBLICAS tendrán cada uno 1 VOTO. Los representantes de las ORGANIZACIONES EMPRESARIALES Y SINDICALES tendrán 2 VOTOS.",
+      "ley": "Ley 31/1995, art. 13.4"
+    },
+    {
+      "id": "tema_03_test_18_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Los «Daños derivados del trabajo» son:",
+      "options": {
+        "a": "Solo los accidentes de trabajo con baja médica superior a un día",
+        "b": "Únicamente las enfermedades profesionales reconocidas oficialmente",
+        "c": "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo",
+        "d": "Los daños producidos exclusivamente por accidente de trabajo"
+      },
+      "correct": "c",
+      "explicacion": "Art. 4.3 Ley 31/1995. «DAÑOS DERIVADOS DEL TRABAJO»: las ENFERMEDADES, PATOLOGÍAS O LESIONES sufridas CON MOTIVO U OCASIÓN DEL TRABAJO.",
+      "ley": "Ley 31/1995, art. 4.3"
+    },
+    {
+      "id": "tema_03_test_18_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Se deberá crear un Servicio de Prevención Propio en los servicios centrales de los Departamentos ministeriales y Organismos públicos que cuenten con más de 500 empleados públicos. Dicho Servicio habrá de contar como mínimo con:",
+      "options": {
+        "a": "1 especialidad o disciplina preventiva",
+        "b": "2 especialidades o disciplinas preventivas",
+        "c": "4 especialidades o disciplinas preventivas",
+        "d": "3 especialidades o disciplinas preventivas"
+      },
+      "correct": "b",
+      "explicacion": "Art. 7.3 RD 67/2010. El SERVICIO DE PREVENCIÓN PROPIO habrá de CONTAR, como mínimo, con 2 ESPECIALIDADES O DISCIPLINAS PREVENTIVAS, desarrolladas por expertos con la capacitación requerida.",
+      "ley": "RD 67/2010, art. 7.3"
+    },
+    {
+      "id": "tema_03_test_18_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. Con carácter general se constituirá 1 único Comité de Seguridad y Salud en cada centro de trabajo de la AGE cuando dicho centro cuente con:",
+      "options": {
+        "a": "100 o más empleados públicos",
+        "b": "25 o más empleados públicos",
+        "c": "250 o más empleados públicos",
+        "d": "50 o más empleados públicos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 6.2 RD 67/2010. Con carácter general, se CONSTITUIRÁ 1 ÚNICO COMITÉ DE SEGURIDAD Y SALUD en cada centro de trabajo siempre que cuenten con 50 O MÁS EMPLEADOS PÚBLICOS.",
+      "ley": "RD 67/2010, art. 6.2"
+    },
+    {
+      "id": "tema_03_test_18_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. El empresario llevará a cabo una investigación para detectar las causas de los daños, cuando se haya producido un daño para la salud de los trabajadores, con ocasión de la vigilancia de la salud, y cuando:",
+      "options": {
+        "a": "Lo ordene la Autoridad Laboral",
+        "b": "Aparezcan indicios de que las medidas de prevención resultan insuficientes",
+        "c": "Se produzcan cambios en la plantilla de la empresa",
+        "d": "Lo solicite el Comité de Empresa"
+      },
+      "correct": "b",
+      "explicacion": "Art. 16.3 Ley 31/1995. La investigación procederá: cuando se haya PRODUCIDO UN DAÑO, con ocasión de la VIGILANCIA DE LA SALUD y cuando aparezcan INDICIOS DE QUE LAS MEDIDAS DE PREVENCIÓN RESULTAN INSUFICIENTES.",
+      "ley": "Ley 31/1995, art. 16.3"
+    },
+    {
+      "id": "tema_03_test_18_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 3. Prevención de riesgos laborales. El INSHT, en relación con las instituciones de la Unión Europea, actuará como:",
+      "options": {
+        "a": "Delegación española ante el Consejo Europeo de Seguridad",
+        "b": "Organismo regulador de la normativa preventiva europea",
+        "c": "Organismo de certificación de equipos de protección individual",
+        "d": "Centro de Referencia Nacional, garantizando la coordinación y transmisión de la información respecto a la Agencia Europea para la Seguridad y la Salud en el Trabajo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 8.3 Ley 31/1995. En relación con las instituciones de la UE, el INSHT actuará como CENTRO DE REFERENCIA NACIONAL, garantizando la coordinación y transmisión de la información, en particular respecto a la AGENCIA EUROPEA PARA LA SEGURIDAD Y LA SALUD EN EL TRABAJO.",
+      "ley": "Ley 31/1995, art. 8.3"
+    },
+    {
+      "id": "tema_03_test_18_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. El Real Decreto 179/2005 tiene por objeto promover la seguridad y la salud en el trabajo en la Guardia Civil. ¿A quién incluye en su ámbito personal?",
+      "options": {
+        "a": "Solo a los miembros de las Fuerzas y Cuerpos de Seguridad del Estado",
+        "b": "A todos los funcionarios del Ministerio del Interior",
+        "c": "Solo al personal civil destinado en unidades de la Guardia Civil",
+        "d": "A los Miembros del Cuerpo de la Guardia Civil y a los Miembros de las Fuerzas Armadas destinados en unidades, centros y organismos de la Dirección General de la Guardia Civil"
+      },
+      "correct": "d",
+      "explicacion": "Art. 2 RD 179/2005. El ÁMBITO PERSONAL incluye a los MIEMBROS DEL CUERPO DE LA GUARDIA CIVIL y a los MIEMBROS DE LAS FUERZAS ARMADAS destinados en unidades, centros y organismos de la DIRECCIÓN GENERAL DE LA GUARDIA CIVIL.",
+      "ley": "RD 179/2005, art. 2"
+    },
+    {
+      "id": "tema_03_test_18_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. La Secretaría General de la Comisión Nacional de Seguridad y Salud en el Trabajo será ejercida por:",
+      "options": {
+        "a": "El Subsecretario de Sanidad y Consumo",
+        "b": "La Dirección del Instituto Nacional de Seguridad y Salud en el Trabajo",
+        "c": "El Director General de la Inspección de Trabajo",
+        "d": "La Secretaría de Estado de Empleo y Economía Social"
+      },
+      "correct": "b",
+      "explicacion": "Art. 8.4 Ley 31/1995. El INSHT EJERCERÁ la SECRETARÍA GENERAL de la Comisión Nacional de Seguridad y Salud en el Trabajo, prestándole la asistencia técnica y científica necesaria.",
+      "ley": "Ley 31/1995, art. 8.4"
+    },
+    {
+      "id": "tema_03_test_18_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 3. Prevención de riesgos laborales. ¿Cuál es la función principal de la Inspección de Trabajo y Seguridad Social en materia de prevención de riesgos laborales?",
+      "options": {
+        "a": "Asesorar gratuitamente a los empresarios sobre prevención",
+        "b": "Elaborar los planes de prevención de las empresas",
+        "c": "La vigilancia y control de la normativa sobre prevención de riesgos laborales",
+        "d": "Gestionar las prestaciones por incapacidad temporal"
+      },
+      "correct": "c",
+      "explicacion": "Art. 9.1 Ley 31/1995. Corresponde a la INSPECCIÓN DE TRABAJO Y SEGURIDAD SOCIAL la función de la VIGILANCIA Y CONTROL DE LA NORMATIVA sobre prevención de riesgos laborales.",
+      "ley": "Ley 31/1995, art. 9.1"
+    },
+    {
+      "id": "tema_03_test_18_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 3. Prevención de riesgos laborales. Las empresas que contraten actividades de su propia actividad con otras empresas deberán vigilar el cumplimiento de la normativa preventiva. Además, las obligaciones establecidas en el art. 41 también se aplicarán respecto a trabajadores de empresas contratistas que no presten servicios en centros de la empresa principal, siempre que:",
+      "options": {
+        "a": "Deban operar con maquinaria, equipos, productos, materias primas o útiles proporcionados por la empresa principal",
+        "b": "Estén contratados por más de seis meses",
+        "c": "Tengan más de 50 trabajadores",
+        "d": "Trabajen en el mismo sector de actividad"
+      },
+      "correct": "a",
+      "explicacion": "Art. 24.4 Ley 31/1995. Las obligaciones se aplican también a trabajadores de contratistas fuera de los centros de la empresa principal, siempre que DEBAN OPERAR CON MAQUINARIA, EQUIPOS, PRODUCTOS, MATERIAS PRIMAS O ÚTILES PROPORCIONADOS POR LA EMPRESA PRINCIPAL.",
+      "ley": "Ley 31/1995, art. 24.4"
+    }
+  ]
+}

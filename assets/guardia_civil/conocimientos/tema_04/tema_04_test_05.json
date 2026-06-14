@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 5,
+  "preguntas": [
+    {
+      "id": "tema_04_test_05_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 66. Las Cortes Generales están formadas por:",
+      "options": {
+        "a": "El Congreso de los Diputados únicamente",
+        "b": "El Congreso de los Diputados, el Senado y el Consejo de Estado",
+        "c": "El Congreso de los Diputados y el Senado",
+        "d": "El Congreso de los Diputados, el Senado y el Tribunal Constitucional"
+      },
+      "correct": "c",
+      "explicacion": "Art. 66.1 CE. Las Cortes Generales representan al pueblo español y están formadas por el CONGRESO DE LOS DIPUTADOS Y EL SENADO. Las Cortes Generales son inviolables (art. 66.3) y tienen estructura bicameral.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 68. El Congreso de los Diputados se compone de:",
+      "options": {
+        "a": "Un mínimo de 250 y un máximo de 350 Diputados",
+        "b": "Un mínimo de 350 y un máximo de 450 Diputados",
+        "c": "Un mínimo de 300 y un máximo de 400 Diputados",
+        "d": "Un número fijo de 350 Diputados según la Constitución"
+      },
+      "correct": "c",
+      "explicacion": "Art. 68.1 CE. El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados. La Ley Orgánica de Régimen Electoral General fija el número en 350 Diputados, distribuidos entre las provincias con un mínimo inicial de dos por provincia.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 68. Las elecciones al Congreso de los Diputados tendrán lugar entre:",
+      "options": {
+        "a": "Los veinte y los cuarenta días desde la terminación del mandato",
+        "b": "Los cuarenta y los noventa días desde la terminación del mandato",
+        "c": "Los treinta y los sesenta días desde la terminación del mandato",
+        "d": "Los quince y los treinta días desde la terminación del mandato"
+      },
+      "correct": "c",
+      "explicacion": "Art. 68.6 CE. Las elecciones tendrán lugar entre los TREINTA DÍAS Y SESENTA DÍAS desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 69. El Senado es:",
+      "options": {
+        "a": "La cámara de representación popular",
+        "b": "La cámara de representación territorial",
+        "c": "La cámara de representación proporcional",
+        "d": "La cámara de representación autonómica exclusivamente"
+      },
+      "correct": "b",
+      "explicacion": "Art. 69.1 CE. El Senado es la CÁMARA DE REPRESENTACIÓN TERRITORIAL. En cada provincia se elegirán cuatro Senadores por sufragio universal. Además, las CCAA designarán un Senador más por cada millón de habitantes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 69. Las poblaciones de Ceuta y Melilla elegirán cada una de ellas para el Senado:",
+      "options": {
+        "a": "Dos Senadores",
+        "b": "Un Senador",
+        "c": "Tres Senadores",
+        "d": "Cuatro Senadores"
+      },
+      "correct": "a",
+      "explicacion": "Art. 69.4 CE. Las poblaciones de Ceuta y Melilla elegirán cada una DOS SENADORES. En cambio, para el Congreso, Ceuta y Melilla están representadas cada una por UN DIPUTADO (art. 68.2 CE).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 71. Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones:",
+      "options": {
+        "a": "Solo durante el período de su mandato",
+        "b": "Solo en el interior del hemiciclo parlamentario",
+        "c": "Incluso después de haber cesado en su mandato",
+        "d": "Solo si las opiniones han sido previamente aprobadas por la Mesa de la Cámara"
+      },
+      "correct": "c",
+      "explicacion": "Art. 71.1 CE. Los Diputados y Senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones, INCLUSO DESPUÉS DE HABER CESADO en su mandato. Esta protección es permanente por las opiniones emitidas en el ejercicio parlamentario.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 71. Los Diputados y Senadores pueden ser detenidos durante su mandato en caso de:",
+      "options": {
+        "a": "Flagrante delito",
+        "b": "Orden del Tribunal Supremo",
+        "c": "Autorización de la respectiva Cámara",
+        "d": "Nunca pueden ser detenidos durante su mandato"
+      },
+      "correct": "a",
+      "explicacion": "Art. 71.2 CE. Durante el período de su mandato, los Diputados y Senadores gozan de inmunidad y SOLO PODRÁN SER DETENIDOS EN CASO DE FLAGRANTE DELITO. No podrán ser inculpados ni procesados sin la previa autorización de la Cámara respectiva.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 73. Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones:",
+      "options": {
+        "a": "De septiembre a diciembre y de febrero a junio",
+        "b": "De octubre a diciembre y de enero a junio",
+        "c": "De septiembre a enero y de marzo a julio",
+        "d": "De octubre a enero y de febrero a mayo"
+      },
+      "correct": "a",
+      "explicacion": "Art. 73.1 CE. Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones: el primero, de SEPTIEMBRE A DICIEMBRE, y el segundo, de FEBRERO A JUNIO. Los meses de enero, julio y agosto quedan fuera de los períodos ordinarios.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 78. Las Diputaciones Permanentes se componen de:",
+      "options": {
+        "a": "Un mínimo de quince miembros",
+        "b": "Un mínimo de veinticinco miembros",
+        "c": "Un número fijo de treinta y cinco miembros",
+        "d": "Un mínimo de veintiún miembros"
+      },
+      "correct": "d",
+      "explicacion": "Art. 78.1 CE. En cada Cámara habrá una Diputación Permanente compuesta por un mínimo de VEINTIÚN MIEMBROS, que representarán a los grupos parlamentarios en proporción a su importancia numérica. Están presididas por el Presidente de la Cámara respectiva.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 81. Son leyes orgánicas las relativas a:",
+      "options": {
+        "a": "El desarrollo de los derechos fundamentales, los Estatutos de Autonomía, el régimen electoral general y las demás previstas en la Constitución",
+        "b": "Solo el desarrollo de los derechos fundamentales y libertades públicas",
+        "c": "Únicamente los Estatutos de Autonomía y el régimen electoral",
+        "d": "Solo las materias expresamente reservadas por el Gobierno"
+      },
+      "correct": "a",
+      "explicacion": "Art. 81.1 CE. Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía, el régimen electoral general y las DEMÁS PREVISTAS EN LA CONSTITUCIÓN.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 81. La aprobación, modificación o derogación de las leyes orgánicas exigirá:",
+      "options": {
+        "a": "Mayoría simple del Congreso en una votación final",
+        "b": "Mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto",
+        "c": "Mayoría absoluta del Senado y mayoría simple del Congreso",
+        "d": "Mayoría de tres quintos de ambas Cámaras"
+      },
+      "correct": "b",
+      "explicacion": "Art. 81.2 CE. La aprobación, modificación o derogación de las leyes orgánicas exigirá MAYORÍA ABSOLUTA DEL CONGRESO, en una votación final sobre el conjunto del proyecto. Es una mayoría reforzada respecto a las leyes ordinarias.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 86. Los Decretos-leyes deberán ser sometidos a debate y votación del Congreso en el plazo de:",
+      "options": {
+        "a": "Quince días siguientes a su promulgación",
+        "b": "Cuarenta y cinco días siguientes a su promulgación",
+        "c": "Treinta días siguientes a su promulgación",
+        "d": "Sesenta días siguientes a su promulgación"
+      },
+      "correct": "c",
+      "explicacion": "Art. 86.2 CE. Los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso en el plazo de los TREINTA DÍAS siguientes a su promulgación. El Congreso habrá de pronunciarse sobre su convalidación o derogación.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 87. Para la iniciativa legislativa popular se exigirán no menos de:",
+      "options": {
+        "a": "500.000 firmas acreditadas",
+        "b": "250.000 firmas acreditadas",
+        "c": "750.000 firmas acreditadas",
+        "d": "1.000.000 de firmas acreditadas"
+      },
+      "correct": "a",
+      "explicacion": "Art. 87.3 CE. Para la iniciativa legislativa popular se exigirán no menos de 500.000 FIRMAS ACREDITADAS. No procederá en materias propias de ley orgánica, tributarias, de carácter internacional, ni en lo relativo a la prerrogativa de gracia.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 90. El Senado dispone de un plazo de dos meses para vetar o enmendar un proyecto de ley, que se reduce a cuántos días cuando el proyecto ha sido declarado urgente:",
+      "options": {
+        "a": "Diez días naturales",
+        "b": "Veinte días naturales",
+        "c": "Quince días naturales",
+        "d": "Treinta días naturales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 90.3 CE. El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de VEINTE DÍAS NATURALES en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 91. El Rey sancionará en el plazo de _____ las leyes aprobadas por las Cortes Generales:",
+      "options": {
+        "a": "Ocho días",
+        "b": "Diez días",
+        "c": "Treinta días",
+        "d": "Quince días"
+      },
+      "correct": "d",
+      "explicacion": "Art. 91 CE. El Rey sancionará en el plazo de QUINCE DÍAS las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 92. El referéndum consultivo será convocado por el Rey mediante propuesta del:",
+      "options": {
+        "a": "Presidente del Senado, previamente autorizado por las Cortes Generales",
+        "b": "Presidente del Congreso, a iniciativa del Gobierno",
+        "c": "Consejo de Ministros, sin necesidad de autorización parlamentaria",
+        "d": "Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados"
+      },
+      "correct": "d",
+      "explicacion": "Art. 92.2 CE. El referéndum será convocado por el Rey, mediante propuesta del PRESIDENTE DEL GOBIERNO, PREVIAMENTE AUTORIZADA POR EL CONGRESO DE LOS DIPUTADOS. Es un referéndum meramente consultivo (no vinculante).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 67. En relación con el mandato parlamentario, señale la INCORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser miembro de las dos Cámaras simultáneamente",
+        "b": "No se puede acumular el acta de una Asamblea de CCAA con la de Senador",
+        "c": "No se puede acumular el acta de una Asamblea de CCAA con la de Diputado al Congreso",
+        "d": "Los miembros de las Cortes Generales no estarán ligados por mandato imperativo"
+      },
+      "correct": "b",
+      "explicacion": "Art. 67.1 CE. Está prohibido acumular el acta de una Asamblea de CCAA con la de DIPUTADO AL CONGRESO. Sin embargo, sí se puede acumular con la de SENADOR, como se deduce indirectamente del artículo 67 y de otros preceptos de la Constitución.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 80. Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario adoptado por:",
+      "options": {
+        "a": "Mayoría simple de cada Cámara o con arreglo al Reglamento",
+        "b": "El Presidente de la Cámara mediante resolución motivada",
+        "c": "El Gobierno cuando así lo requiera la seguridad del Estado",
+        "d": "Mayoría absoluta de cada Cámara o con arreglo al Reglamento"
+      },
+      "correct": "d",
+      "explicacion": "Art. 80 CE. Las sesiones plenarias serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por MAYORÍA ABSOLUTA o con arreglo al Reglamento. La regla general es la publicidad de las sesiones plenarias.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 76. En relación con las Comisiones de investigación, señale la CORRECTA:",
+      "options": {
+        "a": "Sus conclusiones son vinculantes para los Tribunales",
+        "b": "Sus conclusiones no son vinculantes para los Tribunales, ni afectan a las resoluciones judiciales",
+        "c": "Solo puede crearlas el Congreso, no el Senado",
+        "d": "La comparecencia ante ellas es voluntaria"
+      },
+      "correct": "b",
+      "explicacion": "Art. 76.1 CE. Las conclusiones de las Comisiones de investigación NO serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales. El resultado de la investigación podrá comunicarse al Ministerio Fiscal. La comparecencia ante ellas es OBLIGATORIA (art. 76.2).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_05_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 69. Las Comunidades Autónomas designarán para el Senado un Senador y otro más por cada:",
+      "options": {
+        "a": "500.000 habitantes de su respectivo territorio",
+        "b": "750.000 habitantes de su respectivo territorio",
+        "c": "Dos millones de habitantes de su respectivo territorio",
+        "d": "Un millón de habitantes de su respectivo territorio"
+      },
+      "correct": "d",
+      "explicacion": "Art. 69.5 CE. Las Comunidades Autónomas designarán además un Senador y otro más por cada MILLÓN DE HABITANTES de su respectivo territorio. La designación corresponde a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la CCAA.",
+      "ley": ""
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 44,
+  "preguntas": [
+    {
+      "id": "tema_04_test_44_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 97. ¿Puede el Gobierno actuar contra una ley sin acudir al TC?",
+      "options": {
+        "a": "Sí, puede inaplicarla si la considera inconstitucional",
+        "b": "No, el Gobierno está sometido a la ley; si cree que es inconstitucional debe impugnarla ante el TC o promover su modificación parlamentaria",
+        "c": "Sí, puede suspender su aplicación mediante decreto-ley",
+        "d": "Solo puede inaplicarla si obtiene dictamen favorable del Consejo de Estado"
+      },
+      "correct": "b",
+      "explicacion": "Art. 97 CE y art. 9.1 CE. El Gobierno actúa con sometimiento PLENO A LA LEY Y AL DERECHO. NO PUEDE INAPLICAR UNA LEY AUNQUE LA CONSIDERE INCONSTITUCIONAL. Sus opciones son: acudir al TC (recurso de inconstitucionalidad), promover su modificación legislativa o usar el conflicto de competencias si afecta al orden competencial.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 98. El Gobierno está formado por el Presidente, Vicepresidentes, Ministros y demás miembros. ¿Quién determina el número de Ministerios?",
+      "options": {
+        "a": "La Constitución fija un número mínimo y máximo de Ministerios",
+        "b": "La ley fija los Ministerios con carácter permanente",
+        "c": "El Presidente del Gobierno mediante real decreto puede crear, modificar y suprimir los Ministerios",
+        "d": "Las Cortes aprueban la estructura del Gobierno mediante ley ordinaria"
+      },
+      "correct": "c",
+      "explicacion": "Art. 98.1 CE. La CE habla de 'Ministros y demás miembros que establezca la ley'. Sin embargo, LA ESTRUCTURA DEL GOBIERNO (número y nombre de Ministerios) la determina el PRESIDENTE MEDIANTE REAL DECRETO, pues el art. 2.2.j) de la Ley 50/1997 del Gobierno atribuye al Presidente la creación, modificación y supresión de Departamentos ministeriales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 99. ¿Puede el candidato a Presidente presentar un programa de gobierno diferente en la segunda votación de investidura?",
+      "options": {
+        "a": "No, debe presentar el mismo programa que en la primera votación",
+        "b": "Sí, puede modificar su programa entre la primera y la segunda votación para obtener más apoyos",
+        "c": "No, el Reglamento del Congreso prohíbe cambiar el programa entre votaciones",
+        "d": "Solo puede modificar la composición del Gobierno, no el programa"
+      },
+      "correct": "b",
+      "explicacion": "Art. 99.3 CE. La Constitución dice que 'de no alcanzarse la mayoría [en la primera votación], se someterá LA MISMA PROPUESTA a nueva votación'. El TC ha interpretado 'misma propuesta' como referida al mismo candidato, no al mismo programa. EL CANDIDATO PUEDE MODIFICAR SU PROGRAMA entre votaciones para obtener más apoyos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 100. Los Ministros son nombrados y separados por el Rey a propuesta del Presidente. ¿Puede el Congreso censurar individualmente a un Ministro?",
+      "options": {
+        "a": "Sí, mediante moción de censura individual",
+        "b": "Sí, mediante interpelación seguida de moción de censura individual",
+        "c": "Solo el Senado puede censurar individualmente a un Ministro",
+        "d": "No, la moción de censura solo puede dirigirse contra el Presidente del Gobierno, no contra Ministros individuales"
+      },
+      "correct": "d",
+      "explicacion": "Art. 113 CE. LA MOCIÓN DE CENSURA SOLO PUEDE DIRIGIRSE CONTRA EL PRESIDENTE DEL GOBIERNO, no contra Ministros individuales. El Congreso puede controlar a los Ministros mediante preguntas, interpelaciones y mociones (de contenido político, no de censura), pero no puede forzar su cese directamente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 101. El Gobierno en funciones tiene su capacidad limitada. ¿Puede un Gobierno en funciones firmar un tratado internacional?",
+      "options": {
+        "a": "No puede adoptar medidas que comprometan al Gobierno siguiente; la firma de un tratado de especial trascendencia estaría limitada",
+        "b": "Sí, la condición de funciones no limita la política exterior",
+        "c": "Sí, pero necesita la autorización del Congreso en funciones",
+        "d": "Solo puede firmar tratados comerciales, no políticos"
+      },
+      "correct": "a",
+      "explicacion": "Art. 101.2 CE y Ley 50/1997. El Gobierno en funciones 'LIMITARÁ SU GESTIÓN AL DESPACHO ORDINARIO DE LOS ASUNTOS PÚBLICOS, absteniéndose de adoptar... cualquier otra medida que pueda comprometer la política del Gobierno entrante'. La firma de tratados de especial trascendencia NO sería gestión ordinaria, por lo que estaría LIMITADA.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 106. El control judicial de la Administración por los Tribunales Contencioso-Administrativos incluye el control de la potestad reglamentaria. ¿Puede un juez ordinario inaplicar un reglamento ilegal?",
+      "options": {
+        "a": "No, debe esperar a que el TC lo anule",
+        "b": "Solo la Audiencia Nacional puede inaplicar reglamentos",
+        "c": "Sí, los jueces ordinarios pueden inaplicar reglamentos ilegales en el caso concreto, sin necesidad de acudir al TC (los reglamentos no tienen rango de ley)",
+        "d": "Solo el Tribunal Supremo en recurso de casación"
+      },
+      "correct": "c",
+      "explicacion": "Art. 106 CE. A diferencia de las leyes (que solo el TC puede expulsar del ordenamiento), LOS JUECES ORDINARIOS PUEDEN INAPLICAR REGLAMENTOS ILEGALES en el caso concreto. Los reglamentos son normas infralegales controladas por la jurisdicción contencioso-administrativa, que puede anularlos sin intervención del TC.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 117. ¿Puede el Ejecutivo cesar a un juez por sus resoluciones judiciales?",
+      "options": {
+        "a": "No, los jueces son inamovibles; el Ejecutivo no puede intervenir en su estatuto",
+        "b": "Sí, si sus resoluciones son sistemáticamente revocadas en apelación",
+        "c": "Solo si el CGPJ lo propone previamente",
+        "d": "Solo mediante ley orgánica aprobada por las Cortes"
+      },
+      "correct": "a",
+      "explicacion": "Art. 117.2 CE. Los Jueces y Magistrados son INDEPENDIENTES, INAMOVIBLES, RESPONSABLES Y SOMETIDOS únicamente al Imperio de la Ley. EL EJECUTIVO NO PUEDE CESAR A UN JUEZ por sus resoluciones. Solo el CGPJ puede incoar expedientes disciplinarios y, en su caso, proponer sanciones conforme a la LOPJ.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 120. ¿Pueden las resoluciones judiciales dictarse de forma oral?",
+      "options": {
+        "a": "No, todas las resoluciones judiciales deben ser escritas",
+        "b": "Sí, las sentencias serán siempre motivadas y se pronunciarán en audiencia pública; el procedimiento es oral pero la sentencia se documenta",
+        "c": "Solo los autos pueden ser orales; las sentencias siempre deben ser escritas",
+        "d": "Solo en el proceso penal abreviado"
+      },
+      "correct": "b",
+      "explicacion": "Art. 120.2 y 3 CE. El procedimiento será PREDOMINANTEMENTE ORAL (especialmente en materia criminal). Las sentencias serán SIEMPRE MOTIVADAS Y SE PRONUNCIARÁN EN AUDIENCIA PÚBLICA. La oralidad afecta al procedimiento; la sentencia final debe documentarse y motivarse por escrito para garantizar el derecho de recurso.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 121. Un ciudadano es absuelto tras estar en prisión preventiva durante 2 años. ¿Tiene derecho a indemnización?",
+      "options": {
+        "a": "No, la prisión preventiva es una medida cautelar legítima",
+        "b": "Solo si el juez actuó con dolo o culpa grave",
+        "c": "Sí, el artículo 121 CE prevé indemnización por error judicial y funcionamiento anormal de la Administración de Justicia",
+        "d": "Solo si el tiempo en prisión superó los 3 años"
+      },
+      "correct": "c",
+      "explicacion": "Art. 121 CE. Los daños causados por ERROR JUDICIAL, así como los que sean consecuencia del FUNCIONAMIENTO ANORMAL DE LA ADMINISTRACIÓN DE JUSTICIA, darán derecho a una INDEMNIZACIÓN A CARGO DEL ESTADO. Una absolución tras prisión preventiva prolongada puede dar lugar a indemnización por error judicial.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 123. El Tribunal Supremo tiene jurisdicción en toda España. ¿Qué significa el término 'salvo las garantías constitucionales' en la delimitación de su competencia?",
+      "options": {
+        "a": "Que el TS puede controlar la constitucionalidad de las leyes",
+        "b": "Que el TS no puede conocer de recursos de amparo",
+        "c": "Que el TC tiene competencia exclusiva en materia de garantías constitucionales, desplazando al TS en esos ámbitos",
+        "d": "Que el TS comparte competencia con el TC en materia constitucional"
+      },
+      "correct": "c",
+      "explicacion": "Art. 123.1 CE. El TS es 'el órgano jurisdiccional superior en todos los órdenes, SALVO LO DISPUESTO EN MATERIA DE GARANTÍAS CONSTITUCIONALES'. Esto significa que EL TC TIENE COMPETENCIA EXCLUSIVA EN MATERIA CONSTITUCIONAL (recursos de amparo, inconstitucionalidad, etc.), desplazando al TS en esos ámbitos específicos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 128. ¿Puede el Estado intervenir en la gestión de una empresa privada sin expropiación?",
+      "options": {
+        "a": "No, solo puede expropiarla si quiere intervenir",
+        "b": "Sí, mediante ley puede acordarse la intervención de empresas cuando así lo exigiere el interés general",
+        "c": "Solo puede intervenir en empresas con participación pública",
+        "d": "Solo en sectores regulados como la banca o la energía"
+      },
+      "correct": "b",
+      "explicacion": "Art. 128.2 CE. 'Asimismo PODRÁ ACORDARSE LA INTERVENCIÓN DE EMPRESAS CUANDO ASÍ LO EXIGIERE EL INTERÉS GENERAL.' La intervención es distinta de la expropiación: es una medida temporal de gestión sin transferencia de la propiedad, que debe establecerse mediante ley y por motivos de interés general.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 129. ¿Pueden los trabajadores de una empresa convertirla en cooperativa?",
+      "options": {
+        "a": "No, la empresa privada no puede cambiarse de forma obligatoria",
+        "b": "Solo si todos los propietarios lo consienten",
+        "c": "Solo en empresas con más de 250 trabajadores",
+        "d": "Los poderes públicos establecerán los medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción, lo que incluye el fomento de cooperativas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 129.2 CE. LOS PODERES PÚBLICOS FOMENTARÁN LAS SOCIEDADES COOPERATIVAS y establecerán los medios que FACILITEN EL ACCESO DE LOS TRABAJADORES A LA PROPIEDAD DE LOS MEDIOS DE PRODUCCIÓN. Este mandato constitucional apoya el fomento de la economía social y las cooperativas de trabajo asociado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 131. ¿Puede el Gobierno planificar la economía sectorial de una CCAA sin su participación?",
+      "options": {
+        "a": "Sí, la planificación económica es competencia exclusiva del Estado",
+        "b": "Solo en sectores de competencia exclusiva del Estado",
+        "c": "Sí, pero debe comunicarlo al Delegado del Gobierno en la CCAA",
+        "d": "No, la planificación general debe contar con la colaboración de las CCAA mediante el Consejo del art. 131.2; además deben respetarse las competencias autonómicas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 131.2 CE. El Gobierno elabora los proyectos de planificación CON EL ASESORAMIENTO Y COLABORACIÓN de los sindicatos y otras organizaciones, y el Consejo regulado por ley. Además, en materias de competencia autonómica, EL GOBIERNO NO PUEDE PLANIFICAR UNILATERALMENTE SIN RESPETAR LAS COMPETENCIAS DE LAS CCAA.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 133. ¿Puede una CCAA crear un impuesto que grave los mismos hechos imponibles que un impuesto estatal?",
+      "options": {
+        "a": "Con limitaciones: la LOFCA prohíbe que los tributos propios de las CCAA graven los mismos hechos imponibles que los impuestos estatales",
+        "b": "Sí, sin restricción alguna",
+        "c": "Solo si el Estado lo autoriza expresamente",
+        "d": "Solo en materias de competencia exclusiva autonómica"
+      },
+      "correct": "a",
+      "explicacion": "Art. 133 CE y LOFCA. Aunque las CCAA tienen potestad tributaria derivada, LA LOFCA PROHÍBE QUE LOS TRIBUTOS PROPIOS DE LAS CCAA GRAVEN LOS MISMOS HECHOS IMPONIBLES QUE LOS IMPUESTOS ESTATALES para evitar la doble imposición. Este es el principio de incompatibilidad o prohibición de la doble imposición interna.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 134. La Ley de Presupuestos debe publicarse antes del inicio del ejercicio económico. ¿Qué pasa si no se aprueba en plazo?",
+      "options": {
+        "a": "El ejercicio comienza sin Presupuestos y el Gobierno debe presentar nuevos urgentemente",
+        "b": "El Gobierno debe convocar elecciones generales",
+        "c": "Se prorrogarán automáticamente los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos",
+        "d": "Las Cortes quedan disueltas automáticamente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 134.4 CE. 'Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente, SE CONSIDERARÁN AUTOMÁTICAMENTE PRORROGADOS LOS PRESUPUESTOS DEL EJERCICIO ANTERIOR HASTA LA APROBACIÓN DE LOS NUEVOS.' La prórroga automática evita el vacío presupuestario.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 135. El límite de déficit estructural de las Administraciones Públicas se fija por:",
+      "options": {
+        "a": "Una ley orgánica, que también puede establecer los supuestos excepcionales de superación del límite",
+        "b": "La Constitución directamente en su artículo 135",
+        "c": "El Gobierno mediante decreto anual",
+        "d": "El Banco de España junto con el Ministerio de Hacienda"
+      },
+      "correct": "a",
+      "explicacion": "Art. 135.3 CE. 'UNA LEY ORGÁNICA fijará el límite de déficit estructural máximo permitido al Estado y a las Comunidades Autónomas', así como la metodología para su cálculo y las circunstancias excepcionales (catástrofes naturales, recesión económica grave, situaciones de emergencia extraordinaria) en que se puede superar.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 136. ¿El Tribunal de Cuentas puede fiscalizar también la actividad económica de las CCAA y Entes Locales?",
+      "options": {
+        "a": "No, su competencia se limita a la Administración del Estado central",
+        "b": "Solo en lo relativo a las subvenciones que reciben del Estado",
+        "c": "Solo si las CCAA y Entes Locales no tienen órgano fiscalizador propio",
+        "d": "Sí, el Tribunal de Cuentas es el supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del SECTOR PÚBLICO"
+      },
+      "correct": "d",
+      "explicacion": "Art. 136.1 CE. El Tribunal de Cuentas es el 'SUPREMO ÓRGANO FISCALIZADOR DE LAS CUENTAS Y DE LA GESTIÓN ECONÓMICA DEL ESTADO, así como del SECTOR PÚBLICO'. El sector público incluye las CCAA, los Entes Locales y el sector público empresarial. Muchas CCAA tienen además sus propios órganos de control externo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 118. ¿Pueden los particulares negarse a cumplir una resolución judicial firme que les perjudica?",
+      "options": {
+        "a": "No, es obligado cumplir las sentencias y resoluciones firmes de los Jueces y Tribunales",
+        "b": "Sí, pueden recurrir en amparo ante el TC como alternativa al cumplimiento",
+        "c": "Pueden aplazar el cumplimiento hasta agotar todos los recursos",
+        "d": "Solo pueden negarse a cumplir si la resolución les causa un daño desproporcionado"
+      },
+      "correct": "a",
+      "explicacion": "Art. 118 CE. 'Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales'. El incumplimiento de resoluciones judiciales firmes puede constituir delito de desobediencia o desacato. La interposición del recurso de amparo no suspende automáticamente la ejecución de la sentencia.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 124. El Ministerio Fiscal actúa con dependencia jerárquica. ¿Puede un fiscal negarse a cumplir las instrucciones de sus superiores?",
+      "options": {
+        "a": "No, la dependencia jerárquica es absoluta",
+        "b": "Sí, el fiscal puede manifestar su discrepancia y pedir que se le encomiende otra función, pero en última instancia el superior puede designar a otro fiscal",
+        "c": "Solo puede negarse si las instrucciones son manifiestamente ilegales",
+        "d": "Puede negarse libremente sin consecuencias"
+      },
+      "correct": "b",
+      "explicacion": "Art. 124.2 CE y Estatuto del MF. La DEPENDENCIA JERÁRQUICA permite a los superiores dar instrucciones a los inferiores. Sin embargo, EL FISCAL PUEDE MANIFESTAR SU DISCREPANCIA y solicitar ser apartado del asunto, pero el superior puede encargarlo a otro fiscal. El principio de legalidad opera como límite: las instrucciones no pueden ser manifiestamente ilegales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_44_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 127. ¿Pueden los jueces en activo ejercer la abogacía?",
+      "options": {
+        "a": "Sí, en casos de urgencia y con autorización del CGPJ",
+        "b": "Solo en el orden civil y de forma puntual",
+        "c": "Solo si se encuentran en situación de servicios especiales",
+        "d": "No, los Jueces y Magistrados no podrán pertenecer a partidos políticos, sindicatos ni desempeñar otras funciones públicas; el ejercicio de la abogacía también está prohibido"
+      },
+      "correct": "d",
+      "explicacion": "Art. 127.1 CE y LOPJ. Los Jueces y Magistrados NO PODRÁN DESEMPEÑAR OTROS CARGOS PÚBLICOS NI PERTENECER A PARTIDOS POLÍTICOS O SINDICATOS. La LOPJ prohíbe expresamente el ejercicio de la abogacía y la procura mientras están en activo. La incompatibilidad garantiza la dedicación exclusiva y la apariencia de imparcialidad.",
+      "ley": ""
+    }
+  ]
+}

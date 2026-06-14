@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 9,
+  "preguntas": [
+    {
+      "id": "tema_04_test_09_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 159. El Tribunal Constitucional se compone de:",
+      "options": {
+        "a": "10 miembros nombrados por el Rey",
+        "b": "15 miembros nombrados por el Rey",
+        "c": "12 miembros nombrados por el Rey",
+        "d": "20 miembros nombrados por las Cortes Generales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 159.1 CE. El Tribunal Constitucional se compone de 12 MIEMBROS nombrados por el Rey: cuatro a propuesta del Congreso (3/5), cuatro a propuesta del Senado (3/5), dos a propuesta del Gobierno y dos a propuesta del CGPJ.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 159. Los miembros del Tribunal Constitucional son designados por un período de:",
+      "options": {
+        "a": "Nueve años, renovándose por terceras partes cada tres",
+        "b": "Cuatro años, renovándose por mitades cada dos",
+        "c": "Seis años, renovándose por mitades cada tres",
+        "d": "Doce años, sin posibilidad de renovación"
+      },
+      "correct": "a",
+      "explicacion": "Art. 159.3 CE. Los miembros del Tribunal Constitucional serán designados por un período de NUEVE AÑOS y se renovarán POR TERCERAS PARTES CADA TRES. Son independientes e inamovibles en el ejercicio de su mandato.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 159. Los miembros del Tribunal Constitucional deberán ser juristas de reconocida competencia con:",
+      "options": {
+        "a": "Más de diez años de ejercicio profesional",
+        "b": "Más de quince años de ejercicio profesional",
+        "c": "Más de veinte años de ejercicio profesional",
+        "d": "Más de veinticinco años de ejercicio profesional"
+      },
+      "correct": "b",
+      "explicacion": "Art. 159.2 CE. Los miembros del TC deberán ser nombrados entre Magistrados, Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con MÁS DE QUINCE AÑOS de ejercicio profesional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 160. El Presidente del Tribunal Constitucional es nombrado por el Rey a propuesta del propio Tribunal en pleno, por un período de:",
+      "options": {
+        "a": "Dos años, con posibilidad de reelección indefinida",
+        "b": "Cuatro años, sin posibilidad de reelección",
+        "c": "Tres años, siendo posible una única reelección",
+        "d": "Cinco años, con posibilidad de reelección por una sola vez"
+      },
+      "correct": "c",
+      "explicacion": "Art. 160 CE. El Presidente del TC será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno, por un período de TRES AÑOS, siendo posible UNA ÚNICA REELECCIÓN. En primera votación se requiere mayoría absoluta.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 161. Están legitimados para interponer el recurso de inconstitucionalidad:",
+      "options": {
+        "a": "Cualquier ciudadano que tenga un interés legítimo",
+        "b": "Solo el Gobierno y las Cortes Generales conjuntamente",
+        "c": "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos ejecutivos y Asambleas de las CCAA",
+        "d": "El Ministerio Fiscal, el Gobierno y las Cortes Generales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 162.1.a) CE. Están legitimados para interponer el recurso de inconstitucionalidad: el PRESIDENTE DEL GOBIERNO, el DEFENSOR DEL PUEBLO, 50 DIPUTADOS, 50 SENADORES, los ÓRGANOS COLEGIADOS EJECUTIVOS de las CCAA y, en su caso, sus ASAMBLEAS.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 162. Están legitimados para interponer el recurso de amparo:",
+      "options": {
+        "a": "Solo el Defensor del Pueblo y el Ministerio Fiscal",
+        "b": "Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal",
+        "c": "Solo los ciudadanos españoles con plena capacidad de obrar",
+        "d": "Los Diputados y Senadores en nombre de sus representados"
+      },
+      "correct": "b",
+      "explicacion": "Art. 162.1.b) CE. Para interponer el recurso de amparo están legitimados: TODA PERSONA NATURAL O JURÍDICA que invoque un interés legítimo, así como el DEFENSOR DEL PUEBLO y el MINISTERIO FISCAL.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 164. Las sentencias del Tribunal Constitucional tienen el valor de cosa juzgada a partir de:",
+      "options": {
+        "a": "El día de su publicación en el BOE",
+        "b": "Los quince días siguientes a su publicación",
+        "c": "Los treinta días siguientes a su publicación",
+        "d": "El día siguiente de su publicación en el BOE"
+      },
+      "correct": "d",
+      "explicacion": "Art. 164.1 CE. Las sentencias del TC se publicarán en el BOE con los votos particulares si los hubiere. Tienen el valor de cosa juzgada a partir del DÍA SIGUIENTE DE SU PUBLICACIÓN y no cabe recurso alguno contra ellas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 159. La condición de miembro del Tribunal Constitucional es incompatible con:",
+      "options": {
+        "a": "Todo mandato representativo y los cargos políticos, pero compatible con funciones directivas en partidos políticos",
+        "b": "Todo mandato representativo, los cargos políticos o administrativos, funciones directivas en partido político o sindicato, el ejercicio de las carreras judicial y fiscal, y cualquier actividad profesional o mercantil",
+        "c": "Solo con el ejercicio simultáneo de otro cargo judicial",
+        "d": "Solo con los cargos políticos de elección popular"
+      },
+      "correct": "b",
+      "explicacion": "Art. 159.4 CE. La condición de miembro del TC es incompatible con: todo mandato representativo; cargos políticos o administrativos; funciones directivas en partido político o sindicato; ejercicio de las carreras judicial y fiscal; y cualquier actividad profesional o mercantil.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 167. En el procedimiento ordinario de reforma constitucional, los proyectos de reforma deberán ser aprobados por:",
+      "options": {
+        "a": "Mayoría absoluta de cada una de las Cámaras",
+        "b": "Mayoría de dos tercios de ambas Cámaras reunidas en sesión conjunta",
+        "c": "Mayoría de tres quintos de cada una de las Cámaras",
+        "d": "Mayoría simple del Congreso y mayoría absoluta del Senado"
+      },
+      "correct": "c",
+      "explicacion": "Art. 167.1 CE. En la reforma constitucional ordinaria, los proyectos deberán ser aprobados por MAYORÍA DE TRES QUINTOS DE CADA UNA DE LAS CÁMARAS. Si no hay acuerdo, se forma una Comisión paritaria y si tampoco hay acuerdo, el Congreso puede aprobar por 2/3 si el Senado aprobó por mayoría absoluta.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 167. En la reforma constitucional ordinaria, aprobada por las Cortes, se someterá a referéndum para su ratificación cuando así lo soliciten, en los quince días siguientes a su aprobación:",
+      "options": {
+        "a": "Una décima parte de los miembros de cualquiera de las Cámaras",
+        "b": "Un cuarto de los miembros de cualquiera de las Cámaras",
+        "c": "La mayoría absoluta de cualquiera de las Cámaras",
+        "d": "El Gobierno o el Presidente del Congreso"
+      },
+      "correct": "a",
+      "explicacion": "Art. 167.3 CE. Aprobada la reforma, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, UNA DÉCIMA PARTE DE LOS MIEMBROS de cualquiera de las Cámaras.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 168. El procedimiento agravado de reforma constitucional se aplica cuando se propone la revisión total o una parcial que afecte a:",
+      "options": {
+        "a": "El Título Preliminar, el Capítulo segundo, Sección primera del Título I, o el Título II",
+        "b": "El Título Preliminar únicamente",
+        "c": "Cualquier Título de la Constitución a juicio de las Cortes",
+        "d": "El Título I sobre derechos y deberes fundamentales en su totalidad"
+      },
+      "correct": "a",
+      "explicacion": "Art. 168.1 CE. El procedimiento agravado se aplica cuando se propone la revisión TOTAL de la Constitución o una parcial que afecte al TÍTULO PRELIMINAR, al CAPÍTULO SEGUNDO, SECCIÓN PRIMERA DEL TÍTULO I (derechos fundamentales), o al TÍTULO II (Corona).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 168. En el procedimiento agravado de reforma constitucional, el primer paso es la aprobación del principio por:",
+      "options": {
+        "a": "Mayoría de tres quintos de cada Cámara, sin disolución",
+        "b": "Mayoría absoluta de cada Cámara y referéndum inmediato",
+        "c": "Mayoría simple de ambas Cámaras en sesión conjunta",
+        "d": "Mayoría de dos tercios de cada Cámara y disolución inmediata de las Cortes"
+      },
+      "correct": "d",
+      "explicacion": "Art. 168.1 CE. En el procedimiento agravado, se procederá a la aprobación del principio por MAYORÍA DE DOS TERCIOS DE CADA CÁMARA y a la DISOLUCIÓN INMEDIATA DE LAS CORTES. Las nuevas Cámaras ratifican y aprueban el texto también por dos tercios, y hay referéndum obligatorio.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 169. La reforma constitucional no podrá iniciarse:",
+      "options": {
+        "a": "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116 (alarma, excepción o sitio)",
+        "b": "Durante el período estival (julio y agosto)",
+        "c": "Durante el primer año de una nueva legislatura",
+        "d": "Cuando el Gobierno esté en funciones"
+      },
+      "correct": "a",
+      "explicacion": "Art. 169 CE. No podrá iniciarse la reforma constitucional EN TIEMPO DE GUERRA O DE VIGENCIA DE ALGUNO DE LOS ESTADOS PREVISTOS EN EL ARTÍCULO 116 (estados de alarma, excepción y sitio).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 161. El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones de las CCAA, lo que producirá la suspensión de la disposición. El TC deberá ratificarla o levantarla en un plazo no superior a:",
+      "options": {
+        "a": "Dos meses",
+        "b": "Tres meses",
+        "c": "Seis meses",
+        "d": "Cinco meses"
+      },
+      "correct": "d",
+      "explicacion": "Art. 161.2 CE. La impugnación gubernamental de disposiciones autonómicas producirá la suspensión automática, pero el TC, en su caso, deberá ratificarla o levantarla en un plazo no superior a CINCO MESES.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 163. La cuestión de inconstitucionalidad puede ser planteada ante el TC por:",
+      "options": {
+        "a": "Cualquier ciudadano que tenga un interés legítimo en el proceso",
+        "b": "Un órgano judicial cuando considere que una norma con rango de ley aplicable al caso pueda ser contraria a la Constitución",
+        "c": "El Ministerio Fiscal en cualquier proceso penal",
+        "d": "El Abogado del Estado en representación del Gobierno"
+      },
+      "correct": "b",
+      "explicacion": "Art. 163 CE. Cuando un ÓRGANO JUDICIAL considere, en algún proceso, que una norma con rango de ley aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el TC. La tramitación de la cuestión no tiene efectos suspensivos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 159. Los cuatro miembros del Tribunal Constitucional propuestos a propuesta del Senado son elegidos con la mayoría de:",
+      "options": {
+        "a": "Mayoría simple del Senado",
+        "b": "Mayoría absoluta del Senado",
+        "c": "Mayoría de tres quintos del Senado",
+        "d": "Mayoría de dos tercios del Senado"
+      },
+      "correct": "c",
+      "explicacion": "Art. 159.1 CE. Cuatro miembros del TC se proponen a propuesta del Congreso y cuatro a propuesta del Senado, en ambos casos con MAYORÍA DE TRES QUINTOS de sus miembros. Los otros dos los propone el Gobierno y dos el CGPJ.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 168. En el procedimiento agravado de reforma, ¿se somete el resultado a referéndum?",
+      "options": {
+        "a": "Siempre y obligatoriamente",
+        "b": "Solo si lo solicita una décima parte de los miembros de cualquier Cámara",
+        "c": "Solo si lo solicita el Gobierno",
+        "d": "Nunca, ya que el referéndum solo procede en la reforma ordinaria"
+      },
+      "correct": "a",
+      "explicacion": "Art. 168.3 CE. En el procedimiento agravado, aprobada la reforma por las Cortes Generales, será sometida a REFERÉNDUM PARA SU RATIFICACIÓN, de forma OBLIGATORIA. En la reforma ordinaria (art. 167), el referéndum es potestativo, solo si lo solicita una décima parte de los miembros.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 164. Las sentencias del TC que declaren la inconstitucionalidad de una ley tienen:",
+      "options": {
+        "a": "Efectos únicamente entre las partes del proceso",
+        "b": "Efectos solo para el caso concreto que motivó el recurso",
+        "c": "Efectos para futuras aplicaciones de la norma, pero no afectan a los casos ya resueltos",
+        "d": "Plenos efectos frente a todos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 164.1 CE. Las sentencias que declaren la inconstitucionalidad de una ley o norma con fuerza de ley y todas las que no se limiten a la estimación subjetiva de un derecho tienen PLENOS EFECTOS FRENTE A TODOS (efectos erga omnes).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 167. Si en la reforma constitucional ordinaria no hay acuerdo entre Congreso y Senado, ¿qué ocurre si el texto obtiene el voto favorable de la mayoría absoluta del Senado pero no los tres quintos del Congreso?",
+      "options": {
+        "a": "El Congreso podrá aprobarlo por mayoría simple en segunda votación",
+        "b": "La reforma queda rechazada definitivamente",
+        "c": "El Presidente del Gobierno decide mediante decreto refrendado",
+        "d": "El Congreso podrá aprobarlo por mayoría de dos tercios"
+      },
+      "correct": "d",
+      "explicacion": "Art. 167.2 CE. Si no se logra acuerdo y el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el CONGRESO, POR MAYORÍA DE DOS TERCIOS, podrá aprobar la reforma. Esta es la segunda oportunidad cuando falla la Comisión mixta paritaria.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_09_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 159. ¿A cuántos miembros del Tribunal Constitucional propone el Gobierno?",
+      "options": {
+        "a": "Un miembro",
+        "b": "Dos miembros",
+        "c": "Tres miembros",
+        "d": "Cuatro miembros"
+      },
+      "correct": "b",
+      "explicacion": "Art. 159.1 CE. De los doce miembros del TC, DOS son a propuesta del GOBIERNO y dos a propuesta del Consejo General del Poder Judicial. Los restantes ocho son propuestos por las Cámaras: cuatro por el Congreso y cuatro por el Senado, ambos por mayoría de tres quintos.",
+      "ley": ""
+    }
+  ]
+}

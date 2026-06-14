@@ -1,0 +1,307 @@
+{
+  "tema_numero": 2,
+  "tema": "Igualdad efectiva de mujeres y hombres",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_02_test_10_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. El Plan para la Igualdad en la Administración General del Estado es aprobado por el Gobierno al inicio de cada legislatura. Su cumplimiento será evaluado:",
+      "options": {
+        "a": "Trimestralmente por el Ministerio de Igualdad",
+        "b": "Anualmente por el Consejo de Ministros",
+        "c": "Al final de cada legislatura por el Gobierno",
+        "d": "Cada dos años por las Cortes Generales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 64 LO 3/2007. El cumplimiento del Plan para la Igualdad en la AGE será evaluado ANUALMENTE POR EL CONSEJO DE MINISTROS.",
+      "ley": "LO 3/2007, art. 64"
+    },
+    {
+      "id": "tema_02_test_10_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Para la concesión del distintivo empresarial en materia de igualdad, señale la opción INCORRECTA sobre los criterios tenidos en cuenta.",
+      "options": {
+        "a": "La adopción de planes de igualdad u otras medidas innovadoras de fomento de la igualdad",
+        "b": "La publicidad no sexista de los productos o servicios de la empresa",
+        "c": "El volumen de facturación anual de la empresa",
+        "d": "La presencia equilibrada de mujeres y hombres en los órganos de dirección"
+      },
+      "correct": "c",
+      "explicacion": "Art. 50 LO 3/2007. Los criterios para la concesión del distintivo son: presencia equilibrada en ÓRGANOS DE DIRECCIÓN, adopción de PLANES DE IGUALDAD u otras medidas innovadoras, y PUBLICIDAD NO SEXISTA. El VOLUMEN DE FACTURACIÓN no es un criterio previsto.",
+      "ley": "LO 3/2007, art. 50"
+    },
+    {
+      "id": "tema_02_test_10_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. ¿Qué constituye el acoso sexual según la LO 3/2007?",
+      "options": {
+        "a": "Solo el comportamiento físico de naturaleza sexual",
+        "b": "Únicamente el comportamiento que cause perjuicio económico a la víctima",
+        "c": "Solo los comportamientos reiterados en el tiempo",
+        "d": "Cualquier comportamiento verbal o físico, de naturaleza sexual, que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona"
+      },
+      "correct": "d",
+      "explicacion": "Art. 7.1 LO 3/2007. Constituye ACOSO SEXUAL cualquier comportamiento VERBAL O FÍSICO, de NATURALEZA SEXUAL, que tenga el PROPÓSITO O PRODUZCA EL EFECTO de atentar contra la DIGNIDAD de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo.",
+      "ley": "LO 3/2007, art. 7.1"
+    },
+    {
+      "id": "tema_02_test_10_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Señale la opción INCORRECTA sobre la Comisión Interministerial de Igualdad y el Consejo de Participación de la Mujer.",
+      "options": {
+        "a": "Reglamentariamente se determinarán la composición y funcionamiento de ambos órganos",
+        "b": "El Consejo de Participación de la Mujer es el órgano de consulta y asesoramiento",
+        "c": "Ambos órganos tienen exactamente las mismas funciones y finalidades",
+        "d": "La Comisión Interministerial es el órgano de coordinación de las políticas ministeriales"
+      },
+      "correct": "c",
+      "explicacion": "Arts. 76 y 78 LO 3/2007. Los dos órganos tienen funciones DISTINTAS: la COMISIÓN INTERMINISTERIAL coordina las políticas ministeriales; el CONSEJO DE PARTICIPACIÓN DE LA MUJER sirve de cauce para la participación de las mujeres y la lucha contra la discriminación. No tienen las mismas funciones.",
+      "ley": "LO 3/2007, arts. 76 y 78"
+    },
+    {
+      "id": "tema_02_test_10_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. En las convocatorias de cursos de formación de la Administración General del Estado, para facilitar la promoción profesional de las empleadas públicas, se reservará al menos:",
+      "options": {
+        "a": "Un 25% de las plazas",
+        "b": "Un 50% de las plazas",
+        "c": "Un 30% de las plazas",
+        "d": "Un 40% de las plazas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 60.2 LO 3/2007. Se reservará AL MENOS UN 40% DE LAS PLAZAS en convocatorias de cursos de formación para facilitar el acceso de las empleadas públicas a puestos directivos en la AGE y organismos vinculados.",
+      "ley": "LO 3/2007, art. 60.2"
+    },
+    {
+      "id": "tema_02_test_10_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Los tribunales y órganos de selección del personal de la Administración General del Estado responderán al principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas. ¿A qué principio se ajustará la representación en las comisiones de valoración de méritos?",
+      "options": {
+        "a": "Al principio de composición equilibrada de ambos sexos",
+        "b": "Al mismo principio de presencia equilibrada",
+        "c": "Al principio de proporcionalidad con la plantilla existente",
+        "d": "Al principio de meritocracia exclusivamente"
+      },
+      "correct": "a",
+      "explicacion": "Art. 53 LO 3/2007. Los órganos de selección responden al principio de PRESENCIA EQUILIBRADA. Las comisiones de valoración de méritos se ajustan al principio de COMPOSICIÓN EQUILIBRADA de ambos sexos. Esta distinción es clave.",
+      "ley": "LO 3/2007, art. 53"
+    },
+    {
+      "id": "tema_02_test_10_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. El Gobierno elaborará un informe periódico sobre la efectividad del principio de igualdad entre mujeres y hombres. ¿A quién se dará cuenta de este informe?",
+      "options": {
+        "a": "Al Congreso de los Diputados exclusivamente",
+        "b": "Al Senado exclusivamente",
+        "c": "A las Cortes Generales",
+        "d": "Al Consejo de Estado"
+      },
+      "correct": "c",
+      "explicacion": "Art. 18 LO 3/2007. El Gobierno elaborará un INFORME PERIÓDICO sobre la efectividad del principio de igualdad entre mujeres y hombres, del que se DARÁ CUENTA A LAS CORTES GENERALES (no solo al Congreso ni solo al Senado).",
+      "ley": "LO 3/2007, art. 18"
+    },
+    {
+      "id": "tema_02_test_10_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal:",
+      "options": {
+        "a": "Tiene carácter programático sin efectos jurídicos directos",
+        "b": "Se integrará y observará en la interpretación y aplicación de las normas jurídicas",
+        "c": "Solo se aplica en el ámbito del empleo público",
+        "d": "Se aplicará únicamente en los procesos judiciales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 4 LO 3/2007. La igualdad de trato y oportunidades es un PRINCIPIO INFORMADOR del ordenamiento jurídico que se INTEGRARÁ Y OBSERVARÁ en la INTERPRETACIÓN Y APLICACIÓN de las normas jurídicas, con carácter transversal.",
+      "ley": "LO 3/2007, art. 4"
+    },
+    {
+      "id": "tema_02_test_10_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Los poderes públicos deberán incluir sistemáticamente la variable de sexo en las estadísticas, encuestas y recogida de datos que lleven a cabo. Solo excepcionalmente podrá justificarse el incumplimiento de estas obligaciones mediante:",
+      "options": {
+        "a": "Acuerdo del Consejo de Ministros",
+        "b": "Informe motivado y aprobado por el órgano competente",
+        "c": "Resolución de la Comisión Interministerial de Igualdad",
+        "d": "Decisión del órgano directivo competente"
+      },
+      "correct": "b",
+      "explicacion": "Art. 20 LO 3/2007. SOLO EXCEPCIONALMENTE, y mediante INFORME MOTIVADO Y APROBADO por el ÓRGANO COMPETENTE, podrá justificarse el incumplimiento de alguna de las obligaciones estadísticas establecidas.",
+      "ley": "LO 3/2007, art. 20"
+    },
+    {
+      "id": "tema_02_test_10_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Las corporaciones locales podrán establecer Planes Municipales de organización del tiempo de la ciudad con el fin de avanzar hacia un reparto equitativo de los tiempos entre mujeres y hombres. Para la elaboración de estos planes, el Estado podrá prestar:",
+      "options": {
+        "a": "Personal funcionario destinado en comisión de servicios",
+        "b": "Financiación directa obligatoria a todos los municipios",
+        "c": "Asistencia técnica",
+        "d": "Solo orientaciones y recomendaciones no vinculantes"
+      },
+      "correct": "c",
+      "explicacion": "Art. 22 LO 3/2007. Las corporaciones locales podrán establecer PLANES MUNICIPALES DE ORGANIZACIÓN DEL TIEMPO DE LA CIUDAD. Sin perjuicio de las competencias de las CCAA, el ESTADO PODRÁ PRESTAR ASISTENCIA TÉCNICA para la elaboración de estos planes.",
+      "ley": "LO 3/2007, art. 22"
+    },
+    {
+      "id": "tema_02_test_10_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. La inversión de la carga de la prueba en procedimientos por discriminación por razón de sexo NO será de aplicación a los procesos:",
+      "options": {
+        "a": "Civiles",
+        "b": "Penales",
+        "c": "Contencioso-administrativos",
+        "d": "Laborales"
+      },
+      "correct": "b",
+      "explicacion": "Art. 13.2 LO 3/2007. Lo establecido en el apartado 1 del art. 13 (inversión de la carga de la prueba) NO SERÁ DE APLICACIÓN a los procesos PENALES, por el principio de presunción de inocencia.",
+      "ley": "LO 3/2007, art. 13.2"
+    },
+    {
+      "id": "tema_02_test_10_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. El acoso sexual y el acoso por razón de sexo se considerarán en todo caso:",
+      "options": {
+        "a": "Discriminatorios",
+        "b": "Infracciones laborales graves en todo caso",
+        "c": "Delitos penales en cualquier circunstancia",
+        "d": "Causas de nulidad del contrato de trabajo"
+      },
+      "correct": "a",
+      "explicacion": "Art. 7.3 LO 3/2007. El acoso sexual y el acoso por razón de sexo se considerarán EN TODO CASO DISCRIMINATORIOS. No se requiere que sean reiterados ni que alcancen una determinada gravedad.",
+      "ley": "LO 3/2007, art. 7.3"
+    },
+    {
+      "id": "tema_02_test_10_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. La Comisión Interministerial de Igualdad entre mujeres y hombres es el órgano colegiado responsable de la coordinación de las políticas y medidas adoptadas por los departamentos ministeriales. ¿Cuál es su finalidad?",
+      "options": {
+        "a": "Gestionar las denuncias por discriminación presentadas por las trabajadoras",
+        "b": "Asesorar a las empresas en la elaboración de planes de igualdad",
+        "c": "Sancionar a los organismos que incumplan la LO 3/2007",
+        "d": "Garantizar el derecho a la igualdad entre mujeres y hombres y promover su efectividad"
+      },
+      "correct": "d",
+      "explicacion": "Art. 76 LO 3/2007. La Comisión Interministerial es el ÓRGANO COLEGIADO responsable de la COORDINACIÓN de las políticas y medidas de los departamentos ministeriales con la finalidad de GARANTIZAR EL DERECHO A LA IGUALDAD y PROMOVER SU EFECTIVIDAD.",
+      "ley": "LO 3/2007, art. 76"
+    },
+    {
+      "id": "tema_02_test_10_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Señale la opción INCORRECTA sobre la discriminación indirecta por razón de sexo.",
+      "options": {
+        "a": "No admite ningún tipo de justificación objetiva",
+        "b": "Se produce cuando una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular respecto del otro",
+        "c": "Incluye disposiciones, criterios o prácticas aparentemente neutros",
+        "d": "Puede justificarse en atención a una finalidad legítima cuando los medios sean necesarios y adecuados"
+      },
+      "correct": "a",
+      "explicacion": "Art. 6.2 LO 3/2007. La discriminación INDIRECTA SÍ puede justificarse objetivamente en atención a una FINALIDAD LEGÍTIMA siempre que los MEDIOS sean NECESARIOS Y ADECUADOS. La opción b) es INCORRECTA porque afirma que no admite justificación.",
+      "ley": "LO 3/2007, art. 6.2"
+    },
+    {
+      "id": "tema_02_test_10_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo. Esta previsión se regula en:",
+      "options": {
+        "a": "El artículo 6.3 de la LO 3/2007 sobre discriminación directa e indirecta",
+        "b": "El artículo 7 de la LO 3/2007 sobre acoso sexual",
+        "c": "El artículo 8 de la LO 3/2007 sobre discriminación por maternidad",
+        "d": "El artículo 5 de la LO 3/2007 sobre igualdad en el empleo"
+      },
+      "correct": "a",
+      "explicacion": "Art. 6.3 LO 3/2007. En cualquier caso, se considera discriminatoria TODA ORDEN DE DISCRIMINAR, directa o indirectamente, por razón de sexo.",
+      "ley": "LO 3/2007, art. 6.3"
+    },
+    {
+      "id": "tema_02_test_10_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Señale la opción INCORRECTA sobre los derechos de conciliación de la vida personal, familiar y laboral según la LO 3/2007.",
+      "options": {
+        "a": "Se reconocerán a los trabajadores y las trabajadoras en forma que fomenten la asunción equilibrada de las responsabilidades familiares",
+        "b": "Para contribuir a un reparto más equilibrado de las responsabilidades familiares, se reconoce a los padres el derecho a un permiso y prestación por paternidad",
+        "c": "El permiso y la prestación por maternidad se concederán en los términos previstos en la normativa laboral y de Seguridad Social",
+        "d": "Los derechos de conciliación solo se reconocen a las trabajadoras madres, no a los trabajadores padres"
+      },
+      "correct": "d",
+      "explicacion": "Art. 44 LO 3/2007. Los derechos de conciliación se reconocen a LOS TRABAJADORES Y LAS TRABAJADORAS, con el fin de fomentar la asunción EQUILIBRADA de las responsabilidades familiares, evitando toda discriminación. Se reconoce a los PADRES el derecho al permiso y prestación por paternidad.",
+      "ley": "LO 3/2007, art. 44"
+    },
+    {
+      "id": "tema_02_test_10_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. ¿Quién aprueba el Plan Estratégico de Igualdad de Oportunidades según el artículo 17 de la LO 3/2007?",
+      "options": {
+        "a": "El Instituto de la Mujer, con aprobación del Consejo de Ministros",
+        "b": "El Gobierno, en las materias que sean de competencia del Estado",
+        "c": "El Congreso de los Diputados, a propuesta del Gobierno",
+        "d": "Las Cortes Generales, previo informe del Ejecutivo"
+      },
+      "correct": "b",
+      "explicacion": "Art. 17 LO 3/2007. Es el GOBIERNO quien aprueba PERIÓDICAMENTE el PLAN ESTRATÉGICO DE IGUALDAD DE OPORTUNIDADES en materias de competencia estatal, incluyendo medidas para alcanzar la igualdad y eliminar la discriminación por razón de sexo.",
+      "ley": "LO 3/2007, art. 17"
+    },
+    {
+      "id": "tema_02_test_10_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Las normas reguladoras de las Fuerzas y Cuerpos de Seguridad del Estado promoverán la igualdad efectiva, impidiendo cualquier situación de discriminación profesional. Señale la opción INCORRECTA sobre los sistemas afectados.",
+      "options": {
+        "a": "Formación",
+        "b": "Ascensos",
+        "c": "Acceso",
+        "d": "Régimen retributivo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 67 LO 3/2007. Los ámbitos en los que se impedirá la discriminación son: ACCESO, FORMACIÓN, ASCENSOS, DESTINOS y SITUACIONES ADMINISTRATIVAS. El RÉGIMEN RETRIBUTIVO no figura como ámbito específico en este artículo.",
+      "ley": "LO 3/2007, art. 67"
+    },
+    {
+      "id": "tema_02_test_10_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. Las empresas están obligadas a inscribir sus planes de igualdad en el Registro de Planes de Igualdad de las Empresas. Este Registro forma parte de los Registros de convenios y acuerdos colectivos de trabajo dependientes de:",
+      "options": {
+        "a": "La Dirección General de Trabajo del Ministerio de Trabajo, Migraciones y Seguridad Social y de las Autoridades Laborales de las CCAA",
+        "b": "El Consejo de Participación de la Mujer",
+        "c": "El Instituto de la Mujer y los organismos equivalentes de las CCAA",
+        "d": "La Comisión Interministerial de Igualdad entre mujeres y hombres"
+      },
+      "correct": "a",
+      "explicacion": "Art. 46 LO 3/2007. El REGISTRO DE PLANES DE IGUALDAD forma parte de los REGISTROS DE CONVENIOS Y ACUERDOS COLECTIVOS DE TRABAJO dependientes de la DIRECCIÓN GENERAL DE TRABAJO DEL MINISTERIO DE TRABAJO, MIGRACIONES Y SEGURIDAD SOCIAL y de las AUTORIDADES LABORALES DE LAS CCAA.",
+      "ley": "LO 3/2007, art. 46"
+    },
+    {
+      "id": "tema_02_test_10_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 2. Igualdad efectiva de mujeres y hombres. El Ministerio de Trabajo y Asuntos Sociales controlará que las empresas que obtengan el distintivo empresarial en materia de igualdad mantengan permanentemente la aplicación de políticas de igualdad de trato y de oportunidades. En caso de incumplimiento:",
+      "options": {
+        "a": "Publicará en el BOE la resolución sancionadora",
+        "b": "Suspenderá temporalmente el distintivo por seis meses",
+        "c": "Les retirará el distintivo",
+        "d": "Impondrá una multa económica proporcional a la facturación"
+      },
+      "correct": "c",
+      "explicacion": "Art. 50.5 LO 3/2007. El Ministerio de Trabajo controlará el mantenimiento de las políticas de igualdad y, en caso de INCUMPLIMIENTO, LES RETIRARÁ EL DISTINTIVO.",
+      "ley": "LO 3/2007, art. 50.5"
+    }
+  ]
+}

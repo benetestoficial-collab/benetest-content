@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 15,
+  "preguntas": [
+    {
+      "id": "tema_04_test_15_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 57. En el orden de sucesión a la Corona, señale INCORRECTA:",
+      "options": {
+        "a": "En el mismo grado, la mujer al varón",
+        "b": "Se prefiere la línea anterior a las posteriores",
+        "c": "En la misma línea, el grado más próximo al más remoto",
+        "d": "En el mismo sexo, la persona de más edad a la de menos"
+      },
+      "correct": "a",
+      "explicacion": "Art. 57.1 CE. En el mismo grado de parentesco se prefiere EL VARÓN A LA MUJER, no al revés. El orden completo es: línea anterior a posteriores; grado más próximo al más remoto; en el mismo grado, varón a mujer; en el mismo sexo, persona de más edad.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 60. Los tres tipos de tutela del Rey menor son la testamentaria, la legítima y la parlamentaria. ¿Puede acumularse el cargo de Regente y el de tutor?",
+      "options": {
+        "a": "Nunca, son incompatibles en todo caso",
+        "b": "Solo puede acumularse en el padre, madre o ascendientes directos del Rey",
+        "c": "Solo puede acumularse cuando lo apruebe el Senado",
+        "d": "Siempre pueden acumularse si así lo aprueba el Congreso por mayoría absoluta"
+      },
+      "correct": "b",
+      "explicacion": "Art. 60.1 CE. No podrán acumularse los cargos de REGENTE Y DE TUTOR SINO EN EL PADRE, MADRE O ASCENDIENTES DIRECTOS DEL REY. En los demás casos son funciones incompatibles. Además, el ejercicio de la tutela es incompatible con el de todo cargo o representación política (art. 60.2).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 62. Señale la CORRECTA en relación con las funciones del Rey:",
+      "options": {
+        "a": "El Rey preside siempre el Consejo de Ministros",
+        "b": "El Rey convoca el Consejo de Ministros ordinario mensualmente",
+        "c": "El Rey puede presidir las sesiones del Consejo de Ministros cuando lo estime oportuno, a petición del Presidente del Gobierno",
+        "d": "El Rey dirige el Consejo de Ministros en ausencia del Presidente del Gobierno"
+      },
+      "correct": "c",
+      "explicacion": "Art. 62.g) CE. El Rey tiene derecho a ser informado de los asuntos de Estado y presidir, a estos efectos, las sesiones del Consejo de Ministros CUANDO LO ESTIME OPORTUNO, A PETICIÓN DEL PRESIDENTE DEL GOBIERNO. No preside habitualmente ni dirige el Consejo, eso corresponde al Presidente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 64. ¿Quién refrenda la propuesta y el nombramiento del Presidente del Gobierno?",
+      "options": {
+        "a": "El Ministro de la Presidencia",
+        "b": "El Presidente del Congreso de los Diputados",
+        "c": "El Presidente del Senado",
+        "d": "El propio Presidente del Gobierno entrante"
+      },
+      "correct": "b",
+      "explicacion": "Art. 64.1 CE. La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por EL PRESIDENTE DEL CONGRESO. Los demás actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, los Ministros competentes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 71. En las causas contra Diputados y Senadores, ¿cuál es el tribunal competente?",
+      "options": {
+        "a": "La Audiencia Nacional",
+        "b": "La Sala de lo Penal del Tribunal Supremo",
+        "c": "El Tribunal Superior de Justicia de la CCAA correspondiente",
+        "d": "El Juzgado Central de Instrucción"
+      },
+      "correct": "b",
+      "explicacion": "Art. 71.3 CE. En las causas contra Diputados y Senadores será competente LA SALA DE LO PENAL DEL TRIBUNAL SUPREMO. Este aforamiento especial requiere además la previa autorización de la Cámara respectiva para procesar al parlamentario.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 82. La delegación legislativa al Gobierno se agota:",
+      "options": {
+        "a": "Por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente",
+        "b": "Al finalizar el plazo establecido, aunque no se haya ejercido",
+        "c": "Cuando el Congreso la revoca expresamente",
+        "d": "Al finalizar la legislatura, aunque no se haya ejercido"
+      },
+      "correct": "a",
+      "explicacion": "Art. 82.3 CE. La delegación legislativa habrá de otorgarse de forma expresa con fijación del plazo. LA DELEGACIÓN SE AGOTA POR EL USO QUE DE ELLA HAGA EL GOBIERNO MEDIANTE LA PUBLICACIÓN DE LA NORMA CORRESPONDIENTE. No puede entenderse concedida de modo implícito o por tiempo indeterminado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 86. Los Decretos-leyes son disposiciones legislativas:",
+      "options": {
+        "a": "Permanentes una vez aprobadas por el Congreso",
+        "b": "Ordinarias del Gobierno que sustituyen a los reglamentos",
+        "c": "Delegadas que el Gobierno dicta con habilitación previa del Parlamento",
+        "d": "Provisionales dictadas en casos de extraordinaria y urgente necesidad"
+      },
+      "correct": "d",
+      "explicacion": "Art. 86.1 CE. En caso de EXTRAORDINARIA Y URGENTE NECESIDAD, el Gobierno podrá dictar disposiciones legislativas PROVISIONALES que tomarán la forma de Decretos-leyes. No pueden afectar a ciertos ámbitos y deben ser sometidos al Congreso en los 30 días siguientes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 91. El Rey, tras sancionar las leyes aprobadas por las Cortes en el plazo de quince días, ordenará:",
+      "options": {
+        "a": "Solo su promulgación, sin publicación obligatoria",
+        "b": "Su promulgación y su inmediata publicación",
+        "c": "Su publicación, sin necesidad de promulgación formal",
+        "d": "Su publicación provisional hasta el transcurso de los quince días"
+      },
+      "correct": "b",
+      "explicacion": "Art. 91 CE. El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y LAS PROMULGARÁ Y ORDENARÁ SU INMEDIATA PUBLICACIÓN. La sanción, promulgación y publicación son tres actos distintos pero inseparables en este procedimiento.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 106. En relación con la responsabilidad patrimonial de la Administración, señale la CORRECTA:",
+      "options": {
+        "a": "Los particulares tendrán derecho a ser indemnizados por toda lesión consecuencia del funcionamiento de los servicios públicos, salvo en los casos de fuerza mayor",
+        "b": "Los particulares tendrán derecho a ser indemnizados por toda lesión consecuencia del funcionamiento de los servicios públicos, incluso en casos de fuerza mayor",
+        "c": "Solo se indemnizan los daños causados por el funcionamiento anormal de los servicios",
+        "d": "La indemnización es potestativa para la Administración según la gravedad del daño"
+      },
+      "correct": "a",
+      "explicacion": "Art. 106.2 CE. Los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, SALVO EN LOS CASOS DE FUERZA MAYOR, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 119. La justicia gratuita está garantizada:",
+      "options": {
+        "a": "Para todos los ciudadanos españoles sin excepción",
+        "b": "Solo en el orden penal para los acusados de delitos graves",
+        "c": "Cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar",
+        "d": "Para todos los ciudadanos en el orden penal exclusivamente"
+      },
+      "correct": "c",
+      "explicacion": "Art. 119 CE. La justicia será gratuita cuando así lo disponga la ley y, EN TODO CASO, respecto de quienes acrediten INSUFICIENCIA DE RECURSOS PARA LITIGAR. Es obligatoria por mandato constitucional para quienes carezcan de recursos económicos suficientes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 138. El Estado garantizará la realización del principio de solidaridad velando por el equilibrio económico entre las diversas partes del territorio, atendiendo en particular a:",
+      "options": {
+        "a": "Las circunstancias de los municipios rurales",
+        "b": "Las circunstancias de las regiones con menor renta per cápita",
+        "c": "Las circunstancias de las regiones fronterizas",
+        "d": "Las circunstancias del hecho insular"
+      },
+      "correct": "d",
+      "explicacion": "Art. 138.1 CE. El Estado garantizará la realización efectiva del principio de solidaridad, velando por el equilibrio económico entre las diversas partes del territorio español, y atendiendo en particular a LAS CIRCUNSTANCIAS DEL HECHO INSULAR.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 144. Las Cortes Generales, mediante ley orgánica, podrán por motivos de interés nacional sustituir la iniciativa de las Corporaciones locales en el proceso autonómico. Este supuesto permite constituir una CCAA cuando:",
+      "options": {
+        "a": "El territorio afectado no supere el de dos provincias",
+        "b": "La CCAA proyectada cuente con más de dos millones de habitantes",
+        "c": "Tres provincias limítrofes acuerden su constitución",
+        "d": "El ámbito territorial no supere el de una provincia y no reúna las condiciones del art. 143"
+      },
+      "correct": "d",
+      "explicacion": "Art. 144.a) CE. Las Cortes Generales, mediante ley orgánica, podrán autorizar la constitución de una CCAA cuando SU ÁMBITO TERRITORIAL NO SUPERE EL DE UNA PROVINCIA y no reúna las condiciones del apartado 1 del artículo 143. Esto permitió la constitución de CCAA uniprovinciales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 149. La regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales es competencia:",
+      "options": {
+        "a": "Exclusiva del Estado",
+        "b": "Compartida entre el Estado y las CCAA",
+        "c": "Exclusiva de las Cortes Generales mediante ley orgánica",
+        "d": "Residual, correspondiendo a las CCAA si no la asume el Estado"
+      },
+      "correct": "a",
+      "explicacion": "Art. 149.1.1ª CE. La REGULACIÓN DE LAS CONDICIONES BÁSICAS QUE GARANTICEN LA IGUALDAD DE TODOS LOS ESPAÑOLES en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales es COMPETENCIA EXCLUSIVA DEL ESTADO.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 160. El Vicepresidente del Tribunal Constitucional es elegido en los mismos términos que el Presidente y sustituye a este:",
+      "options": {
+        "a": "En caso de ausencia, vacante u otro motivo legal",
+        "b": "Solo en caso de enfermedad",
+        "c": "Cuando así lo decida el Pleno del Tribunal",
+        "d": "Solo durante los períodos vacacionales"
+      },
+      "correct": "a",
+      "explicacion": "Art. 160 CE y LOTC. El Vicepresidente es elegido en los mismos términos que el Presidente (votación secreta, 3 años, una reelección posible) y SUSTITUYE AL PRESIDENTE EN CASO DE AUSENCIA, VACANTE U OTRO MOTIVO LEGAL.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 56. El Rey arbitra y modera el funcionamiento regular de las instituciones. Su rol esencial es:",
+      "options": {
+        "a": "Determinar el contenido de las decisiones políticas",
+        "b": "Presidir de forma permanente el Consejo de Ministros",
+        "c": "Garantizar el adecuado funcionamiento del sistema conforme al principio democrático",
+        "d": "Dirigir la política exterior y aprobar los tratados internacionales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 56 CE. La función del Rey consiste en GARANTIZAR EL ADECUADO FUNCIONAMIENTO DEL SISTEMA CONFORME AL PRINCIPIO DEMOCRÁTICO garantizado en la Constitución. El Rey no determina el contenido de las decisiones políticas ni se impone en conflictos entre órganos constitucionales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 8. La misión de las Fuerzas Armadas es garantizar la soberanía e independencia de España, defender su integridad territorial y:",
+      "options": {
+        "a": "Garantizar la seguridad ciudadana",
+        "b": "El orden público en situaciones de emergencia nacional",
+        "c": "El ordenamiento constitucional",
+        "d": "La unidad del mercado interior"
+      },
+      "correct": "c",
+      "explicacion": "Art. 8.1 CE. Las Fuerzas Armadas tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y EL ORDENAMIENTO CONSTITUCIONAL. Las Fuerzas y Cuerpos de Seguridad (art. 104 CE) son distintas y tienen como misión la seguridad ciudadana.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 3. Respecto a las lenguas cooficiales en las CCAA, señale la CORRECTA:",
+      "options": {
+        "a": "Todos los españoles tienen el deber de conocer las lenguas cooficiales de su CCAA",
+        "b": "Las demás lenguas españolas serán también oficiales en las respectivas CCAA de acuerdo con sus Estatutos",
+        "c": "Solo los residentes en la CCAA tienen el derecho y el deber de conocer la lengua cooficial",
+        "d": "Las lenguas cooficiales tienen el mismo rango que el castellano en todo el territorio nacional"
+      },
+      "correct": "b",
+      "explicacion": "Art. 3.2 CE. Las DEMÁS LENGUAS ESPAÑOLAS serán también oficiales en las respectivas Comunidades Autónomas DE ACUERDO CON SUS ESTATUTOS. Solo el castellano tiene carácter oficial en todo el Estado. Las lenguas cooficiales no generan un deber de conocimiento (a diferencia del castellano).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 9. El principio de publicidad de las normas tiene como consecuencia que:",
+      "options": {
+        "a": "Las normas secretas son igualmente obligatorias aunque no se publiquen",
+        "b": "Los ciudadanos pueden alegar desconocimiento de las normas publicadas si no fueron informados",
+        "c": "Solo las normas publicadas en el BOE son de obligado cumplimiento",
+        "d": "La ignorancia de las leyes no excusa de su cumplimiento, dado que son publicadas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 9.3 CE. La publicidad de las normas es una garantía constitucional. Como recoge el Código Civil, LA IGNORANCIA DE LAS LEYES NO EXCUSA DE SU CUMPLIMIENTO, dado que son publicadas y la convivencia social no puede depender de la ignorancia de las normas.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 23. El derecho a acceder en condiciones de igualdad a las funciones y cargos públicos con los requisitos que señalen las leyes es un derecho reconocido en el artículo:",
+      "options": {
+        "a": "Artículo 14 (igualdad ante la ley)",
+        "b": "Artículo 35 (derecho al trabajo)",
+        "c": "Artículo 103 (función pública)",
+        "d": "Artículo 23.2 (derecho de participación)"
+      },
+      "correct": "d",
+      "explicacion": "Art. 23.2 CE. Los ciudadanos también tienen derecho a ACCEDER EN CONDICIONES DE IGUALDAD A LAS FUNCIONES Y CARGOS PÚBLICOS, con los requisitos que señalen las leyes. Junto con el art. 14, es uno de los artículos que puede invocarse mediante recurso de amparo ante el TC.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_15_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 134. La Ley de Presupuestos tiene un contenido mínimo obligatorio. ¿Puede modificar tributos?",
+      "options": {
+        "a": "No, en ningún caso",
+        "b": "Sí, puede crear y modificar cualquier tributo sin restricciones",
+        "c": "Solo puede modificarlos cuando una ley tributaria sustantiva así lo prevea, pero no puede crear tributos",
+        "d": "Solo puede modificar tributos con carácter provisional durante el ejercicio"
+      },
+      "correct": "c",
+      "explicacion": "Art. 134.7 CE. La Ley de Presupuestos NO PUEDE CREAR TRIBUTOS. PODRÁ MODIFICARLOS cuando una ley tributaria sustantiva así lo prevea. Esta limitación protege el principio de reserva de ley tributaria y evita que los PGE sean una vía de modificación encubierta del sistema impositivo.",
+      "ley": ""
+    }
+  ]
+}

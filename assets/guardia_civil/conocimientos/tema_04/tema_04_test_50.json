@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 50,
+  "preguntas": [
+    {
+      "id": "tema_04_test_50_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 1. España se define como Estado social, democrático y de Derecho. ¿Cuál de los tres caracteres garantiza que el Estado no puede actuar arbitrariamente y está sometido al Derecho?",
+      "options": {
+        "a": "Estado de Derecho",
+        "b": "Estado social",
+        "c": "Estado democrático",
+        "d": "Los tres por igual"
+      },
+      "correct": "a",
+      "explicacion": "Art. 1.1 CE. EL ESTADO DE DERECHO implica que el Estado está sometido al Derecho: no puede actuar arbitrariamente. Sus poderes están limitados y controlados por normas jurídicas. El Estado social implica intervención redistributiva. El Estado democrático implica legitimidad popular del poder. El de Derecho garantiza la sujeción del Estado a la ley y a la Constitución.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española. Los siete principios del artículo 9.3 CE son: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. ¿Cuál de ellos funciona como síntesis de todos los demás?",
+      "options": {
+        "a": "El principio de legalidad",
+        "b": "El principio de seguridad jurídica, que engloba y completa todos los demás",
+        "c": "El principio de jerarquía normativa",
+        "d": "El principio de responsabilidad"
+      },
+      "correct": "b",
+      "explicacion": "Art. 9.3 CE. EL TC HA SEÑALADO QUE EL PRINCIPIO DE SEGURIDAD JURÍDICA FUNCIONA COMO SÍNTESIS DE TODOS LOS DEMÁS principios del art. 9.3: 'la seguridad jurídica es la suma de certeza y legalidad, jerarquía y publicidad normativa, irretroactividad de lo no favorable, interdicción de la arbitrariedad... suma de estos principios que conforman la certeza del Derecho'.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 14. El principio de igualdad se vulnera cuando se da un trato diferente sin justificación objetiva y razonable. ¿Cómo se llama el juicio que hace el TC para valorar si una diferencia de trato es constitucional?",
+      "options": {
+        "a": "Juicio de igualdad o test de razonabilidad",
+        "b": "Juicio de proporcionalidad",
+        "c": "Juicio de necesidad",
+        "d": "Control de constitucionalidad estricto"
+      },
+      "correct": "a",
+      "explicacion": "Art. 14 CE. El TC aplica el JUICIO DE IGUALDAD O TEST DE RAZONABILIDAD para valorar si una diferencia de trato vulnera el art. 14: examina si hay FINALIDAD LEGÍTIMA, si la diferencia es ADECUADA para lograrla, si es NECESARIA (no hay alternativa menos restrictiva) y si es PROPORCIONAL (los beneficios superan los perjuicios). En categorías sospechosas, aplica un control más estricto.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 16. El artículo 16 garantiza la libertad ideológica y religiosa. ¿Qué prohíbe expresamente el art. 16.2?",
+      "options": {
+        "a": "La propaganda religiosa en espacios públicos",
+        "b": "El proselitismo religioso en centros educativos públicos",
+        "c": "Las confesiones religiosas que no estén inscritas en el Registro estatal",
+        "d": "Que nadie pueda ser obligado a declarar sobre su ideología, religión o creencias"
+      },
+      "correct": "d",
+      "explicacion": "Art. 16.2 CE. 'NADIE PODRÁ SER OBLIGADO A DECLARAR SOBRE SU IDEOLOGÍA, RELIGIÓN O CREENCIAS.' Esta prohibición protege la dimensión interna de la libertad ideológica y religiosa: las convicciones más íntimas no pueden ser objeto de indagación o declaración forzada por parte del Estado o de particulares.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 23. El Tribunal Constitucional aplica una protección más intensa al derecho de sufragio pasivo (ser elegible). ¿Por qué?",
+      "options": {
+        "a": "Porque el sufragio pasivo es más difícil de obtener",
+        "b": "Porque el sufragio pasivo está en la Sección 1ª del Capítulo II",
+        "c": "Porque las restricciones al sufragio pasivo no solo afectan al candidato individual, sino también a los electores que quieren votar por él y al funcionamiento democrático del sistema",
+        "d": "Por razones históricas vinculadas a la transición democrática"
+      },
+      "correct": "c",
+      "explicacion": "Art. 23.2 CE. El TC protege especialmente el sufragio pasivo porque LAS RESTRICCIONES AL DERECHO A SER ELEGIDO NO SOLO AFECTAN AL CANDIDATO SINO TAMBIÉN A LOS ELECTORES (que ven limitada su libertad de elección) Y AL FUNCIONAMIENTO DEMOCRÁTICO (se reduce la pluralidad). Por ello, cualquier restricción debe tener base legal muy clara y ser interpretada restrictivamente.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 56. ¿Cuáles son las tres características de la Monarquía española según el artículo 56.1?",
+      "options": {
+        "a": "Hereditaria, vitalicia y monárquica",
+        "b": "Constitucional, representativa y democrática",
+        "c": "Constitucional, hereditaria y parlamentaria",
+        "d": "Parlamentaria, democrática y vitalicia"
+      },
+      "correct": "c",
+      "explicacion": "Art. 56.1 CE. El Rey de España 'es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones...' La forma política del Estado es la MONARQUÍA PARLAMENTARIA (art. 1.3 CE). Las características de la Corona son: CONSTITUCIONAL (sujeta a la CE), HEREDITARIA (sucesión regulada) y PARLAMENTARIA (el Rey reina pero no gobierna).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 68. El sistema electoral del Congreso es proporcional. ¿Qué es el sistema D'Hondt?",
+      "options": {
+        "a": "Un método matemático de reparto de escaños entre listas de partidos que divide los votos de cada candidatura por series sucesivas de números enteros (1, 2, 3...) y asigna escaños a los cocientes más altos",
+        "b": "Un sistema de reparto de escaños por cociente mayor",
+        "c": "Un sistema de listas abiertas donde el elector elige candidatos individuales",
+        "d": "Un sistema de doble vuelta para candidatos sin mayoría absoluta"
+      },
+      "correct": "a",
+      "explicacion": "Art. 68.3 CE y LOREG. El SISTEMA D'HONDT es el MÉTODO DE REPARTO DE ESCAÑOS utilizado en las elecciones al Congreso: DIVIDE LOS VOTOS DE CADA CANDIDATURA POR 1, 2, 3, 4... (hasta el número de escaños de la circunscripción) y ASIGNA LOS ESCAÑOS A LOS COCIENTES MÁS ALTOS. Beneficia a los partidos más votados frente a los de menor tamaño.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 81. ¿Cuáles son las cuatro materias expresamente reservadas a ley orgánica por el art. 81.1?",
+      "options": {
+        "a": "Derechos fundamentales, Estatutos, electoral y presupuestos",
+        "b": "Derechos fundamentales, Corona, reforma constitucional y Estatutos",
+        "c": "Desarrollo de derechos fundamentales y libertades públicas, aprobación de los Estatutos de Autonomía, el régimen electoral general, y las demás previstas en la Constitución",
+        "d": "Derechos fundamentales, sistema tributario, Estatutos y el Poder Judicial"
+      },
+      "correct": "c",
+      "explicacion": "Art. 81.1 CE. Las LEYES ORGÁNICAS son las relativas al: 1) DESARROLLO DE LOS DERECHOS FUNDAMENTALES Y DE LAS LIBERTADES PÚBLICAS; 2) APROBACIÓN DE LOS ESTATUTOS DE AUTONOMÍA; 3) EL RÉGIMEN ELECTORAL GENERAL; 4) LAS DEMÁS PREVISTAS EN LA CONSTITUCIÓN. Esta cuarta categoría incluye el CGPJ, el TC, el Defensor del Pueblo, el Consejo de Estado, etc.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 97. La relación entre la ley y el reglamento se describe con la metáfora del 'congelamiento del rango'. ¿Qué significa?",
+      "options": {
+        "a": "Que las leyes no pueden ser derogadas una vez aprobadas",
+        "b": "Que los reglamentos tienen el mismo rango que las leyes en materias técnicas",
+        "c": "Que el Gobierno puede 'congelar' una ley mientras elabora el reglamento de desarrollo",
+        "d": "Que una vez que una materia ha sido regulada por ley, el reglamento solo puede actuar dentro del espacio que la ley le deja; el legislador 'congela' esa materia en el rango legal"
+      },
+      "correct": "d",
+      "explicacion": "Art. 97 CE. El 'CONGELAMIENTO DE RANGO' significa que UNA VEZ QUE EL LEGISLADOR HA REGULADO UNA MATERIA POR LEY, esa materia queda 'congelada' en el rango legal: el reglamento no puede rebajarla al nivel reglamentario ni puede regular lo que ya está en la ley sin base legal. Es una manifestación del principio de jerarquía normativa (art. 9.3 CE).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 103. La Administración actúa con objetividad e imparcialidad. ¿Cómo se denomina el vicio que se produce cuando un funcionario toma una decisión favoreciendo intereses propios?",
+      "options": {
+        "a": "Conflicto de intereses o abstención/recusación obligatoria",
+        "b": "Prevaricación administrativa",
+        "c": "Desviación de poder",
+        "d": "Incompatibilidad sobrevenida"
+      },
+      "correct": "a",
+      "explicacion": "Art. 103 CE. Cuando un funcionario tiene un interés personal en el asunto, se produce un CONFLICTO DE INTERESES que obliga a su ABSTENCIÓN o, si no se abstiene, puede ser objeto de RECUSACIÓN. Este mecanismo (regulado en la Ley del Procedimiento Administrativo Común) protege la objetividad e imparcialidad que exige el art. 103.1 CE.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 117. El Poder Judicial tiene cuatro órdenes jurisdiccionales. ¿Cuáles son?",
+      "options": {
+        "a": "Civil, penal, administrativo y laboral",
+        "b": "Civil, penal, constitucional y social",
+        "c": "Civil, penal, contencioso-administrativo y social (laboral), más el orden militar para asuntos castrenses",
+        "d": "Civil, penal, administrativo y mercantil"
+      },
+      "correct": "c",
+      "explicacion": "Art. 117 CE y LOPJ. Los órdenes jurisdiccionales son: 1) CIVIL (primera y segunda instancia, recursos, familia, hipotecas, etc.); 2) PENAL (delitos y faltas); 3) CONTENCIOSO-ADMINISTRATIVO (revisión actos Administración); 4) SOCIAL (laboral y Seguridad Social). ADEMÁS: el ORDEN MILITAR, que tiene su propia organización para asuntos castrenses. Total: 5 órdenes.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 137. El Estado de las Autonomías ha sido calificado de diversas maneras. ¿Qué término se usa para describir que las competencias son diferentes entre CCAA?",
+      "options": {
+        "a": "Estado federal simétrico",
+        "b": "Estado confederal",
+        "c": "Estado regional homogéneo",
+        "d": "Asimetría competencial o federalismo asimétrico"
+      },
+      "correct": "d",
+      "explicacion": "Art. 137 CE. El modelo español ha sido calificado de ASIMÉTRICO O DE FEDERALISMO ASIMÉTRICO porque las CCAA tienen DIFERENTES NIVELES COMPETENCIALES: algunas asumieron más competencias (vía rápida, Navarra por disposición adicional 1ª) mientras otras asumieron menos. Esta asimetría es admitida constitucionalmente y ha tendido a homogeneizarse con el tiempo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 159. El TC tiene doce magistrados. ¿Cuál es el quórum mínimo para que el Pleno del TC pueda deliberar válidamente?",
+      "options": {
+        "a": "Seis magistrados",
+        "b": "Diez magistrados",
+        "c": "Ocho magistrados",
+        "d": "Once magistrados"
+      },
+      "correct": "b",
+      "explicacion": "Art. 159 CE y LOTC. El PLENO DEL TC delibera con la presencia de un MÍNIMO DE DIEZ DE SUS DOCE MIEMBROS. Este quórum elevado garantiza que las decisiones del TC más importantes (inconstitucionalidad, conflictos de competencias, etc.) sean adoptadas con la participación de la mayoría significativa del tribunal.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 162. ¿Quiénes están legitimados para interponer el recurso de amparo ante el TC?",
+      "options": {
+        "a": "Solo el Defensor del Pueblo y el MF",
+        "b": "Solo los ciudadanos españoles afectados directamente",
+        "c": "Solo los Diputados y Senadores en nombre de sus electores",
+        "d": "Toda persona natural o jurídica que invoque un interés legítimo, el Defensor del Pueblo y el MF"
+      },
+      "correct": "d",
+      "explicacion": "Art. 162.1.b) CE. Para el recurso de amparo están legitimados: 1) TODA PERSONA NATURAL O JURÍDICA QUE INVOQUE UN INTERÉS LEGÍTIMO (incluso extranjeros); 2) EL DEFENSOR DEL PUEBLO; 3) EL MINISTERIO FISCAL. Esta legitimación amplia garantiza el acceso efectivo a la protección de los derechos fundamentales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 166. La reforma constitucional puede ser iniciada por las Asambleas de las CCAA. ¿Pueden estas reformar directamente la Constitución?",
+      "options": {
+        "a": "Sí, si obtienen suficientes apoyos",
+        "b": "No, las Asambleas autonómicas pueden iniciar el proceso (solicitar al Gobierno o remitir proposición al Congreso), pero la reforma se aprueba por las Cortes Generales y en su caso el pueblo",
+        "c": "Solo pueden reformar las partes de la CE que afecten a las CCAA",
+        "d": "Pueden reformar la CE mediante sus Estatutos de Autonomía"
+      },
+      "correct": "b",
+      "explicacion": "Art. 166 CE. Las Asambleas autonómicas tienen INICIATIVA DE REFORMA (pueden solicitar al Gobierno o remitir proposición al Congreso), pero NO PUEDEN REFORMAR DIRECTAMENTE LA CONSTITUCIÓN. La reforma se aprueba por LAS CORTES GENERALES con las mayorías previstas en los arts. 167 o 168, y en su caso se ratifica por el pueblo en referéndum.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981. El Defensor del Pueblo es el 'Ombudsman' español. ¿De qué país proviene esta institución y qué significa 'Ombudsman'?",
+      "options": {
+        "a": "Proviene de Suecia y significa 'comisionado o representante de alguien'",
+        "b": "Proviene de Dinamarca y significa 'defensor del ciudadano'",
+        "c": "Proviene de Alemania y significa 'vigilante del Estado'",
+        "d": "Proviene de Finlandia y significa 'fiscal del pueblo'"
+      },
+      "correct": "a",
+      "explicacion": "Art. 54 CE y LO 3/1981. El OMBUDSMAN es una institución de origen SUECO (el primer Ombudsman se creó en Suecia en 1809). La palabra sueca 'ombuds-man' significa COMISIONADO O REPRESENTANTE DE ALGUIEN. El Defensor del Pueblo español (creado en 1981) es la adaptación española de esta institución nórdica al sistema constitucional de 1978.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 1/1982, Honor e Intimidad. ¿Cuál es la diferencia entre el derecho al honor y el derecho a la intimidad?",
+      "options": {
+        "a": "Son derechos idénticos con diferente nombre",
+        "b": "El honor es un derecho colectivo; la intimidad es individual",
+        "c": "El honor se protege solo penalmente; la intimidad, civilmente",
+        "d": "El honor protege la reputación y estima social de la persona frente a otros; la intimidad protege un espacio privado reservado donde la persona puede desenvolverse sin interferencias externas"
+      },
+      "correct": "d",
+      "explicacion": "Art. 18 CE y LO 1/1982. EL HONOR protege la REPUTACIÓN, DIGNIDAD Y ESTIMA SOCIAL de la persona frente a terceros: la imagen que proyecta ante la sociedad. LA INTIMIDAD protege un ESPACIO PRIVADO RESERVADO donde la persona puede desarrollarse sin interferencias externas. El honor es una dimensión social; la intimidad, una dimensión individual-personal.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española. ¿Qué significa que España es un Estado constitucional y no simplemente un Estado de Derecho?",
+      "options": {
+        "a": "Son términos equivalentes sin diferencia relevante",
+        "b": "El Estado constitucional garantiza más derechos que el Estado de Derecho",
+        "c": "En el Estado constitucional, la Constitución es la norma suprema que vincula a todos los poderes incluyendo al legislador; en el Estado de Derecho clásico, el legislador era soberano y la Constitución era solo una norma política",
+        "d": "El Estado constitucional tiene un Tribunal Constitucional; el de Derecho no"
+      },
+      "correct": "c",
+      "explicacion": "CE. El ESTADO CONSTITUCIONAL supera al Estado de Derecho clásico: en el Estado de Derecho del siglo XIX, el LEGISLADOR ERA SOBERANO y la Constitución era una norma solo política, no jurídicamente vinculante. En el ESTADO CONSTITUCIONAL, LA CONSTITUCIÓN ES NORMA JURÍDICA SUPREMA que vincula a TODOS LOS PODERES, incluyendo al legislador, cuyas leyes pueden ser declaradas inconstitucionales.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española. ¿Cuál es la estructura de la Constitución española de 1978 en grandes partes dogmática y orgánica?",
+      "options": {
+        "a": "Parte dogmática: Preámbulo y Título I. Parte orgánica: Títulos II al X",
+        "b": "Parte dogmática: Preámbulo, Título Preliminar y Título I. Parte orgánica: Títulos II al X",
+        "c": "Parte dogmática: Títulos I y II. Parte orgánica: Títulos III al X",
+        "d": "Parte dogmática: toda la CE. Parte orgánica: solo los Títulos III, IV y V"
+      },
+      "correct": "b",
+      "explicacion": "CE. La CE se estructura en: PARTE DOGMÁTICA (principios y derechos): PREÁMBULO + TÍTULO PRELIMINAR (arts. 1-9) + TÍTULO I (arts. 10-55, derechos y deberes). PARTE ORGÁNICA (estructura del Estado): TÍTULOS II AL X (Corona, Cortes, Gobierno, relaciones, Poder Judicial, Economía, Organización Territorial, TC y Reforma). Más las Disposiciones adicionales, transitorias, derogatoria y final.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_50_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española. Para concluir este recorrido por el Tema 4, señale cuál es la afirmación más correcta sobre la Constitución Española de 1978:",
+      "options": {
+        "a": "Es una Constitución flexible, programática y sin control jurisdiccional efectivo",
+        "b": "Es una Constitución rígida, normativa, con control concentrado de constitucionalidad, que instaura una Monarquía parlamentaria y un Estado social, democrático y de Derecho organizado territorialmente en CCAA",
+        "c": "Es una Constitución federal con soberanía compartida entre el Estado y las CCAA",
+        "d": "Es una Constitución provisional que necesita ser refundada mediante un proceso constituyente nuevo"
+      },
+      "correct": "b",
+      "explicacion": "CE. La Constitución Española de 1978 es: RÍGIDA (su reforma exige procedimientos especiales), NORMATIVA (es directamente aplicable como norma jurídica suprema), CON CONTROL CONCENTRADO DE CONSTITUCIONALIDAD (TC), que instaura una MONARQUÍA PARLAMENTARIA (art. 1.3), un ESTADO SOCIAL, DEMOCRÁTICO Y DE DERECHO (art. 1.1), organizado territorialmente en CCAA (art. 2), con garantía efectiva de derechos fundamentales.",
+      "ley": ""
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 14,
+  "preguntas": [
+    {
+      "id": "tema_04_test_14_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 67. ¿Pueden acumularse el acta de Senador y el acta de miembro de una Asamblea de Comunidad Autónoma?",
+      "options": {
+        "a": "No, en ningún caso",
+        "b": "Sí, aunque no está expresamente autorizado en el art. 67, se deduce de la Constitución",
+        "c": "Solo si la CCAA lo autoriza expresamente en su Estatuto",
+        "d": "Solo si el Senado lo aprueba mediante reglamento"
+      },
+      "correct": "b",
+      "explicacion": "Art. 67.1 CE. La Constitución prohíbe acumular el acta de una Asamblea de CCAA con la de DIPUTADO al Congreso. Sin embargo, SÍ SE PUEDE ACUMULAR EL ACTA DE SENADOR con la de miembro de una Asamblea autonómica, como se deduce indirectamente del texto constitucional.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 73. Las sesiones extraordinarias de las Cámaras pueden convocarse a petición de:",
+      "options": {
+        "a": "El Gobierno, la Diputación Permanente o la mayoría absoluta de los miembros de cualquiera de las Cámaras",
+        "b": "Solo el Gobierno o el Presidente de la Cámara respectiva",
+        "c": "El Presidente de la República o el Presidente del Senado",
+        "d": "Un tercio de los miembros de cualquiera de las Cámaras"
+      },
+      "correct": "a",
+      "explicacion": "Art. 73.2 CE. Las Cámaras podrán reunirse en sesiones extraordinarias a petición del GOBIERNO, de la DIPUTACIÓN PERMANENTE o de la MAYORÍA ABSOLUTA DE LOS MIEMBROS DE CUALQUIERA DE LAS CÁMARAS. Las sesiones extraordinarias deberán convocarse sobre un orden del día determinado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 77. Las Cámaras pueden recibir peticiones de los ciudadanos. En relación con estas peticiones:",
+      "options": {
+        "a": "Pueden presentarse directamente mediante manifestaciones ciudadanas si son pacíficas",
+        "b": "Solo se aceptan si están avaladas por al menos 500 firmas",
+        "c": "Se recibirán siempre por escrito, quedando prohibida la presentación directa por manifestaciones",
+        "d": "Solo el Congreso puede recibirlas, no el Senado"
+      },
+      "correct": "c",
+      "explicacion": "Art. 77.1 CE. Las Cámaras pueden recibir peticiones individuales y colectivas, SIEMPRE POR ESCRITO, quedando PROHIBIDA LA PRESENTACIÓN DIRECTA POR MANIFESTACIONES CIUDADANAS. Las Cámaras pueden remitir al Gobierno las peticiones que reciban.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 81. Las leyes orgánicas son aquellas que requieren mayoría absoluta del Congreso en votación final. ¿Qué tipo de ley aprueba los Estatutos de Autonomía?",
+      "options": {
+        "a": "Ley ordinaria",
+        "b": "Ley orgánica",
+        "c": "Decreto legislativo",
+        "d": "Ley de bases"
+      },
+      "correct": "b",
+      "explicacion": "Art. 81.1 CE. Son LEYES ORGÁNICAS las relativas al desarrollo de los derechos fundamentales, las que aprueben LOS ESTATUTOS DE AUTONOMÍA, el régimen electoral general y las demás previstas en la Constitución. Su aprobación, modificación o derogación exige mayoría absoluta del Congreso.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 85. Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+      "options": {
+        "a": "Decretos-leyes",
+        "b": "Reglamentos legislativos",
+        "c": "Decretos Legislativos",
+        "d": "Disposiciones con fuerza de ley"
+      },
+      "correct": "c",
+      "explicacion": "Art. 85 CE. Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de DECRETOS LEGISLATIVOS. Se distinguen de los Decretos-leyes (art. 86), que son disposiciones legislativas provisionales dictadas en casos de extraordinaria y urgente necesidad sin habilitación previa del Parlamento.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 94. Entre los tratados internacionales que requieren previa autorización de las Cortes Generales están los de carácter político, los de carácter militar y los que afecten a derechos fundamentales del Título I. ¿También se requiere autorización para los que impliquen obligaciones financieras para la Hacienda Pública?",
+      "options": {
+        "a": "No, basta con informar al Congreso y al Senado",
+        "b": "Solo si suponen más del 1% del presupuesto estatal",
+        "c": "Solo si lo solicita algún grupo parlamentario con representación",
+        "d": "Sí, también requieren autorización previa de las Cortes"
+      },
+      "correct": "d",
+      "explicacion": "Art. 94.1.d) CE. La prestación del consentimiento del Estado para obligarse por tratados o convenios que IMPLIQUEN OBLIGACIONES FINANCIERAS PARA LA HACIENDA PÚBLICA requerirá la PREVIA AUTORIZACIÓN DE LAS CORTES GENERALES.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Constitución Española, art. 99. La propuesta de candidato a la Presidencia del Gobierno se realiza por el Rey a través del:",
+      "options": {
+        "a": "Presidente del Senado",
+        "b": "Presidente del Tribunal Constitucional",
+        "c": "Presidente del Consejo de Estado",
+        "d": "Presidente del Congreso"
+      },
+      "correct": "d",
+      "explicacion": "Art. 99.1 CE. El Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, propondrá un candidato a la Presidencia del Gobierno A TRAVÉS DEL PRESIDENTE DEL CONGRESO.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 102. La responsabilidad criminal del Presidente y demás miembros del Gobierno será exigible ante:",
+      "options": {
+        "a": "La Sala de lo Penal del Tribunal Supremo",
+        "b": "La Sala de lo Civil del Tribunal Supremo",
+        "c": "El Tribunal Constitucional",
+        "d": "La Audiencia Nacional"
+      },
+      "correct": "a",
+      "explicacion": "Art. 102.1 CE. La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible ante LA SALA DE LO PENAL DEL TRIBUNAL SUPREMO. La prerrogativa real de gracia no será aplicable en estos casos (art. 102.3 CE).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 111. La diferencia entre preguntas e interpelaciones parlamentarias es que:",
+      "options": {
+        "a": "Las preguntas son de mayor importancia política que las interpelaciones",
+        "b": "Las preguntas solo pueden formularse al Presidente del Gobierno y las interpelaciones a cualquier ministro",
+        "c": "Las preguntas se refieren a cuestiones concretas y las interpelaciones a cuestiones de mayor trascendencia política o contenido más amplio",
+        "d": "Las interpelaciones son exclusivas del Senado y las preguntas del Congreso"
+      },
+      "correct": "c",
+      "explicacion": "Art. 111 CE. Las PREGUNTAS deben formularse sobre cuestiones concretas y determinadas o que no tengan especial importancia política. Las INTERPELACIONES se realizan sobre cuestiones de MAYOR TRASCENDENCIA POLÍTICA o de contenido mucho más amplio. Solo la interpelación puede dar lugar a una moción.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 117. El ejercicio de la potestad jurisdiccional corresponde exclusivamente a:",
+      "options": {
+        "a": "El Tribunal Supremo y los Tribunales Superiores de Justicia",
+        "b": "Los Juzgados y Tribunales determinados por las leyes, según las normas de competencia y procedimiento",
+        "c": "El Tribunal Constitucional y los órganos del Poder Judicial",
+        "d": "Los Juzgados de primera instancia y los Tribunales de apelación"
+      },
+      "correct": "b",
+      "explicacion": "Art. 117.3 CE. El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a LOS JUZGADOS Y TRIBUNALES DETERMINADOS POR LAS LEYES, según las normas de competencia y procedimiento que las mismas establezcan.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 124. Los principios de actuación del Ministerio Fiscal incluyen, señale la INCORRECTA:",
+      "options": {
+        "a": "Unidad de actuación",
+        "b": "Dependencia jerárquica",
+        "c": "Legalidad e imparcialidad",
+        "d": "Independencia respecto a sus superiores jerárquicos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 124.2 CE y estatuto del MF. El Ministerio Fiscal ejerce sus funciones conforme a los principios de UNIDAD DE ACTUACIÓN Y DEPENDENCIA JERÁRQUICA y con sujeción a los de LEGALIDAD E IMPARCIALIDAD. La dependencia jerárquica implica que los superiores dan instrucciones a sus inferiores, lo contrario a la independencia.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 128. ¿Puede el Estado reservar al sector público recursos o servicios esenciales?",
+      "options": {
+        "a": "Sí, mediante ley se podrá reservar al sector público recursos o servicios esenciales, especialmente en caso de monopolio",
+        "b": "No, la Constitución prohíbe la intervención pública en la economía",
+        "c": "Solo en los servicios mínimos de interés general, nunca en el mercado productivo",
+        "d": "Solo la Unión Europea puede autorizar este tipo de intervención"
+      },
+      "correct": "a",
+      "explicacion": "Art. 128.2 CE. Se reconoce la iniciativa pública en la actividad económica. MEDIANTE LEY se podrá reservar al sector público recursos o servicios esenciales, especialmente en caso de monopolio, y asimismo acordar la intervención de empresas cuando así lo exigiere el interés general.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 140. Los Concejales son elegidos por:",
+      "options": {
+        "a": "Los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto",
+        "b": "El Alcalde mediante nombramiento discrecional",
+        "c": "La Asamblea Municipal de vecinos empadronados",
+        "d": "Las Diputaciones Provinciales en representación de los ciudadanos"
+      },
+      "correct": "a",
+      "explicacion": "Art. 140 CE. Los Concejales serán elegidos POR LOS VECINOS DEL MUNICIPIO MEDIANTE SUFRAGIO UNIVERSAL, IGUAL, LIBRE, DIRECTO Y SECRETO, en la forma establecida por la ley. Los Alcaldes son elegidos por los Concejales O por los vecinos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 147. Los Estatutos de Autonomía deberán contener, entre otras cosas, la denominación, organización y sede de las instituciones autónomas propias. ¿También deben contener las competencias asumidas?",
+      "options": {
+        "a": "No, las competencias se determinan por ley ordinaria posterior al Estatuto",
+        "b": "Sí, deberán contener las competencias asumidas dentro del marco establecido en la Constitución",
+        "c": "Solo las competencias exclusivas, no las compartidas",
+        "d": "Solo las competencias mínimas, pudiendo ampliarse por ley autonómica"
+      },
+      "correct": "b",
+      "explicacion": "Art. 147.2.d) CE. Los Estatutos de Autonomía deberán contener: la denominación de la Comunidad, la delimitación de su territorio, la denominación, organización y sede de las instituciones autónomas propias, y LAS COMPETENCIAS ASUMIDAS dentro del marco establecido en la Constitución.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Constitución Española, art. 159. ¿Pueden los magistrados del Tribunal Constitucional pertenecer a partidos políticos?",
+      "options": {
+        "a": "Sí, sin restricción alguna",
+        "b": "Solo si cesan en las funciones directivas dentro del partido",
+        "c": "Solo si el partido es de ámbito autonómico y no nacional",
+        "d": "No, la condición de miembro del TC es incompatible con el desempeño de funciones directivas en un partido político o en un sindicato y con el empleo al servicio de los mismos"
+      },
+      "correct": "d",
+      "explicacion": "Art. 159.4 CE. La condición de miembro del TC es incompatible con el DESEMPEÑO DE FUNCIONES DIRECTIVAS EN UN PARTIDO POLÍTICO O EN UN SINDICATO Y CON EL EMPLEO AL SERVICIO DE LOS MISMOS. No cabe interpretar que se prohíbe la mera militancia, sino las funciones directivas o el empleo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 152. El Presidente de la Comunidad Autónoma (en las de vía rápida) es elegido por la Asamblea y nombrado por:",
+      "options": {
+        "a": "Las Cortes Generales",
+        "b": "El Rey",
+        "c": "El Presidente del Gobierno",
+        "d": "El Delegado del Gobierno en la Comunidad Autónoma"
+      },
+      "correct": "b",
+      "explicacion": "Art. 152.1 CE. El Presidente de la Comunidad Autónoma es elegido por la Asamblea Legislativa, de entre sus miembros, y NOMBRADO POR EL REY. Le corresponde la dirección del Consejo de Gobierno, la suprema representación de la CCAA y la ordinaria del Estado en aquélla.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 163. El efecto de la cuestión de inconstitucionalidad planteada por un órgano judicial sobre el proceso en curso es:",
+      "options": {
+        "a": "Suspensivo siempre",
+        "b": "Suspensivo solo si así lo decide el TC",
+        "c": "No suspensivo en ningún caso",
+        "d": "Suspensivo solo en procesos penales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 163 CE. Cuando un órgano judicial plantee la cuestión de inconstitucionalidad, los efectos sobre el proceso en curso no serán, EN NINGÚN CASO, SUSPENSIVOS. El proceso sigue su curso mientras el TC resuelve la cuestión.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 167. Cuando la reforma constitucional ordinaria no obtiene tres quintos en ambas Cámaras, se forma una Comisión mixta paritaria. Si tampoco hay acuerdo, ¿qué mayoría necesita el Congreso para aprobar la reforma si el Senado la ha aprobado por mayoría absoluta?",
+      "options": {
+        "a": "Mayoría de dos tercios",
+        "b": "Mayoría simple",
+        "c": "Mayoría absoluta",
+        "d": "Mayoría de tres quintos"
+      },
+      "correct": "a",
+      "explicacion": "Art. 167.2 CE. Si no se logra acuerdo en la Comisión mixta, y el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el CONGRESO, POR MAYORÍA DE DOS TERCIOS, podrá aprobar la reforma. Es una vía subsidiaria que exige mayoría reforzada en el Congreso.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 17. El procedimiento de habeas corpus tiene como finalidad:",
+      "options": {
+        "a": "Garantizar la tutela judicial efectiva de todos los derechos constitucionales",
+        "b": "Establecer el plazo máximo de prisión provisional",
+        "c": "Producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente",
+        "d": "Regular el recurso de amparo para derechos del detenido"
+      },
+      "correct": "c",
+      "explicacion": "Art. 17.4 CE. La ley regulará un procedimiento de HABEAS CORPUS para producir la INMEDIATA PUESTA A DISPOSICIÓN JUDICIAL DE TODA PERSONA DETENIDA ILEGALMENTE. Este procedimiento es una garantía específica del derecho a la libertad personal frente a detenciones arbitrarias.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_14_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Constitución Española, art. 55. Los derechos suspendidos en el estado de excepción o sitio no incluyen el artículo 17.3 (derechos del detenido). ¿Qué significa esa excepción?",
+      "options": {
+        "a": "El artículo 17.3 no puede suspenderse nunca, ni en excepción ni en sitio",
+        "b": "El artículo 17.3 solo se exceptúa en el estado de excepción, no en el de sitio",
+        "c": "En estado de sitio sí puede suspenderse el artículo 17.3 pero no en el de excepción",
+        "d": "El artículo 17.3 (derechos del detenido) se exceptúa del régimen de suspensión para el estado de excepción, por lo que no queda suspendido"
+      },
+      "correct": "d",
+      "explicacion": "Art. 55.1 CE. Aunque varios derechos pueden suspenderse en estado de excepción o sitio, SE EXCEPTÚA DE LO ESTABLECIDO ANTERIORMENTE EL ARTÍCULO 17.3 (derechos del detenido: información de sus derechos, razones de la detención y asistencia de abogado) PARA EL ESTADO DE EXCEPCIÓN. Mantiene así su vigencia.",
+      "ley": ""
+    }
+  ]
+}

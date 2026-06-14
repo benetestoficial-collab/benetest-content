@@ -1,0 +1,307 @@
+{
+  "tema_numero": 4,
+  "tema": "Derecho Constitucional",
+  "test": 10,
+  "preguntas": [
+    {
+      "id": "tema_04_test_10_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo es elegido por las Cortes Generales para un período de:",
+      "options": {
+        "a": "Cinco años",
+        "b": "Cuatro años",
+        "c": "Seis años",
+        "d": "Nueve años"
+      },
+      "correct": "a",
+      "explicacion": "Art. 2.1 LO 3/1981. El Defensor del Pueblo será elegido por las Cortes Generales para un período de CINCO AÑOS. Se dirigirá a las Cortes a través de los Presidentes del Congreso y del Senado. No confundir con el TC (9 años) ni con el CGPJ (5 años).",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Para ser designado Defensor del Pueblo, el candidato deberá obtener en el Congreso:",
+      "options": {
+        "a": "Las tres quintas partes de los miembros del Congreso y posterior ratificación por la misma mayoría del Senado",
+        "b": "Mayoría absoluta del Congreso y mayoría simple del Senado",
+        "c": "Mayoría de dos tercios del Congreso y posterior ratificación por mayoría absoluta del Senado",
+        "d": "Mayoría simple del Congreso y ratificación por el Senado por mayoría absoluta"
+      },
+      "correct": "a",
+      "explicacion": "Art. 2.4 LO 3/1981. Será designado Defensor del Pueblo quien obtuviese una votación favorable de las TRES QUINTAS PARTES de los miembros del Congreso y posteriormente, en un plazo máximo de veinte días, fuese ratificado por ESTA MISMA MAYORÍA del Senado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Si en la primera votación no se alcanzan las tres quintas partes en el Congreso, ¿qué ocurre en las propuestas sucesivas?",
+      "options": {
+        "a": "Basta la mayoría simple del Congreso y mayoría simple del Senado",
+        "b": "Una vez conseguida la mayoría de tres quintos en el Congreso, la designación quedará realizada al alcanzarse la MAYORÍA ABSOLUTA DEL SENADO",
+        "c": "Se requiere mayoría de dos tercios en ambas Cámaras",
+        "d": "El Presidente del Congreso designa directamente al candidato"
+      },
+      "correct": "b",
+      "explicacion": "Art. 2.5 LO 3/1981. En propuestas sucesivas, una vez conseguida la mayoría de tres quintos en el Congreso, la designación quedará realizada al alcanzarse la MAYORÍA ABSOLUTA DEL SENADO, rebajándose así la exigencia en el Senado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. Podrá ser elegido Defensor del Pueblo:",
+      "options": {
+        "a": "Cualquier persona mayor de edad que sea jurista de reconocida competencia",
+        "b": "Solo los españoles de nacimiento con más de diez años de ejercicio jurídico",
+        "c": "Cualquier español mayor de edad que se encuentre en el pleno disfrute de sus derechos civiles y políticos",
+        "d": "Solo los ex miembros de las Cortes Generales"
+      },
+      "correct": "c",
+      "explicacion": "Art. 3 LO 3/1981. Podrá ser elegido Defensor del Pueblo CUALQUIER ESPAÑOL MAYOR DE EDAD que se encuentre en el PLENO DISFRUTE DE SUS DERECHOS CIVILES Y POLÍTICOS. No se exige ser español de nacimiento ni ser jurista.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. Señale cuál NO es causa de cese del Defensor del Pueblo:",
+      "options": {
+        "a": "Por pérdida de la confianza parlamentaria en las Cortes Generales",
+        "b": "Por renuncia",
+        "c": "Por expiración del plazo de su nombramiento",
+        "d": "Por haber sido condenado, mediante sentencia firme, por delito doloso"
+      },
+      "correct": "a",
+      "explicacion": "Art. 5 LO 3/1981. El Defensor del Pueblo cesa por: renuncia, expiración del plazo, muerte o incapacidad sobrevenida, actuar con notoria negligencia en el cargo, o condena por sentencia firme por delito doloso. La pérdida de confianza parlamentaria NO es causa de cese.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. En relación con sus prerrogativas e inviolabilidad, el Defensor del Pueblo:",
+      "options": {
+        "a": "No podrá ser detenido en ningún caso, ni siquiera en flagrante delito",
+        "b": "Tiene los mismos privilegios procesales que cualquier ciudadano",
+        "c": "Solo goza de inviolabilidad por las opiniones emitidas en el ejercicio del cargo, pero puede ser detenido libremente",
+        "d": "No podrá ser detenido mientras permanezca en ejercicio de sus funciones, salvo en caso de flagrante delito, siendo competente la Sala de lo Penal del Tribunal Supremo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 6.3 LO 3/1981. Mientras permanezca en el ejercicio de sus funciones, el Defensor del Pueblo no podrá ser detenido ni retenido SINO EN CASO DE FLAGRANTE DELITO, correspondiendo la decisión sobre su inculpación, prisión, procesamiento y juicio exclusivamente a la Sala de lo Penal del Tribunal Supremo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. La condición de Defensor del Pueblo es incompatible con:",
+      "options": {
+        "a": "La afiliación a un partido político, pero compatible con el desempeño de funciones directivas en el mismo",
+        "b": "Solo con el ejercicio de cargos públicos remunerados",
+        "c": "Todo mandato representativo, cargos políticos, permanencia en activo de cualquier Administración pública, afiliación a partido político, ejercicio de carreras judicial y fiscal, y cualquier actividad profesional",
+        "d": "Solo con el ejercicio de la abogacía en activo"
+      },
+      "correct": "c",
+      "explicacion": "Art. 7 LO 3/1981. La condición de Defensor del Pueblo es incompatible con: todo mandato representativo; cargo político o propaganda política; permanencia en activo en cualquier Administración pública; afiliación o funciones directivas en partido político o sindicato; ejercicio de carreras judicial y fiscal; y cualquier actividad profesional, liberal, mercantil o laboral.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo estará auxiliado por:",
+      "options": {
+        "a": "Un Adjunto Único designado por las Cortes Generales",
+        "b": "Tres Adjuntos nombrados directamente por el Congreso de los Diputados",
+        "c": "Un Adjunto Primero nombrado por el Congreso y un Adjunto Segundo nombrado por el Senado",
+        "d": "Un Adjunto Primero y un Adjunto Segundo, nombrados por el propio Defensor previa conformidad de las Cámaras"
+      },
+      "correct": "d",
+      "explicacion": "Art. 8.1 y 8.2 LO 3/1981. El Defensor del Pueblo estará auxiliado por UN ADJUNTO PRIMERO y UN ADJUNTO SEGUNDO, en los que podrá delegar sus funciones. El Defensor del Pueblo los NOMBRARÁ Y SEPARARÁ previa conformidad de las Cámaras.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo iniciar investigaciones de oficio?",
+      "options": {
+        "a": "No, solo puede actuar a petición de parte",
+        "b": "Solo puede actuar de oficio cuando se lo ordenen las Cortes Generales",
+        "c": "Sí, podrá iniciar y proseguir de oficio o a petición de parte cualquier investigación",
+        "d": "Solo puede actuar de oficio en asuntos relacionados con los derechos fundamentales de la Sección 1ª"
+      },
+      "correct": "c",
+      "explicacion": "Art. 9.1 LO 3/1981. El Defensor del Pueblo podrá iniciar y proseguir DE OFICIO O A PETICIÓN DE PARTE cualquier investigación conducente al esclarecimiento de los actos y resoluciones de la Administración pública en relación con los derechos del Título I.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. ¿Puede cualquier persona, sin importar su nacionalidad, dirigirse al Defensor del Pueblo?",
+      "options": {
+        "a": "Solo los ciudadanos españoles o comunitarios",
+        "b": "Solo los ciudadanos mayores de edad con plena capacidad de obrar",
+        "c": "Toda persona natural o jurídica que invoque un interés legítimo, sin restricción alguna de nacionalidad, sexo, edad, etc.",
+        "d": "Solo las personas con residencia legal en España"
+      },
+      "correct": "c",
+      "explicacion": "Art. 10.1 LO 3/1981. Podrá dirigirse al Defensor del Pueblo TODA PERSONA NATURAL O JURÍDICA que invoque un interés legítimo, SIN RESTRICCIÓN ALGUNA. No podrán constituir impedimento la nacionalidad, residencia, sexo, minoría de edad, incapacidad legal, internamiento en centro penitenciario, etc.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. La actividad del Defensor del Pueblo se verá interrumpida cuando:",
+      "options": {
+        "a": "La actividad del Defensor del Pueblo no se verá interrumpida en ningún caso, incluyendo estados de excepción o sitio",
+        "b": "Se declare el estado de alarma",
+        "c": "Se declare el estado de excepción o de sitio",
+        "d": "Las Cortes Generales hubieren sido disueltas"
+      },
+      "correct": "a",
+      "explicacion": "Arts. 11 y 11.3 LO 3/1981. La actividad del Defensor del Pueblo NO SE VERÁ INTERRUMPIDA cuando las Cortes no se reúnan, se disuelvan, o expire su mandato (se dirige a las Diputaciones Permanentes). Además, la declaración de los estados de excepción o de sitio TAMPOCO interrumpirá su actividad.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. Cuando el Defensor del Pueblo reciba quejas referidas al funcionamiento de la Administración de Justicia, deberá dirigirlas a:",
+      "options": {
+        "a": "El Tribunal Constitucional",
+        "b": "El Ministerio Fiscal o al Consejo General del Poder Judicial, según el tipo de reclamación",
+        "c": "El Presidente del Tribunal Supremo",
+        "d": "El Ministerio de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "Art. 13 LO 3/1981. Cuando el Defensor del Pueblo reciba quejas referidas al funcionamiento de la Administración de Justicia, deberá dirigirlas al MINISTERIO FISCAL para que investigue su realidad y adopte las medidas oportunas, o bien dar traslado al CGPJ, según el tipo de reclamación.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. Las quejas al Defensor del Pueblo deben presentarse en el plazo máximo de:",
+      "options": {
+        "a": "Seis meses desde el conocimiento de los hechos",
+        "b": "Un año desde el conocimiento de los hechos",
+        "c": "Dos años desde el conocimiento de los hechos",
+        "d": "Tres años desde el conocimiento de los hechos"
+      },
+      "correct": "b",
+      "explicacion": "Art. 15.1 LO 3/1981. Toda queja se presentará firmada por el interesado, con indicación de su nombre y domicilio, en escrito razonado en papel común y en el plazo máximo de UN AÑO, contado a partir del momento en que tuviera conocimiento de los hechos.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. En relación con las actuaciones del Defensor del Pueblo, señale la CORRECTA:",
+      "options": {
+        "a": "Las actuaciones son gratuitas, pero es preceptiva la asistencia de Letrado",
+        "b": "El interesado debe abonar tasas administrativas para la presentación de quejas",
+        "c": "Todas las actuaciones del Defensor del Pueblo son gratuitas para el interesado y no será preceptiva la asistencia de Letrado ni de Procurador",
+        "d": "Es obligatoria la representación por Procurador en todos los procedimientos"
+      },
+      "correct": "c",
+      "explicacion": "Art. 15.2 LO 3/1981. Todas las actuaciones del Defensor del Pueblo son GRATUITAS PARA EL INTERESADO y NO SERÁ PRECEPTIVA LA ASISTENCIA DE LETRADO NI DE PROCURADOR. De toda queja se acusará recibo.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "LO 3/1981, Defensor del Pueblo. En relación con la correspondencia dirigida al Defensor del Pueblo desde centros de detención o internamiento:",
+      "options": {
+        "a": "Podrá ser objeto de censura si así lo determina la dirección del centro",
+        "b": "Será revisada por el director del establecimiento penitenciario",
+        "c": "Deberá ser abierta y sellada antes de remitirse",
+        "d": "No podrá ser objeto de censura de ningún tipo"
+      },
+      "correct": "d",
+      "explicacion": "Art. 16.1 LO 3/1981. La correspondencia dirigida al Defensor del Pueblo y remitida desde cualquier centro de detención, internamiento o custodia de personas NO PODRÁ SER OBJETO DE CENSURA DE NINGÚN TIPO. Tampoco podrán interferirse las conversaciones con el Defensor o sus delegados.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo, en relación con quejas sobre las que esté pendiente resolución judicial:",
+      "options": {
+        "a": "Puede entrar en el examen de cualquier queja independientemente de si hay proceso judicial pendiente",
+        "b": "No entrará en el examen individual de aquellas quejas sobre las que esté pendiente resolución judicial",
+        "c": "Solo puede actuar si el proceso judicial lleva más de dos años pendiente de resolución",
+        "d": "Puede actuar paralela y simultáneamente con el proceso judicial"
+      },
+      "correct": "b",
+      "explicacion": "Art. 17.2 LO 3/1981. El Defensor del Pueblo NO ENTRARÁ EN EL EXAMEN INDIVIDUAL de aquellas quejas sobre las que esté pendiente resolución judicial y lo SUSPENDERÁ si, iniciada su actuación, se interpusiere demanda o recurso ante los Tribunales ordinarios o el TC.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo rechazará las quejas:",
+      "options": {
+        "a": "Cuando no estén relacionadas con los derechos del Título I de la Constitución",
+        "b": "Cuando sean anónimas, o cuando advierta mala fe, carencia de fundamento o inexistencia de pretensión",
+        "c": "Cuando hayan transcurrido más de seis meses desde los hechos",
+        "d": "Cuando la Administración haya respondido ya al interesado"
+      },
+      "correct": "b",
+      "explicacion": "Art. 17.3 LO 3/1981. El Defensor del Pueblo rechazará las quejas ANÓNIMAS y podrá rechazar aquellas en las que advierta MALA FE, CARENCIA DE FUNDAMENTO, INEXISTENCIA DE PRETENSIÓN, o cuya tramitación irrogue perjuicio al legítimo derecho de terceras personas. Sus decisiones no serán susceptibles de recurso.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo no estará sujeto a mandato imperativo alguno y no recibirá instrucciones de ninguna Autoridad. Esto significa que desempeñará sus funciones:",
+      "options": {
+        "a": "Con autonomía y según el criterio de la Comisión Mixta Congreso-Senado",
+        "b": "Con autonomía, pero siguiendo las directrices del Pleno del Congreso",
+        "c": "Con autonomía limitada por las instrucciones del Presidente de las Cortes",
+        "d": "Con autonomía y según su criterio"
+      },
+      "correct": "d",
+      "explicacion": "Art. 6.1 LO 3/1981. El Defensor del Pueblo no estará sujeto a mandato imperativo alguno. No recibirá instrucciones de ninguna Autoridad. Desempeñará sus funciones CON AUTONOMÍA Y SEGÚN SU CRITERIO. Esta independencia es esencial para el ejercicio de su función de control.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. En relación con el nombramiento del Defensor del Pueblo, señale la CORRECTA:",
+      "options": {
+        "a": "El nombramiento lo firma exclusivamente el Presidente del Congreso",
+        "b": "El nombramiento lo firma el Presidente del Gobierno y se publica en el BOE",
+        "c": "El nombramiento lo firma el Rey previo refrendo del Presidente del Gobierno",
+        "d": "Los Presidentes del Congreso y del Senado acreditarán el nombramiento que se publicará en el BOE"
+      },
+      "correct": "d",
+      "explicacion": "Art. 4.1 LO 3/1981. Los PRESIDENTES DEL CONGRESO Y DEL SENADO acreditarán conjuntamente con sus firmas el nombramiento del Defensor del Pueblo que se publicará en el Boletín Oficial del Estado.",
+      "ley": ""
+    },
+    {
+      "id": "tema_04_test_10_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "LO 3/1981, Defensor del Pueblo. El Defensor del Pueblo velará por el respeto de los derechos constitucionales en el ámbito de la Administración Militar:",
+      "options": {
+        "a": "Sin que ello pueda entrañar una interferencia en el mando de la Defensa Nacional",
+        "b": "Sin ninguna limitación, pudiendo interferir en el mando de la Defensa Nacional",
+        "c": "Solo cuando así lo requieran las Cortes Generales mediante resolución motivada",
+        "d": "Solo en cuestiones administrativas, no en las estrictamente militares"
+      },
+      "correct": "a",
+      "explicacion": "Art. 14 LO 3/1981. El Defensor del Pueblo velará por el respeto de los derechos del Título I en el ámbito de la Administración Militar, SIN QUE ELLO PUEDA ENTRAÑAR UNA INTERFERENCIA EN EL MANDO DE LA DEFENSA NACIONAL.",
+      "ley": ""
+    }
+  ]
+}
