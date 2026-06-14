@@ -1,20 +1,19 @@
 {
-  "version": "2026-06-14T22:10:38.499149",
+  "version": "2026-06-14T22:13:13.061752",
   "fecha": "14 de junio de 2026",
   "novedades": {
-    "guardia_civil": [
-      "📚 Tema 04: +1 test (20 preguntas nuevas)"
-    ],
+    "guardia_civil": [],
     "cabo": [],
     "sargento": [],
     "teniente": []
   },
-  "hay_novedades": true,
+  "hay_novedades": false,
   "archivos_nuevos": [
-    "guardia_civil/conocimientos/index.json",
+    "guardia_civil/conocimientos/index.json"
+  ],
+  "archivos_eliminados": [
     "guardia_civil/conocimientos/tema_04/tema_04_test_51.json"
   ],
-  "archivos_eliminados": [],
   "todos_los_archivos": [
     "guardia_civil/conocimientos/tema_01/tema_01_test_01.json",
     "guardia_civil/conocimientos/tema_02/tema_02_test_01.json",
@@ -107,7 +106,6 @@
     "guardia_civil/conocimientos/tema_04/tema_04_test_48.json",
     "guardia_civil/conocimientos/tema_04/tema_04_test_49.json",
     "guardia_civil/conocimientos/tema_04/tema_04_test_50.json",
-    "guardia_civil/conocimientos/tema_04/tema_04_test_51.json",
     "guardia_civil/simulacros/simulacro_01.json",
     "guardia_civil/simulacros/simulacro_02.json",
     "guardia_civil/simulacros/simulacro_03.json",
