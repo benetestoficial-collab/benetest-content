@@ -471,9 +471,14 @@
           "nombre": "50 — Derecho Constitucional",
           "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_50.json",
           "preguntas": 20
+        },
+        {
+          "nombre": "51 — Derecho Constitucional",
+          "archivo": "guardia_civil/conocimientos/tema_04/tema_04_test_51.json",
+          "preguntas": 20
         }
       ],
-      "total_preguntas": 1000
+      "total_preguntas": 1020
     },
     "tema_05": {
       "tests": [],
