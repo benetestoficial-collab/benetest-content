@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-14T21:18:11.085216",
+  "version": "2026-06-14T21:18:38.303519",
   "fecha": "14 de junio de 2026",
   "novedades": {
     "guardia_civil": [],
@@ -8,6 +8,10 @@
     "teniente": []
   },
   "hay_novedades": false,
-  "archivos_nuevos": [],
-  "archivos_eliminados": []
+  "archivos_nuevos": [
+    "guardia_civil/conocimientos/index.json"
+  ],
+  "archivos_eliminados": [
+    "guardia_civil/conocimientos/tema_04/tema_04_test_51.json"
+  ]
 }
