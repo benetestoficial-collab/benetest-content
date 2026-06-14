@@ -11,8 +11,109 @@
       "total_preguntas": 10
     },
     "tema_02": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Igualdad efectiva de mujeres y hombres",
+          "archivo": "guardia_civil/conocimientos/tema_02/tema_02_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_03": {
       "tests": [

@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-14T12:50:14.931484",
+  "version": "2026-06-14T12:52:55.121888",
   "fecha": "14 de junio de 2026",
   "novedades": {
     "guardia_civil": [],
@@ -8,29 +8,6 @@
     "teniente": []
   },
   "hay_novedades": false,
-  "archivos_nuevos": [
-    "guardia_civil/conocimientos/index.json"
-  ],
-  "archivos_eliminados": [
-    "guardia_civil/conocimientos/tema_02/tema_02_test_16.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_12.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_19.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_08.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_10.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_14.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_09.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_15.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_01.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_18.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_13.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_07.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_03.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_04.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_05.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_02.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_17.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_20.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_11.json",
-    "guardia_civil/conocimientos/tema_02/tema_02_test_06.json"
-  ]
+  "archivos_nuevos": [],
+  "archivos_eliminados": []
 }
