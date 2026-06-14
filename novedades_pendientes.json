@@ -1,13 +1,18 @@
 {
-  "version": "2026-06-14T02:51:08.163609",
+  "version": "2026-06-14T02:51:52.491624",
   "fecha": "14 de junio de 2026",
   "novedades": {
-    "guardia_civil": [],
+    "guardia_civil": [
+      "📚 Tema 04: +1 test (20 preguntas nuevas)"
+    ],
     "cabo": [],
     "sargento": [],
     "teniente": []
   },
-  "hay_novedades": false,
-  "archivos_nuevos": [],
+  "hay_novedades": true,
+  "archivos_nuevos": [
+    "guardia_civil/conocimientos/index.json",
+    "guardia_civil/conocimientos/tema_04/tema_04_test_51.json"
+  ],
   "archivos_eliminados": []
 }

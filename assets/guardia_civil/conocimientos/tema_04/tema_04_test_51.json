@@ -1,0 +1,246 @@
+{
+  "id": "tema_04_test_51",
+  "titulo": "Test 51 — Derecho Constitucional",
+  "preguntas": [
+    {
+      "id": "t04_t51_p01",
+      "pregunta": "Constitución Española, art. 1. La Constitución de 1978 fue aprobada en referéndum. ¿Qué porcentaje del censo electoral participó en dicho referéndum?",
+      "opciones": [
+        "a) Aproximadamente el 58%",
+        "b) Aproximadamente el 67%",
+        "c) Aproximadamente el 77%",
+        "d) Aproximadamente el 87%"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Constitución Española. El referéndum del 6 de diciembre de 1978 tuvo una participación de APROXIMADAMENTE EL 67,11% del censo electoral. De los votos emitidos, el 87,87% fueron favorables a la Constitución. La participación fue alta pero no la más elevada de la historia democrática española."
+    },
+    {
+      "id": "t04_t51_p02",
+      "pregunta": "Constitución Española, art. 4. El artículo 4.1 CE describe la bandera española con tres franjas horizontales, de las cuales la amarilla es de doble anchura que cada una de las rojas. ¿Qué proporción tiene la bandera?",
+      "opciones": [
+        "a) 1:1:1 (tres franjas iguales)",
+        "b) 1:2:1 (la amarilla el doble de ancha que cada roja)",
+        "c) 1:3:1 (la amarilla el triple de ancha)",
+        "d) 2:1:2 (las rojas más anchas)"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 4.1 CE. La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la AMARILLA DE DOBLE ANCHURA que cada una de las rojas. Esto da una proporción de 1:2:1. El Real Decreto 441/1981 especifica técnicamente los colores exactos."
+    },
+    {
+      "id": "t04_t51_p03",
+      "pregunta": "Constitución Española, art. 9. ¿Qué significa que los ciudadanos y los poderes públicos están sujetos a la Constitución y al ordenamiento jurídico?",
+      "opciones": [
+        "a) Que solo los ciudadanos deben cumplir la ley, no los poderes públicos",
+        "b) Que tanto los ciudadanos como los poderes públicos están vinculados por la Constitución y las leyes, sin que nadie quede al margen del Derecho",
+        "c) Que los poderes públicos pueden saltarse la ley por razones de interés público",
+        "d) Que los ciudadanos solo cumplen las normas que han aprobado mediante referéndum"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 9.1 CE. 'Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.' Este principio es la expresión del ESTADO DE DERECHO: NADIE QUEDA AL MARGEN DEL DERECHO. El poder no puede actuar sin base legal ni contra la ley. Es el fundamento del control judicial de la Administración."
+    },
+    {
+      "id": "t04_t51_p04",
+      "pregunta": "Constitución Española, art. 17. El derecho a la libertad personal incluye el derecho a no ser detenido salvo en los casos previstos. ¿Cuándo puede producirse la detención sin flagrante delito?",
+      "opciones": [
+        "a) Nunca; fuera del flagrante delito siempre se necesita orden judicial",
+        "b) La Policía puede detener sin orden judicial cuando tenga motivos bastantes para creer que una persona ha participado en la comisión de un hecho delictivo, aunque no haya flagrante delito",
+        "c) Solo con autorización del Ministerio del Interior",
+        "d) Solo en estados de excepción declarados"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 17 CE y LECrim. La detención policial SIN FLAGRANTE DELITO es posible cuando existan MOTIVOS BASTANTES para creer que alguien ha participado en un delito. La LECrim permite la detención policial sin orden judicial en estos casos, pero la persona debe ser puesta a disposición judicial en el plazo de 72 horas máximo (art. 17.2 CE)."
+    },
+    {
+      "id": "t04_t51_p05",
+      "pregunta": "Constitución Española, art. 20. ¿Cuál es la diferencia entre la libertad de expresión y la libertad de información del art. 20?",
+      "opciones": [
+        "a) Son idénticas; el art. 20 regula un único derecho",
+        "b) La libertad de expresión protege la emisión de opiniones, juicios de valor e ideas; la libertad de información protege la comunicación de hechos noticiables que deben ser veraces",
+        "c) La libertad de expresión es para ciudadanos; la de información, solo para periodistas",
+        "d) La libertad de información no requiere veracidad; la de expresión sí"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 20.1.a) y d) CE. EL TC DISTINGUE: la LIBERTAD DE EXPRESIÓN protege la emisión de OPINIONES, JUICIOS DE VALOR E IDEAS (no requieren veracidad porque son valoraciones subjetivas). La LIBERTAD DE INFORMACIÓN protege la COMUNICACIÓN DE HECHOS NOTICIABLES que deben ser VERACES (criterio de diligencia informativa), pues se refieren a datos objetivos."
+    },
+    {
+      "id": "t04_t51_p06",
+      "pregunta": "Constitución Española, art. 27. La educación tiene por objeto el pleno desarrollo de la personalidad humana. ¿Dentro de qué marco?",
+      "opciones": [
+        "a) Dentro del sistema de valores de la sociedad mayoritaria",
+        "b) En el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales",
+        "c) De acuerdo con los valores del Estado y la nación española",
+        "d) Siguiendo los criterios fijados por el Gobierno de turno"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 27.2 CE. 'La educación tendrá por objeto el pleno desarrollo de la personalidad humana EN EL RESPETO A LOS PRINCIPIOS DEMOCRÁTICOS DE CONVIVENCIA Y A LOS DERECHOS Y LIBERTADES FUNDAMENTALES.' Este mandato vincula a todos los centros educativos, independientemente de su carácter público o privado."
+    },
+    {
+      "id": "t04_t51_p07",
+      "pregunta": "Constitución Española, art. 57. En el orden de sucesión a la Corona, si el grado y la línea son iguales ¿qué criterio se aplica primero: el sexo o la edad?",
+      "opciones": [
+        "a) Primero la edad (la persona mayor tiene preferencia)",
+        "b) Primero el sexo (el varón sobre la mujer) y dentro del mismo sexo, la edad mayor",
+        "c) La edad siempre tiene preferencia sobre el sexo",
+        "d) Es el Rey reinante quien elige libremente entre ellos"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 57.1 CE. En el mismo grado de la misma línea: 1º) EL VARÓN A LA MUJER; 2º) EN EL MISMO SEXO, LA PERSONA DE MAYOR EDAD a la de menos. El criterio del sexo (varón sobre mujer) precede al de la edad. Esta preferencia del varón sobre la mujer en igualdad de línea y grado es uno de los aspectos más debatidos de la Constitución."
+    },
+    {
+      "id": "t04_t51_p08",
+      "pregunta": "Constitución Española, art. 62. El Rey desempeña el mando supremo de las Fuerzas Armadas. ¿Significa esto que el Rey tiene poder efectivo de dirección militar?",
+      "opciones": [
+        "a) Sí, el Rey es el comandante en jefe efectivo de las FFAA",
+        "b) No, el mando supremo del Rey es honorífico y simbólico; la dirección efectiva de la defensa corresponde al Gobierno (art. 97 CE) y en su caso al Ministro de Defensa",
+        "c) El Rey dirige las FFAA en tiempo de guerra y el Gobierno en tiempo de paz",
+        "d) El Rey ejerce el mando previa autorización del Senado"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 62.h) CE. El Rey asume EL MANDO SUPREMO DE LAS FUERZAS ARMADAS, pero este mando es HONORÍFICO Y SIMBÓLICO. La DIRECCIÓN EFECTIVA de la defensa y de las FFAA corresponde al GOBIERNO (art. 97 CE), que ejerce sus funciones a través del Ministro de Defensa. El Rey no puede ordenar operaciones militares por sí solo."
+    },
+    {
+      "id": "t04_t51_p09",
+      "pregunta": "Constitución Española, art. 68. La LOREG establece que el número mínimo de Diputados por provincia es 2 y el máximo teórico es 350. ¿Cuántos Diputados se distribuyen proporcionalmente por población entre las provincias?",
+      "opciones": [
+        "a) 198 Diputados",
+        "b) 248 Diputados",
+        "c) 298 Diputados",
+        "d) 148 Diputados"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 68 CE y LOREG. De los 350 Diputados: 50 provincias × 2 Diputados mínimos = 100; más 2 de Ceuta y Melilla = 102 Diputados fijos. El resto, 350 - 102 = 248 DIPUTADOS se distribuyen proporcionalmente entre las 50 provincias en función de su población."
+    },
+    {
+      "id": "t04_t51_p10",
+      "pregunta": "Constitución Española, art. 71. La inviolabilidad parlamentaria por votos y opiniones, ¿protege también las declaraciones de un parlamentario fuera del Parlamento (en prensa, redes sociales)?",
+      "opciones": [
+        "a) Sí, la inviolabilidad es absoluta y cubre toda manifestación del parlamentario",
+        "b) La inviolabilidad protege los votos y opiniones emitidos EN EL EJERCICIO DE SUS FUNCIONES; las declaraciones puramente privadas o extraparlamentarias no están amparadas",
+        "c) Solo protege las declaraciones hechas dentro del recinto parlamentario",
+        "d) Solo protege los votos emitidos en el Pleno, no las opiniones verbales"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 71.1 CE. La inviolabilidad ampara los votos y opiniones emitidos EN EL EJERCICIO DE SUS FUNCIONES. El TC ha establecido que esto incluye declaraciones en medios de comunicación VINCULADAS AL EJERCICIO DEL CARGO, pero NO LAS DECLARACIONES PURAMENTE PRIVADAS O EXTRAPARLAMENTARIAS que carecen de conexión con el mandato representativo."
+    },
+    {
+      "id": "t04_t51_p11",
+      "pregunta": "Constitución Española, art. 86. Un Decreto-ley entra en vigor al día siguiente de su publicación en el BOE. ¿Qué ocurre si el Congreso lo deroga al cabo de 20 días?",
+      "opciones": [
+        "a) Los efectos producidos durante esos 20 días se anulan retroactivamente",
+        "b) La derogación no afecta a los efectos producidos durante el período de vigencia; el Congreso regulará los efectos derivados de la derogación",
+        "c) El Gobierno debe compensar a los afectados por los efectos del Decreto-ley",
+        "d) Se entiende que el Decreto-ley nunca existió"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 86.2 CE. Si el Congreso deroga el Decreto-ley, 'LAS CORTES GENERALES PODRÁN TRAMITAR LOS PROYECTOS DE LEY POR EL PROCEDIMIENTO DE URGENCIA, regulando los efectos derivados.' La derogación opera hacia el futuro; LOS EFECTOS PRODUCIDOS DURANTE EL PERÍODO DE VIGENCIA NO SE ANULAN AUTOMÁTICAMENTE. Las Cortes pueden regular qué hacer con esos efectos."
+    },
+    {
+      "id": "t04_t51_p12",
+      "pregunta": "Constitución Española, art. 99. ¿Puede presentarse más de un candidato a la investidura en la misma sesión?",
+      "opciones": [
+        "a) Sí, el Congreso puede votar varios candidatos en la misma sesión",
+        "b) No, el Rey propone UN candidato; si no obtiene la confianza, el proceso se repite con el mismo u otro candidato en rondas sucesivas",
+        "c) Solo el candidato del partido más votado puede ser propuesto",
+        "d) Los grupos parlamentarios pueden presentar sus propios candidatos directamente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 99 CE. El Rey, tras consultar a los grupos políticos, propone UN SOLO CANDIDATO al Presidente del Congreso. Si no obtiene la confianza, el proceso SE REPITE con el mismo u otro candidato hasta agotar el plazo de dos meses. No hay votación simultánea de varios candidatos; el proceso es secuencial."
+    },
+    {
+      "id": "t04_t51_p13",
+      "pregunta": "Constitución Española, art. 104. Las Fuerzas y Cuerpos de Seguridad tienen la misión de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana. ¿De quién dependen?",
+      "opciones": [
+        "a) Del Ministerio de Defensa",
+        "b) Del Gobierno",
+        "c) Del Poder Judicial",
+        "d) Del Ministerio del Interior exclusivamente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 104.1 CE. Las Fuerzas y Cuerpos de Seguridad, bajo la DEPENDENCIA DEL GOBIERNO, tienen como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana. La dependencia orgánica del Gobierno (no del Ministerio solo) garantiza su sujeción al poder ejecutivo democráticamente legitimado."
+    },
+    {
+      "id": "t04_t51_p14",
+      "pregunta": "Constitución Española, art. 116. El estado de sitio es declarado por el Congreso. ¿Bajo qué mando quedan las Fuerzas Armadas durante el estado de sitio?",
+      "opciones": [
+        "a) Del Presidente del Gobierno directamente",
+        "b) El Gobierno podrá designar la autoridad militar que haya de ejecutar las medidas",
+        "c) Del Ministro de Defensa",
+        "d) Del Jefe del Estado Mayor de la Defensa (JEMAD)"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 116.4 CE y LO 4/1981. Durante el estado de sitio, EL GOBIERNO PODRÁ DESIGNAR LA AUTORIDAD MILITAR QUE HAYA DE EJECUTAR LAS MEDIDAS aprobadas por el Congreso. Así, el poder civil (Gobierno) mantiene el control sobre el poder militar incluso en las situaciones de mayor gravedad."
+    },
+    {
+      "id": "t04_t51_p15",
+      "pregunta": "Constitución Española, art. 125. ¿Para qué tipo de delitos está prevista la acción popular (posibilidad de acusar sin ser víctima)?",
+      "opciones": [
+        "a) Solo para delitos contra la Corona",
+        "b) Para todos los delitos; cualquier ciudadano puede ejercer la acción popular en el proceso penal",
+        "c) Solo para delitos de corrupción de funcionarios públicos",
+        "d) Solo para los delitos más graves (contra la vida, integridad y libertad)"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 125 CE. 'Los ciudadanos PODRÁN EJERCER LA ACCIÓN POPULAR y participar en la Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determine.' La acción popular puede ejercerse en el proceso penal EN GENERAL, para todos los delitos, aunque la ley puede establecer condiciones para su ejercicio."
+    },
+    {
+      "id": "t04_t51_p16",
+      "pregunta": "Constitución Española, art. 132. ¿Cuál es la diferencia entre el dominio público y el patrimonio del Estado?",
+      "opciones": [
+        "a) Son conceptos sinónimos sin diferencia jurídica relevante",
+        "b) El dominio público son bienes afectados al uso general o a servicios públicos, regidos por principios de inalienabilidad; el patrimonio del Estado son bienes de titularidad estatal no afectados al uso público, que pueden enajenarse",
+        "c) El dominio público solo incluye los bienes naturales; el patrimonio, los artificiales",
+        "d) El dominio público lo gestiona el Estado; el patrimonio, las CCAA"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 132 CE. EL DOMINIO PÚBLICO son bienes AFECTADOS AL USO GENERAL O A SERVICIOS PÚBLICOS (costas, ríos, carreteras, puertos, etc.): son inalienables, imprescriptibles e inembargables. EL PATRIMONIO DEL ESTADO son bienes de TITULARIDAD ESTATAL NO AFECTADOS AL USO PÚBLICO: pueden enajenarse siguiendo los procedimientos de la Ley de Patrimonio de las Administraciones Públicas."
+    },
+    {
+      "id": "t04_t51_p17",
+      "pregunta": "Constitución Española, art. 149. La Seguridad Social es competencia del Estado, pero las CCAA pueden ejecutar sus servicios. ¿Cómo se denomina este modelo de distribución competencial?",
+      "opciones": [
+        "a) Competencia exclusiva autonómica",
+        "b) Competencia compartida: el Estado regula las bases y las CCAA las desarrollan y ejecutan",
+        "c) Competencia delegada: el Estado cede temporalmente la gestión",
+        "d) Competencia residual: la asumen las CCAA por defecto"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 149.1.17ª CE. La SEGURIDAD SOCIAL sigue el modelo de COMPETENCIA COMPARTIDA: el ESTADO legisla la legislación básica y el régimen económico; LAS CCAA pueden asumir la ejecución de sus servicios. Este modelo 'bases más desarrollo y ejecución' es frecuente en el sistema constitucional español."
+    },
+    {
+      "id": "t04_t51_p18",
+      "pregunta": "Constitución Española, art. 161. ¿Puede el TC revisar una sentencia del Tribunal Supremo?",
+      "opciones": [
+        "a) No, el TS es el órgano superior y no puede ser revisado",
+        "b) El TC no actúa como cuarta instancia para revisar sentencias del TS, pero sí puede anular resoluciones del TS que vulneren derechos fundamentales mediante el recurso de amparo",
+        "c) Sí, el TC puede revisar cualquier sentencia del TS mediante recurso de casación constitucional",
+        "d) Solo puede revisar las sentencias del TS en materia penal"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Arts. 123 y 161 CE. EL TC NO ES UNA CUARTA INSTANCIA: no revisa la legalidad ordinaria aplicada por el TS. Sin embargo, VÍA RECURSO DE AMPARO puede ANULAR RESOLUCIONES DEL TS QUE VULNEREN DERECHOS FUNDAMENTALES. La distinción es entre control de constitucionalidad (TC) y control de legalidad ordinaria (TS)."
+    },
+    {
+      "id": "t04_t51_p19",
+      "pregunta": "LO 3/1981, Defensor del Pueblo. ¿Puede el Defensor del Pueblo recomendar a una Administración que interponga un recurso judicial?",
+      "opciones": [
+        "a) No, el Defensor no puede intervenir en procesos judiciales",
+        "b) Sí, entre sus resoluciones posibles está sugerir a la Administración que ejercite las acciones legales pertinentes, incluyendo la interposición de recursos",
+        "c) Solo puede recomendarlo al Ministerio Fiscal",
+        "d) Solo si el ciudadano perjudicado lo solicita expresamente"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 28 LO 3/1981. El Defensor puede dirigir a las autoridades y funcionarios las ADVERTENCIAS, RECOMENDACIONES, RECORDATORIOS DE SUS DEBERES LEGALES Y SUGERENCIAS que estime convenientes. Esto incluye SUGERIR QUE EJERCITEN LAS ACCIONES LEGALES OPORTUNAS, incluyendo la interposición de recursos judiciales para defender intereses de los ciudadanos."
+    },
+    {
+      "id": "t04_t51_p20",
+      "pregunta": "Constitución Española, art. 168. Suponga que se inicia el procedimiento agravado de reforma (art. 168) para suprimir la Monarquía e instaurar una República. ¿Quién tendría la última palabra?",
+      "opciones": [
+        "a) Las Cortes Generales por mayoría de dos tercios",
+        "b) El pueblo español mediante referéndum obligatorio, después de que las nuevas Cortes aprueben el texto por dos tercios",
+        "c) El Tribunal Constitucional como guardián de la Constitución",
+        "d) El Rey, que debería abdicar voluntariamente para que la reforma fuera legítima"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Art. 168 CE. La supresión de la Monarquía (Título II) requiere el procedimiento agravado. Tras la aprobación por 2/3, disolución, nuevas elecciones, ratificación y aprobación del texto por 2/3, LA ÚLTIMA PALABRA ES DEL PUEBLO ESPAÑOL MEDIANTE REFERÉNDUM OBLIGATORIO. El TC no tiene competencia para impedir una reforma siguiendo los cauces constitucionales; el Rey no tiene veto."
+    }
+  ]
+}
