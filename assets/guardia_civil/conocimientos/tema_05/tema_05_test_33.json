@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 33",
+  "preguntas": [
+    {
+      "id": "tema_05_test_33_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 198 TFUE regula la asociación de países y territorios de ultramar. ¿Qué Estados miembros mantienen relaciones especiales con esos países y territorios?",
+      "options": {
+        "a": "Alemania, Francia, España y Portugal",
+        "b": "Dinamarca, Francia, Países Bajos y Reino Unido",
+        "c": "Bélgica, Francia, Portugal y España",
+        "d": "Dinamarca, Países Bajos, Portugal y Suecia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 198 TFUE establece que los Estados miembros convienen en asociar a la Unión 'los países y territorios no europeos que mantienen relaciones especiales con Dinamarca, Francia, Países Bajos y Reino Unido'. Aunque el Reino Unido se retiró de la UE, la referencia figura en el texto histórico del TFUE.",
+      "ley": "TFUE, art. 198"
+    },
+    {
+      "id": "tema_05_test_33_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 288 TFUE, ¿qué es un reglamento?",
+      "options": {
+        "a": "Una norma que obliga al Estado al que va dirigida en cuanto al resultado",
+        "b": "Un acto de alcance general, obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+        "c": "Una recomendación de la Comisión sin fuerza vinculante",
+        "d": "Una decisión del Consejo Europeo que requiere ratificación de los Estados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 288 TFUE define el reglamento como un acto 'de alcance general. Será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro'.",
+      "ley": "TFUE, art. 288"
+    },
+    {
+      "id": "tema_05_test_33_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 288 TFUE, ¿qué es una directiva?",
+      "options": {
+        "a": "Un acto directamente aplicable en todos los Estados miembros",
+        "b": "Una norma que obliga al Estado miembro destinatario en cuanto al resultado que debe conseguirse, pero deja a las autoridades nacionales la elección de la forma y los medios",
+        "c": "Una recomendación de carácter no vinculante",
+        "d": "Un acto de alcance general adoptado por el Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 288 TFUE define la directiva como el acto que 'obligará al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando, sin embargo, a las autoridades nacionales la elección de la forma y de los medios'.",
+      "ley": "TFUE, art. 288"
+    },
+    {
+      "id": "tema_05_test_33_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 290 TFUE regula los actos delegados. ¿Qué puede delegar el legislador en la Comisión?",
+      "options": {
+        "a": "La aprobación de toda la legislación derivada sin límites",
+        "b": "La potestad de adoptar actos no legislativos de alcance general para completar o modificar determinados elementos no esenciales del acto legislativo",
+        "c": "La ejecución del presupuesto de la Unión",
+        "d": "La representación exterior de la Unión en organizaciones internacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 290.1 TFUE establece que un acto legislativo puede delegar en la Comisión 'los poderes para adoptar actos no legislativos de alcance general que completen o modifiquen determinados elementos no esenciales del acto legislativo'.",
+      "ley": "TFUE, art. 290.1"
+    },
+    {
+      "id": "tema_05_test_33_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 289.3 TFUE, ¿cómo se denominan los actos jurídicos adoptados mediante el procedimiento legislativo?",
+      "options": {
+        "a": "Actos regulatorios",
+        "b": "Actos legislativos",
+        "c": "Actos de ejecución",
+        "d": "Actos normativos superiores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 289.3 TFUE establece que 'Los actos jurídicos adoptados mediante el procedimiento legislativo constituirán actos legislativos'.",
+      "ley": "TFUE, art. 289.3"
+    },
+    {
+      "id": "tema_05_test_33_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 291 TFUE, cuando se necesitan condiciones uniformes de ejecución de los actos vinculantes de la Unión, estas competencias de ejecución se conferirán, ¿a quién con carácter general?",
+      "options": {
+        "a": "Al Consejo, como institución con poderes ejecutivos",
+        "b": "A la Comisión",
+        "c": "A los Estados miembros conjuntamente",
+        "d": "A la agencia europea competente en cada materia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 291.2 TFUE establece que 'cuando se requieran condiciones uniformes de ejecución de los actos jurídicamente vinculantes de la Unión, estos conferirán competencias de ejecución a la Comisión'.",
+      "ley": "TFUE, art. 291.2"
+    },
+    {
+      "id": "tema_05_test_33_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 296 TFUE, ¿qué deben indicar los actos jurídicos de la Unión?",
+      "options": {
+        "a": "Solo la base jurídica en los Tratados",
+        "b": "Los motivos en los que se basan, además de hacer referencia a todas las propuestas, iniciativas, recomendaciones, solicitudes o dictámenes preceptivos",
+        "c": "Únicamente la votación del Parlamento Europeo y del Consejo",
+        "d": "La relación de todos los Estados miembros que votaron a favor y en contra"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 296 TFUE establece que 'Los actos jurídicos se motivarán y se referirán a las propuestas, iniciativas, recomendaciones, solicitudes o dictámenes preceptivos en los Tratados'.",
+      "ley": "TFUE, art. 296"
+    },
+    {
+      "id": "tema_05_test_33_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 297 TFUE regula la publicación de los actos legislativos. ¿Dónde se publicarán?",
+      "options": {
+        "a": "En los Boletines Oficiales de cada Estado miembro",
+        "b": "En el Diario Oficial de la Unión Europea y entrarán en vigor en la fecha que en ellos se fije o, a falta de ella, el vigésimo día siguiente a su publicación",
+        "c": "En el sitio web oficial de la Comisión Europea",
+        "d": "En el Registro de Actos de la Unión que gestiona el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 297.1 TFUE establece que los actos legislativos 'se publicarán en el Diario Oficial de la Unión Europea. Entrarán en vigor en la fecha que ellos fijen o, a falta de ella, el vigésimo día siguiente al de su publicación'.",
+      "ley": "TFUE, art. 297.1"
+    },
+    {
+      "id": "tema_05_test_33_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 13 TFUE establece que al formular políticas en determinados ámbitos, la Unión y los Estados miembros tendrán en cuenta las exigencias en materia de bienestar de los animales como 'seres sensibles'. ¿En qué ámbitos de política aplica esta exigencia?",
+      "options": {
+        "a": "Solo en agricultura",
+        "b": "En agricultura, pesca, transporte, mercado interior, investigación y desarrollo tecnológico y espacio",
+        "c": "Solo en el mercado interior y el transporte",
+        "d": "En todos los ámbitos de actuación de la Unión sin excepción"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13 TFUE establece que 'Al formular y aplicar las políticas de la Unión en materia de agricultura, pesca, transporte, mercado interior, investigación y desarrollo tecnológico y espacio, la Unión y los Estados miembros tendrán plenamente en cuenta las exigencias en materia de bienestar de los animales como seres sensibles'.",
+      "ley": "TFUE, art. 13"
+    },
+    {
+      "id": "tema_05_test_33_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 290.2 TFUE prevé que el legislador puede reservarse el derecho de revocar la delegación legislativa. ¿Qué dos mecanismos de control prevé?",
+      "options": {
+        "a": "El veto de la Comisión y la aprobación del Consejo Europeo",
+        "b": "La revocación de la delegación por el Parlamento Europeo o por el Consejo, y la posibilidad de que el acto delegado entre en vigor solo si el Parlamento Europeo o el Consejo no formulan objeciones en el plazo fijado",
+        "c": "La consulta obligatoria al Tribunal de Justicia y la ratificación por los Parlamentos nacionales",
+        "d": "El informe anual de la Comisión al Parlamento y la auditoría del Tribunal de Cuentas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 290.2 TFUE establece dos mecanismos de control: a) que el Parlamento Europeo o el Consejo puedan revocar la delegación; y b) que el acto delegado pueda entrar en vigor únicamente si, en el plazo fijado, el Parlamento Europeo o el Consejo no formulan objeciones.",
+      "ley": "TFUE, art. 290.2"
+    },
+    {
+      "id": "tema_05_test_33_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 14 TFUE regula los servicios de interés económico general. ¿Qué lugar ocupan estos servicios entre los valores de la Unión?",
+      "options": {
+        "a": "Son valores de segundo orden, subordinados al libre mercado",
+        "b": "Ocupan un lugar entre los valores comunes de la Unión y desempeñan un papel en la promoción de la cohesión social y territorial",
+        "c": "Son competencia exclusiva de los Estados miembros sin intervención de la Unión",
+        "d": "Están en proceso de ser privatizados progresivamente en todos los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 14 TFUE establece que 'a la vista del lugar que los servicios de interés económico general ocupan entre los valores comunes de la Unión, así como de su papel en la promoción de la cohesión social y territorial', la Unión y los Estados miembros velarán por que dichos servicios actúen con arreglo a principios y condiciones que les permitan cumplir su cometido.",
+      "ley": "TFUE, art. 14"
+    },
+    {
+      "id": "tema_05_test_33_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 15 TFUE establece el derecho de acceso a los documentos de las instituciones. ¿A quiénes reconoce ese derecho?",
+      "options": {
+        "a": "Solo a los ciudadanos de la Unión Europea",
+        "b": "A todo ciudadano de la Unión, así como a toda persona física o jurídica que resida o tenga su domicilio social en un Estado miembro",
+        "c": "Solo a los ciudadanos de los Estados miembros fundadores",
+        "d": "A cualquier persona en el mundo, sin restricciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.3 TFUE establece que 'Todo ciudadano de la Unión, así como toda persona física o jurídica que resida o tenga su domicilio social en un Estado miembro, tendrá derecho a acceder a los documentos de las instituciones, órganos y organismos de la Unión'.",
+      "ley": "TFUE, art. 15.3"
+    },
+    {
+      "id": "tema_05_test_33_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 291.3 TFUE, ¿con arreglo a qué procedimiento adoptan el Parlamento Europeo y el Consejo los reglamentos que establecen las modalidades de control de los actos de ejecución?",
+      "options": {
+        "a": "Procedimiento legislativo especial por unanimidad",
+        "b": "Procedimiento legislativo ordinario",
+        "c": "Decisión de la Comisión con aprobación del Consejo",
+        "d": "Acuerdo interinstitucional entre el Parlamento, el Consejo y la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 291.3 TFUE establece que 'El Parlamento Europeo y el Consejo, mediante reglamentos adoptados con arreglo al procedimiento legislativo ordinario, establecerán con carácter previo las normas y principios generales relativos a las modalidades de control, por parte de los Estados miembros, del ejercicio de las competencias de ejecución por la Comisión'.",
+      "ley": "TFUE, art. 291.3"
+    },
+    {
+      "id": "tema_05_test_33_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 199 TFUE establece los objetivos de la asociación de países y territorios de ultramar (PTU). Señale cuál de los siguientes principios se menciona:",
+      "options": {
+        "a": "La plena integración de los PTU en el mercado interior europeo",
+        "b": "La apertura mutua de los intercambios comerciales y la reciprocidad en las ventajas arancelarias",
+        "c": "La libre circulación de personas entre los PTU y los Estados miembros",
+        "d": "La creación de una zona de libre comercio entre los PTU y terceros países"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 199 TFUE establece entre los objetivos que 'Los Estados miembros aplicarán a sus intercambios comerciales con los países y territorios el régimen que se otorguen entre sí en virtud de los Tratados' y que 'Cada país o territorio aplicará a sus intercambios comerciales con los Estados miembros y con los demás países y territorios el régimen que aplique al Estado europeo con el que mantenga relaciones especiales'.",
+      "ley": "TFUE, art. 199"
+    },
+    {
+      "id": "tema_05_test_33_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 288 TFUE define cinco tipos de actos jurídicos de la Unión. Los dos últimos (recomendaciones y dictámenes) tienen en común que:",
+      "options": {
+        "a": "Son de alcance general y directamente aplicables",
+        "b": "No son vinculantes",
+        "c": "Requieren aprobación del Parlamento Europeo y el Consejo",
+        "d": "Solo pueden ser adoptados por la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 288 TFUE establece que 'Las recomendaciones y los dictámenes no serán vinculantes'. Esta es la diferencia fundamental entre las recomendaciones y dictámenes por un lado, y los reglamentos, directivas y decisiones por otro.",
+      "ley": "TFUE, art. 288"
+    },
+    {
+      "id": "tema_05_test_33_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 195 TFUE regula el turismo como competencia de apoyo. ¿Qué exclusión expresa establece?",
+      "options": {
+        "a": "La Unión no puede financiar proyectos turísticos con fondos estructurales",
+        "b": "Se excluye toda armonización de las disposiciones legales y reglamentarias de los Estados miembros",
+        "c": "Los Estados miembros son los únicos competentes para establecer la política turística",
+        "d": "La Comisión no puede proponer actos legislativos en materia de turismo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 195.2 TFUE establece que las medidas adoptadas en materia de turismo se adoptarán 'con exclusión de toda armonización de las disposiciones legales y reglamentarias de los Estados miembros'. Es la característica general de las competencias de apoyo del art. 6 TFUE.",
+      "ley": "TFUE, art. 195.2"
+    },
+    {
+      "id": "tema_05_test_33_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 158 TFUE establece el objetivo de la política de cohesión económica, social y territorial. ¿Qué debe procurar la Unión?",
+      "options": {
+        "a": "Que todos los Estados miembros tengan el mismo nivel de renta per cápita",
+        "b": "Reducir las diferencias entre los niveles de desarrollo de las diversas regiones y el retraso de las regiones menos favorecidas",
+        "c": "Concentrar la inversión en las regiones más productivas para maximizar el crecimiento",
+        "d": "Crear una política fiscal común que elimine las desigualdades regionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 158 TFUE establece que 'La Unión se propone, en particular, reducir las diferencias entre los niveles de desarrollo de las diversas regiones y el retraso de las regiones o islas menos favorecidas, incluidas las zonas rurales'.",
+      "ley": "TFUE, art. 158"
+    },
+    {
+      "id": "tema_05_test_33_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 157 TFUE establece el principio de igualdad de retribución. ¿Entre quiénes?",
+      "options": {
+        "a": "Entre trabajadores de distintos Estados miembros",
+        "b": "Entre hombres y mujeres para un mismo trabajo o para un trabajo de igual valor",
+        "c": "Entre trabajadores a tiempo completo y a tiempo parcial",
+        "d": "Entre trabajadores del sector público y privado"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 157.1 TFUE establece que 'Cada Estado miembro garantizará la aplicación del principio de igualdad de retribución entre trabajadores y trabajadoras para un mismo trabajo o para un trabajo de igual valor'.",
+      "ley": "TFUE, art. 157.1"
+    },
+    {
+      "id": "tema_05_test_33_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. La Cuarta Parte del TFUE regula la asociación de los países y territorios de ultramar. ¿Cuál es el fin principal de esa asociación según el art. 198?",
+      "options": {
+        "a": "La integración progresiva de los PTU en la Unión Europea",
+        "b": "La promoción del desarrollo económico y social de los países y territorios y el establecimiento de estrechas relaciones económicas entre estos y la Unión",
+        "c": "La explotación conjunta de los recursos naturales de los PTU",
+        "d": "El establecimiento de bases militares de la Unión en los PTU"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 198 TFUE establece que 'El fin de la asociación será la promoción del desarrollo económico y social de los países y territorios, así como el establecimiento de estrechas relaciones económicas entre estos y la Unión en su conjunto'.",
+      "ley": "TFUE, art. 198"
+    },
+    {
+      "id": "tema_05_test_33_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 15.1 TFUE, ¿con qué fin actúan las instituciones, órganos y organismos de la Unión con el mayor respeto posible al principio de apertura?",
+      "options": {
+        "a": "Para favorecer el acceso de los ciudadanos al mercado interior",
+        "b": "Para fomentar una buena gobernanza y garantizar la participación de la sociedad civil",
+        "c": "Para facilitar la cooperación entre los Estados miembros",
+        "d": "Para cumplir con los estándares internacionales de transparencia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.1 TFUE establece que 'A fin de fomentar una buena gobernanza y de garantizar la participación de la sociedad civil, las instituciones, órganos y organismos de la Unión actuarán con el mayor respeto posible al principio de apertura'.",
+      "ley": "TFUE, art. 15.1"
+    }
+  ]
+}

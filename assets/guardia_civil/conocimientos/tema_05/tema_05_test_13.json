@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 13",
+  "preguntas": [
+    {
+      "id": "tema_05_test_13_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 5 TUE distingue la 'delimitación' de las competencias del 'ejercicio' de las competencias. ¿Qué principio rige cada uno?",
+      "options": {
+        "a": "Subsidiariedad para la delimitación y atribución para el ejercicio",
+        "b": "Atribución para la delimitación y subsidiariedad y proporcionalidad para el ejercicio",
+        "c": "Proporcionalidad para la delimitación y atribución para el ejercicio",
+        "d": "Cooperación leal para la delimitación y subsidiariedad para el ejercicio"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 5.1 TUE es claro: 'La delimitación de las competencias de la Unión se rige por el principio de atribución. El ejercicio de las competencias de la Unión se rige por los principios de subsidiariedad y proporcionalidad'.",
+      "ley": "TUE, art. 5.1"
+    },
+    {
+      "id": "tema_05_test_13_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 7.3 TUE permite al Consejo suspender determinados derechos al Estado infractor, 'incluidos los derechos de voto'. ¿A qué votos se refiere?",
+      "options": {
+        "a": "A los votos de los ciudadanos de ese Estado en las elecciones europeas",
+        "b": "A los votos del representante del Gobierno de dicho Estado miembro en el Consejo",
+        "c": "A los votos de los diputados de ese Estado en el Parlamento Europeo",
+        "d": "A los votos del Estado en el Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.3 TUE establece que pueden suspenderse los derechos 'incluidos los derechos de voto del representante del Gobierno de dicho Estado miembro en el Consejo'.",
+      "ley": "TUE, art. 7.3"
+    },
+    {
+      "id": "tema_05_test_13_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.7 TUE (cláusula pasarela), ¿puede utilizarse esta cláusula para materias con repercusiones militares o en el ámbito de la defensa?",
+      "options": {
+        "a": "Sí, con la aprobación adicional del Parlamento Europeo",
+        "b": "Sí, pero solo con unanimidad del Consejo Europeo",
+        "c": "No, el párrafo sobre unanimidad a mayoría cualificada no se aplicará a estas decisiones",
+        "d": "Solo si lo autoriza expresamente la OTAN"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.7 TUE establece expresamente que la cláusula pasarela 'no se aplicará a las decisiones que tengan repercusiones militares o en el ámbito de la defensa'.",
+      "ley": "TUE, art. 48.7"
+    },
+    {
+      "id": "tema_05_test_13_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre la Comisión y la programación legislativa según el art. 17.1 TUE:",
+      "options": {
+        "a": "La Comisión elabora el programa legislativo del Consejo Europeo",
+        "b": "La Comisión adoptará las iniciativas de programación anual y plurianual de la Unión para alcanzar acuerdos interinstitucionales",
+        "c": "El Parlamento Europeo es quien aprueba el programa anual de la Comisión",
+        "d": "El programa legislativo es elaborado conjuntamente por la Comisión y el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.1 TUE establece que la Comisión 'Adoptará las iniciativas de la programación anual y plurianual de la Unión con el fin de alcanzar acuerdos interinstitucionales'.",
+      "ley": "TUE, art. 17.1"
+    },
+    {
+      "id": "tema_05_test_13_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Qué artículo del TUE establece la cláusula de asistencia mutua en caso de agresión armada entre Estados miembros?",
+      "options": {
+        "a": "Art. 43.1 TUE",
+        "b": "Art. 44.1 TUE",
+        "c": "Art. 42.7 TUE",
+        "d": "Art. 46.1 TUE"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 42.7 TUE contiene la cláusula de defensa mutua: 'Si un Estado miembro es objeto de una agresión armada en su territorio, los demás Estados miembros le deberán ayuda y asistencia con todos los medios a su alcance'.",
+      "ley": "TUE, art. 42.7"
+    },
+    {
+      "id": "tema_05_test_13_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.4 TUE, a efectos del cómputo de la mayoría cualificada, ¿cuándo se considera alcanzada aun sin minoría de bloqueo formal?",
+      "options": {
+        "a": "Cuando voten a favor más del 70% de los miembros",
+        "b": "Cuando la minoría de bloqueo esté compuesta por menos de cuatro miembros, en cuyo caso se considerará alcanzada la mayoría cualificada",
+        "c": "Cuando ningún Estado vote en contra",
+        "d": "Cuando lo declare el Presidente del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.4 TUE establece que la minoría de bloqueo requiere 'al menos cuatro miembros del Consejo, a falta de lo cual la mayoría cualificada se considerará alcanzada'. Si solo se oponen tres o menos miembros, no hay minoría de bloqueo.",
+      "ley": "TUE, art. 16.4"
+    },
+    {
+      "id": "tema_05_test_13_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.3 TUE, el principio de cooperación leal implica que los Estados miembros ayudarán a la Unión en el cumplimiento de su misión y se abstendrán de:",
+      "options": {
+        "a": "Negociar acuerdos con terceros países en materias de competencia exclusiva de la Unión",
+        "b": "Toda medida que pueda poner en peligro la consecución de los objetivos de la Unión",
+        "c": "Aplicar medidas de emergencia sin autorización de la Comisión",
+        "d": "Realizar referéndums sobre temas de política europea sin informar al Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.3 TUE establece que los Estados miembros 'se abstendrán de toda medida que pueda poner en peligro la consecución de los objetivos de la Unión'.",
+      "ley": "TUE, art. 4.3"
+    },
+    {
+      "id": "tema_05_test_13_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 19 TUE establece que el Tribunal de Justicia estará compuesto por un juez por Estado miembro. Además, estará asistido por:",
+      "options": {
+        "a": "Magistrados auxiliares",
+        "b": "Abogados generales",
+        "c": "Relatores permanentes",
+        "d": "Jueces adjuntos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.2 TUE establece que el Tribunal de Justicia 'Estará asistido por abogados generales'. Los abogados generales presentan conclusiones en los asuntos sometidos al Tribunal.",
+      "ley": "TUE, art. 19.2"
+    },
+    {
+      "id": "tema_05_test_13_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.6 TUE, la revisión simplificada de la tercera parte del TFUE requiere que la decisión sea aprobada por los Estados miembros 'de conformidad con sus respectivas normas constitucionales'. ¿Cuándo entra en vigor?",
+      "options": {
+        "a": "Inmediatamente tras la aprobación del Consejo Europeo por unanimidad",
+        "b": "Solo tras la aprobación del Parlamento Europeo",
+        "c": "Una vez que haya sido aprobada por los Estados miembros conforme a sus normas constitucionales",
+        "d": "Tras la publicación en el Diario Oficial de la Unión Europea"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.6 TUE establece que la decisión de revisión simplificada 'solo entrará en vigor una vez que haya sido aprobada por los Estados miembros, de conformidad con sus respectivas normas constitucionales'.",
+      "ley": "TUE, art. 48.6"
+    },
+    {
+      "id": "tema_05_test_13_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 11.4 TUE, los procedimientos y condiciones para presentar la iniciativa ciudadana europea se fijarán de conformidad con el artículo:",
+      "options": {
+        "a": "Art. 48 TUE",
+        "b": "Art. 24 TFUE",
+        "c": "Art. 20 TFUE",
+        "d": "Art. 227 TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11.4 TUE establece que los procedimientos 'se fijarán de conformidad con el párrafo primero del artículo 24 del Tratado de Funcionamiento de la Unión Europea'.",
+      "ley": "TUE, art. 11.4"
+    },
+    {
+      "id": "tema_05_test_13_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.5 TUE establece los objetivos de la Unión en sus relaciones con el resto del mundo. Señale cuál de los siguientes SÍ figura en ese artículo:",
+      "options": {
+        "a": "La creación de un ejército europeo de intervención rápida",
+        "b": "El libre comercio justo y la erradicación de la pobreza",
+        "c": "El establecimiento de zonas de influencia geopolítica",
+        "d": "La expansión del modelo político europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.5 TUE establece que la Unión contribuirá al 'comercio libre y justo, la erradicación de la pobreza y la protección de los derechos humanos' en sus relaciones exteriores.",
+      "ley": "TUE, art. 3.5"
+    },
+    {
+      "id": "tema_05_test_13_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, ¿cuándo se produce el nombramiento formal de la Comisión completa por el Consejo Europeo?",
+      "options": {
+        "a": "Inmediatamente después de la elección del Presidente por el Parlamento",
+        "b": "Tras el voto de aprobación colegiada del Parlamento Europeo",
+        "c": "Después de la aprobación individual de cada comisario por el Consejo",
+        "d": "Tras la ratificación por los Parlamentos nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.7 TUE establece la secuencia: el Presidente, el Alto Representante y los demás miembros se someten al voto de aprobación colegiada del Parlamento Europeo y 'sobre la base de dicha aprobación, la Comisión será nombrada por el Consejo Europeo, por mayoría cualificada'.",
+      "ley": "TUE, art. 17.7"
+    },
+    {
+      "id": "tema_05_test_13_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 20.4 TUE establece que los actos de la cooperación reforzada 'no se considerarán acervo que deban aceptar los Estados candidatos'. ¿Qué implica esto?",
+      "options": {
+        "a": "Los Estados candidatos deben negociar su exclusión de dichos actos",
+        "b": "Los nuevos Estados miembros no están obligados a asumir esos actos como condición de adhesión",
+        "c": "Los actos de cooperación reforzada expiran automáticamente al adherirse nuevos Estados",
+        "d": "Los Estados candidatos tienen derecho de veto sobre dichos actos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.4 TUE establece que los actos de cooperación reforzada solo vinculan a los participantes y 'no se considerarán acervo que deban aceptar los Estados candidatos a la adhesión'. Los nuevos miembros no están obligados a adoptarlos.",
+      "ley": "TUE, art. 20.4"
+    },
+    {
+      "id": "tema_05_test_13_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 54.1 TUE, ¿cómo ratifican el Tratado las Altas Partes Contratantes?",
+      "options": {
+        "a": "Mediante acuerdo del Parlamento Europeo",
+        "b": "De conformidad con sus respectivas normas constitucionales",
+        "c": "Por decisión del Consejo Europeo por unanimidad",
+        "d": "Mediante referéndum europeo simultáneo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 54.1 TUE establece que 'El presente Tratado será ratificado por las Altas Partes Contratantes, de conformidad con sus respectivas normas constitucionales'.",
+      "ley": "TUE, art. 54.1"
+    },
+    {
+      "id": "tema_05_test_13_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 42.1 TUE dispone que la ejecución de las misiones de la PCSD 'se apoyará en las capacidades proporcionadas por'. ¿Quiénes?",
+      "options": {
+        "a": "La Agencia Europea de Defensa en exclusiva",
+        "b": "Los Estados miembros",
+        "c": "Las fuerzas multinacionales de la OTAN",
+        "d": "El Comité Militar de la UE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.1 TUE establece que 'La ejecución de estas tareas se apoyará en las capacidades proporcionadas por los Estados miembros'. Las capacidades militares pertenecen a los Estados, no a la Unión.",
+      "ley": "TUE, art. 42.1"
+    },
+    {
+      "id": "tema_05_test_13_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 15.6 TUE enumera las funciones del Presidente del Consejo Europeo. ¿Cuál de las siguientes NO figura entre ellas?",
+      "options": {
+        "a": "Presidir e impulsar los trabajos del Consejo Europeo",
+        "b": "Presentar un informe al Parlamento Europeo tras cada reunión del Consejo Europeo",
+        "c": "Presidir el Consejo de Asuntos Generales",
+        "d": "Asumir la representación exterior en asuntos de política exterior y seguridad común"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 15.6 TUE no atribuye al Presidente del Consejo Europeo la presidencia del Consejo de Asuntos Generales. Esta formación tiene presidencia rotatoria (art. 16.9 TUE). El Presidente del Consejo Europeo preside el Consejo Europeo, no el Consejo.",
+      "ley": "TUE, art. 15.6"
+    },
+    {
+      "id": "tema_05_test_13_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 6.2 TUE, la adhesión de la Unión al CEDH:",
+      "options": {
+        "a": "Modificará las competencias de la Unión definidas en los Tratados",
+        "b": "No modificará las competencias de la Unión definidas en los Tratados",
+        "c": "Ampliará los derechos reconocidos en la Carta de Derechos Fundamentales",
+        "d": "Supondrá la derogación de la Carta de Derechos Fundamentales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6.2 TUE establece expresamente que la adhesión al CEDH 'no modificará las competencias de la Unión que se definen en los Tratados'.",
+      "ley": "TUE, art. 6.2"
+    },
+    {
+      "id": "tema_05_test_13_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.4 TUE, ¿cuándo entran en vigor las modificaciones a los Tratados aprobadas en una Conferencia intergubernamental?",
+      "options": {
+        "a": "Inmediatamente tras su aprobación por la Conferencia",
+        "b": "Tras la publicación en el Diario Oficial de la UE",
+        "c": "Después de haber sido ratificadas por todos los Estados miembros conforme a sus normas constitucionales",
+        "d": "Tras la aprobación del Parlamento Europeo por mayoría de dos tercios"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.4 TUE establece que 'Las modificaciones entrarán en vigor después de haber sido ratificadas por todos los Estados miembros de conformidad con sus respectivas normas constitucionales'.",
+      "ley": "TUE, art. 48.4"
+    },
+    {
+      "id": "tema_05_test_13_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 12.c) TUE, los Parlamentos nacionales participan en los mecanismos de evaluación de las políticas de la Unión en el espacio de libertad, seguridad y justicia de conformidad con el artículo:",
+      "options": {
+        "a": "Art. 68 TFUE",
+        "b": "Art. 70 TFUE",
+        "c": "Art. 72 TFUE",
+        "d": "Art. 85 TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 12.c) TUE establece que los Parlamentos nacionales participarán 'en los mecanismos de evaluación de la aplicación de las políticas de la Unión en dicho espacio, de conformidad con el artículo 70 del Tratado de Funcionamiento de la Unión Europea'.",
+      "ley": "TUE, art. 12.c)"
+    },
+    {
+      "id": "tema_05_test_13_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El TUE establece que la Unión tiene como finalidad promover la paz, sus valores y el bienestar de sus pueblos (art. 3.1) y que sus decisiones se tomarán de la forma más abierta y próxima a los ciudadanos (art. 1). ¿Cómo se denomina la Unión en el art. 1 TUE?",
+      "options": {
+        "a": "Unión Federal Europea",
+        "b": "Estados Unidos de Europa",
+        "c": "Unión Europea",
+        "d": "Comunidad Europea ampliada"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 1 TUE establece que 'las ALTAS PARTES CONTRATANTES constituyen entre sí una UNIÓN EUROPEA, en lo sucesivo denominada «Unión»'.",
+      "ley": "TUE, art. 1"
+    }
+  ]
+}

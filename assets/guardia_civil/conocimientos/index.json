@@ -481,8 +481,209 @@
       "total_preguntas": 1020
     },
     "tema_05": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_20.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 21 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_21.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 22 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_22.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 23 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_23.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 24 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_24.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 25 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_25.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 26 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_26.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 27 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_27.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 28 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_28.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 29 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_29.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 30 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_30.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 31 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_31.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 32 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_32.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 33 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_33.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 34 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_34.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 35 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_35.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 36 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_36.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 37 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_37.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 38 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_38.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 39 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_39.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 40 — Derecho de la Unión Europea",
+          "archivo": "guardia_civil/conocimientos/tema_05/tema_05_test_40.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 800
     },
     "tema_06": {
       "tests": [],

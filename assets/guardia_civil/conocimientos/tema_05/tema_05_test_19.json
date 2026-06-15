@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_05_test_19_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 16.4 TUE establece la mayoría cualificada a partir de noviembre de 2014. Antes de esa fecha se aplicaba el sistema de ponderación de votos. ¿Cuándo expiró definitivamente el régimen transitorio según el art. 16.5 TUE?",
+      "options": {
+        "a": "El 31 de octubre de 2014",
+        "b": "El 31 de marzo de 2017",
+        "c": "El 1 de enero de 2020",
+        "d": "No hay fecha de expiración mencionada en el TUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.5 TUE distingue dos períodos transitorios: las disposiciones aplicables 'hasta el 31 de octubre de 2014' y 'las aplicables entre el 1 de noviembre de 2014 y el 31 de marzo de 2017'. Esta última fecha marca el fin del régimen transitorio.",
+      "ley": "TUE, art. 16.5"
+    },
+    {
+      "id": "tema_05_test_19_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.1 TUE, la Comisión 'Velará por que se apliquen los Tratados'. ¿Qué más vela por que se apliquen?",
+      "options": {
+        "a": "También vela por que se apliquen los actos del Consejo Europeo",
+        "b": "También vela por que se apliquen las medidas adoptadas por las instituciones en virtud de los Tratados",
+        "c": "También vela por que se apliquen las sentencias del Tribunal de Justicia",
+        "d": "También vela por que se apliquen las recomendaciones del Comité Económico y Social"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.1 TUE establece que la Comisión 'Velará por que se apliquen los Tratados y las medidas adoptadas por las instituciones en virtud de estos'.",
+      "ley": "TUE, art. 17.1"
+    },
+    {
+      "id": "tema_05_test_19_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 8.1 TUE establece el objetivo de las relaciones con países vecinos. ¿Qué tipo de espacio pretende establecer la Unión con ellos?",
+      "options": {
+        "a": "Un espacio de libre comercio sin restricciones",
+        "b": "Un espacio de prosperidad y de buena vecindad",
+        "c": "Un espacio de seguridad compartida",
+        "d": "Un espacio de integración política progresiva"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 8.1 TUE establece que la Unión busca 'establecer un espacio de prosperidad y de buena vecindad basado en los valores de la Unión y caracterizado por unas relaciones estrechas y pacíficas fundadas en la cooperación'.",
+      "ley": "TUE, art. 8.1"
+    },
+    {
+      "id": "tema_05_test_19_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.2 TUE, la Unión tiene como objetivo llegar a una defensa común. Hasta que el Consejo Europeo lo decida por unanimidad, ¿qué tipo de política existe?",
+      "options": {
+        "a": "Una política de defensa nacional coordenada",
+        "b": "La definición progresiva de una política común de defensa",
+        "c": "Una política de seguridad colectiva dentro de la OTAN",
+        "d": "Una política de neutralidad armada de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.2 TUE establece que 'La política común de seguridad y defensa incluirá la definición progresiva de una política común de defensa de la Unión. Esta conducirá a una defensa común una vez que el Consejo Europeo lo haya decidido por unanimidad'.",
+      "ley": "TUE, art. 42.2"
+    },
+    {
+      "id": "tema_05_test_19_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El Título V del TUE se titula 'Disposiciones generales relativas a la acción exterior de la Unión y disposiciones específicas relativas a la política exterior y de seguridad común'. ¿Cuántos capítulos tiene?",
+      "options": {
+        "a": "Un capítulo (el de la PESC)",
+        "b": "Dos capítulos (el de disposiciones generales y el de la PESC)",
+        "c": "Tres capítulos",
+        "d": "Solo secciones, sin capítulos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El Título V del TUE tiene dos capítulos: el Capítulo 1 (Disposiciones generales relativas a la acción exterior de la Unión) y el Capítulo 2 (Disposiciones específicas sobre la política exterior y de seguridad común), que incluye secciones sobre la PESC y la PCSD.",
+      "ley": "TUE, Título V"
+    },
+    {
+      "id": "tema_05_test_19_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.3 TUE, los diputados al Parlamento Europeo son elegidos por sufragio universal directo, libre y secreto. ¿Para qué mandato?",
+      "options": {
+        "a": "Para un mandato de cuatro años",
+        "b": "Para un mandato de cinco años",
+        "c": "Para un mandato de seis años",
+        "d": "Para un mandato de tres años"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 14.3 TUE establece que los diputados son elegidos 'para un mandato de cinco años'. Este mandato coincide con el de la Comisión.",
+      "ley": "TUE, art. 14.3"
+    },
+    {
+      "id": "tema_05_test_19_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, ¿qué criterios deben cumplir los candidatos a miembros de la Comisión propuestos por los Estados?",
+      "options": {
+        "a": "Los del párrafo segundo del art. 17.3 y del párrafo segundo del art. 17.5 TUE",
+        "b": "Ser nacionales del Estado que los propone y tener experiencia ministerial",
+        "c": "Haber sido diputados europeos o altos funcionarios de la Unión",
+        "d": "Los que decida el Presidente electo de la Comisión unilateralmente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 17.7 TUE establece que los miembros de la Comisión 'serán seleccionadas, a partir de las propuestas presentadas por los Estados miembros, de acuerdo con los criterios enunciados en el párrafo segundo del apartado 3 y en el párrafo segundo del apartado 5' del art. 17 TUE.",
+      "ley": "TUE, art. 17.7"
+    },
+    {
+      "id": "tema_05_test_19_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 13.1 TUE establece la lista de instituciones. ¿En qué orden las enumera?",
+      "options": {
+        "a": "Comisión, Consejo, Parlamento, Consejo Europeo, TJUE, BCE, Tribunal de Cuentas",
+        "b": "Parlamento Europeo, Consejo Europeo, Consejo, Comisión Europea, TJUE, BCE, Tribunal de Cuentas",
+        "c": "Consejo Europeo, Parlamento Europeo, Consejo, Comisión, BCE, TJUE, Tribunal de Cuentas",
+        "d": "TJUE, Consejo, Parlamento, Comisión, Consejo Europeo, BCE, Tribunal de Cuentas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.1 TUE enumera las instituciones en este orden: el Parlamento Europeo, el Consejo Europeo, el Consejo, la Comisión Europea, el Tribunal de Justicia de la Unión Europea, el Banco Central Europeo y el Tribunal de Cuentas.",
+      "ley": "TUE, art. 13.1"
+    },
+    {
+      "id": "tema_05_test_19_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.3 TUE, los Estados miembros adoptarán todas las medidas para asegurar el cumplimiento de las obligaciones derivadas de los Tratados. ¿Qué tipo de medidas pueden adoptar?",
+      "options": {
+        "a": "Solo medidas legislativas",
+        "b": "Todas las medidas generales o particulares apropiadas",
+        "c": "Solo medidas administrativas",
+        "d": "Las medidas que apruebe la Comisión en cada caso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.3 TUE establece que 'Los Estados miembros adoptarán todas las medidas generales o particulares apropiadas para asegurar el cumplimiento de las obligaciones derivadas de los Tratados o resultantes de los actos de las instituciones de la Unión'.",
+      "ley": "TUE, art. 4.3"
+    },
+    {
+      "id": "tema_05_test_19_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 45.2 TUE menciona que dentro de la Agencia Europea de Defensa se constituirán grupos específicos. ¿Formados por quiénes?",
+      "options": {
+        "a": "Por los Estados que sean miembros de la OTAN",
+        "b": "Por los Estados que realicen proyectos conjuntos",
+        "c": "Por los tres Estados miembros con mayor gasto de defensa",
+        "d": "Por los Estados que participan en la cooperación estructurada permanente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.2 TUE establece que 'Dentro de esta se constituirán grupos específicos, formados por los Estados miembros que realicen proyectos conjuntos'. Su composición depende de quién participa en cada proyecto.",
+      "ley": "TUE, art. 45.2"
+    },
+    {
+      "id": "tema_05_test_19_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 48.6 TUE establece que el procedimiento de revisión simplificado puede ser iniciado por los mismos sujetos que el ordinario. ¿Quiénes son?",
+      "options": {
+        "a": "Solo los Gobiernos de los Estados miembros",
+        "b": "El Gobierno de cualquier Estado miembro, el Parlamento Europeo o la Comisión",
+        "c": "Solo la Comisión",
+        "d": "El Consejo Europeo por propia iniciativa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48.6 TUE establece que 'El Gobierno de cualquier Estado miembro, el Parlamento Europeo o la Comisión podrán presentar al Consejo Europeo proyectos de revisión' para el procedimiento simplificado, igual que en el ordinario.",
+      "ley": "TUE, art. 48.6"
+    },
+    {
+      "id": "tema_05_test_19_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 2 TUE, la sociedad de los Estados miembros se caracteriza por seis rasgos. ¿Cuál de los siguientes NO figura entre ellos?",
+      "options": {
+        "a": "El pluralismo",
+        "b": "La no discriminación",
+        "c": "La laicidad",
+        "d": "La solidaridad"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 2 TUE caracteriza la sociedad de los Estados miembros por el pluralismo, la no discriminación, la tolerancia, la justicia, la solidaridad y la igualdad entre mujeres y hombres. La 'laicidad' no figura entre los rasgos enumerados.",
+      "ley": "TUE, art. 2"
+    },
+    {
+      "id": "tema_05_test_19_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 17.8 TUE regula la responsabilidad de la Comisión ante el Parlamento Europeo. Además de la moción de censura, ¿de qué tipo es esa responsabilidad según el mismo artículo?",
+      "options": {
+        "a": "Individual de cada comisario",
+        "b": "Colegiada",
+        "c": "Solidaria y subsidiaria",
+        "d": "Compartida con el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.8 TUE establece que 'La Comisión tendrá una responsabilidad colegiada ante el Parlamento Europeo'. Esto explica por qué si se aprueba la moción de censura, todos los miembros deben dimitir colectivamente.",
+      "ley": "TUE, art. 17.8"
+    },
+    {
+      "id": "tema_05_test_19_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 15.6 TUE, el Presidente del Consejo Europeo presenta al Parlamento Europeo un informe 'al término de cada reunión'. ¿Cuántas reuniones ordinarias hay al año?",
+      "options": {
+        "a": "Dos reuniones al año",
+        "b": "Cuatro reuniones al año (dos por semestre)",
+        "c": "Seis reuniones al año",
+        "d": "Una reunión por mes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.3 TUE establece que el Consejo Europeo 'se reunirá dos veces por semestre'. Al haber dos semestres en el año, son cuatro reuniones ordinarias anuales. El Presidente presenta un informe tras cada una de ellas.",
+      "ley": "TUE, art. 15.3 y 15.6"
+    },
+    {
+      "id": "tema_05_test_19_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.2 TUE, el representante de cada Estado miembro en el Consejo debe estar facultado para 'comprometer' al Gobierno que representa. ¿Qué rango debe tener ese representante?",
+      "options": {
+        "a": "Debe ser el Jefe de Estado o de Gobierno",
+        "b": "Debe ser de rango ministerial",
+        "c": "Puede ser cualquier funcionario debidamente acreditado",
+        "d": "Debe ser el embajador permanente ante la UE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.2 TUE establece que el Consejo estará 'compuesto por un representante de cada Estado miembro, de rango ministerial, facultado para comprometer al Gobierno del Estado miembro al que represente'.",
+      "ley": "TUE, art. 16.2"
+    },
+    {
+      "id": "tema_05_test_19_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.6 TUE y el art. 46 TUE, la cooperación estructurada permanente se regirá por el art. 46. ¿Qué afirma expresamente el art. 42.6 sobre su relación con el art. 43?",
+      "options": {
+        "a": "La cooperación estructurada permanente sustituye a las misiones del art. 43",
+        "b": "La cooperación estructurada permanente no afectará a lo dispuesto en el art. 43",
+        "c": "Solo los Estados de la cooperación estructurada pueden llevar a cabo misiones del art. 43",
+        "d": "Las misiones del art. 43 deben ser aprobadas por los Estados de la cooperación estructurada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.6 TUE establece que la cooperación estructurada permanente 'se regirá por el artículo 46 y no afectará a lo dispuesto en el artículo 43'. Las misiones del art. 43 pueden realizarlas todos los Estados miembros, no solo los de la cooperación estructurada.",
+      "ley": "TUE, art. 42.6"
+    },
+    {
+      "id": "tema_05_test_19_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 11.3 TUE, la Comisión mantiene amplias consultas con las partes interesadas. ¿Con qué objetivo?",
+      "options": {
+        "a": "Para obtener financiación para sus programas",
+        "b": "Para garantizar la coherencia y la transparencia de las acciones de la Unión",
+        "c": "Para elaborar el presupuesto anual con criterios participativos",
+        "d": "Para cumplir el mandato del Parlamento Europeo en cada legislatura"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11.3 TUE establece que la Comisión mantiene amplias consultas 'Con objeto de garantizar la coherencia y la transparencia de las acciones de la Unión'.",
+      "ley": "TUE, art. 11.3"
+    },
+    {
+      "id": "tema_05_test_19_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 6 TUE tiene tres apartados que regulan los derechos fundamentales desde tres ángulos distintos. ¿Cuál es el ángulo del art. 6.2?",
+      "options": {
+        "a": "La Carta de los Derechos Fundamentales",
+        "b": "La adhesión al Convenio Europeo de Derechos Humanos",
+        "c": "Los principios generales del Derecho de la Unión",
+        "d": "La jurisprudencia del Tribunal de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6 TUE tiene tres fuentes de derechos: art. 6.1 (Carta de los Derechos Fundamentales), art. 6.2 (adhesión al CEDH) y art. 6.3 (principios generales derivados de las tradiciones constitucionales comunes y del CEDH).",
+      "ley": "TUE, art. 6.2"
+    },
+    {
+      "id": "tema_05_test_19_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.3 TUE, ¿qué requisitos debe cumplir el Estado que desea incorporarse tardíamente a la cooperación estructurada permanente?",
+      "options": {
+        "a": "Solo necesita la aprobación de los Estados fundadores",
+        "b": "Debe cumplir los criterios y asumir los compromisos contemplados en los arts. 1 y 2 del Protocolo sobre la cooperación estructurada permanente",
+        "c": "Solo debe tener un gasto de defensa superior al 2% del PIB",
+        "d": "Debe ser miembro de la OTAN y tener fuerzas desplegadas en al menos una misión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.3 TUE establece que el Consejo adoptará la decisión confirmando la participación del Estado 'que cumpla los criterios y asuma los compromisos contemplados en los artículos 1 y 2 del Protocolo sobre la cooperación estructurada permanente'.",
+      "ley": "TUE, art. 46.3"
+    },
+    {
+      "id": "tema_05_test_19_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El TUE en su art. 1 afirma que la Unión sustituyó y sucedió a la Comunidad Europea. ¿Qué consecuencia jurídica principal tiene esta sucesión?",
+      "options": {
+        "a": "La Unión no heredó las deudas de la Comunidad Europea",
+        "b": "La Unión asumió todos los derechos y obligaciones de la Comunidad Europea, incluidos los tratados internacionales suscritos por ella",
+        "c": "Los Reglamentos de la Comunidad Europea perdieron vigencia",
+        "d": "Solo los tratados bilaterales de la Comunidad continuaron en vigor"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Al sustituir y suceder a la Comunidad Europea, la Unión asumió la continuidad jurídica completa: todos los actos jurídicos, los tratados internacionales, los derechos y obligaciones de la Comunidad Europea.",
+      "ley": "TUE, art. 1"
+    }
+  ]
+}

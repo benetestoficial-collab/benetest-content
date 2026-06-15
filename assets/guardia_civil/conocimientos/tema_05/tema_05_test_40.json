@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 40",
+  "preguntas": [
+    {
+      "id": "tema_05_test_40_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 335 TFUE regula la personalidad jurídica de la Unión en los Estados miembros. ¿Con qué capacidad jurídica más amplia cuenta?",
+      "options": {
+        "a": "Con la capacidad jurídica reconocida por el Consejo Europeo",
+        "b": "Con la más amplia capacidad jurídica reconocida por las legislaciones nacionales de los Estados miembros",
+        "c": "Solo con la capacidad necesaria para ejercer sus funciones",
+        "d": "Con la misma capacidad jurídica que las personas físicas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 335 TFUE establece que 'En cada uno de los Estados miembros, la Unión posee la más amplia capacidad jurídica que las legislaciones nacionales reconocen a las personas jurídicas'.",
+      "ley": "TFUE, art. 335"
+    },
+    {
+      "id": "tema_05_test_40_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 340 TFUE regula la responsabilidad extracontractual de la Unión. ¿Conforme a qué principios generales responderá la Unión?",
+      "options": {
+        "a": "Conforme al Derecho del Estado miembro donde se produjo el daño",
+        "b": "Conforme a los principios generales comunes a los Derechos de los Estados miembros",
+        "c": "Conforme al Derecho de la Unión Europea aprobado por el Parlamento Europeo",
+        "d": "Conforme a los principios del Derecho internacional de responsabilidad del Estado"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 340.2 TFUE establece que 'En materia de responsabilidad extracontractual, la Unión deberá reparar los daños causados por sus instituciones o sus agentes en el ejercicio de sus funciones, de conformidad con los principios generales comunes a los Derechos de los Estados miembros'.",
+      "ley": "TFUE, art. 340.2"
+    },
+    {
+      "id": "tema_05_test_40_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 352 TFUE establece la llamada 'cláusula de flexibilidad'. ¿Cuándo puede utilizarse?",
+      "options": {
+        "a": "Siempre que la Comisión lo proponga al Consejo",
+        "b": "Cuando se considere necesaria una acción de la Unión en el ámbito de las políticas definidas por los Tratados para alcanzar sus objetivos y el Tratado no haya previsto los poderes de acción necesarios",
+        "c": "Solo en situaciones de crisis económica grave",
+        "d": "Para ampliar las competencias de la Unión en cualquier nuevo ámbito"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 352.1 TFUE establece que 'Cuando se considere necesaria una acción de la Unión en el ámbito de las políticas definidas en los Tratados para alcanzar uno de los objetivos fijados por estos, sin que los Tratados hayan previsto los poderes de acción necesarios a tal efecto, el Consejo adoptará las disposiciones adecuadas, pronunciándose por unanimidad, a propuesta de la Comisión y previa aprobación del Parlamento Europeo'.",
+      "ley": "TFUE, art. 352.1"
+    },
+    {
+      "id": "tema_05_test_40_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 352.3 TFUE establece un límite importante a la cláusula de flexibilidad. ¿Cuál es?",
+      "options": {
+        "a": "No puede usarse más de cinco veces en cada legislatura",
+        "b": "Las medidas adoptadas en virtud del art. 352 no podrán conllevar armonización alguna en los casos en que los Tratados excluyan dicha armonización",
+        "c": "Solo puede usarse para políticas ya existentes, no para crear nuevas",
+        "d": "Requiere la ratificación de al menos la mitad de los Parlamentos nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 352.3 TFUE establece que 'Las medidas basadas en el presente artículo no podrán conllevar armonización alguna de las disposiciones legales y reglamentarias de los Estados miembros en los casos en que los Tratados excluyan dicha armonización'.",
+      "ley": "TFUE, art. 352.3"
+    },
+    {
+      "id": "tema_05_test_40_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 354 TFUE regula las modalidades de voto en los procedimientos del art. 7 TUE (valores y sanciones). Según el art. 354 TFUE, ¿qué miembro del Consejo no tendrá derecho de voto?",
+      "options": {
+        "a": "El representante del Estado miembro que inició el procedimiento",
+        "b": "El representante del Estado miembro afectado cuando el Consejo vote las medidas del art. 7.3 TUE",
+        "c": "El Presidente del Consejo",
+        "d": "El Alto Representante cuando preside el Consejo de Asuntos Exteriores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 354 TFUE establece que 'A los efectos del artículo 7 del Tratado de la Unión Europea, el representante del Estado miembro en cuestión no participará en la votación y el Estado miembro en cuestión no se tomará en cuenta para el cálculo de la mayoría de dos tercios de los miembros del Consejo'.",
+      "ley": "TFUE, art. 354"
+    },
+    {
+      "id": "tema_05_test_40_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 355 TFUE determina el ámbito de aplicación territorial de los Tratados. ¿A qué territorios se aplican los Tratados según su apartado 3?",
+      "options": {
+        "a": "Solo a los territorios metropolitanos de los Estados miembros",
+        "b": "A los territorios europeos cuyas relaciones exteriores asuma un Estado miembro",
+        "c": "Solo a los territorios mencionados en el Anexo I del TFUE",
+        "d": "A todos los territorios del mundo donde haya ciudadanos europeos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 355.3 TFUE establece que los Tratados se aplicarán 'a los territorios europeos cuyas relaciones exteriores asuma un Estado miembro'. Esto incluye, por ejemplo, Gibraltar (Reino Unido), que al tiempo del texto del Tratado estaba incluido aunque ya no esté en la UE.",
+      "ley": "TFUE, art. 355.3"
+    },
+    {
+      "id": "tema_05_test_40_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 358 TFUE es el artículo final del TFUE y establece su duración. ¿Por qué período se concluye el TFUE?",
+      "options": {
+        "a": "Por un período de 50 años renovables",
+        "b": "Por un período de tiempo ilimitado",
+        "c": "Por un período de 99 años",
+        "d": "Hasta la creación de la Constitución Europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 358 TFUE establece que 'El presente Tratado se concluye por un período de tiempo ilimitado'. Igual que el TUE (art. 53 TUE), el TFUE tiene duración indefinida.",
+      "ley": "TFUE, art. 358"
+    },
+    {
+      "id": "tema_05_test_40_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. Según el art. 1 TUE en relación con el art. 1 TFUE, ¿cuántos Tratados constituyen la base jurídica de la Unión Europea?",
+      "options": {
+        "a": "Uno: el Tratado de la Unión Europea",
+        "b": "Dos: el TUE y el TFUE, con el mismo valor jurídico",
+        "c": "Tres: el TUE, el TFUE y la Carta de los Derechos Fundamentales",
+        "d": "Cuatro: los Tratados fundacionales y los Tratados de reforma"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 1 TUE establece que 'La Unión se fundamenta en el presente Tratado y en el Tratado de Funcionamiento de la Unión Europea' y el art. 1 TFUE confirma que 'El presente Tratado y el Tratado de la Unión Europea constituyen los Tratados sobre los que se fundamenta la Unión. Estos dos Tratados, que tienen el mismo valor jurídico, se designarán con la expresión «los Tratados»'.",
+      "ley": "TUE, art. 1 y TFUE, art. 1"
+    },
+    {
+      "id": "tema_05_test_40_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El art. 2 TUE enumera los valores de la Unión. ¿Y qué categorías de competencias enumera el art. 2 TFUE?",
+      "options": {
+        "a": "El art. 2 TFUE enumera solo competencias exclusivas y compartidas",
+        "b": "El art. 2 TFUE enumera competencias exclusivas (art. 2.1), compartidas (art. 2.2), coordinación (art. 2.3), política exterior (art. 2.4) y apoyo (art. 2.5)",
+        "c": "El art. 2 TFUE enumera competencias legislativas y ejecutivas",
+        "d": "El art. 2 TFUE enumera competencias nacionales y europeas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 2 TFUE establece un sistema de cinco categorías de competencias: 2.1 (exclusivas), 2.2 (compartidas), 2.3 (coordinación de políticas económicas y de empleo), 2.4 (política exterior y de seguridad común) y 2.5 (apoyo, coordinación o complemento).",
+      "ley": "TFUE, art. 2"
+    },
+    {
+      "id": "tema_05_test_40_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El art. 13.1 TUE enumera las 7 instituciones de la Unión. ¿Cuáles son los actos jurídicos que esas instituciones pueden adoptar según el art. 288 TFUE?",
+      "options": {
+        "a": "Leyes, decretos y resoluciones",
+        "b": "Reglamentos, directivas, decisiones, recomendaciones y dictámenes",
+        "c": "Tratados, reglamentos y directivas",
+        "d": "Decisiones, directivas y comunicaciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 288 TFUE establece que 'Para ejercer las competencias de la Unión, las instituciones adoptarán reglamentos, directivas, decisiones, recomendaciones y dictámenes'. Son los cinco tipos de actos jurídicos de la Unión.",
+      "ley": "TFUE, art. 288"
+    },
+    {
+      "id": "tema_05_test_40_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El TUE tiene 6 Títulos y 55 artículos. ¿Cuántas Partes tiene el TFUE?",
+      "options": {
+        "a": "Tres Partes",
+        "b": "Cinco Partes",
+        "c": "Siete Partes",
+        "d": "Nueve Partes"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El TFUE se divide en Siete Partes: Primera (Principios), Segunda (No discriminación y ciudadanía), Tercera (Políticas y acciones internas), Cuarta (Asociación de los países y territorios de ultramar), Quinta (Acción exterior), Sexta (Disposiciones institucionales y financieras) y Séptima (Disposiciones generales y finales).",
+      "ley": "TFUE - Estructura"
+    },
+    {
+      "id": "tema_05_test_40_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El art. 5 TUE establece tres principios que rigen las competencias. El art. 5 TUE distingue entre la 'delimitación' y el 'ejercicio' de competencias. ¿Qué diferencia hay entre el principio de subsidiariedad y el de proporcionalidad?",
+      "options": {
+        "a": "Son el mismo principio con distintos nombres",
+        "b": "La subsidiariedad determina si la Unión debe actuar (¿quién actúa mejor?); la proporcionalidad determina cómo debe actuar (¿cuánto?): el contenido y forma de la acción no excederán de lo necesario",
+        "c": "La subsidiariedad se aplica a las instituciones y la proporcionalidad a los Estados",
+        "d": "La subsidiariedad es para legislación y la proporcionalidad para ejecución"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El principio de subsidiariedad (art. 5.3 TUE) determina si la Unión debe actuar: solo actúa cuando los objetivos no pueden alcanzarse suficientemente por los Estados miembros y pueden alcanzarse mejor a escala de la Unión. El principio de proporcionalidad (art. 5.4 TUE) determina cómo: el contenido y la forma de la acción de la Unión no excederán de lo necesario para alcanzar los objetivos.",
+      "ley": "TUE, art. 5.3 y 5.4"
+    },
+    {
+      "id": "tema_05_test_40_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El art. 19.3 TUE enumera las tres grandes competencias del Tribunal de Justicia de la Unión Europea. ¿Cuáles son?",
+      "options": {
+        "a": "Recursos de anulación, recursos por omisión y recursos de incumplimiento",
+        "b": "Pronunciarse sobre los recursos interpuestos por los Estados o las instituciones, sobre los planteados por los órganos jurisdiccionales nacionales con carácter prejudicial, y en los demás casos previstos por los Tratados",
+        "c": "Control de legalidad, interpretación y ejecución de sentencias",
+        "d": "Recursos directos, reenvíos prejudiciales y recursos de casación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.3 TUE establece tres tipos de competencias: a) se pronunciará sobre los recursos interpuestos por los Estados miembros, por las instituciones o por los particulares; b) resolverá con carácter prejudicial, a petición de los órganos jurisdiccionales nacionales, sobre la interpretación del Derecho de la Unión o la validez de los actos; c) se pronunciará en los demás casos previstos por los Tratados.",
+      "ley": "TUE, art. 19.3"
+    },
+    {
+      "id": "tema_05_test_40_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. La democracia es uno de los valores fundamentales de la Unión (art. 2 TUE). ¿En qué artículo del TUE se regula el principio de democracia representativa y participativa?",
+      "options": {
+        "a": "Arts. 9 y 10-11 TUE",
+        "b": "Arts. 1 y 2 TUE",
+        "c": "Arts. 14 y 15 TUE",
+        "d": "Arts. 20 y 21 TUE"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El Título II del TUE (arts. 9-12) regula los principios democráticos: art. 9 (ciudadanía), art. 10 (democracia representativa y partidos políticos), art. 11 (democracia participativa, consulta e iniciativa ciudadana), art. 12 (rol de los Parlamentos nacionales).",
+      "ley": "TUE, arts. 9-12"
+    },
+    {
+      "id": "tema_05_test_40_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El art. 50 TUE regula la retirada voluntaria de un Estado miembro. El art. 49 TUE regula la adhesión. ¿Qué artículo del TUE permite que un Estado retirado vuelva a adherirse?",
+      "options": {
+        "a": "El art. 50.5 TUE establece que el Estado que se retira puede volver a solicitar su adhesión conforme al art. 49 TUE",
+        "b": "El art. 48 TUE a través de revisión de los Tratados",
+        "c": "No existe ningún procedimiento para la readmisión de un Estado que se ha retirado",
+        "d": "El art. 51 TUE regula la readmisión mediante procedimiento especial"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 50.5 TUE establece que 'Si el Estado miembro que se ha retirado de la Unión solicita de nuevo la adhesión, su solicitud se someterá al procedimiento establecido en el artículo 49'. Puede volver a solicitar la adhesión, pero siguiendo el procedimiento ordinario de adhesión.",
+      "ley": "TUE, art. 50.5"
+    },
+    {
+      "id": "tema_05_test_40_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El TUE en su art. 6 reconoce tres fuentes de derechos fundamentales. El TFUE en su art. 19 autoriza acciones contra la discriminación. ¿Qué motivos de discriminación cubren ambos marcos normativos combinados?",
+      "options": {
+        "a": "Solo el sexo y la raza",
+        "b": "El art. 6 TUE remite a la Carta (que protege una amplia gama de derechos fundamentales) y al CEDH; el art. 19 TFUE enumera: sexo, origen racial o étnico, religión o convicciones, discapacidad, edad y orientación sexual",
+        "c": "Solo los motivos económicos y sociales",
+        "d": "Únicamente los motivos enumerados en el CEDH"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6 TUE establece tres fuentes de derechos fundamentales (Carta, CEDH y principios generales), mientras que el art. 19 TFUE autoriza específicamente medidas contra la discriminación por razón de sexo, origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual.",
+      "ley": "TUE, art. 6 y TFUE, art. 19"
+    },
+    {
+      "id": "tema_05_test_40_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. ¿Qué relación existe entre la política agrícola común (PAC), la política de cohesión, la política de investigación y la política social en términos del procedimiento legislativo para su adopción?",
+      "options": {
+        "a": "Todas se aprueban por unanimidad del Consejo",
+        "b": "La mayoría de los actos normativos de estas políticas se aprueban mediante el procedimiento legislativo ordinario (Parlamento Europeo + Consejo a propuesta de la Comisión)",
+        "c": "Todas se aprueban por decisión de la Comisión sin intervención del Consejo",
+        "d": "Todas se aprueban por el Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Salvo excepciones expresas, el procedimiento legislativo ordinario (arte. 289 TFUE) es el procedimiento general de la Unión. Las principales medidas de la PAC (art. 43.2 TFUE), la cohesión (art. 177 TFUE), la investigación (art. 182 TFUE) y la política social (art. 153.2 TFUE) se adoptan mayoritariamente por este procedimiento.",
+      "ley": "TFUE, art. 289"
+    },
+    {
+      "id": "tema_05_test_40_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El art. 352.4 TFUE establece un límite a la cláusula de flexibilidad en relación con el TUE. ¿Cuál es ese límite?",
+      "options": {
+        "a": "No puede utilizarse para modificar el presupuesto de la Unión",
+        "b": "No podrá utilizarse para lograr objetivos del ámbito de la política exterior y de seguridad común, y los actos adoptados conforme al art. 352 no podrán introducir una modificación de los Tratados",
+        "c": "Solo puede utilizarse con el acuerdo unánime del Consejo Europeo",
+        "d": "No puede utilizarse en materias donde existe legislación de armonización máxima"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 352.4 TFUE establece que 'El presente artículo no podrá servir de base para lograr objetivos del ámbito de la política exterior y de seguridad común' y el art. 352.1 TFUE añade que 'Los actos adoptados mediante el procedimiento correspondiente no podrán conllevar armonización alguna de las disposiciones legales y reglamentarias de los Estados miembros en los casos en que los Tratados excluyan dicha armonización'.",
+      "ley": "TFUE, art. 352.4"
+    },
+    {
+      "id": "tema_05_test_40_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. El Espacio de Libertad, Seguridad y Justicia (ELSJ) incluye la cooperación policial y judicial. ¿Qué diferencia principal existe entre Eurojust (art. 85 TFUE) y Europol (art. 88 TFUE) en cuanto a sus funciones?",
+      "options": {
+        "a": "Eurojust actúa en materia penal y Europol en materia civil",
+        "b": "Eurojust apoya la cooperación entre autoridades judiciales nacionales en delincuencia grave transfronteriza y puede proponer iniciar diligencias penales; Europol apoya a las autoridades policiales pero sin poder ejercer medidas coercitivas directamente",
+        "c": "Eurojust actúa dentro de la UE y Europol fuera de la UE",
+        "d": "Eurojust tiene poderes de detención y Europol solo de investigación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Eurojust (art. 85 TFUE) apoya la cooperación judicial, puede proponer iniciar diligencias penales y coordinar investigaciones, pero los actos procesales los llevan a cabo los funcionarios nacionales. Europol (art. 88 TFUE) apoya a las autoridades policiales, pero 'la aplicación de medidas coercitivas corresponderá exclusivamente a las autoridades nacionales competentes'.",
+      "ley": "TFUE, arts. 85 y 88"
+    },
+    {
+      "id": "tema_05_test_40_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. REPASO GLOBAL. Para terminar, ¿qué Tratado firmado en qué ciudad y qué año dio lugar al Tratado de la Unión Europea que actualmente está en vigor (en su versión consolidada)?",
+      "options": {
+        "a": "El Tratado de Roma, 1957",
+        "b": "El Tratado de Maastricht (1992) —firmado el 7 de febrero de 1992—, en la versión modificada más recientemente por el Tratado de Lisboa (firmado el 13 de diciembre de 2007 y en vigor desde el 1 de diciembre de 2009)",
+        "c": "El Tratado de Ámsterdam, 1997",
+        "d": "El Tratado de Niza, 2001"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El TUE fue firmado en Maastricht el 7 de febrero de 1992 y entró en vigor el 1 de noviembre de 1993. Ha sido modificado por los Tratados de Ámsterdam (1997), Niza (2001) y Lisboa (2007, en vigor desde el 1 de diciembre de 2009). La versión actualmente en vigor es la resultante del Tratado de Lisboa.",
+      "ley": "TUE, art. 54"
+    }
+  ]
+}

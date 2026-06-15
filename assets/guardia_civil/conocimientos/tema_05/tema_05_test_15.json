@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 15",
+  "preguntas": [
+    {
+      "id": "tema_05_test_15_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 6.1 TUE, ¿qué relación tiene la Carta de los Derechos Fundamentales con las competencias de la Unión?",
+      "options": {
+        "a": "Amplía las competencias de la Unión para proteger los derechos en ella reconocidos",
+        "b": "No amplía en modo alguno las competencias de la Unión tal como se definen en los Tratados",
+        "c": "Crea nuevas competencias en el ámbito de los derechos fundamentales",
+        "d": "Permite a la Unión actuar en cualquier materia relacionada con los derechos fundamentales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6.1 TUE es taxativo: 'Las disposiciones de la Carta no ampliarán en modo alguno las competencias de la Unión tal como se definen en los Tratados'. La Carta es un instrumento de derechos, no de atribución de competencias.",
+      "ley": "TUE, art. 6.1"
+    },
+    {
+      "id": "tema_05_test_15_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.6 TUE, el Consejo de Asuntos Exteriores elaborará la acción exterior de la Unión 'atendiendo a las líneas estratégicas' definidas por:",
+      "options": {
+        "a": "La Comisión Europea",
+        "b": "El Alto Representante",
+        "c": "El Consejo Europeo",
+        "d": "El Parlamento Europeo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 16.6 TUE establece que el Consejo de Asuntos Exteriores elaborará la acción exterior 'atendiendo a las líneas estratégicas definidas por el Consejo Europeo'. El Consejo Europeo fija la estrategia y el Consejo de Asuntos Exteriores la desarrolla.",
+      "ley": "TUE, art. 16.6"
+    },
+    {
+      "id": "tema_05_test_15_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.2 TUE, ¿quién decide la composición del Parlamento Europeo conforme al principio de representación decrecientemente proporcional?",
+      "options": {
+        "a": "El Parlamento Europeo a iniciativa propia",
+        "b": "El Consejo Europeo por unanimidad, a iniciativa del Parlamento Europeo y con su aprobación",
+        "c": "La Comisión Europea mediante propuesta legislativa",
+        "d": "El Consejo por mayoría cualificada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 14.2 TUE establece que 'El Consejo Europeo adoptará por unanimidad, a iniciativa del Parlamento Europeo y con su aprobación, una decisión por la que se fije la composición del Parlamento Europeo'.",
+      "ley": "TUE, art. 14.2"
+    },
+    {
+      "id": "tema_05_test_15_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 45.1.d) TUE establece que la Agencia Europea de Defensa apoyará la investigación sobre tecnología de defensa. ¿Qué más coordina y planifica?",
+      "options": {
+        "a": "La adquisición centralizada de armamento para todos los Estados miembros",
+        "b": "Actividades de investigación conjuntas y estudios de soluciones técnicas para futuras necesidades operativas",
+        "c": "Los planes de modernización de las fuerzas armadas nacionales",
+        "d": "La formación de pilotos y marineros en centros europeos comunes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.1.d) TUE establece que la Agencia 'Apoyar la investigación sobre tecnología de defensa y coordinar y planificar actividades de investigación conjuntas y estudios de soluciones técnicas que respondan a las futuras necesidades operativas'.",
+      "ley": "TUE, art. 45.1.d)"
+    },
+    {
+      "id": "tema_05_test_15_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 7.3 TUE permite al Consejo suspender derechos al Estado infractor. Al proceder a esa suspensión, el Consejo tendrá en cuenta:",
+      "options": {
+        "a": "Las consecuencias económicas para los demás Estados miembros",
+        "b": "Las posibles consecuencias de la misma para los derechos y obligaciones de las personas físicas y jurídicas",
+        "c": "La duración mínima de la suspensión para que sea efectiva",
+        "d": "La opinión del Tribunal de Justicia sobre la proporcionalidad de la medida"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.3 TUE establece que 'Al proceder a dicha suspensión, el Consejo tendrá en cuenta las posibles consecuencias de la misma para los derechos y obligaciones de las personas físicas y jurídicas'.",
+      "ley": "TUE, art. 7.3"
+    },
+    {
+      "id": "tema_05_test_15_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 13.1 TUE establece el marco institucional de la Unión. ¿Qué garantía establece ese mismo artículo respecto a la coherencia de la acción de la Unión?",
+      "options": {
+        "a": "El Consejo vela por la coherencia de las políticas",
+        "b": "La coherencia, eficacia y continuidad de las políticas y acciones forma parte de la finalidad del marco institucional",
+        "c": "La Comisión publica anualmente un informe de coherencia",
+        "d": "El Tribunal de Justicia controla la coherencia de la acción institucional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.1 TUE establece que el marco institucional tiene como finalidad 'garantizar la coherencia, eficacia y continuidad de sus políticas y acciones', entre otros objetivos.",
+      "ley": "TUE, art. 13.1"
+    },
+    {
+      "id": "tema_05_test_15_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, los miembros de la Comisión (distintos del Presidente y del Alto Representante) son seleccionados a partir de propuestas de:",
+      "options": {
+        "a": "Los grupos parlamentarios del Parlamento Europeo",
+        "b": "Los Estados miembros",
+        "c": "La propia Comisión saliente",
+        "d": "El Consejo Europeo con acuerdo del Presidente electo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.7 TUE establece que los demás miembros de la Comisión 'serán seleccionadas, a partir de las propuestas presentadas por los Estados miembros, de acuerdo con los criterios enunciados'.",
+      "ley": "TUE, art. 17.7"
+    },
+    {
+      "id": "tema_05_test_15_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 4.2 TUE dispone que la Unión respetará las funciones esenciales del Estado en materia de 'orden público'. ¿Cómo se conecta esto con la seguridad nacional?",
+      "options": {
+        "a": "La seguridad nacional y el orden público son competencias compartidas entre la Unión y los Estados",
+        "b": "Mantener el orden público es función del Estado, y la seguridad nacional es responsabilidad exclusiva de cada Estado miembro",
+        "c": "Ambas son competencias exclusivas de la Unión para garantizar la coherencia",
+        "d": "La Unión coordina las políticas de orden público y los Estados gestionan la seguridad nacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.2 TUE distingue entre 'mantener el orden público' (función del Estado que la Unión respeta) y la seguridad nacional, de la que dice que 'seguirá siendo responsabilidad exclusiva de cada Estado miembro'.",
+      "ley": "TUE, art. 4.2"
+    },
+    {
+      "id": "tema_05_test_15_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuál es la denominación completa del procedimiento que se regula en el art. 48.3 TUE para revisar los Tratados con Convención?",
+      "options": {
+        "a": "Procedimiento de revisión urgente",
+        "b": "Procedimiento de revisión simplificado",
+        "c": "Procedimiento de revisión ordinario",
+        "d": "Procedimiento de revisión constitucional"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.1 TUE denomina 'procedimiento de revisión ordinario' al procedimiento que puede implicar la convocatoria de una Convención, regulado en el art. 48.2 a 48.5 TUE.",
+      "ley": "TUE, art. 48.1 y 48.3"
+    },
+    {
+      "id": "tema_05_test_15_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.1 TUE, ¿cuál es la relación entre la cooperación reforzada y el principio de integración de la Unión?",
+      "options": {
+        "a": "La cooperación reforzada frena la integración al crear grupos de Estados distintos",
+        "b": "La cooperación reforzada tiene por finalidad, entre otras, reforzar el proceso de integración de la Unión",
+        "c": "La cooperación reforzada es neutral respecto al proceso de integración",
+        "d": "La cooperación reforzada sustituye al proceso de integración general cuando este no progresa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.1 TUE establece que 'La finalidad de las cooperaciones reforzadas será impulsar los objetivos de la Unión, proteger sus intereses y reforzar su proceso de integración'. La cooperación reforzada está al servicio de la integración.",
+      "ley": "TUE, art. 20.1"
+    },
+    {
+      "id": "tema_05_test_15_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.4 TUE, ¿a iniciativa de quién puede el Alto Representante proponer misiones de la PCSD?",
+      "options": {
+        "a": "Por iniciativa propia exclusivamente",
+        "b": "Solo a propuesta de un Estado miembro",
+        "c": "A propuesta del Alto Representante o a iniciativa de un Estado miembro",
+        "d": "A propuesta de la Comisión y el Alto Representante conjuntamente"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 42.4 TUE establece que el Consejo adoptará las decisiones sobre la PCSD 'a propuesta del Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad o a iniciativa de un Estado miembro'.",
+      "ley": "TUE, art. 42.4"
+    },
+    {
+      "id": "tema_05_test_15_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 52 TUE, ¿se aplican los Tratados a Rumanía?",
+      "options": {
+        "a": "No, Rumanía no es Estado miembro de la Unión Europea",
+        "b": "Sí, el art. 52 TUE menciona expresamente a Rumanía",
+        "c": "Solo parcialmente, mediante acuerdo de asociación",
+        "d": "Sí, pero solo desde la ratificación del Tratado de Lisboa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 52 TUE enumera los Estados a los que se aplican los Tratados, y entre ellos figura expresamente 'Rumanía', que es miembro de la Unión Europea desde 2007.",
+      "ley": "TUE, art. 52"
+    },
+    {
+      "id": "tema_05_test_15_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 55.2 TUE prevé que el Tratado pueda traducirse a otras lenguas con estatuto oficial en un Estado miembro. ¿Qué sucede con esas traducciones?",
+      "options": {
+        "a": "Son igualmente auténticas a las 23 versiones oficiales",
+        "b": "El Estado miembro facilitará una copia certificada que se depositará en los archivos del Consejo",
+        "c": "Solo tienen valor como documentos informativos para los ciudadanos",
+        "d": "Son aprobadas formalmente por el Consejo para adquirir validez"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 55.2 TUE establece que 'El Estado miembro de que se trate facilitará una copia certificada de estas traducciones, que se depositará en los archivos del Consejo'. No son versiones auténticas, pero sí copias certificadas.",
+      "ley": "TUE, art. 55.2"
+    },
+    {
+      "id": "tema_05_test_15_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre las funciones del Alto Representante según el art. 18 TUE:",
+      "options": {
+        "a": "Está al frente de la política exterior y de seguridad común",
+        "b": "Contribuye con sus propuestas a elaborar la política exterior y la ejecuta como mandatario del Consejo",
+        "c": "Vela por la coherencia de la acción exterior de la Unión",
+        "d": "Es responsable de la ejecución del presupuesto destinado a la acción exterior"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 18 TUE no atribuye al Alto Representante la función de ejecución presupuestaria. Esa es una función de la Comisión (art. 17.1 TUE). El Alto Representante vela por la coherencia, elabora y ejecuta la política exterior.",
+      "ley": "TUE, art. 18 y art. 17.1"
+    },
+    {
+      "id": "tema_05_test_15_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3 TUE, ¿cuántos apartados tiene ese artículo sobre los objetivos y finalidades de la Unión?",
+      "options": {
+        "a": "Tres apartados",
+        "b": "Cuatro apartados",
+        "c": "Cinco apartados",
+        "d": "Seis apartados"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 3 TUE tiene seis apartados: el 3.1 (promover la paz), 3.2 (espacio de libertad, seguridad y justicia), 3.3 (mercado interior y cohesión), 3.4 (unión económica y monetaria), 3.5 (relaciones exteriores) y 3.6 (medios para alcanzar los objetivos).",
+      "ley": "TUE, art. 3"
+    },
+    {
+      "id": "tema_05_test_15_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.7 TUE, ¿qué mayoría necesita el Consejo Europeo para adoptar una decisión de cláusula pasarela de unanimidad a mayoría cualificada?",
+      "options": {
+        "a": "Mayoría simple",
+        "b": "Mayoría cualificada",
+        "c": "Unanimidad previa aprobación del Parlamento Europeo",
+        "d": "Mayoría de dos tercios"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.7 TUE establece que 'el Consejo Europeo se pronunciará por unanimidad, previa aprobación del Parlamento Europeo, que se pronunciará por mayoría de los miembros que lo componen'.",
+      "ley": "TUE, art. 48.7"
+    },
+    {
+      "id": "tema_05_test_15_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 42.3 TUE establece que los Estados miembros se comprometen a mejorar progresivamente sus capacidades militares. ¿Qué tipo de capacidades deben poner a disposición de la PCSD?",
+      "options": {
+        "a": "Solo capacidades militares",
+        "b": "Capacidades civiles y militares",
+        "c": "Solo capacidades civiles de gestión de crisis",
+        "d": "Exclusivamente fuerzas de gendarmería y policía"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.3 TUE establece que 'Los Estados miembros pondrán a disposición de la Unión, a efectos de la aplicación de la política común de seguridad y defensa, capacidades civiles y militares'.",
+      "ley": "TUE, art. 42.3"
+    },
+    {
+      "id": "tema_05_test_15_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Título I del TUE se denomina 'Disposiciones Comunes'. El Título II, 'Disposiciones sobre los Principios Democráticos'. ¿Cómo se titula el Título III?",
+      "options": {
+        "a": "Disposiciones sobre la Ciudadanía",
+        "b": "Disposiciones sobre las Instituciones",
+        "c": "Disposiciones sobre las Cooperaciones Reforzadas",
+        "d": "Disposiciones sobre la Acción Exterior"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El Título III del TUE se titula 'DISPOSICIONES SOBRE LAS INSTITUCIONES' y contiene los arts. 13 a 19, regulando el marco institucional de la Unión.",
+      "ley": "TUE, Título III"
+    },
+    {
+      "id": "tema_05_test_15_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.2 TUE, los jueces del Tribunal de Justicia deben ser elegidos 'de entre personalidades que ofrezcan plenas garantías de independencia'. ¿Qué condiciones adicionales deben reunir?",
+      "options": {
+        "a": "Deben tener al menos 50 años de edad y experiencia judicial mínima de 20 años",
+        "b": "Las que contemplen los artículos 253 y 254 TFUE",
+        "c": "Deben ser nombrados con el refrendo del Parlamento Europeo",
+        "d": "Deben ser propuestos por el Tribunal Constitucional de cada Estado miembro"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.2 TUE establece que los jueces 'serán elegidos de entre personalidades que ofrezcan plenas garantías de independencia y que reúnan las condiciones contempladas en los artículos 253 y 254 del Tratado de Funcionamiento de la Unión Europea'.",
+      "ley": "TUE, art. 19.2"
+    },
+    {
+      "id": "tema_05_test_15_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 49 TUE, ¿qué valor tiene la consulta a la Comisión antes de que el Consejo se pronuncie sobre la adhesión?",
+      "options": {
+        "a": "Es un dictamen vinculante que puede bloquear la adhesión",
+        "b": "Es una consulta preceptiva pero no vinculante",
+        "c": "Es un mero trámite que el Consejo puede omitir por razones de urgencia",
+        "d": "Su resultado puede ser recurrido por el Estado solicitante ante el Tribunal de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 49 TUE establece que el Consejo 'se pronunciará por unanimidad después de haber consultado a la Comisión'. Es una consulta preceptiva (obligatoria) pero el Consejo no está vinculado por la opinión de la Comisión.",
+      "ley": "TUE, art. 49"
+    }
+  ]
+}

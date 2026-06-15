@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 39",
+  "preguntas": [
+    {
+      "id": "tema_05_test_39_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 101.1 TFUE, ¿qué quedarán prohibidos como incompatibles con el mercado interior?",
+      "options": {
+        "a": "Solo los cárteles formales entre empresas",
+        "b": "Todos los acuerdos entre empresas, las decisiones de asociaciones de empresas y las prácticas concertadas que puedan afectar al comercio entre los Estados miembros y que tengan por objeto o efecto impedir, restringir o falsear el juego de la competencia dentro del mercado interior",
+        "c": "Solo los monopolios de Estado",
+        "d": "Únicamente las fusiones y adquisiciones que eliminen la competencia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 101.1 TFUE prohíbe 'todos los acuerdos entre empresas, las decisiones de asociaciones de empresas y las prácticas concertadas que puedan afectar al comercio entre los Estados miembros y que tengan por objeto o efecto impedir, restringir o falsear el juego de la competencia dentro del mercado interior'.",
+      "ley": "TFUE, art. 101.1"
+    },
+    {
+      "id": "tema_05_test_39_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 101.1 TFUE enumera prácticas prohibidas. Señale cuál de las siguientes SÍ figura expresamente:",
+      "options": {
+        "a": "La creación de filiales en paraísos fiscales",
+        "b": "La fijación directa o indirecta de los precios de compra o de venta u otras condiciones de transacción",
+        "c": "La publicidad comparativa entre productos competidores",
+        "d": "La concesión de descuentos por volumen de compra"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 101.1.a) TFUE prohíbe específicamente 'la fijación directa o indirecta de los precios de compra o de venta u otras condiciones de transacción'. También prohíbe la limitación de la producción, el reparto de mercados, la discriminación de condiciones y los contratos vinculados.",
+      "ley": "TFUE, art. 101.1.a)"
+    },
+    {
+      "id": "tema_05_test_39_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 101.3 TFUE permite declarar inaplicables las prohibiciones del art. 101.1 bajo ciertas condiciones. ¿Cuáles son las dos condiciones positivas que deben cumplirse?",
+      "options": {
+        "a": "Que beneficien a las empresas y que el Estado lo autorice",
+        "b": "Que contribuyan a mejorar la producción o distribución de los productos o a fomentar el progreso técnico o económico, y que reserven a los usuarios una participación equitativa en el beneficio resultante",
+        "c": "Que sean acordados entre empresas de distintos Estados miembros y que la Comisión los autorice previamente",
+        "d": "Que no afecten al comercio extracomunitario y que sean temporales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 101.3 TFUE establece dos condiciones positivas: que contribuyan 'a mejorar la producción o la distribución de los productos o a fomentar el progreso técnico o económico, y reserven al mismo tiempo a los usuarios una participación equitativa en el beneficio resultante'.",
+      "ley": "TFUE, art. 101.3"
+    },
+    {
+      "id": "tema_05_test_39_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 101.2 TFUE, ¿qué efectos tienen los acuerdos o decisiones prohibidos por el art. 101.1?",
+      "options": {
+        "a": "Son sancionados con multa pero siguen siendo válidos",
+        "b": "Son nulos de pleno derecho",
+        "c": "Son anulables a petición de la Comisión o de un Estado miembro",
+        "d": "Son inoponibles ante los tribunales pero no nulos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 101.2 TFUE establece que los acuerdos o decisiones que estén prohibidos en virtud del art. 101.1 'serán nulos de pleno derecho'. La nulidad es automática, absoluta y de pleno derecho, sin necesidad de declaración judicial previa.",
+      "ley": "TFUE, art. 101.2"
+    },
+    {
+      "id": "tema_05_test_39_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 102 TFUE, ¿qué está prohibido?",
+      "options": {
+        "a": "La existencia de una posición dominante en el mercado interior",
+        "b": "La explotación abusiva, por parte de una o más empresas, de una posición dominante en el mercado interior o en una parte sustancial del mismo",
+        "c": "La creación de monopolios privados en el mercado interior",
+        "d": "La existencia de empresas con cuota de mercado superior al 40%"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 102 TFUE establece que 'Será incompatible con el mercado interior y quedará prohibida, en la medida en que pueda afectar al comercio entre los Estados miembros, la explotación abusiva, por parte de una o más empresas, de una posición dominante en el mercado interior o en una parte sustancial del mismo'.",
+      "ley": "TFUE, art. 102"
+    },
+    {
+      "id": "tema_05_test_39_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 102 TFUE enumera prácticas abusivas. Señale cuál de las siguientes SÍ figura entre ellas:",
+      "options": {
+        "a": "La mera existencia de una empresa dominante en el mercado",
+        "b": "Imponer directa o indirectamente precios de compra, de venta u otras condiciones de transacción no equitativas",
+        "c": "La fusión de dos empresas con cuotas de mercado superiores al 30% cada una",
+        "d": "La negativa a conceder licencias de patentes a terceros competidores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 102.a) TFUE menciona como práctica abusiva 'imponer directa o indirectamente precios de compra, de venta u otras condiciones de transacción no equitativas'.",
+      "ley": "TFUE, art. 102.a)"
+    },
+    {
+      "id": "tema_05_test_39_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 103 TFUE, ¿quiénes adoptan los reglamentos o directivas necesarios para la aplicación de los arts. 101 y 102?",
+      "options": {
+        "a": "La Comisión de forma autónoma",
+        "b": "El Consejo, a propuesta de la Comisión y previa consulta al Parlamento Europeo",
+        "c": "El Parlamento Europeo y el Consejo por procedimiento ordinario",
+        "d": "El Consejo Europeo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 103.1 TFUE establece que 'El Consejo, a propuesta de la Comisión y previa consulta al Parlamento Europeo, adoptará los reglamentos o directivas útiles para la aplicación de los principios enunciados en los artículos 101 y 102'.",
+      "ley": "TFUE, art. 103.1"
+    },
+    {
+      "id": "tema_05_test_39_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 106.1 TFUE establece que los Estados miembros no adoptarán ni mantendrán ninguna medida contraria a los Tratados respecto a determinadas empresas. ¿Cuáles son esas empresas?",
+      "options": {
+        "a": "Solo las empresas del sector energético",
+        "b": "Las empresas públicas y las empresas a las que concedan derechos especiales o exclusivos",
+        "c": "Las grandes empresas multinacionales que operen en más de tres Estados miembros",
+        "d": "Las empresas que reciban ayudas de Estado superiores al millón de euros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 106.1 TFUE establece que 'Los Estados miembros no adoptarán ni mantendrán, respecto de las empresas públicas y aquellas empresas a las que concedan derechos especiales o exclusivos, ninguna medida contraria a las normas de los Tratados'.",
+      "ley": "TFUE, art. 106.1"
+    },
+    {
+      "id": "tema_05_test_39_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 107.1 TFUE define las ayudas de Estado incompatibles con el mercado interior. ¿Cuáles son los cuatro elementos que deben concurrir?",
+      "options": {
+        "a": "Ventaja económica, procedencia estatal, selectividad y afectación al comercio interestatal",
+        "b": "Subvención directa, beneficiario público, exención fiscal y autorización del Consejo",
+        "c": "Préstamo estatal, garantía pública, empresa dominante y mercado cautivo",
+        "d": "Recursos públicos, decisión estatal, empresa nacional y exclusión de la competencia"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 107.1 TFUE define las ayudas de Estado incompatibles como aquellas que: 1) procedan de recursos estatales, 2) favorezcan a ciertas empresas o producciones (selectividad), 3) falseen o amenacen falsear la competencia, 4) sean susceptibles de afectar al comercio entre Estados miembros.",
+      "ley": "TFUE, art. 107.1"
+    },
+    {
+      "id": "tema_05_test_39_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 107.2 TFUE enumera ayudas que son compatibles con el mercado interior. ¿Cuál de las siguientes SÍ figura en ese apartado?",
+      "options": {
+        "a": "Las ayudas a la exportación de productos nacionales",
+        "b": "Las ayudas de carácter social concedidas a los consumidores individuales, siempre que se otorguen sin discriminaciones basadas en el origen de los productos",
+        "c": "Las ayudas para el desarrollo de las pequeñas y medianas empresas",
+        "d": "Las ayudas a la investigación básica en universidades públicas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 107.2.a) TFUE establece como compatible con el mercado interior 'las ayudas de carácter social concedidas a los consumidores individuales, siempre que se otorguen sin discriminaciones basadas en el origen de los productos'.",
+      "ley": "TFUE, art. 107.2.a)"
+    },
+    {
+      "id": "tema_05_test_39_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 107.3 TFUE establece ayudas que podrán considerarse compatibles con el mercado interior. ¿Cuál de las siguientes SÍ figura en ese apartado?",
+      "options": {
+        "a": "Las ayudas para equilibrar la balanza de pagos de un Estado miembro",
+        "b": "Las ayudas destinadas a favorecer el desarrollo económico de regiones en las que el nivel de vida sea anormalmente bajo o en las que exista una grave situación de subempleo",
+        "c": "Las ayudas para adquirir empresas extranjeras en dificultades",
+        "d": "Las ayudas a la exportación a países fuera de la Unión Europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 107.3.a) TFUE establece que podrán considerarse compatibles 'las ayudas destinadas a favorecer el desarrollo económico de regiones en las que el nivel de vida sea anormalmente bajo o en las que exista una grave situación de subempleo, así como el de las regiones contempladas en el artículo 349, habida cuenta de su situación estructural, económica y social'.",
+      "ley": "TFUE, art. 107.3.a)"
+    },
+    {
+      "id": "tema_05_test_39_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 108 TFUE establece el procedimiento de control de las ayudas de Estado. Según el art. 108.3 TFUE, ¿qué obligación tienen los Estados miembros antes de conceder una ayuda nueva?",
+      "options": {
+        "a": "Publicarla en el Boletín Oficial del Estado",
+        "b": "Notificarla a la Comisión con la antelación suficiente para que esta pueda presentar sus observaciones; el Estado miembro no podrá ejecutar las medidas proyectadas antes de que se haya adoptado una decisión definitiva (cláusula suspensiva)",
+        "c": "Obtener la autorización del Consejo por mayoría cualificada",
+        "d": "Someterla a consulta pública durante un mínimo de 30 días"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 108.3 TFUE establece la obligación de notificación previa a la Comisión y la cláusula suspensiva: 'El Estado miembro interesado no podrá ejecutar las medidas proyectadas antes de que en dicho procedimiento haya recaído decisión definitiva'.",
+      "ley": "TFUE, art. 108.3"
+    },
+    {
+      "id": "tema_05_test_39_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 106.2 TFUE, ¿se aplican las normas de competencia a las empresas encargadas de la gestión de servicios de interés económico general?",
+      "options": {
+        "a": "No, están completamente exentas de las normas de competencia",
+        "b": "Sí, pero solo en la medida en que no impida el cumplimiento de la misión específica encomendada y no afecte en forma contraria al interés de la Unión",
+        "c": "Solo las normas sobre ayudas de Estado, no las de libre competencia",
+        "d": "Solo cuando la Comisión así lo decida caso por caso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 106.2 TFUE establece que las empresas encargadas de servicios de interés económico general 'quedarán sometidas a las normas de los Tratados, en especial a las normas sobre competencia, en la medida en que la aplicación de dichas normas no impida, de hecho o de derecho, el cumplimiento de la misión específica a ellas confiada'.",
+      "ley": "TFUE, art. 106.2"
+    },
+    {
+      "id": "tema_05_test_39_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 108.2 TFUE regula el procedimiento cuando la Comisión decide que una ayuda es incompatible con el mercado interior. ¿A quién notificará la Comisión su decisión?",
+      "options": {
+        "a": "Al Tribunal de Justicia para que adopte las medidas necesarias",
+        "b": "Al Estado interesado, que deberá suprimir o modificar dicha ayuda en el plazo que determine la Comisión",
+        "c": "Al Parlamento Europeo para que refuerce el control",
+        "d": "Al Consejo Europeo para que emita una recomendación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 108.2 TFUE establece que si la Comisión comprueba que una ayuda es incompatible, 'notificará al Estado interesado esta decisión. El Estado de que se trate deberá suprimir o transformar esta ayuda en el plazo que la Comisión determine'.",
+      "ley": "TFUE, art. 108.2"
+    },
+    {
+      "id": "tema_05_test_39_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 109 TFUE permite al Consejo adoptar reglamentos sobre categorías de ayudas. ¿Qué tipo de reglamentos puede adoptar?",
+      "options": {
+        "a": "Solo reglamentos que prohíban categorías de ayudas",
+        "b": "Reglamentos para la aplicación de los arts. 107 y 108, en particular para determinar las condiciones en que se aplica el art. 108.3 y las categorías de ayudas eximidas de este procedimiento",
+        "c": "Reglamentos que armonicen los regímenes de ayudas nacionales",
+        "d": "Reglamentos que fijen el importe máximo de las ayudas permitidas por sector"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 109 TFUE establece que 'El Consejo, a propuesta de la Comisión y previa consulta al Parlamento Europeo, podrá adoptar los reglamentos apropiados para la aplicación de los artículos 107 y 108 y determinar, en particular, las condiciones para la aplicación del artículo 108, apartado 3, así como las categorías de ayudas que quedan exentas de dicho procedimiento'.",
+      "ley": "TFUE, art. 109"
+    },
+    {
+      "id": "tema_05_test_39_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 101.1 TFUE enumera cinco ejemplos de prácticas anticompetitivas prohibidas. Una de ellas es 'repartirse los mercados'. ¿Cuál es otra de las mencionadas?",
+      "options": {
+        "a": "La creación de consorcios de exportación",
+        "b": "Limitar o controlar la producción, el mercado, el desarrollo técnico o las inversiones",
+        "c": "La realización de estudios de mercado conjuntos",
+        "d": "El establecimiento de normas técnicas comunes de seguridad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 101.1.b) TFUE prohíbe 'limitar o controlar la producción, el mercado, el desarrollo técnico o las inversiones'. Las cinco prácticas prohibidas son: a) fijación de precios; b) limitación de producción/mercado; c) reparto de mercados; d) discriminación de condiciones; e) contratos vinculados.",
+      "ley": "TFUE, art. 101.1.b)"
+    },
+    {
+      "id": "tema_05_test_39_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 104 TFUE, ¿quiénes aplicarán el art. 101.1 y el art. 102 hasta la entrada en vigor de los reglamentos del art. 103?",
+      "options": {
+        "a": "Solo la Comisión Europea",
+        "b": "Las autoridades de los Estados miembros",
+        "c": "El Tribunal de Justicia directamente",
+        "d": "El Consejo de forma provisional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 104 TFUE establece que 'Hasta que sean aplicables las disposiciones adoptadas en virtud del artículo 103, las autoridades de los Estados miembros se pronunciarán sobre la admisibilidad de los acuerdos, de las decisiones y de las prácticas concertadas'.",
+      "ley": "TFUE, art. 104"
+    },
+    {
+      "id": "tema_05_test_39_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 108.2 TFUE prevé que el Consejo puede declarar compatibles con el mercado interior una ayuda que la Comisión ha declarado incompatible o que va a declarar incompatible. ¿Bajo qué circunstancias y con qué mayoría?",
+      "options": {
+        "a": "Por mayoría cualificada en cualquier circunstancia",
+        "b": "Si circunstancias excepcionales justifican la declaración de compatibilidad, el Consejo decidirá por unanimidad",
+        "c": "Solo si el Parlamento Europeo también aprueba la declaración de compatibilidad",
+        "d": "No existe tal posibilidad; la Comisión tiene el monopolio de la decisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 108.2 TFUE establece que el Estado interesado puede solicitar al Consejo que declare la ayuda compatible, y 'el Consejo, pronunciándose por unanimidad, podrá decidir que la ayuda que ha concedido o que piensa conceder dicho Estado se considerará compatible con el mercado interior, en derogación de las disposiciones del artículo 107'.",
+      "ley": "TFUE, art. 108.2"
+    },
+    {
+      "id": "tema_05_test_39_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 105 TFUE otorga a la Comisión poderes especiales en materia de competencia. ¿Qué puede hacer la Comisión respecto a los incumplimientos de los arts. 101 y 102?",
+      "options": {
+        "a": "Solo emitir recomendaciones",
+        "b": "La Comisión velará por la aplicación de los arts. 101 y 102, instruirá los casos de infracción, y si comprueba que existe una infracción, propondrá las medidas adecuadas para poner fin a ella",
+        "c": "Solo informar al Consejo para que este adopte medidas",
+        "d": "Imponer directamente sanciones penales a las empresas infractoras"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 105.1 TFUE establece que 'La Comisión velará por la aplicación de los principios definidos en los artículos 101 y 102. A instancia de un Estado miembro o de oficio, y en colaboración con las autoridades competentes de los Estados miembros que le prestarán su asistencia, la Comisión instruirá los casos de presunta infracción de dichos principios'.",
+      "ley": "TFUE, art. 105.1"
+    },
+    {
+      "id": "tema_05_test_39_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Capítulo 1 del Título VII del TFUE se titula 'Las normas sobre competencia'. ¿Cuántas secciones tiene?",
+      "options": {
+        "a": "Dos secciones: libre competencia y competencia desleal",
+        "b": "Dos secciones: normas aplicables a las empresas (arts. 101-106) y ayudas otorgadas por los Estados (arts. 107-109)",
+        "c": "Tres secciones: libre competencia, monopolios y ayudas de Estado",
+        "d": "Una sola sección sin subdivisiones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El Capítulo 1 ('Las normas sobre competencia') del Título VII TFUE tiene dos secciones: Sección 1.ª 'Normas aplicables a las empresas' (arts. 101-106, sobre acuerdos, posición dominante, empresas públicas) y Sección 2.ª 'Ayudas otorgadas por los Estados' (arts. 107-109).",
+      "ley": "TFUE, Título VII, Capítulo 1"
+    }
+  ]
+}

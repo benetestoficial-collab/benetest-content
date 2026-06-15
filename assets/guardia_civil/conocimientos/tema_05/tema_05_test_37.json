@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 37",
+  "preguntas": [
+    {
+      "id": "tema_05_test_37_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 179.1 TFUE establece el objetivo de la política de investigación y desarrollo tecnológico. ¿Cuál es?",
+      "options": {
+        "a": "La creación de una agencia espacial europea",
+        "b": "Fortalecer sus bases científicas y tecnológicas, mediante la realización de un espacio europeo de investigación en el que los investigadores, los conocimientos científicos y las tecnologías circulen libremente, y favorecer el desarrollo de su competitividad, incluida la de su industria",
+        "c": "La armonización de los sistemas universitarios de todos los Estados miembros",
+        "d": "La creación de un mercado único de patentes y propiedad intelectual"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 179.1 TFUE establece que la Unión tendrá como objetivo 'fortalecer sus bases científicas y tecnológicas mediante la realización de un espacio europeo de investigación en el que los investigadores, los conocimientos científicos y las tecnologías circulen libremente, y favorecer el desarrollo de su competitividad, incluida la de su industria'.",
+      "ley": "TFUE, art. 179.1"
+    },
+    {
+      "id": "tema_05_test_37_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 179.2 TFUE, ¿qué fomentará la Unión en el ámbito de la investigación?",
+      "options": {
+        "a": "Solo la investigación básica en las universidades públicas",
+        "b": "Todas las actividades de investigación que considere necesarias en virtud de otros capítulos de los Tratados",
+        "c": "Las actividades de investigación, el desarrollo tecnológico y la demostración de carácter transnacional necesarios para alcanzar los objetivos de los Tratados, y cooperará con terceros países y organizaciones internacionales en el ámbito de la investigación y el desarrollo tecnológico",
+        "d": "Solo las investigaciones aplicadas con mercado potencial inmediato"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 179.2 TFUE establece que la Unión fomentará 'todas las actividades de investigación que considere necesarias en virtud de otros capítulos de los Tratados'.",
+      "ley": "TFUE, art. 179.2"
+    },
+    {
+      "id": "tema_05_test_37_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 180 TFUE establece las actividades que llevará a cabo la Unión en investigación. Señale cuál de las siguientes SÍ figura en ese artículo:",
+      "options": {
+        "a": "La fijación de salarios mínimos para los investigadores europeos",
+        "b": "La realización de programas de investigación, de desarrollo tecnológico y de demostración, promoviendo la cooperación con las empresas, los centros de investigación y las universidades",
+        "c": "La creación de un fondo único europeo para todas las universidades",
+        "d": "La adopción de una norma uniforme de patentes europea con efectos en toda la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 180.a) TFUE establece entre las actividades de la Unión 'la realización de programas de investigación, de desarrollo tecnológico y de demostración, promoviendo la cooperación con las empresas, los centros de investigación y las universidades'.",
+      "ley": "TFUE, art. 180.a)"
+    },
+    {
+      "id": "tema_05_test_37_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 181 TFUE, ¿pueden los Estados miembros llevar a cabo entre sí programas de investigación y desarrollo?",
+      "options": {
+        "a": "No, todos los programas deben ser gestionados por la Unión",
+        "b": "Sí, con posibilidad de participación de la Unión y coordinando sus políticas con la Unión para garantizar la coherencia",
+        "c": "Solo si la Comisión los ha aprobado previamente",
+        "d": "Solo los Estados miembros que forman parte de la zona euro"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 181 TFUE establece que los Estados miembros 'coordinarán entre sí, en colaboración con la Comisión, su política de investigación y de desarrollo tecnológico, a fin de garantizar la coherencia mutua con las políticas nacionales y con la política de la Unión'.",
+      "ley": "TFUE, art. 181"
+    },
+    {
+      "id": "tema_05_test_37_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 182.1 TFUE, ¿qué adoptarán el Parlamento Europeo y el Consejo para llevar a cabo la política de investigación?",
+      "options": {
+        "a": "Un plan quinquenal de investigación vinculante para los Estados miembros",
+        "b": "Un programa marco plurianual que abarcará el conjunto de las actividades de la Unión en investigación",
+        "c": "Directivas de armonización de los sistemas de investigación nacionales",
+        "d": "Reglamentos sobre el reconocimiento mutuo de títulos académicos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 182.1 TFUE establece que 'El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario y previa consulta al Comité Económico y Social, adoptarán un programa marco plurianual que abarcará el conjunto de las actividades de la Unión'.",
+      "ley": "TFUE, art. 182.1"
+    },
+    {
+      "id": "tema_05_test_37_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 183 TFUE permite a la Unión crear empresas comunes para la investigación. ¿Con qué procedimiento?",
+      "options": {
+        "a": "Mediante reglamento del Parlamento Europeo y el Consejo por procedimiento ordinario",
+        "b": "El Consejo, a propuesta de la Comisión y previa consulta al Parlamento Europeo y al Comité Económico y Social, podrá adoptar todas las disposiciones necesarias, en particular con vistas a la creación de empresas comunes o de cualquier otra estructura necesaria para la ejecución eficaz de los programas de investigación",
+        "c": "La Comisión las crea directamente mediante decisión ejecutiva",
+        "d": "El Consejo Europeo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 183 TFUE establece que 'El Consejo, a propuesta de la Comisión y previa consulta al Parlamento Europeo y al Comité Económico y Social, adoptará las disposiciones previstas en el artículo 188, párrafo segundo... con vistas a la creación de empresas comunes o de cualquier otra estructura necesaria para la ejecución eficaz de los programas de investigación'.",
+      "ley": "TFUE, art. 183"
+    },
+    {
+      "id": "tema_05_test_37_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 179.2 TFUE, ¿puede la Unión limitar la capacidad de los Estados miembros para llevar a cabo sus propias políticas de investigación?",
+      "options": {
+        "a": "Sí, los Estados deben transferir sus competencias en investigación a la Unión",
+        "b": "No, el ejercicio de la competencia de la Unión en investigación no puede impedir a los Estados ejercer la suya",
+        "c": "Solo puede limitarla cuando los proyectos nacionales interfieran con el programa marco",
+        "d": "Los Estados deben obtener autorización de la Comisión para cada proyecto nacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 179.2 TFUE establece que la Unión dispondrá de competencia para llevar a cabo actividades de investigación 'sin que el ejercicio de esta competencia pueda tener por efecto impedir a los Estados miembros ejercer la suya'. Es una competencia paralela o concurrente.",
+      "ley": "TFUE, art. 179.2"
+    },
+    {
+      "id": "tema_05_test_37_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 189 TFUE, ¿existe una política espacial europea?",
+      "options": {
+        "a": "No, el espacio es competencia exclusiva de los Estados miembros",
+        "b": "Sí, la Unión elaborará una política espacial europea con el objetivo de promover el progreso científico y técnico, la competitividad industrial y la aplicación de sus políticas",
+        "c": "Solo existe cooperación voluntaria entre los Estados que lo deseen",
+        "d": "Solo existe en el marco de la Agencia Espacial Europea, no en el TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 189.1 TFUE establece que 'Con objeto de promover el progreso científico y técnico, la competitividad industrial y la aplicación de sus políticas, la Unión elaborará una política espacial europea'.",
+      "ley": "TFUE, art. 189.1"
+    },
+    {
+      "id": "tema_05_test_37_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 189.2 TFUE establece que para contribuir a la política espacial europea, el Parlamento y el Consejo adoptarán medidas con exclusión expresa de algo. ¿Qué queda excluido?",
+      "options": {
+        "a": "La creación de una agencia espacial europea dependiente de la Unión",
+        "b": "Toda armonización de las disposiciones legales y reglamentarias de los Estados miembros",
+        "c": "Las misiones tripuladas fuera del sistema solar",
+        "d": "La financiación de satélites de uso militar"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 189.2 TFUE establece que el Parlamento Europeo y el Consejo adoptarán medidas necesarias para contribuir a la política espacial europea 'con exclusión de toda armonización de las disposiciones legales y reglamentarias de los Estados miembros'.",
+      "ley": "TFUE, art. 189.2"
+    },
+    {
+      "id": "tema_05_test_37_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 184 TFUE, ¿qué podrán llevar a cabo los Estados miembros junto con la Unión en el ámbito de la investigación?",
+      "options": {
+        "a": "Solo los proyectos incluidos en el programa marco plurianual",
+        "b": "Programas de investigación y de desarrollo tecnológico, incluidos los de demostración",
+        "c": "Únicamente proyectos de investigación básica no aplicada",
+        "d": "Solo proyectos con participación de al menos cinco Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 184 TFUE establece que 'En la aplicación del programa marco plurianual, la Unión podrá celebrar acuerdos con terceros países o con organizaciones internacionales' y que 'Los Estados miembros ejecutarán entre sí, en colaboración con la Comisión, los programas de investigación y de desarrollo tecnológico, incluidos los de demostración, que consideren necesarios'.",
+      "ley": "TFUE, art. 184"
+    },
+    {
+      "id": "tema_05_test_37_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 180.b) TFUE, ¿qué promoverá la Unión en el ámbito de investigación respecto a otros países?",
+      "options": {
+        "a": "La restricción del acceso de investigadores extranjeros a los programas europeos",
+        "b": "La cooperación de la Unión en investigación y desarrollo tecnológico con terceros países y organizaciones internacionales",
+        "c": "La exportación obligatoria de tecnología europea a los países en desarrollo",
+        "d": "La protección absoluta de la propiedad intelectual europea frente a terceros países"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 180.b) TFUE establece que entre las actividades de la Unión estará 'la promoción de la cooperación en materia de investigación, de desarrollo tecnológico y de demostración de la Unión con terceros países y organizaciones internacionales'.",
+      "ley": "TFUE, art. 180.b)"
+    },
+    {
+      "id": "tema_05_test_37_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 182.5 TFUE establece que el programa marco plurianual se puede complementar con programas específicos. ¿Qué institución adopta esos programas específicos?",
+      "options": {
+        "a": "El Parlamento Europeo y el Consejo por procedimiento ordinario",
+        "b": "El Consejo, a propuesta de la Comisión y previa consulta al Parlamento Europeo y al Comité Económico y Social",
+        "c": "La Comisión de forma autónoma",
+        "d": "El Consejo Europeo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 182.4 TFUE establece que 'el Consejo, a propuesta de la Comisión y previa consulta al Parlamento Europeo y al Comité Económico y Social, adoptará los programas específicos de investigación, de desarrollo tecnológico y de demostración por los que se aplica el programa marco plurianual, fijando sus objetivos'.",
+      "ley": "TFUE, art. 182.4"
+    },
+    {
+      "id": "tema_05_test_37_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 186 TFUE permite a la Unión celebrar acuerdos con terceros países y organizaciones internacionales en el ámbito de la investigación. ¿Con arreglo a qué artículo del TFUE?",
+      "options": {
+        "a": "Art. 207 TFUE (política comercial común)",
+        "b": "Art. 218 TFUE (procedimiento general para la celebración de acuerdos internacionales)",
+        "c": "Art. 289 TFUE (procedimiento legislativo ordinario)",
+        "d": "Art. 352 TFUE (cláusula de flexibilidad)"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 186 TFUE establece que 'En la aplicación del programa marco plurianual, la Unión podrá celebrar acuerdos con terceros países o con organizaciones internacionales conforme al artículo 218'.",
+      "ley": "TFUE, art. 186"
+    },
+    {
+      "id": "tema_05_test_37_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 187 TFUE establece que la Unión puede crear empresas comunes. ¿Para qué fin?",
+      "options": {
+        "a": "Para gestionar el sistema de satélites europeos",
+        "b": "Para la ejecución eficaz de los programas de investigación, desarrollo tecnológico y demostración de la Unión",
+        "c": "Para financiar las universidades de los Estados miembros",
+        "d": "Para comercializar los resultados de la investigación europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 187 TFUE establece que 'La Unión podrá crear empresas comunes o cualquier otra estructura necesaria para la ejecución eficaz de los programas de investigación, de desarrollo tecnológico y de demostración de la Unión'.",
+      "ley": "TFUE, art. 187"
+    },
+    {
+      "id": "tema_05_test_37_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 182.2 TFUE establece el procedimiento para fijar el programa marco plurianual. ¿Qué contiene dicho programa?",
+      "options": {
+        "a": "Solo el presupuesto total sin detalle de los ámbitos",
+        "b": "Los objetivos científicos y tecnológicos que deberán alcanzarse con los programas específicos, sus prioridades, las acciones que se vayan a llevar a cabo, así como el importe global máximo y las modalidades de participación financiera de la Unión",
+        "c": "La lista de proyectos concretos que se van a financiar",
+        "d": "Los criterios de selección de los investigadores que recibirán becas europeas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 182.2 TFUE establece que el programa marco plurianual determinará 'los objetivos científicos y tecnológicos que deberán alcanzarse mediante los programas específicos previstos en el apartado 3, sus prioridades y las acciones principales que se vayan a llevar a cabo, así como el importe global máximo y las modalidades de participación financiera de la Unión'.",
+      "ley": "TFUE, art. 182.2"
+    },
+    {
+      "id": "tema_05_test_37_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 189.3 TFUE establece relaciones con una organización externa en materia espacial. ¿Con qué organización?",
+      "options": {
+        "a": "La NASA estadounidense",
+        "b": "La Agencia Espacial Europea",
+        "c": "La Unión Internacional de Telecomunicaciones",
+        "d": "El Comité de Naciones Unidas para el uso del espacio ultraterrestre"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 189.3 TFUE establece que 'La Unión establecerá las relaciones que sean adecuadas con la Agencia Espacial Europea'. La Agencia Espacial Europea (ESA) es la organización internacional que coordina los programas espaciales europeos.",
+      "ley": "TFUE, art. 189.3"
+    },
+    {
+      "id": "tema_05_test_37_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 185 TFUE, ¿qué puede hacer la Unión en el ámbito de la investigación para abrir los programas nacionales?",
+      "options": {
+        "a": "Obligar a los Estados miembros a fusionar sus programas nacionales",
+        "b": "Acordar, en la ejecución del programa marco plurianual, la participación en programas de investigación y desarrollo emprendidos por varios Estados miembros, incluida la participación en las estructuras creadas para la ejecución de dichos programas",
+        "c": "Solo puede supervisar los programas nacionales sin intervenir en ellos",
+        "d": "Puede absorber los programas nacionales en el programa marco europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 185 TFUE establece que 'en la ejecución del programa marco plurianual, la Unión podrá acordar con los Estados miembros interesados la participación en programas de investigación y desarrollo emprendidos por varios Estados miembros, incluida la participación en las estructuras creadas para la ejecución de dichos programas'.",
+      "ley": "TFUE, art. 185"
+    },
+    {
+      "id": "tema_05_test_37_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Título XIX del TFUE regula la investigación, el desarrollo tecnológico y el espacio. ¿Qué artículo regula específicamente el espacio?",
+      "options": {
+        "a": "Art. 187 TFUE",
+        "b": "Art. 188 TFUE",
+        "c": "Art. 189 TFUE",
+        "d": "Art. 190 TFUE"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 189 TFUE regula específicamente la política espacial europea, estableciendo que la Unión elaborará una política espacial europea y establecerá relaciones con la Agencia Espacial Europea.",
+      "ley": "TFUE, art. 189"
+    },
+    {
+      "id": "tema_05_test_37_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 182.3 TFUE establece cómo se ejecutará el programa marco mediante programas específicos. ¿Qué regula cada programa específico?",
+      "options": {
+        "a": "El nombre de los investigadores que participarán en cada proyecto",
+        "b": "Las normas de participación de las empresas, centros de investigación y universidades",
+        "c": "Las disposiciones detalladas para su realización, su duración y el sistema de ayuda financiera de la Unión",
+        "d": "La lista de universidades acreditadas para recibir fondos europeos de investigación"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 182.3 TFUE establece que 'Cada programa específico precisará las disposiciones detalladas para su realización, fijará su duración y preverá los medios que se juzguen necesarios'.",
+      "ley": "TFUE, art. 182.3"
+    },
+    {
+      "id": "tema_05_test_37_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El espacio europeo de investigación mencionado en el art. 179 TFUE pretende que circulen libremente tres elementos. ¿Cuáles son?",
+      "options": {
+        "a": "El dinero, las patentes y los laboratorios",
+        "b": "Los investigadores, los conocimientos científicos y las tecnologías",
+        "c": "Los estudiantes, los profesores y los equipos de investigación",
+        "d": "Las publicaciones científicas, los datos y los resultados de la investigación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 179.1 TFUE establece el objetivo de 'un espacio europeo de investigación en el que los investigadores, los conocimientos científicos y las tecnologías circulen libremente'.",
+      "ley": "TFUE, art. 179.1"
+    }
+  ]
+}

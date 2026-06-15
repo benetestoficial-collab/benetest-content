@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 11",
+  "preguntas": [
+    {
+      "id": "tema_05_test_11_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 1 TUE establece que las decisiones en la Unión serán tomadas de la forma más abierta y próxima a los ciudadanos que sea posible. Este principio se recoge también como un derecho de todo ciudadano en el art. 10.3 TUE. ¿Cómo se denomina este principio?",
+      "options": {
+        "a": "Principio de transparencia activa",
+        "b": "Principio de proximidad democrática",
+        "c": "Principio de subsidiariedad política",
+        "d": "Principio de representación directa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El principio de proximidad democrática, recogido en los arts. 1 y 10.3 TUE, garantiza que las decisiones se tomen 'de la forma más abierta y próxima posible a los ciudadanos', siendo uno de los fundamentos del funcionamiento democrático de la Unión.",
+      "ley": "TUE, art. 1 y art. 10.3"
+    },
+    {
+      "id": "tema_05_test_11_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 5 TUE, ¿cuántos principios rigen la delimitación y el ejercicio de las competencias de la Unión?",
+      "options": {
+        "a": "Dos: atribución y subsidiariedad",
+        "b": "Tres: atribución, subsidiariedad y proporcionalidad",
+        "c": "Cuatro: atribución, subsidiariedad, proporcionalidad y cooperación leal",
+        "d": "Dos: subsidiariedad y proporcionalidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 5 TUE establece tres principios: el principio de atribución rige la delimitación de competencias (art. 5.1 y 5.2), y los principios de subsidiariedad (art. 5.3) y proporcionalidad (art. 5.4) rigen el ejercicio de las competencias.",
+      "ley": "TUE, art. 5"
+    },
+    {
+      "id": "tema_05_test_11_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Consejo Europeo, según el art. 15.1 TUE, no ejerce función legislativa. ¿Cuál es entonces su función principal?",
+      "options": {
+        "a": "Gestionar el presupuesto anual de la Unión",
+        "b": "Dar a la Unión los impulsos necesarios para su desarrollo y definir sus orientaciones y prioridades políticas generales",
+        "c": "Supervisar la aplicación del Derecho de la Unión",
+        "d": "Representar a la Unión en organismos internacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.1 TUE establece que el Consejo Europeo 'dará a la Unión los impulsos necesarios para su desarrollo y definirá sus orientaciones y prioridades políticas generales'. Es el órgano de impulso político de la Unión.",
+      "ley": "TUE, art. 15.1"
+    },
+    {
+      "id": "tema_05_test_11_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.2 TUE, para constatar la violación grave y persistente de los valores del art. 2, el Consejo Europeo actúa a propuesta de un tercio de los Estados o de la Comisión. Antes de hacerlo deberá:",
+      "options": {
+        "a": "Obtener dictamen favorable del Tribunal de Justicia",
+        "b": "Invitar al Estado miembro afectado a que presente sus observaciones",
+        "c": "Celebrar una consulta pública a nivel europeo",
+        "d": "Obtener la aprobación previa del Consejo por mayoría cualificada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.2 TUE exige que el Consejo Europeo actúe 'tras invitar al Estado miembro de que se trate a que presente sus observaciones'.",
+      "ley": "TUE, art. 7.2"
+    },
+    {
+      "id": "tema_05_test_11_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la afirmación INCORRECTA sobre la iniciativa ciudadana europea (art. 11.4 TUE):",
+      "options": {
+        "a": "Requiere al menos un millón de ciudadanos de la Unión",
+        "b": "Deben ser nacionales de un número significativo de Estados miembros",
+        "c": "Se invita a la Comisión a presentar una propuesta",
+        "d": "La Comisión está obligada a presentar la propuesta si se cumplen los requisitos"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 11.4 TUE solo establece que los ciudadanos podrán 'invitar' a la Comisión a presentar una propuesta. La Comisión no está obligada a hacerlo; puede estudiarla y decidir si presenta o no la propuesta.",
+      "ley": "TUE, art. 11.4"
+    },
+    {
+      "id": "tema_05_test_11_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuál de los siguientes órganos tiene la condición de institución de la Unión Europea según el art. 13.1 TUE?",
+      "options": {
+        "a": "El Comité de las Regiones",
+        "b": "El Banco Central Europeo",
+        "c": "El Comité Económico y Social",
+        "d": "La Agencia Europea de Defensa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.1 TUE enumera las 7 instituciones, entre ellas el Banco Central Europeo. El Comité de las Regiones y el Comité Económico y Social son órganos consultivos, y la Agencia Europea de Defensa es una agencia.",
+      "ley": "TUE, art. 13.1"
+    },
+    {
+      "id": "tema_05_test_11_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 14.2 TUE establece el principio de representación 'decrecientemente proporcional'. ¿Qué significa esto en la práctica?",
+      "options": {
+        "a": "Los Estados más grandes tienen más diputados en términos absolutos pero menos en proporción a su población",
+        "b": "Los Estados más pequeños tienen exactamente los mismos escaños que los grandes",
+        "c": "Solo los Estados grandes tienen representación en el Parlamento",
+        "d": "Los escaños se distribuyen exclusivamente en función del PIB de cada Estado"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). La representación 'decrecientemente proporcional' significa que los Estados más grandes tienen más escaños en términos absolutos, pero los Estados pequeños tienen una representación proporcionalmente mayor en relación con su población, con un mínimo de 6 y un máximo de 96 escaños.",
+      "ley": "TUE, art. 14.2"
+    },
+    {
+      "id": "tema_05_test_11_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 16.6 TUE prevé dos formaciones permanentes del Consejo: el Consejo de Asuntos Generales y el Consejo de Asuntos Exteriores. ¿Qué diferencia principal existe en su presidencia?",
+      "options": {
+        "a": "Ambas tienen presidencia rotatoria entre los Estados miembros",
+        "b": "El de Asuntos Generales tiene presidencia rotatoria y el de Asuntos Exteriores lo preside el Alto Representante",
+        "c": "El de Asuntos Exteriores tiene presidencia rotatoria y el de Asuntos Generales lo preside la Comisión",
+        "d": "Ambas formaciones las preside el Presidente del Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.9 TUE establece el sistema de rotación para las formaciones del Consejo 'con excepción de la de Asuntos Exteriores', cuya presidencia está atribuida permanentemente al Alto Representante (art. 18 TUE).",
+      "ley": "TUE, art. 16.6, 16.9 y art. 18"
+    },
+    {
+      "id": "tema_05_test_11_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.1 TUE, ¿cuál de las siguientes funciones NO corresponde a la Comisión Europea?",
+      "options": {
+        "a": "Velar por la aplicación de los Tratados",
+        "b": "Ejecutar el presupuesto",
+        "c": "Definir las orientaciones políticas generales de la Unión",
+        "d": "Supervisar la aplicación del Derecho de la Unión"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). Definir las orientaciones políticas generales es una función del Consejo Europeo (art. 15.1 TUE), no de la Comisión. La Comisión promueve el interés general, vela por los Tratados y ejecuta el presupuesto, entre otras funciones.",
+      "ley": "TUE, art. 17.1 y art. 15.1"
+    },
+    {
+      "id": "tema_05_test_11_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 18 TUE regula el 'doble sombrero' del Alto Representante. ¿En qué consiste exactamente?",
+      "options": {
+        "a": "Es simultáneamente Presidente del Consejo y de la Comisión",
+        "b": "Preside el Consejo de Asuntos Exteriores y es Vicepresidente de la Comisión",
+        "c": "Es Presidente del Consejo Europeo y Alto Representante para Asuntos Exteriores",
+        "d": "Representa a la Unión ante la ONU y ante la OTAN simultáneamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 18 TUE establece el llamado 'doble sombrero': el Alto Representante preside el Consejo de Asuntos Exteriores (en el Consejo) y al mismo tiempo es uno de los Vicepresidentes de la Comisión Europea.",
+      "ley": "TUE, art. 18"
+    },
+    {
+      "id": "tema_05_test_11_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.1 TUE, los Estados miembros tienen una obligación concreta respecto al Derecho de la Unión. ¿Cuál es?",
+      "options": {
+        "a": "Incorporar todas las directivas en un plazo máximo de seis meses",
+        "b": "Establecer las vías de recurso necesarias para garantizar la tutela judicial efectiva en los ámbitos del Derecho de la Unión",
+        "c": "Crear tribunales especializados en Derecho de la Unión en cada Estado",
+        "d": "Garantizar la primacía del Derecho de la Unión sobre sus constituciones nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.1 TUE establece que 'Los Estados miembros establecerán las vías de recurso necesarias para garantizar la tutela judicial efectiva en los ámbitos cubiertos por el Derecho de la Unión'.",
+      "ley": "TUE, art. 19.1"
+    },
+    {
+      "id": "tema_05_test_11_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20 TUE, ¿en qué tipo de competencias pueden los Estados instaurar una cooperación reforzada?",
+      "options": {
+        "a": "En competencias exclusivas de la Unión",
+        "b": "En competencias no exclusivas de la Unión",
+        "c": "En cualquier tipo de competencia, exclusiva o no",
+        "d": "Solo en materias de política exterior y de seguridad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.1 TUE establece que la cooperación reforzada solo puede instaurarse 'en el marco de las competencias no exclusivas de la Unión'. En materias de competencia exclusiva de la Unión no cabe.",
+      "ley": "TUE, art. 20.1"
+    },
+    {
+      "id": "tema_05_test_11_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.2 TUE, la política de la Unión respecto a la OTAN debe ser:",
+      "options": {
+        "a": "Prioritaria sobre los compromisos con la OTAN",
+        "b": "Compatible con la política común de seguridad y de defensa establecida en el marco de la OTAN",
+        "c": "Sustitutiva de la OTAN para los Estados que lo decidan",
+        "d": "Independiente y autónoma respecto a la OTAN"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.2 TUE establece que la política de la Unión 'será compatible con la política común de seguridad y de defensa establecida en dicho marco' (la OTAN), respetando las obligaciones de los Estados miembros que pertenecen a la Alianza.",
+      "ley": "TUE, art. 42.2"
+    },
+    {
+      "id": "tema_05_test_11_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuál es el contenido exacto del art. 47 TUE, que es el más breve del Tratado?",
+      "options": {
+        "a": "El presente Tratado se concluye por un período de tiempo ilimitado",
+        "b": "La Unión tiene personalidad jurídica",
+        "c": "Los Protocolos y Anexos de los Tratados forman parte integrante de los mismos",
+        "d": "Los Tratados tienen el mismo valor jurídico"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 47 TUE es el más breve del Tratado y establece únicamente: 'La Unión tiene personalidad jurídica'. Esta disposición es fundamental porque permite a la Unión actuar como sujeto de Derecho internacional.",
+      "ley": "TUE, art. 47"
+    },
+    {
+      "id": "tema_05_test_11_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.1.b) TUE, una de las funciones de la Agencia Europea de Defensa es fomentar:",
+      "options": {
+        "a": "La creación de un ejército europeo unificado",
+        "b": "La armonización de las necesidades operativas y métodos de adquisición eficaces y compatibles",
+        "c": "La reducción del gasto militar de los Estados miembros",
+        "d": "La sustitución de los ejércitos nacionales por fuerzas multinacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.1.b) TUE establece que la Agencia Europea de Defensa tiene como misión 'Fomentar la armonización de las necesidades operativas y la adopción de métodos de adquisición eficaces y compatibles'.",
+      "ley": "TUE, art. 45.1.b)"
+    },
+    {
+      "id": "tema_05_test_11_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48 TUE, ¿cuántos procedimientos de revisión de los Tratados existen?",
+      "options": {
+        "a": "Uno: el procedimiento ordinario",
+        "b": "Dos: el procedimiento ordinario y los procedimientos simplificados",
+        "c": "Tres: el procedimiento ordinario, el simplificado y el de urgencia",
+        "d": "Cuatro: ordinario, simplificado, de emergencia y de adhesión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48.1 TUE establece que 'Los Tratados podrán modificarse con arreglo a un procedimiento de revisión ordinario. También podrán modificarse con arreglo a procedimientos de revisión simplificados'. Son dos tipos principales.",
+      "ley": "TUE, art. 48.1"
+    },
+    {
+      "id": "tema_05_test_11_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Cuando el Consejo Europeo decide no convocar una Convención por la escasa importancia de las modificaciones (art. 48.3 TUE), ¿qué necesita para ello?",
+      "options": {
+        "a": "Unanimidad y aprobación del Consejo",
+        "b": "Mayoría simple previa aprobación del Parlamento Europeo",
+        "c": "Consenso de todos sus miembros",
+        "d": "Mayoría cualificada y consulta a los Parlamentos nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48.3 TUE establece que 'El Consejo Europeo podrá decidir por mayoría simple, previa aprobación del Parlamento Europeo, no convocar una Convención cuando la importancia de las modificaciones no lo justifique'.",
+      "ley": "TUE, art. 48.3"
+    },
+    {
+      "id": "tema_05_test_11_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 49 TUE, ¿qué criterios se tienen en cuenta para la adhesión de un nuevo Estado?",
+      "options": {
+        "a": "Solo los criterios económicos establecidos por el Consejo",
+        "b": "Los criterios de elegibilidad acordados por el Consejo Europeo, además de los valores del art. 2",
+        "c": "Únicamente el compromiso de adoptar el euro",
+        "d": "Los criterios militares establecidos por la OTAN"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 49 TUE establece que 'Se tendrán en cuenta los criterios de elegibilidad acordados por el Consejo Europeo', además del requisito básico de ser un Estado europeo que respete y se comprometa a promover los valores del art. 2 TUE.",
+      "ley": "TUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_11_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 5.3 TUE establece que el principio de subsidiariedad se aplica 'en los ámbitos que no sean de su competencia exclusiva'. ¿Qué implica esto respecto a las competencias exclusivas?",
+      "options": {
+        "a": "Las competencias exclusivas también están sujetas al principio de subsidiariedad",
+        "b": "En las competencias exclusivas, la Unión actúa siempre sin necesidad de justificación adicional de subsidiariedad",
+        "c": "Las competencias exclusivas son revisadas anualmente por los Parlamentos nacionales",
+        "d": "Los Estados pueden recuperar competencias exclusivas si demuestran que pueden ejercerlas mejor"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El principio de subsidiariedad solo se aplica en ámbitos de competencia no exclusiva. En las competencias exclusivas (como política monetaria o política comercial común), la Unión actúa directamente sin necesidad de invocar la subsidiariedad.",
+      "ley": "TUE, art. 5.3"
+    },
+    {
+      "id": "tema_05_test_11_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 55.1 TUE, los textos del Tratado en todas las lenguas auténticas son:",
+      "options": {
+        "a": "Solo orientativos, siendo el texto en francés el oficial",
+        "b": "Igualmente auténticos",
+        "c": "Válidos solo en el territorio del Estado miembro correspondiente",
+        "d": "Subordinados a la versión en inglés para interpretación jurídica"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 55.1 TUE establece que los textos del Tratado en las 23 lenguas enumeradas 'son igualmente auténticos'. Ninguna versión lingüística tiene preeminencia sobre las demás.",
+      "ley": "TUE, art. 55.1"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 38",
+  "preguntas": [
+    {
+      "id": "tema_05_test_38_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 205 TFUE establece que la acción de la Unión en la escena internacional se guiará por los principios y perseguirá los objetivos enunciados en determinados artículos del TUE. ¿Cuáles?",
+      "options": {
+        "a": "Los arts. 1 a 5 TUE",
+        "b": "Los arts. 21 y 22 TUE",
+        "c": "Los arts. 42 y 43 TUE",
+        "d": "Los arts. 47 y 48 TUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 205 TFUE establece que 'La acción de la Unión en la escena internacional, en virtud de la presente parte, se guiará por los principios, perseguirá los objetivos y se realizará de conformidad con las disposiciones generales enunciadas en el capítulo 1 del título V del Tratado de la Unión Europea', que son los arts. 21 y 22 TUE.",
+      "ley": "TFUE, art. 205"
+    },
+    {
+      "id": "tema_05_test_38_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 207.1 TFUE, ¿qué comprende la política comercial común?",
+      "options": {
+        "a": "Solo los aranceles sobre las importaciones",
+        "b": "Las modificaciones arancelarias, la celebración de acuerdos arancelarios y comerciales relativos a los intercambios de mercancías y de servicios, los aspectos comerciales de la propiedad intelectual e industrial, las inversiones extranjeras directas, la uniformización de las medidas de liberalización, la política de exportación y las medidas de protección comercial",
+        "c": "Solo el comercio de mercancías con terceros países",
+        "d": "El control de las inversiones extranjeras directas en la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 207.1 TFUE establece que la política comercial común comprende 'las modificaciones arancelarias, la celebración de acuerdos arancelarios y comerciales relativos a los intercambios de mercancías y de servicios, los aspectos comerciales de la propiedad intelectual e industrial, las inversiones extranjeras directas, la uniformización de las medidas de liberalización, la política de exportación y las medidas de protección comercial'.",
+      "ley": "TFUE, art. 207.1"
+    },
+    {
+      "id": "tema_05_test_38_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 207.4 TFUE, ¿cuándo requiere la negociación y celebración de acuerdos comerciales unanimidad del Consejo?",
+      "options": {
+        "a": "Siempre, para proteger los intereses de los Estados miembros",
+        "b": "Cuando los acuerdos incluyan disposiciones respecto a las cuales se requiera unanimidad para la adopción de normas internas, como los servicios culturales y audiovisuales, los servicios de enseñanza y los servicios sociales",
+        "c": "Solo cuando el Parlamento Europeo lo solicite",
+        "d": "Cuando el acuerdo afecte a más de diez países terceros simultáneamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 207.4 TFUE establece que el Consejo decidirá por unanimidad 'en materia de comercio de servicios culturales y audiovisuales, cuando dichos acuerdos puedan perjudicar a la diversidad cultural y lingüística de la Unión' y 'en materia de comercio de servicios sociales, educativos y sanitarios'.",
+      "ley": "TFUE, art. 207.4"
+    },
+    {
+      "id": "tema_05_test_38_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 208 TFUE, ¿cuál es el objetivo principal de la política de cooperación al desarrollo de la Unión?",
+      "options": {
+        "a": "La exportación del modelo político europeo a los países en desarrollo",
+        "b": "La reducción y, a largo plazo, la erradicación de la pobreza",
+        "c": "La creación de mercados para los productos europeos en los países en desarrollo",
+        "d": "El establecimiento de acuerdos comerciales preferentes con los países más pobres"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 208.1 TFUE establece que 'La política de la Unión en el ámbito de la cooperación al desarrollo tendrá como objetivo principal la reducción y, a largo plazo, la erradicación de la pobreza'.",
+      "ley": "TFUE, art. 208.1"
+    },
+    {
+      "id": "tema_05_test_38_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 215 TFUE establece el procedimiento para adoptar medidas restrictivas (sanciones) contra terceros países o personas. ¿Quién las adopta?",
+      "options": {
+        "a": "El Consejo por unanimidad previa propuesta de la Comisión",
+        "b": "El Consejo por mayoría cualificada, a propuesta conjunta del Alto Representante y de la Comisión",
+        "c": "El Parlamento Europeo por mayoría de sus miembros",
+        "d": "El Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 215.2 TFUE establece que 'Cuando así lo disponga una decisión adoptada de conformidad con el título V capítulo 2 del Tratado de la Unión Europea, el Consejo podrá adoptar medidas restrictivas contra personas físicas o jurídicas, grupos o entidades no estatales. El Consejo se pronunciará por mayoría cualificada a propuesta conjunta del Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad y de la Comisión'.",
+      "ley": "TFUE, art. 215.2"
+    },
+    {
+      "id": "tema_05_test_38_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 218 TFUE regula el procedimiento general para la celebración de acuerdos internacionales. ¿Quién autoriza la apertura de negociaciones?",
+      "options": {
+        "a": "La Comisión directamente",
+        "b": "El Consejo, que autorizará la apertura de negociaciones, adoptará directrices de negociación, autorizará la firma y celebrará los acuerdos",
+        "c": "El Consejo Europeo por unanimidad",
+        "d": "El Parlamento Europeo y el Consejo conjuntamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 218.2 TFUE establece que 'El Consejo autorizará la apertura de negociaciones, adoptará las directrices de negociación, autorizará la firma y celebrará los acuerdos'.",
+      "ley": "TFUE, art. 218.2"
+    },
+    {
+      "id": "tema_05_test_38_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 218.6 TFUE, ¿cuándo requiere la aprobación del Parlamento Europeo la celebración de acuerdos internacionales?",
+      "options": {
+        "a": "Solo para los acuerdos de adhesión de nuevos Estados",
+        "b": "Para los acuerdos de asociación, el acuerdo de adhesión al CEDH, los que creen un marco institucional específico, los que tengan implicaciones presupuestarias importantes y los que afecten a ámbitos con procedimiento legislativo ordinario",
+        "c": "Solo para los tratados de libre comercio con países desarrollados",
+        "d": "Para todos los acuerdos internacionales sin excepción"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 218.6.a) TFUE enumera los casos que requieren aprobación del Parlamento Europeo: acuerdos de asociación, adhesión al CEDH, marcos institucionales específicos, implicaciones presupuestarias importantes y ámbitos cubiertos por el procedimiento legislativo ordinario.",
+      "ley": "TFUE, art. 218.6.a)"
+    },
+    {
+      "id": "tema_05_test_38_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 212 TFUE, ¿qué tipo de medidas puede adoptar la Unión con terceros países para apoyar el proceso democrático?",
+      "options": {
+        "a": "Solo medidas de carácter comercial",
+        "b": "Medidas de cooperación económica, financiera y técnica, incluida la asistencia, en particular en el ámbito financiero",
+        "c": "Solo misiones de observación electoral",
+        "d": "Sanciones económicas contra países no democráticos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 212.1 TFUE establece que 'Sin perjuicio de las otras disposiciones de los Tratados, y en particular los artículos 208 a 211, la Unión llevará a cabo acciones de cooperación económica, financiera y técnica, incluida la asistencia, en particular en el ámbito financiero, con terceros países distintos de los países en desarrollo'.",
+      "ley": "TFUE, art. 212.1"
+    },
+    {
+      "id": "tema_05_test_38_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 222 TFUE regula la cláusula de solidaridad. ¿Cuándo puede activarse?",
+      "options": {
+        "a": "Solo en caso de ataque armado contra un Estado miembro",
+        "b": "Cuando un Estado miembro sea objeto de un ataque terrorista o víctima de una catástrofe natural o de origen humano",
+        "c": "Solo en casos de crisis económica grave que afecte a un Estado miembro",
+        "d": "Cuando un Estado miembro solicite la intervención de la Unión en una crisis política interna"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 222.1 TFUE establece que 'La Unión y sus Estados miembros actuarán conjuntamente con espíritu de solidaridad si un Estado miembro es objeto de un ataque terrorista o víctima de una catástrofe natural o de origen humano'.",
+      "ley": "TFUE, art. 222.1"
+    },
+    {
+      "id": "tema_05_test_38_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 209 TFUE, ¿qué adoptarán el Parlamento Europeo y el Consejo para llevar a cabo la cooperación al desarrollo?",
+      "options": {
+        "a": "Decisiones del Consejo Europeo vinculantes para los Estados miembros",
+        "b": "Las medidas necesarias, con arreglo al procedimiento legislativo ordinario, que podrán referirse a programas plurianuales de cooperación con los países en desarrollo",
+        "c": "Reglamentos de ejecución directa sin intervención del Parlamento",
+        "d": "Solo orientaciones no vinculantes para coordinar las políticas de los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 209.1 TFUE establece que 'El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, adoptarán las medidas necesarias para la ejecución de la política de cooperación al desarrollo, que podrán referirse a programas de cooperación plurianuales con países en desarrollo'.",
+      "ley": "TFUE, art. 209.1"
+    },
+    {
+      "id": "tema_05_test_38_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 214 TFUE regula la ayuda humanitaria de la Unión. ¿Dónde se dirigen las acciones de ayuda humanitaria?",
+      "options": {
+        "a": "Solo a los países candidatos a la adhesión",
+        "b": "A los países terceros, en particular los países en desarrollo, víctimas de catástrofes naturales o de origen humano",
+        "c": "A los ciudadanos europeos residentes en países terceros afectados por catástrofes",
+        "d": "Solo a los países con los que la Unión tiene acuerdos de asociación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 214.1 TFUE establece que 'Las acciones de la Unión en el ámbito de la ayuda humanitaria se llevarán a cabo en el marco de los principios y objetivos de la acción exterior de la Unión. Dichas acciones tendrán como objetivo prestar asistencia, socorro y protección a las poblaciones de los países terceros, en particular los países en desarrollo, víctimas de catástrofes naturales o de origen humano'.",
+      "ley": "TFUE, art. 214.1"
+    },
+    {
+      "id": "tema_05_test_38_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 218.11 TFUE establece que el Tribunal de Justicia puede emitir un dictamen sobre la compatibilidad de un acuerdo previsto con los Tratados. ¿Qué consecuencia tiene un dictamen negativo?",
+      "options": {
+        "a": "El acuerdo puede firmarse pero con reservas de los Estados miembros",
+        "b": "El acuerdo no podrá entrar en vigor, salvo en caso de modificación del mismo o revisión de los Tratados",
+        "c": "El Parlamento Europeo puede aprobar el acuerdo por mayoría de dos tercios",
+        "d": "El Consejo Europeo puede anular el dictamen por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 218.11 TFUE establece que 'Si el dictamen del Tribunal de Justicia fuera contrario a la compatibilidad del acuerdo previsto con los Tratados, el acuerdo en cuestión no podrá entrar en vigor, salvo en caso de modificación del mismo o de revisión de los Tratados'.",
+      "ley": "TFUE, art. 218.11"
+    },
+    {
+      "id": "tema_05_test_38_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 210 TFUE, ¿qué coordinarán la Unión y los Estados miembros en el ámbito de la cooperación al desarrollo?",
+      "options": {
+        "a": "Sus presupuestos de cooperación al desarrollo para evitar duplicidades",
+        "b": "Sus políticas de cooperación al desarrollo y se consultarán mutuamente sobre sus programas de ayuda, incluso en el seno de organizaciones internacionales y durante conferencias internacionales",
+        "c": "La lista de países beneficiarios para evitar concentraciones de ayuda",
+        "d": "Los tipos de proyectos financiables para garantizar complementariedad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 210.1 TFUE establece que 'Con el fin de fomentar la complementariedad y la eficiencia de sus acciones, la Unión y los Estados miembros coordinarán sus políticas en materia de cooperación al desarrollo y se consultarán mutuamente sobre sus programas de ayuda, incluso en las organizaciones internacionales y en las conferencias internacionales'.",
+      "ley": "TFUE, art. 210.1"
+    },
+    {
+      "id": "tema_05_test_38_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 215.1 TFUE, las medidas restrictivas contra terceros países requieren la previa adopción de una decisión de la PESC. ¿Qué tipo de decisión?",
+      "options": {
+        "a": "Una directiva de armonización aprobada por el Consejo",
+        "b": "Una decisión adoptada de conformidad con el Título V Capítulo 2 TUE",
+        "c": "Un reglamento del Parlamento Europeo y el Consejo",
+        "d": "Una decisión del Consejo Europeo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 215.1 TFUE establece que 'Cuando una decisión adoptada de conformidad con el capítulo 2 del título V del Tratado de la Unión Europea disponga la interrupción o la reducción, total o parcial, de las relaciones económicas y financieras con uno o varios terceros países, el Consejo adoptará las medidas necesarias'.",
+      "ley": "TFUE, art. 215.1"
+    },
+    {
+      "id": "tema_05_test_38_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 222.3 TFUE establece que el Consejo Europeo realizará una evaluación de las amenazas para la Unión. ¿A iniciativa de quién?",
+      "options": {
+        "a": "De la Comisión Europea",
+        "b": "Del Alto Representante",
+        "c": "Del Presidente del Consejo Europeo",
+        "d": "Del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 222.3 TFUE establece que 'El Consejo Europeo evaluará regularmente las amenazas a que se enfrenta la Unión, a fin de permitir que la Unión y sus Estados miembros actúen de manera efectiva. A iniciativa del Alto Representante o de un Estado miembro, el Consejo podrá adoptar decisiones'.",
+      "ley": "TFUE, art. 222.3"
+    },
+    {
+      "id": "tema_05_test_38_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 207.2 TFUE establece el procedimiento para adoptar las medidas de política comercial común. ¿Cuál es ese procedimiento?",
+      "options": {
+        "a": "El Consejo por unanimidad a propuesta de la Comisión",
+        "b": "El Parlamento Europeo y el Consejo con arreglo al procedimiento legislativo ordinario",
+        "c": "La Comisión directamente con aprobación del Consejo Europeo",
+        "d": "El Consejo por mayoría cualificada sin intervención del Parlamento"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 207.2 TFUE establece que 'El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, adoptarán, en forma de reglamentos, las medidas que definan el marco de aplicación de la política comercial común'.",
+      "ley": "TFUE, art. 207.2"
+    },
+    {
+      "id": "tema_05_test_38_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 213 TFUE establece que la Unión y los Estados miembros podrán adoptar medidas urgentes de política exterior. ¿Cuál es el procedimiento?",
+      "options": {
+        "a": "La Comisión adopta directamente las medidas",
+        "b": "El Consejo, a propuesta de la Comisión, podrá decidir que los Estados miembros adopten medidas urgentes de política económica exterior",
+        "c": "El Consejo Europeo por consenso",
+        "d": "El Alto Representante con aprobación del Parlamento"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 213 TFUE establece que 'Si la situación requiriera una acción urgente de la Unión, el Consejo, a propuesta de la Comisión, podrá decidir que los Estados miembros adopten medidas con carácter urgente'.",
+      "ley": "TFUE, art. 213"
+    },
+    {
+      "id": "tema_05_test_38_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 214.5 TFUE crea el Cuerpo Voluntario Europeo de Ayuda Humanitaria. ¿Qué establecerá el Parlamento Europeo y el Consejo respecto a este cuerpo?",
+      "options": {
+        "a": "Solo su financiación con cargo al presupuesto de la Unión",
+        "b": "El estatuto y las normas de funcionamiento del Cuerpo Voluntario Europeo de Ayuda Humanitaria, con arreglo al procedimiento legislativo ordinario",
+        "c": "La edad mínima de los voluntarios y su proceso de selección",
+        "d": "Los países donde podrá intervenir el Cuerpo de forma prioritaria"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 214.5 TFUE establece que 'El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, fijarán el estatuto y las normas de funcionamiento del Cuerpo Voluntario Europeo de Ayuda Humanitaria'.",
+      "ley": "TFUE, art. 214.5"
+    },
+    {
+      "id": "tema_05_test_38_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 222.2 TFUE establece las modalidades de aplicación de la cláusula de solidaridad. ¿Qué se utilizará para asisitir al Estado afectado?",
+      "options": {
+        "a": "Solo fondos financieros de emergencia del presupuesto de la Unión",
+        "b": "Todos los instrumentos a disposición de la Unión, incluidos los medios militares puestos a disposición por los Estados miembros",
+        "c": "Solo los medios civiles de protección y gestión de emergencias",
+        "d": "Las fuerzas de respuesta rápida de la OTAN"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 222.2 TFUE establece que 'La Unión movilizará todos los instrumentos de que disponga, incluidos los medios militares puestos a su disposición por los Estados miembros, para: prevenir la amenaza terrorista en el territorio de los Estados miembros; proteger a las instituciones democráticas y a la población civil de posibles ataques terroristas; prestar asistencia a un Estado miembro en su territorio a petición de sus autoridades políticas'.",
+      "ley": "TFUE, art. 222.2"
+    },
+    {
+      "id": "tema_05_test_38_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 208 TFUE establece el principio de coherencia de la política de cooperación al desarrollo. ¿Con qué debe ser coherente la política de la Unión?",
+      "options": {
+        "a": "Con la política comercial de la Unión",
+        "b": "Con los objetivos de la cooperación para el desarrollo que la Unión tenga en cuenta en la aplicación de las políticas que puedan afectar a los países en desarrollo",
+        "c": "Con los compromisos de la Unión en el marco de la OMC",
+        "d": "Con las prioridades del Fondo Monetario Internacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 208.2 TFUE establece el principio de coherencia: 'La Unión tendrá en cuenta los objetivos de la cooperación para el desarrollo en las políticas que aplique y que puedan afectar a los países en desarrollo'.",
+      "ley": "TFUE, art. 208.2"
+    }
+  ]
+}

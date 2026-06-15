@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_05_test_17_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 11.1 TUE garantiza el principio de democracia participativa. ¿Por qué 'cauces' darán las instituciones la posibilidad de expresar opiniones a los ciudadanos?",
+      "options": {
+        "a": "Por los cauces definidos por el Parlamento Europeo",
+        "b": "Por los cauces apropiados",
+        "c": "Por los cauces establecidos en el Reglamento de cada institución",
+        "d": "Exclusivamente a través de la iniciativa ciudadana del art. 11.4 TUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11.1 TUE establece que las instituciones darán a los ciudadanos y asociaciones representativas 'por los cauces apropiados, la posibilidad de expresar e intercambiar públicamente sus opiniones'.",
+      "ley": "TUE, art. 11.1"
+    },
+    {
+      "id": "tema_05_test_17_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.2 TUE, el Consejo Europeo fija la composición del Parlamento Europeo. ¿Con qué tipo de iniciativa y aprobación?",
+      "options": {
+        "a": "A iniciativa del Consejo y con aprobación del Parlamento",
+        "b": "A iniciativa del Parlamento Europeo y con su aprobación",
+        "c": "A iniciativa de la Comisión y con aprobación del Consejo",
+        "d": "A iniciativa de los Estados miembros y con aprobación unánime del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 14.2 TUE establece que el Consejo Europeo adoptará la decisión 'a iniciativa del Parlamento Europeo y con su aprobación'. El Parlamento tiene la iniciativa y también la aprobación.",
+      "ley": "TUE, art. 14.2"
+    },
+    {
+      "id": "tema_05_test_17_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 9 TUE, el principio de igualdad de los ciudadanos se aplica en:",
+      "options": {
+        "a": "Solo en los ámbitos en que los Tratados atribuyen competencias a la Unión",
+        "b": "Todas las actividades de la Unión",
+        "c": "Las actividades del Parlamento Europeo exclusivamente",
+        "d": "Los procedimientos legislativos de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 9 TUE establece que 'La Unión respetará en todas sus actividades el principio de la igualdad de sus ciudadanos'.",
+      "ley": "TUE, art. 9"
+    },
+    {
+      "id": "tema_05_test_17_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.2 TUE, la política de defensa 'no afectará al carácter específico de la política de seguridad y de defensa de determinados Estados miembros'. ¿A qué tipo de Estados se refiere?",
+      "options": {
+        "a": "A los Estados que no son miembros de la OTAN",
+        "b": "A los Estados neutrales o con tradición de política de defensa específica",
+        "c": "A los Estados que tienen obligaciones derivadas del Tratado del Atlántico Norte",
+        "d": "A los Estados que no han ratificado el Protocolo de cooperación estructurada permanente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.2 TUE establece que la política 'no afectará al carácter específico de la política de seguridad y de defensa de determinados Estados miembros'. Esto se refiere a los Estados con tradición de neutralidad o política de defensa específica (como Austria, Irlanda, Finlandia o Suecia históricamente).",
+      "ley": "TUE, art. 42.2"
+    },
+    {
+      "id": "tema_05_test_17_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre el art. 20 TUE (cooperación reforzada):",
+      "options": {
+        "a": "Puede instaurarse en el marco de competencias no exclusivas de la Unión",
+        "b": "Están permanentemente abiertas a todos los Estados miembros",
+        "c": "Solo puede haber una cooperación reforzada activa en cada momento",
+        "d": "Requieren al menos 9 Estados miembros"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 20 TUE no establece ningún límite al número de cooperaciones reforzadas simultáneas. Pueden existir varias al mismo tiempo, en materias distintas. Por ejemplo, el Reglamento de régimen económico matrimonial y la Tasa sobre transacciones financieras fueron iniciativas de cooperación reforzada paralelas.",
+      "ley": "TUE, art. 20"
+    },
+    {
+      "id": "tema_05_test_17_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 47 TUE, al tener la Unión Europea personalidad jurídica, puede entre otras cosas celebrar tratados internacionales. ¿Con qué otra organización internacional comparte este dato el TUE en su art. 42.7?",
+      "options": {
+        "a": "La OSCE",
+        "b": "La OTAN",
+        "c": "La ONU",
+        "d": "El Consejo de Europa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.7 TUE menciona expresamente a la OTAN como el marco de la defensa colectiva para los Estados miembros que forman parte de ella, siendo la única organización internacional mencionada por su nombre en las disposiciones sobre la PCSD del TUE.",
+      "ley": "TUE, art. 47 y art. 42.7"
+    },
+    {
+      "id": "tema_05_test_17_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.8 TUE (que en rigor es el art. 48.7 segundo párrafo relativo al procedimiento legislativo ordinario), cuando el Consejo Europeo autoriza al Consejo a adoptar actos con arreglo al procedimiento legislativo ordinario en vez del especial, esa iniciativa se transmite a los Parlamentos nacionales, que pueden oponerse en seis meses. ¿A quién se transmite también?",
+      "options": {
+        "a": "Al Tribunal de Justicia para dictamen previo",
+        "b": "Al Banco Central Europeo si afecta a materia monetaria",
+        "c": "A los Parlamentos nacionales",
+        "d": "Solo al Parlamento Europeo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.7 TUE establece que 'Cualquier iniciativa tomada por el Consejo Europeo en virtud de los párrafos primero o segundo se transmitirá a los Parlamentos nacionales'. Son los Parlamentos nacionales los guardianes de este procedimiento.",
+      "ley": "TUE, art. 48.7"
+    },
+    {
+      "id": "tema_05_test_17_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 4.1 TUE establece el principio residual de competencias. ¿Cuál de los siguientes enunciados expresa mejor dicho principio?",
+      "options": {
+        "a": "La Unión puede actuar en cualquier ámbito si cuenta con unanimidad del Consejo",
+        "b": "Toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros",
+        "c": "Los Estados miembros pueden actuar en los ámbitos de competencia de la Unión si esta no lo hace",
+        "d": "La Unión y los Estados comparten todas las competencias por defecto"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.1 TUE expresa el principio residual: 'Toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros'. Es la regla de cierre del sistema de distribución de competencias.",
+      "ley": "TUE, art. 4.1"
+    },
+    {
+      "id": "tema_05_test_17_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 1 TUE, el presente Tratado constituye 'una nueva etapa' en el proceso creador de una unión cada vez más estrecha entre los pueblos de Europa. ¿Cuál es la denominación exacta de ese proceso?",
+      "options": {
+        "a": "Integración federal europea",
+        "b": "Una unión cada vez más estrecha entre los pueblos de Europa",
+        "c": "Una federación de estados europeos",
+        "d": "Una unión política y económica permanente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 1 TUE establece que el Tratado 'constituye una nueva etapa en el proceso creador de una unión cada vez más estrecha entre los pueblos de Europa'. Esta frase clásica del Derecho de la Unión refleja el carácter dinámico del proceso de integración.",
+      "ley": "TUE, art. 1"
+    },
+    {
+      "id": "tema_05_test_17_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, el Consejo Europeo propone el candidato a Presidente de la Comisión por mayoría cualificada. ¿Mantiene el Parlamento Europeo algún control si no quiere al candidato?",
+      "options": {
+        "a": "No, el Parlamento solo puede rechazar a la Comisión completa, no al Presidente",
+        "b": "Sí, si el candidato no obtiene la mayoría de los miembros del Parlamento, el Consejo Europeo debe proponer un nuevo candidato en un mes",
+        "c": "Solo puede retrasar la votación durante un máximo de seis meses",
+        "d": "El Parlamento puede proponer su propio candidato alternativo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.7 TUE establece que si el candidato no obtiene la mayoría del Parlamento, 'el Consejo Europeo propondrá en el plazo de un mes, por mayoría cualificada, un nuevo candidato, que será elegido por el Parlamento Europeo por el mismo procedimiento'.",
+      "ley": "TUE, art. 17.7"
+    },
+    {
+      "id": "tema_05_test_17_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 16.6 TUE menciona el 'Consejo de Asuntos Generales' y el 'Consejo de Asuntos Exteriores' como formaciones permanentes. El art. 16.6 dispone que la lista completa de formaciones se adoptará de conformidad con el artículo:",
+      "options": {
+        "a": "Art. 16.9 TUE",
+        "b": "Art. 236 TFUE",
+        "c": "Art. 238 TFUE",
+        "d": "Art. 13.1 TUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.6 TUE establece que 'El Consejo se reunirá en diferentes formaciones, cuya lista se adoptará de conformidad con el artículo 236 del Tratado de Funcionamiento de la Unión Europea'.",
+      "ley": "TUE, art. 16.6"
+    },
+    {
+      "id": "tema_05_test_17_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 15 TUE regula el Consejo Europeo. ¿Cuántos apartados tiene dicho artículo?",
+      "options": {
+        "a": "4 apartados",
+        "b": "5 apartados",
+        "c": "6 apartados",
+        "d": "7 apartados"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 15 TUE tiene 6 apartados: 15.1 (función e impulsión política), 15.2 (composición), 15.3 (reuniones y convocatoria), 15.4 (pronunciamiento por consenso), 15.5 (elección y mandato del Presidente) y 15.6 (funciones del Presidente).",
+      "ley": "TUE, art. 15"
+    },
+    {
+      "id": "tema_05_test_17_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 44.1 TUE, el Consejo puede encomendar la realización de una misión a un grupo de Estados. Estos Estados deben cumplir dos requisitos: ¿cuáles son?",
+      "options": {
+        "a": "Ser miembros de la OTAN y tener fuerzas desplegadas en la zona",
+        "b": "Desearlo y disponer de las capacidades necesarias para tal misión",
+        "c": "Tener la aprobación del Parlamento Europeo y del Alto Representante",
+        "d": "Ser miembros de la cooperación estructurada permanente y haberlo solicitado formalmente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 44.1 TUE establece que el Consejo puede encomendar la misión 'a un grupo de Estados miembros que lo deseen y que dispongan de las capacidades necesarias para tal misión'.",
+      "ley": "TUE, art. 44.1"
+    },
+    {
+      "id": "tema_05_test_17_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 6.3 TUE establece que los derechos fundamentales del CEDH y las tradiciones constitucionales comunes forman parte del Derecho de la Unión como principios generales. ¿Qué relación tiene esto con la Carta de los Derechos Fundamentales?",
+      "options": {
+        "a": "La Carta sustituye a los principios generales del art. 6.3 TUE",
+        "b": "La Carta y los principios generales del art. 6.3 TUE coexisten como fuentes de derechos fundamentales en la UE",
+        "c": "Los principios generales tienen valor superior a la Carta",
+        "d": "El art. 6.3 TUE fue derogado al entrar en vigor la Carta"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6 TUE regula tres fuentes de derechos fundamentales: la Carta (art. 6.1), la adhesión al CEDH (art. 6.2) y los principios generales (art. 6.3). Todas coexisten y se complementan.",
+      "ley": "TUE, art. 6"
+    },
+    {
+      "id": "tema_05_test_17_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.3 TUE establece que la Unión combatirá la exclusión social y la discriminación. ¿Qué tipo de igualdad fomenta específicamente el mismo artículo?",
+      "options": {
+        "a": "La igualdad entre las regiones de los Estados miembros",
+        "b": "La igualdad entre mujeres y hombres",
+        "c": "La igualdad entre ciudadanos europeos y residentes",
+        "d": "La igualdad entre pequeñas y grandes empresas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que la Unión 'fomentará la justicia y la protección sociales, la igualdad entre mujeres y hombres, la solidaridad entre las generaciones y la protección de los derechos del niño'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_17_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.3 TUE, ¿cuándo puede un Estado incorporarse a la cooperación estructurada permanente con posterioridad a su creación?",
+      "options": {
+        "a": "En la primera revisión anual del protocolo de la cooperación",
+        "b": "En cualquier momento, notificando su intención al Consejo y al Alto Representante",
+        "c": "Solo al inicio de cada legislatura del Parlamento Europeo",
+        "d": "Transcurridos al menos dos años desde la creación de la cooperación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.3 TUE establece que 'Cualquier Estado miembro que, con posterioridad, desee participar en la cooperación estructurada permanente, notificará su intención al Consejo y al Alto Representante'. No hay límite temporal.",
+      "ley": "TUE, art. 46.3"
+    },
+    {
+      "id": "tema_05_test_17_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 7.5 TUE remite al art. 354 TFUE para las modalidades de voto en el procedimiento del art. 7. ¿En qué caso específico de ese artículo se hace referencia al Parlamento Europeo?",
+      "options": {
+        "a": "El Parlamento Europeo vota por unanimidad para constatar la violación",
+        "b": "El Parlamento Europeo vota por mayoría de dos tercios de los votos emitidos que represente la mayoría de sus miembros para aprobar la constatación del riesgo o la violación",
+        "c": "El Parlamento Europeo solo tiene voz consultiva en el art. 7 TUE",
+        "d": "El Parlamento Europeo vota por mayoría simple de sus miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Según el art. 354 TFUE, al que remite el art. 7.5 TUE, la aprobación del Parlamento Europeo requerida en los procedimientos del art. 7 TUE se otorgará por mayoría de dos tercios de los votos emitidos que represente la mayoría de los miembros que lo componen.",
+      "ley": "TUE, art. 7.5 y TFUE art. 354"
+    },
+    {
+      "id": "tema_05_test_17_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 13.2 TUE, las instituciones de la Unión actuarán dentro de los límites de sus atribuciones. Si una institución actúa fuera de esos límites, ¿qué tipo de vicio afecta a sus actos?",
+      "options": {
+        "a": "Un vicio de forma que puede ser subsanado",
+        "b": "Una falta de competencia que puede dar lugar a la nulidad del acto",
+        "c": "Una irregularidad menor sin consecuencias jurídicas",
+        "d": "Una infracción política que solo puede corregirse mediante revisión de los Tratados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.2 TUE establece que cada institución actuará dentro de los límites de sus atribuciones. Si actúa fuera de ellos incurre en incompetencia, que es un motivo de nulidad del acto conforme al art. 263 TFUE.",
+      "ley": "TUE, art. 13.2 y TFUE art. 263"
+    },
+    {
+      "id": "tema_05_test_17_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.3 TUE, si se convoca una Convención para revisar los Tratados, ¿cuál es su composición?",
+      "options": {
+        "a": "Solo representantes de los Gobiernos de los Estados miembros",
+        "b": "Representantes de los Parlamentos nacionales, de los Jefes de Estado o de Gobierno, del Parlamento Europeo y de la Comisión",
+        "c": "Solo representantes del Parlamento Europeo y de los Parlamentos nacionales",
+        "d": "Representantes de los Estados miembros y del Tribunal de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48.3 TUE establece que la Convención estará 'compuesta por representantes de los Parlamentos nacionales, de los Jefes de Estado o de Gobierno de los Estados miembros, del Parlamento Europeo y de la Comisión'.",
+      "ley": "TUE, art. 48.3"
+    },
+    {
+      "id": "tema_05_test_17_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.4 TUE, el Estado miembro que se retira no participa en las decisiones del Consejo Europeo o del Consejo que 'le afecten'. ¿Cuál es la regla de mayoría cualificada que se aplica?",
+      "options": {
+        "a": "La misma del art. 16.4 TUE (55% de miembros y 65% de población)",
+        "b": "La del art. 238.3.b) TFUE, para cuando no participan todos los miembros del Consejo",
+        "c": "La unanimidad de los demás Estados miembros",
+        "d": "La mayoría simple de los Estados que quedan en la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 50.4 TUE establece que 'La mayoría cualificada se definirá de conformidad con el artículo 238.3.b) del Tratado de Funcionamiento de la Unión Europea', que es la regla aplicable cuando no todos los miembros del Consejo participan en la votación.",
+      "ley": "TUE, art. 50.4"
+    }
+  ]
+}

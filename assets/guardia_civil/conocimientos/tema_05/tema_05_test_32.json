@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 32",
+  "preguntas": [
+    {
+      "id": "tema_05_test_32_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 127.1 TFUE, ¿cuál es el objetivo principal del Sistema Europeo de Bancos Centrales (SEBC)?",
+      "options": {
+        "a": "Promover el crecimiento económico de la Unión",
+        "b": "Mantener la estabilidad de precios",
+        "c": "Financiar el presupuesto de la Unión",
+        "d": "Supervisar el sistema bancario europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 127.1 TFUE establece que 'El objetivo principal del Sistema Europeo de Bancos Centrales, denominado en lo sucesivo «SEBC», será mantener la estabilidad de precios'. Sin perjuicio de este objetivo, el SEBC apoyará las políticas económicas generales de la Unión.",
+      "ley": "TFUE, art. 127.1"
+    },
+    {
+      "id": "tema_05_test_32_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 127.2 TFUE, ¿cuáles son las funciones básicas que se llevarán a cabo a través del SEBC?",
+      "options": {
+        "a": "Emitir moneda, controlar la inflación y supervisar los bancos nacionales",
+        "b": "Definir y ejecutar la política monetaria, realizar operaciones de cambio, poseer y gestionar las reservas oficiales de divisas y promover el buen funcionamiento del sistema de pagos",
+        "c": "Financiar los déficits públicos, coordinar las políticas fiscales y emitir deuda pública europea",
+        "d": "Fijar los tipos de interés, establecer el tipo de cambio del euro y supervisar los mercados de valores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 127.2 TFUE establece cuatro funciones básicas: a) definir y ejecutar la política monetaria de la Unión; b) realizar operaciones de cambio; c) poseer y gestionar las reservas oficiales de divisas de los Estados miembros; d) promover el buen funcionamiento del sistema de pagos.",
+      "ley": "TFUE, art. 127.2"
+    },
+    {
+      "id": "tema_05_test_32_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 130 TFUE, ¿qué deben evitar el BCE, los bancos centrales nacionales y los miembros de sus órganos de decisión en el ejercicio de sus funciones?",
+      "options": {
+        "a": "Invertir en activos de riesgo en los mercados financieros",
+        "b": "Solicitar o aceptar instrucciones de las instituciones, órganos u organismos de la Unión, de los Gobiernos de los Estados miembros o de cualquier otro órgano",
+        "c": "Emitir comunicados públicos sin previa coordinación con la Comisión",
+        "d": "Participar en reuniones con representantes de los mercados financieros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 130 TFUE establece el principio de independencia: 'En el ejercicio de las facultades y en el desempeño de las funciones y obligaciones que les atribuyen los Tratados y los Estatutos del SEBC y del BCE, ni el Banco Central Europeo, ni los bancos centrales nacionales, ni ninguno de los miembros de sus órganos rectores, solicitarán ni aceptarán instrucciones de las instituciones, órganos u organismos de la Unión, ni de los Gobiernos de los Estados miembros'.",
+      "ley": "TFUE, art. 130"
+    },
+    {
+      "id": "tema_05_test_32_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 128 TFUE establece el derecho exclusivo a autorizar la emisión de billetes de banco en la Unión. ¿Quién tiene ese derecho?",
+      "options": {
+        "a": "Los Estados miembros a través de sus bancos centrales nacionales",
+        "b": "El BCE, aunque los billetes de banco pueden ser emitidos por el BCE y los bancos centrales nacionales",
+        "c": "El Consejo Europeo mediante decisión por unanimidad",
+        "d": "El Parlamento Europeo y el Consejo conjuntamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 128.1 TFUE establece que 'El Banco Central Europeo tendrá el derecho exclusivo de autorizar la emisión de billetes de banco en euros dentro de la Unión. El BCE y los bancos centrales nacionales podrán emitir dichos billetes'.",
+      "ley": "TFUE, art. 128.1"
+    },
+    {
+      "id": "tema_05_test_32_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 128.2 TFUE, ¿quiénes podrán acuñar monedas en euro?",
+      "options": {
+        "a": "Solo el BCE",
+        "b": "Los Estados miembros, con la aprobación del BCE en cuanto al volumen de emisión",
+        "c": "El BCE y el Tribunal de Cuentas conjuntamente",
+        "d": "Los bancos centrales nacionales bajo supervisión del BCE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 128.2 TFUE establece que 'Los Estados miembros podrán acuñar monedas metálicas en euros, con sujeción a la aprobación del BCE en cuanto al volumen de emisión'.",
+      "ley": "TFUE, art. 128.2"
+    },
+    {
+      "id": "tema_05_test_32_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 132 TFUE establece los actos jurídicos que puede adoptar el BCE. ¿Qué tipos de actos son?",
+      "options": {
+        "a": "Solo reglamentos y directivas",
+        "b": "Reglamentos, decisiones, recomendaciones y dictámenes",
+        "c": "Solo decisiones y recomendaciones sin carácter vinculante",
+        "d": "Directivas, decisiones y orientaciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 132.1 TFUE establece que 'Para llevar a cabo las misiones encomendadas al SEBC, el BCE, con arreglo a lo previsto en los Tratados y en las condiciones establecidas en los Estatutos del SEBC y del BCE adoptará reglamentos y decisiones; formulará recomendaciones y emitirá dictámenes'.",
+      "ley": "TFUE, art. 132.1"
+    },
+    {
+      "id": "tema_05_test_32_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 283.1 TFUE, ¿qué órgano es responsable de la toma de decisiones en el BCE?",
+      "options": {
+        "a": "El Consejo de Gobierno y el Comité Ejecutivo del BCE",
+        "b": "El Consejo de Gobierno del BCE, que estará compuesto por los miembros del Comité Ejecutivo del BCE y por los Gobernadores de los bancos centrales nacionales",
+        "c": "Solo el Presidente del BCE con el apoyo del Consejo Europeo",
+        "d": "El Consejo Europeo con el refrendo del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 283.1 TFUE establece que 'El Consejo de Gobierno del BCE estará integrado por los miembros del Comité Ejecutivo del BCE y por los Gobernadores de los bancos centrales nacionales de los Estados miembros cuya moneda es el euro'.",
+      "ley": "TFUE, art. 283.1"
+    },
+    {
+      "id": "tema_05_test_32_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 283.2 TFUE, ¿cuántos miembros tiene el Comité Ejecutivo del BCE?",
+      "options": {
+        "a": "Tres miembros: el Presidente, el Vicepresidente y un miembro",
+        "b": "Seis miembros: el Presidente, el Vicepresidente y cuatro miembros más",
+        "c": "Nueve miembros",
+        "d": "Quince miembros, uno por cada Estado de la zona euro"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 283.2 TFUE establece que 'El Comité Ejecutivo estará compuesto por el Presidente, el Vicepresidente y otros cuatro miembros'.",
+      "ley": "TFUE, art. 283.2"
+    },
+    {
+      "id": "tema_05_test_32_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 283.2 TFUE establece cómo se nombran los miembros del Comité Ejecutivo del BCE. ¿Por cuánto tiempo y qué institución los nombra?",
+      "options": {
+        "a": "Por 6 años, el Consejo por mayoría cualificada",
+        "b": "Por 8 años sin posibilidad de renovación; el Consejo Europeo, por mayoría cualificada, a recomendación del Consejo y previa consulta al Parlamento Europeo y al Consejo de Gobierno del BCE",
+        "c": "Por 5 años renovables, el Parlamento Europeo por mayoría de sus miembros",
+        "d": "Por 10 años sin renovación, el Consejo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 283.2 TFUE establece que los miembros del Comité Ejecutivo 'serán nombrados por el Consejo Europeo, por mayoría cualificada, a recomendación del Consejo y previa consulta al Parlamento Europeo y al Consejo de Gobierno del BCE, de entre personalidades de reconocido prestigio y experiencia profesional en asuntos monetarios o bancarios' para un mandato de ocho años no renovable.",
+      "ley": "TFUE, art. 283.2"
+    },
+    {
+      "id": "tema_05_test_32_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 284 TFUE, ¿ante quién presenta el BCE un informe anual sobre las actividades del SEBC y la política monetaria del año anterior y del año en curso?",
+      "options": {
+        "a": "Al Consejo Europeo y al Consejo solamente",
+        "b": "Al Parlamento Europeo, al Consejo Europeo, al Consejo y a la Comisión",
+        "c": "Solo al Parlamento Europeo",
+        "d": "Al Tribunal de Cuentas y al Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 284.3 TFUE establece que el BCE 'dirigirá un informe anual sobre las actividades del SEBC y sobre la política monetaria del año precedente y del año en curso al Parlamento Europeo, al Consejo Europeo, al Consejo y a la Comisión'.",
+      "ley": "TFUE, art. 284.3"
+    },
+    {
+      "id": "tema_05_test_32_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 127.1 TFUE establece que, sin perjuicio del objetivo de estabilidad de precios, el SEBC apoyará las políticas económicas generales de la Unión. ¿Con qué fin?",
+      "options": {
+        "a": "Para maximizar el crecimiento del PIB de los Estados miembros",
+        "b": "Para contribuir a la consecución de los objetivos de la Unión establecidos en el art. 3 TUE",
+        "c": "Para mantener los tipos de cambio del euro estables frente al dólar",
+        "d": "Para financiar el déficit presupuestario de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 127.1 TFUE establece que sin perjuicio del objetivo de estabilidad de precios, el SEBC apoyará las políticas económicas generales de la Unión 'con objeto de contribuir a la realización de los objetivos de la Unión establecidos en el artículo 3 del Tratado de la Unión Europea'.",
+      "ley": "TFUE, art. 127.1"
+    },
+    {
+      "id": "tema_05_test_32_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 129 TFUE establece que el SEBC estará dirigido por los órganos rectores del BCE. El art. 129.1 hace referencia a los Estatutos del SEBC y del BCE. ¿Dónde figuran esos Estatutos?",
+      "options": {
+        "a": "En el propio TFUE como parte integrante del mismo",
+        "b": "En un Protocolo anejo a los Tratados, con el mismo valor jurídico",
+        "c": "En un Reglamento del Consejo que puede modificarse por mayoría cualificada",
+        "d": "En una Decisión del BCE aprobada por el Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Los Estatutos del SEBC y del BCE figuran en un Protocolo anejo a los Tratados (Protocolo n.º 4), que según el art. 51 TUE forma parte integrante de los mismos y tiene el mismo valor jurídico.",
+      "ley": "TFUE, art. 129 y TUE art. 51"
+    },
+    {
+      "id": "tema_05_test_32_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 282 TFUE, ¿qué Estados miembros constituyen la zona del euro?",
+      "options": {
+        "a": "Todos los Estados miembros sin excepción",
+        "b": "Los Estados miembros cuya moneda es el euro",
+        "c": "Los Estados miembros fundadores de la Unión Económica y Monetaria",
+        "d": "Los Estados miembros que cumplan los criterios de Maastricht"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 282.1 TFUE establece que 'El Banco Central Europeo y los bancos centrales nacionales constituirán el Sistema Europeo de Bancos Centrales (SEBC). El Banco Central Europeo y los bancos centrales nacionales de los Estados miembros cuya moneda es el euro, que forman el Eurosistema, llevarán a cabo la política monetaria de la Unión'.",
+      "ley": "TFUE, art. 282.1"
+    },
+    {
+      "id": "tema_05_test_32_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 127.5 TFUE, ¿qué contribuirá a hacer el SEBC en relación con las políticas de supervisión prudencial?",
+      "options": {
+        "a": "Sustituirá a los supervisores nacionales en toda la zona euro",
+        "b": "Contribuirá a la buena gestión de las políticas que lleven a cabo las autoridades competentes con respecto a la supervisión prudencial de las entidades de crédito y a la estabilidad del sistema financiero",
+        "c": "Establecerá las normas mínimas de solvencia para los bancos europeos",
+        "d": "Solo supervisará las instituciones financieras de carácter sistémico"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 127.5 TFUE establece que 'El SEBC contribuirá a la buena gestión de las políticas que lleven a cabo las autoridades competentes con respecto a la supervisión prudencial de las entidades de crédito y a la estabilidad del sistema financiero'.",
+      "ley": "TFUE, art. 127.5"
+    },
+    {
+      "id": "tema_05_test_32_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 130 TFUE, ¿qué deben las instituciones y órganos de la Unión y los Gobiernos de los Estados miembros respecto al BCE y a los bancos centrales nacionales?",
+      "options": {
+        "a": "Pueden dar instrucciones al BCE cuando el Consejo Europeo lo decida por unanimidad",
+        "b": "Respetar este principio e intentar no influir en los miembros de los órganos rectores del BCE y de los bancos centrales nacionales en el ejercicio de sus funciones",
+        "c": "Pueden emitir recomendaciones no vinculantes que el BCE debe estudiar",
+        "d": "Tienen obligación de coordinar sus políticas con el BCE antes de adoptarlas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 130 TFUE establece la prohibición paralela para las instituciones: 'las instituciones, órganos u organismos de la Unión, así como los Gobiernos de los Estados miembros, se comprometen a respetar este principio y a no tratar de influir en los miembros de los órganos rectores del BCE'.",
+      "ley": "TFUE, art. 130"
+    },
+    {
+      "id": "tema_05_test_32_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 131 TFUE impone obligaciones a los Estados miembros respecto a sus bancos centrales nacionales. ¿Cuál es la principal?",
+      "options": {
+        "a": "Garantizar que sus bancos centrales nacionales tengan reservas de oro suficientes",
+        "b": "Garantizar que su legislación nacional, incluidos los estatutos de su banco central nacional, sea compatible con los Tratados y con los Estatutos del SEBC y del BCE",
+        "c": "Transferir todas las reservas de divisas al BCE antes de entrar en la zona euro",
+        "d": "Nombrar a los gobernadores de sus bancos centrales siguiendo criterios acordados con el BCE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 131 TFUE establece que 'Cada Estado miembro velará por que su legislación nacional, incluidos los estatutos de su banco central nacional, sea compatible con los Tratados y con los Estatutos del SEBC y del BCE'.",
+      "ley": "TFUE, art. 131"
+    },
+    {
+      "id": "tema_05_test_32_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 282.3 TFUE, ¿qué tiene el BCE?",
+      "options": {
+        "a": "Personalidad política internacional",
+        "b": "Personalidad jurídica",
+        "c": "Status de organismo intergubernamental",
+        "d": "Carácter de agencia reguladora independiente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 282.3 TFUE establece que 'El BCE tendrá personalidad jurídica'. Esta personalidad jurídica le permite actuar como sujeto de Derecho en los ordenamientos jurídicos de los Estados miembros y en el Derecho internacional.",
+      "ley": "TFUE, art. 282.3"
+    },
+    {
+      "id": "tema_05_test_32_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 127.2 TFUE, el SEBC tiene como función básica definir y ejecutar la política monetaria de la Unión. ¿Qué limitación impone el art. 123 TFUE respecto a la financiación de los Estados?",
+      "options": {
+        "a": "El BCE puede prestar dinero a los Estados miembros pero con intereses de mercado",
+        "b": "Queda prohibida la concesión de descubiertos o cualquier otro tipo de crédito por el BCE o por los bancos centrales nacionales a instituciones u organismos de la Unión o a los Gobiernos de los Estados miembros",
+        "c": "El BCE puede comprar deuda pública en mercados secundarios sin limitaciones",
+        "d": "El BCE puede financiar a los Estados miembros que estén en crisis si lo autoriza el Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 123.1 TFUE establece la prohibición de financiación monetaria: 'Queda prohibida la autorización de descubiertos o la concesión de cualquier otro tipo de crédito por el Banco Central Europeo y por los bancos centrales de los Estados miembros, denominados en lo sucesivo «bancos centrales nacionales», en favor de instituciones, órganos u organismos de la Unión, Gobiernos centrales, autoridades regionales o locales u otras autoridades públicas'.",
+      "ley": "TFUE, art. 123.1"
+    },
+    {
+      "id": "tema_05_test_32_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 284.1 TFUE, ¿quién tiene derecho a asistir a las reuniones del Consejo Europeo y del Consejo que traten de materias relacionadas con el BCE?",
+      "options": {
+        "a": "Solo el Presidente del BCE",
+        "b": "El Presidente del BCE o el Vicepresidente del BCE",
+        "c": "Cualquier miembro del Comité Ejecutivo designado por el Consejo de Gobierno",
+        "d": "El Presidente del BCE y el Presidente del Parlamento Europeo conjuntamente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 284.1 TFUE establece que 'El Presidente del BCE y los miembros del Comité Ejecutivo podrán participar, a iniciativa de la Comisión o del Consejo, en deliberaciones del Consejo de materias relacionadas con los objetivos y las misiones del SEBC'.",
+      "ley": "TFUE, art. 284"
+    },
+    {
+      "id": "tema_05_test_32_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 127.3 TFUE establece que el art. 127.1 y el art. 127.2 no se aplicarán a determinados Estados miembros. ¿A cuáles?",
+      "options": {
+        "a": "A los que no han ratificado el Tratado de Lisboa",
+        "b": "A los que se benefician de una excepción, es decir, los que no han adoptado el euro todavía",
+        "c": "A los que tienen una deuda pública superior al 60% del PIB",
+        "d": "A los que no cumplen los criterios de convergencia de Maastricht"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 127.3 TFUE establece que las disposiciones sobre el SEBC 'no serán aplicables a los Estados miembros acogidos a una excepción', es decir, aquellos que todavía no han adoptado el euro como moneda.",
+      "ley": "TFUE, art. 127.3"
+    }
+  ]
+}

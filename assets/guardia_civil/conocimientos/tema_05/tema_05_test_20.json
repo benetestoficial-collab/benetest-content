@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_05_test_20_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El TUE se estructura en seis Títulos. ¿Cuál de las siguientes afirmaciones sobre la estructura del TUE es INCORRECTA?",
+      "options": {
+        "a": "El Título I contiene las Disposiciones Comunes",
+        "b": "El Título IV regula las Cooperaciones Reforzadas",
+        "c": "El Título V regula la Acción Exterior y la PESC",
+        "d": "El Título III regula la Ciudadanía de la Unión"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El Título III del TUE se titula 'Disposiciones sobre las Instituciones', no sobre la Ciudadanía. La ciudadanía de la Unión se regula principalmente en el TFUE (arts. 20-25 TFUE) y en el TUE solo aparece mencionada en el Título II (Principios Democráticos, art. 9).",
+      "ley": "TUE - Estructura general"
+    },
+    {
+      "id": "tema_05_test_20_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 5 TUE, los principios de subsidiariedad y proporcionalidad se aplican con arreglo al Protocolo sobre su aplicación. ¿Con arreglo a qué protocolo velan los Parlamentos nacionales por el principio de subsidiariedad?",
+      "options": {
+        "a": "El Protocolo sobre el cometido de los Parlamentos nacionales",
+        "b": "El Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad",
+        "c": "El Protocolo sobre las disposiciones transitorias",
+        "d": "El Protocolo sobre la cooperación estructurada permanente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 5.3 TUE establece que los Parlamentos nacionales velarán 'por el respeto del principio de subsidiariedad con arreglo al procedimiento establecido en el Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad'.",
+      "ley": "TUE, art. 5.3"
+    },
+    {
+      "id": "tema_05_test_20_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 13.1 TUE enumera las instituciones. ¿Qué institución figura en quinto lugar en esa enumeración?",
+      "options": {
+        "a": "El Consejo",
+        "b": "El Banco Central Europeo",
+        "c": "El Tribunal de Justicia de la Unión Europea",
+        "d": "El Tribunal de Cuentas"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 13.1 TUE enumera en este orden: 1) Parlamento Europeo, 2) Consejo Europeo, 3) Consejo, 4) Comisión Europea, 5) Tribunal de Justicia de la Unión Europea, 6) Banco Central Europeo, 7) Tribunal de Cuentas.",
+      "ley": "TUE, art. 13.1"
+    },
+    {
+      "id": "tema_05_test_20_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 18 TUE, el Alto Representante 'Contribuirá con sus propuestas a elaborar dicha política y la ejecutará como mandatario del'. ¿De quién es mandatario?",
+      "options": {
+        "a": "Del Consejo Europeo",
+        "b": "Del Consejo",
+        "c": "De la Comisión",
+        "d": "Del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 18 TUE establece que el Alto Representante 'Contribuirá con sus propuestas a elaborar dicha política y la ejecutará como mandatario del Consejo'. El Consejo es quien adopta las decisiones de política exterior y el Alto Representante las ejecuta.",
+      "ley": "TUE, art. 18"
+    },
+    {
+      "id": "tema_05_test_20_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7 TUE, ¿qué comprobará periódicamente el Consejo tras constatar el riesgo de violación del art. 2?",
+      "options": {
+        "a": "Si el Estado afectado ha cumplido las recomendaciones dirigidas",
+        "b": "Si los motivos que han llevado a tal constatación siguen siendo válidos",
+        "c": "Si corresponde iniciar el procedimiento del art. 7.2",
+        "d": "Si el Alto Representante debe emitir una declaración pública"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.1 TUE establece que 'El Consejo comprobará de manera periódica si los motivos que han llevado a tal constatación siguen siendo válidos'. Es una obligación de seguimiento continuo.",
+      "ley": "TUE, art. 7.1"
+    },
+    {
+      "id": "tema_05_test_20_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.3 TUE, ¿qué fomentará la Unión respecto al patrimonio cultural?",
+      "options": {
+        "a": "La creación de un patrimonio cultural europeo unificado",
+        "b": "La conservación y el desarrollo del patrimonio cultural europeo",
+        "c": "La exportación del modelo cultural europeo al mundo",
+        "d": "La financiación de museos y archivos europeos comunes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que la Unión 'respetará la riqueza de su diversidad cultural y lingüística y velará por la conservación y el desarrollo del patrimonio cultural europeo'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_20_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.5 TUE, el sistema de rotación para la Comisión debe ser 'estrictamente igual'. ¿Qué excluye el propio artículo de este sistema de rotación?",
+      "options": {
+        "a": "Al Presidente de la Comisión",
+        "b": "Al Presidente y al Alto Representante",
+        "c": "Solo al Alto Representante",
+        "d": "A los Vicepresidentes de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.5 TUE establece que a partir del 1 de noviembre de 2014 la Comisión estará compuesta por dos tercios del número de Estados, 'que incluirá a su Presidente y al Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad'. El Presidente y el Alto Representante siempre están incluidos, al margen del sistema de rotación.",
+      "ley": "TUE, art. 17.5"
+    },
+    {
+      "id": "tema_05_test_20_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.1 TUE, la cooperación reforzada está 'abierta permanentemente' a todos los Estados miembros. ¿En qué momento pueden incorporarse?",
+      "options": {
+        "a": "Solo al inicio, antes de que se adopten los primeros actos",
+        "b": "En cualquier momento, durante su vigencia",
+        "c": "Solo cada cinco años, coincidiendo con las elecciones europeas",
+        "d": "Una vez que haya finalizado la fase de constitución"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.1 TUE establece que 'Las cooperaciones reforzadas estarán abiertas permanentemente a todos los Estados miembros'. Esto significa que cualquier Estado puede incorporarse en cualquier momento, respetando los actos ya adoptados.",
+      "ley": "TUE, art. 20.1"
+    },
+    {
+      "id": "tema_05_test_20_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 55 TUE regula las versiones auténticas del Tratado. ¿Qué valor tienen los textos en las lenguas auténticas entre sí?",
+      "options": {
+        "a": "La versión española tiene valor preferente por ser lengua mayoritaria",
+        "b": "Todos los textos son igualmente auténticos",
+        "c": "El texto francés prevalece como lengua de trabajo de la UE",
+        "d": "El texto inglés era el de referencia antes del Brexit"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 55.1 TUE establece que los textos en las 23 lenguas enumeradas 'son igualmente auténticos'. No existe jerarquía entre versiones lingüísticas.",
+      "ley": "TUE, art. 55.1"
+    },
+    {
+      "id": "tema_05_test_20_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 14.1 TUE establece que el Parlamento Europeo ejerce 'funciones de control político y consultivas, en las condiciones establecidas en los Tratados'. ¿Cuál es el máximo instrumento de control político del Parlamento sobre la Comisión?",
+      "options": {
+        "a": "La pregunta parlamentaria con respuesta obligatoria",
+        "b": "La comisión de investigación",
+        "c": "La moción de censura",
+        "d": "El voto de desconfianza individual a un comisario"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El máximo instrumento de control político del Parlamento Europeo sobre la Comisión es la moción de censura, regulada en el art. 17.8 TUE y desarrollada en el art. 234 TFUE. Si se aprueba, obliga a la Comisión a dimitir colectivamente.",
+      "ley": "TUE, art. 14.1 y art. 17.8"
+    },
+    {
+      "id": "tema_05_test_20_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 4.3 TUE obliga a los Estados miembros a 'ayudar a la Unión en el cumplimiento de su misión'. Esta obligación es parte del principio de cooperación leal. ¿Qué relación tiene con los objetivos de la Unión?",
+      "options": {
+        "a": "Los Estados deben adoptar los objetivos de la Unión como propios en todos los ámbitos",
+        "b": "Los Estados deben abstenerse de toda medida que ponga en peligro la consecución de los objetivos de la Unión",
+        "c": "Los Estados deben financiar los objetivos de la Unión con aportaciones extraordinarias",
+        "d": "Los Estados deben incorporar los objetivos de la Unión a sus constituciones nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.3 TUE establece que los Estados miembros 'ayudarán a la Unión en el cumplimiento de su misión y se abstendrán de toda medida que pueda poner en peligro la consecución de los objetivos de la Unión'.",
+      "ley": "TUE, art. 4.3"
+    },
+    {
+      "id": "tema_05_test_20_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 43.1 TUE, las misiones de la PCSD incluyen 'las operaciones de estabilización al término de los conflictos'. ¿Bajo qué categoría más amplia se engloban?",
+      "options": {
+        "a": "Misiones humanitarias y de rescate",
+        "b": "Misiones en las que intervengan fuerzas de combate para la gestión de crisis",
+        "c": "Misiones de prevención de conflictos y mantenimiento de la paz",
+        "d": "Actuaciones conjuntas en materia de desarme"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 43.1 TUE menciona 'las misiones en las que intervengan fuerzas de combate para la gestión de crisis, incluidas las misiones de restablecimiento de la paz y las operaciones de estabilización al término de los conflictos'.",
+      "ley": "TUE, art. 43.1"
+    },
+    {
+      "id": "tema_05_test_20_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 46 TUE tiene 6 apartados que regulan el ciclo completo de la cooperación estructurada permanente. ¿Qué regula el apartado 5?",
+      "options": {
+        "a": "La creación de la cooperación estructurada permanente",
+        "b": "La incorporación de nuevos Estados participantes",
+        "c": "La suspensión de un Estado que no cumple los criterios",
+        "d": "El abandono voluntario de la cooperación estructurada permanente"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 46.5 TUE regula el abandono voluntario: 'Si un Estado miembro participante decide abandonar la cooperación estructurada permanente, notificará su decisión al Consejo, que tomará nota de que ha finalizado la participación de ese Estado miembro'.",
+      "ley": "TUE, art. 46.5"
+    },
+    {
+      "id": "tema_05_test_20_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 9 TUE, la ciudadanía de la Unión se añade a la ciudadanía nacional sin sustituirla. ¿Cómo se adquiere la ciudadanía de la Unión?",
+      "options": {
+        "a": "Mediante solicitud ante la Comisión Europea",
+        "b": "Automáticamente por tener la nacionalidad de un Estado miembro",
+        "c": "Tras residir cinco años en cualquier Estado miembro",
+        "d": "Mediante decisión del Consejo en casos específicos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 9 TUE establece que 'Será ciudadano de la Unión toda persona que tenga la nacionalidad de un Estado miembro'. La ciudadananía de la Unión se adquiere automáticamente al tener la nacionalidad de un Estado miembro, sin ningún trámite adicional.",
+      "ley": "TUE, art. 9"
+    },
+    {
+      "id": "tema_05_test_20_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.7 TUE, ¿qué comité se encarga de preparar los trabajos del Consejo?",
+      "options": {
+        "a": "El Comité Económico y Social",
+        "b": "El Comité de las Regiones",
+        "c": "El Comité de Representantes Permanentes (COREPER)",
+        "d": "El Comité Político y de Seguridad"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 16.7 TUE establece que 'Un Comité de Representantes Permanentes de los Gobiernos de los Estados miembros se encargará de preparar los trabajos del Consejo'. Este comité se conoce por sus siglas en francés: COREPER.",
+      "ley": "TUE, art. 16.7"
+    },
+    {
+      "id": "tema_05_test_20_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El TUE reconoce en su art. 6 tres fuentes de derechos fundamentales en la Unión. ¿Cuál de las siguientes afirmaciones es INCORRECTA?",
+      "options": {
+        "a": "La Carta tiene el mismo valor jurídico que los Tratados",
+        "b": "La Unión se adherirá al Convenio Europeo de Derechos Humanos",
+        "c": "Los derechos del CEDH y las tradiciones constitucionales forman principios generales del Derecho de la Unión",
+        "d": "La adhesión al CEDH ampliará las competencias de la Unión"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 6.2 TUE establece expresamente que la adhesión al CEDH 'no modificará las competencias de la Unión que se definen en los Tratados'. Por tanto, afirmar que las ampliará es incorrecto.",
+      "ley": "TUE, art. 6"
+    },
+    {
+      "id": "tema_05_test_20_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 49 TUE, el acuerdo de adhesión entre el Estado solicitante y los Estados miembros fija las condiciones de admisión y las adaptaciones de los Tratados. ¿Quiénes lo ratifican?",
+      "options": {
+        "a": "Solo el Estado solicitante",
+        "b": "El Consejo Europeo por unanimidad",
+        "c": "Todos los Estados contratantes conforme a sus normas constitucionales",
+        "d": "El Parlamento Europeo por mayoría de sus miembros"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 49 TUE establece que el acuerdo de adhesión 'se someterá a la ratificación de todos los Estados contratantes, de conformidad con sus respectivas normas constitucionales'. Requiere ratificación de todos, incluido el Estado que se adhiere.",
+      "ley": "TUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_20_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 10.4 TUE reconoce el papel de los partidos políticos europeos. ¿Qué contribuyen a formar?",
+      "options": {
+        "a": "Los programas legislativos del Parlamento Europeo",
+        "b": "La conciencia política europea",
+        "c": "Las listas de candidatos a la Comisión",
+        "d": "Los grupos de trabajo del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 10.4 TUE establece que los partidos políticos a escala europea 'contribuirán a formar la conciencia política europea y a expresar la voluntad de los ciudadanos de la Unión'.",
+      "ley": "TUE, art. 10.4"
+    },
+    {
+      "id": "tema_05_test_20_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.4 TUE, las decisiones sobre la PCSD se adoptan por unanimidad del Consejo. ¿Qué consecuencia tiene esto respecto al Parlamento Europeo?",
+      "options": {
+        "a": "El Parlamento puede vetar las decisiones de la PCSD",
+        "b": "El Parlamento no participa en las decisiones de la PCSD, que son competencia del Consejo",
+        "c": "El Parlamento debe ser consultado antes de cada decisión",
+        "d": "El Parlamento aprueba el presupuesto de la PCSD con carácter vinculante"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Las decisiones sobre la PCSD son adoptadas por el Consejo (por unanimidad, según el art. 42.4 TUE), siendo una de las materias donde el Parlamento Europeo no participa en la función legislativa/decisional. La PESC/PCSD es fundamentalmente intergubernamental.",
+      "ley": "TUE, art. 42.4"
+    },
+    {
+      "id": "tema_05_test_20_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Para concluir el estudio del TUE: según el art. 1 TUE, ¿cuál es la base jurídica doble sobre la que se fundamenta la Unión Europea?",
+      "options": {
+        "a": "El TUE y el Tratado de Roma",
+        "b": "El TUE y el Tratado de Funcionamiento de la Unión Europea (TFUE)",
+        "c": "El TUE y la Carta de los Derechos Fundamentales",
+        "d": "El TUE y el Tratado de Lisboa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 1 TUE establece que 'La Unión se fundamenta en el presente Tratado y en el Tratado de Funcionamiento de la Unión Europea (en lo sucesivo denominados «los Tratados»). Ambos Tratados tienen el mismo valor jurídico'.",
+      "ley": "TUE, art. 1"
+    }
+  ]
+}

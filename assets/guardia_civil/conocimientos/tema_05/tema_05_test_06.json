@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 6",
+  "preguntas": [
+    {
+      "id": "tema_05_test_06_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 13.1 TUE, ¿cuántas instituciones forman el marco institucional de la Unión Europea?",
+      "options": {
+        "a": "5 instituciones",
+        "b": "6 instituciones",
+        "c": "7 instituciones",
+        "d": "8 instituciones"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 13.1 TUE enumera 7 instituciones: el Parlamento Europeo, el Consejo Europeo, el Consejo, la Comisión Europea, el Tribunal de Justicia de la UE, el Banco Central Europeo y el Tribunal de Cuentas.",
+      "ley": "TUE, art. 13.1"
+    },
+    {
+      "id": "tema_05_test_06_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuál de las siguientes instituciones NO figura en la lista del art. 13.1 TUE?",
+      "options": {
+        "a": "El Banco Central Europeo",
+        "b": "El Tribunal de Cuentas",
+        "c": "El Defensor del Pueblo Europeo",
+        "d": "El Tribunal de Justicia de la Unión Europea"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El Defensor del Pueblo Europeo no es una de las 7 instituciones de la UE enumeradas en el art. 13.1 TUE. Es un órgano independiente que investiga quejas de los ciudadanos.",
+      "ley": "TUE, art. 13.1"
+    },
+    {
+      "id": "tema_05_test_06_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.3 TUE, el Tribunal de Justicia se pronunciará con carácter prejudicial a petición de:",
+      "options": {
+        "a": "Los ciudadanos de la Unión directamente",
+        "b": "Los órganos jurisdiccionales nacionales",
+        "c": "La Comisión Europea",
+        "d": "El Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.3.b) TUE establece que el Tribunal de Justicia se pronunciará 'con carácter prejudicial, a petición de los órganos jurisdiccionales nacionales, sobre la interpretación del Derecho de la Unión o sobre la validez de los actos adoptados por las instituciones'.",
+      "ley": "TUE, art. 19.3.b)"
+    },
+    {
+      "id": "tema_05_test_06_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. La Agencia Europea de Defensa según el art. 45.1 TUE contribuye a definir los objetivos de capacidades militares de los Estados miembros y a evaluar:",
+      "options": {
+        "a": "El gasto en armamento de cada Estado",
+        "b": "El respeto de los compromisos de capacidades contraídos por los Estados",
+        "c": "La eficacia de las misiones de paz de la ONU",
+        "d": "La integración de los nuevos miembros en estructuras de defensa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.1.a) TUE establece que la Agencia contribuirá 'a definir los objetivos de capacidades militares de los Estados miembros y a evaluar el respeto de los compromisos de capacidades contraídos por los Estados miembros'.",
+      "ley": "TUE, art. 45.1.a)"
+    },
+    {
+      "id": "tema_05_test_06_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.3 TUE, ¿cuál es la regla general de votación del Consejo?",
+      "options": {
+        "a": "Unanimidad",
+        "b": "Mayoría simple",
+        "c": "Mayoría cualificada",
+        "d": "Consenso"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 16.3 TUE establece que 'El Consejo se pronunciará por mayoría cualificada, excepto cuando los Tratados dispongan otra cosa'.",
+      "ley": "TUE, art. 16.3"
+    },
+    {
+      "id": "tema_05_test_06_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre el principio de atribución según el art. 5.2 TUE:",
+      "options": {
+        "a": "La Unión actúa dentro de los límites de las competencias atribuidas por los Estados",
+        "b": "Los objetivos de la acción de la Unión son determinados por los Tratados",
+        "c": "La Unión puede asumir competencias implícitas no previstas en los Tratados cuando las necesite",
+        "d": "Toda competencia no atribuida corresponde a los Estados miembros"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 5.2 TUE establece el principio de atribución de forma estricta: la Unión actúa 'dentro de los límites de las competencias que le atribuyen los Estados miembros en los Tratados'. No puede asumir competencias implícitas por su propia voluntad.",
+      "ley": "TUE, art. 5.2"
+    },
+    {
+      "id": "tema_05_test_06_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.6 TUE, ¿qué tipo de cooperación establecen los Estados que cumplen criterios más elevados de capacidades militares?",
+      "options": {
+        "a": "Cooperación reforzada",
+        "b": "Cooperación estructurada permanente",
+        "c": "Cooperación intergubernamental especial",
+        "d": "Alianza defensiva autónoma"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.6 TUE establece que los Estados que cumplan criterios más elevados de capacidades militares 'establecerán una cooperación estructurada permanente en el marco de la Unión'.",
+      "ley": "TUE, art. 42.6"
+    },
+    {
+      "id": "tema_05_test_06_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. La Carta de los Derechos Fundamentales fue proclamada originalmente el:",
+      "options": {
+        "a": "1 de enero de 1999",
+        "b": "7 de diciembre de 2000",
+        "c": "29 de octubre de 2004",
+        "d": "13 de diciembre de 2007"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Según el art. 6.1 TUE, la Carta de los Derechos Fundamentales es 'de 7 de diciembre de 2000', fecha en que fue proclamada, aunque fue adaptada posteriormente el 12 de diciembre de 2007 en Estrasburgo.",
+      "ley": "TUE, art. 6.1"
+    },
+    {
+      "id": "tema_05_test_06_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 11.2 TUE, las instituciones mantendrán con las asociaciones representativas y la sociedad civil un diálogo:",
+      "options": {
+        "a": "Reservado y confidencial",
+        "b": "Abierto, transparente y regular",
+        "c": "Restringido a materias económicas",
+        "d": "De carácter meramente consultivo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11.2 TUE establece que 'Las instituciones mantendrán un diálogo abierto, transparente y regular con las asociaciones representativas y la sociedad civil'.",
+      "ley": "TUE, art. 11.2"
+    },
+    {
+      "id": "tema_05_test_06_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.4 TUE, el miembro del Consejo Europeo que represente al Estado que se retira:",
+      "options": {
+        "a": "Puede participar en deliberaciones pero no votar",
+        "b": "Participa plenamente hasta que se efectúe la retirada",
+        "c": "No participará en las deliberaciones ni en las decisiones que le afecten",
+        "d": "Solo puede asistir como observador"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 50.4 TUE establece que 'el miembro del Consejo Europeo y del Consejo que represente al Estado miembro que se retire no participará ni en las deliberaciones ni en las decisiones del Consejo Europeo o del Consejo que le afecten'.",
+      "ley": "TUE, art. 50.4"
+    },
+    {
+      "id": "tema_05_test_06_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre la función presupuestaria según el art. 14.1 y 16.1 TUE:",
+      "options": {
+        "a": "La ejerce en exclusiva el Parlamento Europeo",
+        "b": "La ejerce en exclusiva el Consejo",
+        "c": "La ejercen conjuntamente el Parlamento Europeo y el Consejo",
+        "d": "La ejerce la Comisión con control del Tribunal de Cuentas"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). Tanto el art. 14.1 como el art. 16.1 TUE establecen que el Parlamento Europeo y el Consejo 'ejercerán conjuntamente con el Consejo/Parlamento la función legislativa y la función presupuestaria'.",
+      "ley": "TUE, art. 14.1 y art. 16.1"
+    },
+    {
+      "id": "tema_05_test_06_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.3 TUE, la Unión establecerá un mercado interior basado en un crecimiento económico:",
+      "options": {
+        "a": "Sostenido y sin restricciones",
+        "b": "Equilibrado y en la estabilidad de los precios",
+        "c": "Acelerado para alcanzar el pleno empleo",
+        "d": "Controlado por las instituciones financieras europeas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que la Unión obrará en pro del 'desarrollo sostenible de Europa basado en un crecimiento económico equilibrado y en la estabilidad de los precios'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_06_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.4 TUE, si un Estado de la cooperación estructurada permanente ya no cumple los criterios, ¿quién puede adoptar la decisión de suspender su participación?",
+      "options": {
+        "a": "El Consejo por unanimidad de todos sus miembros",
+        "b": "El Consejo por mayoría cualificada de los participantes, excepto el Estado afectado",
+        "c": "El Consejo Europeo por unanimidad",
+        "d": "La Comisión mediante decisión motivada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.4 TUE establece que 'El Consejo se pronunciará por mayoría cualificada. Únicamente participarán en la votación los miembros del Consejo que representen a los Estados miembros participantes, con excepción del Estado miembro de que se trate'.",
+      "ley": "TUE, art. 46.4"
+    },
+    {
+      "id": "tema_05_test_06_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Consejo de Asuntos Generales según el art. 16.6 TUE tiene como función:",
+      "options": {
+        "a": "Elaborar la acción exterior de la Unión",
+        "b": "Velar por la coherencia de los trabajos de las diferentes formaciones del Consejo",
+        "c": "Coordinar la política monetaria de la zona euro",
+        "d": "Supervisar la aplicación del presupuesto de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.6 TUE establece que 'El Consejo de Asuntos Generales velará por la coherencia de los trabajos de las diferentes formaciones del Consejo. Preparará las reuniones del Consejo Europeo'.",
+      "ley": "TUE, art. 16.6"
+    },
+    {
+      "id": "tema_05_test_06_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.3 TUE, la Unión fomentará la cohesión económica, social y territorial y la solidaridad entre:",
+      "options": {
+        "a": "Las regiones de los Estados miembros",
+        "b": "Los ciudadanos de la Unión",
+        "c": "Los Estados miembros",
+        "d": "Los partidos políticos europeos"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 3.3 TUE establece expresamente que 'La Unión fomentará la cohesión económica, social y territorial y la solidaridad entre los Estados miembros'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_06_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. En el procedimiento ordinario de revisión de los Tratados (art. 48 TUE), la Convención examina los proyectos y adopta por consenso una recomendación dirigida a:",
+      "options": {
+        "a": "El Consejo Europeo para su aprobación por unanimidad",
+        "b": "Una Conferencia de representantes de los Gobiernos de los Estados miembros",
+        "c": "El Parlamento Europeo para su ratificación",
+        "d": "Los Parlamentos nacionales para ratificación directa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48.3 TUE establece que la Convención 'adoptará por consenso una recomendación dirigida a una Conferencia de representantes de los Gobiernos de los Estados miembros'.",
+      "ley": "TUE, art. 48.3"
+    },
+    {
+      "id": "tema_05_test_06_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.4 TUE, ¿quién elige al Presidente y a la Mesa del Parlamento Europeo?",
+      "options": {
+        "a": "El Consejo Europeo por mayoría cualificada",
+        "b": "Los líderes de los grupos parlamentarios",
+        "c": "El propio Parlamento Europeo de entre sus diputados",
+        "d": "Los Gobiernos de los Estados miembros de común acuerdo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 14.4 TUE establece que 'El Parlamento Europeo elegirá a su Presidente y a la Mesa de entre sus diputados'.",
+      "ley": "TUE, art. 14.4"
+    },
+    {
+      "id": "tema_05_test_06_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre las competencias del Parlamento Europeo según el art. 14.1 TUE:",
+      "options": {
+        "a": "Ejerce la función legislativa conjuntamente con el Consejo",
+        "b": "Ejerce la función presupuestaria conjuntamente con el Consejo",
+        "c": "Ejerce funciones de control político y consultivas",
+        "d": "Nombra directamente al Presidente del Consejo Europeo"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 14.1 TUE no atribuye al Parlamento Europeo la función de nombrar al Presidente del Consejo Europeo. Este es elegido por el propio Consejo Europeo por mayoría cualificada (art. 15.5 TUE).",
+      "ley": "TUE, art. 14.1 y art. 15.5"
+    },
+    {
+      "id": "tema_05_test_06_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.5 TUE, el sistema de rotación para la selección de los miembros de la Comisión será establecido por unanimidad por:",
+      "options": {
+        "a": "El Parlamento Europeo",
+        "b": "El Consejo",
+        "c": "El Consejo Europeo",
+        "d": "La Comisión misma"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 17.5 TUE establece que el sistema de rotación estrictamente igual 'será establecido por unanimidad por el Consejo Europeo'.",
+      "ley": "TUE, art. 17.5"
+    },
+    {
+      "id": "tema_05_test_06_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuántos valores enumera el art. 2 TUE como fundamento de la Unión?",
+      "options": {
+        "a": "Cuatro valores",
+        "b": "Cinco valores",
+        "c": "Seis valores",
+        "d": "Ocho valores"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 2 TUE enumera seis valores: dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto a los derechos humanos (incluidos los de las personas pertenecientes a minorías).",
+      "ley": "TUE, art. 2"
+    }
+  ]
+}

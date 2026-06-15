@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 35",
+  "preguntas": [
+    {
+      "id": "tema_05_test_35_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 38.1 TFUE establece que la Unión definirá y aplicará una política común de agricultura y de pesca. Según ese mismo artículo, ¿qué abarcará el mercado interior?",
+      "options": {
+        "a": "Solo los productos manufacturados",
+        "b": "La agricultura, la pesca y el comercio de los productos agrícolas",
+        "c": "Solo los productos industriales y los servicios",
+        "d": "Los recursos naturales, incluidos los energéticos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 38.1 TFUE establece que 'El mercado interior abarcará la agricultura, la pesca y el comercio de los productos agrícolas'. La agricultura y la pesca forman parte integral del mercado interior.",
+      "ley": "TFUE, art. 38.1"
+    },
+    {
+      "id": "tema_05_test_35_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 39.1 TFUE, ¿cuáles son los objetivos de la Política Agrícola Común?",
+      "options": {
+        "a": "Solo el aumento de la productividad agrícola y la garantía de rentas adecuadas",
+        "b": "Incrementar la productividad agrícola, garantizar un nivel de vida equitativo a la población agrícola, estabilizar los mercados, garantizar la seguridad de los abastecimientos y asegurar al consumidor suministros a precios razonables",
+        "c": "La armonización de los precios agrícolas en todos los Estados miembros",
+        "d": "La eliminación de los subsidios agrícolas para garantizar la libre competencia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 39.1 TFUE establece cinco objetivos de la PAC: a) incrementar la productividad agrícola; b) garantizar un nivel de vida equitativo a la población agrícola; c) estabilizar los mercados; d) garantizar la seguridad de los abastecimientos; e) asegurar al consumidor suministros a precios razonables.",
+      "ley": "TFUE, art. 39.1"
+    },
+    {
+      "id": "tema_05_test_35_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 39.2 TFUE establece que al elaborar la PAC se tendrá en cuenta la naturaleza especial de la actividad agrícola. ¿Cuáles son los tres factores que menciona?",
+      "options": {
+        "a": "El tamaño de las explotaciones, el impacto ambiental y el empleo rural",
+        "b": "La naturaleza especial de la actividad agrícola, las disparidades estructurales y naturales entre regiones, y la necesidad de efectuar gradualmente los oportunos reajustes",
+        "c": "La historia agrícola de cada Estado, la tradición culinaria europea y la biodiversidad",
+        "d": "El clima, el suelo y los recursos hídricos disponibles en cada región"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 39.2 TFUE establece que al elaborar la PAC se tendrá en cuenta: a) la naturaleza especial de la actividad agrícola derivada de la estructura social de la agricultura y de las disparidades estructurales y naturales entre regiones agrícolas; b) la necesidad de efectuar gradualmente los oportunos reajustes; c) el hecho de que en los Estados miembros el sector agrícola se encuentra estrechamente vinculado al conjunto de la economía.",
+      "ley": "TFUE, art. 39.2"
+    },
+    {
+      "id": "tema_05_test_35_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 40 TFUE, ¿qué puede implicar la organización común de los mercados agrícolas?",
+      "options": {
+        "a": "Solo la fijación de precios comunes para todos los productos agrícolas",
+        "b": "Toda regulación de precios, ayudas para la producción y distribución, sistemas de almacenamiento y trasvase, y mecanismos comunes de estabilización de las importaciones o de las exportaciones",
+        "c": "La privatización obligatoria de todos los organismos públicos de comercialización agrícola",
+        "d": "La armonización de los impuestos sobre la producción agrícola en todos los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 40.2 TFUE establece que la organización común de los mercados agrícolas 'podrá comprender toda regulación de precios, ayudas para la producción y distribución de los distintos productos, sistemas de almacenamiento y trasvase y mecanismos comunes de estabilización de las importaciones o de las exportaciones'.",
+      "ley": "TFUE, art. 40.2"
+    },
+    {
+      "id": "tema_05_test_35_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 38.3 TFUE, ¿cómo se determina el ámbito de aplicación de la PAC?",
+      "options": {
+        "a": "Por decisión del Consejo por unanimidad",
+        "b": "Los productos a los que se aplican los arts. 39 a 44 figuran en la lista del Anexo I del TFUE",
+        "c": "Lo decide la Comisión mediante reglamento delegado",
+        "d": "Se incluyen todos los productos del sector primario de producción"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 38.3 TFUE establece que 'Los productos contemplados en los artículos 39 a 44 inclusive figuran en la lista del Anexo I del presente Tratado'. Es el Anexo I del TFUE el que determina qué productos están sujetos a la PAC.",
+      "ley": "TFUE, art. 38.3"
+    },
+    {
+      "id": "tema_05_test_35_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 41 TFUE establece que para alcanzar los objetivos de la PAC podrán preverse medidas de coordinación de la formación profesional. ¿En qué ámbito agrícola en concreto?",
+      "options": {
+        "a": "Solo para los trabajadores agrícolas migrantes dentro de la Unión",
+        "b": "En el campo agrícola, se podrán prever medidas de coordinación en el ámbito de la formación profesional para favorecer los objetivos de los arts. 39 y 40",
+        "c": "Solo para los profesionales de la veterinaria y la agronomía",
+        "d": "Para los empleados de los organismos de regulación del mercado agrícola"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 41 TFUE establece que 'Para alcanzar los objetivos de la política agrícola común, podrán preverse, en el marco de esta política común, medidas tales como: a) una coordinación efectiva de los esfuerzos realizados en materia de formación profesional, de investigación y de divulgación de los conocimientos agronómicos'.",
+      "ley": "TFUE, art. 41"
+    },
+    {
+      "id": "tema_05_test_35_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42 TFUE, ¿se aplican las normas de competencia del TFUE a la producción y al comercio de los productos agrícolas?",
+      "options": {
+        "a": "Sí, sin ninguna excepción ni condición especial",
+        "b": "Solo en la medida determinada por el Parlamento Europeo y el Consejo, teniendo en cuenta los objetivos de la PAC",
+        "c": "No, los productos agrícolas están totalmente exentos de las normas de competencia",
+        "d": "Solo las normas sobre ayudas de Estado, no las de libre competencia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42 TFUE establece que 'Las disposiciones del capítulo relativo a las normas sobre la competencia serán aplicables a la producción y al comercio de los productos agrícolas solo en la medida que el Parlamento Europeo y el Consejo determinen conforme a lo dispuesto en el artículo 43, apartado 2'.",
+      "ley": "TFUE, art. 42"
+    },
+    {
+      "id": "tema_05_test_35_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 43.2 TFUE establece el procedimiento para adoptar los actos de la PAC. ¿Cuál es ese procedimiento?",
+      "options": {
+        "a": "El Consejo por unanimidad sin intervención del Parlamento",
+        "b": "El Parlamento Europeo y el Consejo con arreglo al procedimiento legislativo ordinario",
+        "c": "Solo la Comisión mediante reglamentos de ejecución",
+        "d": "El Consejo por mayoría cualificada con la mera consulta al Parlamento"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 43.2 TFUE establece que 'El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario y previa consulta al Comité Económico y Social, establecerán la organización común de los mercados agrícolas'.",
+      "ley": "TFUE, art. 43.2"
+    },
+    {
+      "id": "tema_05_test_35_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 40.2 TFUE establece que la organización común de los mercados excluirá cualquier discriminación entre productores o consumidores de la Unión. ¿Qué prohibición específica establece respecto a los precios?",
+      "options": {
+        "a": "Prohíbe la diferenciación de precios según la calidad del producto",
+        "b": "La organización común de los mercados agrícolas excluirá cualquier discriminación entre productores o consumidores de la Unión",
+        "c": "Prohíbe a los Estados miembros fijar precios distintos a los precios europeos comunes",
+        "d": "Prohíbe que los precios varíen entre los distintos Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 40.2 TFUE establece que 'La organización común a que se refiere el apartado 1 podrá comprender... Toda organización común de mercados deberá limitarse a perseguir los objetivos enunciados en el artículo 39 y deberá excluir cualquier discriminación entre productores o consumidores de la Unión'.",
+      "ley": "TFUE, art. 40.2"
+    },
+    {
+      "id": "tema_05_test_35_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 44 TFUE regula el comercio intracomunitario de productos agrícolas durante la transición hacia la PAC. ¿Qué mecanismo prevé para la igualación de los precios en el mercado interior?",
+      "options": {
+        "a": "La fijación de precios únicos europeos decididos por la Comisión",
+        "b": "Las exacciones de importación y las subvenciones de exportación entre los Estados miembros podían ser progresivamente reducidas o suprimidas",
+        "c": "La creación de una bolsa de productos agrícolas europea",
+        "d": "La adopción de aranceles comunes externos para igualar los precios interiores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 44 TFUE establece mecanismos transitorios para la formación de precios comunes: en el período de transición, 'se podrán conceder ayudas cuando, en determinados sectores, la Comisión lo estime conveniente, a fin de facilitar el acceso a los mercados' y prevé ajustes mediante exacciones y subvenciones.",
+      "ley": "TFUE, art. 44"
+    },
+    {
+      "id": "tema_05_test_35_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 39.1.b) TFUE habla de garantizar 'un nivel de vida equitativo a la población agrícola'. ¿Cómo se conseguirá eso en particular?",
+      "options": {
+        "a": "Fijando salarios mínimos obligatorios para los trabajadores agrícolas",
+        "b": "Mediante el aumento de la renta individual de los que trabajan en la agricultura",
+        "c": "Subvencionando directamente el consumo de productos agrícolas",
+        "d": "Estableciendo precios mínimos garantizados para todos los productos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 39.1.b) TFUE establece que un objetivo de la PAC es 'garantizar así un nivel de vida equitativo a la población agrícola, en especial mediante el aumento de la renta individual de los que trabajan en la agricultura'.",
+      "ley": "TFUE, art. 39.1.b)"
+    },
+    {
+      "id": "tema_05_test_35_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 43.3 TFUE establece que el Consejo adoptará, a propuesta de la Comisión, las medidas relativas a la fijación de precios y de exacciones. ¿Qué medidas concretas puede adoptar el Consejo por este procedimiento especial?",
+      "options": {
+        "a": "Solo las medidas de reforma estructural de la PAC",
+        "b": "Las medidas relativas a la fijación de precios, exacciones, ayudas y limitaciones cuantitativas, así como a la fijación y reparto de las posibilidades de pesca",
+        "c": "Solo las medidas de apoyo financiero directo a los agricultores",
+        "d": "Las medidas sobre el comercio exterior de productos agrícolas con terceros países"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 43.3 TFUE establece que 'El Consejo, a propuesta de la Comisión, adoptará las medidas relativas a la fijación de precios, exacciones, ayudas y limitaciones cuantitativas, así como a la fijación y reparto de las posibilidades de pesca'.",
+      "ley": "TFUE, art. 43.3"
+    },
+    {
+      "id": "tema_05_test_35_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 38.4 TFUE establece que el funcionamiento y desarrollo del mercado interior de los productos agrícolas deben ir acompañados del establecimiento de la política agrícola común. ¿Qué implica esto para la PAC?",
+      "options": {
+        "a": "Que la PAC tiene carácter optativo para los Estados miembros",
+        "b": "Que el establecimiento de la PAC es una condición necesaria para que el mercado interior funcione correctamente en el sector agrícola",
+        "c": "Que la PAC solo aplica a los países de la zona euro",
+        "d": "Que la PAC puede aplazarse indefinidamente si el mercado interior ya funciona"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 38.4 TFUE establece que 'El funcionamiento y el desarrollo del mercado interior para los productos agrícolas deberán ir acompañados del establecimiento de una política agrícola común'. La PAC es, por tanto, una condición esencial para el mercado interior agrícola.",
+      "ley": "TFUE, art. 38.4"
+    },
+    {
+      "id": "tema_05_test_35_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 39.1.c) TFUE establece como objetivo de la PAC 'estabilizar los mercados'. ¿Qué relación tiene este objetivo con el de precios razonables para los consumidores?",
+      "options": {
+        "a": "Son objetivos contrapuestos que generan tensiones permanentes",
+        "b": "Ambos son objetivos complementarios de la PAC que se persiguen simultáneamente",
+        "c": "La estabilidad de los mercados es prioritaria sobre los precios para consumidores",
+        "d": "Los precios razonables tienen prioridad absoluta sobre la estabilización"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Los cinco objetivos del art. 39.1 TFUE son complementarios y deben perseguirse simultáneamente, aunque pueden crear tensiones entre sí (como entre precios equitativos para agricultores y precios razonables para consumidores), lo que requiere equilibrio en la aplicación de la PAC.",
+      "ley": "TFUE, art. 39.1"
+    },
+    {
+      "id": "tema_05_test_35_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42 TFUE, en los ámbitos agrícolas donde se aplican las normas de competencia, ¿puede el Consejo autorizar ayudas en determinadas circunstancias?",
+      "options": {
+        "a": "No, las ayudas están siempre prohibidas en el sector agrícola",
+        "b": "Sí, el Consejo puede autorizar la concesión de ayudas para la producción o el comercio de productos agrícolas cuando determinadas circunstancias económicas lo justifiquen",
+        "c": "Solo la Comisión puede autorizar ayudas al sector agrícola",
+        "d": "Solo se pueden autorizar ayudas de minimis de carácter temporal"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42 TFUE establece que 'el Consejo podrá autorizar la concesión de ayudas: para la protección de las explotaciones desfavorecidas por condiciones estructurales o naturales; para el desarrollo de programas económicos'.",
+      "ley": "TFUE, art. 42"
+    },
+    {
+      "id": "tema_05_test_35_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 40.3 TFUE, ¿en qué puede estar integrada la organización común de los mercados agrícolas?",
+      "options": {
+        "a": "Solo en un organismo europeo de regulación de precios",
+        "b": "En uno o varios de los tipos siguientes: normas comunes sobre la competencia, coordinación obligatoria de las diversas organizaciones nacionales de mercado, u organización europea del mercado",
+        "c": "En un banco de desarrollo agrícola europeo",
+        "d": "En un fondo de garantía agrícola europeo con dotación propia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 40.1 TFUE establece que la organización común de los mercados agrícolas 'se establecerá en una o varias de las formas siguientes: a) normas comunes sobre la competencia; b) una coordinación obligatoria de las diversas organizaciones nacionales de mercado; c) una organización europea del mercado'.",
+      "ley": "TFUE, art. 40.1"
+    },
+    {
+      "id": "tema_05_test_35_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 39.1.a) TFUE, ¿cómo se consigue el objetivo de incrementar la productividad agrícola?",
+      "options": {
+        "a": "Solo mediante subvenciones directas a las explotaciones más grandes",
+        "b": "Fomentando el progreso técnico y asegurando el desarrollo racional de la producción agrícola, así como el empleo óptimo de los factores de producción, en particular de la mano de obra",
+        "c": "Mediante la concentración de la producción en las regiones más eficientes",
+        "d": "A través de la eliminación de las pequeñas explotaciones no rentables"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 39.1.a) TFUE establece que el objetivo de incrementar la productividad agrícola se conseguirá 'fomentando el progreso técnico, asegurando el desarrollo racional de la producción agrícola, así como el empleo óptimo de los factores de producción, en particular de la mano de obra'.",
+      "ley": "TFUE, art. 39.1.a)"
+    },
+    {
+      "id": "tema_05_test_35_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 38.1 TFUE establece que 'Por productos agrícolas se entiende los productos del suelo, de la ganadería y de la pesca'. ¿Qué otros productos incluye?",
+      "options": {
+        "a": "Los productos biotecnológicos y transgénicos",
+        "b": "Los productos de primera transformación directamente relacionados con ellos",
+        "c": "Solo los productos en estado natural sin transformación alguna",
+        "d": "Los productos de la acuicultura y piscicultura"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 38.1 TFUE establece que 'Por productos agrícolas se entiende los productos del suelo, de la ganadería y de la pesca, así como los productos de primera transformación directamente relacionados con dichos productos'.",
+      "ley": "TFUE, art. 38.1"
+    },
+    {
+      "id": "tema_05_test_35_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 43.1 TFUE, ¿qué presentará la Comisión después de consultar al Comité Económico y Social para establecer la PAC?",
+      "options": {
+        "a": "Una propuesta de Tratado internacional sobre la producción agrícola mundial",
+        "b": "Propuestas en lo que respecta a la elaboración y aplicación de la política agrícola común",
+        "c": "Un plan quinquenal de producción agrícola para cada Estado miembro",
+        "d": "Un Libro Blanco sobre el futuro de la agricultura europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 43.1 TFUE establece que 'La Comisión presentará propuestas en lo que respecta a la elaboración y aplicación de la política agrícola común, incluida la sustitución de las medidas nacionales por alguno de los sistemas previstos en el artículo 40, párrafo 1, así como la aplicación de las medidas mencionadas en el presente título'.",
+      "ley": "TFUE, art. 43.1"
+    },
+    {
+      "id": "tema_05_test_35_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 40.4 TFUE establece la financiación de la organización común de los mercados agrícolas. ¿A través de qué se financiará?",
+      "options": {
+        "a": "Mediante contribuciones directas de los agricultores europeos",
+        "b": "Uno o varios fondos agrícolas",
+        "c": "Con cargo al presupuesto general de la Unión en su integridad",
+        "d": "Mediante un sistema de cotizaciones de los Estados miembros proporcional a su producción agrícola"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 40.4 TFUE establece que 'Para que la organización común contemplada en el apartado 1 pueda alcanzar sus objetivos, podrán crearse uno o varios fondos de orientación y de garantía agrícolas'.",
+      "ley": "TFUE, art. 40.4"
+    }
+  ]
+}

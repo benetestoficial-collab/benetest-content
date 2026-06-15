@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 18",
+  "preguntas": [
+    {
+      "id": "tema_05_test_18_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 18.1 TUE, el Alto Representante puede ser cesado por el Consejo Europeo. ¿Con qué requisito adicional respecto a su nombramiento?",
+      "options": {
+        "a": "Con aprobación del Parlamento Europeo por mayoría de dos tercios",
+        "b": "Por el mismo procedimiento: por mayoría cualificada del Consejo Europeo con aprobación del Presidente de la Comisión",
+        "c": "Por unanimidad del Consejo Europeo",
+        "d": "Solo puede ser cesado por moción de censura del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 18.1 TUE establece que 'El Consejo Europeo podrá poner fin a su mandato por el mismo procedimiento', es decir, por mayoría cualificada del Consejo Europeo con aprobación del Presidente de la Comisión.",
+      "ley": "TUE, art. 18.1"
+    },
+    {
+      "id": "tema_05_test_18_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.3 TUE dispone que la Unión obrará en pro del desarrollo sostenible. ¿Qué modelo económico describe expresamente?",
+      "options": {
+        "a": "Una economía liberal y de mercado libre",
+        "b": "Una economía social de mercado altamente competitiva",
+        "c": "Una economía planificada con correcciones de mercado",
+        "d": "Una economía mixta con predominio del sector público"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE describe expresamente el modelo económico de la Unión como 'una economía social de mercado altamente competitiva, tendente al pleno empleo y al progreso social'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_18_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7 TUE, en el procedimiento del apartado 2, ¿quién invita al Estado miembro a presentar sus observaciones antes de la constatación de violación grave y persistente?",
+      "options": {
+        "a": "La Comisión Europea",
+        "b": "El Consejo Europeo",
+        "c": "El Parlamento Europeo",
+        "d": "El Tribunal de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.2 TUE establece que el Consejo Europeo puede constatar la violación grave y persistente 'tras invitar al Estado miembro de que se trate a que presente sus observaciones'. Es el propio Consejo Europeo quien realiza esta invitación.",
+      "ley": "TUE, art. 7.2"
+    },
+    {
+      "id": "tema_05_test_18_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 15.3 TUE menciona que cuando el orden del día lo exija, los miembros del Consejo Europeo pueden decidir contar con la asistencia de un ministro. ¿Con cuántos miembros de la Comisión puede contar el Presidente de la Comisión?",
+      "options": {
+        "a": "Con dos miembros de la Comisión",
+        "b": "Con un miembro de la Comisión",
+        "c": "Con todos los miembros que estime necesarios",
+        "d": "No puede estar acompañado de ningún miembro de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.3 TUE establece que los miembros del Consejo Europeo pueden contar 'con la asistencia de un ministro y, en el caso del Presidente de la Comisión, con la de un miembro de la Comisión'.",
+      "ley": "TUE, art. 15.3"
+    },
+    {
+      "id": "tema_05_test_18_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 4.3 TUE consagra el principio de cooperación leal. ¿Quiénes se respetan y asisten mutuamente?",
+      "options": {
+        "a": "Los Estados miembros entre sí",
+        "b": "Las instituciones de la Unión entre sí",
+        "c": "La Unión y los Estados miembros",
+        "d": "La Unión y los países vecinos"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 4.3 TUE establece que 'Conforme al principio de cooperación leal, la Unión y los Estados miembros se respetarán y asistirán mutuamente en el cumplimiento de las misiones derivadas de los Tratados'.",
+      "ley": "TUE, art. 4.3"
+    },
+    {
+      "id": "tema_05_test_18_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.2 TUE, la decisión de autorizar una cooperación reforzada la adopta el Consejo 'con arreglo al procedimiento establecido en el artículo:'",
+      "options": {
+        "a": "Art. 326 TFUE",
+        "b": "Art. 329 TFUE",
+        "c": "Art. 330 TFUE",
+        "d": "Art. 333 TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.2 TUE establece que 'El Consejo se pronunciará con arreglo al procedimiento establecido en el artículo 329 del Tratado de Funcionamiento de la Unión Europea'.",
+      "ley": "TUE, art. 20.2"
+    },
+    {
+      "id": "tema_05_test_18_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 12.e) TUE, los Parlamentos nacionales serán informados de las solicitudes de adhesión a la Unión de conformidad con el artículo:",
+      "options": {
+        "a": "Art. 48 TUE",
+        "b": "Art. 49 TUE",
+        "c": "Art. 50 TUE",
+        "d": "Art. 51 TUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 12.e) TUE establece que los Parlamentos nacionales 'serán informados de las solicitudes de adhesión a la Unión, de conformidad con el artículo 49 del presente Tratado'.",
+      "ley": "TUE, art. 12.e)"
+    },
+    {
+      "id": "tema_05_test_18_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 15.4 TUE establece que el Consejo Europeo se pronuncia por consenso. ¿Qué significa 'consenso' a efectos del Consejo Europeo?",
+      "options": {
+        "a": "Unanimidad con voto afirmativo de todos los miembros",
+        "b": "Ausencia de oposición formal: ningún miembro vota en contra",
+        "c": "Mayoría cualificada de sus miembros",
+        "d": "Aprobación por al menos tres cuartos de los miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El consenso en el Consejo Europeo no requiere un voto afirmativo de todos, sino la ausencia de oposición. Un miembro puede abstenerse sin impedir el consenso. Es diferente de la unanimidad estricta.",
+      "ley": "TUE, art. 15.4"
+    },
+    {
+      "id": "tema_05_test_18_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 16 TUE tiene 9 apartados. ¿Cuál de los siguientes contenidos NO se regula en el art. 16 TUE?",
+      "options": {
+        "a": "Las funciones del Consejo",
+        "b": "La composición del Consejo",
+        "c": "La mayoría cualificada",
+        "d": "La presidencia del Consejo de Asuntos Exteriores por el Alto Representante"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). La presidencia del Consejo de Asuntos Exteriores por el Alto Representante no se regula en el art. 16 TUE sino en el art. 18 TUE. El art. 16.9 TUE solo establece la regla general de presidencia rotatoria, indicando que la excepción de Asuntos Exteriores se deriva del sistema general.",
+      "ley": "TUE, art. 16 y art. 18"
+    },
+    {
+      "id": "tema_05_test_18_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.5 TUE, la Unión contribuirá a la 'solidaridad y el respeto mutuo entre los pueblos'. ¿En el contexto de qué ámbito geográfico?",
+      "options": {
+        "a": "Solo en el ámbito europeo",
+        "b": "En el mundo, en sus relaciones con el resto del mundo",
+        "c": "Solo en los países en vías de desarrollo",
+        "d": "En las relaciones entre los propios Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.5 TUE establece que 'En sus relaciones con el resto del mundo, la Unión afirmará y promoverá sus valores e intereses y contribuirá a la paz, la seguridad, el desarrollo sostenible del planeta, la solidaridad y el respeto mutuo entre los pueblos'.",
+      "ley": "TUE, art. 3.5"
+    },
+    {
+      "id": "tema_05_test_18_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.1 TUE, ¿qué garantizará el Tribunal de Justicia de la Unión Europea?",
+      "options": {
+        "a": "La correcta ejecución del presupuesto de la Unión",
+        "b": "El respeto del Derecho en la interpretación y aplicación de los Tratados",
+        "c": "El cumplimiento de las obligaciones de los Estados miembros",
+        "d": "La defensa de los derechos fundamentales de los ciudadanos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.1 TUE establece la misión principal del Tribunal: 'El Tribunal de Justicia de la Unión Europea garantizará el respeto del Derecho en la interpretación y aplicación de los Tratados'.",
+      "ley": "TUE, art. 19.1"
+    },
+    {
+      "id": "tema_05_test_18_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.4 TUE, la mayoría cualificada para suspender la participación de un Estado en la cooperación estructurada permanente se define de conformidad con el artículo:",
+      "options": {
+        "a": "Art. 16.4 TUE",
+        "b": "Art. 238.3.a) TFUE",
+        "c": "Art. 238.3.b) TFUE",
+        "d": "Art. 354 TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.4 TUE establece que 'La mayoría cualificada se definirá de conformidad con el artículo 238.3.a) del Tratado de Funcionamiento de la Unión Europea', que es la regla para cuando no todos los miembros del Consejo participan.",
+      "ley": "TUE, art. 46.4"
+    },
+    {
+      "id": "tema_05_test_18_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 5.3 TUE establece que la Unión intervendrá por subsidiariedad solo cuando los objetivos 'no puedan ser alcanzados de manera suficiente' por los Estados miembros. ¿A qué niveles de los Estados se refiere expresamente?",
+      "options": {
+        "a": "A nivel nacional únicamente",
+        "b": "A nivel central, regional y local",
+        "c": "A nivel nacional y regional",
+        "d": "Solo a nivel de los Gobiernos centrales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 5.3 TUE establece que los objetivos no pueden alcanzarse suficientemente por los Estados miembros 'ni a nivel central ni a nivel regional y local'. Los tres niveles de gobierno están expresamente mencionados.",
+      "ley": "TUE, art. 5.3"
+    },
+    {
+      "id": "tema_05_test_18_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 54.2 TUE, ¿cuándo entraría en vigor el TUE el primer día del mes si no se habían depositado todos los instrumentos de ratificación el 1 de enero de 1993?",
+      "options": {
+        "a": "El primer día del mes siguiente al depósito del instrumento de ratificación del último Estado signatario",
+        "b": "El 1 de marzo de 1993 automáticamente",
+        "c": "Cuando lo decidiera el Consejo Europeo",
+        "d": "Cuando lo aprobara el Parlamento Europeo por mayoría absoluta"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 54.2 TUE establece que si no se depositaron todos los instrumentos el 1 de enero de 1993, el Tratado entraría en vigor 'el primer día del mes siguiente al depósito del instrumento de ratificación del último Estado signatario que cumpla dicha formalidad'.",
+      "ley": "TUE, art. 54.2"
+    },
+    {
+      "id": "tema_05_test_18_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.3 TUE, ¿qué tipo específico de fuerzas pueden poner a disposición de la PCSD los Estados que las hayan constituido entre sí?",
+      "options": {
+        "a": "Fuerzas de gendarmería europeas",
+        "b": "Fuerzas multinacionales",
+        "c": "Fuerzas de respuesta rápida de la OTAN",
+        "d": "Fuerzas de misiones humanitarias de la ONU"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.3 TUE establece que 'Los Estados miembros que constituyan entre ellos fuerzas multinacionales podrán asimismo ponerlas a disposición de la política común de seguridad y defensa'.",
+      "ley": "TUE, art. 42.3"
+    },
+    {
+      "id": "tema_05_test_18_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 1 TUE establece en qué se fundamenta la Unión. Según ese artículo, ¿a qué atribuyen competencias los Estados miembros a la Unión?",
+      "options": {
+        "a": "Para administrar el territorio de la Unión",
+        "b": "Para alcanzar sus objetivos comunes",
+        "c": "Para crear un Estado federal europeo",
+        "d": "Para gestionar las relaciones con terceros países"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 1 TUE establece que 'las ALTAS PARTES CONTRATANTES constituyen entre sí una UNIÓN EUROPEA, a la que los Estados miembros atribuyen competencias para alcanzar sus objetivos comunes'.",
+      "ley": "TUE, art. 1"
+    },
+    {
+      "id": "tema_05_test_18_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 17.1 TUE atribuye a la Comisión una función de 'gestión de programas'. ¿Junto a qué otra función la ejerce?",
+      "options": {
+        "a": "Junto a la función de control de la legalidad",
+        "b": "Junto a la función de ejecución del presupuesto",
+        "c": "Junto a la función de representación exterior en la OTAN",
+        "d": "Junto a la función de presidencia del Consejo de Asuntos Generales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.1 TUE establece que la Comisión 'Ejecutará el presupuesto y gestionará los programas'. La ejecución del presupuesto y la gestión de programas van de la mano como funciones ejecutivas de la Comisión.",
+      "ley": "TUE, art. 17.1"
+    },
+    {
+      "id": "tema_05_test_18_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 6.1 TUE establece el valor jurídico de la Carta de los Derechos Fundamentales. ¿Cuáles son las dos fechas que se mencionan en relación con la Carta?",
+      "options": {
+        "a": "1 de mayo de 1999 (firma del Tratado de Ámsterdam) y 13 de diciembre de 2007 (Tratado de Lisboa)",
+        "b": "7 de diciembre de 2000 (proclamación original) y 12 de diciembre de 2007 (adaptación en Estrasburgo)",
+        "c": "29 de octubre de 2004 (Tratado Constitucional) y 13 de diciembre de 2007 (Tratado de Lisboa)",
+        "d": "7 de febrero de 1992 (Maastricht) y 12 de diciembre de 2007 (Estrasburgo)"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6.1 TUE se refiere a 'la Carta de los Derechos Fundamentales de la Unión Europea de 7 de diciembre de 2000, tal como fue adaptada el 12 de diciembre de 2007 en Estrasburgo'. La primera fue la proclamación y la segunda la adaptación.",
+      "ley": "TUE, art. 6.1"
+    },
+    {
+      "id": "tema_05_test_18_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre el art. 19 TUE (Tribunal de Justicia):",
+      "options": {
+        "a": "El Tribunal de Justicia estará compuesto por un juez por Estado miembro",
+        "b": "El Tribunal General dispondrá al menos de un juez por Estado miembro",
+        "c": "Los jueces se nombran por un período de seis años renovable",
+        "d": "Solo el Tribunal de Justicia (sin el Tribunal General) puede pronunciarse con carácter prejudicial"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 19.3.b) TUE atribuye la competencia prejudicial al 'Tribunal de Justicia de la Unión Europea', que es la denominación del conjunto (Tribunal de Justicia, Tribunal General y tribunales especializados). No afirma que solo el Tribunal de Justicia stricto sensu tenga esta competencia.",
+      "ley": "TUE, art. 19"
+    },
+    {
+      "id": "tema_05_test_18_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3 TUE establece los objetivos de la Unión. ¿Cuál es el primer objetivo enumerado en el art. 3.1 TUE?",
+      "options": {
+        "a": "Establecer un mercado interior",
+        "b": "Promover la paz, sus valores y el bienestar de sus pueblos",
+        "c": "Crear una unión económica y monetaria",
+        "d": "Ofrecer un espacio de libertad, seguridad y justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.1 TUE establece que 'La Unión tiene como finalidad promover la paz, sus valores y el bienestar de sus pueblos'. Es el primer objetivo enunciado, que tiene un carácter primordial y transversal.",
+      "ley": "TUE, art. 3.1"
+    }
+  ]
+}

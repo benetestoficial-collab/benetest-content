@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 8",
+  "preguntas": [
+    {
+      "id": "tema_05_test_08_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.2 TUE, la Unión respetará la identidad nacional de los Estados miembros, inherente a sus estructuras fundamentales políticas y constitucionales, también en lo referente a:",
+      "options": {
+        "a": "La política fiscal y presupuestaria",
+        "b": "La autonomía local y regional",
+        "c": "La política monetaria y cambiaria",
+        "d": "Los acuerdos comerciales bilaterales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.2 TUE establece que la Unión respetará la identidad nacional 'también en lo referente a la autonomía local y regional'.",
+      "ley": "TUE, art. 4.2"
+    },
+    {
+      "id": "tema_05_test_08_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 10.3 TUE, ¿de qué forma se tomarán las decisiones en la Unión?",
+      "options": {
+        "a": "De la forma más eficaz posible",
+        "b": "De la forma más abierta y próxima posible a los ciudadanos",
+        "c": "Siguiendo siempre el procedimiento legislativo ordinario",
+        "d": "Mediante consenso de las instituciones involucradas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 10.3 TUE establece que 'Las decisiones serán tomadas de la forma más abierta y próxima posible a los ciudadanos'.",
+      "ley": "TUE, art. 10.3"
+    },
+    {
+      "id": "tema_05_test_08_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, el Consejo Europeo propone al Parlamento Europeo el candidato a Presidente de la Comisión teniendo en cuenta:",
+      "options": {
+        "a": "La tradición de rotación entre grandes y pequeños Estados",
+        "b": "El resultado de las elecciones al Parlamento Europeo",
+        "c": "La propuesta presentada por los Gobiernos nacionales",
+        "d": "El criterio de la Comisión saliente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.7 TUE establece que 'Teniendo en cuenta el resultado de las elecciones al Parlamento Europeo y tras mantener las consultas apropiadas, el Consejo Europeo propondrá al Parlamento Europeo, por mayoría cualificada, un candidato al cargo de Presidente de la Comisión'.",
+      "ley": "TUE, art. 17.7"
+    },
+    {
+      "id": "tema_05_test_08_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre las modificaciones de los Tratados por procedimiento ordinario según el art. 48 TUE:",
+      "options": {
+        "a": "Pueden presentar proyectos de revisión el Gobierno de cualquier Estado miembro, el Parlamento Europeo o la Comisión",
+        "b": "Las modificaciones entran en vigor después de ser ratificadas por todos los Estados miembros",
+        "c": "La Convención examina los proyectos y adopta sus recomendaciones por mayoría cualificada",
+        "d": "El Consejo remite los proyectos al Consejo Europeo y los notifica a los Parlamentos nacionales"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.3 TUE establece que la Convención 'adoptará por consenso una recomendación', no por mayoría cualificada.",
+      "ley": "TUE, art. 48.3"
+    },
+    {
+      "id": "tema_05_test_08_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.3 TUE, la Unión velará por la conservación y el desarrollo del patrimonio cultural europeo respetando:",
+      "options": {
+        "a": "La uniformidad cultural de los Estados miembros",
+        "b": "La riqueza de su diversidad cultural y lingüística",
+        "c": "Las tradiciones históricas de los Estados fundadores",
+        "d": "Las directrices de la UNESCO"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que 'La Unión respetará la riqueza de su diversidad cultural y lingüística y velará por la conservación y el desarrollo del patrimonio cultural europeo'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_08_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.3 TUE, cuando un Estado desea incorporarse a la cooperación estructurada permanente con posterioridad a su creación, ¿quién decide sobre su participación?",
+      "options": {
+        "a": "El Consejo Europeo por unanimidad",
+        "b": "El Consejo por mayoría cualificada de los participantes, previa consulta al Alto Representante",
+        "c": "La Comisión Europea mediante recomendación",
+        "d": "El Parlamento Europeo por mayoría de sus miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.3 TUE establece que 'El Consejo adoptará una decisión por la que se confirme la participación del Estado miembro de que se trate. El Consejo, tras consultar al Alto Representante, se pronunciará por mayoría cualificada'.",
+      "ley": "TUE, art. 46.3"
+    },
+    {
+      "id": "tema_05_test_08_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 6.3 TUE dispone que los derechos fundamentales del Convenio Europeo de Derechos Humanos y los fruto de las tradiciones constitucionales comunes formarán parte del Derecho de la Unión como:",
+      "options": {
+        "a": "Normas de Derecho derivado",
+        "b": "Principios generales",
+        "c": "Directivas de obligado cumplimiento",
+        "d": "Recomendaciones de aplicación preferente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6.3 TUE establece que los derechos fundamentales del CEDH y los de las tradiciones constitucionales comunes 'formarán parte del Derecho de la Unión como principios generales'.",
+      "ley": "TUE, art. 6.3"
+    },
+    {
+      "id": "tema_05_test_08_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 13.1 TUE, ¿cuál es la finalidad del marco institucional de la Unión?",
+      "options": {
+        "a": "Gestionar el presupuesto de la Unión",
+        "b": "Promover los valores, defender los intereses y garantizar la coherencia de las políticas de la Unión",
+        "c": "Coordinar las políticas económicas nacionales",
+        "d": "Representar a la Unión ante organismos internacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.1 TUE establece que el marco institucional tiene como finalidad 'promover sus valores, perseguir sus objetivos, defender sus intereses, los de sus ciudadanos y los de los Estados miembros, así como garantizar la coherencia, eficacia y continuidad de sus políticas y acciones'.",
+      "ley": "TUE, art. 13.1"
+    },
+    {
+      "id": "tema_05_test_08_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.1 TUE, ¿en qué tipo de misiones puede la Unión recurrir a medios civiles y militares?",
+      "options": {
+        "a": "Solo en misiones de ayuda humanitaria dentro del territorio de la Unión",
+        "b": "En misiones fuera de la Unión para garantizar el mantenimiento de la paz, la prevención de conflictos y el fortalecimiento de la seguridad internacional",
+        "c": "Exclusivamente en operaciones de defensa del territorio europeo",
+        "d": "Solo en misiones autorizadas por el Consejo de Seguridad de la ONU"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.1 TUE establece que la Unión podrá recurrir a medios civiles y militares 'en misiones fuera de la Unión que tengan por objetivo garantizar el mantenimiento de la paz, la prevención de conflictos y el fortalecimiento de la seguridad internacional'.",
+      "ley": "TUE, art. 42.1"
+    },
+    {
+      "id": "tema_05_test_08_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre el Banco Central Europeo según el TUE:",
+      "options": {
+        "a": "Es una de las siete instituciones de la Unión",
+        "b": "Sus disposiciones figuran en el Tratado de Funcionamiento de la Unión Europea",
+        "c": "Sus competencias detalladas figuran en el TUE directamente",
+        "d": "Forma parte del marco institucional de la Unión"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 13.3 TUE establece que 'Las disposiciones relativas al Banco Central Europeo y al Tribunal de Cuentas, así como las disposiciones detalladas sobre las demás instituciones, figuran en el Tratado de Funcionamiento de la Unión Europea', no en el propio TUE.",
+      "ley": "TUE, art. 13.3"
+    },
+    {
+      "id": "tema_05_test_08_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.2 TUE, ¿qué negocia la Unión con el Estado que desea retirarse?",
+      "options": {
+        "a": "Únicamente las condiciones económicas de la separación",
+        "b": "Un acuerdo que establecerá la forma de su retirada, teniendo en cuenta el marco de sus relaciones futuras con la Unión",
+        "c": "Las condiciones para un posible reingreso futuro",
+        "d": "Los compromisos pendientes de cumplimiento con el presupuesto de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 50.2 TUE establece que 'la Unión negociará y celebrará con ese Estado un acuerdo que establecerá la forma de su retirada, teniendo en cuenta el marco de sus relaciones futuras con la Unión'.",
+      "ley": "TUE, art. 50.2"
+    },
+    {
+      "id": "tema_05_test_08_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 12.a) TUE, ¿cómo participan los Parlamentos nacionales en el proceso legislativo de la Unión?",
+      "options": {
+        "a": "Pueden vetar actos legislativos de la Unión",
+        "b": "Son informados y reciben notificación de los proyectos de actos legislativos de la Unión",
+        "c": "Votan directamente los proyectos legislativos antes de que los adopte el Consejo",
+        "d": "Pueden proponer enmiendas directamente al Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 12.a) TUE establece que los Parlamentos nacionales 'serán informados por las instituciones de la Unión y recibirán notificación de los proyectos de actos legislativos de la Unión'.",
+      "ley": "TUE, art. 12.a)"
+    },
+    {
+      "id": "tema_05_test_08_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.2 TUE, ¿qué pueden tener por finalidad los proyectos de revisión de los Tratados?",
+      "options": {
+        "a": "Solo reducir las competencias atribuidas a la Unión",
+        "b": "Solo ampliar las competencias de la Unión",
+        "c": "Aumentar o reducir las competencias atribuidas a la Unión",
+        "d": "Modificar el número de Estados miembros en las instituciones"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.2 TUE establece que los proyectos de revisión 'podrán tener por finalidad, entre otras cosas, la de aumentar o reducir las competencias atribuidas a la Unión en los Tratados'.",
+      "ley": "TUE, art. 48.2"
+    },
+    {
+      "id": "tema_05_test_08_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA. Los diputados al Parlamento Europeo son elegidos por sufragio:",
+      "options": {
+        "a": "Universal indirecto",
+        "b": "Universal directo, libre y secreto",
+        "c": "Restringido a ciudadanos mayores de 21 años",
+        "d": "A través de los Parlamentos nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 14.3 TUE establece expresamente que 'Los diputados al Parlamento Europeo serán elegidos por sufragio universal directo, libre y secreto, para un mandato de cinco años'.",
+      "ley": "TUE, art. 14.3"
+    },
+    {
+      "id": "tema_05_test_08_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 4.3 TUE establece que los Estados miembros adoptarán todas las medidas apropiadas para asegurar el cumplimiento de las obligaciones derivadas de los Tratados. A su vez, deberán abstenerse de:",
+      "options": {
+        "a": "Negociar tratados bilaterales sin autorización de la Unión",
+        "b": "Toda medida que pueda poner en peligro la consecución de los objetivos de la Unión",
+        "c": "Aplicar normativa nacional contraria al Derecho derivado de la Unión",
+        "d": "Ejercer funciones que correspondan exclusivamente a las instituciones de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.3 TUE establece que los Estados miembros 'se abstendrán de toda medida que pueda poner en peligro la consecución de los objetivos de la Unión'.",
+      "ley": "TUE, art. 4.3"
+    },
+    {
+      "id": "tema_05_test_08_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.4 TUE, tras la suspensión de derechos de un Estado por violación grave, el Consejo puede posteriormente decidir la modificación o revocación de esas medidas por:",
+      "options": {
+        "a": "Unanimidad",
+        "b": "Mayoría de cuatro quintos",
+        "c": "Mayoría cualificada",
+        "d": "Mayoría absoluta"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 7.4 TUE establece que 'El Consejo podrá decidir posteriormente, por mayoría cualificada, la modificación o revocación de las medidas adoptadas' como respuesta a cambios en la situación.",
+      "ley": "TUE, art. 7.4"
+    },
+    {
+      "id": "tema_05_test_08_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El objetivo del espacio de buena vecindad que la Unión busca establecer con países vecinos según el art. 8 TUE está basado en:",
+      "options": {
+        "a": "Las relaciones comerciales preferenciales",
+        "b": "Los valores de la Unión y relaciones estrechas y pacíficas fundadas en la cooperación",
+        "c": "Los acuerdos de seguridad y defensa colectiva",
+        "d": "El intercambio de estudiantes y profesionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 8.1 TUE establece que el espacio de prosperidad y buena vecindad estará 'basado en los valores de la Unión y caracterizado por unas relaciones estrechas y pacíficas fundadas en la cooperación'.",
+      "ley": "TUE, art. 8.1"
+    },
+    {
+      "id": "tema_05_test_08_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.6 TUE, el Consejo de Asuntos Generales garantiza la actuación del Consejo Europeo en contacto con:",
+      "options": {
+        "a": "El Parlamento Europeo y la Comisión",
+        "b": "El Presidente del Consejo Europeo y la Comisión",
+        "c": "El Alto Representante y el Tribunal de Justicia",
+        "d": "Los Parlamentos nacionales y la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.6 TUE establece que el Consejo de Asuntos Generales garantizará la actuación subsiguiente del Consejo Europeo 'en contacto con el Presidente del Consejo Europeo y la Comisión'.",
+      "ley": "TUE, art. 16.6"
+    },
+    {
+      "id": "tema_05_test_08_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 43.2 TUE, ¿quién se hará cargo de la coordinación de los aspectos civiles y militares de las misiones?",
+      "options": {
+        "a": "El Presidente del Consejo Europeo bajo autoridad del Parlamento Europeo",
+        "b": "El Alto Representante bajo la autoridad del Consejo",
+        "c": "El Comité Político y de Seguridad de forma autónoma",
+        "d": "La Comisión Europea con apoyo del Alto Representante"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 43.2 TUE establece que 'El Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad, bajo la autoridad del Consejo y en contacto estrecho y permanente con el Comité Político y de Seguridad, se hará cargo de la coordinación de los aspectos civiles y militares de dichas misiones'.",
+      "ley": "TUE, art. 43.2"
+    },
+    {
+      "id": "tema_05_test_08_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.1 TUE, ¿qué representación exterior asume la Comisión Europea?",
+      "options": {
+        "a": "La representación exterior plena de la Unión",
+        "b": "La representación exterior, con excepción de la política exterior y de seguridad común",
+        "c": "Solo la representación en organismos de comercio internacional",
+        "d": "La representación en materia de política de defensa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.1 TUE establece que la Comisión 'Asumirá la representación exterior de la Unión, con excepción de la política exterior y de seguridad común y de los demás casos previstos por los Tratados'.",
+      "ley": "TUE, art. 17.1"
+    }
+  ]
+}

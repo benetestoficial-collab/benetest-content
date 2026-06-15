@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_05_test_02_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.3 TUE, ¿cuál es la duración del mandato de la Comisión?",
+      "options": {
+        "a": "Cuatro años",
+        "b": "Cinco años",
+        "c": "Seis años",
+        "d": "Tres años"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.3 TUE establece expresamente que 'El mandato de la Comisión será de cinco años'.",
+      "ley": "TUE, art. 17.3"
+    },
+    {
+      "id": "tema_05_test_02_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.5 TUE, a partir del 1 de noviembre de 2014, la Comisión estará compuesta por un número de miembros correspondiente a:",
+      "options": {
+        "a": "Un nacional por cada Estado miembro",
+        "b": "La mitad del número de Estados miembros",
+        "c": "Los dos tercios del número de Estados miembros",
+        "d": "Tres cuartos del número de Estados miembros"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 17.5 TUE dispone que 'A partir del 1 de noviembre de 2014, la Comisión estará compuesta por un número de miembros correspondiente a los dos tercios del número de Estados miembros', salvo que el Consejo Europeo decida por unanimidad modificar dicho número.",
+      "ley": "TUE, art. 17.5"
+    },
+    {
+      "id": "tema_05_test_02_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre las funciones de la Comisión Europea según el art. 17 TUE:",
+      "options": {
+        "a": "Ejerce la función legislativa en solitario",
+        "b": "Promueve el interés general de la Unión y vela por la aplicación de los Tratados",
+        "c": "Define las orientaciones y prioridades políticas generales de la Unión",
+        "d": "Preside el Consejo de Asuntos Exteriores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17 TUE establece que la Comisión 'Promoverá el interés general de la Unión' y 'Velará por que se apliquen los Tratados'. Las demás opciones corresponden a otras instituciones.",
+      "ley": "TUE, art. 17"
+    },
+    {
+      "id": "tema_05_test_02_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Quién nombra al Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad según el art. 18.1 TUE?",
+      "options": {
+        "a": "El Parlamento Europeo por mayoría absoluta",
+        "b": "El Consejo Europeo por mayoría cualificada con aprobación del Presidente de la Comisión",
+        "c": "El Consejo por unanimidad",
+        "d": "La Comisión Europea de forma autónoma"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 18.1 TUE establece que 'El Consejo Europeo nombrará por mayoría cualificada, con la aprobación del Presidente de la Comisión, al Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad'.",
+      "ley": "TUE, art. 18.1"
+    },
+    {
+      "id": "tema_05_test_02_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.2 TUE, ¿por cuántos años son nombrados los jueces del Tribunal de Justicia?",
+      "options": {
+        "a": "Cuatro años",
+        "b": "Cinco años",
+        "c": "Seis años",
+        "d": "Nueve años"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 19.2 TUE establece que los jueces y abogados generales 'Serán nombrados de común acuerdo por los Gobiernos de los Estados miembros para un período de seis años'.",
+      "ley": "TUE, art. 19.2"
+    },
+    {
+      "id": "tema_05_test_02_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Tribunal de Justicia de la Unión Europea comprende el Tribunal de Justicia, el Tribunal General y:",
+      "options": {
+        "a": "El Tribunal Europeo de Derechos Humanos",
+        "b": "Los tribunales especializados",
+        "c": "El Tribunal de Primera Instancia",
+        "d": "El Tribunal Constitucional Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19 TUE establece que el Tribunal de Justicia de la Unión Europea comprende el Tribunal de Justicia, el Tribunal General y los tribunales especializados.",
+      "ley": "TUE, art. 19"
+    },
+    {
+      "id": "tema_05_test_02_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.2 TUE, ¿cuántos Estados miembros deben participar como mínimo en una cooperación reforzada?",
+      "options": {
+        "a": "5 Estados miembros",
+        "b": "7 Estados miembros",
+        "c": "9 Estados miembros",
+        "d": "12 Estados miembros"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 20.2 TUE exige que en la cooperación reforzada 'participen en ella al menos 9 Estados miembros'.",
+      "ley": "TUE, art. 20.2"
+    },
+    {
+      "id": "tema_05_test_02_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre la cooperación reforzada según el art. 20 TUE:",
+      "options": {
+        "a": "Solo puede instaurarse en el marco de competencias no exclusivas de la Unión",
+        "b": "Está abierta permanentemente a todos los Estados miembros",
+        "c": "Los actos adoptados vinculan a todos los Estados miembros de la Unión",
+        "d": "La decisión de autorizarla la adopta el Consejo como último recurso"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 20.4 TUE establece que 'Los actos adoptados en el marco de una cooperación reforzada vincularán únicamente a los Estados miembros participantes', no a todos.",
+      "ley": "TUE, art. 20.4"
+    },
+    {
+      "id": "tema_05_test_02_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. La política común de seguridad y defensa forma parte integrante de:",
+      "options": {
+        "a": "La política económica y monetaria",
+        "b": "La política exterior y de seguridad común",
+        "c": "La política de cohesión territorial",
+        "d": "El espacio de libertad, seguridad y justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.1 TUE establece que 'La política común de seguridad y defensa forma parte integrante de la política exterior y de seguridad común'.",
+      "ley": "TUE, art. 42.1"
+    },
+    {
+      "id": "tema_05_test_02_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 47 TUE, ¿qué tiene la Unión Europea?",
+      "options": {
+        "a": "Personalidad diplomática",
+        "b": "Personalidad jurídica",
+        "c": "Personalidad política",
+        "d": "Personalidad internacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 47 TUE establece de forma lacónica y directa que 'La Unión tiene personalidad jurídica'.",
+      "ley": "TUE, art. 47"
+    },
+    {
+      "id": "tema_05_test_02_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.3 TUE, el Consejo Europeo, para examinar modificaciones a los Tratados, adoptará una decisión favorable por:",
+      "options": {
+        "a": "Unanimidad",
+        "b": "Mayoría cualificada",
+        "c": "Mayoría simple",
+        "d": "Mayoría de dos tercios"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.3 TUE dispone que 'si el Consejo Europeo adopta por mayoría simple una decisión favorable al examen de las modificaciones propuestas', convocará una Convención.",
+      "ley": "TUE, art. 48.3"
+    },
+    {
+      "id": "tema_05_test_02_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 49 TUE, ¿quién se pronuncia por unanimidad sobre las solicitudes de adhesión a la Unión?",
+      "options": {
+        "a": "El Parlamento Europeo",
+        "b": "La Comisión Europea",
+        "c": "El Consejo",
+        "d": "El Consejo Europeo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 49 TUE establece que 'El Estado solicitante dirigirá su solicitud al Consejo, que se pronunciará por unanimidad después de haber consultado a la Comisión y previa aprobación del Parlamento Europeo'.",
+      "ley": "TUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_02_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.3 TUE, si un Estado notifica su retirada y no hay acuerdo, ¿en qué plazo dejan de aplicarse los Tratados?",
+      "options": {
+        "a": "Al año de la notificación",
+        "b": "A los dos años de la notificación",
+        "c": "A los tres años de la notificación",
+        "d": "Inmediatamente tras la notificación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 50.3 TUE establece que los Tratados dejarán de aplicarse 'a los dos años de la notificación', salvo que el Consejo Europeo, de acuerdo con ese Estado, decida por unanimidad prorrogar dicho plazo.",
+      "ley": "TUE, art. 50.3"
+    },
+    {
+      "id": "tema_05_test_02_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 53 TUE, ¿por qué período se concluyó el Tratado de la Unión Europea?",
+      "options": {
+        "a": "Por 50 años",
+        "b": "Por 99 años",
+        "c": "Por un período de tiempo ilimitado",
+        "d": "Hasta la aprobación de una Constitución europea"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 53 TUE establece de forma clara que 'El presente Tratado se concluye por un período de tiempo ilimitado'.",
+      "ley": "TUE, art. 53"
+    },
+    {
+      "id": "tema_05_test_02_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.2 TUE, ¿quién puede constatar una violación grave y persistente de los valores del art. 2 por un Estado miembro?",
+      "options": {
+        "a": "El Consejo por mayoría de cuatro quintos",
+        "b": "El Consejo Europeo por unanimidad",
+        "c": "El Tribunal de Justicia por mayoría cualificada",
+        "d": "La Comisión por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.2 TUE dispone que 'El Consejo Europeo, por unanimidad y a propuesta de un tercio de los Estados miembros o de la Comisión y previa aprobación del Parlamento Europeo, podrá constatar la existencia de una violación grave y persistente'.",
+      "ley": "TUE, art. 7.2"
+    },
+    {
+      "id": "tema_05_test_02_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.7 TUE, si un Estado miembro es objeto de agresión armada, los demás Estados le deberán:",
+      "options": {
+        "a": "Apoyo diplomático exclusivamente",
+        "b": "Ayuda y asistencia con todos los medios a su alcance",
+        "c": "Asistencia económica de emergencia",
+        "d": "Mediación ante organismos internacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.7 TUE establece la cláusula de defensa mutua: 'Si un Estado miembro es objeto de una agresión armada en su territorio, los demás Estados miembros le deberán ayuda y asistencia con todos los medios a su alcance'.",
+      "ley": "TUE, art. 42.7"
+    },
+    {
+      "id": "tema_05_test_02_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 51 TUE, los Protocolos y Anexos de los Tratados:",
+      "options": {
+        "a": "Tienen valor inferior a los Tratados",
+        "b": "Forman parte integrante de los mismos",
+        "c": "Son meras recomendaciones no vinculantes",
+        "d": "Requieren ratificación separada por los Estados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 51 TUE establece expresamente que 'Los Protocolos y Anexos de los Tratados forman parte integrante de los mismos'.",
+      "ley": "TUE, art. 51"
+    },
+    {
+      "id": "tema_05_test_02_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.4 TUE, la minoría de bloqueo en el Consejo está compuesta por al menos:",
+      "options": {
+        "a": "Tres miembros del Consejo",
+        "b": "Cuatro miembros del Consejo",
+        "c": "Cinco miembros del Consejo",
+        "d": "Seis miembros del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.4 TUE establece que 'Una minoría de bloqueo estará compuesta por al menos cuatro miembros del Consejo, a falta de lo cual la mayoría cualificada se considerará alcanzada'.",
+      "ley": "TUE, art. 16.4"
+    },
+    {
+      "id": "tema_05_test_02_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre el Presidente del Consejo Europeo según el art. 15.6 TUE:",
+      "options": {
+        "a": "Preside e impulsa los trabajos del Consejo Europeo",
+        "b": "Puede ejercer mandato nacional durante su mandato",
+        "c": "Presenta un informe al Parlamento Europeo tras cada reunión",
+        "d": "Asume la representación exterior en materia de política exterior y seguridad común"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.6 TUE establece que 'El Presidente del Consejo Europeo no podrá ejercer mandato nacional alguno', lo que hace que esta opción sea la INCORRECTA.",
+      "ley": "TUE, art. 15.6"
+    },
+    {
+      "id": "tema_05_test_02_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, ¿qué institución elige al candidato a Presidente de la Comisión propuesto por el Consejo Europeo?",
+      "options": {
+        "a": "El Consejo Europeo por unanimidad",
+        "b": "El Consejo por mayoría cualificada",
+        "c": "El Parlamento Europeo por mayoría de sus miembros",
+        "d": "La Comisión saliente por consenso"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 17.7 TUE establece que 'El Parlamento Europeo elegirá al candidato por mayoría de los miembros que lo componen'. Si no obtiene esa mayoría, el Consejo Europeo propondrá en el plazo de un mes un nuevo candidato.",
+      "ley": "TUE, art. 17.7"
+    }
+  ]
+}

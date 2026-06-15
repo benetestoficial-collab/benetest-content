@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 30",
+  "preguntas": [
+    {
+      "id": "tema_05_test_30_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 245 TFUE, ¿qué deben respetar los miembros de la Comisión durante su mandato?",
+      "options": {
+        "a": "Solo la obligación de no aceptar instrucciones de los Gobiernos nacionales",
+        "b": "Las obligaciones derivadas de su cargo, incluso tras el cese de sus funciones, y en particular su deber de honestidad y discreción respecto de la aceptación de determinadas funciones o ventajas",
+        "c": "Solo la prohibición de participar en actividades políticas en sus países de origen",
+        "d": "Únicamente las normas establecidas en su nombramiento por el Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 245 TFUE establece que los miembros de la Comisión 'deberán respetar, mientras dure su mandato y después de terminado este, las obligaciones derivadas de su cargo' y en particular 'su deber de honestidad y discreción en cuanto a la aceptación, una vez terminado su mandato, de determinadas funciones o ventajas'.",
+      "ley": "TFUE, art. 245"
+    },
+    {
+      "id": "tema_05_test_30_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 248 TFUE, ¿qué funciones puede atribuir el Presidente de la Comisión a sus miembros?",
+      "options": {
+        "a": "Solo funciones de representación exterior",
+        "b": "Las funciones que estime oportunas, con posibilidad de reorganizarlas durante el mandato, y puede nombrar Vicepresidentes",
+        "c": "Funciones predeterminadas en el reglamento interno de la Comisión",
+        "d": "Solo las funciones aprobadas por el Parlamento Europeo en la audiencia de los comisarios"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 248 TFUE establece que 'El Presidente de la Comisión podrá nombrar Vicepresidentes de entre los miembros de la Comisión. Los miembros de la Comisión presentarán su dimisión cuando el Presidente se lo pida'.",
+      "ley": "TFUE, art. 248"
+    },
+    {
+      "id": "tema_05_test_30_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 247 TFUE, ¿qué puede hacer el Tribunal de Justicia respecto a un miembro de la Comisión que haya cometido una falta grave?",
+      "options": {
+        "a": "Solo puede emitir una advertencia formal",
+        "b": "Puede declarar de oficio o a instancia del Consejo o de la Comisión su cese o la pérdida del derecho a la pensión",
+        "c": "Puede imponerle una sanción económica",
+        "d": "Solo puede informar al Consejo Europeo para que decida la separación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 247 TFUE establece que 'Todo miembro de la Comisión que incumpla las condiciones necesarias para el ejercicio de sus funciones o haya cometido una falta grave podrá ser declarado cesante por el Tribunal de Justicia, a instancia del Consejo, pronunciándose por mayoría simple, o de la Comisión'.",
+      "ley": "TFUE, art. 247"
+    },
+    {
+      "id": "tema_05_test_30_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 253 TFUE, ¿de entre qué personalidades se elegirán los jueces y abogados generales del Tribunal de Justicia?",
+      "options": {
+        "a": "De entre los jueces más veteranos de los Tribunales nacionales",
+        "b": "De entre personalidades que ofrezcan plenas garantías de independencia y que reúnan las condiciones requeridas para el ejercicio, en sus respectivos países, de las más altas funciones jurisdiccionales, o que sean jurisconsultos de reconocida competencia",
+        "c": "De entre los miembros de los Parlamentos nacionales con formación jurídica",
+        "d": "Solo de entre los juristas que hayan ejercido al menos 20 años en el Derecho de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 253 TFUE establece que los jueces y abogados generales del Tribunal de Justicia 'serán elegidos de entre personalidades que ofrezcan plenas garantías de independencia, y que reúnan las condiciones requeridas para el ejercicio, en sus respectivos países, de las más altas funciones jurisdiccionales, o que sean jurisconsultos de reconocida competencia'.",
+      "ley": "TFUE, art. 253"
+    },
+    {
+      "id": "tema_05_test_30_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 256 TFUE, ¿cuál es la competencia del Tribunal General?",
+      "options": {
+        "a": "Solo conocer de los recursos prejudiciales planteados por los órganos jurisdiccionales nacionales",
+        "b": "Conocer en primera instancia de los recursos contemplados en los arts. 263, 265, 268, 270 y 272, con excepción de los atribuidos a un tribunal especializado",
+        "c": "Ser la instancia de apelación de las sentencias de los tribunales nacionales",
+        "d": "Solo conocer de los litigios entre las instituciones de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 256.1 TFUE establece que 'El Tribunal General será competente para conocer en primera instancia de los recursos contemplados en los artículos 263, 265, 268, 270 y 272, con excepción de los que se atribuyan a un tribunal especializado creado en virtud del artículo 257'.",
+      "ley": "TFUE, art. 256.1"
+    },
+    {
+      "id": "tema_05_test_30_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 263 TFUE regula el recurso de anulación. ¿Qué condiciones deben cumplir las personas físicas o jurídicas para poder interponerlo contra actos que no vayan dirigidos a ellas?",
+      "options": {
+        "a": "Deben ser nacionales de un Estado miembro",
+        "b": "El acto deberá afectarles directa e individualmente, o tratarse de un acto reglamentario que les afecte directamente y no incluya medidas de ejecución",
+        "c": "Deben haber agotado previamente todos los recursos nacionales disponibles",
+        "d": "Solo las personas jurídicas establecidas en la Unión pueden interponer el recurso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 263 TFUE establece que las personas físicas o jurídicas podrán interponer recurso contra actos que no les estén dirigidos 'siempre que dicho acto les afecte directa e individualmente o si se trata de un acto reglamentario que le afecte directamente y que no incluya medidas de ejecución'.",
+      "ley": "TFUE, art. 263"
+    },
+    {
+      "id": "tema_05_test_30_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 258 TFUE regula el recurso por incumplimiento de un Estado miembro. ¿Cuáles son las dos fases del procedimiento?",
+      "options": {
+        "a": "Denuncia del Estado afectado e investigación del Tribunal de Justicia",
+        "b": "Fase precontenciosa ante la Comisión (dictamen motivado) y fase contenciosa ante el Tribunal de Justicia",
+        "c": "Mediación obligatoria del Consejo y recurso judicial posterior",
+        "d": "Notificación al Estado y sanción directa sin intervención del Tribunal"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 258 TFUE establece dos fases: primero la Comisión emite un dictamen motivado después de dar la oportunidad de presentar observaciones al Estado; si el Estado no cumple con el dictamen, la Comisión puede recurrir al Tribunal de Justicia.",
+      "ley": "TFUE, art. 258"
+    },
+    {
+      "id": "tema_05_test_30_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 267 TFUE, ¿qué es la cuestión prejudicial?",
+      "options": {
+        "a": "Un recurso directo de los ciudadanos ante el TJUE",
+        "b": "Un mecanismo por el que un órgano jurisdiccional nacional solicita al TJUE interpretación del Derecho de la Unión o pronunciamiento sobre la validez de actos de las instituciones",
+        "c": "Una consulta que la Comisión puede hacer al TJUE antes de proponer legislación",
+        "d": "Un recurso entre instituciones de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 267 TFUE establece que el TJUE será competente 'con carácter prejudicial, a petición de los órganos jurisdiccionales nacionales, sobre la interpretación del Derecho de la Unión o sobre la validez de los actos adoptados por las instituciones'.",
+      "ley": "TFUE, art. 267"
+    },
+    {
+      "id": "tema_05_test_30_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 260 TFUE prevé sanciones pecuniarias contra los Estados que no cumplan las sentencias del TJUE. ¿Qué medidas puede imponer el Tribunal?",
+      "options": {
+        "a": "Solo multas sin pagos de suma a tanto alzado",
+        "b": "Pago de una suma a tanto alzado o una multa coercitiva, o ambas",
+        "c": "Solo compensación a otros Estados miembros perjudicados",
+        "d": "Suspensión de los derechos del Estado en el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 260.2 TFUE establece que si el Estado no ha adoptado las medidas necesarias para cumplir la sentencia, 'el Tribunal de Justicia podrá imponerle el pago de una suma a tanto alzado o de una multa coercitiva'.",
+      "ley": "TFUE, art. 260.2"
+    },
+    {
+      "id": "tema_05_test_30_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 285 TFUE, ¿qué examinará el Tribunal de Cuentas?",
+      "options": {
+        "a": "Solo el presupuesto de la Unión Europea",
+        "b": "Las cuentas de la totalidad de los ingresos y gastos de la Unión, así como los relativos a los organismos creados por la Unión",
+        "c": "Solo los gastos del Parlamento Europeo y del Consejo",
+        "d": "Los presupuestos nacionales cuando reciban fondos estructurales europeos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 285 TFUE establece que 'El Tribunal de Cuentas examinará las cuentas de la totalidad de los ingresos y gastos de la Unión. Examinará asimismo las cuentas de la totalidad de los ingresos y gastos de todo organismo creado por la Unión'.",
+      "ley": "TFUE, art. 285"
+    },
+    {
+      "id": "tema_05_test_30_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 286 TFUE, ¿cuántos miembros tiene el Tribunal de Cuentas?",
+      "options": {
+        "a": "Doce miembros, uno por cada Estado fundador",
+        "b": "Un miembro por cada Estado miembro",
+        "c": "Veintisiete miembros fijos independientemente de la composición de la Unión",
+        "d": "Tantos miembros como decida el Consejo por mayoría cualificada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 286.1 TFUE establece que 'El Tribunal de Cuentas estará compuesto por un nacional de cada Estado miembro'.",
+      "ley": "TFUE, art. 286.1"
+    },
+    {
+      "id": "tema_05_test_30_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 287 TFUE regula las facultades del Tribunal de Cuentas. ¿Qué tipo de control ejerce y cuál es su resultado principal?",
+      "options": {
+        "a": "Un control exclusivamente político que termina con recomendaciones no vinculantes",
+        "b": "Un control de la legalidad y regularidad de los ingresos y gastos y que velará por la buena gestión financiera, presentando al Parlamento Europeo y al Consejo una declaración de fiabilidad de las cuentas",
+        "c": "Un control de oportunidad política de los gastos presupuestarios",
+        "d": "Un control que solo puede ejercerse con autorización previa del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 287 TFUE establece que el Tribunal de Cuentas 'examinará la legalidad y regularidad de los ingresos y gastos y velará por la buena gestión financiera' y 'presentará al Parlamento Europeo y al Consejo una declaración de fiabilidad de las cuentas'.",
+      "ley": "TFUE, art. 287"
+    },
+    {
+      "id": "tema_05_test_30_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 286.2 TFUE, ¿por cuántos años son nombrados los miembros del Tribunal de Cuentas?",
+      "options": {
+        "a": "Cuatro años",
+        "b": "Cinco años",
+        "c": "Seis años",
+        "d": "Nueve años"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 286.2 TFUE establece que los miembros del Tribunal de Cuentas 'serán nombrados para un período de seis años'. El mandato es renovable.",
+      "ley": "TFUE, art. 286.2"
+    },
+    {
+      "id": "tema_05_test_30_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 254 TFUE, ¿cuánto dura el mandato de los jueces del Tribunal General?",
+      "options": {
+        "a": "Cuatro años",
+        "b": "Cinco años",
+        "c": "Seis años",
+        "d": "Nueve años"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 254 TFUE establece que los jueces del Tribunal General 'serán nombrados de común acuerdo por los Gobiernos de los Estados miembros para un período de seis años'.",
+      "ley": "TFUE, art. 254"
+    },
+    {
+      "id": "tema_05_test_30_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 265 TFUE regula el recurso por omisión. ¿Qué condición previa debe cumplirse antes de interponer el recurso ante el TJUE?",
+      "options": {
+        "a": "La institución debe haber sido notificada y no haber respondido en un plazo de seis meses",
+        "b": "Debe haberse requerido previamente a la institución para que actúe; si en dos meses no ha definido su posición, se puede interponer el recurso en los dos meses siguientes",
+        "c": "La Comisión debe haber emitido un dictamen motivado sobre la omisión",
+        "d": "El Consejo debe haber adoptado una recomendación instando a la institución a actuar"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 265 TFUE establece el requisito previo de requerimiento: la acción de recurso 'solo será admisible si la institución [...] ha sido requerida previamente para que actúe. Si, transcurrido un plazo de dos meses a partir de dicho requerimiento, la institución no ha definido su posición, el recurso podrá interponerse dentro de un nuevo plazo de dos meses'.",
+      "ley": "TFUE, art. 265"
+    },
+    {
+      "id": "tema_05_test_30_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 263 TFUE, ¿cuál es el plazo para interponer el recurso de anulación?",
+      "options": {
+        "a": "Dos meses desde la publicación o notificación del acto",
+        "b": "Tres meses desde la notificación",
+        "c": "Seis meses desde la publicación",
+        "d": "Un año desde la entrada en vigor del acto impugnado"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 263 TFUE establece que el recurso de anulación 'deberá interponerse en el plazo de dos meses a partir, según los casos, de la publicación del acto, de su notificación al recurrente o, a falta de ello, desde el día en que este haya tenido conocimiento del mismo'.",
+      "ley": "TFUE, art. 263"
+    },
+    {
+      "id": "tema_05_test_30_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 286 TFUE, ¿quién nombra a los miembros del Tribunal de Cuentas?",
+      "options": {
+        "a": "El Consejo Europeo por unanimidad",
+        "b": "El Consejo por mayoría cualificada, previa consulta al Parlamento Europeo",
+        "c": "El Parlamento Europeo por mayoría de sus miembros",
+        "d": "Los Gobiernos de los Estados miembros de común acuerdo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 286.2 TFUE establece que los miembros del Tribunal de Cuentas 'serán nombrados por el Consejo, previa consulta al Parlamento Europeo'.",
+      "ley": "TFUE, art. 286.2"
+    },
+    {
+      "id": "tema_05_test_30_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 267 TFUE establece que los órganos jurisdiccionales nacionales cuyas decisiones son susceptibles de recurso judicial en Derecho interno pueden plantear cuestiones prejudiciales, pero los que resuelven en última instancia tienen una obligación distinta. ¿Cuál?",
+      "options": {
+        "a": "También pueden plantear la cuestión; no hay obligación",
+        "b": "Están obligados a plantear la cuestión cuando se suscite un problema de interpretación del Derecho de la Unión",
+        "c": "Deben primero pedir autorización al Consejo de Estado o equivalente",
+        "d": "Solo pueden plantear cuestiones de validez, no de interpretación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 267 TFUE establece que cuando se suscite una cuestión de Derecho de la Unión 'ante un órgano jurisdiccional nacional cuyas decisiones no sean susceptibles de ulterior recurso judicial de Derecho interno, dicho órgano estará obligado a someter la cuestión al Tribunal'.",
+      "ley": "TFUE, art. 267"
+    },
+    {
+      "id": "tema_05_test_30_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 288 TFUE enumera los actos jurídicos de la Unión. ¿Cuáles son los cinco tipos de actos enumerados?",
+      "options": {
+        "a": "Reglamentos, directivas, decisiones, resoluciones y dictámenes",
+        "b": "Reglamentos, directivas, decisiones, recomendaciones y dictámenes",
+        "c": "Leyes europeas, leyes marco europeas, reglamentos europeos, decisiones europeas y dictámenes",
+        "d": "Reglamentos, directivas, decisiones, comunicaciones y orientaciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 288 TFUE enumera: reglamentos (de alcance general, obligatorios en todos sus elementos y directamente aplicables), directivas (obligan a los Estados en cuanto al resultado), decisiones (obligatorias en todos sus elementos para sus destinatarios), recomendaciones y dictámenes (no vinculantes).",
+      "ley": "TFUE, art. 288"
+    },
+    {
+      "id": "tema_05_test_30_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 289 TFUE, ¿qué es el procedimiento legislativo ordinario?",
+      "options": {
+        "a": "El procedimiento en que el Consejo aprueba los actos propuestos por la Comisión",
+        "b": "La adopción conjunta por el Parlamento Europeo y el Consejo de un reglamento, una directiva o una decisión, a propuesta de la Comisión",
+        "c": "El procedimiento en que la Comisión aprueba directamente reglamentos de ejecución",
+        "d": "El procedimiento de codecisión entre el Consejo y los Parlamentos nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 289.1 TFUE establece que 'El procedimiento legislativo ordinario consistirá en la adopción conjunta por el Parlamento Europeo y el Consejo, a propuesta de la Comisión, de un reglamento, una directiva o una decisión'.",
+      "ley": "TFUE, art. 289.1"
+    }
+  ]
+}

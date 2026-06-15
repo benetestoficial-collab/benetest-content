@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 28",
+  "preguntas": [
+    {
+      "id": "tema_05_test_28_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 191.1 TFUE, ¿cuántos objetivos tiene la política de la Unión en el ámbito del medio ambiente?",
+      "options": {
+        "a": "Dos objetivos",
+        "b": "Tres objetivos",
+        "c": "Cuatro objetivos",
+        "d": "Cinco objetivos"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 191.1 TFUE establece cuatro objetivos: 1) La conservación, la protección y la mejora de la calidad del medio ambiente; 2) La protección de la salud de las personas; 3) La utilización prudente y racional de los recursos naturales; 4) El fomento de medidas a escala internacional destinadas a hacer frente a los problemas del medio ambiente y luchar contra el cambio climático.",
+      "ley": "TFUE, art. 191.1"
+    },
+    {
+      "id": "tema_05_test_28_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 191.2 TFUE enumera los principios en los que se basará la política de medio ambiente de la Unión. Señale cuál de los siguientes SÍ figura entre ellos:",
+      "options": {
+        "a": "El principio de precaución máxima sin consideraciones económicas",
+        "b": "El principio de cautela y de acción preventiva, el principio de corrección en la fuente misma y el principio de quien contamina paga",
+        "c": "El principio de armonización plena de las legislaciones medioambientales nacionales",
+        "d": "El principio de desarrollo sostenible como objetivo único sin excepciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 191.2 TFUE establece que la política de medio ambiente 'Se basará en los principios de cautela y de acción preventiva, en el principio de corrección de los atentados al medio ambiente, preferentemente en la fuente misma, y en el principio de quien contamina paga'.",
+      "ley": "TFUE, art. 191.2"
+    },
+    {
+      "id": "tema_05_test_28_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 192.2 TFUE, en materia de medio ambiente, el Consejo actúa por unanimidad para adoptar determinadas medidas. Señale cuál de las siguientes materias requiere unanimidad:",
+      "options": {
+        "a": "Las medidas de protección de las especies en peligro de extinción",
+        "b": "Las disposiciones esencialmente de carácter fiscal",
+        "c": "Las normas de emisión de vehículos de motor",
+        "d": "Los programas de acción medioambiental"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 192.2 TFUE exige unanimidad del Consejo para: a) disposiciones esencialmente de carácter fiscal, b) medidas que afecten a la ordenación territorial, a la gestión cuantitativa de recursos hídricos y a la utilización del suelo (excepto gestión de residuos) y c) medidas que afecten de forma significativa a la elección de fuentes de energía.",
+      "ley": "TFUE, art. 192.2"
+    },
+    {
+      "id": "tema_05_test_28_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 193 TFUE, ¿pueden los Estados miembros adoptar medidas de protección del medio ambiente más rigurosas que las medidas de la Unión?",
+      "options": {
+        "a": "No, las medidas de la Unión tienen carácter de armonización máxima",
+        "b": "Sí, siempre que sean compatibles con los Tratados y se notifiquen a la Comisión",
+        "c": "Solo si la Comisión las autoriza previamente",
+        "d": "Solo si el nivel de protección adicional está justificado por el Tribunal de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 193 TFUE establece que las medidas adoptadas por la Unión 'no serán obstáculo para el mantenimiento y la adopción, por parte de cada Estado miembro, de medidas de mayor protección. Dichas medidas deberán ser compatibles con los Tratados y se notificarán a la Comisión'.",
+      "ley": "TFUE, art. 193"
+    },
+    {
+      "id": "tema_05_test_28_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 191.2 TFUE, la política de medio ambiente tiene como objetivo alcanzar un nivel de protección:",
+      "options": {
+        "a": "Mínimo para no perjudicar la competitividad",
+        "b": "Elevado, teniendo presente la diversidad de situaciones existentes en las distintas regiones de la Unión",
+        "c": "Uniforme en todos los Estados miembros sin excepciones regionales",
+        "d": "Equivalente al de los países más desarrollados del mundo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 191.2 TFUE establece que 'La política de la Unión en el ámbito del medio ambiente tendrá como objetivo alcanzar un nivel de protección elevado, teniendo presente la diversidad de situaciones existentes en las distintas regiones de la Unión'.",
+      "ley": "TFUE, art. 191.2"
+    },
+    {
+      "id": "tema_05_test_28_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 192.2 TFUE prevé una clausura o cláusula pasarela para las materias que requieren unanimidad en medio ambiente. ¿Quién puede decidir que pase a procedimiento legislativo ordinario?",
+      "options": {
+        "a": "El Parlamento Europeo por mayoría de sus miembros",
+        "b": "El Consejo por unanimidad, a propuesta de la Comisión y previa consulta al Parlamento, al CES y al Comité de las Regiones",
+        "c": "El Consejo Europeo por consenso",
+        "d": "La Comisión directamente mediante decisión motivada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 192.2 TFUE establece que 'El Consejo, por unanimidad, a propuesta de la Comisión y previa consulta al Parlamento Europeo, al Comité Económico y Social y al Comité de las Regiones, podrá disponer que el procedimiento legislativo ordinario sea aplicable a los ámbitos' que requieren unanimidad.",
+      "ley": "TFUE, art. 192.2"
+    },
+    {
+      "id": "tema_05_test_28_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 192.4 TFUE, ¿quiénes tienen a su cargo la financiación y la ejecución de la política de medio ambiente?",
+      "options": {
+        "a": "La Unión Europea mediante fondos estructurales",
+        "b": "Los Estados miembros, sin perjuicio de determinadas medidas adoptadas por la Unión",
+        "c": "Los Estados miembros y la Unión conjuntamente al 50%",
+        "d": "Los propios sectores contaminantes mediante el principio de quien contamina paga"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 192.4 TFUE establece que 'Sin perjuicio de determinadas medidas adoptadas por la Unión, los Estados miembros tendrán a su cargo la financiación y la ejecución de la política en materia de medio ambiente'.",
+      "ley": "TFUE, art. 192.4"
+    },
+    {
+      "id": "tema_05_test_28_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 191.3 TFUE establece los factores que la Unión tendrá en cuenta en la elaboración de su política de medio ambiente. Señale cuál de los siguientes SÍ figura entre ellos:",
+      "options": {
+        "a": "Las preferencias de los principales sectores industriales afectados",
+        "b": "Los datos científicos y técnicos disponibles",
+        "c": "Los compromisos de los principales países emisores en el ámbito global",
+        "d": "La opinión de las organizaciones ecologistas reconocidas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 191.3 TFUE establece cuatro factores: los datos científicos y técnicos disponibles, las condiciones del medio ambiente en las diversas regiones, las ventajas y las cargas de la acción o falta de acción, y el desarrollo económico y social de la Unión en su conjunto.",
+      "ley": "TFUE, art. 191.3"
+    },
+    {
+      "id": "tema_05_test_28_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 192.5 TFUE establece una disposición de solidaridad para los Estados con costes desproporcionados en aplicación de medidas de medio ambiente. ¿Qué apoyo pueden recibir?",
+      "options": {
+        "a": "Subvenciones directas del presupuesto de la Unión",
+        "b": "Excepciones de carácter temporal o apoyo financiero con cargo al Fondo de Cohesión, o ambas posibilidades",
+        "c": "Períodos de transición negociados caso por caso con la Comisión",
+        "d": "Exenciones permanentes del cumplimiento de las medidas más costosas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 192.5 TFUE establece que la medida adoptada 'establecerá las disposiciones adecuadas en forma de Excepciones de carácter temporal o Apoyo financiero con cargo al Fondo de Cohesión o ambas posibilidades'.",
+      "ley": "TFUE, art. 192.5"
+    },
+    {
+      "id": "tema_05_test_28_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 196.1 TFUE, ¿cuál es el objetivo de la acción de la Unión en materia de protección civil?",
+      "options": {
+        "a": "Crear un cuerpo de protección civil europeo que sustituya a los servicios nacionales",
+        "b": "Fomentar la cooperación entre los Estados miembros para mejorar la eficacia de los sistemas de prevención de las catástrofes naturales o de origen humano y de protección frente a ellas",
+        "c": "Armonizar las normativas nacionales sobre protección civil",
+        "d": "Establecer un fondo europeo de catástrofes naturales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 196.1 TFUE establece que 'La Unión fomentará la cooperación entre los Estados miembros con el fin de mejorar la eficacia de los sistemas de prevención de las catástrofes naturales o de origen humano y de protección frente a ellas'.",
+      "ley": "TFUE, art. 196.1"
+    },
+    {
+      "id": "tema_05_test_28_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 196.1 TFUE establece tres objetivos específicos de la acción de la Unión en protección civil. Señale cuál de los siguientes SÍ figura entre ellos:",
+      "options": {
+        "a": "Financiar los gastos de reconstrucción de los daños causados por catástrofes",
+        "b": "Apoyar y complementar la acción de los Estados miembros a escala nacional, regional y local por lo que respecta a la prevención de riesgos y la preparación de personas encargadas de la protección civil",
+        "c": "Crear un servicio de emergencias médicas europeo de respuesta inmediata",
+        "d": "Establecer un sistema de alerta temprana unificado para toda la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 196.1.a) TFUE establece el objetivo de 'Apoyar y complementar la acción de los Estados miembros a escala nacional, regional y local por lo que respecta a la prevención de riesgos, la preparación de las personas encargadas de la protección civil en los Estados miembros y la intervención en caso de catástrofes naturales o de origen humano dentro de la Unión'.",
+      "ley": "TFUE, art. 196.1.a)"
+    },
+    {
+      "id": "tema_05_test_28_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 196.2 TFUE establece que las medidas de protección civil se adoptarán con exclusión de toda armonización. ¿A qué se refiere exactamente?",
+      "options": {
+        "a": "A la exclusión de armonización de las legislaciones nacionales de protección civil de los Estados miembros",
+        "b": "A la exclusión del presupuesto de la Unión en la financiación de actividades de protección civil",
+        "c": "A la exclusión de la Comisión en la coordinación de las actividades de protección civil",
+        "d": "A la exclusión de la participación del Parlamento Europeo en las decisiones de emergencia"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 196.2 TFUE establece que las medidas se establecerán 'con exclusión de toda armonización de las disposiciones legales y reglamentarias de los Estados miembros'. La Unión puede apoyar pero no armonizar.",
+      "ley": "TFUE, art. 196.2"
+    },
+    {
+      "id": "tema_05_test_28_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 191.1 TFUE menciona expresamente el cambio climático entre los objetivos de la política ambiental de la Unión. ¿En qué contexto geográfico lo menciona?",
+      "options": {
+        "a": "En el contexto de las políticas internas de la Unión",
+        "b": "En el contexto de medidas a escala internacional destinadas a hacer frente a los problemas regionales o mundiales del medio ambiente",
+        "c": "Solo en el contexto de las negociaciones comerciales internacionales",
+        "d": "En el contexto de la política exterior y de seguridad común"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 191.1 TFUE establece entre los objetivos de la política de medio ambiente 'El fomento de medidas a escala internacional destinadas a hacer frente a los problemas regionales o mundiales del medio ambiente y en particular a luchar contra el cambio climático'.",
+      "ley": "TFUE, art. 191.1"
+    },
+    {
+      "id": "tema_05_test_28_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 191.4 TFUE, ¿con quiénes cooperarán la Unión y los Estados miembros en sus respectivas competencias en materia de medio ambiente?",
+      "options": {
+        "a": "Solo con los países miembros de la OCDE",
+        "b": "Con los terceros países y las organizaciones internacionales competentes",
+        "c": "Con los organismos no gubernamentales especializados",
+        "d": "Con los países vecinos y los que tienen acuerdos de asociación con la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 191.4 TFUE establece que 'En el marco de sus respectivas competencias, la Unión y los Estados miembros cooperarán con los terceros países y las organizaciones internacionales competentes'.",
+      "ley": "TFUE, art. 191.4"
+    },
+    {
+      "id": "tema_05_test_28_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 192.2 TFUE establece que en algunos casos el Consejo actúa por unanimidad en materia de medio ambiente. Señale una de las materias que requiere unanimidad relacionada con la gestión del agua:",
+      "options": {
+        "a": "Las medidas para proteger la calidad del agua potable",
+        "b": "Las medidas que afecten a la gestión cuantitativa de los recursos hídricos o que afecten directa o indirectamente a la disponibilidad de dichos recursos",
+        "c": "Las normas sobre depuración de aguas residuales industriales",
+        "d": "Los planes de cuencas hidrográficas transfronterizas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 192.2.b) TFUE requiere unanimidad para 'las medidas que afecten a: La ordenación territorial. La gestión cuantitativa de los recursos hídricos o que afecten directa o indirectamente a la disponibilidad de dichos recursos. La utilización del suelo, con excepción de la gestión de los residuos'.",
+      "ley": "TFUE, art. 192.2.b)"
+    },
+    {
+      "id": "tema_05_test_28_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 196.1 TFUE enumera los tres objetivos de la acción de la Unión en materia de protección civil. Señale el segundo objetivo:",
+      "options": {
+        "a": "Apoyar la prevención de riesgos a escala nacional",
+        "b": "Fomentar una cooperación operativa rápida y eficaz dentro de la Unión entre los servicios de protección civil nacionales",
+        "c": "Crear una agencia europea de gestión de catástrofes",
+        "d": "Financiar la reconstrucción de las zonas afectadas por catástrofes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 196.1.b) TFUE establece como segundo objetivo 'Fomentar una cooperación operativa rápida y eficaz dentro de la Unión entre los servicios de protección civil nacionales'.",
+      "ley": "TFUE, art. 196.1.b)"
+    },
+    {
+      "id": "tema_05_test_28_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 192.3 TFUE, ¿qué podrán adoptar el Parlamento Europeo y el Consejo en materia de medio ambiente?",
+      "options": {
+        "a": "Reglamentos de armonización máxima de las legislaciones nacionales",
+        "b": "Programas de acción de carácter general que fijen los objetivos prioritarios que hayan de alcanzarse",
+        "c": "Decisiones de emergencia sin consulta al Comité de las Regiones",
+        "d": "Directivas de mínimos sin posibilidad de ir más allá"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 192.3 TFUE establece que 'El Parlamento Europeo y el Consejo adoptarán, con arreglo al procedimiento legislativo ordinario y previa consulta al Comité Económico y Social y al Comité de las Regiones, programas de acción de carácter general que fijen los objetivos prioritarios que hayan de alcanzarse'.",
+      "ley": "TFUE, art. 192.3"
+    },
+    {
+      "id": "tema_05_test_28_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 192.2.c) TFUE requiere unanimidad del Consejo para las medidas que afecten de forma significativa a la elección de fuentes de energía de un Estado. ¿Con qué objetivo esencial se relaciona esta excepción?",
+      "options": {
+        "a": "Garantizar la seguridad energética de la Unión",
+        "b": "Proteger la soberanía de los Estados sobre su mix energético (la elección entre diferentes fuentes de energía y la estructura general de su abastecimiento energético)",
+        "c": "Promover las energías renovables en todos los Estados miembros",
+        "d": "Asegurar el cumplimiento de los compromisos climáticos internacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 192.2.c) TFUE requiere unanimidad para 'las medidas que afecten de forma significativa a la elección por un Estado miembro entre diferentes fuentes de energía y a la estructura general de su abastecimiento energético'. Protege la soberanía energética de los Estados.",
+      "ley": "TFUE, art. 192.2.c)"
+    },
+    {
+      "id": "tema_05_test_28_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El Título XX del TFUE regula el medio ambiente y contiene los arts. 191 a 193. ¿Qué Título del TFUE regula la protección civil?",
+      "options": {
+        "a": "Título XVIII",
+        "b": "Título XXI",
+        "c": "Título XXIII",
+        "d": "Título XXV"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El Título XXIII del TFUE regula la protección civil (art. 196). El Título XX regula el medio ambiente (arts. 191-193).",
+      "ley": "TFUE, Título XXIII"
+    },
+    {
+      "id": "tema_05_test_28_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 191.2 TFUE menciona que las medidas de armonización necesarias para responder a exigencias de protección del medio ambiente pueden incluir una cláusula de salvaguardia. ¿Para qué sirve esta cláusula?",
+      "options": {
+        "a": "Para permitir a la Unión suspender las normas ambientales en caso de crisis económica",
+        "b": "Para autorizar a los Estados miembros a adoptar, por motivos medioambientales no económicos, medidas provisionales sometidas a un procedimiento de control de la Unión",
+        "c": "Para excluir a los países con sistemas jurídicos más laxos de las exigencias medioambientales comunes",
+        "d": "Para permitir ayudas estatales a las empresas que realicen grandes inversiones medioambientales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 191.2 TFUE establece que las medidas de armonización 'incluirán, en los casos apropiados, una cláusula de salvaguardia que autorice a los Estados miembros a adoptar, por motivos medioambientales no económicos, medidas provisionales sometidas a un procedimiento de control de la Unión'.",
+      "ley": "TFUE, art. 191.2"
+    }
+  ]
+}

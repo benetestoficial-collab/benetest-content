@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 26",
+  "preguntas": [
+    {
+      "id": "tema_05_test_26_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 67.1 TFUE, ¿sobre qué bases constituye la Unión el espacio de libertad, seguridad y justicia?",
+      "options": {
+        "a": "Sobre la base de la armonización de las legislaciones penales y civiles de los Estados miembros",
+        "b": "Dentro del respeto de los derechos fundamentales y de los distintos sistemas y tradiciones jurídicos de los Estados miembros",
+        "c": "Mediante la unificación completa de las normativas de inmigración y asilo",
+        "d": "A través de la creación de un sistema policial europeo centralizado"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 67.1 TFUE establece que 'La Unión constituye un espacio de libertad, seguridad y justicia dentro del respeto de los derechos fundamentales y de los distintos sistemas y tradiciones jurídicos de los Estados miembros'.",
+      "ley": "TFUE, art. 67.1"
+    },
+    {
+      "id": "tema_05_test_26_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 67.2 TFUE, la política común de asilo, inmigración y control de fronteras exteriores debe basarse en:",
+      "options": {
+        "a": "La reciprocidad entre los Estados miembros y los países de origen de los migrantes",
+        "b": "La solidaridad entre Estados miembros y ser equitativa respecto de los nacionales de terceros países",
+        "c": "Los criterios de distribución proporcional acordados por el Consejo Europeo",
+        "d": "Las obligaciones internacionales de la Unión derivadas del Derecho internacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 67.2 TFUE establece que la Unión 'desarrollará una política común de asilo, inmigración y control de las fronteras exteriores que esté basada en la solidaridad entre Estados miembros y sea equitativa respecto de los nacionales de terceros países'.",
+      "ley": "TFUE, art. 67.2"
+    },
+    {
+      "id": "tema_05_test_26_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 67.2 TFUE, los apátridas se asimilarán a efectos del Título V a:",
+      "options": {
+        "a": "Los ciudadanos de la Unión",
+        "b": "Los nacionales de terceros países",
+        "c": "Los solicitantes de asilo",
+        "d": "Los residentes permanentes en la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 67.2 TFUE establece expresamente que 'A efectos del presente título, los apátridas se asimilarán a los nacionales de terceros países'.",
+      "ley": "TFUE, art. 67.2"
+    },
+    {
+      "id": "tema_05_test_26_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 68 TFUE, ¿qué institución definirá las orientaciones estratégicas de la programación legislativa y operativa en el espacio de libertad, seguridad y justicia?",
+      "options": {
+        "a": "La Comisión Europea",
+        "b": "El Consejo Europeo",
+        "c": "El Parlamento Europeo",
+        "d": "El Consejo de Justicia e Interior"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 68 TFUE establece que 'El Consejo Europeo definirá las orientaciones estratégicas de la programación legislativa y operativa en el espacio de libertad, seguridad y justicia'.",
+      "ley": "TFUE, art. 68"
+    },
+    {
+      "id": "tema_05_test_26_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 72 TFUE, el Título V sobre el espacio de libertad, seguridad y justicia se entiende sin perjuicio del ejercicio de las responsabilidades que incumben a los Estados miembros en cuanto a:",
+      "options": {
+        "a": "La política exterior y la cooperación con terceros países",
+        "b": "El mantenimiento del orden público y la salvaguardia de la seguridad interior",
+        "c": "La ejecución del presupuesto de la Unión en materia de seguridad",
+        "d": "La designación de los jueces y magistrados nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 72 TFUE establece que 'El presente título se entenderá sin perjuicio del ejercicio de las responsabilidades que incumben a los Estados miembros en cuanto al mantenimiento del orden público y la salvaguardia de la seguridad interior'.",
+      "ley": "TFUE, art. 72"
+    },
+    {
+      "id": "tema_05_test_26_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 73 TFUE, ¿qué pueden organizar los Estados miembros entre ellos y bajo su responsabilidad?",
+      "options": {
+        "a": "Operaciones militares conjuntas en el marco de la PCSD",
+        "b": "Formas de cooperación y coordinación entre los servicios competentes de sus administraciones responsables de velar por la seguridad nacional",
+        "c": "Misiones policiales conjuntas en terceros países",
+        "d": "Intercambios de información fiscal entre sus administraciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 73 TFUE establece que 'Los Estados miembros tendrán la posibilidad de organizar entre ellos y bajo su responsabilidad formas de cooperación y coordinación en la medida en que lo estimen apropiado, entre los servicios competentes de sus administraciones responsables de velar por la seguridad nacional'.",
+      "ley": "TFUE, art. 73"
+    },
+    {
+      "id": "tema_05_test_26_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 76 TFUE establece que los actos de los capítulos sobre cooperación judicial en materia penal y cooperación policial pueden adoptarse a propuesta de la Comisión o por iniciativa de la cuarta parte de los Estados miembros. ¿Qué fracción de los Estados equivale a 'la cuarta parte' en la UE de 27 miembros?",
+      "options": {
+        "a": "Mínimo 5 Estados miembros",
+        "b": "Mínimo 6 Estados miembros",
+        "c": "Mínimo 7 Estados miembros",
+        "d": "Mínimo 9 Estados miembros"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 76 TFUE establece que los actos pueden adoptarse 'por iniciativa de la cuarta parte de los Estados miembros'. Con 27 Estados miembros, la cuarta parte es 27/4 = 6,75, por lo que se necesitan al menos 7 Estados miembros.",
+      "ley": "TFUE, art. 76"
+    },
+    {
+      "id": "tema_05_test_26_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 77.1 TFUE, la política de la Unión en materia de fronteras tiene tres objetivos. Señale cuál de los siguientes NO figura entre ellos:",
+      "options": {
+        "a": "Garantizar la ausencia total de controles de las personas cuando crucen las fronteras interiores",
+        "b": "Garantizar los controles de las personas y la vigilancia eficaz en el cruce de las fronteras exteriores",
+        "c": "Instaurar progresivamente un sistema integrado de gestión de las fronteras exteriores",
+        "d": "Establecer un sistema armonizado de visados de larga duración para residentes permanentes"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 77.1 TFUE establece tres objetivos: a) ausencia total de controles en fronteras interiores, b) controles y vigilancia eficaz en fronteras exteriores y c) sistema integrado de gestión de fronteras exteriores. Los visados de larga duración no son un objetivo del art. 77.1.",
+      "ley": "TFUE, art. 77.1"
+    },
+    {
+      "id": "tema_05_test_26_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 78.1 TFUE, la política común de asilo debe ajustarse a la Convención de Ginebra de 1951. ¿Qué principio esencial de esa Convención menciona expresamente el art. 78.1?",
+      "options": {
+        "a": "El principio de acogida universal",
+        "b": "El principio de no devolución",
+        "c": "El principio de reagrupamiento familiar",
+        "d": "El principio de igualdad de trato"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 78.1 TFUE establece que la política de asilo está 'destinada a ofrecer un estatuto apropiado a todo nacional de un tercer país que necesite protección internacional y a garantizar el respeto del principio de no devolución'.",
+      "ley": "TFUE, art. 78.1"
+    },
+    {
+      "id": "tema_05_test_26_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 78.3 TFUE, cuando uno o varios Estados miembros se enfrentan a una afluencia repentina de nacionales de terceros países, ¿quién puede adoptar medidas provisionales y consultando a quién?",
+      "options": {
+        "a": "La Comisión autónomamente, previa consulta al Consejo Europeo",
+        "b": "El Consejo a propuesta de la Comisión, previa consulta al Parlamento Europeo",
+        "c": "El Consejo Europeo por unanimidad sin consultas adicionales",
+        "d": "El Parlamento Europeo a propuesta del Consejo por mayoría cualificada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 78.3 TFUE establece que 'el Consejo podrá adoptar, a propuesta de la Comisión, medidas provisionales en beneficio de los Estados miembros afectados. El Consejo se pronunciará previa consulta al Parlamento Europeo'.",
+      "ley": "TFUE, art. 78.3"
+    },
+    {
+      "id": "tema_05_test_26_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 79.5 TFUE establece un límite importante en materia de política de inmigración. ¿Qué derecho de los Estados miembros preserva expresamente?",
+      "options": {
+        "a": "El derecho a deportar a los migrantes irregulares sin intervención de la UE",
+        "b": "El derecho a establecer volúmenes de admisión en su territorio de nacionales de terceros países procedentes de terceros países con el fin de buscar trabajo",
+        "c": "El derecho a establecer sus propias condiciones de asilo sin respetar el sistema europeo",
+        "d": "El derecho a suspender la libre circulación de personas en situaciones de emergencia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 79.5 TFUE establece que 'El presente artículo no afectará al derecho de los Estados miembros a establecer volúmenes de admisión en su territorio de nacionales de terceros países procedentes de terceros países con el fin de buscar trabajo por cuenta ajena o por cuenta propia'.",
+      "ley": "TFUE, art. 79.5"
+    },
+    {
+      "id": "tema_05_test_26_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 80 TFUE establece el principio rector de las políticas sobre fronteras, asilo e inmigración. ¿Cuál es?",
+      "options": {
+        "a": "El principio de subsidiariedad y respeto a la soberanía nacional",
+        "b": "El principio de solidaridad y de reparto equitativo de la responsabilidad entre los Estados miembros, también en el aspecto financiero",
+        "c": "El principio de integración progresiva de los sistemas nacionales de asilo",
+        "d": "El principio de eficiencia y racionalización de los recursos disponibles"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 80 TFUE establece que las políticas sobre fronteras, asilo e inmigración 'se regirán por el principio de solidaridad y de reparto equitativo de la responsabilidad entre los Estados miembros, también en el aspecto financiero'.",
+      "ley": "TFUE, art. 80"
+    },
+    {
+      "id": "tema_05_test_26_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 67.3 TFUE establece que la Unión se esforzará por garantizar un nivel elevado de seguridad. ¿Qué principio fundamental menciona en materia de resoluciones judiciales?",
+      "options": {
+        "a": "El principio de jerarquía normativa entre el Derecho de la Unión y el Derecho nacional",
+        "b": "El principio de reconocimiento mutuo de las resoluciones judiciales en materia penal",
+        "c": "El principio de supremacía del Tribunal de Justicia de la Unión",
+        "d": "El principio de unidad jurisdiccional en materia penal"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 67.3 TFUE establece que la Unión se esforzará por garantizar seguridad 'así como mediante el reconocimiento mutuo de las resoluciones judiciales en materia penal y, si es necesario, mediante la aproximación de las legislaciones penales'.",
+      "ley": "TFUE, art. 67.3"
+    },
+    {
+      "id": "tema_05_test_26_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 75 TFUE, ¿qué tipo de medidas puede adoptar el Parlamento Europeo y el Consejo para la prevención y lucha contra el terrorismo en materia de movimientos de capitales?",
+      "options": {
+        "a": "Directivas de armonización de las legislaciones penales",
+        "b": "Medidas administrativas sobre movimientos de capitales y pagos, como la inmovilización de fondos, activos o beneficios económicos",
+        "c": "Sanciones diplomáticas contra los países que financien el terrorismo",
+        "d": "Reglamentos para la creación de una unidad policial antiterrorista europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 75 TFUE establece que el Parlamento Europeo y el Consejo definirán 'un marco de medidas administrativas sobre movimiento de capitales y pagos, tales como la inmovilización de fondos, activos financieros o beneficios económicos' para combatir el terrorismo.",
+      "ley": "TFUE, art. 75"
+    },
+    {
+      "id": "tema_05_test_26_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 71 TFUE, ¿qué se creará en el Consejo para garantizar el fomento e intensificación de la cooperación operativa en materia de seguridad interior?",
+      "options": {
+        "a": "Una agencia especializada en seguridad interior europea",
+        "b": "Un comité permanente en el Consejo",
+        "c": "Una sección especial del Consejo de Justicia e Interior",
+        "d": "Un grupo de trabajo permanente de Europol"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 71 TFUE establece que 'Se creará un comité permanente en el Consejo con objeto de garantizar dentro de la Unión el fomento y la intensificación de la cooperación operativa en materia de seguridad interior'. Es el llamado COSI (Comité Permanente de Cooperación Operativa en materia de Seguridad Interior).",
+      "ley": "TFUE, art. 71"
+    },
+    {
+      "id": "tema_05_test_26_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 78.2 TFUE establece que el sistema europeo común de asilo incluirá varios elementos. Señale cuál de los siguientes NO figura en el art. 78.2:",
+      "options": {
+        "a": "Un estatuto uniforme de asilo para nacionales de terceros países, válido en toda la Unión",
+        "b": "Un estatuto uniforme de protección subsidiaria",
+        "c": "Un sistema común para la protección temporal de las personas desplazadas en caso de afluencia masiva",
+        "d": "Un sistema de cuotas obligatorias de reparto de refugiados entre los Estados miembros"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 78.2 TFUE no establece cuotas obligatorias de reparto. El sistema europeo común de asilo incluye: estatuto uniforme de asilo, estatuto de protección subsidiaria, protección temporal, procedimientos comunes, criterios para determinar el Estado responsable, normas de acogida y cooperación con terceros países.",
+      "ley": "TFUE, art. 78.2"
+    },
+    {
+      "id": "tema_05_test_26_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 67.4 TFUE, ¿qué facilitará la Unión en materia de tutela judicial en el ámbito civil?",
+      "options": {
+        "a": "La creación de un tribunal civil europeo para litigios transfronterizos",
+        "b": "La tutela judicial, garantizando en especial el principio de reconocimiento mutuo de las resoluciones judiciales y extrajudiciales en materia civil",
+        "c": "La armonización de los códigos civiles de todos los Estados miembros",
+        "d": "El acceso gratuito a la justicia para todos los ciudadanos de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 67.4 TFUE establece que 'La Unión facilitará la tutela judicial, garantizando en especial el principio de reconocimiento mutuo de las resoluciones judiciales y extrajudiciales en materia civil'.",
+      "ley": "TFUE, art. 67.4"
+    },
+    {
+      "id": "tema_05_test_26_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 70 TFUE establece un mecanismo de evaluación de las políticas del Título V. ¿A quién se informará del contenido y los resultados de esa evaluación?",
+      "options": {
+        "a": "Solo a la Comisión y al Consejo",
+        "b": "Al Parlamento Europeo y a los Parlamentos nacionales",
+        "c": "Al Consejo Europeo y al Consejo",
+        "d": "A todos los órganos institucionales de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 70 TFUE establece que 'Se informará al Parlamento Europeo y a los Parlamentos nacionales del contenido y los resultados de esta evaluación'. Hay un doble control parlamentario, europeo y nacional.",
+      "ley": "TFUE, art. 70"
+    },
+    {
+      "id": "tema_05_test_26_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 79.3 TFUE permite a la Unión celebrar acuerdos con terceros países para la readmisión de nacionales de terceros países que no cumplan las condiciones de estancia. ¿Qué tipo de personas abarca este mecanismo?",
+      "options": {
+        "a": "Solo las personas que hayan entrado ilegalmente",
+        "b": "Nacionales de terceros países que no cumplan o que hayan dejado de cumplir las condiciones de entrada, presencia o residencia",
+        "c": "Solo los que hayan cometido delitos en territorio de la Unión",
+        "d": "Solo los nacionales de países con los que existan acuerdos de readmisión previos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 79.3 TFUE establece que la Unión podrá celebrar acuerdos 'para la readmisión, en sus países de origen o de procedencia, de nacionales de terceros países que no cumplan o que hayan dejado de cumplir las condiciones de entrada, presencia o residencia en el territorio de uno de los Estados miembros'.",
+      "ley": "TFUE, art. 79.3"
+    },
+    {
+      "id": "tema_05_test_26_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 77.3 TFUE, ¿qué procedimiento se aplica cuando el Consejo establece disposiciones sobre pasaportes, documentos de identidad y permisos de residencia?",
+      "options": {
+        "a": "Procedimiento legislativo ordinario",
+        "b": "Procedimiento legislativo especial con unanimidad del Consejo y previa consulta al Parlamento Europeo",
+        "c": "Decisión de la Comisión con el refrendo del Consejo Europeo",
+        "d": "Acuerdo interinstitucional entre el Parlamento y el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 77.3 TFUE establece que en ese caso 'el Consejo se pronunciará por unanimidad, previa consulta al Parlamento Europeo'.",
+      "ley": "TFUE, art. 77.3"
+    }
+  ]
+}

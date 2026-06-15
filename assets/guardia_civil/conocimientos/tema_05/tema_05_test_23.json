@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 23",
+  "preguntas": [
+    {
+      "id": "tema_05_test_23_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 26.2 TFUE, ¿qué implica el mercado interior?",
+      "options": {
+        "a": "Un espacio donde solo circulan libremente las mercancías",
+        "b": "Un espacio sin fronteras interiores en el que la libre circulación de mercancías, personas, servicios y capitales estará garantizada",
+        "c": "Un área de libre comercio con terceros países",
+        "d": "Un espacio donde los Estados mantienen sus propias políticas arancelarias"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 26.2 TFUE establece que 'El mercado interior implicará un espacio sin fronteras interiores, en el que la libre circulación de mercancías, personas, servicios y capitales estará garantizada de acuerdo con las disposiciones de los Tratados'.",
+      "ley": "TFUE, art. 26.2"
+    },
+    {
+      "id": "tema_05_test_23_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 28 TFUE, ¿qué comprende la unión aduanera?",
+      "options": {
+        "a": "Solo la prohibición de derechos de aduana entre los Estados miembros",
+        "b": "La totalidad de los intercambios de mercancías, la prohibición de derechos de aduana entre Estados miembros y la adopción de un arancel aduanero común frente a terceros países",
+        "c": "Solo el establecimiento de un arancel externo común",
+        "d": "La libre circulación de mercancías dentro de la Unión sin ningún tipo de control"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 28.1 TFUE establece que la Unión comprenderá 'una unión aduanera, que abarcará la totalidad de los intercambios de mercancías y que implicará la prohibición, entre los Estados miembros, de los derechos de aduana de importación y exportación y de cualesquiera exacciones de efecto equivalente, así como la adopción de un arancel aduanero común en sus relaciones con terceros países'.",
+      "ley": "TFUE, art. 28.1"
+    },
+    {
+      "id": "tema_05_test_23_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 29 TFUE, ¿cuándo se considerarán en 'libre práctica' en un Estado miembro los productos procedentes de terceros países?",
+      "options": {
+        "a": "Cuando hayan sido declarados en aduana",
+        "b": "Cuando se hayan cumplido las formalidades de importación, percibido los derechos de aduana y cualesquiera otras exacciones de efecto equivalente, sin haber obtenido devolución total o parcial",
+        "c": "Cuando lleven más de un año en el territorio del Estado miembro",
+        "d": "Cuando el Consejo lo declare mediante decisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 29 TFUE define los productos en libre práctica como aquellos 'respecto de los cuales se hayan cumplido, en dicho Estado miembro, las formalidades de importación y percibido los derechos de aduana y cualesquiera otras exacciones de efecto equivalente exigibles, siempre que no se hubieren beneficiado de una devolución total o parcial de los mismos'.",
+      "ley": "TFUE, art. 29"
+    },
+    {
+      "id": "tema_05_test_23_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 30 TFUE prohíbe los derechos de aduana entre los Estados miembros. ¿Esta prohibición se aplica también a los derechos de aduana de carácter fiscal?",
+      "options": {
+        "a": "No, los derechos fiscales están exentos de la prohibición",
+        "b": "Sí, la prohibición se aplica también a los derechos de aduana de carácter fiscal",
+        "c": "Solo si superan un determinado porcentaje del valor de la mercancía",
+        "d": "Solo para los productos alimenticios y farmacéuticos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 30 TFUE establece que quedarán prohibidos entre los Estados miembros los derechos de aduana de importación y exportación y añade que 'Esta prohibición se aplicará también a los derechos de aduana de carácter fiscal'.",
+      "ley": "TFUE, art. 30"
+    },
+    {
+      "id": "tema_05_test_23_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 31 TFUE, ¿quién fija los derechos del arancel aduanero común?",
+      "options": {
+        "a": "La Comisión Europea mediante reglamento",
+        "b": "El Consejo, a propuesta de la Comisión",
+        "c": "El Parlamento Europeo y el Consejo conjuntamente",
+        "d": "Los Estados miembros por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 31 TFUE establece que 'El Consejo, a propuesta de la Comisión, fijará los derechos del arancel aduanero común'.",
+      "ley": "TFUE, art. 31"
+    },
+    {
+      "id": "tema_05_test_23_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 36 TFUE permite excepciones a la prohibición de restricciones cuantitativas. Señale cuál de las siguientes NO es una causa de excepción admitida:",
+      "options": {
+        "a": "Razones de orden público, moralidad y seguridad públicas",
+        "b": "Protección de la salud y vida de las personas y animales",
+        "c": "Protección del patrimonio artístico, histórico o arqueológico nacional",
+        "d": "Razones económicas de protección de la industria nacional"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 36 TFUE admite excepciones por razones de orden público, moralidad, seguridad, salud, vida de personas/animales, vegetales, patrimonio artístico/histórico/arqueológico y propiedad industrial/comercial. Las razones puramente económicas no están admitidas como excepción.",
+      "ley": "TFUE, art. 36"
+    },
+    {
+      "id": "tema_05_test_23_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 34 TFUE prohíbe las restricciones cuantitativas a la importación y las medidas de efecto equivalente. ¿Qué prohíbe el art. 35 TFUE?",
+      "options": {
+        "a": "Las restricciones a la libre circulación de capitales",
+        "b": "Las restricciones cuantitativas a la exportación y las medidas de efecto equivalente",
+        "c": "Los monopolios estatales de importación",
+        "d": "Las restricciones a la libre prestación de servicios"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 35 TFUE establece que 'Quedarán prohibidas entre los Estados miembros las restricciones cuantitativas a la exportación, así como todas las medidas de efecto equivalente'. El art. 34 hace lo mismo para la importación.",
+      "ley": "TFUE, art. 35"
+    },
+    {
+      "id": "tema_05_test_23_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 36 TFUE establece que las excepciones a la libre circulación de mercancías 'no deberán constituir'. ¿Qué dos prohibiciones adicionales establece?",
+      "options": {
+        "a": "Un medio de discriminación arbitraria y una restricción encubierta del comercio entre los Estados miembros",
+        "b": "Una barrera técnica al comercio y una restricción cuantitativa encubierta",
+        "c": "Una medida proteccionista y una distorsión de la competencia",
+        "d": "Una exacción de efecto equivalente y una medida de efecto equivalente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 36 TFUE establece que las prohibiciones o restricciones admitidas 'no deberán constituir un medio de discriminación arbitraria ni una restricción encubierta del comercio entre los Estados miembros'.",
+      "ley": "TFUE, art. 36"
+    },
+    {
+      "id": "tema_05_test_23_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 37 TFUE, ¿qué deben hacer los Estados miembros con los monopolios nacionales de carácter comercial?",
+      "options": {
+        "a": "Eliminarlos progresivamente en un plazo de diez años",
+        "b": "Adecuarlos de tal modo que quede asegurada la exclusión de toda discriminación entre los nacionales de los Estados miembros respecto de las condiciones de abastecimiento y de mercado",
+        "c": "Transformarlos en empresas mixtas con participación privada",
+        "d": "Transferirlos a la gestión de la Comisión Europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 37 TFUE establece que 'Los Estados miembros adecuarán los monopolios nacionales de carácter comercial de tal modo que quede asegurada la exclusión de toda discriminación entre los nacionales de los Estados miembros respecto de las condiciones de abastecimiento y de mercado'.",
+      "ley": "TFUE, art. 37"
+    },
+    {
+      "id": "tema_05_test_23_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 26.1 TFUE, ¿qué adoptará la Unión para establecer el mercado interior o garantizar su funcionamiento?",
+      "options": {
+        "a": "Reglamentos del Consejo por unanimidad",
+        "b": "Las medidas destinadas a establecer el mercado interior o a garantizar su funcionamiento, de conformidad con las disposiciones pertinentes de los Tratados",
+        "c": "Directivas de la Comisión sin intervención del Consejo",
+        "d": "Acuerdos interinstitucionales entre el Parlamento y el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 26.1 TFUE establece que 'La Unión adoptará las medidas destinadas a establecer el mercado interior o a garantizar su funcionamiento, de conformidad con las disposiciones pertinentes de los Tratados'.",
+      "ley": "TFUE, art. 26.1"
+    },
+    {
+      "id": "tema_05_test_23_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 32 TFUE, ¿qué criterios guiarán a la Comisión al cumplir sus funciones en materia de unión aduanera?",
+      "options": {
+        "a": "Solo la protección de la industria europea y el empleo",
+        "b": "Promover intercambios comerciales, la evolución de las condiciones de competencia dentro de la Unión, las necesidades de abastecimiento y evitar perturbaciones graves en la vida económica de los Estados miembros",
+        "c": "Maximizar los ingresos aduaneros de los Estados miembros",
+        "d": "Garantizar que los derechos arancelarios sean iguales en todos los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 32 TFUE establece cuatro criterios para la Comisión: a) promover los intercambios comerciales, b) la evolución de las condiciones de competencia, c) las necesidades de abastecimiento y d) la necesidad de evitar perturbaciones graves en la vida económica de los Estados miembros.",
+      "ley": "TFUE, art. 32"
+    },
+    {
+      "id": "tema_05_test_23_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 33 TFUE establece que el Parlamento Europeo y el Consejo adoptarán medidas para fortalecer la cooperación aduanera. ¿Con arreglo a qué procedimiento?",
+      "options": {
+        "a": "Procedimiento legislativo especial por unanimidad del Consejo",
+        "b": "Procedimiento legislativo ordinario",
+        "c": "Decisión del Consejo Europeo por consenso",
+        "d": "Reglamentos de la Comisión sin intervención del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 33 TFUE establece que 'el Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, adoptarán medidas destinadas a fortalecer la cooperación aduanera entre los Estados miembros y entre estos y la Comisión'.",
+      "ley": "TFUE, art. 33"
+    },
+    {
+      "id": "tema_05_test_23_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 36 TFUE admite restricciones a la libre circulación de mercancías para la protección de la 'propiedad industrial y comercial'. ¿Qué incluye este concepto?",
+      "options": {
+        "a": "Solo patentes y marcas registradas",
+        "b": "Patentes, marcas, diseños, derechos de autor y derechos conexos",
+        "c": "Solo los derechos de autor y derechos conexos",
+        "d": "La protección del know-how empresarial y los secretos comerciales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). La protección de la propiedad industrial y comercial del art. 36 TFUE incluye patentes, marcas, diseños industriales, derechos de autor y demás derechos de propiedad intelectual e industrial, según la interpretación del Tribunal de Justicia.",
+      "ley": "TFUE, art. 36"
+    },
+    {
+      "id": "tema_05_test_23_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 37.2 TFUE, ¿de qué se abstendrán los Estados miembros respecto a los monopolios nacionales de carácter comercial?",
+      "options": {
+        "a": "De crear nuevos monopolios en sectores estratégicos",
+        "b": "De cualquier nueva medida contraria a los principios del art. 37.1 o que restrinja el alcance de los artículos sobre derechos de aduana y restricciones cuantitativas",
+        "c": "De otorgar subvenciones a las empresas que operan en régimen de monopolio",
+        "d": "De modificar las condiciones de los monopolios sin autorización de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 37.2 TFUE establece que 'Los Estados miembros se abstendrán de cualquier nueva medida contraria a los principios enunciados en el apartado 1 o que restrinja el alcance de los artículos relativos a la prohibición de los derechos de aduana y de las restricciones cuantitativas entre los Estados miembros'.",
+      "ley": "TFUE, art. 37.2"
+    },
+    {
+      "id": "tema_05_test_23_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 27 TFUE establece que cuando la Comisión formula propuestas para el mercado interior, tendrá en cuenta determinadas economías. ¿Qué forma deberán adoptar las disposiciones de protección y qué carácter tendrán?",
+      "options": {
+        "a": "Podrán ser permanentes y deberán ser aprobadas por el Consejo Europeo",
+        "b": "Si adoptan la forma de excepciones, deberán tener carácter temporal y perturbar lo menos posible el funcionamiento del mercado interior",
+        "c": "Deberán ser ayudas estatales previamente autorizadas por la Comisión",
+        "d": "Solo podrán consistir en períodos de transición acordados en los Tratados de adhesión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 27 TFUE establece que 'Si dichas disposiciones adoptaren la forma de excepciones, deberán tener carácter temporal y perturbar lo menos posible el funcionamiento del mercado interior'.",
+      "ley": "TFUE, art. 27"
+    },
+    {
+      "id": "tema_05_test_23_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Las cuatro libertades fundamentales del mercado interior según el art. 26.2 TFUE son:",
+      "options": {
+        "a": "Mercancías, servicios, capitales y energía",
+        "b": "Mercancías, personas, servicios y capitales",
+        "c": "Personas, servicios, capitales y tecnología",
+        "d": "Mercancías, personas, trabajo y capitales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 26.2 TFUE establece que en el mercado interior 'la libre circulación de mercancías, personas, servicios y capitales estará garantizada'. Estas son las cuatro libertades fundamentales.",
+      "ley": "TFUE, art. 26.2"
+    },
+    {
+      "id": "tema_05_test_23_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 28.2 TFUE, ¿a qué productos se aplican las disposiciones sobre unión aduanera (art. 30) y sobre restricciones cuantitativas?",
+      "options": {
+        "a": "Solo a los productos originarios de los Estados miembros",
+        "b": "A los productos originarios de los Estados miembros y a los productos procedentes de terceros países que se encuentren en libre práctica en los Estados miembros",
+        "c": "Solo a los productos manufacturados, no a los agrícolas",
+        "d": "A todos los productos que circulen dentro de la Unión, independientemente de su origen"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 28.2 TFUE establece que estas disposiciones 'se aplicarán a los productos originarios de los Estados miembros y a los productos procedentes de terceros países que se encuentren en libre práctica en los Estados miembros'.",
+      "ley": "TFUE, art. 28.2"
+    },
+    {
+      "id": "tema_05_test_23_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 37.3 TFUE establece una disposición especial para los monopolios comerciales que impliquen una regulación destinada a facilitar la comercialización de productos agrícolas. ¿Qué se deben adoptar en ese caso?",
+      "options": {
+        "a": "Medidas de compensación económica para los productores afectados",
+        "b": "Las medidas necesarias para asegurar, garantías equivalentes para el empleo y el nivel de vida de los productores interesados",
+        "c": "Directivas armonizadoras para todos los productores agrícolas de la Unión",
+        "d": "Exenciones temporales a las normas sobre libre circulación de mercancías"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 37.3 TFUE establece que cuando un monopolio implique una regulación para facilitar la comercialización de productos agrícolas, 'deberán adoptarse las medidas necesarias para asegurar, en la aplicación de las normas del presente artículo, garantías equivalentes para el empleo y el nivel de vida de los productores interesados'.",
+      "ley": "TFUE, art. 37.3"
+    },
+    {
+      "id": "tema_05_test_23_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El Título II del TFUE (Libre circulación de mercancías) tiene tres capítulos. ¿Cuáles son?",
+      "options": {
+        "a": "Aranceles, cuotas y medidas de efecto equivalente",
+        "b": "Unión aduanera, cooperación aduanera y prohibición de restricciones cuantitativas entre Estados miembros",
+        "c": "Mercancías, servicios y capitales",
+        "d": "Importaciones, exportaciones y tránsito de mercancías"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El Título II del TFUE tiene tres capítulos: Capítulo I (Unión aduanera, arts. 30-32), Capítulo II (Cooperación aduanera, art. 33) y Capítulo III (Prohibición de las restricciones cuantitativas entre los Estados miembros, arts. 34-37).",
+      "ley": "TFUE, Título II"
+    },
+    {
+      "id": "tema_05_test_23_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 26.3 TFUE, ¿quién definirá las orientaciones y condiciones necesarias para asegurar un progreso equilibrado en el conjunto de los sectores del mercado interior?",
+      "options": {
+        "a": "La Comisión Europea de forma autónoma",
+        "b": "El Consejo, a propuesta de la Comisión",
+        "c": "El Parlamento Europeo por mayoría absoluta",
+        "d": "El Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 26.3 TFUE establece que 'El Consejo, a propuesta de la Comisión, definirá las orientaciones y condiciones necesarias para asegurar un progreso equilibrado en el conjunto de los sectores considerados'.",
+      "ley": "TFUE, art. 26.3"
+    }
+  ]
+}

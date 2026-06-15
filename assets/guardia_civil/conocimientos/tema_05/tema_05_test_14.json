@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 14",
+  "preguntas": [
+    {
+      "id": "tema_05_test_14_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 5.4 TUE consagra el principio de proporcionalidad. ¿A qué se aplica exactamente?",
+      "options": {
+        "a": "Al reparto de competencias entre la Unión y los Estados miembros",
+        "b": "Al contenido y la forma de la acción de la Unión, que no excederán de lo necesario para alcanzar los objetivos de los Tratados",
+        "c": "A la composición proporcional de las instituciones de la Unión",
+        "d": "A la distribución proporcional del presupuesto entre las instituciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 5.4 TUE establece que 'En virtud del principio de proporcionalidad, el contenido y la forma de la acción de la Unión no excederán de lo necesario para alcanzar los objetivos de los Tratados'.",
+      "ley": "TUE, art. 5.4"
+    },
+    {
+      "id": "tema_05_test_14_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7 TUE, hay dos procedimientos distintos: el de constatación de 'riesgo claro de violación grave' (art. 7.1) y el de constatación de 'violación grave y persistente' (art. 7.2). ¿Qué institución actúa en cada uno?",
+      "options": {
+        "a": "El Consejo en ambos casos",
+        "b": "El Consejo en el art. 7.1 y el Consejo Europeo en el art. 7.2",
+        "c": "El Consejo Europeo en ambos casos",
+        "d": "La Comisión en el art. 7.1 y el Consejo en el art. 7.2"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.1 TUE atribuye al Consejo la constatación del 'riesgo claro de violación grave', mientras que el art. 7.2 TUE atribuye al Consejo Europeo la constatación de la 'violación grave y persistente'. Son instituciones diferentes con umbrales distintos.",
+      "ley": "TUE, art. 7.1 y 7.2"
+    },
+    {
+      "id": "tema_05_test_14_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 8.2 TUE, los acuerdos con países vecinos podrán incluir:",
+      "options": {
+        "a": "Solo obligaciones para el país vecino",
+        "b": "Derechos y obligaciones recíprocos y la posibilidad de realizar acciones en común",
+        "c": "Únicamente disposiciones comerciales y arancelarias",
+        "d": "Compromisos militares de defensa colectiva"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 8.2 TUE establece que los acuerdos específicos con países vecinos 'podrán incluir derechos y obligaciones recíprocos, así como la posibilidad de realizar acciones en común'.",
+      "ley": "TUE, art. 8.2"
+    },
+    {
+      "id": "tema_05_test_14_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 16.4 TUE fijó el sistema de doble mayoría a partir de noviembre de 2014. ¿Cuál era el sistema anterior que siguió aplicándose transitoriamente?",
+      "options": {
+        "a": "El sistema de unanimidad para todas las decisiones",
+        "b": "El sistema de ponderación de votos establecido en el Protocolo sobre disposiciones transitorias",
+        "c": "El sistema de mayoría simple de los miembros",
+        "d": "El sistema de rotación semestral de la presidencia con voto de calidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.5 TUE establece que las disposiciones transitorias relativas a la definición de la mayoría cualificada 'se establecerán en el Protocolo sobre las disposiciones transitorias', que mantuvo el antiguo sistema de ponderación de votos durante el período transitorio.",
+      "ley": "TUE, art. 16.5"
+    },
+    {
+      "id": "tema_05_test_14_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.3 TUE, ¿sobre qué se pronunciará el Tribunal de Justicia 'en los demás casos previstos por los Tratados'?",
+      "options": {
+        "a": "Solo sobre recursos de anulación de los Estados miembros",
+        "b": "Es una cláusula general que permite al Tribunal intervenir en cualquier otro caso que los Tratados determinen",
+        "c": "Sobre recursos de los ciudadanos contra las instituciones",
+        "d": "Sobre cuestiones prejudiciales planteadas por el Tribunal de Cuentas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.3.c) TUE establece que el Tribunal se pronunciará 'en los demás casos previstos por los Tratados'. Es una cláusula de apertura que permite atribuirle nuevas competencias a través del TFUE y otros Tratados.",
+      "ley": "TUE, art. 19.3.c)"
+    },
+    {
+      "id": "tema_05_test_14_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 10.2 TUE, los Estados miembros estarán representados en el Consejo por sus Gobiernos, que serán democráticamente responsables, bien ante:",
+      "options": {
+        "a": "El Parlamento Europeo o ante el Consejo Europeo",
+        "b": "Sus Parlamentos nacionales o ante sus ciudadanos",
+        "c": "La Comisión Europea o ante el Tribunal de Justicia",
+        "d": "El Tribunal de Cuentas o ante el Defensor del Pueblo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 10.2 TUE establece que los Gobiernos de los Estados miembros 'serán democráticamente responsables, bien ante sus Parlamentos nacionales, bien ante sus ciudadanos'.",
+      "ley": "TUE, art. 10.2"
+    },
+    {
+      "id": "tema_05_test_14_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 17.6 TUE atribuye al Presidente de la Comisión la facultad de nombrar Vicepresidentes. ¿Hay alguna excepción?",
+      "options": {
+        "a": "No puede nombrar al Vicepresidente responsable del presupuesto",
+        "b": "No puede nombrar al Alto Representante, que es nombrado por el Consejo Europeo",
+        "c": "No puede nombrar al Vicepresidente responsable del mercado interior",
+        "d": "No puede nombrar más de tres Vicepresidentes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.6 TUE establece que el Presidente 'Nombrará Vicepresidentes, distintos del Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad, de entre los miembros de la Comisión'. El Alto Representante es nombrado por el Consejo Europeo (art. 18.1 TUE), aunque también es Vicepresidente.",
+      "ley": "TUE, art. 17.6 y art. 18.1"
+    },
+    {
+      "id": "tema_05_test_14_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 42.6 TUE prevé la cooperación estructurada permanente. ¿Qué requisitos deben cumplir los Estados para participar?",
+      "options": {
+        "a": "Ser miembros de la OTAN y tener un presupuesto de defensa superior al 2% del PIB",
+        "b": "Cumplir criterios más elevados de capacidades militares y haber suscrito compromisos más vinculantes",
+        "c": "Contar con tropas desplegadas en al menos una misión exterior de la UE",
+        "d": "Tener una industria de defensa con presencia en al menos tres Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.6 TUE establece que los Estados que 'cumplan criterios más elevados de capacidades militares y que hayan suscrito compromisos más vinculantes en la materia para realizar las misiones más exigentes' pueden establecer la cooperación estructurada permanente.",
+      "ley": "TUE, art. 42.6"
+    },
+    {
+      "id": "tema_05_test_14_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 51 TUE, ¿qué valor jurídico tienen los Protocolos y Anexos de los Tratados?",
+      "options": {
+        "a": "Tienen valor inferior a los Tratados y solo son orientativos",
+        "b": "Forman parte integrante de los Tratados",
+        "c": "Son Derecho derivado que puede ser modificado por el Consejo",
+        "d": "Tienen valor de Derecho secundario asimilable a los reglamentos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 51 TUE establece expresamente que 'Los Protocolos y Anexos de los Tratados forman parte integrante de los mismos', teniendo por tanto el mismo valor jurídico que el texto del Tratado.",
+      "ley": "TUE, art. 51"
+    },
+    {
+      "id": "tema_05_test_14_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.3 TUE, ¿quiénes participan en la votación cuando el Consejo decide sobre la incorporación de un nuevo Estado a la cooperación estructurada permanente?",
+      "options": {
+        "a": "Todos los miembros del Consejo",
+        "b": "Solo los miembros que representen a los Estados participantes",
+        "c": "Los miembros que representen a los Estados participantes y el Estado solicitante",
+        "d": "Los miembros que representen a los Estados fundadores de la cooperación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.3 TUE establece que 'Únicamente participarán en la votación los miembros del Consejo que representen a los Estados miembros participantes'. El Estado solicitante no vota sobre su propia admisión.",
+      "ley": "TUE, art. 46.3"
+    },
+    {
+      "id": "tema_05_test_14_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.3 TUE establece que la Unión establecerá un mercado interior con una 'economía social de mercado altamente competitiva'. Señale cuál de las siguientes características NO se cita expresamente en dicho artículo:",
+      "options": {
+        "a": "Tendente al pleno empleo",
+        "b": "Basada en el crecimiento económico equilibrado",
+        "c": "Con libertad de establecimiento para empresas de todos los tamaños",
+        "d": "Con estabilidad de los precios"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 3.3 TUE cita el crecimiento económico equilibrado, la estabilidad de los precios, la economía social de mercado altamente competitiva, el pleno empleo, el progreso social y la protección del medio ambiente. No menciona expresamente la 'libertad de establecimiento', que se regula en el TFUE.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_14_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.4 TUE, la mayoría cualificada para el Estado que se retira de la Unión se define de conformidad con el artículo:",
+      "options": {
+        "a": "Art. 238.3.a) TFUE",
+        "b": "Art. 238.3.b) TFUE",
+        "c": "Art. 16.4 TUE",
+        "d": "Art. 354 TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 50.4 TUE establece que 'La mayoría cualificada se definirá de conformidad con el artículo 238.3.b) del Tratado de Funcionamiento de la Unión Europea', que es la regla especial de mayoría cualificada cuando no todos los miembros del Consejo participan en la votación.",
+      "ley": "TUE, art. 50.4"
+    },
+    {
+      "id": "tema_05_test_14_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.1.c) TUE, la Agencia Europea de Defensa propone proyectos multilaterales para cumplir los objetivos de capacidades militares. ¿Qué más coordina?",
+      "options": {
+        "a": "Las operaciones militares activas de los Estados miembros",
+        "b": "Los programas ejecutados por los Estados miembros y la gestión de programas de cooperación específicos",
+        "c": "Las compras centralizadas de armamento para todos los Estados miembros",
+        "d": "La formación y entrenamiento conjunto de las fuerzas armadas europeas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.1.c) TUE establece que la Agencia 'Proponer proyectos multilaterales para cumplir los objetivos de capacidades militares y coordinar los programas ejecutados por los Estados miembros y la gestión de programas de cooperación específicos'.",
+      "ley": "TUE, art. 45.1.c)"
+    },
+    {
+      "id": "tema_05_test_14_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 11.4 TUE establece que los ciudadanos que presentan la iniciativa deben ser nacionales de 'un número significativo de Estados miembros'. ¿Cómo se determina ese número?",
+      "options": {
+        "a": "Lo determina el Consejo por mayoría cualificada",
+        "b": "Se fija de conformidad con el art. 24 TFUE",
+        "c": "Lo decide la Comisión caso por caso",
+        "d": "Debe ser al menos la mitad de los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11.4 TUE remite al art. 24 TFUE para fijar 'Los procedimientos y las condiciones preceptivos para la presentación de una iniciativa de este tipo', lo que incluye la definición de 'número significativo de Estados miembros'.",
+      "ley": "TUE, art. 11.4"
+    },
+    {
+      "id": "tema_05_test_14_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Consejo Europeo, según el art. 15.2 TUE, incluye entre sus miembros al Presidente de la Comisión. ¿Con qué vínculo institucional participa este?",
+      "options": {
+        "a": "Como miembro con plenos derechos de voto",
+        "b": "Como miembro del Consejo Europeo en su composición",
+        "c": "Solo como observador sin derecho a voto",
+        "d": "Solo puede asistir cuando el orden del día afecte a la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.2 TUE establece que el Consejo Europeo 'estará compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, así como por su Presidente y por el Presidente de la Comisión'. El Presidente de la Comisión es miembro de pleno derecho del Consejo Europeo.",
+      "ley": "TUE, art. 15.2"
+    },
+    {
+      "id": "tema_05_test_14_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 17.3 TUE exige a los miembros de la Comisión plena independencia. En virtud de esta exigencia, ¿qué está prohibido expresamente?",
+      "options": {
+        "a": "Reunirse con representantes de Gobiernos nacionales",
+        "b": "Solicitar o aceptar instrucciones de ningún gobierno, institución, órgano u organismo",
+        "c": "Participar en actividades políticas en sus Estados de origen",
+        "d": "Ejercer cargos en organizaciones internacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.3 TUE establece que 'los miembros de la Comisión no solicitarán ni aceptarán instrucciones de ningún gobierno, institución, órgano u organismo'. Es la garantía central de independencia de la Comisión.",
+      "ley": "TUE, art. 17.3"
+    },
+    {
+      "id": "tema_05_test_14_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.3 TUE, la Unión establecerá un mercado interior. Además de los objetivos económicos, el mismo artículo establece que promoverá la protección y mejora de:",
+      "options": {
+        "a": "La seguridad energética de los Estados miembros",
+        "b": "La calidad del medio ambiente",
+        "c": "Los derechos de los consumidores en el mercado interior",
+        "d": "La seguridad alimentaria y la trazabilidad de los productos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que la Unión obrará en pro del desarrollo sostenible 'y en un nivel elevado de protección y mejora de la calidad del medio ambiente'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_14_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.1 TUE, los Estados que instauran una cooperación reforzada podrán hacer uso de:",
+      "options": {
+        "a": "Instituciones propias creadas para esa cooperación",
+        "b": "Las instituciones de la Unión",
+        "c": "Un secretariado especial creado por el Consejo",
+        "d": "La asistencia técnica exclusiva de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.1 TUE establece que los Estados 'podrán hacer uso de las instituciones de esta (la Unión) y ejercer dichas competencias aplicando las disposiciones pertinentes de los Tratados'. Las cooperaciones reforzadas no crean instituciones propias.",
+      "ley": "TUE, art. 20.1"
+    },
+    {
+      "id": "tema_05_test_14_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.7 TUE, ¿qué ocurre si ningún Parlamento nacional se opone en el plazo de seis meses a una iniciativa de cláusula pasarela?",
+      "options": {
+        "a": "La iniciativa se aprueba automáticamente",
+        "b": "El Consejo Europeo puede adoptar la decisión",
+        "c": "La Comisión presenta la propuesta correspondiente",
+        "d": "El Consejo decide por unanimidad sobre la propuesta"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48.7 TUE establece que 'A falta de oposición, el Consejo Europeo podrá adoptar la citada decisión'. Si no hay veto parlamentario nacional en el plazo de seis meses, el Consejo Europeo puede adoptar la decisión.",
+      "ley": "TUE, art. 48.7"
+    },
+    {
+      "id": "tema_05_test_14_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.3 TUE menciona que la Unión 'fomentará la cohesión económica, social y territorial'. ¿Qué más fomentará entre los Estados miembros?",
+      "options": {
+        "a": "La convergencia fiscal y presupuestaria",
+        "b": "La solidaridad entre los Estados miembros",
+        "c": "La integración política progresiva",
+        "d": "La armonización de los sistemas educativos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece literalmente que 'La Unión fomentará la cohesión económica, social y territorial y la solidaridad entre los Estados miembros'.",
+      "ley": "TUE, art. 3.3"
+    }
+  ]
+}

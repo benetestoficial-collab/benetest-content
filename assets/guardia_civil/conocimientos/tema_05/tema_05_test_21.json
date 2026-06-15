@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 21",
+  "preguntas": [
+    {
+      "id": "tema_05_test_21_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 1 TFUE, ¿qué organiza el Tratado de Funcionamiento de la Unión Europea?",
+      "options": {
+        "a": "Los valores y principios fundamentales de la Unión",
+        "b": "El funcionamiento de la Unión y determina los ámbitos, delimitación y condiciones de ejercicio de sus competencias",
+        "c": "La estructura institucional y la composición de los órganos de la Unión",
+        "d": "Las relaciones de la Unión con terceros países y organizaciones internacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 1 TFUE establece que 'El presente Tratado organiza el funcionamiento de la Unión y determina los ámbitos, la delimitación y las condiciones de ejercicio de sus competencias'.",
+      "ley": "TFUE, art. 1"
+    },
+    {
+      "id": "tema_05_test_21_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 2.1 TFUE, cuando la Unión dispone de competencia exclusiva, ¿quién puede legislar en ese ámbito?",
+      "options": {
+        "a": "Solo los Estados miembros, siempre con autorización previa de la Unión",
+        "b": "Solo la Unión puede legislar; los Estados miembros solo pueden hacerlo si la Unión los faculta o para aplicar actos de la Unión",
+        "c": "La Unión y los Estados miembros de forma simultánea",
+        "d": "Solo los Estados miembros cuando la Unión no actúe"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 2.1 TFUE establece que en competencia exclusiva 'solo la Unión podrá legislar y adoptar actos jurídicamente vinculantes, mientras que los Estados miembros, en cuanto tales, únicamente podrán hacerlo si son facultados por la Unión o para aplicar actos de la Unión'.",
+      "ley": "TFUE, art. 2.1"
+    },
+    {
+      "id": "tema_05_test_21_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 2.2 TFUE, en competencias compartidas, ¿cuándo recuperan los Estados miembros el ejercicio de su competencia?",
+      "options": {
+        "a": "Cuando el Consejo Europeo lo autorice expresamente",
+        "b": "En la medida en que la Unión haya decidido dejar de ejercer la suya",
+        "c": "Cuando el Tribunal de Justicia así lo declare",
+        "d": "Nunca, una vez que la Unión ha ejercido la competencia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 2.2 TFUE establece que 'Los Estados miembros ejercerán de nuevo su competencia en la medida en que la Unión haya decidido dejar de ejercer la suya'. La competencia puede volver a los Estados si la Unión desiste.",
+      "ley": "TFUE, art. 2.2"
+    },
+    {
+      "id": "tema_05_test_21_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale cuál de los siguientes ámbitos es de competencia EXCLUSIVA de la Unión según el art. 3 TFUE:",
+      "options": {
+        "a": "La política social",
+        "b": "El medio ambiente",
+        "c": "La unión aduanera",
+        "d": "Los transportes"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 3 TFUE enumera las competencias exclusivas, entre ellas la unión aduanera. La política social, el medio ambiente y los transportes son competencias compartidas (art. 4 TFUE).",
+      "ley": "TFUE, art. 3"
+    },
+    {
+      "id": "tema_05_test_21_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3 TFUE, ¿cuál de los siguientes es un ámbito de competencia exclusiva de la Unión?",
+      "options": {
+        "a": "La cohesión económica, social y territorial",
+        "b": "La política monetaria de los Estados miembros cuya moneda es el euro",
+        "c": "La agricultura y la pesca",
+        "d": "La protección de los consumidores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3 TFUE enumera la 'Política monetaria de los Estados miembros cuya moneda es el euro' como competencia exclusiva. La cohesión territorial, la agricultura y la protección de consumidores son competencias compartidas.",
+      "ley": "TFUE, art. 3"
+    },
+    {
+      "id": "tema_05_test_21_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.1 TFUE, ¿cómo se determina si una competencia es compartida?",
+      "options": {
+        "a": "Si está expresamente catalogada como tal en el Tratado",
+        "b": "Cuando los Tratados le atribuyen a la Unión una competencia que no corresponda a los ámbitos de competencia exclusiva (art. 3) ni de apoyo (art. 6)",
+        "c": "Cuando la Comisión así lo determine por reglamento",
+        "d": "Si afecta simultáneamente al mercado interior y a la política social"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.1 TFUE establece que la Unión dispondrá de competencia compartida 'cuando los Tratados le atribuyan una competencia que no corresponda a los ámbitos mencionados en los artículos 3 y 6'. Es una categoría residual entre la exclusiva y la de apoyo.",
+      "ley": "TFUE, art. 4.1"
+    },
+    {
+      "id": "tema_05_test_21_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale cuál de los siguientes ámbitos NO corresponde a las competencias de apoyo, coordinación o complemento de la Unión según el art. 6 TFUE:",
+      "options": {
+        "a": "La cultura",
+        "b": "El turismo",
+        "c": "La política comercial común",
+        "d": "La educación, la formación profesional, la juventud y el deporte"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). La política comercial común es una competencia exclusiva de la Unión (art. 3 TFUE), no de apoyo. La cultura, el turismo y la educación son ámbitos del art. 6 TFUE (competencias de apoyo).",
+      "ley": "TFUE, art. 6"
+    },
+    {
+      "id": "tema_05_test_21_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 8 TFUE, ¿qué objetivo se fijará la Unión en todas sus acciones?",
+      "options": {
+        "a": "El desarrollo económico equilibrado",
+        "b": "Eliminar las desigualdades entre el hombre y la mujer y promover su igualdad",
+        "c": "La protección del medio ambiente",
+        "d": "La lucha contra la exclusión social"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 8 TFUE establece que 'En todas sus acciones, la Unión se fijará el objetivo de eliminar las desigualdades entre el hombre y la mujer y promover su igualdad'. Es un principio transversal.",
+      "ley": "TFUE, art. 8"
+    },
+    {
+      "id": "tema_05_test_21_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 10 TFUE establece una cláusula horizontal antidiscriminatoria. ¿Cuáles son los motivos de discriminación que la Unión trata de combatir en todas sus políticas?",
+      "options": {
+        "a": "Solo sexo y raza",
+        "b": "Sexo, raza u origen étnico, religión o convicciones, discapacidad, edad u orientación sexual",
+        "c": "Nacionalidad, sexo y lengua",
+        "d": "Condición social, origen étnico y orientación sexual"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 10 TFUE establece que la Unión tratará de luchar contra 'toda discriminación por razón de sexo, raza u origen étnico, religión o convicciones, discapacidad, edad u orientación sexual'.",
+      "ley": "TFUE, art. 10"
+    },
+    {
+      "id": "tema_05_test_21_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 11 TFUE, ¿en qué políticas y acciones de la Unión deben integrarse las exigencias de protección del medio ambiente?",
+      "options": {
+        "a": "Solo en las políticas de transporte y energía",
+        "b": "En la definición y realización de las políticas y acciones de la Unión, en particular con objeto de fomentar un desarrollo sostenible",
+        "c": "Solo en las políticas relacionadas directamente con el medio ambiente",
+        "d": "En las políticas de los Estados miembros, no de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11 TFUE establece que las exigencias de protección del medio ambiente 'deberán integrarse en la definición y en la realización de las políticas y acciones de la Unión'. Es una cláusula de integración transversal.",
+      "ley": "TFUE, art. 11"
+    },
+    {
+      "id": "tema_05_test_21_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16 TFUE, ¿qué derecho tiene toda persona respecto a sus datos personales?",
+      "options": {
+        "a": "El derecho a acceder a los datos que las instituciones posean sobre ella",
+        "b": "El derecho a la protección de los datos de carácter personal que le conciernan",
+        "c": "El derecho a que sus datos sean anonimizados",
+        "d": "El derecho a la portabilidad de sus datos entre Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.1 TFUE establece que 'Toda persona tiene derecho a la protección de los datos de carácter personal que le conciernan'.",
+      "ley": "TFUE, art. 16.1"
+    },
+    {
+      "id": "tema_05_test_21_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17 TFUE, ¿qué actitud adoptará la Unión respecto a las iglesias y organizaciones religiosas reconocidas por los Estados miembros en virtud de su Derecho interno?",
+      "options": {
+        "a": "Las sujetará a las normas generales del Derecho de la Unión sin excepciones",
+        "b": "Respetará su estatuto y mantendrá con ellas un diálogo abierto, transparente y regular",
+        "c": "Promoverá su fusión en una única organización religiosa europea",
+        "d": "Las someterá a control por el Tribunal de Justicia en materia de derechos fundamentales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17 TFUE establece que la Unión 'respetará y no prejuzgará el estatuto reconocido en los Estados miembros' a las iglesias y organizaciones religiosas, y además 'mantendrá un diálogo abierto, transparente y regular con dichas iglesias y organizaciones'.",
+      "ley": "TFUE, art. 17"
+    },
+    {
+      "id": "tema_05_test_21_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3 TFUE enumera las competencias exclusivas de la Unión. Señale cuál de las siguientes NO figura entre ellas:",
+      "options": {
+        "a": "La conservación de los recursos biológicos marinos dentro de la política pesquera común",
+        "b": "La política comercial común",
+        "c": "La cohesión económica, social y territorial",
+        "d": "La unión aduanera"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). La cohesión económica, social y territorial es una competencia compartida entre la Unión y los Estados miembros (art. 4 TFUE), no una competencia exclusiva de la Unión.",
+      "ley": "TFUE, art. 3 y art. 4"
+    },
+    {
+      "id": "tema_05_test_21_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 5 TFUE, ¿qué competencia tiene la Unión respecto a la coordinación de las políticas económicas y de empleo de los Estados miembros?",
+      "options": {
+        "a": "Competencia exclusiva para armonizar dichas políticas",
+        "b": "Competencia para coordinarlas, definiendo orientaciones y tomando medidas",
+        "c": "Sin competencia: es responsabilidad exclusiva de los Estados",
+        "d": "Competencia de apoyo sin posibilidad de adoptar actos vinculantes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 5 TFUE establece que los Estados coordinarán sus políticas económicas 'en el seno de la Unión' y que la Unión tomará medidas para garantizar la coordinación de las políticas de empleo, 'definiendo las orientaciones de dichas políticas'.",
+      "ley": "TFUE, art. 5"
+    },
+    {
+      "id": "tema_05_test_21_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 6 TFUE lista las competencias de apoyo, coordinación o complemento. ¿Cuáles son los siete ámbitos enumerados?",
+      "options": {
+        "a": "Salud humana, industria, cultura, turismo, educación/formación/juventud/deporte, protección civil y cooperación administrativa",
+        "b": "Salud humana, medio ambiente, cultura, turismo, educación, protección civil y cooperación policial",
+        "c": "Cultura, turismo, educación, transportes, energía, protección civil y sanidad",
+        "d": "Industria, cultura, turismo, educación, redes transeuropeas, protección civil y cooperación aduanera"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 6 TFUE enumera: protección y mejora de la salud humana, industria, cultura, turismo, educación/formación profesional/juventud/deporte, protección civil y cooperación administrativa.",
+      "ley": "TFUE, art. 6"
+    },
+    {
+      "id": "tema_05_test_21_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 9 TFUE, en la definición y ejecución de sus políticas y acciones, la Unión tendrá en cuenta las exigencias relacionadas con:",
+      "options": {
+        "a": "La libre competencia y el mercado único",
+        "b": "La promoción de un nivel de empleo elevado, una protección social adecuada, la lucha contra la exclusión social y un nivel elevado de educación y protección de la salud",
+        "c": "La política exterior y de seguridad",
+        "d": "El desarrollo tecnológico y la investigación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 9 TFUE establece que la Unión tendrá en cuenta 'las exigencias relacionadas con la promoción de un nivel de empleo elevado, con la garantía de una protección social adecuada, con la lucha contra la exclusión social y con un nivel elevado de educación, formación y protección de la salud humana'.",
+      "ley": "TFUE, art. 9"
+    },
+    {
+      "id": "tema_05_test_21_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 2.4 TFUE, ¿cómo dispone la Unión de competencia en materia de política exterior y de seguridad común?",
+      "options": {
+        "a": "Es una competencia exclusiva de la Unión",
+        "b": "De conformidad con lo dispuesto en el TUE, para definir y aplicar una política exterior y de seguridad común",
+        "c": "Es una competencia compartida con los Estados miembros",
+        "d": "Es una competencia de apoyo que solo complementa la acción de los Estados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 2.4 TFUE establece que 'La Unión dispondrá de competencia, de conformidad con lo dispuesto en el Tratado de la Unión Europea, para definir y aplicar una política exterior y de seguridad común'. Es una categoría especial, no encuadrable en las categorías habituales.",
+      "ley": "TFUE, art. 2.4"
+    },
+    {
+      "id": "tema_05_test_21_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 2.5 TFUE, ¿qué tipo de acciones puede llevar a cabo la Unión en los ámbitos donde solo tiene competencia de apoyo?",
+      "options": {
+        "a": "Puede adoptar reglamentos de armonización de las legislaciones nacionales",
+        "b": "Puede llevar a cabo acciones para apoyar, coordinar o complementar la acción de los Estados miembros, sin sustituir su competencia ni armonizar sus legislaciones",
+        "c": "Puede legislar únicamente mediante directivas no vinculantes",
+        "d": "Puede adoptar actos vinculantes solo si lo aprueba el Consejo Europeo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 2.5 TFUE establece que en ámbitos de apoyo la Unión puede llevar a cabo acciones 'sin por ello sustituir la competencia de estos en dichos ámbitos' y sin que los actos vinculantes 'puedan conllevar armonización alguna de las disposiciones legales y reglamentarias de los Estados miembros'.",
+      "ley": "TFUE, art. 2.5"
+    },
+    {
+      "id": "tema_05_test_21_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 15.2 TFUE, ¿qué sesiones del Parlamento Europeo son públicas?",
+      "options": {
+        "a": "Solo las sesiones plenarias de carácter solemne",
+        "b": "Todas las sesiones del Parlamento Europeo",
+        "c": "Solo las sesiones en las que se vote sobre actos legislativos",
+        "d": "Solo las comisiones parlamentarias cuando traten asuntos de interés general"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.2 TFUE establece que 'Las sesiones del Parlamento Europeo serán públicas, así como las del Consejo en las que este delibere y vote sobre un proyecto de acto legislativo'.",
+      "ley": "TFUE, art. 15.2"
+    },
+    {
+      "id": "tema_05_test_21_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 7 TFUE establece el principio de coherencia. ¿Qué velará la Unión al aplicar este principio?",
+      "options": {
+        "a": "Que las instituciones actúen de acuerdo con los valores del art. 2 TUE",
+        "b": "Por la coherencia entre sus diferentes políticas y acciones, teniendo en cuenta el conjunto de sus objetivos y observando el principio de atribución",
+        "c": "Que los Estados miembros apliquen el Derecho de la Unión de forma uniforme",
+        "d": "Que los actos legislativos de la Unión sean coherentes con el Derecho internacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7 TFUE establece que 'La Unión velará por la coherencia entre sus diferentes políticas y acciones, teniendo en cuenta el conjunto de sus objetivos y observando el principio de atribución de competencias'.",
+      "ley": "TFUE, art. 7"
+    }
+  ]
+}

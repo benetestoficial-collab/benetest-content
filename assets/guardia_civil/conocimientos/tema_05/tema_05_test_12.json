@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_05_test_12_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 6.1 TUE, ¿cómo deben interpretarse los derechos, libertades y principios de la Carta de los Derechos Fundamentales?",
+      "options": {
+        "a": "Con arreglo a la jurisprudencia del Tribunal Europeo de Derechos Humanos",
+        "b": "Con arreglo a las disposiciones generales del título VII de la Carta y teniendo en cuenta las explicaciones a que se hace referencia en ella",
+        "c": "De acuerdo con las tradiciones constitucionales de cada Estado miembro",
+        "d": "Conforme a los principios generales del Derecho internacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6.1 TUE establece que los derechos de la Carta 'se interpretarán con arreglo a las disposiciones generales del título VII de la Carta por las que se rige su interpretación y aplicación y teniendo debidamente en cuenta las explicaciones a que se hace referencia en la Carta'.",
+      "ley": "TUE, art. 6.1"
+    },
+    {
+      "id": "tema_05_test_12_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 12.b) TUE, los Parlamentos nacionales velarán por el respeto del principio de subsidiariedad. ¿Con arreglo a qué norma?",
+      "options": {
+        "a": "Al Reglamento Interno de cada Parlamento nacional",
+        "b": "Al Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad",
+        "c": "A las orientaciones anuales del Consejo Europeo",
+        "d": "A las directrices de la Comisión Europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 12.b) TUE establece que los Parlamentos nacionales velarán por el respeto del principio de subsidiariedad 'de conformidad con los procedimientos establecidos en el Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad'.",
+      "ley": "TUE, art. 12.b)"
+    },
+    {
+      "id": "tema_05_test_12_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 16.4 TUE define la mayoría cualificada a partir del 1 de noviembre de 2014. ¿Cuál es el doble requisito que debe cumplirse simultáneamente?",
+      "options": {
+        "a": "Mínimo 50% de los miembros y mínimo 50% de la población",
+        "b": "Mínimo 55% de los miembros (al menos 15) y mínimo 65% de la población",
+        "c": "Mínimo dos tercios de los miembros y mínimo 50% de la población",
+        "d": "Mínimo 55% de los miembros y mínimo 55% de la población"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.4 TUE establece que la mayoría cualificada requiere 'un mínimo del 55% de los miembros del Consejo que incluya al menos a quince de ellos y represente a Estados miembros que reúnan como mínimo el 65% de la población de la Unión'.",
+      "ley": "TUE, art. 16.4"
+    },
+    {
+      "id": "tema_05_test_12_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.3 TUE enumera varios objetivos de la Unión. Señale cuál de los siguientes NO figura expresamente en ese artículo:",
+      "options": {
+        "a": "Establecer un mercado interior",
+        "b": "Proteger y mejorar la calidad del medio ambiente",
+        "c": "Establecer un sistema europeo de defensa colectiva",
+        "d": "Fomentar la cohesión económica, social y territorial"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 3.3 TUE no menciona un sistema europeo de defensa colectiva entre los objetivos del mercado interior y la política social. La defensa se regula en el Título V (arts. 42-46 TUE).",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_12_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.3 TUE, los miembros de la Comisión serán elegidos de entre personalidades que 'ofrezcan plenas garantías de independencia'. ¿Qué actos les están prohibidos?",
+      "options": {
+        "a": "Pertenecer a partidos políticos durante su mandato",
+        "b": "Todo acto incompatible con sus obligaciones o con el desempeño de sus funciones",
+        "c": "Ejercer cualquier actividad profesional remunerada",
+        "d": "Aceptar condecoraciones o distinciones de Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.3 TUE establece que los miembros de la Comisión 'Se abstendrán de todo acto incompatible con sus obligaciones o con el desempeño de sus funciones'.",
+      "ley": "TUE, art. 17.3"
+    },
+    {
+      "id": "tema_05_test_12_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.3 TUE, los Estados miembros se comprometen a mejorar progresivamente sus capacidades militares. ¿Qué agencia determina las necesidades operativas?",
+      "options": {
+        "a": "La Agencia Europea de Seguridad e Información",
+        "b": "La Agencia Europea de Defensa",
+        "c": "El Comité Militar de la Unión Europea",
+        "d": "El Estado Mayor de la Unión Europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.3 TUE establece que 'La Agencia en el ámbito del desarrollo de las capacidades de defensa, la investigación, la adquisición y el armamento (denominada Agencia Europea de Defensa) determinará las necesidades operativas'.",
+      "ley": "TUE, art. 42.3"
+    },
+    {
+      "id": "tema_05_test_12_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 10.2 TUE, ¿cómo están representados los Estados miembros en el Consejo Europeo?",
+      "options": {
+        "a": "Por sus embajadores permanentes ante la UE",
+        "b": "Por su Jefe de Estado o de Gobierno",
+        "c": "Por sus ministros de Asuntos Europeos",
+        "d": "Por representantes elegidos para este fin"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 10.2 TUE establece que 'Los Estados miembros estarán representados en el Consejo Europeo por su Jefe de Estado o de Gobierno'.",
+      "ley": "TUE, art. 10.2"
+    },
+    {
+      "id": "tema_05_test_12_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 46.5 TUE regula el abandono voluntario de la cooperación estructurada permanente. ¿Cuál es el procedimiento?",
+      "options": {
+        "a": "El Estado debe obtener la autorización del Consejo por mayoría cualificada",
+        "b": "El Estado notifica su decisión al Consejo, que toma nota de que ha finalizado su participación",
+        "c": "El Estado debe esperar el vencimiento del período mínimo de participación acordado",
+        "d": "El Consejo debe aprobar la salida por unanimidad de los demás participantes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.5 TUE establece que 'Si un Estado miembro participante decide abandonar la cooperación estructurada permanente, notificará su decisión al Consejo, que tomará nota de que ha finalizado la participación de ese Estado miembro'. No necesita autorización.",
+      "ley": "TUE, art. 46.5"
+    },
+    {
+      "id": "tema_05_test_12_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 4.2 TUE dispone que la Unión respetará la igualdad de los Estados miembros ante los Tratados. ¿Qué más debe respetar la Unión respecto a los Estados?",
+      "options": {
+        "a": "Su presupuesto nacional y deuda pública",
+        "b": "Su identidad nacional, inherente a sus estructuras fundamentales políticas y constitucionales",
+        "c": "Su política de inmigración y fronteras",
+        "d": "Sus tratados bilaterales preexistentes con terceros países"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.2 TUE establece que la Unión respetará 'la igualdad de los Estados miembros ante los Tratados, así como su identidad nacional, inherente a las estructuras fundamentales políticas y constitucionales de estos, también en lo referente a la autonomía local y regional'.",
+      "ley": "TUE, art. 4.2"
+    },
+    {
+      "id": "tema_05_test_12_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.1 TUE, el Parlamento Europeo ejerce funciones de control político y consultivas. Además elegirá al:",
+      "options": {
+        "a": "Presidente del Consejo Europeo",
+        "b": "Alto Representante para Asuntos Exteriores",
+        "c": "Presidente de la Comisión",
+        "d": "Presidente del Tribunal de Justicia"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 14.1 TUE establece que el Parlamento Europeo 'Elegirá al Presidente de la Comisión', además de sus funciones legislativas, presupuestarias y de control político.",
+      "ley": "TUE, art. 14.1"
+    },
+    {
+      "id": "tema_05_test_12_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 44.1 TUE, cuando el Consejo encomienda la realización de una misión a un grupo de Estados, ¿cómo se acuerda la gestión de dicha misión?",
+      "options": {
+        "a": "La gestión la decide exclusivamente el Consejo",
+        "b": "Entre los Estados miembros participantes, en asociación con el Alto Representante",
+        "c": "El Alto Representante la gestiona de forma autónoma",
+        "d": "La Comisión designa al responsable de la misión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 44.1 TUE establece que 'La gestión de la misión se acordará entre dichos Estados miembros, en asociación con el Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad'.",
+      "ley": "TUE, art. 44.1"
+    },
+    {
+      "id": "tema_05_test_12_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 7.3 TUE establece que, si se suspenden derechos a un Estado, las obligaciones de ese Estado derivadas de los Tratados:",
+      "options": {
+        "a": "Quedan igualmente suspendidas durante el mismo período",
+        "b": "Continuarán, en cualquier caso, siendo vinculantes para dicho Estado",
+        "c": "Se reducen proporcionalmente a los derechos suspendidos",
+        "d": "Pasan a ser gestionadas por la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.3 TUE establece expresamente que 'Las obligaciones del Estado miembro de que se trate derivadas de los Tratados continuarán, en cualquier caso, siendo vinculantes para dicho Estado'. Solo se suspenden derechos, no obligaciones.",
+      "ley": "TUE, art. 7.3"
+    },
+    {
+      "id": "tema_05_test_12_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 13.3 TUE, ¿dónde figuran las disposiciones detalladas sobre las instituciones de la Unión?",
+      "options": {
+        "a": "En el propio TUE",
+        "b": "En el Tratado de Funcionamiento de la Unión Europea",
+        "c": "En los Protocolos adjuntos a los Tratados",
+        "d": "En los Reglamentos internos de cada institución"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.3 TUE establece que 'Las disposiciones relativas al Banco Central Europeo y al Tribunal de Cuentas, así como las disposiciones detalladas sobre las demás instituciones, figuran en el Tratado de Funcionamiento de la Unión Europea'.",
+      "ley": "TUE, art. 13.3"
+    },
+    {
+      "id": "tema_05_test_12_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.5 TUE, el sistema de rotación para la composición de la Comisión debe 'permitir tener en cuenta':",
+      "options": {
+        "a": "El tamaño económico y militar de los Estados miembros",
+        "b": "La diversidad demográfica y geográfica del conjunto de dichos Estados",
+        "c": "La antigüedad en la membresía de cada Estado en la Unión",
+        "d": "El nivel de contribución al presupuesto de la Unión de cada Estado"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.5 TUE establece que el sistema de rotación debe ser 'estrictamente igual entre los Estados miembros que permita tener en cuenta la diversidad demográfica y geográfica del conjunto de dichos Estados'.",
+      "ley": "TUE, art. 17.5"
+    },
+    {
+      "id": "tema_05_test_12_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.3 TUE, ¿quién puede decidir prorrogar el plazo de dos años antes de que los Tratados dejen de aplicarse al Estado que se retira?",
+      "options": {
+        "a": "El Consejo por unanimidad",
+        "b": "El Parlamento Europeo por mayoría cualificada",
+        "c": "El Consejo Europeo por unanimidad, de acuerdo con el Estado que se retira",
+        "d": "La Comisión mediante propuesta motivada"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 50.3 TUE establece que el plazo puede prorrogarse si 'el Consejo Europeo, de acuerdo con dicho Estado, decide por unanimidad prorrogar dicho plazo'.",
+      "ley": "TUE, art. 50.3"
+    },
+    {
+      "id": "tema_05_test_12_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.6 TUE establece que la Unión perseguirá sus objetivos:",
+      "options": {
+        "a": "Con todos los medios disponibles, incluyendo la coacción si es necesario",
+        "b": "Por los medios apropiados, de acuerdo con las competencias que se le atribuyen en los Tratados",
+        "c": "Con independencia de los Tratados cuando la urgencia lo requiera",
+        "d": "De forma progresiva y gradual, sin plazo máximo definido"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.6 TUE establece que 'La Unión perseguirá sus objetivos por los medios apropiados, de acuerdo con las competencias que se le atribuyen en los Tratados'. Esto refuerza el principio de atribución.",
+      "ley": "TUE, art. 3.6"
+    },
+    {
+      "id": "tema_05_test_12_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.2 TUE, ¿con qué institución puede mantener contacto la Agencia Europea de Defensa en el desempeño de sus funciones?",
+      "options": {
+        "a": "Con el Alto Representante",
+        "b": "Con la Comisión",
+        "c": "Con el Parlamento Europeo",
+        "d": "Con el Banco Central Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.2 TUE establece que la Agencia Europea de Defensa 'desempeñará sus funciones manteniéndose, en caso necesario, en contacto con la Comisión'.",
+      "ley": "TUE, art. 45.2"
+    },
+    {
+      "id": "tema_05_test_12_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 9 TUE, la Unión respetará en todas sus actividades el principio de la igualdad de sus ciudadanos, que se beneficiarán por igual de:",
+      "options": {
+        "a": "Los derechos económicos y sociales",
+        "b": "La atención de sus instituciones, órganos y organismos",
+        "c": "La protección consular en terceros países",
+        "d": "Los programas de ayuda y subsidios de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 9 TUE establece que los ciudadanos 'se beneficiarán por igual de la atención de sus instituciones, órganos y organismos' de la Unión.",
+      "ley": "TUE, art. 9"
+    },
+    {
+      "id": "tema_05_test_12_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.3 TUE menciona que la Unión combatirá la exclusión social y la discriminación y fomentará, entre otras cosas, la protección de:",
+      "options": {
+        "a": "Los derechos de los mayores",
+        "b": "Los derechos del niño",
+        "c": "Los derechos de los trabajadores migrantes",
+        "d": "Los derechos de los consumidores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece expresamente que la Unión fomentará 'la solidaridad entre las generaciones y la protección de los derechos del niño'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_12_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.8 TUE, si se aprueba la moción de censura contra la Comisión, ¿qué ocurre con el Alto Representante?",
+      "options": {
+        "a": "Continúa en su cargo al ser nombrado por el Consejo Europeo",
+        "b": "Debe dimitir del cargo que ejerce en la Comisión",
+        "c": "Es destituido automáticamente de todas sus funciones",
+        "d": "El Consejo decide por unanimidad si cesa también al Alto Representante"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.8 TUE establece que si se aprueba la moción de censura, 'el Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad deberá dimitir del cargo que ejerce en la Comisión'. Solo pierde el puesto de Vicepresidente de la Comisión, no el de Alto Representante.",
+      "ley": "TUE, art. 17.8"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_05_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cómo se denomina el tratado que, junto con el Tratado de Funcionamiento de la Unión Europea, fundamenta la Unión?",
+      "options": {
+        "a": "Tratado de Roma",
+        "b": "Tratado de Ámsterdam",
+        "c": "Tratado de la Unión Europea",
+        "d": "Tratado de Niza"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). Según el art. 1 TUE, la Unión se fundamenta en el presente Tratado (TUE) y en el Tratado de Funcionamiento de la Unión Europea, teniendo ambos el mismo valor jurídico.",
+      "ley": "TUE, art. 1"
+    },
+    {
+      "id": "tema_05_test_01_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre los valores en los que se fundamenta la Unión según el art. 2 TUE:",
+      "options": {
+        "a": "Respeto a la dignidad humana y libertad",
+        "b": "Democracia e igualdad",
+        "c": "Estado de Derecho y respeto a los derechos humanos",
+        "d": "Solidaridad y prosperidad económica"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 2 TUE enumera como valores: dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto a los derechos humanos. La 'prosperidad económica' no figura entre los valores fundacionales.",
+      "ley": "TUE, art. 2"
+    },
+    {
+      "id": "tema_05_test_01_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3 TUE, la Unión tiene como finalidad promover la paz, sus valores y _____.",
+      "options": {
+        "a": "La seguridad de sus fronteras",
+        "b": "El bienestar de sus pueblos",
+        "c": "El crecimiento económico de sus miembros",
+        "d": "La integración política de Europa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.1 TUE establece literalmente que 'La Unión tiene como finalidad promover la paz, sus valores y el bienestar de sus pueblos'.",
+      "ley": "TUE, art. 3.1"
+    },
+    {
+      "id": "tema_05_test_01_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuál es la moneda establecida por la unión económica y monetaria según el art. 3.4 TUE?",
+      "options": {
+        "a": "El marco europeo",
+        "b": "La libra comunitaria",
+        "c": "El franco europeo",
+        "d": "El euro"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 3.4 TUE establece que 'La Unión establecerá una unión económica y monetaria cuya moneda es el euro'.",
+      "ley": "TUE, art. 3.4"
+    },
+    {
+      "id": "tema_05_test_01_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.2 TUE, ¿qué ámbito seguirá siendo responsabilidad exclusiva de cada Estado miembro?",
+      "options": {
+        "a": "La política económica",
+        "b": "La seguridad nacional",
+        "c": "La política exterior",
+        "d": "La defensa colectiva"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.2 TUE dispone expresamente que 'la seguridad nacional seguirá siendo responsabilidad exclusiva de cada Estado miembro'.",
+      "ley": "TUE, art. 4.2"
+    },
+    {
+      "id": "tema_05_test_01_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Qué principio rige la delimitación de las competencias de la Unión según el art. 5.1 TUE?",
+      "options": {
+        "a": "El principio de proporcionalidad",
+        "b": "El principio de subsidiariedad",
+        "c": "El principio de atribución",
+        "d": "El principio de cooperación leal"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 5.1 TUE establece que 'la delimitación de las competencias de la Unión se rige por el principio de atribución', mientras que el ejercicio de dichas competencias se rige por los principios de subsidiariedad y proporcionalidad.",
+      "ley": "TUE, art. 5.1"
+    },
+    {
+      "id": "tema_05_test_01_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. La Carta de los Derechos Fundamentales de la Unión Europea fue adaptada el 12 de diciembre de 2007 en:",
+      "options": {
+        "a": "Bruselas",
+        "b": "Luxemburgo",
+        "c": "Estrasburgo",
+        "d": "Viena"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). Según el art. 6.1 TUE, la Carta de los Derechos Fundamentales fue originariamente de 7 de diciembre de 2000 y adaptada el 12 de diciembre de 2007 en Estrasburgo.",
+      "ley": "TUE, art. 6.1"
+    },
+    {
+      "id": "tema_05_test_01_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.1 TUE, ¿qué mayoría necesita el Consejo para constatar un riesgo claro de violación grave de los valores del art. 2 por un Estado miembro?",
+      "options": {
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta",
+        "c": "Mayoría de dos tercios",
+        "d": "Mayoría de cuatro quintos"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 7.1 TUE exige que el Consejo actúe 'por mayoría de cuatro quintos de sus miembros y previa aprobación del Parlamento Europeo' para constatar el riesgo claro de violación grave.",
+      "ley": "TUE, art. 7.1"
+    },
+    {
+      "id": "tema_05_test_01_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre la ciudadanía de la Unión según el art. 9 TUE:",
+      "options": {
+        "a": "La ciudadanía de la Unión sustituye a la ciudadanía nacional",
+        "b": "La ciudadanía de la Unión se añade a la ciudadanía nacional sin sustituirla",
+        "c": "Solo los nacionales de Estados fundadores son ciudadanos de la Unión",
+        "d": "La ciudadanía de la Unión requiere solicitud expresa del interesado"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 9 TUE establece que 'La ciudadanía de la Unión se añade a la ciudadanía nacional sin sustituirla'.",
+      "ley": "TUE, art. 9"
+    },
+    {
+      "id": "tema_05_test_01_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿En qué se basa el funcionamiento de la Unión según el art. 10.1 TUE?",
+      "options": {
+        "a": "En la democracia directa",
+        "b": "En la democracia participativa",
+        "c": "En la democracia representativa",
+        "d": "En la democracia deliberativa"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 10.1 TUE dispone expresamente que 'El funcionamiento de la Unión se basa en la democracia representativa'.",
+      "ley": "TUE, art. 10.1"
+    },
+    {
+      "id": "tema_05_test_01_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 11.4 TUE, ¿cuántos ciudadanos de la Unión se requieren mínimo para ejercer la iniciativa ciudadana ante la Comisión?",
+      "options": {
+        "a": "Un millón",
+        "b": "Quinientos mil",
+        "c": "Dos millones",
+        "d": "Cinco millones"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 11.4 TUE establece que 'Un grupo de al menos un millón de ciudadanos de la Unión' puede invitar a la Comisión Europea a presentar una propuesta adecuada.",
+      "ley": "TUE, art. 11.4"
+    },
+    {
+      "id": "tema_05_test_01_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA. Las instituciones de la Unión Europea son:",
+      "options": {
+        "a": "El Parlamento Europeo, el Consejo Europeo y el Consejo",
+        "b": "La Comisión Europea, el Tribunal de Justicia y el Banco Central Europeo",
+        "c": "El Tribunal de Cuentas",
+        "d": "El Comité Económico y Social y el Comité de las Regiones"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El Comité Económico y Social y el Comité de las Regiones son órganos consultivos que asisten a las instituciones, pero no son instituciones de la UE. El art. 13 TUE enumera las 7 instituciones.",
+      "ley": "TUE, art. 13"
+    },
+    {
+      "id": "tema_05_test_01_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.2 TUE, ¿cuál es el número máximo de escaños del Parlamento Europeo, sin contar al Presidente?",
+      "options": {
+        "a": "700",
+        "b": "720",
+        "c": "750",
+        "d": "800"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 14.2 TUE establece que el Parlamento Europeo 'estará compuesto por representantes de los ciudadanos de la Unión. Su número no excederá de 750 más el Presidente'.",
+      "ley": "TUE, art. 14.2"
+    },
+    {
+      "id": "tema_05_test_01_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Los diputados al Parlamento Europeo son elegidos para un mandato de:",
+      "options": {
+        "a": "Cuatro años",
+        "b": "Cinco años",
+        "c": "Seis años",
+        "d": "Tres años"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 14.3 TUE dispone que 'Los diputados al Parlamento Europeo serán elegidos por sufragio universal directo, libre y secreto, para un mandato de cinco años'.",
+      "ley": "TUE, art. 14.3"
+    },
+    {
+      "id": "tema_05_test_01_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.2 TUE, ¿cuál es el número mínimo de diputados asignados por Estado miembro en el Parlamento Europeo?",
+      "options": {
+        "a": "4 diputados",
+        "b": "5 diputados",
+        "c": "6 diputados",
+        "d": "8 diputados"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 14.2 TUE establece una representación 'decrecientemente proporcional, con un mínimo de 6 diputados por Estado miembro'. Ningún Estado puede superar los 96 escaños.",
+      "ley": "TUE, art. 14.2"
+    },
+    {
+      "id": "tema_05_test_01_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuántas veces se reúne el Consejo Europeo por semestre según el art. 15.3 TUE?",
+      "options": {
+        "a": "Una vez",
+        "b": "Dos veces",
+        "c": "Tres veces",
+        "d": "Cuatro veces"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.3 TUE establece que 'El Consejo Europeo se reunirá dos veces por semestre por convocatoria de su Presidente'.",
+      "ley": "TUE, art. 15.3"
+    },
+    {
+      "id": "tema_05_test_01_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El Presidente del Consejo Europeo es elegido por mayoría cualificada para un mandato de:",
+      "options": {
+        "a": "Dos años, renovable una vez",
+        "b": "Dos años y medio, renovable una vez",
+        "c": "Tres años, renovable una vez",
+        "d": "Cinco años, sin posibilidad de renovación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.5 TUE establece que 'El Consejo Europeo elegirá a su Presidente por mayoría cualificada para un mandato de dos años y medio, que podrá renovarse una sola vez'.",
+      "ley": "TUE, art. 15.5"
+    },
+    {
+      "id": "tema_05_test_01_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.4 TUE, a partir del 1 de noviembre de 2014, la mayoría cualificada en el Consejo requiere un mínimo del 55% de los miembros que representen Estados con al menos el _____ de la población de la Unión.",
+      "options": {
+        "a": "50%",
+        "b": "55%",
+        "c": "65%",
+        "d": "75%"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 16.4 TUE define la mayoría cualificada como 'un mínimo del 55% de los miembros del Consejo que incluya al menos a quince de ellos y represente a Estados miembros que reúnan como mínimo el 65% de la población de la Unión'.",
+      "ley": "TUE, art. 16.4"
+    },
+    {
+      "id": "tema_05_test_01_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre el Consejo Europeo según el art. 15 TUE:",
+      "options": {
+        "a": "Está compuesto por los Jefes de Estado o de Gobierno de los Estados miembros",
+        "b": "Ejerce función legislativa en materias de urgencia",
+        "c": "Participa en sus trabajos el Alto Representante para Asuntos Exteriores",
+        "d": "Se pronuncia por consenso excepto cuando los Tratados dispongan otra cosa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.1 TUE dispone expresamente que el Consejo Europeo 'No ejercerá función legislativa alguna'. Su función es dar impulsos y definir orientaciones políticas generales.",
+      "ley": "TUE, art. 15.1"
+    },
+    {
+      "id": "tema_05_test_01_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 6.1 TUE, la Carta de los Derechos Fundamentales de la Unión Europea tiene el mismo valor jurídico que:",
+      "options": {
+        "a": "Las directivas europeas",
+        "b": "Los Tratados",
+        "c": "Los reglamentos europeos",
+        "d": "Las constituciones nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6.1 TUE establece que la Carta de los Derechos Fundamentales 'tendrá el mismo valor jurídico que los Tratados'.",
+      "ley": "TUE, art. 6.1"
+    }
+  ]
+}

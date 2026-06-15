@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_05_test_04_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.3 TUE, el principio conforme al cual la Unión y los Estados miembros se respetan y asisten mutuamente se denomina:",
+      "options": {
+        "a": "Principio de atribución",
+        "b": "Principio de subsidiariedad",
+        "c": "Principio de cooperación leal",
+        "d": "Principio de proporcionalidad"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 4.3 TUE establece que 'Conforme al principio de cooperación leal, la Unión y los Estados miembros se respetarán y asistirán mutuamente en el cumplimiento de las misiones derivadas de los Tratados'.",
+      "ley": "TUE, art. 4.3"
+    },
+    {
+      "id": "tema_05_test_04_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA. Según el art. 2 TUE, la sociedad de los Estados miembros se caracteriza por:",
+      "options": {
+        "a": "El pluralismo y la no discriminación",
+        "b": "La tolerancia y la justicia",
+        "c": "La solidaridad y la igualdad entre mujeres y hombres",
+        "d": "La prosperidad económica y el libre mercado"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 2 TUE caracteriza la sociedad de los Estados miembros por el pluralismo, la no discriminación, la tolerancia, la justicia, la solidaridad y la igualdad entre mujeres y hombres. La 'prosperidad económica y el libre mercado' no figuran en esta caracterización.",
+      "ley": "TUE, art. 2"
+    },
+    {
+      "id": "tema_05_test_04_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, si el candidato propuesto a Presidente de la Comisión no obtiene la mayoría necesaria del Parlamento, el Consejo Europeo debe proponer un nuevo candidato en el plazo de:",
+      "options": {
+        "a": "Dos semanas",
+        "b": "Un mes",
+        "c": "Dos meses",
+        "d": "Tres meses"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.7 TUE establece que 'Si el candidato no obtiene la mayoría necesaria, el Consejo Europeo propondrá en el plazo de un mes, por mayoría cualificada, un nuevo candidato'.",
+      "ley": "TUE, art. 17.7"
+    },
+    {
+      "id": "tema_05_test_04_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Qué pronunciamiento necesita el Parlamento Europeo para aprobar la moción de censura contra la Comisión según el art. 17.8 TUE?",
+      "options": {
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta",
+        "c": "Mayoría de dos tercios",
+        "d": "La moción debe ser ratificada también por el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.8 TUE indica que la Comisión tiene responsabilidad colegiada ante el Parlamento Europeo, que puede votar moción de censura conforme al art. 234 TFUE, que requiere mayoría de dos tercios de los votos emitidos que representen la mayoría de los miembros.",
+      "ley": "TUE, art. 17.8 y TFUE art. 234"
+    },
+    {
+      "id": "tema_05_test_04_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.1 TUE, ¿qué garantiza el Tribunal de Justicia de la Unión Europea?",
+      "options": {
+        "a": "La defensa de los derechos fundamentales de los ciudadanos",
+        "b": "El respeto del Derecho en la interpretación y aplicación de los Tratados",
+        "c": "La correcta ejecución del presupuesto de la Unión",
+        "d": "La coordinación de las políticas económicas de los Estados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.1 TUE dispone que 'El Tribunal de Justicia de la Unión Europea garantizará el respeto del Derecho en la interpretación y aplicación de los Tratados'.",
+      "ley": "TUE, art. 19.1"
+    },
+    {
+      "id": "tema_05_test_04_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 12 TUE, los Parlamentos nacionales participan en la evaluación de las actividades de Eurojust de conformidad con el artículo:",
+      "options": {
+        "a": "Artículo 70 TFUE",
+        "b": "Artículo 85 TFUE",
+        "c": "Artículo 88 TFUE",
+        "d": "Artículo 48 TUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 12.c) TUE establece que los Parlamentos nacionales estarán 'asociados al control político de Europol y a la evaluación de las actividades de Eurojust, de conformidad con los artículos 88 y 85 de dicho Tratado', siendo el art. 85 TFUE el que regula Eurojust.",
+      "ley": "TUE, art. 12.c)"
+    },
+    {
+      "id": "tema_05_test_04_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.4 TUE, ¿cuántos miembros del Consejo deben incluirse como mínimo para alcanzar la mayoría cualificada?",
+      "options": {
+        "a": "Al menos diez miembros",
+        "b": "Al menos doce miembros",
+        "c": "Al menos quince miembros",
+        "d": "Al menos diecisiete miembros"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 16.4 TUE define la mayoría cualificada como 'un mínimo del 55% de los miembros del Consejo que incluya al menos a quince de ellos y represente a Estados miembros que reúnan como mínimo el 65% de la población'.",
+      "ley": "TUE, art. 16.4"
+    },
+    {
+      "id": "tema_05_test_04_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿En qué ciudad fue redactado y firmado originalmente el texto del Tratado de la Unión Europea?",
+      "options": {
+        "a": "Roma",
+        "b": "Bruselas",
+        "c": "Maastricht",
+        "d": "Lisboa"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El Tratado de la Unión Europea fue firmado en Maastricht (Países Bajos) el 7 de febrero de 1992, por lo que también se conoce como Tratado de Maastricht.",
+      "ley": "TUE - Preámbulo e historia"
+    },
+    {
+      "id": "tema_05_test_04_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.5 TUE, en sus relaciones con el resto del mundo, la Unión contribuirá a:",
+      "options": {
+        "a": "La expansión territorial de sus miembros",
+        "b": "La erradicación de la pobreza y la protección de los derechos humanos",
+        "c": "La creación de un ejército europeo unificado",
+        "d": "La supresión de barreras arancelarias exclusivamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.5 TUE establece que la Unión contribuirá 'a la erradicación de la pobreza y la protección de los derechos humanos, especialmente los derechos del niño, así como al estricto respeto y al desarrollo del Derecho internacional'.",
+      "ley": "TUE, art. 3.5"
+    },
+    {
+      "id": "tema_05_test_04_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre las funciones del Presidente de la Comisión según el art. 17.6 TUE:",
+      "options": {
+        "a": "Define las orientaciones con arreglo a las cuales la Comisión desempeñará sus funciones",
+        "b": "Determina la organización interna de la Comisión",
+        "c": "Nombra Vicepresidentes de entre los miembros de la Comisión",
+        "d": "Nombra directamente al Alto Representante para Asuntos Exteriores"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El Alto Representante es nombrado por el Consejo Europeo con aprobación del Presidente de la Comisión (art. 18.1 TUE), no nombrado directamente por el Presidente. El art. 17.6 TUE solo le faculta para nombrar los demás Vicepresidentes.",
+      "ley": "TUE, art. 17.6 y art. 18.1"
+    },
+    {
+      "id": "tema_05_test_04_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 1 TUE, la Unión sustituirá y sucederá a:",
+      "options": {
+        "a": "La Comunidad Europea del Carbón y del Acero",
+        "b": "La Comunidad Económica Europea",
+        "c": "La Comunidad Europea",
+        "d": "La Comunidad de Defensa Europea"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 1 TUE establece expresamente que 'La Unión sustituirá y sucederá a la Comunidad Europea'.",
+      "ley": "TUE, art. 1"
+    },
+    {
+      "id": "tema_05_test_04_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 11.3 TUE, ¿qué institución mantiene amplias consultas con las partes interesadas para garantizar la coherencia y transparencia?",
+      "options": {
+        "a": "El Parlamento Europeo",
+        "b": "El Consejo",
+        "c": "La Comisión Europea",
+        "d": "El Consejo Europeo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 11.3 TUE establece que 'Con objeto de garantizar la coherencia y la transparencia de las acciones de la Unión, la Comisión Europea mantendrá amplias consultas con las partes interesadas'.",
+      "ley": "TUE, art. 11.3"
+    },
+    {
+      "id": "tema_05_test_04_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.7 TUE, ¿cuántos meses tienen los Parlamentos nacionales para oponerse a una iniciativa de revisión simplificada por cláusula pasarela?",
+      "options": {
+        "a": "Tres meses",
+        "b": "Cuatro meses",
+        "c": "Seis meses",
+        "d": "Doce meses"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.7 TUE establece que 'En caso de oposición de un Parlamento nacional notificada en un plazo de seis meses a partir de esta transmisión, no se adoptará la decisión'.",
+      "ley": "TUE, art. 48.7"
+    },
+    {
+      "id": "tema_05_test_04_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.4 TUE, ¿qué establece la Unión cuya moneda es el euro?",
+      "options": {
+        "a": "Una unión aduanera",
+        "b": "Una unión económica y monetaria",
+        "c": "Una unión bancaria",
+        "d": "Una unión fiscal"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.4 TUE establece que 'La Unión establecerá una unión económica y monetaria cuya moneda es el euro'.",
+      "ley": "TUE, art. 3.4"
+    },
+    {
+      "id": "tema_05_test_04_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.1 TUE, la finalidad de las cooperaciones reforzadas es:",
+      "options": {
+        "a": "Crear un bloque de poder dentro de la Unión",
+        "b": "Impulsar los objetivos de la Unión, proteger sus intereses y reforzar su proceso de integración",
+        "c": "Excluir a los Estados que no cumplan los requisitos económicos",
+        "d": "Establecer una defensa común entre los Estados participantes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.1 TUE establece que 'La finalidad de las cooperaciones reforzadas será impulsar los objetivos de la Unión, proteger sus intereses y reforzar su proceso de integración'.",
+      "ley": "TUE, art. 20.1"
+    },
+    {
+      "id": "tema_05_test_04_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.3 TUE, cuando se constata violación grave y persistente, el Consejo puede suspender derechos del Estado afectado por:",
+      "options": {
+        "a": "Unanimidad",
+        "b": "Mayoría de cuatro quintos",
+        "c": "Mayoría cualificada",
+        "d": "Mayoría absoluta"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 7.3 TUE dispone que 'el Consejo podrá decidir, por mayoría cualificada, que se suspendan determinados derechos derivados de la aplicación de los Tratados al Estado miembro de que se trate'.",
+      "ley": "TUE, art. 7.3"
+    },
+    {
+      "id": "tema_05_test_04_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Comité de Representantes Permanentes de los Gobiernos de los Estados miembros (COREPER) según el art. 16.7 TUE se encarga de:",
+      "options": {
+        "a": "Ejecutar el presupuesto de la Unión",
+        "b": "Preparar los trabajos del Consejo",
+        "c": "Controlar la aplicación de las directivas europeas",
+        "d": "Mediar entre el Parlamento y el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.7 TUE establece que 'Un Comité de Representantes Permanentes de los Gobiernos de los Estados miembros se encargará de preparar los trabajos del Consejo'.",
+      "ley": "TUE, art. 16.7"
+    },
+    {
+      "id": "tema_05_test_04_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.4 TUE, ¿quién adopta las decisiones relativas a la política común de seguridad y defensa?",
+      "options": {
+        "a": "El Parlamento Europeo por mayoría cualificada",
+        "b": "El Consejo por unanimidad",
+        "c": "La Comisión por mayoría simple",
+        "d": "El Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.4 TUE establece que 'El Consejo adoptará por unanimidad, a propuesta del Alto Representante o a iniciativa de un Estado miembro, las decisiones relativas a la política común de seguridad y defensa'.",
+      "ley": "TUE, art. 42.4"
+    },
+    {
+      "id": "tema_05_test_04_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre los actos adoptados en cooperación reforzada según el art. 20.4 TUE:",
+      "options": {
+        "a": "Vinculan a todos los Estados miembros de la Unión",
+        "b": "Solo vinculan a los Estados miembros participantes",
+        "c": "Son acervo que deben aceptar los Estados candidatos",
+        "d": "Tienen valor jurídico inferior a los Tratados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.4 TUE establece que 'Los actos adoptados en el marco de una cooperación reforzada vincularán únicamente a los Estados miembros participantes. Dichos actos no se considerarán acervo que deban aceptar los Estados candidatos a la adhesión'.",
+      "ley": "TUE, art. 20.4"
+    },
+    {
+      "id": "tema_05_test_04_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 13.2 TUE, las instituciones actuarán dentro de los límites de sus atribuciones y mantendrán entre sí:",
+      "options": {
+        "a": "Una competencia sana",
+        "b": "Una cooperación leal",
+        "c": "Una independencia absoluta",
+        "d": "Una jerarquía funcional estricta"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.2 TUE establece que 'Las instituciones mantendrán entre sí una cooperación leal'.",
+      "ley": "TUE, art. 13.2"
+    }
+  ]
+}

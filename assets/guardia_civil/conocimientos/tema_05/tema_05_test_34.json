@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 34",
+  "preguntas": [
+    {
+      "id": "tema_05_test_34_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 151 TFUE, ¿cuál es el objetivo que perseguirán la Unión y los Estados miembros en el ámbito social?",
+      "options": {
+        "a": "La supresión de toda diferencia salarial entre los Estados miembros",
+        "b": "El fomento del empleo, la mejora de las condiciones de vida y trabajo, una protección social adecuada, el diálogo social, el desarrollo de los recursos humanos para conseguir un nivel de empleo elevado y duradero y la lucha contra las exclusiones",
+        "c": "La creación de un sistema de Seguridad Social europeo único",
+        "d": "La armonización completa de los sistemas de pensiones nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 151 TFUE establece que la Unión y los Estados miembros tendrán como objetivo el fomento del empleo, la mejora de las condiciones de vida y trabajo, una protección social adecuada, el diálogo social, el desarrollo de los recursos humanos para conseguir un nivel de empleo elevado y duradero y la lucha contra las exclusiones.",
+      "ley": "TFUE, art. 151"
+    },
+    {
+      "id": "tema_05_test_34_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 153.1 TFUE, ¿en qué ámbitos apoyará y completará la Unión la acción de los Estados miembros en política social?",
+      "options": {
+        "a": "Solo en materia de salarios mínimos y pensiones",
+        "b": "En mejora del entorno de trabajo, condiciones laborales, seguridad social y protección de los trabajadores, representación de los trabajadores, igualdad en el mercado laboral, entre otros",
+        "c": "Solo en desempleo y formación profesional",
+        "d": "Únicamente en materia de salud y seguridad en el trabajo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 153.1 TFUE enumera varios ámbitos donde la Unión apoyará la acción de los Estados: mejora del entorno de trabajo, condiciones de trabajo, seguridad social y protección de los trabajadores, protección de los trabajadores en caso de rescisión del contrato laboral, información y consulta a los trabajadores, igualdad entre hombres y mujeres, integración de las personas excluidas del mercado laboral y lucha contra la exclusión social.",
+      "ley": "TFUE, art. 153.1"
+    },
+    {
+      "id": "tema_05_test_34_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 153.5 TFUE, ¿qué materias quedan expresamente excluidas de la competencia normativa de la Unión en el ámbito social?",
+      "options": {
+        "a": "Los derechos colectivos de los trabajadores y la seguridad social",
+        "b": "Las remuneraciones, el derecho de asociación y sindicación, el derecho de huelga y el derecho de cierre patronal",
+        "c": "Los contratos de trabajo y la negociación colectiva",
+        "d": "Las prestaciones de desempleo y las pensiones de jubilación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 153.5 TFUE establece expresamente que las disposiciones del art. 153 'no se aplicarán a las remuneraciones, al derecho de asociación y sindicación, al derecho de huelga ni al derecho de cierre patronal'.",
+      "ley": "TFUE, art. 153.5"
+    },
+    {
+      "id": "tema_05_test_34_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 154 TFUE, ¿qué función tiene la Comisión en el diálogo social europeo?",
+      "options": {
+        "a": "Presidir las negociaciones entre interlocutores sociales",
+        "b": "Fomentar la consulta a los interlocutores sociales a nivel de la Unión y tomar todas las disposiciones necesarias para facilitar su diálogo",
+        "c": "Arbitrar los conflictos entre sindicatos y patronal",
+        "d": "Aprobar los acuerdos alcanzados por los interlocutores sociales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 154.1 TFUE establece que 'La Comisión tendrá como misión fomentar la consulta a los interlocutores sociales a nivel de la Unión y adoptará todas las disposiciones necesarias para facilitar su diálogo'.",
+      "ley": "TFUE, art. 154.1"
+    },
+    {
+      "id": "tema_05_test_34_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 162 TFUE, ¿para qué se crea el Fondo Social Europeo?",
+      "options": {
+        "a": "Para financiar directamente las pensiones de los trabajadores europeos",
+        "b": "Para fomentar, dentro de la Unión, las posibilidades de empleo de los trabajadores y contribuir a la elevación de su nivel de vida, facilitando el acceso al empleo y la movilidad geográfica y sectorial",
+        "c": "Para compensar a los trabajadores afectados por el desempleo tecnológico",
+        "d": "Para financiar la construcción de viviendas para trabajadores migrantes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 162 TFUE establece que 'Para mejorar las posibilidades de empleo de los trabajadores en el mercado interior y contribuir así a la elevación del nivel de vida, se creará, conforme a las disposiciones siguientes, un Fondo Social Europeo destinado a fomentar, dentro de la Unión, las posibilidades de empleo de los trabajadores y contribuir a la elevación de su nivel de vida, facilitando el acceso al empleo y la movilidad geográfica y sectorial de los trabajadores'.",
+      "ley": "TFUE, art. 162"
+    },
+    {
+      "id": "tema_05_test_34_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 155 TFUE regula los acuerdos entre interlocutores sociales europeos. ¿Qué pueden solicitar los interlocutores sociales una vez alcanzado un acuerdo a nivel de la Unión?",
+      "options": {
+        "a": "Que el Parlamento Europeo lo convierta directamente en ley",
+        "b": "Que el acuerdo sea aplicado conforme a los procedimientos propios de cada Estado miembro, o bien, en materias del art. 153, que el acuerdo sea aplicado mediante una decisión del Consejo a propuesta de la Comisión",
+        "c": "Que la Comisión adopte el acuerdo como reglamento de ejecución directa",
+        "d": "Que el Consejo Europeo lo ratifique por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 155.2 TFUE establece que los acuerdos alcanzados a nivel de la Unión 'serán aplicados, bien conforme a los procedimientos y prácticas propios de los interlocutores sociales y de los Estados miembros, o bien, en los ámbitos del artículo 153, a petición conjunta de las partes firmantes, mediante decisión del Consejo adoptada a propuesta de la Comisión'.",
+      "ley": "TFUE, art. 155.2"
+    },
+    {
+      "id": "tema_05_test_34_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 157 TFUE establece que por 'retribución' se entenderá el salario o sueldo normal de base o mínimo, y cualesquiera otras gratificaciones satisfechas directa o indirectamente. ¿En qué moneda se expresa?",
+      "options": {
+        "a": "Solo en euros",
+        "b": "En dinero o en especie, con ocasión de la relación de trabajo",
+        "c": "En la moneda nacional del Estado del empleador",
+        "d": "En la moneda del Estado donde el trabajador reside"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 157.2 TFUE define la retribución como 'el salario o sueldo normal de base o mínimo, y cualesquiera otras gratificaciones satisfechas, directa o indirectamente, en dinero o en especie, por el empresario al trabajador en razón de la relación de trabajo'.",
+      "ley": "TFUE, art. 157.2"
+    },
+    {
+      "id": "tema_05_test_34_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 151 TFUE, ¿con qué textos están en consonancia los objetivos de política social de la Unión y los Estados miembros?",
+      "options": {
+        "a": "Con el Tratado de la OCDE y los convenios de la OIT",
+        "b": "Con la Carta Social Europea firmada en Turín el 18 de octubre de 1961 y con la Carta comunitaria de los derechos sociales fundamentales de los trabajadores de 1989",
+        "c": "Solo con la Carta de los Derechos Fundamentales de la Unión Europea",
+        "d": "Con el Convenio Europeo de Derechos Humanos y sus protocolos adicionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 151 TFUE establece que la Unión y los Estados miembros perseguirán estos objetivos 'teniendo presentes los derechos sociales fundamentales como los que se indican en la Carta Social Europea firmada en Turín el 18 de octubre de 1961 y en la Carta comunitaria de los derechos sociales fundamentales de los trabajadores, de 1989'.",
+      "ley": "TFUE, art. 151"
+    },
+    {
+      "id": "tema_05_test_34_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 153.2 TFUE establece el procedimiento para adoptar directivas en materia social. ¿Qué características especiales tienen esas directivas?",
+      "options": {
+        "a": "Son directamente aplicables sin necesidad de transposición",
+        "b": "Establecen disposiciones mínimas que habrán de aplicarse progresivamente, teniendo en cuenta las condiciones y reglamentaciones técnicas existentes en cada Estado miembro, y que deben evitar establecer trabas de carácter administrativo, financiero y jurídico que obstaculicen la creación y el desarrollo de pequeñas y medianas empresas",
+        "c": "Son de carácter definitivo sin posibilidad de que los Estados establezcan normas más favorables",
+        "d": "Solo pueden referirse a ámbitos previamente armonizados por el mercado interior"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 153.2.b) TFUE establece que las directivas 'evitarán establecer trabas de carácter administrativo, financiero y jurídico que obstaculicen la creación y el desarrollo de pequeñas y medianas empresas' y fijarán 'disposiciones mínimas que habrán de aplicarse progresivamente, teniendo en cuenta las condiciones y reglamentaciones técnicas existentes en cada uno de los Estados miembros'.",
+      "ley": "TFUE, art. 153.2.b)"
+    },
+    {
+      "id": "tema_05_test_34_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 156 TFUE, ¿qué función tiene la Comisión para fomentar la cooperación entre los Estados miembros en el ámbito social?",
+      "options": {
+        "a": "Adoptar directivas vinculantes sin necesidad de propuesta previa al Consejo",
+        "b": "Fomentar la coordinación de la acción de los Estados miembros en materia social, en particular en los ámbitos del empleo, del Derecho laboral y de las condiciones de trabajo, la formación profesional, la seguridad social, la protección contra los accidentes y enfermedades profesionales y los convenios colectivos",
+        "c": "Establecer sanciones económicas a los Estados que no cumplan los objetivos sociales",
+        "d": "Negociar en nombre de los Estados miembros los convenios colectivos sectoriales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 156 TFUE establece que 'Con objeto de alcanzar los objetivos enunciados en el artículo 151, la Comisión fomentará la cooperación entre los Estados miembros y facilitará la coordinación de sus acciones en todos los ámbitos de la política social contemplados en el presente capítulo'.",
+      "ley": "TFUE, art. 156"
+    },
+    {
+      "id": "tema_05_test_34_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 160 TFUE, ¿qué crea el Tratado para asesorar al Parlamento Europeo, al Consejo y a la Comisión en asuntos de política social?",
+      "options": {
+        "a": "El Comité de las Regiones",
+        "b": "Un Comité de protección social",
+        "c": "El Comité Económico y Social",
+        "d": "Un Consejo de Empleo y Asuntos Sociales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 160 TFUE establece que 'El Consejo, previa consulta al Parlamento Europeo, creará un Comité de protección social, de carácter consultivo, con el fin de fomentar la cooperación en materia de protección social entre los Estados miembros y con la Comisión'.",
+      "ley": "TFUE, art. 160"
+    },
+    {
+      "id": "tema_05_test_34_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 153.2.a) TFUE prevé que en determinados ámbitos sociales el Consejo decide por unanimidad con arreglo a procedimiento legislativo especial. ¿Cuál es el requisito de aprobación por el Parlamento Europeo en esos casos?",
+      "options": {
+        "a": "El Parlamento Europeo tiene derecho de veto",
+        "b": "El Consejo decide previa consulta al Parlamento Europeo, al Comité Económico y Social y al Comité de las Regiones",
+        "c": "El Parlamento Europeo aprueba con mayoría de dos tercios",
+        "d": "No se consulta al Parlamento Europeo en estos casos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 153.2.a) TFUE establece que en materia de seguridad social y protección de los trabajadores, el Consejo decidirá 'por unanimidad con arreglo a un procedimiento legislativo especial, previa consulta al Parlamento Europeo y al Comité Económico y Social y al Comité de las Regiones'.",
+      "ley": "TFUE, art. 153.2.a)"
+    },
+    {
+      "id": "tema_05_test_34_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 163 TFUE, ¿quién administra el Fondo Social Europeo?",
+      "options": {
+        "a": "El Consejo Europeo por consenso",
+        "b": "La Comisión, asistida por un Comité presidido por un miembro de la Comisión y compuesto por representantes de los Gobiernos, de las organizaciones sindicales y de las organizaciones empresariales",
+        "c": "El Banco Europeo de Inversiones",
+        "d": "Un Consejo de Administración independiente elegido por el Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 163 TFUE establece que 'La Comisión se encargará de la administración del Fondo Social Europeo. La Comisión, en esta tarea, será asistida por un Comité presidido por un miembro de la Comisión y compuesto por representantes de los Gobiernos, de las organizaciones sindicales y de las organizaciones empresariales'.",
+      "ley": "TFUE, art. 163"
+    },
+    {
+      "id": "tema_05_test_34_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 157.4 TFUE establece una excepción al principio de igualdad entre hombres y mujeres. ¿Qué tipo de medidas permite?",
+      "options": {
+        "a": "Reducir la retribución de las mujeres en ciertos sectores para proteger el empleo femenino",
+        "b": "Medidas que ofrezcan ventajas concretas destinadas a facilitar al sexo menos representado el ejercicio de actividades profesionales o a evitar o compensar desventajas en sus carreras profesionales (acción positiva)",
+        "c": "Establecer cuotas obligatorias de contratación en el sector público",
+        "d": "Limitar el acceso de los hombres a determinadas profesiones para favorecer la igualdad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 157.4 TFUE establece que el principio de igualdad 'no impedirá a ningún Estado miembro mantener o adoptar medidas que ofrezcan ventajas concretas destinadas a facilitar al sexo menos representado el ejercicio de actividades profesionales o a evitar o compensar desventajas en sus carreras profesionales'.",
+      "ley": "TFUE, art. 157.4"
+    },
+    {
+      "id": "tema_05_test_34_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 153.3 TFUE establece que los Estados miembros pueden confiar a los interlocutores sociales la aplicación de las directivas sociales. ¿Qué garantía exige en ese caso?",
+      "options": {
+        "a": "Que los interlocutores sociales cuenten con autorización del Consejo Europeo",
+        "b": "Que los Estados miembros garanticen que a más tardar en la fecha en que deba estar transpuesta la directiva, los interlocutores sociales hayan establecido las disposiciones necesarias mediante acuerdo, debiendo velar además por los resultados que impone la directiva",
+        "c": "Que la Comisión supervise directamente las negociaciones entre interlocutores",
+        "d": "Que los interlocutores sociales sean representativos a escala europea y no solo nacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 153.3 TFUE establece que 'Un Estado miembro podrá confiar a los interlocutores sociales, a petición conjunta de estos, la aplicación de las directivas adoptadas en aplicación del apartado 2... debiendo garantizar que, a más tardar en la fecha en que deba estar transpuesta una directiva, los interlocutores sociales hayan introducido las disposiciones necesarias mediante acuerdo'.",
+      "ley": "TFUE, art. 153.3"
+    },
+    {
+      "id": "tema_05_test_34_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 152 TFUE, ¿qué reconoce la Unión en el ámbito del diálogo social?",
+      "options": {
+        "a": "El papel exclusivo de los sindicatos como representantes de los trabajadores",
+        "b": "El papel de los interlocutores sociales a escala de la Unión y facilitará el diálogo entre ellos, respetando su autonomía",
+        "c": "La obligación de los interlocutores sociales de alcanzar un acuerdo en el plazo de tres meses",
+        "d": "La competencia de la Comisión para arbitrar los conflictos entre interlocutores sociales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 152 TFUE establece que 'La Unión reconoce y promueve el papel de los interlocutores sociales en su ámbito, teniendo en cuenta la diversidad de los sistemas nacionales. Facilitará el diálogo entre ellos, dentro del respeto de su autonomía'.",
+      "ley": "TFUE, art. 152"
+    },
+    {
+      "id": "tema_05_test_34_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 153.4 TFUE, ¿puede la Unión, cuando adopte normas mínimas en política social, impedir a los Estados miembros establecer medidas de mayor protección?",
+      "options": {
+        "a": "Sí, las normas mínimas de la Unión son de armonización máxima",
+        "b": "No, las disposiciones adoptadas en virtud del art. 153 no pueden impedir a los Estados miembros mantener o introducir medidas de mayor protección compatibles con los Tratados",
+        "c": "Solo puede impedirlo si se compromete la competencia en el mercado único",
+        "d": "Depende del ámbito: en materia de salud laboral sí, en materia de despido no"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 153.4 TFUE establece expresamente que 'Las disposiciones adoptadas con arreglo al presente artículo: no afectarán a la facultad reconocida a los Estados miembros de definir los principios fundamentales de su sistema de seguridad social, y no deberán perturbar sensiblemente el equilibrio financiero de este'.",
+      "ley": "TFUE, art. 153.4"
+    },
+    {
+      "id": "tema_05_test_34_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 154.2 TFUE, antes de presentar propuestas legislativas en el ámbito de la política social, ¿qué debe hacer la Comisión?",
+      "options": {
+        "a": "Realizar un estudio de impacto económico detallado",
+        "b": "Consultar a los interlocutores sociales acerca de la posible orientación de una acción de la Unión",
+        "c": "Obtener autorización del Consejo Europeo",
+        "d": "Publicar un Libro Verde para recabar opiniones del público"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 154.2 TFUE establece que 'Con este fin, antes de presentar propuestas en el ámbito de la política social, la Comisión consultará a los interlocutores sociales sobre la posible orientación de una acción de la Unión'.",
+      "ley": "TFUE, art. 154.2"
+    },
+    {
+      "id": "tema_05_test_34_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 159 TFUE, ¿qué debe publicar la Comisión anualmente en el ámbito de la política social?",
+      "options": {
+        "a": "Un informe sobre los fondos destinados a la política social",
+        "b": "Un informe sobre la situación social de la Unión",
+        "c": "Un informe sobre la desigualdad salarial entre hombres y mujeres",
+        "d": "Un informe sobre el desempleo en los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 159 TFUE establece que 'La Comisión elaborará un informe anual sobre la situación social de la Unión que se transmitirá al Parlamento Europeo con el informe general que le está obligada a presentar'.",
+      "ley": "TFUE, art. 159"
+    },
+    {
+      "id": "tema_05_test_34_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 161 TFUE, ¿quiénes establecen las normas de aplicación del Fondo Social Europeo?",
+      "options": {
+        "a": "La Comisión de forma autónoma",
+        "b": "El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, y previa consulta al Comité Económico y Social y al Comité de las Regiones",
+        "c": "El Consejo Europeo por unanimidad",
+        "d": "Los Estados miembros mediante acuerdo unánime"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 161 TFUE establece que 'El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario y previa consulta al Comité Económico y Social y al Comité de las Regiones, adoptarán mediante reglamentos las disposiciones necesarias para la aplicación del Fondo Social Europeo'.",
+      "ley": "TFUE, art. 161"
+    }
+  ]
+}

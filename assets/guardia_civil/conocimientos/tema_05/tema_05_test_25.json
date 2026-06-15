@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 25",
+  "preguntas": [
+    {
+      "id": "tema_05_test_25_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 56 TFUE, ¿a quiénes se prohíben las restricciones a la libre prestación de servicios dentro de la Unión?",
+      "options": {
+        "a": "A todos los prestadores de servicios, independientemente de su nacionalidad",
+        "b": "A los nacionales de los Estados miembros establecidos en un Estado miembro que no sea el del destinatario de la prestación",
+        "c": "Solo a las grandes empresas multinacionales europeas",
+        "d": "Solo a los proveedores de servicios financieros y de seguros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 56 TFUE establece que quedarán prohibidas las restricciones a la libre prestación de servicios 'para los nacionales de los Estados miembros establecidos en un Estado miembro que no sea el del destinatario de la prestación'.",
+      "ley": "TFUE, art. 56"
+    },
+    {
+      "id": "tema_05_test_25_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 57 TFUE, ¿cuáles son los cuatro tipos de servicios que comprende el concepto de 'servicios'?",
+      "options": {
+        "a": "Financieros, tecnológicos, turísticos y sanitarios",
+        "b": "Actividades de carácter industrial, mercantil, artesanales y propias de las profesiones liberales",
+        "c": "Transporte, comunicaciones, educación y sanidad",
+        "d": "Banca, seguros, telecomunicaciones y distribución"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 57 TFUE establece que los servicios comprenderán 'Actividades de carácter industrial, actividades de carácter mercantil, actividades artesanales y actividades propias de las profesiones liberales'.",
+      "ley": "TFUE, art. 57"
+    },
+    {
+      "id": "tema_05_test_25_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 57 TFUE define los servicios como prestaciones realizadas normalmente a cambio de una remuneración. ¿Cuándo NO se consideran servicios a efectos del capítulo III?",
+      "options": {
+        "a": "Cuando se realizan de forma gratuita",
+        "b": "Cuando se rigen por las disposiciones relativas a la libre circulación de mercancías, capitales y personas",
+        "c": "Cuando son prestados por entidades del sector público",
+        "d": "Cuando el prestador y el destinatario se encuentran en el mismo Estado miembro"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 57 TFUE define los servicios como 'las prestaciones realizadas normalmente a cambio de una remuneración, en la medida en que no se rijan por las disposiciones relativas a la libre circulación de mercancías, capitales y personas'. Tiene carácter residual.",
+      "ley": "TFUE, art. 57"
+    },
+    {
+      "id": "tema_05_test_25_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 57 TFUE, el prestador de un servicio podrá ejercer temporalmente su actividad en el Estado donde se lleve a cabo la prestación. ¿En qué condiciones?",
+      "options": {
+        "a": "Previo registro en el Estado de destino",
+        "b": "En las mismas condiciones que imponga ese Estado a sus propios nacionales",
+        "c": "Sin ninguna condición, con plena libertad de actuación",
+        "d": "Con autorización previa de la Comisión Europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 57 TFUE establece que el prestador podrá ejercer temporalmente su actividad 'en las mismas condiciones que imponga ese Estado a sus propios nacionales'.",
+      "ley": "TFUE, art. 57"
+    },
+    {
+      "id": "tema_05_test_25_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 58 TFUE, la libre prestación de servicios en materia de transportes se rige por:",
+      "options": {
+        "a": "Las disposiciones del Capítulo III sobre servicios",
+        "b": "Las disposiciones del título relativo a los transportes",
+        "c": "Las disposiciones del capítulo sobre libertad de establecimiento",
+        "d": "Las disposiciones específicas acordadas por el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 58.1 TFUE establece que 'La libre prestación de servicios, en materia de transportes, se regirá por las disposiciones del título relativo a los transportes'. El transporte tiene su propio régimen especial.",
+      "ley": "TFUE, art. 58.1"
+    },
+    {
+      "id": "tema_05_test_25_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 56 TFUE prevé que el Parlamento Europeo y el Consejo puedan extender el beneficio de la libre prestación de servicios a prestadores de terceros Estados. ¿Qué requisito deben cumplir esos prestadores?",
+      "options": {
+        "a": "Deben haber residido al menos cinco años en la Unión",
+        "b": "Deben ser nacionales de un tercer Estado y hallarse establecidos dentro de la Unión",
+        "c": "Deben contar con autorización especial del Consejo por unanimidad",
+        "d": "Solo pueden beneficiarse de la extensión en el ámbito de los servicios financieros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 56 TFUE establece que el Parlamento Europeo y el Consejo podrán extender el beneficio 'a los prestadores de servicios que sean nacionales de un tercer Estado y se hallen establecidos dentro de la Unión'.",
+      "ley": "TFUE, art. 56"
+    },
+    {
+      "id": "tema_05_test_25_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 63.1 TFUE, ¿qué queda prohibido en materia de movimientos de capitales?",
+      "options": {
+        "a": "Solo las restricciones entre Estados miembros",
+        "b": "Todas las restricciones a los movimientos de capitales entre Estados miembros y entre Estados miembros y terceros países",
+        "c": "Las restricciones que superen el 5% del valor de la transacción",
+        "d": "Solo las restricciones a los movimientos de capitales de carácter especulativo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 63.1 TFUE establece que 'quedan prohibidas todas las restricciones a los movimientos de capitales entre Estados miembros y entre Estados miembros y terceros países'.",
+      "ley": "TFUE, art. 63.1"
+    },
+    {
+      "id": "tema_05_test_25_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Además de la libre circulación de capitales, el art. 63.2 TFUE prohíbe restricciones sobre:",
+      "options": {
+        "a": "Los movimientos de personas dentro de la Unión",
+        "b": "Los pagos entre Estados miembros y entre Estados miembros y terceros países",
+        "c": "Las exportaciones de servicios financieros",
+        "d": "Los flujos de inversión extranjera directa en sectores estratégicos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 63.2 TFUE establece que 'quedan prohibidas cualesquiera restricciones sobre los pagos entre Estados miembros y entre Estados miembros y terceros países'.",
+      "ley": "TFUE, art. 63.2"
+    },
+    {
+      "id": "tema_05_test_25_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 65.1 TFUE establece que el art. 63 no impedirá a los Estados miembros aplicar ciertos derechos o adoptar ciertas medidas. ¿Cuál de las siguientes NO figura entre esas posibilidades?",
+      "options": {
+        "a": "Aplicar disposiciones fiscales que distingan entre contribuyentes según residencia o lugar de inversión del capital",
+        "b": "Adoptar medidas para impedir infracciones al Derecho fiscal y supervisión de entidades financieras",
+        "c": "Prohibir totalmente la salida de capitales a países no miembros de la OCDE",
+        "d": "Tomar medidas justificadas por razones de orden público o de seguridad pública"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 65.1 TFUE permite las medidas fiscales diferenciadas y las justificadas por orden público o seguridad pública, pero no permite una prohibición total de salida de capitales a terceros países no miembros de la OCDE, lo que sería una restricción global no admitida.",
+      "ley": "TFUE, art. 65.1"
+    },
+    {
+      "id": "tema_05_test_25_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 65.3 TFUE establece un límite a las excepciones del art. 65.1. ¿Cuál es ese límite?",
+      "options": {
+        "a": "Las medidas no pueden superar el 10% del valor de los capitales afectados",
+        "b": "Las medidas y procedimientos no deberán constituir un medio de discriminación arbitraria ni una restricción encubierta de la libre circulación de capitales y pagos",
+        "c": "Las medidas deben ser proporcionales a los objetivos perseguidos",
+        "d": "Las medidas deben ser notificadas previamente a la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 65.3 TFUE establece que 'Las medidas y procedimientos a que se hace referencia en los apartados 1 y 2 no deberán constituir ni un medio de discriminación arbitraria ni una restricción encubierta de la libre circulación de capitales y pagos'.",
+      "ley": "TFUE, art. 65.3"
+    },
+    {
+      "id": "tema_05_test_25_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 58.2 TFUE, la liberalización de los servicios bancarios y de seguros vinculados a los movimientos de capitales se realizará en armonía con:",
+      "options": {
+        "a": "Las directivas específicas adoptadas por la Comisión",
+        "b": "La liberalización de la circulación de capitales",
+        "c": "Las orientaciones del Banco Central Europeo",
+        "d": "Los acuerdos de Basilea sobre regulación bancaria"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 58.2 TFUE establece que 'La liberalización de los servicios bancarios y de seguros vinculados a los movimientos de capitales se realizará en armonía con la liberalización de la circulación de capitales'.",
+      "ley": "TFUE, art. 58.2"
+    },
+    {
+      "id": "tema_05_test_25_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 66 TFUE prevé medidas de salvaguardia en materia de capitales en circunstancias excepcionales. ¿Qué plazo máximo tienen estas medidas y quién las adopta?",
+      "options": {
+        "a": "Un año máximo; las adopta la Comisión a propuesta del BCE",
+        "b": "Seis meses máximo; las adopta el Consejo, a propuesta de la Comisión y previa consulta al BCE",
+        "c": "Tres meses máximo; las adopta el Consejo Europeo por unanimidad",
+        "d": "Sin plazo máximo definido; las adopta el Consejo por mayoría cualificada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 66 TFUE establece que en circunstancias excepcionales 'el Consejo, a propuesta de la Comisión y previa consulta al Banco Central Europeo, podrá adoptar respecto a terceros países, por un plazo que no sea superior a seis meses, las medidas de salvaguardia estrictamente necesarias'.",
+      "ley": "TFUE, art. 66"
+    },
+    {
+      "id": "tema_05_test_25_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 62 TFUE establece que las disposiciones de los arts. 51 a 54 serán aplicables a las materias del capítulo de servicios. ¿Qué supone esto en la práctica?",
+      "options": {
+        "a": "Que los servicios de transportes tienen el mismo régimen que los demás servicios",
+        "b": "Que las excepciones por orden público, seguridad y salud pública y la regla sobre actividades relacionadas con el poder público también se aplican al capítulo de servicios",
+        "c": "Que los reglamentos sobre establecimiento se aplican automáticamente a los servicios",
+        "d": "Que el Consejo decide por unanimidad en materia de servicios"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 62 TFUE aplica al capítulo de servicios los arts. 51 a 54 del capítulo de establecimiento, lo que incluye la excepción de actividades relacionadas con el ejercicio del poder público (art. 51), el régimen especial por orden público/seguridad/salud (art. 52), el reconocimiento de diplomas (art. 53) y la equiparación de sociedades (art. 54).",
+      "ley": "TFUE, art. 62"
+    },
+    {
+      "id": "tema_05_test_25_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 60 TFUE establece que los Estados miembros se esforzarán por una liberalización más amplia de los servicios. ¿Qué instrumento puede utilizar la Comisión para impulsar esto?",
+      "options": {
+        "a": "Directivas vinculantes dirigidas a los Estados",
+        "b": "Recomendaciones a los Estados miembros interesados",
+        "c": "Recursos de incumplimiento ante el Tribunal de Justicia",
+        "d": "Decisiones de ejecución inmediata"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 60 TFUE establece que 'La Comisión dirigirá, a este fin, recomendaciones a los Estados miembros interesados'. Las recomendaciones no son vinculantes pero tienen valor político.",
+      "ley": "TFUE, art. 60"
+    },
+    {
+      "id": "tema_05_test_25_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 64.3 TFUE establece una regla especial para adoptar medidas que supongan un retroceso en la liberalización de los movimientos de capitales con terceros países. ¿Qué procedimiento se aplica?",
+      "options": {
+        "a": "Procedimiento legislativo ordinario con mayoría cualificada del Consejo",
+        "b": "Procedimiento legislativo especial: solo el Consejo, por unanimidad y previa consulta al Parlamento Europeo",
+        "c": "Decisión del Consejo Europeo por consenso",
+        "d": "Propuesta de la Comisión aprobada por el Parlamento por mayoría de dos tercios"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 64.3 TFUE establece que 'solo el Consejo, con arreglo a un procedimiento legislativo especial, por unanimidad y previa consulta al Parlamento Europeo, podrá establecer medidas que supongan un retroceso en el Derecho de la Unión respecto de la liberalización de los movimientos de capitales con destino a terceros países o procedentes de ellos'.",
+      "ley": "TFUE, art. 64.3"
+    },
+    {
+      "id": "tema_05_test_25_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 61 TFUE, mientras no se supriman las restricciones a la libre prestación de servicios, ¿cómo aplicará cada Estado miembro dichas restricciones?",
+      "options": {
+        "a": "Las aplicará solo a los nacionales de los Estados que no hayan liberalizado sus propios servicios",
+        "b": "Las aplicará sin distinción de nacionalidad o residencia, a todos los prestadores de servicios del art. 56",
+        "c": "Solo a los nacionales de terceros países no miembros de la Unión",
+        "d": "Solo en los sectores donde existan problemas graves de competencia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 61 TFUE establece que 'cada uno de los Estados miembros aplicará tales restricciones, sin distinción de nacionalidad o residencia, a todos los prestadores de servicios a que se refiere el párrafo primero del artículo 56'.",
+      "ley": "TFUE, art. 61"
+    },
+    {
+      "id": "tema_05_test_25_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 64.1 TFUE, ¿cuál es la fecha de referencia para las restricciones existentes al 31 de diciembre de 1993 respecto a movimientos de capitales con terceros países (con carácter general)?",
+      "options": {
+        "a": "31 de diciembre de 1992",
+        "b": "31 de diciembre de 1993",
+        "c": "1 de enero de 1995",
+        "d": "31 de diciembre de 1999"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 64.1 TFUE establece que el art. 63 'se entenderá sin perjuicio de la aplicación a terceros países de las restricciones que existan el 31 de diciembre de 1993'. Esa es la fecha de referencia general.",
+      "ley": "TFUE, art. 64.1"
+    },
+    {
+      "id": "tema_05_test_25_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 59.2 TFUE establece un criterio de prioridad para la liberalización de servicios mediante directivas. ¿Cuál es ese criterio?",
+      "options": {
+        "a": "Se priorizarán los servicios con mayor volumen de mercado",
+        "b": "Se priorizarán los servicios que influyan de forma directa en los costes de producción o cuya liberalización contribuya a facilitar los intercambios de mercancías",
+        "c": "Se priorizarán los servicios relacionados con las cuatro libertades del mercado interior",
+        "d": "Se priorizarán los servicios en los sectores con mayor número de trabajadores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 59.2 TFUE establece que 'Las directivas previstas en el apartado 1 se referirán, en general, con prioridad, a los servicios que influyan de forma directa en los costes de producción o cuya liberalización contribuya a facilitar los intercambios de mercancías'.",
+      "ley": "TFUE, art. 59.2"
+    },
+    {
+      "id": "tema_05_test_25_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 65.2 TFUE, ¿afectará el capítulo de capitales a la aplicación de restricciones del derecho de establecimiento compatibles con los Tratados?",
+      "options": {
+        "a": "Sí, el capítulo de capitales prevalece sobre cualquier restricción de establecimiento",
+        "b": "No, las disposiciones sobre capitales no serán obstáculo para la aplicación de tales restricciones",
+        "c": "Solo si afectan a más del 10% del capital social de una empresa",
+        "d": "Depende de la decisión caso por caso de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 65.2 TFUE establece que 'Las disposiciones del presente capítulo no serán obstáculo para la aplicación de restricciones del derecho de establecimiento compatibles con los Tratados'.",
+      "ley": "TFUE, art. 65.2"
+    },
+    {
+      "id": "tema_05_test_25_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 63 TFUE prohíbe tanto restricciones a los movimientos de capitales como restricciones sobre los pagos. ¿Cuál es el alcance geográfico de estas prohibiciones?",
+      "options": {
+        "a": "Solo entre Estados miembros de la Unión",
+        "b": "Entre Estados miembros y también entre Estados miembros y terceros países",
+        "c": "Solo entre los países de la zona euro",
+        "d": "Solo entre los países del espacio Schengen"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 63 TFUE prohíbe 'todas las restricciones a los movimientos de capitales entre Estados miembros y entre Estados miembros y terceros países' (art. 63.1) y 'cualesquiera restricciones sobre los pagos entre Estados miembros y entre Estados miembros y terceros países' (art. 63.2).",
+      "ley": "TFUE, art. 63"
+    }
+  ]
+}

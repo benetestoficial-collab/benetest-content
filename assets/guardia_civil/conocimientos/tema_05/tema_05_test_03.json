@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_05_test_03_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 5.3 TUE, ¿en qué ámbitos interviene la Unión en virtud del principio de subsidiariedad?",
+      "options": {
+        "a": "En todos los ámbitos sin restricción",
+        "b": "Solo en los ámbitos de competencia exclusiva",
+        "c": "En los ámbitos que no sean de su competencia exclusiva, cuando los objetivos no puedan alcanzarse suficientemente por los Estados miembros",
+        "d": "Únicamente en los ámbitos de política exterior"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 5.3 TUE establece que en virtud del principio de subsidiariedad 'en los ámbitos que no sean de su competencia exclusiva, la Unión intervendrá solo en caso de que los objetivos no puedan ser alcanzados de manera suficiente por los Estados miembros'.",
+      "ley": "TUE, art. 5.3"
+    },
+    {
+      "id": "tema_05_test_03_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿A qué órgano notifica el Estado miembro que decide retirarse de la Unión, según el art. 50.2 TUE?",
+      "options": {
+        "a": "A la Comisión Europea",
+        "b": "Al Parlamento Europeo",
+        "c": "Al Consejo Europeo",
+        "d": "Al Tribunal de Justicia"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 50.2 TUE establece que 'El Estado miembro que decida retirarse notificará su intención al Consejo Europeo'.",
+      "ley": "TUE, art. 50.2"
+    },
+    {
+      "id": "tema_05_test_03_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre las misiones del art. 43 TUE (misiones Petersberg ampliadas):",
+      "options": {
+        "a": "Actuaciones conjuntas en materia de desarme",
+        "b": "Misiones humanitarias y de rescate",
+        "c": "Misiones de administración territorial permanente de terceros Estados",
+        "d": "Misiones de prevención de conflictos y mantenimiento de la paz"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 43.1 TUE enumera las misiones posibles pero no incluye la 'administración territorial permanente de terceros Estados'. Las misiones tienen carácter temporal y operativo, no de administración permanente.",
+      "ley": "TUE, art. 43.1"
+    },
+    {
+      "id": "tema_05_test_03_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Qué institución vela por el respeto del principio de subsidiariedad según el art. 5.3 TUE?",
+      "options": {
+        "a": "El Tribunal de Justicia",
+        "b": "La Comisión Europea",
+        "c": "Los Parlamentos nacionales",
+        "d": "El Consejo Europeo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 5.3 TUE establece que 'Los Parlamentos nacionales velarán por el respeto del principio de subsidiariedad con arreglo al procedimiento establecido en el Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad'.",
+      "ley": "TUE, art. 5.3"
+    },
+    {
+      "id": "tema_05_test_03_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Consejo de Asuntos Exteriores según el art. 16.6 TUE es presidido por:",
+      "options": {
+        "a": "El Presidente del Consejo Europeo",
+        "b": "El Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad",
+        "c": "El Estado que ostenta la presidencia rotatoria",
+        "d": "El Presidente de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 18 TUE establece que el Alto Representante 'Presidirá el Consejo de Asuntos Exteriores'. Es la única formación del Consejo que no tiene presidencia rotatoria.",
+      "ley": "TUE, art. 18 y art. 16.9"
+    },
+    {
+      "id": "tema_05_test_03_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.5 TUE, si transcurridos dos años desde la firma de un tratado modificativo las cuatro quintas partes de los Estados lo han ratificado pero uno o varios encuentran dificultades, ¿qué ocurre?",
+      "options": {
+        "a": "El tratado entra en vigor sin los Estados que no lo han ratificado",
+        "b": "El Consejo Europeo examina la cuestión",
+        "c": "La Comisión puede obligar a los Estados remisos a ratificar",
+        "d": "El Parlamento Europeo decide si el tratado entra en vigor"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48.5 TUE establece que en ese supuesto 'el Consejo Europeo examinará la cuestión', sin especificar consecuencias automáticas.",
+      "ley": "TUE, art. 48.5"
+    },
+    {
+      "id": "tema_05_test_03_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. La Agencia Europea de Defensa según el art. 45 TUE está bajo la autoridad de:",
+      "options": {
+        "a": "La Comisión Europea",
+        "b": "El Alto Representante",
+        "c": "El Consejo",
+        "d": "El Consejo Europeo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 45.2 TUE establece que 'La Agencia Europea de Defensa estará bajo la autoridad del Consejo'.",
+      "ley": "TUE, art. 45.2"
+    },
+    {
+      "id": "tema_05_test_03_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 13.4 TUE, ¿qué órganos asisten al Parlamento Europeo, al Consejo y a la Comisión con funciones consultivas?",
+      "options": {
+        "a": "El Tribunal de Cuentas y el Banco Central Europeo",
+        "b": "El Comité Económico y Social y el Comité de las Regiones",
+        "c": "El Defensor del Pueblo y el Supervisor Europeo de Protección de Datos",
+        "d": "Europol y Eurojust"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.4 TUE establece que 'El Parlamento Europeo, el Consejo y la Comisión Europea estarán asistidos por un Comité Económico y Social y por un Comité de las Regiones que ejercerán funciones consultivas'.",
+      "ley": "TUE, art. 13.4"
+    },
+    {
+      "id": "tema_05_test_03_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.2 TUE, los actos legislativos de la Unión solo podrán adoptarse:",
+      "options": {
+        "a": "A propuesta del Consejo Europeo",
+        "b": "A propuesta de la Comisión, salvo que los Tratados dispongan otra cosa",
+        "c": "A propuesta del Parlamento Europeo",
+        "d": "A propuesta conjunta de la Comisión y el Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.2 TUE establece que 'Los actos legislativos de la Unión solo podrán adoptarse a propuesta de la Comisión, excepto cuando los Tratados dispongan otra cosa'. Es el denominado monopolio de iniciativa de la Comisión.",
+      "ley": "TUE, art. 17.2"
+    },
+    {
+      "id": "tema_05_test_03_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 10.2 TUE, los ciudadanos están directamente representados en la Unión a través de:",
+      "options": {
+        "a": "El Consejo Europeo",
+        "b": "El Consejo",
+        "c": "El Parlamento Europeo",
+        "d": "La Comisión Europea"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 10.2 TUE establece que 'Los ciudadanos estarán directamente representados en la Unión a través del Parlamento Europeo'. Los Estados miembros se representan en el Consejo Europeo y en el Consejo.",
+      "ley": "TUE, art. 10.2"
+    },
+    {
+      "id": "tema_05_test_03_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre el Consejo según el art. 16.1 TUE:",
+      "options": {
+        "a": "Ejerce en exclusiva la función legislativa",
+        "b": "Ejerce conjuntamente con el Parlamento Europeo la función legislativa y presupuestaria",
+        "c": "Define las orientaciones políticas generales de la Unión",
+        "d": "Garantiza el respeto del Derecho en la interpretación de los Tratados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.1 TUE establece que 'El Consejo ejercerá conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria'.",
+      "ley": "TUE, art. 16.1"
+    },
+    {
+      "id": "tema_05_test_03_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.2 TUE, la Unión ofrecerá a sus ciudadanos un espacio de libertad, seguridad y justicia:",
+      "options": {
+        "a": "Con controles en las fronteras interiores",
+        "b": "Sin fronteras interiores, con libre circulación de personas",
+        "c": "Solo para los ciudadanos del espacio Schengen",
+        "d": "Limitado a los Estados de la zona euro"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.2 TUE establece que la Unión ofrecerá 'un espacio de libertad, seguridad y justicia sin fronteras interiores, en el que esté garantizada la libre circulación de personas'.",
+      "ley": "TUE, art. 3.2"
+    },
+    {
+      "id": "tema_05_test_03_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.2 TUE, ¿en qué plazo adopta el Consejo la decisión por la que se establece la cooperación estructurada permanente?",
+      "options": {
+        "a": "En un plazo de un mes",
+        "b": "En un plazo de dos meses",
+        "c": "En un plazo de tres meses",
+        "d": "En un plazo de seis meses"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 46.2 TUE establece que 'En un plazo de tres meses a partir de la notificación, el Consejo adoptará una decisión por la que se establezca la cooperación estructurada permanente'.",
+      "ley": "TUE, art. 46.2"
+    },
+    {
+      "id": "tema_05_test_03_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Dónde se depositaron los instrumentos de ratificación del Tratado de la Unión Europea según el art. 54 TUE?",
+      "options": {
+        "a": "Ante el Gobierno de la República Francesa",
+        "b": "Ante el Gobierno de la República Italiana",
+        "c": "Ante el Gobierno del Reino de Bélgica",
+        "d": "Ante el Gobierno de la República Federal de Alemania"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 54.1 TUE establece que 'Los instrumentos de ratificación serán depositados ante el Gobierno de la República Italiana'.",
+      "ley": "TUE, art. 54.1"
+    },
+    {
+      "id": "tema_05_test_03_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.2 TUE, el Tribunal General dispondrá al menos de:",
+      "options": {
+        "a": "Un juez por cada tres Estados miembros",
+        "b": "Un juez por Estado miembro",
+        "c": "Diez jueces en total",
+        "d": "Dos jueces por Estado miembro fundador"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.2 TUE establece que 'El Tribunal General dispondrá al menos de un juez por Estado miembro'.",
+      "ley": "TUE, art. 19.2"
+    },
+    {
+      "id": "tema_05_test_03_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre los requisitos para que un Estado solicite la adhesión a la Unión según el art. 49 TUE:",
+      "options": {
+        "a": "El Estado debe ser europeo",
+        "b": "Debe respetar los valores del art. 2 TUE",
+        "c": "Debe ser miembro previo de la OTAN",
+        "d": "Debe comprometerse a promover los valores del art. 2 TUE"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 49 TUE no exige en ningún momento ser miembro de la OTAN. Solo exige ser un Estado europeo que respete y se comprometa a promover los valores del art. 2 TUE.",
+      "ley": "TUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_03_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Qué función no ejerce el Consejo Europeo según el art. 15.1 TUE?",
+      "options": {
+        "a": "Dar impulsos necesarios para el desarrollo de la Unión",
+        "b": "Definir orientaciones y prioridades políticas generales",
+        "c": "Ejercer función legislativa",
+        "d": "Contribuir al funcionamiento de la Unión"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 15.1 TUE dispone expresamente que el Consejo Europeo 'No ejercerá función legislativa alguna'. Su papel es estratégico y de impulso político.",
+      "ley": "TUE, art. 15.1"
+    },
+    {
+      "id": "tema_05_test_03_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.1 TUE, ¿qué función tiene el Parlamento Europeo respecto al Presidente de la Comisión?",
+      "options": {
+        "a": "Lo nombra directamente",
+        "b": "Lo elige",
+        "c": "Lo ratifica por mayoría cualificada",
+        "d": "Solo emite una opinión no vinculante"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 14.1 TUE establece que el Parlamento Europeo 'Elegirá al Presidente de la Comisión'.",
+      "ley": "TUE, art. 14.1"
+    },
+    {
+      "id": "tema_05_test_03_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 8.1 TUE, ¿qué tipo de relaciones desarrollará la Unión con los países vecinos?",
+      "options": {
+        "a": "Relaciones de integración plena",
+        "b": "Relaciones preferentes",
+        "c": "Relaciones de libre comercio exclusivamente",
+        "d": "Relaciones de asociación de seguridad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 8.1 TUE establece que 'La Unión desarrollará con los países vecinos relaciones preferentes, con el objetivo de establecer un espacio de prosperidad y de buena vecindad'.",
+      "ley": "TUE, art. 8.1"
+    },
+    {
+      "id": "tema_05_test_03_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.2 TUE, ¿quién compone el Consejo?",
+      "options": {
+        "a": "Los Jefes de Estado o de Gobierno de los Estados miembros",
+        "b": "Un representante de cada Estado miembro de rango ministerial",
+        "c": "Los Parlamentos nacionales de cada Estado miembro",
+        "d": "Dos representantes por cada Estado miembro elegidos por sufragio"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.2 TUE establece que 'El Consejo estará compuesto por un representante de cada Estado miembro, de rango ministerial, facultado para comprometer al Gobierno del Estado miembro al que represente'.",
+      "ley": "TUE, art. 16.2"
+    }
+  ]
+}

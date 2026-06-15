@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 31",
+  "preguntas": [
+    {
+      "id": "tema_05_test_31_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 310 TFUE, ¿cuál es el principio fundamental del presupuesto de la Unión?",
+      "options": {
+        "a": "El principio de superávit presupuestario",
+        "b": "El principio de equilibrio: los ingresos totales deberán cubrir la totalidad de los gastos",
+        "c": "El principio de déficit controlado para financiar la inversión",
+        "d": "El principio de autonomía financiera respecto a los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 310.1 TFUE establece que 'Todos los ingresos y gastos de la Unión deberán consignarse en previsiones para cada ejercicio presupuestario e incluirse en el presupuesto' y que 'el presupuesto deberá estar equilibrado en cuanto a ingresos y gastos'.",
+      "ley": "TFUE, art. 310"
+    },
+    {
+      "id": "tema_05_test_31_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 311 TFUE regula los recursos propios de la Unión. ¿Quién establece el sistema de recursos propios?",
+      "options": {
+        "a": "El Parlamento Europeo y el Consejo mediante reglamentos",
+        "b": "El Consejo, por unanimidad con arreglo a un procedimiento legislativo especial, previa consulta al Parlamento Europeo, una vez aprobado por los Estados miembros",
+        "c": "La Comisión mediante propuesta anual",
+        "d": "El Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 311 TFUE establece que 'El Consejo, por unanimidad con arreglo a un procedimiento legislativo especial, y previa consulta al Parlamento Europeo, adoptará una decisión que establezca las disposiciones relativas al sistema de recursos propios de la Unión. Esta decisión no entrará en vigor hasta que haya sido aprobada por los Estados miembros de conformidad con sus respectivas normas constitucionales'.",
+      "ley": "TFUE, art. 311"
+    },
+    {
+      "id": "tema_05_test_31_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 312 TFUE regula el marco financiero plurianual. ¿Qué plazo mínimo prevé para ese marco?",
+      "options": {
+        "a": "Tres años",
+        "b": "Cuatro años",
+        "c": "Cinco años",
+        "d": "Siete años"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 312.1 TFUE establece que 'El marco financiero plurianual se establecerá para un período de al menos cinco años'. En la práctica los marcos se han fijado a siete años, pero el mínimo exigido es cinco.",
+      "ley": "TFUE, art. 312.1"
+    },
+    {
+      "id": "tema_05_test_31_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 314 TFUE, ¿quiénes establecen el presupuesto anual de la Unión?",
+      "options": {
+        "a": "Solo el Consejo, con aprobación del Parlamento Europeo",
+        "b": "El Parlamento Europeo y el Consejo conjuntamente, con arreglo al procedimiento legislativo especial",
+        "c": "La Comisión con aprobación del Consejo Europeo",
+        "d": "El Tribunal de Cuentas con aprobación del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 314 TFUE establece que 'El Parlamento Europeo y el Consejo establecerán el presupuesto anual de la Unión con arreglo al siguiente procedimiento' (procedimiento legislativo especial presupuestario).",
+      "ley": "TFUE, art. 314"
+    },
+    {
+      "id": "tema_05_test_31_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 318 TFUE, ¿quién presenta al Parlamento Europeo y al Consejo la cuenta de gestión y el balance financiero de la Unión?",
+      "options": {
+        "a": "El Tribunal de Cuentas",
+        "b": "La Comisión",
+        "c": "El Consejo",
+        "d": "El Banco Central Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 318 TFUE establece que 'La Comisión presentará anualmente al Parlamento Europeo y al Consejo las cuentas del ejercicio precedente relativas a las operaciones del presupuesto. Además, les remitirá un balance financiero del activo y del pasivo de la Unión'.",
+      "ley": "TFUE, art. 318"
+    },
+    {
+      "id": "tema_05_test_31_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 319 TFUE regula la aprobación de la gestión presupuestaria. ¿Quién aprueba la gestión de la Comisión en la ejecución del presupuesto y siguiendo qué recomendación?",
+      "options": {
+        "a": "El Consejo, por mayoría cualificada, siguiendo la recomendación del Tribunal de Cuentas",
+        "b": "El Parlamento Europeo, a recomendación del Consejo, previa evaluación del Tribunal de Cuentas",
+        "c": "El Consejo Europeo, tras informe de la Comisión y dictamen del Tribunal de Cuentas",
+        "d": "El Tribunal de Justicia, a propuesta del Defensor del Pueblo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 319.1 TFUE establece que 'El Parlamento Europeo aprobará la gestión de la Comisión en la ejecución del presupuesto, a recomendación del Consejo'.",
+      "ley": "TFUE, art. 319.1"
+    },
+    {
+      "id": "tema_05_test_31_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 317 TFUE, ¿a quién confía el Consejo la ejecución del presupuesto?",
+      "options": {
+        "a": "Al Tribunal de Cuentas bajo supervisión del Parlamento",
+        "b": "A la Comisión, bajo su propia responsabilidad y dentro del límite de los créditos autorizados",
+        "c": "Al Consejo en colaboración con los Estados miembros",
+        "d": "Al Banco Central Europeo para garantizar la estabilidad financiera"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 317 TFUE establece que 'La Comisión ejecutará el presupuesto con arreglo al reglamento contemplado en el artículo 322, bajo su propia responsabilidad y dentro del límite de los créditos autorizados'.",
+      "ley": "TFUE, art. 317"
+    },
+    {
+      "id": "tema_05_test_31_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 312.2 TFUE regula la adopción del marco financiero plurianual. ¿Qué procedimiento se aplica?",
+      "options": {
+        "a": "Procedimiento legislativo ordinario por mayoría cualificada",
+        "b": "El Consejo lo adoptará por unanimidad previa aprobación del Parlamento Europeo",
+        "c": "El Consejo Europeo lo aprueba por consenso",
+        "d": "La Comisión lo propone y el Parlamento lo aprueba directamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 312.2 TFUE establece que 'El marco financiero plurianual será establecido por el Consejo mediante reglamentos, con arreglo a un procedimiento legislativo especial. El Consejo se pronunciará por unanimidad, previa aprobación del Parlamento Europeo'.",
+      "ley": "TFUE, art. 312.2"
+    },
+    {
+      "id": "tema_05_test_31_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 310.4 TFUE establece que los créditos autorizados en el presupuesto serán ejecutados con arreglo a un reglamento. ¿Qué principio fundamental establece el mismo artículo respecto a los gastos?",
+      "options": {
+        "a": "Los gastos deben realizarse únicamente para objetivos de crecimiento económico",
+        "b": "Los gastos deberán ejecutarse siguiendo una gestión financiera sana y, en particular, los principios de economía y eficiencia",
+        "c": "Los gastos deben equilibrarse con los ingresos del ejercicio anterior",
+        "d": "Los gastos solo pueden comprometerse si existe la correspondiente fuente de financiación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 310.4 TFUE establece que 'Los créditos autorizados en el presupuesto serán ejecutados con arreglo al principio de gestión financiera sana. Los Estados miembros y la Unión cooperarán a fin de que los créditos autorizados sean utilizados siguiendo dicho principio'.",
+      "ley": "TFUE, art. 310.4"
+    },
+    {
+      "id": "tema_05_test_31_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 325 TFUE, ¿qué combatirán la Unión y los Estados miembros para proteger los intereses financieros de la Unión?",
+      "options": {
+        "a": "Solo el fraude fiscal de los ciudadanos europeos",
+        "b": "El fraude y toda actividad ilegal que afecte a los intereses financieros de la Unión, con medidas que sean disuasorias y que ofrezcan una protección efectiva en los Estados miembros",
+        "c": "Solo los delitos económicos transfronterizos en el ámbito aduanero",
+        "d": "Únicamente la evasión fiscal de las grandes empresas multinacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 325.1 TFUE establece que 'La Unión y los Estados miembros combatirán el fraude y toda actividad ilegal que afecte a los intereses financieros de la Unión mediante medidas adoptadas en virtud de lo dispuesto en el presente artículo, que deberán tener un efecto disuasorio y ser capaces de ofrecer una protección eficaz en los Estados miembros'.",
+      "ley": "TFUE, art. 325.1"
+    },
+    {
+      "id": "tema_05_test_31_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 312.1 TFUE, ¿cuál es el objetivo del marco financiero plurianual?",
+      "options": {
+        "a": "Establecer el presupuesto anual de la Unión",
+        "b": "Garantizar la evolución ordenada de los gastos de la Unión dentro del límite de sus recursos propios",
+        "c": "Fijar los recursos propios de la Unión para el período siguiente",
+        "d": "Coordinar las políticas fiscales de los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 312.1 TFUE establece que 'El marco financiero plurianual tendrá por objeto garantizar la evolución ordenada de los gastos de la Unión dentro del límite de sus recursos propios'.",
+      "ley": "TFUE, art. 312.1"
+    },
+    {
+      "id": "tema_05_test_31_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 314 TFUE establece el procedimiento presupuestario anual. ¿Cuándo debe presentar la Comisión el proyecto de presupuesto al Parlamento Europeo y al Consejo, a más tardar?",
+      "options": {
+        "a": "El 1 de septiembre del año anterior al ejercicio presupuestario",
+        "b": "El 1 de septiembre del año que precede al ejercicio presupuestario",
+        "c": "El 31 de marzo del año que precede al ejercicio presupuestario",
+        "d": "El 15 de junio del año que precede al ejercicio presupuestario"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 314.2 TFUE establece que 'La Comisión presentará al Parlamento Europeo y al Consejo una propuesta que contenga el proyecto de presupuesto... a más tardar el 1 de septiembre del año que precede al de la ejecución del presupuesto'.",
+      "ley": "TFUE, art. 314.2"
+    },
+    {
+      "id": "tema_05_test_31_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 315 TFUE, si el presupuesto no ha sido adoptado definitivamente al inicio del ejercicio, ¿qué régimen provisional se aplica?",
+      "options": {
+        "a": "Se suspende la ejecución de todos los gastos de la Unión",
+        "b": "Se podrán efectuar mensualmente gastos equivalentes como máximo a la doceava parte del total de los créditos del presupuesto del ejercicio anterior",
+        "c": "La Comisión puede ejecutar los gastos que estime necesarios sin límite máximo",
+        "d": "El Consejo autoriza los gastos mínimos imprescindibles por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 315 TFUE establece que si al inicio del ejercicio no se ha adoptado definitivamente el presupuesto 'se podrán efectuar mensualmente, por capítulo, gastos equivalentes como máximo a la doceava parte de los créditos abiertos en el correspondiente capítulo del presupuesto del ejercicio precedente'.",
+      "ley": "TFUE, art. 315"
+    },
+    {
+      "id": "tema_05_test_31_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 322 TFUE, ¿quiénes establecen el reglamento financiero que determina el procedimiento de elaboración y ejecución del presupuesto?",
+      "options": {
+        "a": "La Comisión directamente mediante decisión",
+        "b": "El Parlamento Europeo y el Consejo con arreglo al procedimiento legislativo ordinario, previa consulta al Tribunal de Cuentas",
+        "c": "El Consejo por unanimidad, previo informe del Tribunal de Cuentas",
+        "d": "El Tribunal de Cuentas con aprobación del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 322.1 TFUE establece que 'El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, y previa consulta al Tribunal de Cuentas, adoptarán mediante reglamentos el reglamento financiero'.",
+      "ley": "TFUE, art. 322.1"
+    },
+    {
+      "id": "tema_05_test_31_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 325.2 TFUE establece que los Estados miembros adoptarán para combatir el fraude las mismas medidas que para combatir el fraude que afecte a sus propios intereses financieros. ¿Qué principio subyace en esta disposición?",
+      "options": {
+        "a": "El principio de armonización normativa en materia penal",
+        "b": "El principio de asimilación: los intereses financieros de la Unión deben protegerse como si fueran intereses propios",
+        "c": "El principio de subsidiariedad aplicado a la lucha contra el fraude",
+        "d": "El principio de cooperación reforzada en materia fiscal"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 325.2 TFUE refleja el principio de asimilación: 'Para combatir el fraude que afecte a los intereses financieros de la Unión, los Estados miembros adoptarán las mismas medidas que para combatir el fraude que afecte a sus propios intereses financieros'.",
+      "ley": "TFUE, art. 325.2"
+    },
+    {
+      "id": "tema_05_test_31_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 310.3 TFUE, ¿qué no podrá autorizar el presupuesto?",
+      "options": {
+        "a": "Gastos superiores a los ingresos previstos",
+        "b": "La deuda de la Unión o créditos superiores a sus ingresos propios",
+        "c": "Gastos en materias de competencia exclusiva de los Estados miembros",
+        "d": "Subsidios directos a ciudadanos individuales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 310.3 TFUE establece que 'La consecución de un equilibrio entre ingresos y gastos deberá respetar el principio de unidad presupuestaria' y que 'el presupuesto deberá estar equilibrado en cuanto a ingresos y gastos'. No puede autorizar endeudamiento por encima de los recursos propios.",
+      "ley": "TFUE, art. 310"
+    },
+    {
+      "id": "tema_05_test_31_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 316 TFUE establece en qué moneda debe presentarse el presupuesto de la Unión:",
+      "options": {
+        "a": "En euros",
+        "b": "En derechos especiales de giro",
+        "c": "En la moneda del Estado que ejerce la presidencia del Consejo",
+        "d": "En cada divisa nacional de los Estados miembros"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 316 TFUE establece que 'El presupuesto se establecerá en la unidad monetaria utilizada para la elaboración y ejecución del presupuesto', que es el euro.",
+      "ley": "TFUE, art. 316"
+    },
+    {
+      "id": "tema_05_test_31_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 312.3 TFUE prevé una cláusula pasarela para el marco financiero plurianual. ¿Qué permite al Consejo Europeo hacer uso de ella?",
+      "options": {
+        "a": "Adoptar el marco financiero por mayoría cualificada sin consultar al Parlamento",
+        "b": "Adoptar una decisión que autorice al Consejo a pronunciarse por mayoría cualificada al adoptar el reglamento del marco financiero plurianual",
+        "c": "Prorrogar automáticamente el marco financiero precedente si no se alcanza unanimidad",
+        "d": "Dividir el marco financiero en marcos bianuales cuando haya dificultades"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 312.3 TFUE establece que 'El Consejo Europeo podrá adoptar por unanimidad una decisión que autorice al Consejo a pronunciarse por mayoría cualificada' al adoptar el reglamento que establece el marco financiero plurianual.",
+      "ley": "TFUE, art. 312.3"
+    },
+    {
+      "id": "tema_05_test_31_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 323 TFUE establece que el Parlamento Europeo, el Consejo y la Comisión se asegurarán de que estén disponibles los medios financieros para que la Unión pueda cumplir sus obligaciones jurídicas. ¿En qué tipo de actos se aplica?",
+      "options": {
+        "a": "Solo en actos de carácter legislativo",
+        "b": "En los actos adoptados por el Parlamento Europeo y el Consejo y en los actos adoptados por el Consejo conforme a las disposiciones del TFUE",
+        "c": "Solo en actos presupuestarios stricto sensu",
+        "d": "En todos los actos administrativos de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 323 TFUE establece que el Parlamento Europeo, el Consejo y la Comisión 'se asegurarán de que estén disponibles los medios financieros necesarios para que la Unión pueda cumplir sus obligaciones jurídicas frente a terceros' en los actos adoptados por ellos.",
+      "ley": "TFUE, art. 323"
+    },
+    {
+      "id": "tema_05_test_31_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 311 TFUE, ¿cómo se financiará la Unión?",
+      "options": {
+        "a": "Mediante contribuciones obligatorias de los Estados miembros basadas en su PIB",
+        "b": "Sin perjuicio de los demás ingresos, mediante recursos propios",
+        "c": "Mediante impuestos europeos directos a los ciudadanos",
+        "d": "Mediante emisión de bonos europeos en los mercados de capitales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 311 TFUE establece que 'La Unión se dotará de los medios necesarios para alcanzar sus objetivos y para llevar a cabo sus políticas. Sin perjuicio de los demás ingresos, el presupuesto se financiará íntegramente con cargo a los recursos propios'.",
+      "ley": "TFUE, art. 311"
+    }
+  ]
+}

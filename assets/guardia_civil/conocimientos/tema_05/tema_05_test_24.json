@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 24",
+  "preguntas": [
+    {
+      "id": "tema_05_test_24_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.1 TFUE, ¿qué quedará asegurado dentro de la Unión?",
+      "options": {
+        "a": "La libertad de establecimiento para las empresas europeas",
+        "b": "La libre circulación de los trabajadores dentro de la Unión",
+        "c": "La libre prestación de servicios en todo el territorio de la Unión",
+        "d": "La libre circulación de capitales entre los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.1 TFUE establece de forma taxativa que 'Quedará asegurada la libre circulación de los trabajadores dentro de la Unión'.",
+      "ley": "TFUE, art. 45.1"
+    },
+    {
+      "id": "tema_05_test_24_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.2 TFUE, ¿qué supondrá la libre circulación de trabajadores?",
+      "options": {
+        "a": "La armonización de los salarios en todos los Estados miembros",
+        "b": "La abolición de toda discriminación por razón de la nacionalidad entre los trabajadores de los Estados miembros, con respecto al empleo, la retribución y las demás condiciones de trabajo",
+        "c": "El derecho de los trabajadores a percibir las mismas prestaciones sociales en cualquier Estado miembro",
+        "d": "La supresión de los trámites para obtener permisos de trabajo en otros Estados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.2 TFUE establece que la libre circulación 'supondrá la abolición de toda discriminación por razón de la nacionalidad entre los trabajadores de los Estados miembros, con respecto al empleo, la retribución y las demás condiciones de trabajo'.",
+      "ley": "TFUE, art. 45.2"
+    },
+    {
+      "id": "tema_05_test_24_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 45.3 TFUE establece los derechos concretos de los trabajadores en el marco de la libre circulación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Derecho a responder a ofertas efectivas de trabajo",
+        "b": "Derecho a desplazarse libremente en el territorio de los Estados miembros",
+        "c": "Derecho a residir en un Estado para ejercer un empleo conforme a las disposiciones aplicables al empleo de trabajadores nacionales",
+        "d": "Derecho a acceder automáticamente a los empleos en la administración pública de otro Estado miembro"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 45.4 TFUE establece expresamente que 'Las disposiciones del presente artículo no serán aplicables a los empleos en la administración pública'. Los empleos en la administración pública quedan excluidos del principio de libre circulación de trabajadores.",
+      "ley": "TFUE, art. 45.3 y 45.4"
+    },
+    {
+      "id": "tema_05_test_24_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.3 TFUE, la libre circulación de trabajadores puede estar limitada por razones de:",
+      "options": {
+        "a": "Capacitación profesional insuficiente del trabajador",
+        "b": "Orden público, seguridad y salud públicas",
+        "c": "Política de empleo nacional del Estado de destino",
+        "d": "Niveles de desempleo en el sector del Estado de destino"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.3 TFUE establece que los derechos de los trabajadores se ejercerán 'Sin perjuicio de las limitaciones justificadas por razones de orden público, seguridad y salud públicas'.",
+      "ley": "TFUE, art. 45.3"
+    },
+    {
+      "id": "tema_05_test_24_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 47 TFUE, ¿qué facilitarán los Estados miembros en el marco de un programa común?",
+      "options": {
+        "a": "La formación profesional de los desempleados",
+        "b": "El intercambio de trabajadores jóvenes",
+        "c": "La homologación de diplomas universitarios",
+        "d": "La creación de agencias de empleo transfronterizas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 47 TFUE establece que 'Los Estados miembros facilitarán, en el marco de un programa común, el intercambio de trabajadores jóvenes'.",
+      "ley": "TFUE, art. 47"
+    },
+    {
+      "id": "tema_05_test_24_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 48 TFUE regula la seguridad social de los trabajadores migrantes. ¿Qué sistema crea el Parlamento Europeo y el Consejo en este ámbito?",
+      "options": {
+        "a": "Un sistema de pensión mínima europea garantizada para todos los trabajadores",
+        "b": "Un sistema que permite la acumulación de períodos tomados en consideración por las distintas legislaciones nacionales y el pago de prestaciones a personas que residan en los territorios de los Estados miembros",
+        "c": "Un sistema de seguridad social europeo unificado que sustituye a los sistemas nacionales",
+        "d": "Un sistema de ayudas al desempleo para trabajadores migrantes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48 TFUE establece un sistema que garantiza la acumulación de períodos computables según distintas legislaciones nacionales y el pago de prestaciones a personas que residan en los territorios de los Estados miembros.",
+      "ley": "TFUE, art. 48"
+    },
+    {
+      "id": "tema_05_test_24_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 49 TFUE prohíbe las restricciones a la libertad de establecimiento. ¿Qué comprende la libertad de establecimiento según ese mismo artículo?",
+      "options": {
+        "a": "Solo la apertura de empresas o sociedades en otro Estado miembro",
+        "b": "El acceso a actividades no asalariadas y su ejercicio, así como la constitución y gestión de empresas, en las condiciones fijadas por la legislación del país de establecimiento para sus propios nacionales",
+        "c": "El derecho a ejercer cualquier actividad profesional sin sujeción a la legislación del Estado de acogida",
+        "d": "El derecho a beneficiarse de las mismas condiciones fiscales que los nacionales del Estado de establecimiento"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 49 TFUE establece que 'La libertad de establecimiento comprenderá el acceso a las actividades no asalariadas y su ejercicio, así como la constitución y gestión de empresas y, especialmente, de sociedades, en las condiciones fijadas por la legislación del país de establecimiento para sus propios nacionales'.",
+      "ley": "TFUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_24_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 51 TFUE prevé una excepción a la libertad de establecimiento. ¿A qué actividades no se aplica el capítulo de establecimiento?",
+      "options": {
+        "a": "A las profesiones sanitarias y jurídicas",
+        "b": "A las actividades relacionadas, aunque sea de manera ocasional, con el ejercicio del poder público",
+        "c": "A las actividades que requieren autorización especial del Estado de acogida",
+        "d": "A las actividades de interés económico general"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 51 TFUE establece que sus disposiciones 'no se aplicarán, en lo que respecta al Estado miembro interesado, a las actividades que, en dicho Estado, estén relacionadas, aunque solo sea de manera ocasional, con el ejercicio del poder público'.",
+      "ley": "TFUE, art. 51"
+    },
+    {
+      "id": "tema_05_test_24_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 52 TFUE establece una excepción a la libertad de establecimiento similar a la del art. 45.3 para trabajadores. ¿Por qué razones puede aplicarse un régimen especial para extranjeros?",
+      "options": {
+        "a": "Por razones económicas o de política de empleo nacional",
+        "b": "Por razones de orden público, seguridad y salud públicas",
+        "c": "Por razones de insuficiente cualificación del establecido",
+        "d": "Por decisión unilateral del Estado miembro sin motivación"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 52.1 TFUE establece que las disposiciones del capítulo 'no prejuzgarán la aplicabilidad de las disposiciones legales, reglamentarias y administrativas que prevean un régimen especial para los extranjeros y que estén justificadas por razones de orden público, seguridad y salud públicas'.",
+      "ley": "TFUE, art. 52.1"
+    },
+    {
+      "id": "tema_05_test_24_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 53 TFUE, ¿qué adoptarán el Parlamento Europeo y el Consejo para facilitar el acceso a las actividades no asalariadas?",
+      "options": {
+        "a": "Reglamentos de armonización de las condiciones de trabajo en todos los Estados miembros",
+        "b": "Directivas para el reconocimiento mutuo de diplomas, certificados y otros títulos, así como para la coordinación de disposiciones relativas al acceso a las actividades por cuenta propia",
+        "c": "Decisiones del Consejo que obliguen a los Estados a reconocer automáticamente todas las cualificaciones",
+        "d": "Programas de intercambio de profesionales financiados por el presupuesto de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 53.1 TFUE establece que 'el Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, adoptarán directivas para el reconocimiento mutuo de diplomas, certificados y otros títulos, así como para la coordinación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas al acceso a las actividades por cuenta propia y a su ejercicio'.",
+      "ley": "TFUE, art. 53.1"
+    },
+    {
+      "id": "tema_05_test_24_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 54 TFUE equipara a las personas físicas en materia de libertad de establecimiento. ¿Qué tipo de sociedades quedarán equiparadas a las personas físicas nacionales de los Estados miembros?",
+      "options": {
+        "a": "Solo las grandes multinacionales europeas",
+        "b": "Las sociedades constituidas de conformidad con la legislación de un Estado miembro y cuya sede social, administración central o centro de actividad principal se encuentre dentro de la Unión",
+        "c": "Solo las sociedades que coticen en bolsas de valores europeas",
+        "d": "Las sociedades con más del 50% de capital europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 54 TFUE establece que 'Las sociedades constituidas de conformidad con la legislación de un Estado miembro y cuya sede social, administración central o centro de actividad principal se encuentre dentro de la Unión quedarán equiparadas, a efectos de aplicación de las disposiciones del presente capítulo, a las personas físicas nacionales de los Estados miembros'.",
+      "ley": "TFUE, art. 54"
+    },
+    {
+      "id": "tema_05_test_24_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 54 TFUE define el concepto de 'sociedades' a efectos del capítulo de establecimiento. ¿Qué quedan excluidas de esa definición?",
+      "options": {
+        "a": "Las sociedades cooperativas",
+        "b": "Las personas jurídicas de Derecho público",
+        "c": "Las que no persigan un fin lucrativo",
+        "d": "Las pequeñas y medianas empresas sin personalidad jurídica propia"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 54 TFUE define las sociedades como 'sociedades de Derecho civil o mercantil, incluso las sociedades cooperativas, y las demás personas jurídicas de Derecho público o privado, con excepción de las que no persigan un fin lucrativo'.",
+      "ley": "TFUE, art. 54"
+    },
+    {
+      "id": "tema_05_test_24_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 46 TFUE establece las medidas para hacer efectiva la libre circulación de trabajadores. ¿Con arreglo a qué procedimiento se adoptan y qué tipos de actos se utilizan?",
+      "options": {
+        "a": "Procedimiento legislativo ordinario, mediante directivas o reglamentos",
+        "b": "Procedimiento legislativo especial por unanimidad del Consejo",
+        "c": "Decisiones de la Comisión sin intervención del Parlamento",
+        "d": "Procedimiento ordinario con aprobación de todos los Estados miembros"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 46 TFUE establece que el Parlamento Europeo y el Consejo adoptarán 'con arreglo al procedimiento legislativo ordinario y previa consulta al Comité Económico y Social, mediante directivas o reglamentos' las medidas necesarias para hacer efectiva la libre circulación.",
+      "ley": "TFUE, art. 46"
+    },
+    {
+      "id": "tema_05_test_24_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 55 TFUE extiende a los nacionales de otros Estados miembros el trato de nacional respecto a la participación en el capital de las sociedades. ¿En qué condiciones?",
+      "options": {
+        "a": "Solo si poseen menos del 10% del capital social",
+        "b": "Sin condiciones adicionales: se les aplica el trato de nacional sin restricciones",
+        "c": "Sin perjuicio de la aplicación de las restantes disposiciones de los Tratados",
+        "d": "Solo en los sectores no estratégicos definidos por la Comisión"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 55 TFUE establece que los Estados miembros aplicarán a los nacionales de otros Estados miembros el trato de nacional en cuanto a la participación en el capital de las sociedades, 'sin perjuicio de la aplicación de las restantes disposiciones de los Tratados'.",
+      "ley": "TFUE, art. 55"
+    },
+    {
+      "id": "tema_05_test_24_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 48 TFUE prevé que cuando un miembro del Consejo declare que un proyecto de acto legislativo sobre seguridad social perjudica a aspectos importantes de su sistema, puede solicitar que el asunto se remita al Consejo Europeo. ¿En qué plazo debe pronunciarse el Consejo Europeo y cuáles son sus opciones?",
+      "options": {
+        "a": "En un plazo de seis meses, puede devolver el proyecto o dejar que caduque",
+        "b": "En un plazo de cuatro meses, puede devolver el proyecto al Consejo (poniendo fin a la suspensión) o no pronunciarse o pedir nueva propuesta (en cuyo caso el acto se considera no adoptado)",
+        "c": "En un plazo de tres meses, debe aprobar el acto por unanimidad o rechazarlo",
+        "d": "En un plazo de dos meses, puede modificar el proyecto y reenviarlo al Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48 TFUE establece que 'Previa deliberación y en un plazo de cuatro meses a partir de dicha suspensión, el Consejo Europeo: a) devolverá el proyecto al Consejo, poniendo fin con ello a la suspensión del procedimiento legislativo ordinario, o bien b) no se pronunciará o pedirá a la Comisión que presente una nueva propuesta. En tal caso, el acto propuesto inicialmente se considerará no adoptado'.",
+      "ley": "TFUE, art. 48"
+    },
+    {
+      "id": "tema_05_test_24_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 49 TFUE, la prohibición de restricciones a la libertad de establecimiento se extiende también a las restricciones relativas a la apertura de:",
+      "options": {
+        "a": "Centros comerciales en zonas protegidas",
+        "b": "Agencias, sucursales o filiales por los nacionales de un Estado miembro establecidos en el territorio de otro Estado miembro",
+        "c": "Empresas de más de 50 trabajadores",
+        "d": "Negocios en sectores regulados sin autorización previa del Estado de acogida"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 49 TFUE establece que 'Dicha prohibición se extenderá igualmente a las restricciones relativas a la apertura de agencias, sucursales o filiales por los nacionales de un Estado miembro establecidos en el territorio de otro Estado miembro'.",
+      "ley": "TFUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_24_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 53.2 TFUE, la supresión de restricciones en las profesiones médicas, paramédicas y farmacéuticas quedará subordinada a:",
+      "options": {
+        "a": "La aprobación de los colegios profesionales europeos",
+        "b": "La coordinación de las condiciones exigidas para su ejercicio en los diferentes Estados miembros",
+        "c": "Un período de prueba de cinco años en el Estado de destino",
+        "d": "La superación de un examen de habilitación europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 53.2 TFUE establece que 'En cuanto a las profesiones médicas, paramédicas y farmacéuticas, la progresiva supresión de las restricciones quedará subordinada a la coordinación de las condiciones exigidas para su ejercicio en los diferentes Estados miembros'.",
+      "ley": "TFUE, art. 53.2"
+    },
+    {
+      "id": "tema_05_test_24_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Título IV del TFUE regula la 'Libre circulación de personas, servicios y capitales'. ¿Cuántos capítulos tiene?",
+      "options": {
+        "a": "Dos capítulos: trabajadores y servicios",
+        "b": "Tres capítulos: trabajadores, servicios y capitales",
+        "c": "Cuatro capítulos: trabajadores, establecimiento, servicios y capital y pagos",
+        "d": "Cinco capítulos: trabajadores, establecimiento, servicios, capitales y coordinación"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El Título IV del TFUE tiene cuatro capítulos: Capítulo I (Trabajadores, arts. 45-48), Capítulo II (Derecho de establecimiento, arts. 49-55), Capítulo III (Servicios, arts. 56-62) y Capítulo IV (Capital y pagos, arts. 63-66).",
+      "ley": "TFUE, Título IV"
+    },
+    {
+      "id": "tema_05_test_24_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 50 TFUE establece que el Parlamento Europeo y el Consejo decidirán mediante directivas para alcanzar la libertad de establecimiento. ¿Qué órganos ejercerán las funciones atribuidas a ellos en colaboración con las administraciones nacionales?",
+      "options": {
+        "a": "El Tribunal de Justicia y el Comité de las Regiones",
+        "b": "El Parlamento Europeo, el Consejo y la Comisión",
+        "c": "La Comisión y el Banco Central Europeo",
+        "d": "El Comité Económico y Social y el Comité de las Regiones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 50.2 TFUE establece que 'El Parlamento Europeo, el Consejo y la Comisión ejercerán las funciones que les atribuyen las disposiciones precedentes' para alcanzar la libertad de establecimiento.",
+      "ley": "TFUE, art. 50.2"
+    },
+    {
+      "id": "tema_05_test_24_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 45.4 TFUE establece una exclusión a la libre circulación de trabajadores. ¿A qué empleos no se aplica este principio?",
+      "options": {
+        "a": "A los empleos en empresas con más de 250 trabajadores",
+        "b": "A los empleos en la administración pública",
+        "c": "A los empleos en sectores estratégicos como defensa y energía",
+        "d": "A los empleos temporales o estacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.4 TFUE establece que 'Las disposiciones del presente artículo no serán aplicables a los empleos en la administración pública'. Esta es la única exclusión expresa establecida en el propio artículo.",
+      "ley": "TFUE, art. 45.4"
+    }
+  ]
+}

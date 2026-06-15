@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 22",
+  "preguntas": [
+    {
+      "id": "tema_05_test_22_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 18 TFUE prohíbe la discriminación por razón de la nacionalidad. ¿En qué ámbito se aplica esta prohibición?",
+      "options": {
+        "a": "Solo en el empleo y la Seguridad Social",
+        "b": "Solo en el mercado interior",
+        "c": "En el ámbito de aplicación de los Tratados, sin perjuicio de las disposiciones particulares previstas en los mismos",
+        "d": "En todos los ámbitos de la vida social de los Estados miembros"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 18 TFUE establece que 'En el ámbito de aplicación de los Tratados, y sin perjuicio de las disposiciones particulares previstas en los mismos, se prohibirá toda discriminación por razón de la nacionalidad'.",
+      "ley": "TFUE, art. 18"
+    },
+    {
+      "id": "tema_05_test_22_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.1 TFUE, ¿qué institución puede adoptar acciones para luchar contra la discriminación por motivos de sexo, raza, religión, discapacidad, edad u orientación sexual?",
+      "options": {
+        "a": "La Comisión Europea por iniciativa propia",
+        "b": "El Consejo, por unanimidad con arreglo a un procedimiento legislativo especial, y previa aprobación del Parlamento Europeo",
+        "c": "El Parlamento Europeo por mayoría cualificada",
+        "d": "El Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.1 TFUE establece que 'el Consejo, por unanimidad con arreglo a un procedimiento legislativo especial, y previa aprobación del Parlamento Europeo, podrá adoptar acciones adecuadas para luchar contra la discriminación'.",
+      "ley": "TFUE, art. 19.1"
+    },
+    {
+      "id": "tema_05_test_22_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 20 TFUE crea la ciudadanía de la Unión. ¿Cuándo se es ciudadano de la Unión?",
+      "options": {
+        "a": "Cuando se ha residido legalmente en un Estado miembro durante cinco años",
+        "b": "Cuando se ostenta la nacionalidad de un Estado miembro",
+        "c": "Cuando se ha registrado como ciudadano europeo en el Consulado correspondiente",
+        "d": "Cuando se habla al menos dos lenguas oficiales de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.1 TFUE establece que 'Será ciudadano de la Unión toda persona que ostente la nacionalidad de un Estado miembro. La ciudadanía de la Unión se añade a la ciudadanía nacional sin sustituirla'.",
+      "ley": "TFUE, art. 20.1"
+    },
+    {
+      "id": "tema_05_test_22_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 20.2 TFUE enumera derechos de los ciudadanos de la Unión. ¿Cuál de los siguientes NO figura en esa enumeración?",
+      "options": {
+        "a": "El derecho a circular y residir libremente en el territorio de los Estados miembros",
+        "b": "El derecho a ser elector y elegible en elecciones al Parlamento Europeo y municipales en el Estado de residencia",
+        "c": "El derecho a obtener trabajo en cualquier Estado miembro en igualdad de condiciones con los nacionales",
+        "d": "El derecho de petición al Parlamento Europeo y de recurso al Defensor del Pueblo Europeo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 20.2 TFUE enumera cuatro derechos: libre circulación y residencia (a), sufragio activo y pasivo (b), protección diplomática y consular (c) y petición/Defensor del Pueblo/lengua (d). El derecho al trabajo en igualdad de condiciones se regula en el art. 45 TFUE, no en el art. 20.",
+      "ley": "TFUE, art. 20.2"
+    },
+    {
+      "id": "tema_05_test_22_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 21.3 TFUE, cuando se requiere una acción para facilitar la libre circulación y residencia de los ciudadanos en materia de seguridad social o protección social, ¿qué procedimiento se aplica?",
+      "options": {
+        "a": "Procedimiento legislativo ordinario",
+        "b": "El Consejo decide por unanimidad previa consulta al Parlamento Europeo",
+        "c": "La Comisión puede decidir directamente mediante reglamento",
+        "d": "El Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 21.3 TFUE establece que 'el Consejo podrá adoptar, con arreglo a un procedimiento legislativo especial, medidas sobre seguridad social o protección social. El Consejo se pronunciará por unanimidad previa consulta al Parlamento Europeo'.",
+      "ley": "TFUE, art. 21.3"
+    },
+    {
+      "id": "tema_05_test_22_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 22.1 TFUE, el derecho de sufragio activo y pasivo en las elecciones municipales en el Estado de residencia corresponde a:",
+      "options": {
+        "a": "Solo a los ciudadanos de la Unión que lleven más de cinco años residiendo en ese Estado",
+        "b": "Todo ciudadano de la Unión que resida en un Estado miembro del que no sea nacional",
+        "c": "Solo a los ciudadanos que hayan aprendido la lengua oficial del Estado de residencia",
+        "d": "A todos los residentes legales en el Estado, independientemente de su nacionalidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 22.1 TFUE establece que 'Todo ciudadano de la Unión que resida en un Estado miembro del que no sea nacional tendrá derecho a ser elector y elegible en las elecciones municipales del Estado miembro en el que resida'.",
+      "ley": "TFUE, art. 22.1"
+    },
+    {
+      "id": "tema_05_test_22_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 23 TFUE, un ciudadano de la Unión en un tercer país donde no esté representado su Estado puede acogerse a la protección diplomática y consular de:",
+      "options": {
+        "a": "Solo del Estado de la Unión más cercano geográficamente",
+        "b": "Cualquier Estado miembro de la Unión",
+        "c": "Solo de los Estados miembros que sean miembros permanentes del Consejo de Seguridad de la ONU",
+        "d": "Solo de los países con los que tenga acuerdo bilateral su Estado miembro"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 23 TFUE establece que 'Todo ciudadano de la Unión podrá acogerse, en el territorio de un tercer país en el que no esté representado el Estado miembro del que sea nacional, a la protección de las autoridades diplomáticas y consulares de cualquier Estado miembro'.",
+      "ley": "TFUE, art. 23"
+    },
+    {
+      "id": "tema_05_test_22_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 24 TFUE, ¿qué procedimiento regula las condiciones de la iniciativa ciudadana europea del art. 11.4 TUE?",
+      "options": {
+        "a": "El Consejo Europeo fija las condiciones por unanimidad",
+        "b": "El Parlamento Europeo y el Consejo adoptan disposiciones mediante reglamentos, con arreglo al procedimiento legislativo ordinario",
+        "c": "La Comisión establece el procedimiento mediante decisión",
+        "d": "Los Estados miembros lo acuerdan en Conferencia intergubernamental"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 24 TFUE establece que 'El Parlamento Europeo y el Consejo adoptarán mediante reglamentos, con arreglo al procedimiento legislativo ordinario, las disposiciones relativas a los procedimientos y condiciones preceptivos para la presentación de una iniciativa ciudadana'.",
+      "ley": "TFUE, art. 24"
+    },
+    {
+      "id": "tema_05_test_22_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 25 TFUE, ¿cada cuántos años informa la Comisión sobre la aplicación de las disposiciones sobre ciudadanía de la Unión?",
+      "options": {
+        "a": "Cada año",
+        "b": "Cada dos años",
+        "c": "Cada tres años",
+        "d": "Cada cinco años, coincidiendo con las elecciones europeas"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 25 TFUE establece que 'Cada tres años la Comisión informará al Parlamento Europeo, al Consejo y al Comité Económico y Social sobre la aplicación de las disposiciones de la presente parte'.",
+      "ley": "TFUE, art. 25"
+    },
+    {
+      "id": "tema_05_test_22_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 24 TFUE, ¿a qué institución puede formular peticiones todo ciudadano de la Unión?",
+      "options": {
+        "a": "Al Consejo Europeo",
+        "b": "Al Parlamento Europeo",
+        "c": "A la Comisión Europea",
+        "d": "Al Tribunal de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 24 TFUE establece que 'Todo ciudadano de la Unión tendrá el derecho de petición ante el Parlamento Europeo'.",
+      "ley": "TFUE, art. 24"
+    },
+    {
+      "id": "tema_05_test_22_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 25 TFUE, ¿qué puede adoptar el Consejo para completar los derechos de los ciudadanos enumerados en el art. 20.2 TFUE?",
+      "options": {
+        "a": "Reglamentos por mayoría cualificada sin consulta al Parlamento",
+        "b": "Disposiciones por unanimidad con arreglo a procedimiento legislativo especial y previa aprobación del Parlamento; entran en vigor cuando los Estados miembros las aprueben conforme a sus normas constitucionales",
+        "c": "Directivas con arreglo al procedimiento legislativo ordinario",
+        "d": "Decisiones del Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 25 TFUE establece que el Consejo 'por unanimidad con arreglo a un procedimiento legislativo especial, y previa aprobación del Parlamento Europeo, podrá adoptar disposiciones encaminadas a completar los derechos. Dichas disposiciones entrarán en vigor cuando hayan sido aprobadas por los Estados miembros de conformidad con sus respectivas normas constitucionales'.",
+      "ley": "TFUE, art. 25"
+    },
+    {
+      "id": "tema_05_test_22_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 24 TFUE reconoce a los ciudadanos el derecho a dirigirse a las instituciones en cualquiera de las lenguas de los Tratados y recibir contestación en esa misma lengua. ¿En qué artículo del TUE se encuentran enumeradas esas lenguas?",
+      "options": {
+        "a": "Art. 52 TUE",
+        "b": "Art. 54 TUE",
+        "c": "Art. 55.1 TUE",
+        "d": "Art. 49 TUE"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 24 TFUE establece que los ciudadanos pueden dirigirse a las instituciones 'en una de las lenguas mencionadas en el artículo 55.1 de dicho Tratado', que es el artículo del TUE donde se enumeran las 23 lenguas auténticas.",
+      "ley": "TFUE, art. 24 y TUE art. 55.1"
+    },
+    {
+      "id": "tema_05_test_22_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre la ciudadanía de la Unión según el art. 20.1 TFUE:",
+      "options": {
+        "a": "La ciudadanía de la Unión sustituye a la ciudadanía nacional cuando se ejerce en otro Estado miembro",
+        "b": "La ciudadanía de la Unión se añade a la ciudadanía nacional sin sustituirla",
+        "c": "La ciudadanía de la Unión es independiente de la ciudadanía nacional",
+        "d": "La ciudadanía de la Unión puede perderse aunque se mantenga la ciudadanía nacional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.1 TFUE establece expresamente que 'La ciudadanía de la Unión se añade a la ciudadanía nacional sin sustituirla'. La ciudadanía europea es acumulativa y complementaria, nunca sustitutiva.",
+      "ley": "TFUE, art. 20.1"
+    },
+    {
+      "id": "tema_05_test_22_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 22.2 TFUE, el derecho de sufragio activo y pasivo en las elecciones al Parlamento Europeo en el Estado de residencia puede tener excepciones. ¿Quién puede establecerlas y cómo?",
+      "options": {
+        "a": "El Estado miembro de forma autónoma por ley ordinaria",
+        "b": "El Consejo, por unanimidad con arreglo a un procedimiento legislativo especial y previa consulta al Parlamento Europeo, cuando lo justifiquen problemas específicos",
+        "c": "El Tribunal de Justicia mediante sentencia en cada caso",
+        "d": "La Comisión mediante decisión motivada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 22.2 TFUE establece que el Consejo puede adoptar las modalidades 'por unanimidad con arreglo a un procedimiento legislativo especial, y previa consulta al Parlamento Europeo; dichas modalidades podrán establecer excepciones cuando así lo justifiquen problemas específicos de un Estado miembro'.",
+      "ley": "TFUE, art. 22.2"
+    },
+    {
+      "id": "tema_05_test_22_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 21.1 TFUE, el derecho de libre circulación y residencia de los ciudadanos de la Unión está sujeto a:",
+      "options": {
+        "a": "Autorización previa del Estado de destino",
+        "b": "Las limitaciones y condiciones previstas en los Tratados y en las disposiciones adoptadas para su aplicación",
+        "c": "El requisito de demostrar suficiencia de recursos económicos",
+        "d": "La reciprocidad entre los Estados miembros de origen y destino"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 21.1 TFUE establece que 'Todo ciudadano de la Unión tendrá derecho a circular y residir libremente en el territorio de los Estados miembros, con sujeción a las limitaciones y condiciones previstas en los Tratados y en las disposiciones adoptadas para su aplicación'.",
+      "ley": "TFUE, art. 21.1"
+    },
+    {
+      "id": "tema_05_test_22_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.2 TFUE, los ciudadanos de la Unión tienen el derecho de recurrir al:",
+      "options": {
+        "a": "Tribunal Europeo de Derechos Humanos",
+        "b": "Defensor del Pueblo Europeo",
+        "c": "Comisario Europeo de Justicia",
+        "d": "Supervisor Europeo de Protección de Datos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.2.d) TFUE establece entre los derechos de los ciudadanos el de 'recurrir al Defensor del Pueblo Europeo'. El Defensor del Pueblo investiga casos de mala administración de las instituciones de la Unión.",
+      "ley": "TFUE, art. 20.2.d)"
+    },
+    {
+      "id": "tema_05_test_22_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 19.2 TFUE prevé un procedimiento diferente al del art. 19.1 para luchar contra la discriminación. ¿Cuál es?",
+      "options": {
+        "a": "El mismo procedimiento, por unanimidad del Consejo con aprobación del Parlamento",
+        "b": "El Parlamento Europeo y el Consejo pueden adoptar principios básicos de medidas de estímulo mediante procedimiento legislativo ordinario, con exclusión de armonización",
+        "c": "La Comisión puede actuar por iniciativa propia sin intervención del Consejo",
+        "d": "El Consejo Europeo puede adoptar directrices vinculantes por mayoría cualificada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.2 TFUE establece que 'el Parlamento Europeo y el Consejo podrán adoptar, con arreglo al procedimiento legislativo ordinario, los principios básicos de las medidas de la Unión de estímulo, con exclusión de toda armonización'.",
+      "ley": "TFUE, art. 19.2"
+    },
+    {
+      "id": "tema_05_test_22_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. La Segunda Parte del TFUE regula 'No discriminación y ciudadanía de la Unión'. ¿Cuántos artículos comprende?",
+      "options": {
+        "a": "Del art. 18 al art. 20 (3 artículos)",
+        "b": "Del art. 18 al art. 25 (8 artículos)",
+        "c": "Del art. 18 al art. 30 (13 artículos)",
+        "d": "Del art. 20 al art. 25 (6 artículos)"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). La Segunda Parte del TFUE (No discriminación y ciudadanía de la Unión) comprende del art. 18 al art. 25: discriminación por nacionalidad (18), lucha contra discriminación (19), ciudadanía (20), libre circulación (21), elecciones municipales y europeas (22), protección consular (23), petición y Defensor del Pueblo (24) e informes de la Comisión (25).",
+      "ley": "TFUE, arts. 18-25"
+    },
+    {
+      "id": "tema_05_test_22_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 23 TFUE establece la protección diplomática y consular. ¿Qué tomarán los Estados miembros para garantizar dicha protección?",
+      "options": {
+        "a": "Solo acuerdos bilaterales entre los Estados miembros más próximos",
+        "b": "Las disposiciones necesarias y entablarán las negociaciones internacionales requeridas",
+        "c": "Decisiones del Consejo de la Unión Europea por mayoría cualificada",
+        "d": "Protocolos adicionales al TUE ratificados por todos los Estados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 23 TFUE establece que 'Los Estados miembros tomarán las disposiciones necesarias y entablarán las negociaciones internacionales requeridas para garantizar dicha protección'.",
+      "ley": "TFUE, art. 23"
+    },
+    {
+      "id": "tema_05_test_22_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.2 TFUE, ¿quién establece las normas sobre protección de datos personales en el ámbito del Derecho de la Unión?",
+      "options": {
+        "a": "La Comisión mediante reglamentos delegados",
+        "b": "El Parlamento Europeo y el Consejo con arreglo al procedimiento legislativo ordinario",
+        "c": "El Consejo por unanimidad con arreglo a procedimiento legislativo especial",
+        "d": "El Supervisor Europeo de Protección de Datos mediante directrices vinculantes"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.2 TFUE establece que 'El Parlamento Europeo y el Consejo establecerán, con arreglo al procedimiento legislativo ordinario, las normas sobre protección de las personas físicas respecto del tratamiento de datos de carácter personal'.",
+      "ley": "TFUE, art. 16.2"
+    }
+  ]
+}

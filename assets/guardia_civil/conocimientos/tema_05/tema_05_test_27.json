@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 27",
+  "preguntas": [
+    {
+      "id": "tema_05_test_27_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 82.1 TFUE, ¿en qué principio se basa la cooperación judicial en materia penal en la Unión?",
+      "options": {
+        "a": "El principio de armonización de las legislaciones penales",
+        "b": "El principio de reconocimiento mutuo de las sentencias y resoluciones judiciales",
+        "c": "El principio de subsidiariedad aplicado al Derecho penal",
+        "d": "El principio de proporcionalidad en las sanciones penales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 82.1 TFUE establece que 'La cooperación judicial en materia penal en la Unión se basará en el principio de reconocimiento mutuo de las sentencias y resoluciones judiciales'.",
+      "ley": "TFUE, art. 82.1"
+    },
+    {
+      "id": "tema_05_test_27_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 83.1 TFUE enumera los ámbitos delictivos de especial gravedad donde el Parlamento Europeo y el Consejo pueden establecer normas mínimas. Señale cuál de los siguientes NO figura en esa lista:",
+      "options": {
+        "a": "Terrorismo y blanqueo de capitales",
+        "b": "Tráfico ilícito de drogas y de armas",
+        "c": "Piratería marítima y ciberataques a infraestructuras críticas",
+        "d": "Corrupción y delincuencia organizada"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 83.1 TFUE enumera: terrorismo, trata de seres humanos y explotación sexual, tráfico ilícito de drogas, tráfico ilícito de armas, blanqueo de capitales, corrupción, falsificación de medios de pago, delincuencia informática y delincuencia organizada. La 'piratería marítima' y los 'ciberataques a infraestructuras críticas' como categorías específicas no figuran en el listado original.",
+      "ley": "TFUE, art. 83.1"
+    },
+    {
+      "id": "tema_05_test_27_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 83.1 TFUE permite al Consejo ampliar la lista de ámbitos delictivos. ¿Con qué procedimiento y quién debe aprobar esa ampliación?",
+      "options": {
+        "a": "El Consejo por mayoría cualificada con aprobación del Parlamento Europeo",
+        "b": "El Consejo por unanimidad previa aprobación del Parlamento Europeo",
+        "c": "La Comisión mediante propuesta y el Consejo por mayoría simple",
+        "d": "El Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 83.1 TFUE establece que el Consejo podrá adoptar una decisión para ampliar la lista 'Se pronunciará por unanimidad, previa aprobación del Parlamento Europeo'.",
+      "ley": "TFUE, art. 83.1"
+    },
+    {
+      "id": "tema_05_test_27_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 82.3 TFUE prevé que si un Estado considera que un proyecto de directiva sobre reconocimiento mutuo afecta a aspectos fundamentales de su sistema de justicia penal, puede activar un mecanismo. ¿Cuál es ese mecanismo?",
+      "options": {
+        "a": "Puede ejercer su derecho de veto bloqueando el procedimiento indefinidamente",
+        "b": "Puede solicitar que el asunto se remita al Consejo Europeo, suspendiéndose el procedimiento legislativo ordinario",
+        "c": "Puede presentar recurso ante el Tribunal de Justicia para suspender el procedimiento",
+        "d": "Puede exigir una declaración de conformidad del Tribunal Constitucional"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 82.3 TFUE establece que un miembro del Consejo puede 'solicitar que el asunto se remita al Consejo Europeo, en cuyo caso quedará suspendido el procedimiento legislativo ordinario'. Es el denominado 'freno de emergencia'.",
+      "ley": "TFUE, art. 82.3"
+    },
+    {
+      "id": "tema_05_test_27_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 85.1 TFUE, ¿cuál es la función de Eurojust?",
+      "options": {
+        "a": "Llevar a cabo operaciones policiales en el territorio de los Estados miembros",
+        "b": "Apoyar y reforzar la coordinación y la cooperación entre las autoridades nacionales encargadas de investigar y perseguir la delincuencia grave que afecte a dos o más Estados miembros o que deba perseguirse según criterios comunes",
+        "c": "Supervisar el cumplimiento del Derecho de la Unión en materia penal",
+        "d": "Crear una fiscalía europea para perseguir los delitos contra los intereses financieros de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 85.1 TFUE establece que 'La función de Eurojust es apoyar y reforzar la coordinación y la cooperación entre las autoridades nacionales encargadas de investigar y perseguir la delincuencia grave que afecte a dos o más Estados miembros o que deba perseguirse según criterios comunes'.",
+      "ley": "TFUE, art. 85.1"
+    },
+    {
+      "id": "tema_05_test_27_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 85.1 TFUE enumera las competencias que puede incluir Eurojust. Señale cuál de las siguientes NO figura entre las posibles competencias de Eurojust:",
+      "options": {
+        "a": "El inicio de diligencias de investigación penal",
+        "b": "La coordinación de investigaciones y procedimientos penales",
+        "c": "La aplicación de medidas coercitivas directamente en los Estados miembros",
+        "d": "La intensificación de la cooperación judicial mediante la resolución de conflictos de jurisdicción"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 85.2 TFUE establece que 'los actos formales de carácter procesal serán llevados a cabo por los funcionarios nacionales competentes'. Eurojust no puede aplicar medidas coercitivas directamente.",
+      "ley": "TFUE, art. 85.1 y 85.2"
+    },
+    {
+      "id": "tema_05_test_27_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 86.1 TFUE, ¿con qué finalidad puede el Consejo crear una Fiscalía Europea?",
+      "options": {
+        "a": "Para combatir el terrorismo transfronterizo",
+        "b": "Para combatir las infracciones que perjudiquen a los intereses financieros de la Unión",
+        "c": "Para sustituir a las fiscalías nacionales en todos los casos de delincuencia organizada",
+        "d": "Para supervisar la correcta aplicación del Derecho de la Unión en materia penal"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 86.1 TFUE establece que 'Para combatir las infracciones que perjudiquen a los intereses financieros de la Unión, el Consejo podrá crear, mediante reglamentos adoptados con arreglo a un procedimiento legislativo especial, una Fiscalía Europea a partir de Eurojust'.",
+      "ley": "TFUE, art. 86.1"
+    },
+    {
+      "id": "tema_05_test_27_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 88.1 TFUE, ¿cuál es la función de Europol?",
+      "options": {
+        "a": "Realizar investigaciones penales independientes en los Estados miembros",
+        "b": "Apoyar y reforzar la actuación de las autoridades policiales y de los demás servicios con funciones coercitivas de los Estados miembros y su colaboración mutua en la prevención de la delincuencia grave, el terrorismo y formas de delincuencia que lesionen un interés común",
+        "c": "Gestionar el espacio Schengen y controlar las fronteras exteriores de la Unión",
+        "d": "Coordinar la extradición de sospechosos entre los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 88.1 TFUE establece que 'La función de Europol es apoyar y reforzar la actuación de las autoridades policiales y de los demás servicios con funciones coercitivas de los Estados miembros, así como su colaboración mutua en la prevención de la delincuencia grave que afecte a dos o más Estados miembros, del terrorismo y de las formas de delincuencia que lesionen un interés común'.",
+      "ley": "TFUE, art. 88.1"
+    },
+    {
+      "id": "tema_05_test_27_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 88.3 TFUE, ¿a quién corresponde exclusivamente la aplicación de medidas coercitivas en las actividades operativas de Europol?",
+      "options": {
+        "a": "A Europol directamente, en coordinación con las autoridades nacionales",
+        "b": "A las autoridades nacionales competentes",
+        "c": "Al comité permanente de cooperación operativa del art. 71 TFUE",
+        "d": "Al Alto Representante cuando se trate de amenazas transnacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 88.3 TFUE establece que 'La aplicación de medidas coercitivas corresponderá exclusivamente a las autoridades nacionales competentes'. Europol no puede ejercer poder coercitivo directamente.",
+      "ley": "TFUE, art. 88.3"
+    },
+    {
+      "id": "tema_05_test_27_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 88.2 TFUE establece que en los reglamentos que determinen las competencias de Europol se fijará el procedimiento de control de sus actividades. ¿Quiénes participan en ese control?",
+      "options": {
+        "a": "Solo el Parlamento Europeo",
+        "b": "El Parlamento Europeo y los Parlamentos nacionales",
+        "c": "El Consejo de Justicia e Interior y los Parlamentos nacionales",
+        "d": "El Tribunal de Cuentas y el Supervisor Europeo de Protección de Datos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 88.2 TFUE establece que 'en dichos reglamentos se fijará asimismo el procedimiento de control de las actividades de Europol por el Parlamento Europeo, control en el que participarán los Parlamentos nacionales'.",
+      "ley": "TFUE, art. 88.2"
+    },
+    {
+      "id": "tema_05_test_27_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 84 TFUE permite adoptar medidas de prevención de la delincuencia. ¿Qué límite establece expresamente ese artículo?",
+      "options": {
+        "a": "Las medidas no pueden tener efecto retroactivo",
+        "b": "Se excluye toda armonización de las disposiciones legales y reglamentarias de los Estados miembros",
+        "c": "Las medidas solo pueden adoptarse para delitos transfronterizos",
+        "d": "Las medidas requieren unanimidad del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 84 TFUE establece que el Parlamento Europeo y el Consejo pueden adoptar medidas de prevención de la delincuencia 'con exclusión de toda armonización de las disposiciones legales y reglamentarias de los Estados miembros'.",
+      "ley": "TFUE, art. 84"
+    },
+    {
+      "id": "tema_05_test_27_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 86.4 TFUE prevé que el Consejo Europeo puede ampliar las competencias de la Fiscalía Europea más allá de los intereses financieros. ¿A qué tipo de delitos puede extenderse y qué mayoría se requiere?",
+      "options": {
+        "a": "A cualquier delito grave; el Consejo Europeo por mayoría cualificada",
+        "b": "A la delincuencia grave que tenga una dimensión transfronteriza; el Consejo Europeo por unanimidad, previa aprobación del Parlamento Europeo y previa consulta a la Comisión",
+        "c": "Solo al terrorismo; el Consejo por unanimidad con aprobación del Parlamento",
+        "d": "A los delitos medioambientales; el Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 86.4 TFUE establece que 'el Consejo Europeo podrá adoptar una decisión que modifique el apartado 1 con el fin de ampliar las competencias de la Fiscalía Europea a la lucha contra la delincuencia grave que tenga una dimensión transfronteriza. El Consejo Europeo se pronunciará por unanimidad, previa aprobación del Parlamento Europeo y previa consulta a la Comisión'.",
+      "ley": "TFUE, art. 86.4"
+    },
+    {
+      "id": "tema_05_test_27_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 87.1 TFUE, ¿qué tipos de autoridades de los Estados miembros participan en la cooperación policial de la Unión?",
+      "options": {
+        "a": "Solo los servicios de policía nacional",
+        "b": "Todas las autoridades competentes, incluidos los servicios de policía, los servicios de aduanas y otros servicios con funciones coercitivas especializados en la prevención y detección e investigación de infracciones penales",
+        "c": "Solo los servicios de policía y la guardia de fronteras",
+        "d": "Los servicios de inteligencia y contrainteligencia de los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 87.1 TFUE establece que la cooperación policial implica 'todas las autoridades competentes de los Estados miembros, incluidos los servicios de policía, los servicios de aduanas y otros servicios con funciones coercitivas especializados en la prevención y en la detección e investigación de infracciones penales'.",
+      "ley": "TFUE, art. 87.1"
+    },
+    {
+      "id": "tema_05_test_27_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 89 TFUE regula las actuaciones de las autoridades de los Estados miembros en el territorio de otro Estado miembro. ¿Qué requisito establece para esas actuaciones?",
+      "options": {
+        "a": "Deben ser autorizadas previamente por la Comisión Europea",
+        "b": "Deben realizarse en contacto y de acuerdo con las autoridades de dicho Estado",
+        "c": "Solo pueden realizarlas agentes de Europol acompañando a los nacionales",
+        "d": "Requieren una declaración de emergencia del Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 89 TFUE establece que las actuaciones de las autoridades de un Estado en el territorio de otro deben realizarse 'en contacto y de acuerdo con las autoridades de dicho Estado'.",
+      "ley": "TFUE, art. 89"
+    },
+    {
+      "id": "tema_05_test_27_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Los arts. 82.3 y 83.3 TFUE prevén el mecanismo del 'freno de emergencia'. Si el Consejo Europeo no logra consenso en 4 meses y al menos 9 Estados quieren una cooperación reforzada, ¿qué sucede?",
+      "options": {
+        "a": "El procedimiento legislativo se anula permanentemente",
+        "b": "La autorización para iniciar la cooperación reforzada se considerará concedida automáticamente",
+        "c": "El Consejo debe votar de nuevo por unanimidad",
+        "d": "La Comisión puede adoptar el acto directamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). Los arts. 82.3 y 83.3 TFUE establecen que si no hay acuerdo dentro de los cuatro meses y al menos 9 Estados quieren cooperación reforzada, 'la autorización para iniciar la cooperación reforzada a que se refieren el artículo 20.2 TUE y el artículo 329.1 del presente Tratado se considerará concedida'.",
+      "ley": "TFUE, art. 82.3 y art. 83.3"
+    },
+    {
+      "id": "tema_05_test_27_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 86.1 TFUE, ¿de qué organismo parte la Fiscalía Europea?",
+      "options": {
+        "a": "De Europol",
+        "b": "De Eurojust",
+        "c": "Del Consejo de Justicia e Interior",
+        "d": "Del OLAF (Oficina Europea de Lucha contra el Fraude)"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 86.1 TFUE establece que el Consejo podrá crear 'una Fiscalía Europea a partir de Eurojust'. La Fiscalía Europea emerge y se construye sobre la base de Eurojust.",
+      "ley": "TFUE, art. 86.1"
+    },
+    {
+      "id": "tema_05_test_27_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 82.2 TFUE, las normas mínimas adoptadas en materia de reconocimiento mutuo deben tener en cuenta:",
+      "options": {
+        "a": "Solo los sistemas jurídicos de los cinco principales Estados miembros",
+        "b": "Las diferencias entre las tradiciones y los sistemas jurídicos de los Estados miembros",
+        "c": "Las recomendaciones del Consejo de Europa en materia penal",
+        "d": "Los estándares mínimos establecidos por el Tribunal Europeo de Derechos Humanos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 82.2 TFUE establece que las normas mínimas 'tendrán en cuenta las diferencias entre las tradiciones y los sistemas jurídicos de los Estados miembros'.",
+      "ley": "TFUE, art. 82.2"
+    },
+    {
+      "id": "tema_05_test_27_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 87.3 TFUE regula la cooperación operativa entre autoridades policiales. ¿Qué procedimiento especial se prevé y qué garantía existe para la cooperación reforzada?",
+      "options": {
+        "a": "Mayoría cualificada del Consejo; cooperación reforzada si no se alcanza",
+        "b": "Unanimidad del Consejo con consulta al Parlamento; si no hay unanimidad, 9 o más Estados pueden pedir que el proyecto se remita al Consejo Europeo y, en caso de no acuerdo, iniciar cooperación reforzada",
+        "c": "Solo mayoría simple del Consejo; la Comisión puede actuar directamente si no hay acuerdo",
+        "d": "Procedimiento ordinario con aprobación del Parlamento; si no hay mayoría, se archiva el proyecto"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 87.3 TFUE establece que el Consejo decide 'por unanimidad, previa consulta al Parlamento Europeo'. Si no hay unanimidad, 9 o más Estados pueden pedir que el proyecto se remita al Consejo Europeo; si no hay consenso en 4 meses y 9 Estados lo quieren, pueden iniciar cooperación reforzada.",
+      "ley": "TFUE, art. 87.3"
+    },
+    {
+      "id": "tema_05_test_27_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 81.1 TFUE establece la cooperación judicial en asuntos civiles. ¿En qué principio se basa y qué tipo de casos regula?",
+      "options": {
+        "a": "En el principio de armonización; regula todos los casos civiles",
+        "b": "En el principio de reconocimiento mutuo; regula asuntos civiles con repercusión transfronteriza",
+        "c": "En el principio de subsidiariedad; regula solo asuntos de familia",
+        "d": "En el principio de proporcionalidad; regula los contratos transfronterizos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 81.1 TFUE establece que 'La Unión desarrollará una cooperación judicial en asuntos civiles con repercusión transfronteriza, basada en el principio de reconocimiento mutuo de las resoluciones judiciales y extrajudiciales'.",
+      "ley": "TFUE, art. 81.1"
+    },
+    {
+      "id": "tema_05_test_27_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 81.3 TFUE establece una regla especial para las medidas relativas al Derecho de familia con repercusión transfronteriza. ¿Qué procedimiento se aplica?",
+      "options": {
+        "a": "Procedimiento legislativo ordinario con mayoría cualificada",
+        "b": "El Consejo por unanimidad con arreglo a un procedimiento legislativo especial, previa consulta al Parlamento Europeo",
+        "c": "La Comisión mediante reglamentos directamente ejecutivos",
+        "d": "El Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 81.3 TFUE establece que 'las medidas relativas al Derecho de familia con repercusión transfronteriza se establecerán por el Consejo, con arreglo a un procedimiento legislativo especial. El Consejo se pronunciará por unanimidad, previa consulta al Parlamento Europeo'.",
+      "ley": "TFUE, art. 81.3"
+    }
+  ]
+}

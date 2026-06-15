@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_05_test_10_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuál de las siguientes afirmaciones sobre los Tratados de la UE es CORRECTA según el art. 1 TUE?",
+      "options": {
+        "a": "El TUE tiene un valor jurídico superior al TFUE",
+        "b": "El TFUE tiene un valor jurídico superior al TUE",
+        "c": "El TUE y el TFUE tienen el mismo valor jurídico",
+        "d": "El TFUE es una norma de Derecho derivado del TUE"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 1 TUE establece que la Unión se fundamenta en el TUE y en el TFUE 'Ambos Tratados tienen el mismo valor jurídico'.",
+      "ley": "TUE, art. 1"
+    },
+    {
+      "id": "tema_05_test_10_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 15.6 TUE, una de las funciones del Presidente del Consejo Europeo es 'esforzarse por facilitar':",
+      "options": {
+        "a": "Los acuerdos entre el Parlamento Europeo y el Consejo",
+        "b": "La cohesión y el consenso en el seno del Consejo Europeo",
+        "c": "La coordinación entre la Comisión y los Parlamentos nacionales",
+        "d": "La aplicación del programa legislativo anual"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.6 TUE establece como función del Presidente del Consejo Europeo 'Se esforzará por facilitar la cohesión y el consenso en el seno del Consejo Europeo'.",
+      "ley": "TUE, art. 15.6"
+    },
+    {
+      "id": "tema_05_test_10_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.5 TUE, ¿dónde se establecen las modalidades de voto del Parlamento Europeo, el Consejo Europeo y el Consejo para las decisiones del art. 7?",
+      "options": {
+        "a": "En el art. 238 TUE",
+        "b": "En el art. 354 TFUE",
+        "c": "En el Protocolo sobre disposiciones transitorias",
+        "d": "En el Reglamento interno del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.5 TUE establece expresamente que las modalidades de voto 'se establecen en el artículo 354 del Tratado de Funcionamiento de la Unión Europea'.",
+      "ley": "TUE, art. 7.5"
+    },
+    {
+      "id": "tema_05_test_10_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre la cooperación interparlamentaria según el art. 12.f) TUE:",
+      "options": {
+        "a": "Los Parlamentos nacionales participan en la cooperación interparlamentaria",
+        "b": "Se coopera entre los Parlamentos nacionales y con el Parlamento Europeo",
+        "c": "Esta cooperación se regula conforme al Protocolo sobre el cometido de los Parlamentos nacionales",
+        "d": "Los Parlamentos nacionales pueden vetar acuerdos adoptados por el Parlamento Europeo"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 12.f) TUE solo establece que los Parlamentos nacionales participarán en la cooperación interparlamentaria. No existe ninguna facultad de veto sobre los acuerdos del Parlamento Europeo.",
+      "ley": "TUE, art. 12.f)"
+    },
+    {
+      "id": "tema_05_test_10_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.7 TUE, los compromisos de defensa mutua seguirán ajustándose a los compromisos adquiridos en el marco de:",
+      "options": {
+        "a": "La Organización para la Seguridad y la Cooperación en Europa (OSCE)",
+        "b": "La Organización del Tratado del Atlántico Norte (OTAN)",
+        "c": "La Organización de las Naciones Unidas (ONU)",
+        "d": "La Unión Europea Occidental (UEO)"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.7 TUE establece que los compromisos 'seguirán ajustándose a los compromisos adquiridos en el marco de la Organización del Tratado del Atlántico Norte, que seguirá siendo, para los Estados miembros que forman parte de la misma, el fundamento de su defensa colectiva'.",
+      "ley": "TUE, art. 42.7"
+    },
+    {
+      "id": "tema_05_test_10_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 49 TUE, ¿a quién debe informarse sobre las solicitudes de adhesión de nuevos Estados?",
+      "options": {
+        "a": "Solo al Consejo",
+        "b": "Solo al Parlamento Europeo",
+        "c": "Al Parlamento Europeo y a los Parlamentos nacionales",
+        "d": "A la Comisión y al Tribunal de Justicia"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 49 TUE establece que de la solicitud de ingreso 'Se informará de esta solicitud al Parlamento Europeo y a los Parlamentos nacionales'.",
+      "ley": "TUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_10_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.5 TUE, las disposiciones transitorias sobre la definición de la mayoría cualificada aplicables entre el 1 de noviembre de 2014 y el 31 de marzo de 2017 se establecen en:",
+      "options": {
+        "a": "El Protocolo sobre la ampliación de la Unión Europea",
+        "b": "El Protocolo sobre las disposiciones transitorias",
+        "c": "El Reglamento interno del Consejo",
+        "d": "El art. 238 TFUE directamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.5 TUE establece que 'Las disposiciones transitorias relativas a la definición de la mayoría cualificada que serán de aplicación hasta el 31 de octubre de 2014, así como las aplicables entre el 1 de noviembre de 2014 y el 31 de marzo de 2017, se establecerán en el Protocolo sobre las disposiciones transitorias'.",
+      "ley": "TUE, art. 16.5"
+    },
+    {
+      "id": "tema_05_test_10_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.3 TUE, ¿qué promoverá la Unión en el ámbito científico?",
+      "options": {
+        "a": "La inversión pública en investigación básica",
+        "b": "El progreso científico y técnico",
+        "c": "La creación de un espacio europeo de investigación",
+        "d": "La transferencia tecnológica hacia países en desarrollo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que la Unión 'Asimismo, promoverá el progreso científico y técnico'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_10_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre el mandato del Presidente de la Comisión según el art. 17.3 TUE:",
+      "options": {
+        "a": "El mandato es de cuatro años, igual al del Parlamento Europeo",
+        "b": "El mandato es de cinco años, renovable sin límite",
+        "c": "El mandato es de cinco años",
+        "d": "El mandato es de dos años y medio, renovable una sola vez"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 17.3 TUE establece simplemente que 'El mandato de la Comisión será de cinco años'. No hay limitación expresa de renovaciones para el Presidente, aunque en la práctica se rigen por el ciclo legislativo.",
+      "ley": "TUE, art. 17.3"
+    },
+    {
+      "id": "tema_05_test_10_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.1 TUE, los Estados que deseen participar en la cooperación estructurada permanente deben reunir los criterios y compromisos que figuran en:",
+      "options": {
+        "a": "El art. 42 TUE",
+        "b": "El Protocolo sobre la cooperación estructurada permanente",
+        "c": "Una decisión del Consejo adoptada por unanimidad",
+        "d": "El Anexo I del TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.1 TUE establece que los Estados que deseen participar deben reunir 'los criterios y asuman los compromisos en materia de capacidades militares que figuran en el Protocolo sobre la cooperación estructurada permanente'.",
+      "ley": "TUE, art. 46.1"
+    },
+    {
+      "id": "tema_05_test_10_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.1 TUE, ¿cómo se atribuyen competencias a la Unión?",
+      "options": {
+        "a": "Mediante decisión del Consejo Europeo por unanimidad",
+        "b": "A través de los Tratados, por los propios Estados miembros",
+        "c": "Por iniciativa de la Comisión aprobada por el Parlamento",
+        "d": "Mediante jurisprudencia del Tribunal de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.1 TUE establece que 'Toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros', lo que implica que la atribución se hace a través de los Tratados por los propios Estados.",
+      "ley": "TUE, art. 4.1 y art. 5.2"
+    },
+    {
+      "id": "tema_05_test_10_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 43.1 TUE, ¿qué tipo de misiones pueden contribuir también a la lucha contra el terrorismo?",
+      "options": {
+        "a": "Solo las misiones de mantenimiento de la paz",
+        "b": "Solo las misiones humanitarias",
+        "c": "Todas las misiones del art. 42.1 TUE (misiones Petersberg ampliadas)",
+        "d": "Únicamente las misiones de intervención directa en terceros países"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 43.1 TUE establece que 'Todas estas misiones podrán contribuir a la lucha contra el terrorismo, entre otras cosas mediante el apoyo prestado a terceros países para combatirlo en su territorio'.",
+      "ley": "TUE, art. 43.1"
+    },
+    {
+      "id": "tema_05_test_10_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, ¿quién adopta la lista de las demás personalidades a nombrar como miembros de la Comisión?",
+      "options": {
+        "a": "El Consejo Europeo por unanimidad",
+        "b": "El Consejo de común acuerdo con el Presidente electo",
+        "c": "El Parlamento Europeo por mayoría de sus miembros",
+        "d": "El Presidente electo de forma autónoma"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.7 TUE establece que 'El Consejo, de común acuerdo con el Presidente electo, adoptará la lista de las demás personalidades que se proponga nombrar miembros de la Comisión'.",
+      "ley": "TUE, art. 17.7"
+    },
+    {
+      "id": "tema_05_test_10_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 8.2 TUE, los acuerdos con países vecinos podrán incluir derechos y obligaciones recíprocos y su aplicación será objeto de:",
+      "options": {
+        "a": "Ratificación por los Parlamentos nacionales",
+        "b": "Aprobación por el Tribunal de Justicia",
+        "c": "Una concertación periódica",
+        "d": "Revisión anual por la Comisión"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 8.2 TUE establece que la aplicación de los acuerdos con países vecinos 'será objeto de una concertación periódica'.",
+      "ley": "TUE, art. 8.2"
+    },
+    {
+      "id": "tema_05_test_10_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA. Según el art. 15.6 TUE, el Presidente del Consejo Europeo velará por la preparación y continuidad de sus trabajos basándose en los trabajos del Consejo de:",
+      "options": {
+        "a": "Asuntos Generales",
+        "b": "Asuntos Exteriores",
+        "c": "Economía y Finanzas",
+        "d": "Ninguno de los anteriores, pues el art. 15.6 TUE menciona el Consejo de Asuntos Generales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.6 TUE establece que el Presidente 'Velará por la preparación y continuidad de los trabajos del Consejo Europeo, en cooperación con el Presidente de la Comisión y basándose en los trabajos del Consejo de Asuntos Generales', no de Asuntos Exteriores.",
+      "ley": "TUE, art. 15.6"
+    },
+    {
+      "id": "tema_05_test_10_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.2 TUE, ¿quién nombra a los jueces y abogados generales del Tribunal de Justicia?",
+      "options": {
+        "a": "El Consejo Europeo por mayoría cualificada",
+        "b": "Los Gobiernos de los Estados miembros de común acuerdo",
+        "c": "El Parlamento Europeo por mayoría de sus miembros",
+        "d": "La Comisión a propuesta de los Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.2 TUE establece que jueces y abogados generales 'Serán nombrados de común acuerdo por los Gobiernos de los Estados miembros para un período de seis años'.",
+      "ley": "TUE, art. 19.2"
+    },
+    {
+      "id": "tema_05_test_10_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.2 TUE, la libre circulación de personas en el espacio sin fronteras interiores va conjuntamente con medidas adecuadas en materia de:",
+      "options": {
+        "a": "Política fiscal armonizada",
+        "b": "Control de las fronteras exteriores, asilo, inmigración y prevención y lucha contra la delincuencia",
+        "c": "Política comercial exterior común",
+        "d": "Regulación uniforme del mercado de trabajo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.2 TUE establece que la libre circulación de personas va 'conjuntamente con medidas adecuadas en materia de control de las fronteras exteriores, asilo, inmigración y de prevención y lucha contra la delincuencia'.",
+      "ley": "TUE, art. 3.2"
+    },
+    {
+      "id": "tema_05_test_10_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 12 TUE, los Parlamentos nacionales estarán asociados al control político de:",
+      "options": {
+        "a": "La Comisión Europea y el Banco Central Europeo",
+        "b": "Europol y a la evaluación de las actividades de Eurojust",
+        "c": "El Tribunal de Cuentas y la OLAF",
+        "d": "El Parlamento Europeo y el Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 12.c) TUE establece que los Parlamentos nacionales 'estarán asociados al control político de Europol y a la evaluación de las actividades de Eurojust'.",
+      "ley": "TUE, art. 12.c)"
+    },
+    {
+      "id": "tema_05_test_10_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.7 TUE, la Comisión (Presidente, Alto Representante y demás miembros) es sometida colegiadamente al voto de aprobación del Parlamento Europeo y luego nombrada por el Consejo Europeo por:",
+      "options": {
+        "a": "Unanimidad",
+        "b": "Mayoría simple",
+        "c": "Mayoría cualificada",
+        "d": "Mayoría de dos tercios"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 17.7 TUE establece que 'sobre la base de dicha aprobación, la Comisión será nombrada por el Consejo Europeo, por mayoría cualificada'.",
+      "ley": "TUE, art. 17.7"
+    },
+    {
+      "id": "tema_05_test_10_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 47 TUE, ¿qué tiene la Unión Europea?",
+      "options": {
+        "a": "Personalidad diplomática plena",
+        "b": "Personalidad jurídica",
+        "c": "Personalidad política supranacional",
+        "d": "Personalidad constitucional federal"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 47 TUE establece de forma directa y sin ambigüedad: 'La Unión tiene personalidad jurídica'.",
+      "ley": "TUE, art. 47"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 9",
+  "preguntas": [
+    {
+      "id": "tema_05_test_09_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.1 TUE, antes de constatar el riesgo de violación grave de los valores del art. 2 por un Estado miembro, el Consejo deberá:",
+      "options": {
+        "a": "Consultar al Tribunal de Justicia",
+        "b": "Oír al Estado miembro de que se trate",
+        "c": "Obtener la aprobación de todos los Estados miembros",
+        "d": "Remitir el asunto a la Comisión para investigación previa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.1 TUE establece que 'Antes de proceder a esta constatación, el Consejo oirá al Estado miembro de que se trate y por el mismo procedimiento podrá dirigirle recomendaciones'.",
+      "ley": "TUE, art. 7.1"
+    },
+    {
+      "id": "tema_05_test_09_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.8 TUE, cada sesión del Consejo cuando actúa en función legislativa se dividirá en:",
+      "options": {
+        "a": "Una parte pública y una parte reservada",
+        "b": "Dos partes: deliberaciones sobre actos legislativos y actividades no legislativas",
+        "c": "Tres fases: propuesta, debate y votación",
+        "d": "Una sesión plenaria y varias comisiones especializadas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.8 TUE establece que 'cada sesión del Consejo se dividirá en dos partes, dedicadas respectivamente a las deliberaciones sobre los actos legislativos de la Unión y a las actividades no legislativas'.",
+      "ley": "TUE, art. 16.8"
+    },
+    {
+      "id": "tema_05_test_09_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre la iniciativa ciudadana europea según el art. 11.4 TUE:",
+      "options": {
+        "a": "Obliga a la Comisión a presentar la propuesta solicitada",
+        "b": "Invita a la Comisión Europea a presentar una propuesta adecuada dentro de sus atribuciones",
+        "c": "Puede ser presentada por ciudadanos de un único Estado miembro",
+        "d": "Requiere al menos cinco millones de firmas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11.4 TUE establece que un millón de ciudadanos podrá 'tomar la iniciativa de invitar a la Comisión Europea, en el marco de sus atribuciones, a que presente una propuesta adecuada'. No obliga, solo invita.",
+      "ley": "TUE, art. 11.4"
+    },
+    {
+      "id": "tema_05_test_09_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 15.5 TUE, ¿cómo puede el Consejo Europeo poner fin al mandato de su Presidente?",
+      "options": {
+        "a": "Por unanimidad a propuesta de un tercio de los Estados",
+        "b": "Por mayoría cualificada, por el mismo procedimiento que para su elección",
+        "c": "Por mayoría simple de sus miembros",
+        "d": "Previa moción de censura del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.5 TUE establece que 'En caso de impedimento o falta grave, el Consejo Europeo podrá poner fin a su mandato por el mismo procedimiento', es decir, por mayoría cualificada.",
+      "ley": "TUE, art. 15.5"
+    },
+    {
+      "id": "tema_05_test_09_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.5 TUE, ¿qué principios del Derecho internacional respeta especialmente la Unión en su acción exterior?",
+      "options": {
+        "a": "Los principios del Tratado de Westfalia",
+        "b": "Los principios de la Carta de las Naciones Unidas",
+        "c": "Los principios del Acuerdo de Helsinki",
+        "d": "Los principios de la Convención de Viena"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.5 TUE establece que la Unión contribuirá al 'estricto respeto y al desarrollo del Derecho internacional, en particular el respeto de los principios de la Carta de las Naciones Unidas'.",
+      "ley": "TUE, art. 3.5"
+    },
+    {
+      "id": "tema_05_test_09_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.3.a) TUE, el Tribunal de Justicia se pronunciará sobre los recursos interpuestos por:",
+      "options": {
+        "a": "Solo los Estados miembros",
+        "b": "Solo las instituciones de la Unión",
+        "c": "Un Estado miembro, una institución o personas físicas o jurídicas",
+        "d": "Exclusivamente personas físicas o jurídicas"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 19.3.a) TUE establece que el Tribunal se pronunciará 'sobre los recursos interpuestos por un Estado miembro, por una institución o por personas físicas o jurídicas'.",
+      "ley": "TUE, art. 19.3.a)"
+    },
+    {
+      "id": "tema_05_test_09_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.5 TUE, ¿a quién puede el Consejo encomendar la realización de una misión en el marco de la Unión?",
+      "options": {
+        "a": "A la OTAN mediante acuerdo especial",
+        "b": "A un grupo de Estados miembros a fin de defender los valores y favorecer los intereses de la Unión",
+        "c": "A la Agencia Europea de Defensa de forma exclusiva",
+        "d": "Al Alto Representante con apoyo de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.5 TUE establece que 'El Consejo podrá encomendar la realización de una misión, en el marco de la Unión, a un grupo de Estados miembros a fin de defender los valores y favorecer los intereses de la Unión'.",
+      "ley": "TUE, art. 42.5"
+    },
+    {
+      "id": "tema_05_test_09_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 52 TUE, los Tratados se aplican, entre otros, al Reino de España y a:",
+      "options": {
+        "a": "El Reino Unido",
+        "b": "La Confederación Helvética",
+        "c": "La República de Bulgaria",
+        "d": "La República de Turquía"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 52 TUE enumera los Estados a los que se aplican los Tratados, entre los que figura 'la República de Bulgaria'. El Reino Unido se retiró en 2020 y Suiza y Turquía no son Estados miembros.",
+      "ley": "TUE, art. 52"
+    },
+    {
+      "id": "tema_05_test_09_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre la Comisión Europea según el art. 17 TUE:",
+      "options": {
+        "a": "Supervisa la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia",
+        "b": "Ejecuta el presupuesto y gestiona los programas",
+        "c": "Adopta las iniciativas de la programación anual y plurianual de la Unión",
+        "d": "Ejerce la función de representación en materia de política exterior y de seguridad común"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 17.1 TUE establece que la Comisión asumirá 'la representación exterior de la Unión, con excepción de la política exterior y de seguridad común'. Esta excepción corresponde al Alto Representante.",
+      "ley": "TUE, art. 17.1"
+    },
+    {
+      "id": "tema_05_test_09_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.6 TUE, la decisión de revisión simplificada de la tercera parte del TFUE no podrá:",
+      "options": {
+        "a": "Modificar las instituciones de la Unión",
+        "b": "Reducir las competencias atribuidas a la Unión",
+        "c": "Aumentar las competencias atribuidas a la Unión",
+        "d": "Afectar a los actos de Derecho derivado vigentes"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.6 TUE establece expresamente que 'La decisión contemplada en el párrafo segundo no podrá aumentar las competencias atribuidas a la Unión por los Tratados'.",
+      "ley": "TUE, art. 48.6"
+    },
+    {
+      "id": "tema_05_test_09_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.2 TUE, la representación de los ciudadanos en el Parlamento Europeo es:",
+      "options": {
+        "a": "Estrictamente proporcional al número de habitantes",
+        "b": "Igual para todos los Estados miembros",
+        "c": "Decrecientemente proporcional",
+        "d": "Crecientemente proporcional"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 14.2 TUE establece que 'La representación de los ciudadanos será decrecientemente proporcional', lo que significa que los Estados menos poblados tienen proporcionalmente más representación que los grandes.",
+      "ley": "TUE, art. 14.2"
+    },
+    {
+      "id": "tema_05_test_09_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.3 TUE establece que la economía social de mercado de la Unión tenderá a:",
+      "options": {
+        "a": "Maximizar los beneficios empresariales",
+        "b": "El pleno empleo y al progreso social",
+        "c": "La liberalización total de los mercados financieros",
+        "d": "La privatización de los servicios públicos esenciales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que la Unión establecerá 'una economía social de mercado altamente competitiva, tendente al pleno empleo y al progreso social'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_09_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 18 TUE, ¿qué relación tiene el Alto Representante con los procedimientos que rigen el funcionamiento de la Comisión?",
+      "options": {
+        "a": "Está completamente exento de dichos procedimientos",
+        "b": "En el ejercicio de sus responsabilidades dentro de la Comisión, y solo en relación con ellas, está sujeto a esos procedimientos",
+        "c": "Está sometido a esos procedimientos en todas sus funciones",
+        "d": "Solo debe cumplir los procedimientos cuando actúa en nombre del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 18 TUE establece que 'en el ejercicio de estas responsabilidades dentro de la Comisión, y exclusivamente por lo que respecta a las mismas, el Alto Representante estará sujeto a los procedimientos por los que se rige el funcionamiento de la Comisión'.",
+      "ley": "TUE, art. 18"
+    },
+    {
+      "id": "tema_05_test_09_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 6.1 TUE, las disposiciones de la Carta de los Derechos Fundamentales:",
+      "options": {
+        "a": "Ampliarán las competencias de la Unión para proteger mejor los derechos",
+        "b": "No ampliarán en modo alguno las competencias de la Unión",
+        "c": "Sustituyen a las constituciones nacionales en materia de derechos",
+        "d": "Solo son aplicables cuando el Derecho de la Unión así lo establezca expresamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6.1 TUE establece de forma expresa que 'Las disposiciones de la Carta no ampliarán en modo alguno las competencias de la Unión tal como se definen en los Tratados'.",
+      "ley": "TUE, art. 6.1"
+    },
+    {
+      "id": "tema_05_test_09_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.3 TUE, en las deliberaciones del Consejo sobre cooperación reforzada, ¿quiénes pueden participar en la votación?",
+      "options": {
+        "a": "Todos los miembros del Consejo",
+        "b": "Solo los miembros que representen a los Estados participantes en la cooperación",
+        "c": "Los miembros con más del 10% de la población de la Unión",
+        "d": "Los miembros fundadores y los que superen un mínimo de PIB"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.3 TUE establece que 'Todos los miembros del Consejo podrán participar en sus deliberaciones, pero únicamente participarán en la votación los miembros del Consejo que representen a los Estados miembros que participan en una cooperación reforzada'.",
+      "ley": "TUE, art. 20.3"
+    },
+    {
+      "id": "tema_05_test_09_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.1.e) TUE, la Agencia Europea de Defensa contribuirá a definir y aplicar medidas para:",
+      "options": {
+        "a": "Reducir el gasto militar de los Estados miembros",
+        "b": "Reforzar la base industrial y tecnológica del sector de la defensa y mejorar la eficacia de los gastos militares",
+        "c": "Sustituir las industrias nacionales de defensa por una industria europea común",
+        "d": "Transferir tecnología militar al sector civil europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.1.e) TUE establece que la Agencia contribuirá 'a definir y, en su caso, aplicar cualquier medida oportuna para reforzar la base industrial y tecnológica del sector de la defensa y para mejorar la eficacia de los gastos militares'.",
+      "ley": "TUE, art. 45.1.e)"
+    },
+    {
+      "id": "tema_05_test_09_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuál es el número de artículos que tiene el Título VI (Disposiciones Finales) del TUE?",
+      "options": {
+        "a": "Cuatro artículos (del 47 al 50)",
+        "b": "Cinco artículos (del 47 al 51)",
+        "c": "Nueve artículos (del 47 al 55)",
+        "d": "Siete artículos (del 47 al 53)"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El Título VI del TUE (Disposiciones Finales) comprende los artículos del 47 al 55: art. 47 (personalidad jurídica), 48 (revisión), 49 (adhesión), 50 (retirada), 51 (protocolos), 52 (ámbito territorial), 53 (duración), 54 (ratificación) y 55 (versiones auténticas).",
+      "ley": "TUE, Título VI (arts. 47-55)"
+    },
+    {
+      "id": "tema_05_test_09_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 13.2 TUE, cada institución actuará dentro de los límites de las atribuciones que le confieren los Tratados, con arreglo a los procedimientos:",
+      "options": {
+        "a": "Establecidos por el Consejo Europeo",
+        "b": "Definidos por la Comisión en los reglamentos internos",
+        "c": "Condiciones y fines establecidos en los mismos Tratados",
+        "d": "Acordados entre las instituciones en convenios interinstitucionales"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 13.2 TUE establece que cada institución actuará 'con arreglo a los procedimientos, condiciones y fines establecidos en los mismos' Tratados.",
+      "ley": "TUE, art. 13.2"
+    },
+    {
+      "id": "tema_05_test_09_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.2 TUE, el Consejo celebra el acuerdo de retirada en nombre de la Unión por:",
+      "options": {
+        "a": "Unanimidad",
+        "b": "Mayoría simple",
+        "c": "Mayoría cualificada, previa aprobación del Parlamento Europeo",
+        "d": "Mayoría de dos tercios con ratificación de los Parlamentos nacionales"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 50.2 TUE establece que el acuerdo de retirada 'se negociará con arreglo al apartado 3 del artículo 218 del TFUE. El Consejo lo celebrará en nombre de la Unión por mayoría cualificada, previa aprobación del Parlamento Europeo'.",
+      "ley": "TUE, art. 50.2"
+    },
+    {
+      "id": "tema_05_test_09_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.2 TUE, la Unión respetará las funciones esenciales del Estado, especialmente las que tienen por objeto:",
+      "options": {
+        "a": "Gestionar la política económica y presupuestaria",
+        "b": "Garantizar la integridad territorial, mantener el orden público y salvaguardar la seguridad nacional",
+        "c": "Regular la política educativa y cultural",
+        "d": "Controlar la política monetaria y cambiaria"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.2 TUE establece que la Unión 'Respetará las funciones esenciales del Estado, especialmente las que tienen por objeto garantizar su integridad territorial, mantener el orden público y salvaguardar la seguridad nacional'.",
+      "ley": "TUE, art. 4.2"
+    }
+  ]
+}

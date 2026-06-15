@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 29",
+  "preguntas": [
+    {
+      "id": "tema_05_test_29_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 223 TFUE, ¿qué adoptará el Parlamento Europeo con arreglo al procedimiento legislativo ordinario para establecer las disposiciones necesarias para la elección de sus miembros por sufragio universal directo?",
+      "options": {
+        "a": "Directivas que los Estados miembros deberán transponer",
+        "b": "Disposiciones que establezcan un procedimiento electoral uniforme o con arreglo a principios comunes a todos los Estados miembros",
+        "c": "Un reglamento de aplicación directa en todos los Estados miembros",
+        "d": "Una decisión del Consejo Europeo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 223.1 TFUE establece que el Parlamento Europeo elaborará un proyecto encaminado a establecer 'las disposiciones necesarias para permitir la elección de sus miembros por sufragio universal directo, de acuerdo con un procedimiento uniforme en todos los Estados miembros o de acuerdo con principios comunes a todos los Estados miembros'.",
+      "ley": "TFUE, art. 223.1"
+    },
+    {
+      "id": "tema_05_test_29_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 228 TFUE, ¿quién elige al Defensor del Pueblo Europeo?",
+      "options": {
+        "a": "El Consejo por mayoría cualificada",
+        "b": "El Parlamento Europeo",
+        "c": "El Consejo Europeo por unanimidad",
+        "d": "La Comisión Europea a propuesta del Parlamento"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 228.1 TFUE establece que el Defensor del Pueblo Europeo es 'elegido por el Parlamento Europeo tras cada elección al Parlamento Europeo y para la duración de la legislatura'.",
+      "ley": "TFUE, art. 228.1"
+    },
+    {
+      "id": "tema_05_test_29_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 234 TFUE regula la moción de censura contra la Comisión. ¿Qué mayorías se requieren para su aprobación?",
+      "options": {
+        "a": "Mayoría simple de los votos emitidos",
+        "b": "Mayoría de dos tercios de los votos emitidos que represente a la mayoría de los diputados",
+        "c": "Mayoría absoluta de los miembros del Parlamento",
+        "d": "Unanimidad del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 234 TFUE establece que la moción de censura 'no podrá ser votada hasta que hayan transcurrido tres días desde su presentación y se realizará por escrutinio público' y requerirá 'la mayoría de dos tercios de los votos emitidos y la mayoría de los diputados al Parlamento Europeo'.",
+      "ley": "TFUE, art. 234"
+    },
+    {
+      "id": "tema_05_test_29_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 235 TFUE, cuando el Consejo Europeo vote por mayoría cualificada, ¿con arreglo a qué artículo se define dicha mayoría?",
+      "options": {
+        "a": "Art. 16.4 TUE",
+        "b": "Art. 238.2 TFUE",
+        "c": "Art. 238.3 TFUE",
+        "d": "Art. 354 TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 235.1 TFUE establece que cuando el Consejo Europeo vote por mayoría cualificada, esta 'se definirá con arreglo al apartado 2 del artículo 238'.",
+      "ley": "TFUE, art. 235.1"
+    },
+    {
+      "id": "tema_05_test_29_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 237 TFUE, ¿a instancia de quién puede el Presidente del Consejo convocar el Consejo?",
+      "options": {
+        "a": "Del Consejo Europeo únicamente",
+        "b": "De uno de sus miembros o de la Comisión",
+        "c": "Del Parlamento Europeo por mayoría",
+        "d": "De cualquier ciudadano de la Unión mediante petición"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 237 TFUE establece que 'El Consejo se reunirá por convocatoria de su Presidente, a iniciativa de este, de uno de sus miembros o de la Comisión'.",
+      "ley": "TFUE, art. 237"
+    },
+    {
+      "id": "tema_05_test_29_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 238.2 TFUE, en el caso del Consejo Europeo y del Consejo cuando no todos sus miembros participen en la votación, ¿cómo se define la mayoría cualificada?",
+      "options": {
+        "a": "Como el 55% de los miembros participantes que represente el 65% de la población de los Estados participantes",
+        "b": "Al menos el 72% de los miembros del Consejo que represente a Estados miembros que reúnan como mínimo el 65% de la población de dichos Estados",
+        "c": "Al menos dos tercios de los miembros del Consejo participantes",
+        "d": "Al menos el 55% de los miembros, con independencia de la representación de población"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 238.2 TFUE establece que cuando no todos los miembros participen, la mayoría cualificada se definirá como 'al menos el 72 % de los miembros del Consejo que representen a los Estados miembros participantes, siempre que dichos Estados miembros reúnan como mínimo el 65 % de la población de los Estados de que se trate'.",
+      "ley": "TFUE, art. 238.2"
+    },
+    {
+      "id": "tema_05_test_29_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 240 TFUE, ¿qué prepara el COREPER?",
+      "options": {
+        "a": "La agenda del Consejo Europeo",
+        "b": "Los trabajos del Consejo",
+        "c": "Las propuestas legislativas de la Comisión",
+        "d": "Los informes del Tribunal de Cuentas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 240.1 TFUE establece que 'Un Comité de Representantes Permanentes de los Gobiernos de los Estados miembros se encargará de preparar los trabajos del Consejo y de ejecutar los mandatos que este le confíe'.",
+      "ley": "TFUE, art. 240.1"
+    },
+    {
+      "id": "tema_05_test_29_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 241 TFUE, ¿qué puede solicitar el Consejo a la Comisión?",
+      "options": {
+        "a": "Que presente recursos ante el Tribunal de Justicia",
+        "b": "Que realice cualquier estudio que considere oportuno para la consecución de los objetivos comunes y que le someta todas las propuestas pertinentes",
+        "c": "Que elabore el presupuesto anual de la Unión",
+        "d": "Que fiscalice a los Estados miembros en el cumplimiento del Derecho de la Unión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 241 TFUE establece que 'El Consejo, por mayoría simple, podrá solicitar a la Comisión que realice cualquier estudio que considere oportuno para la consecución de los objetivos comunes y que le someta todas las propuestas pertinentes'.",
+      "ley": "TFUE, art. 241"
+    },
+    {
+      "id": "tema_05_test_29_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 226 TFUE regula las comisiones temporales de investigación del Parlamento Europeo. ¿Cuándo pueden constituirse y cuál es su objetivo?",
+      "options": {
+        "a": "Permanentemente para supervisar la acción del Consejo Europeo",
+        "b": "A petición de la cuarta parte de los miembros del Parlamento, para examinar, sin perjuicio de las competencias del TJUE, las alegaciones de infracción o de mala administración en la aplicación del Derecho de la Unión",
+        "c": "A iniciativa de la Comisión para investigar a los Estados miembros",
+        "d": "Por decisión del Consejo Europeo para investigar asuntos de interés general"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 226 TFUE establece que el Parlamento puede, 'a petición de la cuarta parte de los miembros que lo componen, constituir una comisión temporal de investigación para que examine, sin perjuicio de las competencias del TJUE, las alegaciones de infracción o de mala administración en la aplicación del Derecho de la Unión'.",
+      "ley": "TFUE, art. 226"
+    },
+    {
+      "id": "tema_05_test_29_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 229 TFUE, ¿cuántos períodos de sesiones tendrá el Parlamento Europeo al año?",
+      "options": {
+        "a": "Cuatro períodos al año",
+        "b": "Un período de sesiones al año, comenzando el segundo martes de marzo",
+        "c": "Dos períodos al año, divididos en semestres",
+        "d": "Doce períodos mensuales de sesiones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 229 TFUE establece que 'El Parlamento Europeo se reunirá de pleno derecho en período de sesiones anual. Se reunirá el segundo martes de marzo'.",
+      "ley": "TFUE, art. 229"
+    },
+    {
+      "id": "tema_05_test_29_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 231 TFUE, ¿cuál es la regla general de votación del Parlamento Europeo?",
+      "options": {
+        "a": "Mayoría cualificada de sus miembros",
+        "b": "Mayoría de los votos emitidos, salvo disposición en contrario de los Tratados",
+        "c": "Unanimidad de todos sus miembros",
+        "d": "Mayoría de dos tercios para cualquier acto legislativo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 231 TFUE establece que 'Salvo disposición en contrario de los Tratados, el Parlamento Europeo se pronunciará por mayoría de los votos emitidos'.",
+      "ley": "TFUE, art. 231"
+    },
+    {
+      "id": "tema_05_test_29_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 235.1 TFUE establece que el Presidente del Consejo Europeo y el Presidente de la Comisión no participarán en las votaciones. ¿En qué tipo de decisiones del Consejo Europeo?",
+      "options": {
+        "a": "En ninguna decisión del Consejo Europeo",
+        "b": "Cuando el Consejo Europeo se pronuncie por votación (con las excepciones de los arts. 15.5 y 15.6 TUE sobre el Presidente del Consejo Europeo, y los arts. 17.6 y 17.7 TUE sobre la Comisión)",
+        "c": "Solo en las votaciones sobre el presupuesto de la Unión",
+        "d": "En las votaciones sobre política exterior y de seguridad común"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 235.1 TFUE establece que cuando el Consejo Europeo vote, 'no participarán en la votación ni el Presidente del Consejo Europeo ni el Presidente de la Comisión', con las excepciones previstas en el TUE para sus propios nombramientos.",
+      "ley": "TFUE, art. 235.1"
+    },
+    {
+      "id": "tema_05_test_29_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 236 TFUE establece que el Consejo Europeo adoptará por mayoría cualificada una decisión que establezca la lista de las formaciones del Consejo. ¿Qué más adoptará con esa misma mayoría?",
+      "options": {
+        "a": "El reglamento interno del Consejo",
+        "b": "Una decisión sobre la presidencia de las formaciones del Consejo, con excepción de la de Asuntos Exteriores",
+        "c": "El presupuesto de la secretaría del Consejo",
+        "d": "La sede del Consejo en las distintas ciudades europeas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 236 TFUE establece que 'El Consejo Europeo adoptará por mayoría cualificada [...] una decisión sobre la presidencia de las formaciones del Consejo, con excepción de la de Asuntos Exteriores'.",
+      "ley": "TFUE, art. 236"
+    },
+    {
+      "id": "tema_05_test_29_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 228.3 TFUE, ¿ante quién es responsable el Defensor del Pueblo?",
+      "options": {
+        "a": "Ante el Tribunal de Justicia de la Unión Europea",
+        "b": "Ante el Parlamento Europeo",
+        "c": "Ante el Consejo Europeo",
+        "d": "Ante la Comisión Europea"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 228.3 TFUE establece que el Defensor del Pueblo 'ejercerá sus funciones con total independencia. En el ejercicio de sus obligaciones no solicitará ni aceptará instrucciones de ningún organismo' y presentará al Parlamento Europeo un informe anual de sus actividades.",
+      "ley": "TFUE, art. 228"
+    },
+    {
+      "id": "tema_05_test_29_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 230 TFUE, ¿qué derecho tienen la Comisión y el Consejo respecto al Parlamento Europeo?",
+      "options": {
+        "a": "Solo pueden asistir a petición del Parlamento",
+        "b": "Podrán asistir a todas las sesiones del Parlamento Europeo y ser oídos cuando lo soliciten",
+        "c": "La Comisión puede asistir a todas las sesiones; el Consejo solo al pleno",
+        "d": "Solo pueden enviar representantes escritos sin derecho a asistir físicamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 230 TFUE establece que 'La Comisión podrá asistir a todas las sesiones del Parlamento Europeo y será oída cuando lo solicite' y que 'el Consejo podrá asistir a todas las sesiones del Parlamento Europeo y será oído cuando lo solicite'.",
+      "ley": "TFUE, art. 230"
+    },
+    {
+      "id": "tema_05_test_29_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 233 TFUE, ¿con qué periodicidad responde la Comisión a los debates del Parlamento Europeo presentando informes?",
+      "options": {
+        "a": "Mensualmente",
+        "b": "Anualmente",
+        "c": "Trimestralmente",
+        "d": "Bienalmente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 233 TFUE establece que 'La Comisión responderá oralmente o por escrito a las preguntas que le formule el Parlamento Europeo o sus miembros. Los presidentes del Consejo Europeo y del Consejo serán oídos por el Parlamento Europeo en las condiciones previstas en los reglamentos internos del Consejo Europeo y del Consejo'. La Comisión presenta su informe anual (art. 233).",
+      "ley": "TFUE, art. 233"
+    },
+    {
+      "id": "tema_05_test_29_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 239 TFUE, la regla general de votación en el Consejo es la mayoría cualificada. ¿Cuál es la regla cuando el Consejo decide sobre procedimientos?",
+      "options": {
+        "a": "Unanimidad de todos sus miembros",
+        "b": "Mayoría simple",
+        "c": "Mayoría de dos tercios",
+        "d": "Mayoría cualificada también para procedimientos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 239 TFUE establece que cuando 'el Consejo tenga que adoptar un acto por mayoría simple, se pronunciará por mayoría simple'. Para los procedimientos (reglamento interno, etc.) se aplica la mayoría simple.",
+      "ley": "TFUE, art. 239"
+    },
+    {
+      "id": "tema_05_test_29_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 225 TFUE reconoce al Parlamento Europeo una forma de iniciativa legislativa. ¿Qué puede hacer el Parlamento Europeo en virtud de ese artículo?",
+      "options": {
+        "a": "Presentar propuestas legislativas directamente al Consejo",
+        "b": "Solicitar a la Comisión, por mayoría de los miembros que lo componen, que presente las propuestas oportunas sobre cualquier asunto que a juicio del Parlamento requiera la elaboración de un acto de la Unión",
+        "c": "Vetar propuestas legislativas de la Comisión con mayoría de dos tercios",
+        "d": "Adoptar directamente actos legislativos sin la intervención del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 225 TFUE establece que 'El Parlamento Europeo podrá, por mayoría de los miembros que lo componen, solicitar a la Comisión que presente las propuestas oportunas sobre cualquier asunto que a juicio del Parlamento requiera la elaboración de un acto de la Unión para la aplicación de los Tratados'.",
+      "ley": "TFUE, art. 225"
+    },
+    {
+      "id": "tema_05_test_29_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 235.2 TFUE establece que el Consejo Europeo adoptará su reglamento interno. ¿A quién corresponde organizar los trabajos del Consejo Europeo?",
+      "options": {
+        "a": "A la Comisión Europea",
+        "b": "A la Secretaría General del Consejo",
+        "c": "Al Presidente del Parlamento Europeo",
+        "d": "Al Presidente del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 235.4 TFUE establece que 'La Secretaría General del Consejo asistirá al Consejo Europeo'.",
+      "ley": "TFUE, art. 235"
+    },
+    {
+      "id": "tema_05_test_29_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 232 TFUE, ¿qué establece el Parlamento Europeo mediante mayoría de los miembros que lo componen?",
+      "options": {
+        "a": "Su reglamento interno",
+        "b": "Sus orientaciones legislativas para cada legislatura",
+        "c": "El presupuesto del Parlamento Europeo",
+        "d": "La lista de candidatos a comisarios propuesta por los Estados"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 232 TFUE establece que 'El Parlamento Europeo establecerá su reglamento interno por mayoría de los miembros que lo componen'.",
+      "ley": "TFUE, art. 232"
+    }
+  ]
+}

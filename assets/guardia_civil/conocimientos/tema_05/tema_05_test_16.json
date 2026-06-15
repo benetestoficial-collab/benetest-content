@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_05_test_16_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 2 TUE establece los valores de la Unión. ¿Quiénes son comunes a los Estados miembros?",
+      "options": {
+        "a": "Solo los valores económicos y sociales",
+        "b": "Todos los valores enumerados en el art. 2 TUE",
+        "c": "Solo los valores políticos: democracia y Estado de Derecho",
+        "d": "Solo los que hayan sido incorporados a las constituciones nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 2 TUE establece que 'Estos valores son comunes a los Estados miembros en una sociedad caracterizada por el pluralismo, la no discriminación, la tolerancia, la justicia, la solidaridad y la igualdad entre mujeres y hombres'.",
+      "ley": "TUE, art. 2"
+    },
+    {
+      "id": "tema_05_test_16_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 16.1 TUE establece las funciones del Consejo. ¿Cuál de las siguientes es una función del Consejo que NO comparte con el Parlamento Europeo?",
+      "options": {
+        "a": "La función legislativa",
+        "b": "La función presupuestaria",
+        "c": "La función de definición de políticas y de coordinación",
+        "d": "El control político de la Comisión"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 16.1 TUE establece que el Consejo ejerce la función legislativa y presupuestaria conjuntamente con el Parlamento, pero 'Ejercerá funciones de definición de políticas y de coordinación, en las condiciones establecidas en los Tratados', que es una función propia del Consejo.",
+      "ley": "TUE, art. 16.1"
+    },
+    {
+      "id": "tema_05_test_16_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 43.1 TUE, las misiones de la PCSD abarcan 'actuaciones conjuntas en materia de desarme' y 'misiones humanitarias y de rescate'. ¿Qué otras dos categorías de misiones se mencionan expresamente antes de las de gestión de crisis?",
+      "options": {
+        "a": "Misiones de intervención policial y misiones de reconstrucción posconflicto",
+        "b": "Misiones de asesoramiento y asistencia en cuestiones militares, y misiones de prevención de conflictos y mantenimiento de la paz",
+        "c": "Misiones de vigilancia de fronteras y misiones de lucha antiterrorista",
+        "d": "Misiones de protección de civiles y misiones de ayuda a refugiados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 43.1 TUE enumera: actuaciones de desarme, misiones humanitarias y de rescate, misiones de asesoramiento y asistencia en cuestiones militares, misiones de prevención de conflictos y mantenimiento de la paz, y finalmente las misiones de gestión de crisis.",
+      "ley": "TUE, art. 43.1"
+    },
+    {
+      "id": "tema_05_test_16_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.1 TUE, la Comisión 'supervisará la aplicación del Derecho de la Unión'. ¿Bajo el control de qué institución?",
+      "options": {
+        "a": "Bajo el control del Consejo",
+        "b": "Bajo el control del Tribunal de Justicia de la Unión Europea",
+        "c": "Bajo el control del Parlamento Europeo",
+        "d": "Bajo el control del Tribunal de Cuentas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.1 TUE establece que la Comisión 'Supervisará la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia de la Unión Europea'.",
+      "ley": "TUE, art. 17.1"
+    },
+    {
+      "id": "tema_05_test_16_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.2 TUE, ¿con arreglo a qué artículo del TFUE se negocia el acuerdo de retirada?",
+      "options": {
+        "a": "Artículo 207 TFUE",
+        "b": "Artículo 218, apartado 3 TFUE",
+        "c": "Artículo 354 TFUE",
+        "d": "Artículo 238 TFUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 50.2 TUE establece que el acuerdo de retirada 'se negociará con arreglo al apartado 3 del artículo 218 del Tratado de Funcionamiento de la Unión Europea'.",
+      "ley": "TUE, art. 50.2"
+    },
+    {
+      "id": "tema_05_test_16_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.2 TUE, ¿quién adopta la decisión por la que se establece la cooperación estructurada permanente y se fija la lista de los Estados participantes?",
+      "options": {
+        "a": "El Consejo Europeo por unanimidad de los participantes",
+        "b": "El Consejo por mayoría cualificada, tras consultar al Alto Representante",
+        "c": "El Parlamento Europeo por mayoría de sus miembros",
+        "d": "La Comisión mediante propuesta y el Consejo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46.2 TUE establece que 'el Consejo adoptará una decisión por la que se establezca la cooperación estructurada permanente y se fije la lista de los Estados miembros participantes. El Consejo, tras consultar al Alto Representante, se pronunciará por mayoría cualificada'.",
+      "ley": "TUE, art. 46.2"
+    },
+    {
+      "id": "tema_05_test_16_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 3.3 TUE establece que la Unión fomentará la igualdad entre mujeres y hombres. ¿Junto a qué otros principios aparece este objetivo en el mismo párrafo del artículo?",
+      "options": {
+        "a": "La solidaridad intergeneracional y la protección del medio ambiente",
+        "b": "La justicia y la protección sociales, la solidaridad entre las generaciones y la protección de los derechos del niño",
+        "c": "La libre competencia y los derechos de los consumidores",
+        "d": "El pleno empleo y el progreso económico"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que la Unión 'fomentará la justicia y la protección sociales, la igualdad entre mujeres y hombres, la solidaridad entre las generaciones y la protección de los derechos del niño'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_16_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 13.1 TUE, ¿cuál es la diferencia entre el Tribunal de Justicia y el Tribunal de Cuentas en cuanto a su condición institucional?",
+      "options": {
+        "a": "El Tribunal de Cuentas no es institución, sino órgano consultivo",
+        "b": "Ambos son instituciones de la Unión listadas en el art. 13.1 TUE",
+        "c": "El Tribunal de Justicia es institución y el Tribunal de Cuentas es órgano auxiliar",
+        "d": "Solo el Tribunal de Justicia figura en el art. 13.1 TUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 13.1 TUE enumera ambos como instituciones: 'El Tribunal de Justicia de la Unión Europea' y 'El Tribunal de Cuentas'. Los dos son instituciones de pleno derecho de la Unión.",
+      "ley": "TUE, art. 13.1"
+    },
+    {
+      "id": "tema_05_test_16_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.4 TUE, el Alto Representante puede proponer que para una misión de la PCSD se recurra a medios nacionales y a los instrumentos de la Unión. ¿Con quién puede hacerlo conjuntamente?",
+      "options": {
+        "a": "Con el Presidente del Consejo Europeo",
+        "b": "Con la Comisión",
+        "c": "Con el Comité Militar de la UE",
+        "d": "Con el Presidente del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.4 TUE establece que 'El Alto Representante podrá proponer que se recurra a medios nacionales y a los instrumentos de la Unión, en su caso conjuntamente con la Comisión'.",
+      "ley": "TUE, art. 42.4"
+    },
+    {
+      "id": "tema_05_test_16_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre la duración del Tratado según el art. 53 TUE y su entrada en vigor según el art. 54 TUE:",
+      "options": {
+        "a": "Se concluye por 100 años y entró en vigor el 1 de noviembre de 1993",
+        "b": "Se concluye por período ilimitado y entró en vigor el 1 de enero de 1993",
+        "c": "Se concluye por período ilimitado y la fecha prevista de entrada en vigor era el 1 de enero de 1993",
+        "d": "Se concluye por 50 años renovables y entró en vigor el 7 de febrero de 1992"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 53 TUE establece que se concluye 'por un período de tiempo ilimitado'. El art. 54.2 TUE establece que 'entrará en vigor el 1 de enero de 1993, siempre que se hayan depositado todos los instrumentos de ratificación'. En la práctica entró en vigor el 1 de noviembre de 1993.",
+      "ley": "TUE, art. 53 y art. 54.2"
+    },
+    {
+      "id": "tema_05_test_16_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 12 TUE enumera las formas en que los Parlamentos nacionales contribuyen al funcionamiento de la Unión. ¿Cuántas letras (apartados) tiene ese artículo?",
+      "options": {
+        "a": "Cuatro apartados: a, b, c, d",
+        "b": "Cinco apartados: a, b, c, d, e",
+        "c": "Seis apartados: a, b, c, d, e, f",
+        "d": "Siete apartados: a, b, c, d, e, f, g"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 12 TUE tiene seis letras: a) (información sobre proyectos legislativos), b) (subsidiariedad), c) (espacio de libertad, seguridad y justicia), d) (revisión de Tratados), e) (solicitudes de adhesión) y f) (cooperación interparlamentaria).",
+      "ley": "TUE, art. 12"
+    },
+    {
+      "id": "tema_05_test_16_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 17.3 TUE establece que los miembros de la Comisión son elegidos en razón de su 'competencia general y de su compromiso europeo'. ¿De entre qué tipo de personalidades?",
+      "options": {
+        "a": "De entre ex jefes de gobierno o ex ministros de Asuntos Europeos",
+        "b": "De entre personalidades que ofrezcan plenas garantías de independencia",
+        "c": "De entre los miembros del Parlamento Europeo de mayor trayectoria",
+        "d": "De entre los funcionarios europeos de mayor rango"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.3 TUE establece que los miembros de la Comisión 'serán elegidos en razón de su competencia general y de su compromiso europeo, de entre personalidades que ofrezcan plenas garantías de independencia'.",
+      "ley": "TUE, art. 17.3"
+    },
+    {
+      "id": "tema_05_test_16_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 5.3 TUE establece que la Unión intervendrá por subsidiariedad cuando los objetivos 'puedan alcanzarse mejor' a escala de la Unión. ¿A qué se debe esa mejor consecución?",
+      "options": {
+        "a": "A la mayor eficiencia de las instituciones europeas",
+        "b": "A la dimensión o a los efectos de la acción pretendida",
+        "c": "Al mandato explícito de los ciudadanos europeos",
+        "d": "A la incapacidad técnica de los Estados para actuar"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 5.3 TUE establece que la Unión puede actuar cuando los objetivos 'puedan alcanzarse mejor, debido a la dimensión o a los efectos de la acción pretendida, a escala de la Unión'.",
+      "ley": "TUE, art. 5.3"
+    },
+    {
+      "id": "tema_05_test_16_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 19.1 TUE, el Tribunal de Justicia de la Unión Europea garantiza el respeto del Derecho en la 'interpretación y aplicación' de los Tratados. ¿Qué establece para los Estados miembros en este mismo artículo?",
+      "options": {
+        "a": "Los obliga a crear tribunales especializados en Derecho europeo",
+        "b": "Los obliga a establecer las vías de recurso necesarias para garantizar la tutela judicial efectiva",
+        "c": "Les prohíbe crear jurisprudencia contraria al Derecho de la Unión",
+        "d": "Les exige remitir todos los asuntos de Derecho europeo al TJUE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 19.1 TUE dispone: 'Los Estados miembros establecerán las vías de recurso necesarias para garantizar la tutela judicial efectiva en los ámbitos cubiertos por el Derecho de la Unión'.",
+      "ley": "TUE, art. 19.1"
+    },
+    {
+      "id": "tema_05_test_16_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.2 TUE, ¿qué decide el Consejo sobre el estatuto, sede y forma de funcionamiento de la Agencia Europea de Defensa?",
+      "options": {
+        "a": "Por unanimidad de todos los Estados miembros",
+        "b": "Por mayoría cualificada teniendo en cuenta el grado de participación efectiva en las actividades",
+        "c": "Por consenso de los Estados participantes en la Agencia",
+        "d": "Por mayoría simple de los miembros del Consejo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 45.2 TUE establece que 'El Consejo adoptará por mayoría cualificada una decisión en la que se determinará el estatuto, la sede y la forma de funcionamiento de la Agencia. La decisión tendrá en cuenta el grado de participación efectiva en las actividades de la Agencia'.",
+      "ley": "TUE, art. 45.2"
+    },
+    {
+      "id": "tema_05_test_16_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.2 TUE, ¿quiénes pueden presentar proyectos de revisión de los Tratados al Consejo?",
+      "options": {
+        "a": "Solo los Estados miembros",
+        "b": "El Gobierno de cualquier Estado miembro, el Parlamento Europeo o la Comisión",
+        "c": "El Consejo Europeo por iniciativa propia",
+        "d": "El Tribunal de Justicia mediante propuesta motivada"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 48.2 TUE establece que 'El Gobierno de cualquier Estado miembro, el Parlamento Europeo o la Comisión podrán presentar al Consejo proyectos de revisión de los Tratados'.",
+      "ley": "TUE, art. 48.2"
+    },
+    {
+      "id": "tema_05_test_16_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El Título IV del TUE se titula 'Disposiciones sobre las Cooperaciones Reforzadas' y solo contiene el art. 20. ¿Cuántos apartados tiene dicho artículo?",
+      "options": {
+        "a": "Dos apartados",
+        "b": "Tres apartados",
+        "c": "Cuatro apartados",
+        "d": "Cinco apartados"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 20 TUE tiene cuatro apartados: el art. 20.1 (definición y finalidad), 20.2 (decisión de autorización y mínimo de 9 Estados), 20.3 (participación en deliberaciones y votaciones) y 20.4 (efecto vinculante solo para participantes y no es acervo).",
+      "ley": "TUE, art. 20"
+    },
+    {
+      "id": "tema_05_test_16_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.1 TUE, el Consejo puede constatar el riesgo claro de violación y dirigir recomendaciones al Estado afectado. Además, comprobará periódicamente si:",
+      "options": {
+        "a": "El Estado ha adoptado medidas correctoras",
+        "b": "Los motivos que llevaron a la constatación siguen siendo válidos",
+        "c": "El procedimiento del art. 7.2 debe iniciarse",
+        "d": "Se requiere la aprobación del Tribunal de Justicia para continuar"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.1 TUE establece que 'El Consejo comprobará de manera periódica si los motivos que han llevado a tal constatación siguen siendo válidos'.",
+      "ley": "TUE, art. 7.1"
+    },
+    {
+      "id": "tema_05_test_16_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 42.3 TUE menciona que los Estados que constituyan entre ellos fuerzas multinacionales podrán:",
+      "options": {
+        "a": "Crear una estructura de mando autónoma fuera de la PCSD",
+        "b": "Ponerlas a disposición de la política común de seguridad y defensa",
+        "c": "Integrarlas directamente en la estructura de la OTAN",
+        "d": "Utilizarlas exclusivamente para misiones humanitarias"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 42.3 TUE establece que 'Los Estados miembros que constituyan entre ellos fuerzas multinacionales podrán asimismo ponerlas a disposición de la política común de seguridad y defensa'.",
+      "ley": "TUE, art. 42.3"
+    },
+    {
+      "id": "tema_05_test_16_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.2 TUE, la Unión ofrecerá a sus ciudadanos un espacio de libertad, seguridad y justicia. ¿Qué tipo de fronteras interiores tendrá?",
+      "options": {
+        "a": "Fronteras con controles mínimos",
+        "b": "Sin fronteras interiores",
+        "c": "Fronteras virtuales con control electrónico",
+        "d": "Fronteras con controles solo para mercancías"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.2 TUE establece que la Unión ofrecerá 'un espacio de libertad, seguridad y justicia sin fronteras interiores', lo que garantiza la libre circulación de personas.",
+      "ley": "TUE, art. 3.2"
+    }
+  ]
+}

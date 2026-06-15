@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_05_test_05_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 14.2 TUE, ¿cuál es el número máximo de escaños asignables a un solo Estado miembro en el Parlamento Europeo?",
+      "options": {
+        "a": "72 escaños",
+        "b": "80 escaños",
+        "c": "96 escaños",
+        "d": "99 escaños"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 14.2 TUE establece que 'No se asignará a ningún Estado miembro más de 96 escaños'.",
+      "ley": "TUE, art. 14.2"
+    },
+    {
+      "id": "tema_05_test_05_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Cuál de los siguientes no es un valor fundacional de la Unión recogido en el art. 2 TUE?",
+      "options": {
+        "a": "Respeto a la dignidad humana",
+        "b": "Democracia",
+        "c": "Prosperidad económica",
+        "d": "Estado de Derecho"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 2 TUE enumera como valores: dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto a los derechos humanos. La 'prosperidad económica' no es un valor fundacional.",
+      "ley": "TUE, art. 2"
+    },
+    {
+      "id": "tema_05_test_05_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 15.4 TUE, el Consejo Europeo se pronuncia con carácter general por:",
+      "options": {
+        "a": "Mayoría cualificada",
+        "b": "Unanimidad",
+        "c": "Consenso",
+        "d": "Mayoría simple"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 15.4 TUE establece que 'El Consejo Europeo se pronunciará por consenso, excepto cuando los Tratados dispongan otra cosa'.",
+      "ley": "TUE, art. 15.4"
+    },
+    {
+      "id": "tema_05_test_05_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 46.6 TUE, las decisiones y recomendaciones del Consejo en el marco de la cooperación estructurada permanente distintas de las de admisión o exclusión se adoptan por:",
+      "options": {
+        "a": "Mayoría simple de los participantes",
+        "b": "Mayoría cualificada de los participantes",
+        "c": "Unanimidad de los participantes",
+        "d": "Mayoría de dos tercios de los participantes"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 46.6 TUE establece que 'Las decisiones y las recomendaciones del Consejo en el marco de la cooperación estructurada permanente, distintas de las contempladas en los apartados 2 a 5, se adoptarán por unanimidad'.",
+      "ley": "TUE, art. 46.6"
+    },
+    {
+      "id": "tema_05_test_05_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.8 TUE, el Consejo se reunirá en público cuando:",
+      "options": {
+        "a": "Debata asuntos de política exterior",
+        "b": "Delibere y vote sobre un proyecto de acto legislativo",
+        "c": "Trate asuntos relativos al presupuesto",
+        "d": "Examine informes de la Comisión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.8 TUE establece que 'El Consejo se reunirá en público cuando delibere y vote sobre un proyecto de acto legislativo'.",
+      "ley": "TUE, art. 16.8"
+    },
+    {
+      "id": "tema_05_test_05_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Qué principio establece que el contenido y la forma de la acción de la Unión no excederán de lo necesario para alcanzar los objetivos de los Tratados?",
+      "options": {
+        "a": "Principio de atribución",
+        "b": "Principio de subsidiariedad",
+        "c": "Principio de proporcionalidad",
+        "d": "Principio de cooperación leal"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 5.4 TUE establece que 'En virtud del principio de proporcionalidad, el contenido y la forma de la acción de la Unión no excederán de lo necesario para alcanzar los objetivos de los Tratados'.",
+      "ley": "TUE, art. 5.4"
+    },
+    {
+      "id": "tema_05_test_05_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 7.1 TUE, ¿quiénes pueden presentar la propuesta motivada para constatar el riesgo de violación de los valores del art. 2?",
+      "options": {
+        "a": "Un quinto de los Estados miembros, el Parlamento Europeo o la Comisión",
+        "b": "Un tercio de los Estados miembros, el Parlamento Europeo o la Comisión",
+        "c": "La mitad de los Estados miembros o el Consejo Europeo",
+        "d": "El Tribunal de Justicia o el Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 7.1 TUE establece que la propuesta motivada puede presentarla 'un tercio de los Estados miembros, del Parlamento Europeo o de la Comisión'.",
+      "ley": "TUE, art. 7.1"
+    },
+    {
+      "id": "tema_05_test_05_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 50.1 TUE, ¿qué puede decidir todo Estado miembro conforme a sus normas constitucionales?",
+      "options": {
+        "a": "Suspender su participación en determinadas políticas comunes",
+        "b": "Retirarse de la Unión",
+        "c": "Vetar los actos legislativos que no le beneficien",
+        "d": "Aplicar cláusulas de salvaguardia económica"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 50.1 TUE establece que 'Todo Estado miembro podrá decidir, de conformidad con sus normas constitucionales, retirarse de la Unión'.",
+      "ley": "TUE, art. 50.1"
+    },
+    {
+      "id": "tema_05_test_05_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 42.2 TUE, ¿quién debe decidir por unanimidad para que la política de defensa conduzca a una defensa común?",
+      "options": {
+        "a": "El Consejo por unanimidad",
+        "b": "El Parlamento Europeo por mayoría cualificada",
+        "c": "El Consejo Europeo por unanimidad",
+        "d": "Los Estados miembros en referéndum simultáneo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 42.2 TUE establece que la política común de defensa 'conducirá a una defensa común una vez que el Consejo Europeo lo haya decidido por unanimidad'.",
+      "ley": "TUE, art. 42.2"
+    },
+    {
+      "id": "tema_05_test_05_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.4 TUE, ¿cómo estará compuesta la Comisión nombrada entre la entrada en vigor del Tratado de Lisboa y el 31 de octubre de 2014?",
+      "options": {
+        "a": "Por dos tercios del número de Estados miembros",
+        "b": "Por un nacional de cada Estado miembro",
+        "c": "Por quince miembros fijos independientemente del número de Estados",
+        "d": "Por un representante por cada tres Estados miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.4 TUE establece que la Comisión nombrada entre la entrada en vigor del Tratado de Lisboa y el 31 de octubre de 2014 'estará compuesta por un nacional de cada Estado miembro'.",
+      "ley": "TUE, art. 17.4"
+    },
+    {
+      "id": "tema_05_test_05_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA. El Alto Representante según el art. 18 TUE es:",
+      "options": {
+        "a": "Solo Vicepresidente de la Comisión",
+        "b": "Presidente del Consejo Europeo",
+        "c": "Vicepresidente de la Comisión y preside el Consejo de Asuntos Exteriores",
+        "d": "Elegido por sufragio directo de los ciudadanos europeos"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). Según el art. 18 TUE, el Alto Representante es 'uno de los Vicepresidentes de la Comisión' y además 'Presidirá el Consejo de Asuntos Exteriores'. Tiene un doble sombrero institucional.",
+      "ley": "TUE, art. 18"
+    },
+    {
+      "id": "tema_05_test_05_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.9 TUE, la presidencia de las formaciones del Consejo (salvo Asuntos Exteriores) se desempeña mediante:",
+      "options": {
+        "a": "Elección por mayoría cualificada entre los miembros",
+        "b": "Un sistema de rotación igual",
+        "c": "Designación por el Consejo Europeo",
+        "d": "Turno por orden alfabético permanente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.9 TUE establece que 'La presidencia de las formaciones del Consejo, con excepción de la de Asuntos Exteriores, será desempeñada por los representantes de los Estados miembros en el Consejo mediante un sistema de rotación igual'.",
+      "ley": "TUE, art. 16.9"
+    },
+    {
+      "id": "tema_05_test_05_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.6 TUE, el procedimiento de revisión simplificado solo puede afectar a las disposiciones de:",
+      "options": {
+        "a": "La primera parte del TFUE (Principios)",
+        "b": "La segunda parte del TFUE (No discriminación y ciudadanía)",
+        "c": "La tercera parte del TFUE (Políticas y acciones internas de la Unión)",
+        "d": "Cualquier parte de los Tratados"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.6 TUE establece que el procedimiento simplificado solo puede revisar 'la totalidad o parte de las disposiciones de la tercera parte del Tratado de Funcionamiento de la Unión Europea, relativas a las políticas y acciones internas de la Unión'.",
+      "ley": "TUE, art. 48.6"
+    },
+    {
+      "id": "tema_05_test_05_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Los partidos políticos a escala europea, según el art. 10.4 TUE, contribuyen a:",
+      "options": {
+        "a": "Financiar las campañas de los candidatos a la Comisión",
+        "b": "Formar la conciencia política europea y expresar la voluntad de los ciudadanos de la Unión",
+        "c": "Designar a los comisarios de cada Estado miembro",
+        "d": "Controlar la actividad del Parlamento Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 10.4 TUE establece que 'Los partidos políticos a escala europea contribuirán a formar la conciencia política europea y a expresar la voluntad de los ciudadanos de la Unión'.",
+      "ley": "TUE, art. 10.4"
+    },
+    {
+      "id": "tema_05_test_05_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre la Comisión Europea según el art. 17.3 TUE:",
+      "options": {
+        "a": "Sus miembros se eligen en razón de su competencia general",
+        "b": "Sus miembros deben ofrecer plenas garantías de independencia",
+        "c": "Los miembros pueden aceptar instrucciones de sus Gobiernos nacionales",
+        "d": "La Comisión ejerce sus responsabilidades con plena independencia"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 17.3 TUE establece que 'los miembros de la Comisión no solicitarán ni aceptarán instrucciones de ningún gobierno, institución, órgano u organismo', lo que hace que esta opción sea la INCORRECTA.",
+      "ley": "TUE, art. 17.3"
+    },
+    {
+      "id": "tema_05_test_05_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 49 TUE, el Parlamento Europeo debe aprobar la adhesión de un nuevo Estado miembro por:",
+      "options": {
+        "a": "Mayoría cualificada",
+        "b": "Unanimidad",
+        "c": "Mayoría de los miembros que lo componen",
+        "d": "Mayoría de dos tercios"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 49 TUE establece que la adhesión requiere 'previa aprobación del Parlamento Europeo, el cual se pronunciará por mayoría de los miembros que lo componen'.",
+      "ley": "TUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_05_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 6.2 TUE, ¿qué adhesión realizará la Unión respecto al Convenio Europeo de Derechos Humanos?",
+      "options": {
+        "a": "La Unión ya es parte del Convenio",
+        "b": "La Unión se adherirá al Convenio Europeo para la Protección de los Derechos Humanos",
+        "c": "La Unión rechaza adherirse por razones de soberanía",
+        "d": "La adhesión es facultativa para cada Estado miembro"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 6.2 TUE establece que 'La Unión se adherirá al Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales'.",
+      "ley": "TUE, art. 6.2"
+    },
+    {
+      "id": "tema_05_test_05_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Qué ocurre si el Estado miembro que se ha retirado de la Unión solicita de nuevo la adhesión, según el art. 50.5 TUE?",
+      "options": {
+        "a": "Puede reincorporarse automáticamente",
+        "b": "Debe seguir el procedimiento del art. 49 TUE",
+        "c": "El Consejo decide por unanimidad su readmisión directa",
+        "d": "Necesita un acuerdo especial aprobado por todos los Estados"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 50.5 TUE establece que 'Si el Estado miembro que se ha retirado de la Unión solicita de nuevo la adhesión, su solicitud se someterá al procedimiento establecido en el artículo 49'.",
+      "ley": "TUE, art. 50.5"
+    },
+    {
+      "id": "tema_05_test_05_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 15.5 TUE, ¿cuántas veces puede renovarse el mandato del Presidente del Consejo Europeo?",
+      "options": {
+        "a": "No puede renovarse",
+        "b": "Una sola vez",
+        "c": "Dos veces",
+        "d": "Sin límite de renovaciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.5 TUE establece que el mandato de dos años y medio del Presidente del Consejo Europeo 'podrá renovarse una sola vez'.",
+      "ley": "TUE, art. 15.5"
+    },
+    {
+      "id": "tema_05_test_05_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 4.1 TUE, toda competencia no atribuida a la Unión en los Tratados:",
+      "options": {
+        "a": "La ejerce conjuntamente con los Estados miembros",
+        "b": "Corresponde a los Estados miembros",
+        "c": "Puede atribuirse a la Unión por decisión del Consejo Europeo",
+        "d": "Queda en suspenso hasta que los Tratados la regulen"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 4.1 TUE establece el principio residual: 'Toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros'.",
+      "ley": "TUE, art. 4.1"
+    }
+  ]
+}

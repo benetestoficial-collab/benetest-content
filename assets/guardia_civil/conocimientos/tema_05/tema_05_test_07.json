@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 7",
+  "preguntas": [
+    {
+      "id": "tema_05_test_07_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 15.2 TUE, ¿quién participa en los trabajos del Consejo Europeo además de los Jefes de Estado o de Gobierno?",
+      "options": {
+        "a": "Los ministros de Asuntos Exteriores de cada Estado",
+        "b": "El Presidente del Consejo Europeo, el Presidente de la Comisión y el Alto Representante",
+        "c": "El Presidente del Tribunal de Justicia",
+        "d": "El Presidente del Banco Central Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 15.2 TUE establece que el Consejo Europeo está compuesto por los Jefes de Estado o de Gobierno, 'así como por su Presidente y por el Presidente de la Comisión. Participará en sus trabajos el Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad'.",
+      "ley": "TUE, art. 15.2"
+    },
+    {
+      "id": "tema_05_test_07_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 12.d) TUE, los Parlamentos nacionales participan en los procedimientos de revisión de los Tratados de conformidad con el artículo:",
+      "options": {
+        "a": "Art. 48 TUE",
+        "b": "Art. 49 TUE",
+        "c": "Art. 50 TUE",
+        "d": "Art. 20 TUE"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la a). El art. 12.d) TUE establece que los Parlamentos nacionales 'participarán en los procedimientos de revisión de los Tratados, de conformidad con el artículo 48 del presente Tratado'.",
+      "ley": "TUE, art. 12.d)"
+    },
+    {
+      "id": "tema_05_test_07_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre el Tribunal de Justicia según el art. 19 TUE:",
+      "options": {
+        "a": "Estará compuesto por un juez por Estado miembro",
+        "b": "Estará asistido por abogados generales",
+        "c": "Los jueces se nombran por un período de ocho años",
+        "d": "Los jueces salientes podrán ser nombrados de nuevo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 19.2 TUE establece que los jueces 'Serán nombrados de común acuerdo por los Gobiernos de los Estados miembros para un período de seis años', no ocho años.",
+      "ley": "TUE, art. 19.2"
+    },
+    {
+      "id": "tema_05_test_07_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 20.2 TUE, ¿cuándo decide el Consejo autorizar una cooperación reforzada?",
+      "options": {
+        "a": "Siempre que lo soliciten al menos 9 Estados miembros",
+        "b": "Como último recurso, cuando la Unión en su conjunto no puede alcanzar los objetivos en un plazo razonable",
+        "c": "Cuando lo proponga la Comisión por mayoría cualificada",
+        "d": "Tras la aprobación del Parlamento Europeo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 20.2 TUE establece que la decisión se adoptará 'como último recurso, cuando haya llegado a la conclusión de que los objetivos perseguidos por dicha cooperación no pueden ser alcanzados en un plazo razonable por la Unión en su conjunto'.",
+      "ley": "TUE, art. 20.2"
+    },
+    {
+      "id": "tema_05_test_07_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 9 TUE, ¿quién será ciudadano de la Unión?",
+      "options": {
+        "a": "Toda persona que resida legalmente en un Estado miembro",
+        "b": "Toda persona que tenga la nacionalidad de un Estado miembro",
+        "c": "Toda persona nacida en el territorio de la Unión",
+        "d": "Toda persona que haya obtenido el permiso de residencia permanente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 9 TUE establece que 'Será ciudadano de la Unión toda persona que tenga la nacionalidad de un Estado miembro'.",
+      "ley": "TUE, art. 9"
+    },
+    {
+      "id": "tema_05_test_07_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 48.3 TUE, ¿quién convoca la Convención para examinar proyectos de revisión de los Tratados?",
+      "options": {
+        "a": "El Presidente de la Comisión",
+        "b": "El Presidente del Parlamento Europeo",
+        "c": "El Presidente del Consejo Europeo",
+        "d": "El Presidente del Consejo"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 48.3 TUE establece que 'el Presidente del Consejo Europeo convocará una Convención compuesta por representantes de los Parlamentos nacionales, de los Jefes de Estado o de Gobierno, del Parlamento Europeo y de la Comisión'.",
+      "ley": "TUE, art. 48.3"
+    },
+    {
+      "id": "tema_05_test_07_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿Qué artículo del TUE regula la clausula de retirada voluntaria de la Unión?",
+      "options": {
+        "a": "Art. 47 TUE",
+        "b": "Art. 48 TUE",
+        "c": "Art. 49 TUE",
+        "d": "Art. 50 TUE"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 50 TUE regula el procedimiento por el cual 'Todo Estado miembro podrá decidir, de conformidad con sus normas constitucionales, retirarse de la Unión'. Es la cláusula conocida como Brexit en el caso del Reino Unido.",
+      "ley": "TUE, art. 50"
+    },
+    {
+      "id": "tema_05_test_07_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.3 TUE, ¿qué combatirá la Unión en el ámbito social?",
+      "options": {
+        "a": "La inflación y la deuda pública",
+        "b": "La exclusión social y la discriminación",
+        "c": "El desempleo estructural y la deflación",
+        "d": "Las desigualdades regionales en la producción"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.3 TUE establece que 'La Unión combatirá la exclusión social y la discriminación y fomentará la justicia y la protección sociales, la igualdad entre mujeres y hombres, la solidaridad entre las generaciones y la protección de los derechos del niño'.",
+      "ley": "TUE, art. 3.3"
+    },
+    {
+      "id": "tema_05_test_07_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 17.6 TUE, un miembro de la Comisión presentará su dimisión si se lo pide:",
+      "options": {
+        "a": "El Consejo por mayoría cualificada",
+        "b": "El Parlamento Europeo por mayoría de sus miembros",
+        "c": "El Presidente de la Comisión",
+        "d": "El Consejo Europeo por unanimidad"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 17.6 TUE establece expresamente que 'Un miembro de la Comisión presentará su dimisión si se lo pide el Presidente'.",
+      "ley": "TUE, art. 17.6"
+    },
+    {
+      "id": "tema_05_test_07_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 54.2 TUE dispone que el TUE entrará en vigor el 1 de enero de 1993, siempre que:",
+      "options": {
+        "a": "Al menos dos tercios de los Estados lo hayan ratificado",
+        "b": "Se hayan depositado todos los instrumentos de ratificación",
+        "c": "El Consejo Europeo lo apruebe por unanimidad",
+        "d": "El Parlamento Europeo lo ratifique por mayoría absoluta"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 54.2 TUE establece que el Tratado 'entrará en vigor el 1 de enero de 1993, siempre que se hayan depositado todos los instrumentos de ratificación'.",
+      "ley": "TUE, art. 54.2"
+    },
+    {
+      "id": "tema_05_test_07_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 16.6 TUE, ¿qué Consejo elabora la acción exterior de la Unión?",
+      "options": {
+        "a": "El Consejo de Asuntos Generales",
+        "b": "El Consejo de Asuntos Exteriores",
+        "c": "El Consejo de Defensa y Seguridad",
+        "d": "El Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 16.6 TUE establece que 'El Consejo de Asuntos Exteriores elaborará la acción exterior de la Unión atendiendo a las líneas estratégicas definidas por el Consejo Europeo'.",
+      "ley": "TUE, art. 16.6"
+    },
+    {
+      "id": "tema_05_test_07_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción CORRECTA sobre el principio de subsidiariedad según el art. 5.3 TUE:",
+      "options": {
+        "a": "Se aplica en todos los ámbitos de competencia de la Unión, incluidos los exclusivos",
+        "b": "La Unión interviene cuando los objetivos no pueden alcanzarse suficientemente por los Estados a nivel central, regional o local",
+        "c": "Es aplicado exclusivamente por el Tribunal de Justicia",
+        "d": "Permite a los Estados bloquear toda acción de la Unión en sus territorios"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 5.3 TUE establece que la Unión intervendrá cuando los objetivos 'no puedan ser alcanzados de manera suficiente por los Estados miembros, ni a nivel central ni a nivel regional y local'.",
+      "ley": "TUE, art. 5.3"
+    },
+    {
+      "id": "tema_05_test_07_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 44.2 TUE, cuando la misión encomendada a un grupo de Estados acarrea consecuencias importantes o exige modificar el objetivo, ¿qué ocurre?",
+      "options": {
+        "a": "Los Estados participantes pueden decidir autónomamente",
+        "b": "El Alto Representante adopta las medidas necesarias",
+        "c": "Los Estados participantes comunican al Consejo y este adopta las decisiones necesarias",
+        "d": "La Comisión emite una recomendación vinculante"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 44.2 TUE establece que 'Los Estados miembros participantes comunicarán de inmediato al Consejo si la realización de la misión acarrea consecuencias importantes o exige una modificación del objetivo. En tales casos, el Consejo adoptará las decisiones necesarias'.",
+      "ley": "TUE, art. 44.2"
+    },
+    {
+      "id": "tema_05_test_07_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 3.1 TUE, ¿cuál es la finalidad principal de la Unión?",
+      "options": {
+        "a": "Establecer un mercado interior sin competencia",
+        "b": "Promover la paz, sus valores y el bienestar de sus pueblos",
+        "c": "Crear una federación de Estados europeos",
+        "d": "Garantizar la seguridad militar de sus miembros"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 3.1 TUE establece que 'La Unión tiene como finalidad promover la paz, sus valores y el bienestar de sus pueblos'.",
+      "ley": "TUE, art. 3.1"
+    },
+    {
+      "id": "tema_05_test_07_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 11.1 TUE, las instituciones darán a los ciudadanos y asociaciones representativas la posibilidad de expresar sus opiniones en:",
+      "options": {
+        "a": "Materias exclusivamente económicas y de mercado",
+        "b": "Todos los ámbitos de actuación de la Unión",
+        "c": "Asuntos de política exterior únicamente",
+        "d": "Los procedimientos legislativos en curso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11.1 TUE establece que las instituciones darán 'la posibilidad de expresar e intercambiar públicamente sus opiniones en todos los ámbitos de actuación de la Unión'.",
+      "ley": "TUE, art. 11.1"
+    },
+    {
+      "id": "tema_05_test_07_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 45.2 TUE, ¿qué Estado puede participar en la Agencia Europea de Defensa?",
+      "options": {
+        "a": "Solo los Estados fundadores de la UE",
+        "b": "Solo los Estados miembros de la OTAN",
+        "c": "Todos los Estados miembros que lo deseen",
+        "d": "Solo los Estados con mayor capacidad militar"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 45.2 TUE establece claramente que 'Podrán participar en la Agencia Europea de Defensa todos los Estados miembros que lo deseen'.",
+      "ley": "TUE, art. 45.2"
+    },
+    {
+      "id": "tema_05_test_07_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. ¿En cuántos idiomas fue redactado el Tratado de la Unión Europea según el art. 55.1 TUE?",
+      "options": {
+        "a": "15 idiomas",
+        "b": "20 idiomas",
+        "c": "23 idiomas",
+        "d": "27 idiomas"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 55.1 TUE enumera las lenguas en que fue redactado el Tratado: alemana, búlgara, checa, danesa, eslovaca, eslovena, española, estonia, finesa, francesa, griega, húngara, inglesa, irlandesa, italiana, letona, lituana, maltesa, neerlandesa, polaca, portuguesa, rumana y sueca. En total 23 lenguas.",
+      "ley": "TUE, art. 55.1"
+    },
+    {
+      "id": "tema_05_test_07_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 49 TUE, las condiciones de admisión de un nuevo Estado son objeto de un acuerdo que debe ser ratificado por:",
+      "options": {
+        "a": "El Parlamento Europeo por mayoría cualificada",
+        "b": "El Consejo Europeo por unanimidad",
+        "c": "Todos los Estados contratantes conforme a sus normas constitucionales",
+        "d": "La Comisión Europea previo informe del Tribunal de Justicia"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 49 TUE establece que el acuerdo de adhesión 'se someterá a la ratificación de todos los Estados contratantes, de conformidad con sus respectivas normas constitucionales'.",
+      "ley": "TUE, art. 49"
+    },
+    {
+      "id": "tema_05_test_07_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Señale la opción INCORRECTA sobre el Consejo Europeo según el art. 15.3 TUE:",
+      "options": {
+        "a": "Se reúne dos veces por semestre",
+        "b": "Es convocado por su Presidente",
+        "c": "Cada miembro puede contar con la asistencia de un ministro cuando el orden del día lo exija",
+        "d": "El Presidente de la Comisión puede ser asistido por dos miembros de la Comisión"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 15.3 TUE establece que 'los miembros del Consejo Europeo podrán decidir contar, cada uno de ellos, con la asistencia de un ministro y, en el caso del Presidente de la Comisión, con la de un miembro de la Comisión', no dos miembros.",
+      "ley": "TUE, art. 15.3"
+    },
+    {
+      "id": "tema_05_test_07_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 5.2 TUE, toda competencia no atribuida a la Unión en los Tratados:",
+      "options": {
+        "a": "Puede ser ejercida por la Unión si lo aprueba el Consejo",
+        "b": "Es compartida entre la Unión y los Estados miembros",
+        "c": "Corresponde a los Estados miembros",
+        "d": "Requiere unanimidad del Consejo para ser ejercida por la Unión"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 5.2 TUE establece de forma expresa que 'Toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros'.",
+      "ley": "TUE, art. 5.2"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 5,
+  "tema": "Derecho de la Unión Europea",
+  "test": "Test 36",
+  "preguntas": [
+    {
+      "id": "tema_05_test_36_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 174 TFUE define el objetivo de la política de cohesión. ¿Qué diferencias pretende reducir la Unión?",
+      "options": {
+        "a": "Las diferencias entre los distintos regímenes fiscales de los Estados miembros",
+        "b": "Las diferencias entre los niveles de desarrollo de las diversas regiones y el retraso de las regiones menos favorecidas",
+        "c": "Las diferencias entre los sistemas jurídicos de los Estados miembros",
+        "d": "Las diferencias de renta entre los trabajadores de los diferentes sectores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 174 TFUE establece que 'la Unión se propone, en particular, reducir las diferencias entre los niveles de desarrollo de las diversas regiones y el retraso de las regiones o islas menos favorecidas, incluidas las zonas rurales'.",
+      "ley": "TFUE, art. 174"
+    },
+    {
+      "id": "tema_05_test_36_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 174 TFUE, ¿a qué tipos de regiones prestará especial atención la Unión en materia de cohesión?",
+      "options": {
+        "a": "Solo a las regiones con mayor desempleo",
+        "b": "A las zonas rurales, las zonas afectadas por una transición industrial y las regiones con desventajas naturales o demográficas graves y permanentes, como las regiones más septentrionales con escasa densidad de población y las regiones insulares, transfronterizas y de montaña",
+        "c": "Solo a las regiones de los nuevos Estados miembros",
+        "d": "A las regiones costeras y a las zonas con alta densidad de población"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 174 TFUE establece que la Unión 'prestará especial atención a las zonas rurales, a las zonas afectadas por una transición industrial y a las regiones que padecen desventajas naturales o demográficas graves y permanentes como, por ejemplo, las regiones más septentrionales con escasa densidad de población y las regiones insulares, transfronterizas y de montaña'.",
+      "ley": "TFUE, art. 174"
+    },
+    {
+      "id": "tema_05_test_36_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 175 TFUE establece que los Estados miembros orientarán su política económica y la coordinarán para alcanzar los objetivos de cohesión. ¿Quiénes deben contribuir mediante los fondos estructurales?",
+      "options": {
+        "a": "Solo los Estados miembros más desarrollados",
+        "b": "La Unión a través de los fondos estructurales, del Fondo de Cohesión y de otros instrumentos financieros",
+        "c": "Los Estados miembros mediante contribuciones directas proporcionales a su PIB",
+        "d": "El Banco Central Europeo mediante créditos preferenciales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 175 TFUE establece que 'La consecución de dichos objetivos estará también apoyada por la acción que la Unión lleva a cabo por medio de los fondos con finalidad estructural (Fondo Europeo de Orientación y de Garantía Agrícola, sección «Orientación»; Fondo Social Europeo; Fondo Europeo de Desarrollo Regional), del Banco Europeo de Inversiones y de los demás instrumentos financieros existentes'.",
+      "ley": "TFUE, art. 175"
+    },
+    {
+      "id": "tema_05_test_36_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 177 TFUE, ¿quiénes establecen las normas de aplicación de los fondos estructurales?",
+      "options": {
+        "a": "La Comisión de forma autónoma",
+        "b": "El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, previa consulta al Comité Económico y Social y al Comité de las Regiones",
+        "c": "Los propios fondos mediante reglamentos de autogestión",
+        "d": "El Consejo Europeo por unanimidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 177 TFUE establece que 'El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario y previa consulta al Comité Económico y Social y al Comité de las Regiones, adoptarán mediante reglamentos las disposiciones relativas a los Fondos estructurales'.",
+      "ley": "TFUE, art. 177"
+    },
+    {
+      "id": "tema_05_test_36_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 176 TFUE, ¿cuál es el destino específico del Fondo Europeo de Desarrollo Regional (FEDER)?",
+      "options": {
+        "a": "Financiar las pensiones de los trabajadores de las regiones menos favorecidas",
+        "b": "Contribuir a la corrección de los principales desequilibrios regionales dentro de la Unión, participando en el desarrollo y ajuste estructural de las regiones menos desarrolladas y en la reconversión de las regiones industriales en declive",
+        "c": "Financiar proyectos de infraestructura de transporte en las regiones capitalinas",
+        "d": "Apoyar la investigación y el desarrollo tecnológico en todas las regiones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 176 TFUE establece que 'El Fondo Europeo de Desarrollo Regional estará destinado a contribuir a la corrección de los principales desequilibrios regionales dentro de la Unión, participando en el desarrollo y en el ajuste estructural de las regiones menos desarrolladas y en la reconversión de las regiones industriales en declive'.",
+      "ley": "TFUE, art. 176"
+    },
+    {
+      "id": "tema_05_test_36_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 177 TFUE también regula el Fondo de Cohesión. ¿Para qué Estados miembros fue creado originalmente y cuál es su finalidad?",
+      "options": {
+        "a": "Para todos los Estados miembros; financiar el desarrollo rural",
+        "b": "Para los Estados miembros con una renta nacional bruta per cápita inferior al 90% de la media de la Unión; proporcionar contribución financiera en proyectos de medio ambiente y redes transeuropeas de infraestructura de transporte",
+        "c": "Para los Estados miembros de Europa del Este únicamente",
+        "d": "Para los Estados fundadores de la CEE, en reconocimiento de su contribución histórica"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 177 TFUE establece que el Fondo de Cohesión 'proporcionará contribución financiera de la Unión a la realización de proyectos en los sectores del medio ambiente y de las redes transeuropeas de infraestructura de transporte' y está destinado a los 'Estados miembros con una renta nacional bruta per cápita inferior al 90% de la media de la Unión'.",
+      "ley": "TFUE, art. 177"
+    },
+    {
+      "id": "tema_05_test_36_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 175 TFUE, ¿qué deben hacer los Estados miembros al establecer y ejecutar sus propias políticas y aplicar los fondos europeos?",
+      "options": {
+        "a": "Obtener autorización previa de la Comisión para cada medida adoptada",
+        "b": "Orientar su política económica y coordinarla de tal modo que queden asegurados los objetivos del art. 174; la formulación y aplicación de las políticas y acciones de la Unión y la realización del mercado interior tendrán en cuenta los objetivos del art. 174 y coadyuvarán a su realización",
+        "c": "Redirigir automáticamente todos sus presupuestos hacia las regiones menos favorecidas",
+        "d": "Crear agencias regionales de desarrollo financiadas exclusivamente con fondos nacionales"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 175 TFUE establece que 'Los Estados miembros orientarán su política económica y la coordinarán de tal modo que queden asegurados los objetivos enunciados en el artículo 174' y que 'la formulación y aplicación de las políticas y acciones de la Unión y la realización del mercado interior tendrán en cuenta los objetivos enunciados en el artículo 174 y coadyuvarán a su realización'.",
+      "ley": "TFUE, art. 175"
+    },
+    {
+      "id": "tema_05_test_36_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 178 TFUE, ¿qué disposiciones se aplicarán al FEDER?",
+      "options": {
+        "a": "Las mismas que al Fondo Social Europeo",
+        "b": "Las disposiciones de los arts. 177 y 178 TFUE",
+        "c": "Las disposiciones generales de los arts. 174 a 178 TFUE",
+        "d": "Las disposiciones de los reglamentos adoptados con arreglo al art. 177 TFUE"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 178 TFUE establece que 'Se aplicarán al Fondo Europeo de Desarrollo Regional las disposiciones del artículo 177', que es el que regula la adopción de los reglamentos de los fondos estructurales.",
+      "ley": "TFUE, art. 178"
+    },
+    {
+      "id": "tema_05_test_36_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 175 TFUE establece que la Comisión presentará al Parlamento Europeo, al Consejo, al Comité Económico y Social y al Comité de las Regiones un informe sobre los avances realizados en cohesión. ¿Con qué periodicidad?",
+      "options": {
+        "a": "Anualmente",
+        "b": "Cada tres años",
+        "c": "Cada cinco años, coincidiendo con el período del marco financiero plurianual",
+        "d": "Cada dos años"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 175 TFUE establece que 'Cada tres años, la Comisión presentará un informe al Parlamento Europeo, al Consejo, al Comité Económico y Social y al Comité de las Regiones sobre los avances realizados en la consecución de la cohesión económica, social y territorial'.",
+      "ley": "TFUE, art. 175"
+    },
+    {
+      "id": "tema_05_test_36_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El Título XVIII del TFUE se titula 'Cohesión económica, social y territorial'. ¿Cuántos artículos contiene?",
+      "options": {
+        "a": "Tres artículos (arts. 174-176)",
+        "b": "Cinco artículos (arts. 174-178)",
+        "c": "Siete artículos (arts. 174-180)",
+        "d": "Cuatro artículos (arts. 174-177)"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El Título XVIII del TFUE (Cohesión económica, social y territorial) contiene cinco artículos: art. 174 (objetivo de cohesión), art. 175 (políticas de cohesión), art. 176 (FEDER), art. 177 (fondos estructurales y Fondo de Cohesión) y art. 178 (aplicación al FEDER).",
+      "ley": "TFUE, Título XVIII, arts. 174-178"
+    },
+    {
+      "id": "tema_05_test_36_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 173 TFUE regula la política industrial de la Unión. Según ese artículo, ¿de qué serán responsables los Estados miembros en este ámbito?",
+      "options": {
+        "a": "De aplicar directamente las normas de la PAC",
+        "b": "De garantizar que existan las condiciones necesarias para la competitividad de la industria de la Unión, velando por que se apliquen las normas de competencia",
+        "c": "De coordinar las políticas industriales con las directrices del Consejo Europeo",
+        "d": "De establecer fondos nacionales de innovación industrial"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 173.1 TFUE establece que 'La Unión y los Estados miembros garantizarán que existan las condiciones necesarias para la competitividad de la industria de la Unión'.",
+      "ley": "TFUE, art. 173.1"
+    },
+    {
+      "id": "tema_05_test_36_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 170 TFUE regula las redes transeuropeas. ¿Qué objetivo persigue la Unión en este ámbito?",
+      "options": {
+        "a": "La privatización de las redes de transporte público nacionales",
+        "b": "Contribuir al establecimiento y al desarrollo de redes transeuropeas en los sectores de las infraestructuras de transportes, telecomunicaciones y energía, para favorecer la interconexión e interoperabilidad de las redes nacionales",
+        "c": "La creación de un operador europeo único de telecomunicaciones",
+        "d": "La eliminación de los peajes en las autopistas transfronterizas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 170.1 TFUE establece que 'Con el fin de contribuir a la realización de los objetivos contemplados en los artículos 26 y 174 y de permitir que los ciudadanos de la Unión, los operadores económicos y los entes regionales y locales se beneficien plenamente de las ventajas derivadas del establecimiento de un espacio sin fronteras interiores, la Unión contribuirá al establecimiento y al desarrollo de redes transeuropeas en los sectores de las infraestructuras de transportes, de telecomunicaciones y de energía'.",
+      "ley": "TFUE, art. 170.1"
+    },
+    {
+      "id": "tema_05_test_36_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 174 TFUE, la cohesión es de tres tipos. ¿Cuáles son los tres tipos de cohesión mencionados?",
+      "options": {
+        "a": "Económica, medioambiental y cultural",
+        "b": "Económica, social y territorial",
+        "c": "Regional, nacional y europea",
+        "d": "Productiva, redistributiva y estructural"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 174 TFUE establece que 'La Unión se propone reforzar su cohesión económica, social y territorial'. Son exactamente tres tipos: económica, social y territorial.",
+      "ley": "TFUE, art. 174"
+    },
+    {
+      "id": "tema_05_test_36_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 174 TFUE se encuentra en el Título XVIII del TFUE. ¿Qué es lo primero que establece dicho artículo sobre la cohesión?",
+      "options": {
+        "a": "La lista de regiones beneficiarias de los fondos estructurales",
+        "b": "Que la Unión se propone reforzar su cohesión económica, social y territorial, para promover un desarrollo armonioso del conjunto de la Unión",
+        "c": "Los criterios de elegibilidad para acceder a los fondos estructurales",
+        "d": "El presupuesto destinado a la política de cohesión"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 174 TFUE comienza estableciendo que 'Con objeto de promover un desarrollo armonioso del conjunto de la Unión, esta desarrollará y proseguirá su acción encaminada a reforzar su cohesión económica, social y territorial'.",
+      "ley": "TFUE, art. 174"
+    },
+    {
+      "id": "tema_05_test_36_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 175 TFUE prevé que si determinadas acciones resultan necesarias fuera de los fondos y sin perjuicio de otras medidas, el Consejo puede adoptarlas. ¿Con qué procedimiento?",
+      "options": {
+        "a": "Con arreglo al procedimiento legislativo ordinario",
+        "b": "Por unanimidad, con arreglo a un procedimiento legislativo especial, a propuesta de la Comisión y previa consulta al Parlamento Europeo, al Comité Económico y Social y al Comité de las Regiones",
+        "c": "Por mayoría simple del Consejo",
+        "d": "Por decisión del Consejo Europeo por consenso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 175.3 TFUE establece que si se considera necesaria una acción específica fuera de los fondos, el Consejo podrá adoptarla 'por unanimidad, con arreglo a un procedimiento legislativo especial, a propuesta de la Comisión y previa consulta al Parlamento Europeo, al Comité Económico y Social y al Comité de las Regiones'.",
+      "ley": "TFUE, art. 175.3"
+    },
+    {
+      "id": "tema_05_test_36_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. Las regiones ultraperiféricas de la Unión Europea tienen un régimen especial en el art. 349 TFUE. ¿Cuáles son esas regiones mencionadas en el propio artículo?",
+      "options": {
+        "a": "Groelandia, las Azores y Canarias",
+        "b": "Guadalupe, Guyana Francesa, Martinica, Reunión, San Bartolomé, San Martín, las Azores, Madeira y las Islas Canarias",
+        "c": "Solo las islas Canarias y los departamentos de ultramar franceses",
+        "d": "Los territorios de ultramar de Países Bajos y Dinamarca"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 349 TFUE menciona expresamente: 'Guadalupe, la Guyana Francesa, Martinica, Reunión, San Bartolomé, San Martín, las Azores, Madeira y las islas Canarias'.",
+      "ley": "TFUE, art. 349"
+    },
+    {
+      "id": "tema_05_test_36_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. La tercera dimensión de la cohesión, la 'territorial', fue añadida por el Tratado de Lisboa. ¿Qué añade esta dimensión a las otras dos (económica y social)?",
+      "options": {
+        "a": "La coordinación de las políticas de ordenación del territorio de los Estados miembros",
+        "b": "La atención a las desventajas geográficas y la búsqueda del desarrollo armónico de todos los territorios de la Unión, incluidas las regiones con características geográficas especiales",
+        "c": "La armonización de los sistemas de planificación urbana y rural",
+        "d": "La creación de eurorregiones con capacidad legislativa propia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). La dimensión territorial de la cohesión añadida por Lisboa atiende a las desigualdades debidas a características geográficas particulares (regiones montañosas, insulares, transfronterizas, zonas septentrionales con escasa población) y busca un desarrollo armonioso de todos los territorios europeos.",
+      "ley": "TFUE, art. 174"
+    },
+    {
+      "id": "tema_05_test_36_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 5. Derecho de la Unión Europea. Según el art. 172 TFUE, ¿quiénes aprueban las orientaciones sobre redes transeuropeas de transporte, telecomunicaciones y energía?",
+      "options": {
+        "a": "La Comisión de forma autónoma",
+        "b": "El Parlamento Europeo y el Consejo con arreglo al procedimiento legislativo ordinario, previa consulta al Comité Económico y Social y al Comité de las Regiones",
+        "c": "El Consejo por unanimidad",
+        "d": "Los Estados miembros de mutuo acuerdo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 172 TFUE establece que 'El Parlamento Europeo y el Consejo, pronunciándose con arreglo al procedimiento legislativo ordinario y previa consulta al Comité Económico y Social y al Comité de las Regiones, adoptarán las orientaciones' sobre redes transeuropeas.",
+      "ley": "TFUE, art. 172"
+    },
+    {
+      "id": "tema_05_test_36_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 171 TFUE regula la realización de proyectos de redes transeuropeas. Cuando un proyecto afecte al territorio de un Estado miembro, ¿qué se requiere?",
+      "options": {
+        "a": "La autorización de la Comisión",
+        "b": "El acuerdo de los Estados miembros afectados",
+        "c": "La aprobación del Parlamento Europeo",
+        "d": "Una decisión del Consejo Europeo"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 171.2 TFUE establece que 'Los Estados miembros coordinarán entre sí, en colaboración con la Comisión, las políticas que aplican en el plano nacional y que puedan tener una incidencia significativa en la consecución de los objetivos contemplados en el artículo 170. La Comisión podrá tomar, en estrecha colaboración con los Estados miembros, cualquier iniciativa útil para fomentar dicha coordinación'.",
+      "ley": "TFUE, art. 171"
+    },
+    {
+      "id": "tema_05_test_36_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 5. Derecho de la Unión Europea. El art. 173.3 TFUE establece una limitación a las medidas de política industrial de la Unión. ¿Cuál es?",
+      "options": {
+        "a": "Las medidas no pueden superar el 1% del presupuesto de la Unión",
+        "b": "No incluirán ninguna medida que pueda acarrear un falseamiento de la competencia o que contenga disposiciones fiscales",
+        "c": "Las medidas no pueden favorecer a un Estado miembro en detrimento de otro",
+        "d": "Las medidas no pueden aplicarse a las empresas con más de 250 trabajadores"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 173.3 TFUE establece que las medidas de política industrial que adopten el Parlamento Europeo y el Consejo 'no incluirán ninguna medida que pueda acarrear un falseamiento de la competencia o que contenga disposiciones fiscales'.",
+      "ley": "TFUE, art. 173.3"
+    }
+  ]
+}
