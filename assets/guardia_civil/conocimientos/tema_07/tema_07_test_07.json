@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 7",
+  "preguntas": [
+    {
+      "id": "tema_07_test_07_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 175 CC, ¿qué edad mínima debe tener el adoptante?",
+      "options": {
+        "a": "Veinticinco años",
+        "b": "Dieciocho años",
+        "c": "Veintiún años",
+        "d": "Treinta años"
+      },
+      "correct": "a",
+      "explicacion": "El art. 175.1 CC establece que 'La adopción requiere que el adoptante sea mayor de veinticinco años'. Si son dos los adoptantes, bastará con que uno de ellos haya alcanzado dicha edad. Además, la diferencia de edad entre adoptante y adoptando será de al menos 16 años y no podrá ser superior a 45 años.",
+      "ley": "CC, art. 175.1"
+    },
+    {
+      "id": "tema_07_test_07_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 175.1 CC, ¿cuál es la diferencia de edad mínima y máxima entre adoptante y adoptando?",
+      "options": {
+        "a": "Mínimo 10 años, máximo 30 años",
+        "b": "Mínimo 5 años, máximo 40 años",
+        "c": "Mínimo 18 años, máximo 50 años",
+        "d": "Mínimo 16 años, máximo 45 años, con excepciones"
+      },
+      "correct": "d",
+      "explicacion": "El art. 175.1 CC establece que 'la diferencia de edad entre adoptante y adoptando será de, al menos, dieciséis años y no podrá ser superior a cuarenta y cinco años, salvo en los casos previstos en el artículo 176.2'. La diferencia máxima puede superarse para grupos de hermanos o menores con necesidades especiales.",
+      "ley": "CC, art. 175.1"
+    },
+    {
+      "id": "tema_07_test_07_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 175 CC, ¿a quiénes no se puede adoptar?",
+      "options": {
+        "a": "A los emancipados menores de 18 años",
+        "b": "A los mayores de 18 años en ningún caso",
+        "c": "A un descendiente, a un pariente en segundo grado de la línea colateral por consanguinidad o afinidad, y a un pupilo por su tutor hasta que se haya aprobado definitivamente la cuenta general justificada de la tutela",
+        "d": "A los hijos del cónyuge del adoptante"
+      },
+      "correct": "c",
+      "explicacion": "El art. 175.3 CC establece que no puede adoptarse: 'A un descendiente. A un pariente en segundo grado de la línea colateral por consanguinidad o afinidad. A un pupilo por su tutor hasta que haya sido aprobada definitivamente la cuenta general justificada de la tutela'.",
+      "ley": "CC, art. 175.3"
+    },
+    {
+      "id": "tema_07_test_07_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 175.2 CC, ¿quiénes pueden ser adoptados?",
+      "options": {
+        "a": "Solo los menores de 14 años",
+        "b": "Únicamente los menores no emancipados; por excepción, un mayor de edad o menor emancipado cuando inmediatamente antes de la emancipación hubiere existido situación de acogimiento o convivencia estable de al menos un año con los futuros adoptantes",
+        "c": "Los menores de 18 años sin excepción",
+        "d": "Cualquier persona independientemente de la edad"
+      },
+      "correct": "b",
+      "explicacion": "El art. 175.2 CC establece que 'Únicamente podrán ser adoptados los menores no emancipados', con la excepción de que puede adoptarse a un mayor de edad o menor emancipado cuando, inmediatamente antes de la emancipación, hubiere existido una situación de acogimiento con los futuros adoptantes o de convivencia estable con ellos de, al menos, un año.",
+      "ley": "CC, art. 175.2"
+    },
+    {
+      "id": "tema_07_test_07_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 176.1 CC, ¿cómo se constituye la adopción?",
+      "options": {
+        "a": "Mediante escritura pública ante notario",
+        "b": "Por acuerdo entre adoptante y adoptado ante el Registro Civil",
+        "c": "Por resolución judicial, que tendrá en cuenta siempre el interés del adoptando y la idoneidad del adoptante",
+        "d": "Mediante decreto de la Entidad Pública de protección de menores"
+      },
+      "correct": "c",
+      "explicacion": "El art. 176.1 CC establece que 'La adopción se constituirá por resolución judicial, que tendrá en cuenta siempre el interés del adoptando y la idoneidad del adoptante o adoptantes para el ejercicio de la patria potestad'. El principio del interés superior del menor es el rector.",
+      "ley": "CC, art. 176.1"
+    },
+    {
+      "id": "tema_07_test_07_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 177 CC, ¿quiénes deben consentir la adopción en presencia del juez?",
+      "options": {
+        "a": "El adoptante o adoptantes y el adoptando mayor de doce años",
+        "b": "Solo los progenitores biológicos del adoptando",
+        "c": "Solo el adoptante, si el adoptando es menor de 14 años",
+        "d": "Los adoptantes, el adoptando mayor de 14 años y el Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "El art. 177.1 CC establece que 'Habrán de consentir la adopción, en presencia del Juez, el adoptante o adoptantes y el adoptando mayor de doce años'. Los menores de 12 años son oídos pero no consienten formalmente.",
+      "ley": "CC, art. 177.1"
+    },
+    {
+      "id": "tema_07_test_07_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 177.2 CC, ¿cuándo no es necesario el asentimiento de la madre al plan de adopción?",
+      "options": {
+        "a": "Cuando el adoptando tiene más de 12 años",
+        "b": "El asentimiento de la madre no puede prestarse hasta que hayan transcurrido seis semanas desde el parto",
+        "c": "Cuando la madre está privada de la patria potestad",
+        "d": "El asentimiento de la madre nunca es necesario"
+      },
+      "correct": "b",
+      "explicacion": "El art. 177.2 CC establece que 'El asentimiento de la madre no podrá prestarse hasta que hayan transcurrido seis semanas desde el parto'. Esta norma protege a la madre del impacto emocional del parto para que su consentimiento sea verdaderamente libre.",
+      "ley": "CC, art. 177.2"
+    },
+    {
+      "id": "tema_07_test_07_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 178.1 CC, ¿qué efectos tiene la adopción sobre los vínculos del adoptado con su familia de origen?",
+      "options": {
+        "a": "Produce la extinción de los vínculos jurídicos entre el adoptado y su familia de origen, salvo excepciones",
+        "b": "Mantiene todos los vínculos con la familia de origen",
+        "c": "Solo extingue el vínculo con los progenitores, no con los abuelos",
+        "d": "No extingue los vínculos hereditarios con la familia de origen"
+      },
+      "correct": "a",
+      "explicacion": "El art. 178.1 CC establece que 'La adopción produce la extinción de los vínculos jurídicos entre el adoptado y su familia de origen'. Hay excepciones: cuando el adoptado es hijo del cónyuge o cuando solo un progenitor había sido determinado y ambas partes lo solicitan.",
+      "ley": "CC, art. 178.1"
+    },
+    {
+      "id": "tema_07_test_07_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 180.1 CC, ¿es revocable la adopción?",
+      "options": {
+        "a": "Sí, puede revocarse por mutuo acuerdo en los cinco primeros años",
+        "b": "Sí, siempre que el adoptado consiente la revocación",
+        "c": "Solo puede revocarse por el adoptado una vez alcance la mayoría de edad",
+        "d": "No, la adopción es irrevocable; aunque el juez puede acordar la extinción en supuestos excepcionales"
+      },
+      "correct": "d",
+      "explicacion": "El art. 180.1 CC establece que 'La adopción es irrevocable'. Sin embargo, el art. 180.2 CC prevé la posibilidad de extinción cuando un progenitor no intervino en el expediente sin culpa propia, si la demanda se interpone dentro de los dos años siguientes a la adopción y no perjudica gravemente al menor.",
+      "ley": "CC, art. 180.1"
+    },
+    {
+      "id": "tema_07_test_07_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 180.6 CC, ¿tienen las personas adoptadas derecho a conocer sus orígenes biológicos?",
+      "options": {
+        "a": "No, la adopción impide el acceso a esa información",
+        "b": "Solo cuando existan razones médicas graves",
+        "c": "Solo si ambos progenitores biológicos dan su consentimiento",
+        "d": "Sí, las personas adoptadas, alcanzada la mayoría de edad o durante su minoría a través de sus representantes legales, tendrán derecho a conocer los datos sobre sus orígenes biológicos"
+      },
+      "correct": "d",
+      "explicacion": "El art. 180.6 CC establece que 'Las personas adoptadas, alcanzada la mayoría de edad o durante su minoría de edad a través de sus representantes legales, tendrán derecho a conocer los datos sobre sus orígenes biológicos'. Las Entidades Públicas conservarán la información durante al menos 50 años.",
+      "ley": "CC, art. 180.6"
+    },
+    {
+      "id": "tema_07_test_07_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 175.4 CC, ¿puede una persona ser adoptada por más de una persona?",
+      "options": {
+        "a": "Sí, sin limitación alguna",
+        "b": "No, salvo que la adopción se realice conjunta o sucesivamente por ambos cónyuges o por una pareja unida por análoga relación de afectividad a la conyugal",
+        "c": "Solo puede adoptarse dos veces en caso de muerte del primer adoptante",
+        "d": "Hasta tres adopciones son posibles, una por cada institución de apoyo"
+      },
+      "correct": "b",
+      "explicacion": "El art. 175.4 CC establece que 'Nadie podrá ser adoptado por más de una persona, salvo que la adopción se realice conjunta o sucesivamente por ambos cónyuges o por una pareja unida por análoga relación de afectividad a la conyugal'. Hay excepciones en casos de muerte del adoptante.",
+      "ley": "CC, art. 175.4"
+    },
+    {
+      "id": "tema_07_test_07_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 176 bis.3 CC, ¿en qué plazo debe presentar la Entidad Pública la propuesta de adopción al Juez desde que se acuerda la delegación de guarda con fines de adopción?",
+      "options": {
+        "a": "En el plazo de seis meses, prorrogable hasta dos años",
+        "b": "En el plazo de un año, improrrogable",
+        "c": "En el plazo más breve posible y antes de transcurridos tres meses, ampliable hasta un año si la Entidad Pública considera necesario un período de adaptación",
+        "d": "En el plazo de seis semanas desde la delegación"
+      },
+      "correct": "c",
+      "explicacion": "El art. 176 bis.3 CC establece que 'La propuesta de adopción al Juez tendrá que realizarse en el plazo más breve posible y, en todo caso, antes de transcurridos tres meses desde el día en el que se hubiera acordado la delegación de guarda con fines de adopción'. Cuando se necesite período de adaptación, puede prorrogarse hasta un año.",
+      "ley": "CC, art. 176 bis.3"
+    },
+    {
+      "id": "tema_07_test_07_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 173.1 CC, ¿qué efectos produce el acogimiento familiar?",
+      "options": {
+        "a": "Solo la custodia temporal sin obligaciones adicionales",
+        "b": "La plena participación del menor en la vida de familia e impone a quien lo recibe las obligaciones de velar por él, tenerlo en su compañía, alimentarlo, educarlo y procurarle una formación integral en un entorno afectivo",
+        "c": "Solo obligaciones de alojamiento y alimentación",
+        "d": "Los mismos efectos que la adopción pero sin extinción de vínculos"
+      },
+      "correct": "b",
+      "explicacion": "El art. 173.1 CC establece que 'El acogimiento familiar produce la plena participación del menor en la vida de familia e impone a quien lo recibe las obligaciones de velar por él, tenerlo en su compañía, alimentarlo, educarlo y procurarle una formación integral en un entorno afectivo'.",
+      "ley": "CC, art. 173.1"
+    },
+    {
+      "id": "tema_07_test_07_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 173 bis.2 CC, ¿qué modalidades puede adoptar el acogimiento familiar según su duración y objetivos?",
+      "options": {
+        "a": "De urgencia (máximo 6 meses, principalmente para menores de 6 años), temporal (transitorio, máximo 2 años) y permanente",
+        "b": "Provisional y definitivo",
+        "c": "Simple, pleno y especializado",
+        "d": "Temporal, indefinido y preadoptivo"
+      },
+      "correct": "a",
+      "explicacion": "El art. 173 bis.2 CC establece tres modalidades: a) acogimiento de urgencia (principalmente para menores de 6 años, máximo 6 meses); b) acogimiento temporal (transitorio, máximo 2 años); c) acogimiento permanente (cuando finaliza el temporal por no ser posible la reintegración o directamente en casos de necesidades especiales).",
+      "ley": "CC, art. 173 bis.2"
+    },
+    {
+      "id": "tema_07_test_07_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 172.1 CC, ¿qué ocurre cuando la Entidad Pública constata que un menor se encuentra en situación de desamparo?",
+      "options": {
+        "a": "Debe solicitar autorización judicial antes de actuar",
+        "b": "Debe iniciar inmediatamente el proceso de adopción del menor",
+        "c": "Solo puede proporcionar apoyo a los progenitores sin asumir la tutela",
+        "d": "Tiene por ministerio de la ley la tutela del mismo y deberá adoptar las medidas de protección necesarias para su guarda, poniéndolo en conocimiento del Ministerio Fiscal y, en su caso, del Juez"
+      },
+      "correct": "d",
+      "explicacion": "El art. 172.1 CC establece que cuando la Entidad Pública constate la situación de desamparo 'tiene por ministerio de la ley la tutela del mismo y deberá adoptar las medidas de protección necesarias para su guarda, poniéndolo en conocimiento del Ministerio Fiscal'. La asunción de tutela es automática y la notificación debe realizarse en menos de 48 horas.",
+      "ley": "CC, art. 172.1"
+    },
+    {
+      "id": "tema_07_test_07_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 174 CC, ¿qué institución tiene la superior vigilancia de la tutela, acogimiento o guarda de los menores?",
+      "options": {
+        "a": "La Entidad Pública de protección de menores",
+        "b": "El Juez de Primera Instancia",
+        "c": "El Ministerio Fiscal",
+        "d": "El Defensor del Menor"
+      },
+      "correct": "c",
+      "explicacion": "El art. 174.1 CC establece que 'Incumbe al Ministerio Fiscal la superior vigilancia de la tutela, acogimiento o guarda de los menores'. El Ministerio Fiscal comprobará, al menos semestralmente, la situación del menor.",
+      "ley": "CC, art. 174.1"
+    },
+    {
+      "id": "tema_07_test_07_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 180.3 CC, ¿afecta la extinción de la adopción a la nacionalidad o vecindad civil adquiridas?",
+      "options": {
+        "a": "Sí, se pierde la nacionalidad adquirida por adopción",
+        "b": "Solo se mantiene si la extinción fue causada por el adoptante",
+        "c": "No, la extinción de la adopción no es causa de pérdida de la nacionalidad ni de la vecindad civil adquiridas",
+        "d": "Depende del tiempo que el adoptado llevaba con la nueva nacionalidad"
+      },
+      "correct": "c",
+      "explicacion": "El art. 180.3 CC establece que 'La extinción de la adopción no es causa de pérdida de la nacionalidad ni de la vecindad civil adquiridas, ni alcanza a los efectos patrimoniales anteriormente producidos'. Los efectos patrimoniales ya producidos también se mantienen.",
+      "ley": "CC, art. 180.3"
+    },
+    {
+      "id": "tema_07_test_07_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 176.3 CC, ¿qué se entiende por idoneidad para adoptar?",
+      "options": {
+        "a": "La capacidad, aptitud y motivación adecuadas para ejercer la responsabilidad parental, atendiendo a las necesidades de los menores a adoptar y para asumir las peculiaridades, consecuencias y responsabilidades que conlleva la adopción",
+        "b": "Tener recursos económicos suficientes y vivienda adecuada",
+        "c": "Estar casado o en pareja de hecho estable",
+        "d": "No tener antecedentes penales y tener empleo estable"
+      },
+      "correct": "a",
+      "explicacion": "El art. 176.3 CC define la idoneidad como 'la capacidad, aptitud y motivación adecuadas para ejercer la responsabilidad parental, atendiendo a las necesidades de los menores a adoptar, y para asumir las peculiaridades, consecuencias y responsabilidades que conlleva la adopción'.",
+      "ley": "CC, art. 176.3"
+    },
+    {
+      "id": "tema_07_test_07_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 172 CC, ¿qué consecuencia tiene la asunción de la tutela por la Entidad Pública sobre la patria potestad o tutela ordinaria?",
+      "options": {
+        "a": "Las extingue definitivamente",
+        "b": "Produce la suspensión de la patria potestad o de la tutela ordinaria",
+        "c": "Solo las limita parcialmente en determinadas materias",
+        "d": "No tiene ningún efecto sobre la patria potestad"
+      },
+      "correct": "b",
+      "explicacion": "El art. 172.1 CC establece que 'La asunción de la tutela atribuida a la Entidad Pública lleva consigo la suspensión de la patria potestad o de la tutela ordinaria. No obstante, serán válidos los actos de contenido patrimonial que realicen los progenitores o tutores en representación del menor y que sean en interés de éste'.",
+      "ley": "CC, art. 172.1"
+    },
+    {
+      "id": "tema_07_test_07_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 172 bis.1 CC, ¿cuál es el plazo máximo de la guarda voluntaria pedida por los progenitores a la Entidad Pública?",
+      "options": {
+        "a": "Seis meses",
+        "b": "Tres años, prorrogables con autorización judicial",
+        "c": "Un año improrrogable",
+        "d": "Dos años, salvo que el interés superior del menor aconseje excepcionalmente la prórroga"
+      },
+      "correct": "d",
+      "explicacion": "El art. 172 bis.1 CC establece que la guarda voluntaria tiene un plazo máximo 'de dos años como plazo máximo de cuidado temporal del menor, salvo que el interés superior del menor aconseje, excepcionalmente, la prórroga de las medidas'. Transcurrido el plazo, el menor debe regresar con sus progenitores o tutores o ser declarado en desamparo.",
+      "ley": "CC, art. 172 bis.1"
+    }
+  ]
+}

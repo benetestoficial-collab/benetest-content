@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 6",
+  "preguntas": [
+    {
+      "id": "tema_07_test_06_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 142 CC, ¿qué comprenden los alimentos?",
+      "options": {
+        "a": "Solo el sustento y la habitación",
+        "b": "El sustento, la habitación y los gastos de educación universitaria",
+        "c": "Solo las necesidades básicas de alimento y vestido",
+        "d": "Todo lo indispensable para el sustento, habitación, vestido y asistencia médica, así como la educación e instrucción del alimentista mientras sea menor de edad y después si no ha terminado su formación por causa no imputable a él"
+      },
+      "correct": "d",
+      "explicacion": "El art. 142 CC establece que 'Se entiende por alimentos todo lo que es indispensable para el sustento, habitación, vestido y asistencia médica'. Además incluye la educación e instrucción mientras sea menor y aun después cuando no haya terminado su formación por causa que no le sea imputable, y los gastos de embarazo y parto.",
+      "ley": "CC, art. 142"
+    },
+    {
+      "id": "tema_07_test_06_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 143 CC, ¿quiénes están obligados recíprocamente a darse alimentos?",
+      "options": {
+        "a": "Solo los padres respecto de los hijos menores",
+        "b": "Los cónyuges, los ascendientes y descendientes; los hermanos solo se deben los auxilios necesarios para la vida cuando los necesiten por causa que no les sea imputable",
+        "c": "Todos los parientes hasta el cuarto grado",
+        "d": "Solo los ascendientes directos y los hijos"
+      },
+      "correct": "b",
+      "explicacion": "El art. 143 CC establece la obligación alimenticia entre: los cónyuges; ascendientes y descendientes; y hermanos, aunque estos últimos 'solo se deben los auxilios necesarios para la vida, cuando los necesiten por cualquier causa que no sea imputable al alimentista, y se extenderán en su caso a los que precisen para su educación'.",
+      "ley": "CC, art. 143"
+    },
+    {
+      "id": "tema_07_test_06_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 144 CC, cuando varios parientes están obligados a prestar alimentos, ¿en qué orden se reclamarán?",
+      "options": {
+        "a": "Primero al pariente más cercano, en cualquier línea",
+        "b": "1.° Al cónyuge; 2.° a los descendientes de grado más próximo; 3.° a los ascendientes, también de grado más próximo; 4.° a los hermanos",
+        "c": "Primero a los ascendientes y luego a los descendientes",
+        "d": "Al pariente con mayor capacidad económica, independientemente del grado"
+      },
+      "correct": "b",
+      "explicacion": "El art. 144 CC establece el orden de reclamación: '1.° Al cónyuge. 2.° A los descendientes de grado más próximo. 3.° A los ascendientes, también de grado más próximo. 4.° A los hermanos, pero estando obligados en último lugar los que solo sean uterinos o consanguíneos'.",
+      "ley": "CC, art. 144"
+    },
+    {
+      "id": "tema_07_test_06_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 146 CC, ¿en función de qué se determina la cuantía de los alimentos?",
+      "options": {
+        "a": "Proporcionalmente al caudal o medios de quien los da y a las necesidades de quien los recibe",
+        "b": "Solo en función de las necesidades del alimentista",
+        "c": "En función del salario mínimo interprofesional",
+        "d": "Con arreglo a lo que fije el juez discrecionalmente"
+      },
+      "correct": "a",
+      "explicacion": "El art. 146 CC establece el principio de proporcionalidad doble: 'La cuantía de los alimentos será proporcionada al caudal o medios de quien los da y a las necesidades de quien los recibe'. Ambos factores deben tenerse en cuenta conjuntamente.",
+      "ley": "CC, art. 146"
+    },
+    {
+      "id": "tema_07_test_06_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 148 CC, ¿desde cuándo se abonan los alimentos cuando existe derecho a ellos?",
+      "options": {
+        "a": "Desde la fecha en que se interpone la demanda, aunque el derecho existe desde que se necesitan",
+        "b": "Desde que el alimentista los necesita para subsistir",
+        "c": "Desde la fecha de la sentencia que los establece",
+        "d": "Desde el primer día del mes siguiente a la presentación de la demanda"
+      },
+      "correct": "a",
+      "explicacion": "El art. 148 CC establece una distinción importante: la obligación de alimentos es exigible 'desde que los necesitare, para subsistir, la persona que tenga derecho a percibirlos, pero no se abonarán sino desde la fecha en que se interponga la demanda'. El derecho existe antes, pero el abono comienza con la demanda.",
+      "ley": "CC, art. 148"
+    },
+    {
+      "id": "tema_07_test_06_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 149 CC, ¿puede el obligado a prestar alimentos elegir entre pagar una pensión o recibir al alimentista en su casa?",
+      "options": {
+        "a": "No, siempre debe pagar una pensión dineraria",
+        "b": "El juez decide siempre la forma de pago",
+        "c": "Solo puede elegir si el alimentista da su consentimiento",
+        "d": "Sí, el obligado puede elegir entre pagar la pensión fijada o recibir y mantener en su propia casa al alimentista, salvo cuando ello contradiga la situación de convivencia determinada, cuando concurra justa causa o perjudique el interés del alimentista menor"
+      },
+      "correct": "d",
+      "explicacion": "El art. 149 CC establece que 'El obligado a prestar alimentos podrá, a su elección, satisfacerlos, o pagando la pensión que se fije, o recibiendo y manteniendo en su propia casa al que tiene derecho a ellos', con las excepciones señaladas.",
+      "ley": "CC, art. 149"
+    },
+    {
+      "id": "tema_07_test_06_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 151 CC, ¿es renunciable el derecho a los alimentos futuros?",
+      "options": {
+        "a": "Sí, el alimentista puede renunciar libremente al derecho a alimentos",
+        "b": "Es renunciable si la renuncia consta en escritura pública",
+        "c": "Solo puede renunciarse con autorización judicial",
+        "d": "No, el derecho a los alimentos no es renunciable ni transmisible a un tercero, ni puede compensarse; solo pueden renunciarse o compensarse las pensiones alimenticias atrasadas"
+      },
+      "correct": "d",
+      "explicacion": "El art. 151 CC establece que 'No es renunciable ni transmisible a un tercero el derecho a los alimentos. Tampoco pueden compensarse con lo que el alimentista deba al que ha de prestarlos. Pero podrán compensarse y renunciarse las pensiones alimenticias atrasadas, y transmitirse a título oneroso o gratuito el derecho a demandarlas'.",
+      "ley": "CC, art. 151"
+    },
+    {
+      "id": "tema_07_test_06_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 150 CC, ¿cesa la obligación de suministrar alimentos con la muerte del obligado?",
+      "options": {
+        "a": "No, la obligación pasa a los herederos del deudor",
+        "b": "Solo si el obligado muere sin dejar bienes hereditarios",
+        "c": "Sí, la obligación de suministrar alimentos cesa con la muerte del obligado aunque los prestase en cumplimiento de una sentencia firme",
+        "d": "La obligación persiste sobre los herederos hasta el año siguiente a la muerte"
+      },
+      "correct": "c",
+      "explicacion": "El art. 150 CC establece que 'La obligación de suministrar alimentos cesa con la muerte del obligado, aunque los prestase en cumplimiento de una sentencia firme'. La obligación de alimentos tiene carácter personalísimo por parte del obligado.",
+      "ley": "CC, art. 150"
+    },
+    {
+      "id": "tema_07_test_06_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 152 CC, ¿cuándo cesa la obligación de dar alimentos al hijo descendiente por mala conducta o falta de aplicación al trabajo?",
+      "options": {
+        "a": "Siempre que el descendiente pueda trabajar",
+        "b": "Cuando el descendiente tiene bienes propios suficientes",
+        "c": "Cuando el descendiente alcanza los 25 años",
+        "d": "Cuando el alimentista sea descendiente del obligado y la necesidad de aquel provenga de mala conducta o de falta de aplicación al trabajo, mientras subsista esta causa"
+      },
+      "correct": "d",
+      "explicacion": "El art. 152.5.º CC establece que cesa la obligación de alimentos 'Cuando el alimentista sea descendiente del obligado a dar alimentos, y la necesidad de aquel provenga de mala conducta o de falta de aplicación al trabajo, mientras subsista esta causa'.",
+      "ley": "CC, art. 152.5.º"
+    },
+    {
+      "id": "tema_07_test_06_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 154 CC, ¿bajo qué potestad están los hijos no emancipados?",
+      "options": {
+        "a": "Solo bajo la potestad del padre",
+        "b": "Bajo la patria potestad de los progenitores",
+        "c": "Bajo la tutela del Estado hasta la mayoría de edad",
+        "d": "Bajo la administración del Ministerio Fiscal cuando son menores"
+      },
+      "correct": "b",
+      "explicacion": "El art. 154 CC establece que 'Los hijos e hijas no emancipados están bajo la patria potestad de los progenitores'. La patria potestad 'se ejercerá siempre en interés de los hijos e hijas, de acuerdo con su personalidad, y con respeto a sus derechos, su integridad física y mental'.",
+      "ley": "CC, art. 154"
+    },
+    {
+      "id": "tema_07_test_06_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 156 CC, ¿cómo se ejerce la patria potestad cuando los progenitores están juntos?",
+      "options": {
+        "a": "Conjuntamente por ambos progenitores o por uno solo con el consentimiento expreso o tácito del otro",
+        "b": "Solo por el progenitor que designe el juez",
+        "c": "Alternativamente por uno y otro progenitor según acuerdo",
+        "d": "Solo por el progenitor que convive con el hijo"
+      },
+      "correct": "a",
+      "explicacion": "El art. 156 CC establece que 'La patria potestad se ejercerá conjuntamente por ambos progenitores o por uno solo con el consentimiento expreso o tácito del otro. Serán válidos los actos que realice uno de ellos conforme al uso social y a las circunstancias o en situaciones de urgente necesidad'.",
+      "ley": "CC, art. 156"
+    },
+    {
+      "id": "tema_07_test_06_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 154 CC, ¿qué comprende la patria potestad?",
+      "options": {
+        "a": "Solo la representación legal del menor",
+        "b": "Solo el deber de alimentos y educación",
+        "c": "Solo la administración de los bienes del menor",
+        "d": "Velar por los hijos, tenerlos en su compañía, alimentarlos, educarlos y procurarles formación integral; representarlos y administrar sus bienes; y decidir el lugar de residencia habitual del menor"
+      },
+      "correct": "d",
+      "explicacion": "El art. 154 CC establece que la patria potestad comprende: '1.º Velar por ellos, tenerlos en su compañía, alimentarlos, educarlos y procurarles una formación integral. 2.º Representarlos y administrar sus bienes. 3.º Decidir el lugar de residencia habitual de la persona menor de edad, que solo podrá ser modificado con el consentimiento de ambos progenitores o, en su defecto, por autorización judicial'.",
+      "ley": "CC, art. 154"
+    },
+    {
+      "id": "tema_07_test_06_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 169 CC, ¿cuándo se extingue la patria potestad?",
+      "options": {
+        "a": "Solo cuando el hijo cumple 18 años",
+        "b": "Solo por la muerte del padre o la madre",
+        "c": "Por la muerte o declaración de fallecimiento de los padres o del hijo, por la emancipación y por la adopción del hijo",
+        "d": "Por la separación o divorcio de los progenitores"
+      },
+      "correct": "c",
+      "explicacion": "El art. 169 CC establece que 'La patria potestad se acaba: Por la muerte o la declaración de fallecimiento de los padres o del hijo. Por la emancipación. Por la adopción del hijo'.",
+      "ley": "CC, art. 169"
+    },
+    {
+      "id": "tema_07_test_06_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 170 CC, ¿puede privarse a un progenitor de la patria potestad?",
+      "options": {
+        "a": "No, la patria potestad es irrenunciable e irrevocable",
+        "b": "Sí, cualquiera de los progenitores puede ser privado total o parcialmente de su potestad por sentencia fundada en el incumplimiento de los deberes inherentes a la misma o dictada en causa criminal o matrimonial",
+        "c": "Solo puede suspenderse, nunca privarse definitivamente",
+        "d": "Solo el juez de menores puede acordar la privación"
+      },
+      "correct": "b",
+      "explicacion": "El art. 170 CC establece que 'Cualquiera de los progenitores podrá ser privado total o parcialmente de su potestad por sentencia fundada en el incumplimiento de los deberes inherentes a la misma o dictada en causa criminal o matrimonial'. Además, puede acordarse la recuperación cuando cese la causa.",
+      "ley": "CC, art. 170"
+    },
+    {
+      "id": "tema_07_test_06_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 164 CC, ¿qué bienes del hijo quedan excluidos de la administración paterna?",
+      "options": {
+        "a": "Los adquiridos por título gratuito cuando el disponente lo haya ordenado expresamente, los adquiridos por sucesión en que los progenitores estuvieran desheredados o sean indignos, y los que el hijo mayor de 16 años haya adquirido con su trabajo",
+        "b": "Todos los bienes del hijo",
+        "c": "Solo los bienes donados con exclusión paterna",
+        "d": "Solo los bienes recibidos por herencia de los abuelos"
+      },
+      "correct": "a",
+      "explicacion": "El art. 164 CC excluye de la administración paterna tres tipos de bienes: los adquiridos por título gratuito cuando el disponente lo hubiere ordenado expresamente; los adquiridos por sucesión en que uno o ambos progenitores hubieran sido justamente desheredados o no pudieran heredar por causa de indignidad; y los que el hijo mayor de dieciséis años hubiera adquirido con su trabajo o industria.",
+      "ley": "CC, art. 164"
+    },
+    {
+      "id": "tema_07_test_06_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 166 CC, ¿pueden los padres enajenar los bienes inmuebles del hijo libremente?",
+      "options": {
+        "a": "Sí, sin ningún requisito adicional",
+        "b": "Solo con el consentimiento del otro progenitor",
+        "c": "No, no podrán renunciar a derechos ni enajenar bienes inmuebles del hijo salvo por causas justificadas de utilidad o necesidad y previa autorización del Juez del domicilio con audiencia del Ministerio Fiscal",
+        "d": "Solo si el hijo tiene más de 14 años y consiente"
+      },
+      "correct": "c",
+      "explicacion": "El art. 166 CC establece que 'Los padres no podrán renunciar a los derechos de que los hijos sean titulares ni enajenar o gravar sus bienes inmuebles, establecimientos mercantiles o industriales, objetos preciosos y valores mobiliarios, salvo el derecho de suscripción preferente de acciones, sino por causas justificadas de utilidad o necesidad y previa la autorización del Juez del domicilio, con audiencia del Ministerio Fiscal'.",
+      "ley": "CC, art. 166"
+    },
+    {
+      "id": "tema_07_test_06_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 155 CC, ¿qué deben los hijos respecto a los padres?",
+      "options": {
+        "a": "Solo obedecerles mientras sean menores de edad",
+        "b": "Obedecer a sus padres mientras permanezcan bajo su potestad y respetarles siempre; además, contribuir equitativamente al levantamiento de las cargas de la familia mientras convivan con ella",
+        "c": "Solo respetarles una vez emancipados",
+        "d": "Administrar los bienes familiares cuando los padres lo soliciten"
+      },
+      "correct": "b",
+      "explicacion": "El art. 155 CC establece que los hijos deben 'Obedecer a sus padres mientras permanezcan bajo su potestad, y respetarles siempre' y 'Contribuir equitativamente, según sus posibilidades, al levantamiento de las cargas de la familia mientras convivan con ella'.",
+      "ley": "CC, art. 155"
+    },
+    {
+      "id": "tema_07_test_06_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 168 CC, ¿en qué plazo puede el hijo exigir a los padres la rendición de cuentas de la administración de sus bienes?",
+      "options": {
+        "a": "Sin plazo de prescripción",
+        "b": "A los cinco años desde la mayoría de edad",
+        "c": "La acción para exigir el cumplimiento de esta obligación prescribirá a los tres años desde el término de la patria potestad",
+        "d": "A los diez años desde la emancipación"
+      },
+      "correct": "c",
+      "explicacion": "El art. 168 CC establece que 'Al término de la patria potestad podrán los hijos exigir a los padres la rendición de cuentas de la administración que ejercieron sobre sus bienes hasta entonces. La acción para exigir el cumplimiento de esta obligación prescribirá a los tres años'.",
+      "ley": "CC, art. 168"
+    },
+    {
+      "id": "tema_07_test_06_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 162 CC, ¿para qué actos de los hijos NO tienen los padres la representación legal?",
+      "options": {
+        "a": "Para ningún acto; la representación paterna es siempre plena",
+        "b": "Solo para los actos de disposición de bienes inmuebles",
+        "c": "Para los actos relativos a derechos de la personalidad que el hijo pueda ejercer por sí mismo, aquellos en que exista conflicto de intereses entre padres e hijo, y los relativos a bienes excluidos de la administración de los padres",
+        "d": "Solo para los actos del hijo mayor de 14 años"
+      },
+      "correct": "c",
+      "explicacion": "El art. 162 CC establece tres excepciones a la representación legal: los actos relativos a los derechos de la personalidad que el hijo pueda ejercitar por sí mismo; los casos de conflicto de intereses entre padres e hijo; y los relativos a bienes que estén excluidos de la administración de los padres.",
+      "ley": "CC, art. 162"
+    },
+    {
+      "id": "tema_07_test_06_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 152 CC, ¿cuándo cesa la obligación de dar alimentos por muerte del alimentista?",
+      "options": {
+        "a": "Cesa por muerte del alimentista (art. 152.1.º CC), sin que sus herederos tengan derecho a reclamar pensiones futuras",
+        "b": "No cesa por la muerte del alimentista; pasa a sus herederos",
+        "c": "La obligación de alimentos pasa a los herederos del alimentista por seis meses",
+        "d": "Cesa por la muerte del alimentista solo si no dejó deudas pendientes"
+      },
+      "correct": "a",
+      "explicacion": "El art. 152.1.º CC establece que cesa la obligación de dar alimentos '1.º Por muerte del alimentista'. La obligación de alimentos futuros tiene carácter estrictamente personal y se extingue con la muerte del beneficiario.",
+      "ley": "CC, art. 152.1.º"
+    }
+  ]
+}

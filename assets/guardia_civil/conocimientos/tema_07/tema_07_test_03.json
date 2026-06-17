@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_07_test_03_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 17 CC, ¿son españoles de origen los nacidos de padre o madre españoles?",
+      "options": {
+        "a": "Sí, los nacidos de padre o madre españoles son españoles de origen",
+        "b": "Solo los nacidos de padre español",
+        "c": "Solo si nacen en territorio español",
+        "d": "Solo si ambos progenitores son españoles"
+      },
+      "correct": "a",
+      "explicacion": "El art. 17.a) CC establece que son españoles de origen 'Los nacidos de padre o madre españoles'. El ius sanguinis es el criterio principal, bastando que uno de los progenitores sea español.",
+      "ley": "CC, art. 17.a)"
+    },
+    {
+      "id": "tema_07_test_03_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 17 CC, ¿son españoles de origen los nacidos en España de padres extranjeros?",
+      "options": {
+        "a": "No, nunca; el nacimiento en España no confiere la nacionalidad",
+        "b": "Solo si uno de los padres tiene residencia legal en España",
+        "c": "Sí, en dos casos: si al menos uno de los padres extranjeros también nació en España (salvo hijos de diplomáticos), o si ambos carecen de nacionalidad o ninguno transmite la suya al hijo",
+        "d": "Sí, en todo caso, por aplicación del ius soli"
+      },
+      "correct": "c",
+      "explicacion": "El art. 17.b) y 17.c) CC establece que son españoles de origen los nacidos en España de padres extranjeros si al menos uno nació también en España (excepto hijos de diplomáticos), y también los nacidos en España de padres apátridas o cuando ninguno les transmita una nacionalidad.",
+      "ley": "CC, art. 17.b) y 17.c)"
+    },
+    {
+      "id": "tema_07_test_03_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 18 CC, ¿qué es la consolidación de la nacionalidad española?",
+      "options": {
+        "a": "La adquisición de la nacionalidad española por residencia de 10 años",
+        "b": "El reconocimiento de la doble nacionalidad por tratado internacional",
+        "c": "La posesión y utilización continuada de la nacionalidad española durante diez años, con buena fe y basada en un título inscrito en el Registro Civil, aunque se anule el título que la originó",
+        "d": "La adquisición de la nacionalidad por carta de naturaleza"
+      },
+      "correct": "c",
+      "explicacion": "El art. 18 CC establece la consolidación: 'La posesión y utilización continuada de la nacionalidad española durante diez años, con buena fe y basada en un título inscrito en el Registro Civil, es causa de consolidación de la nacionalidad, aunque se anule el título que la originó'.",
+      "ley": "CC, art. 18"
+    },
+    {
+      "id": "tema_07_test_03_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 19.1 CC, ¿qué ocurre con la nacionalidad del extranjero menor de 18 años adoptado por un español?",
+      "options": {
+        "a": "Adquiere desde la adopción la nacionalidad española de origen",
+        "b": "Puede solicitar la nacionalidad española en el plazo de 2 años",
+        "c": "Adquiere la nacionalidad española, pero no de origen",
+        "d": "Debe elegir entre su nacionalidad anterior y la española al llegar a la mayoría de edad"
+      },
+      "correct": "a",
+      "explicacion": "El art. 19.1 CC establece que 'El extranjero menor de dieciocho años adoptado por un español adquiere, desde la adopción, la nacionalidad española de origen'. La adquisición es automática e inmediata.",
+      "ley": "CC, art. 19.1"
+    },
+    {
+      "id": "tema_07_test_03_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 21.1 CC, ¿cómo se adquiere la nacionalidad española por carta de naturaleza?",
+      "options": {
+        "a": "Por residencia legal continuada de 10 años",
+        "b": "Por naturalización automática tras contraer matrimonio con español",
+        "c": "Por declaración ante el encargado del Registro Civil",
+        "d": "Mediante Real Decreto otorgado discrecionalmente cuando en el interesado concurran circunstancias excepcionales"
+      },
+      "correct": "d",
+      "explicacion": "El art. 21.1 CC establece que 'La nacionalidad española se adquiere por carta de naturaleza, otorgada discrecionalmente mediante Real Decreto, cuando en el interesado concurran circunstancias excepcionales'.",
+      "ley": "CC, art. 21.1"
+    },
+    {
+      "id": "tema_07_test_03_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 21.4 CC, ¿cuándo caducan las concesiones de nacionalidad por carta de naturaleza o por residencia?",
+      "options": {
+        "a": "A los 30 días siguientes a su notificación",
+        "b": "A los 6 meses si no se inscribe en el Registro Civil",
+        "c": "A los ciento ochenta días siguientes a su notificación si en este plazo no comparece el interesado ante funcionario competente para cumplir los requisitos del art. 23",
+        "d": "Al año de su concesión si no se ha formalizado ante notario"
+      },
+      "correct": "c",
+      "explicacion": "El art. 21.4 CC establece que 'Las concesiones por carta de naturaleza o por residencia caducan a los ciento ochenta días siguientes a su notificación, si en este plazo no comparece el interesado ante funcionario competente para cumplir los requisitos del artículo 23'.",
+      "ley": "CC, art. 21.4"
+    },
+    {
+      "id": "tema_07_test_03_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.1 CC, ¿cuántos años de residencia se requieren con carácter general para la nacionalidad por residencia?",
+      "options": {
+        "a": "Cinco años",
+        "b": "Diez años",
+        "c": "Quince años",
+        "d": "Veinte años"
+      },
+      "correct": "b",
+      "explicacion": "El art. 22.1 CC establece que 'Para la concesión de la nacionalidad por residencia se requiere que esta haya durado diez años'. Existen plazos reducidos para refugiados (5 años), iberoamericanos, sefardíes y otros colectivos (2 años) y supuestos especiales (1 año).",
+      "ley": "CC, art. 22.1"
+    },
+    {
+      "id": "tema_07_test_03_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.2 CC, ¿a qué colectivos basta el plazo de DOS años de residencia para la nacionalidad?",
+      "options": {
+        "a": "A los nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal, y a los sefardíes",
+        "b": "A los nacidos en España y a los casados con español",
+        "c": "A los que hayan prestado servicios señalados a España",
+        "d": "A los refugiados y a los sefardíes"
+      },
+      "correct": "a",
+      "explicacion": "El art. 22.1 CC establece que 'Serán suficientes dos años cuando se trate de nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal o de sefardíes'.",
+      "ley": "CC, art. 22.1"
+    },
+    {
+      "id": "tema_07_test_03_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 23 CC, ¿cuáles son los requisitos comunes para la validez de la adquisición de la nacionalidad española por opción, carta de naturaleza o residencia?",
+      "options": {
+        "a": "Solicitud escrita, pago de tasas e informe favorable de los Mossos d'Esquadra",
+        "b": "Jurar o prometer fidelidad al Rey y obediencia a la Constitución, renunciar a la anterior nacionalidad (con excepciones) e inscribir la adquisición en el Registro Civil",
+        "c": "Conocimiento del idioma español, aprobación de examen de historia y renuncia a la nacionalidad anterior",
+        "d": "Certificado de antecedentes penales, prueba de integración y declaración fiscal"
+      },
+      "correct": "b",
+      "explicacion": "El art. 23 CC establece tres requisitos: a) que el mayor de 14 años jure o prometa fidelidad al Rey y obediencia a la Constitución; b) que renuncie a su anterior nacionalidad (salvo excepciones); c) que la adquisición se inscriba en el Registro Civil español.",
+      "ley": "CC, art. 23"
+    },
+    {
+      "id": "tema_07_test_03_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 24.1 CC, ¿pierden la nacionalidad española los emancipados que adquieran voluntariamente otra nacionalidad residiendo habitualmente en el extranjero?",
+      "options": {
+        "a": "No, la doble nacionalidad está siempre permitida para los españoles",
+        "b": "Sí, pero la pérdida se produce una vez que transcurran tres años desde la adquisición de la extranjera o desde la emancipación, y puede evitarse declarando voluntad de conservar la española",
+        "c": "Sí, la pérdida es inmediata al adquirir otra nacionalidad",
+        "d": "No, salvo que el Gobierno así lo decida en cada caso"
+      },
+      "correct": "b",
+      "explicacion": "El art. 24.1 CC establece que la pérdida se produce transcurridos tres años, salvo declaración previa de voluntad de conservar la española. Además, la adquisición de nacionalidades de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal no produce la pérdida.",
+      "ley": "CC, art. 24.1"
+    },
+    {
+      "id": "tema_07_test_03_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 24.4 CC, ¿existe alguna excepción a la pérdida de la nacionalidad española?",
+      "options": {
+        "a": "No existen excepciones; la pérdida opera en todo caso",
+        "b": "Sí: si el interesado presta servicios en organismos internacionales",
+        "c": "Sí: si el interesado es mayor de 65 años",
+        "d": "Sí: no se pierde la nacionalidad española si España se hallare en guerra"
+      },
+      "correct": "d",
+      "explicacion": "El art. 24.4 CC establece que 'No se pierde la nacionalidad española, en virtud de lo dispuesto en este precepto, si España se hallare en guerra'. Es una excepción patriótica que suspende los efectos de las reglas de pérdida.",
+      "ley": "CC, art. 24.4"
+    },
+    {
+      "id": "tema_07_test_03_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 26.1 CC, ¿cuáles son los requisitos para recuperar la nacionalidad española?",
+      "options": {
+        "a": "Solo solicitar la recuperación ante el Ministerio de Justicia",
+        "b": "Superar un examen de idioma y cultura española y pagar las tasas correspondientes",
+        "c": "Ser residente legal en España (salvo emigrantes e hijos de emigrantes), declarar ante el encargado del Registro Civil la voluntad de recuperarla e inscribir la recuperación en el Registro Civil",
+        "d": "Obtener informe favorable del consulado español y acreditar vínculos con España"
+      },
+      "correct": "c",
+      "explicacion": "El art. 26.1 CC establece tres requisitos: a) ser residente legal en España (con excepciones para emigrantes); b) declarar ante el encargado del Registro Civil la voluntad de recuperar la nacionalidad; c) inscribir la recuperación en el Registro Civil.",
+      "ley": "CC, art. 26.1"
+    },
+    {
+      "id": "tema_07_test_03_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 25.2 CC, ¿cuál es el plazo para ejercitar la acción de nulidad de la adquisición de la nacionalidad española cuando ha mediado falsedad, ocultación o fraude?",
+      "options": {
+        "a": "Cinco años desde la adquisición",
+        "b": "Tres años desde la inscripción en el Registro Civil",
+        "c": "Un año desde que se tuvo conocimiento del fraude",
+        "d": "Quince años desde la adquisición, debiendo ejercitarse por el Ministerio Fiscal de oficio o en virtud de denuncia"
+      },
+      "correct": "d",
+      "explicacion": "El art. 25.2 CC establece que 'La acción de nulidad deberá ejercitarse por el Ministerio Fiscal de oficio o en virtud de denuncia, dentro del plazo de quince años'. Solo el Ministerio Fiscal puede ejercer esta acción.",
+      "ley": "CC, art. 25.2"
+    },
+    {
+      "id": "tema_07_test_03_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.2 CC, ¿basta un año de residencia para solicitar la nacionalidad cuando el interesado lleva un año casado con español/a?",
+      "options": {
+        "a": "Sí, pero el matrimonio debe haberse celebrado en España",
+        "b": "Sí, uno de los supuestos de residencia de un año es el que al tiempo de la solicitud lleve un año casado con español o española y no estuviere separado legalmente o de hecho",
+        "c": "No, el matrimonio con español no reduce el plazo de residencia",
+        "d": "Solo si el matrimonio fue celebrado con arreglo al derecho civil común"
+      },
+      "correct": "b",
+      "explicacion": "El art. 22.2.d) CC establece que bastará el tiempo de residencia de un año para 'El que al tiempo de la solicitud llevare un año casado con español o española y no estuviere separado legalmente o de hecho'.",
+      "ley": "CC, art. 22.2.d)"
+    },
+    {
+      "id": "tema_07_test_03_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 27 CC, ¿gozan los extranjeros en España de los mismos derechos civiles que los españoles?",
+      "options": {
+        "a": "Sí, salvo lo dispuesto en las Leyes especiales y en los Tratados",
+        "b": "No, los extranjeros tienen derechos civiles restringidos en todos los casos",
+        "c": "Solo los extranjeros con residencia legal y permanente",
+        "d": "Solo en las materias donde exista reciprocidad"
+      },
+      "correct": "a",
+      "explicacion": "El art. 27 CC establece el principio de equiparación: 'Los extranjeros gozan en España de los mismos derechos civiles que los españoles, salvo lo dispuesto en las Leyes especiales y en los Tratados'.",
+      "ley": "CC, art. 27"
+    },
+    {
+      "id": "tema_07_test_03_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.2.c) CC, ¿basta el plazo de un año de residencia para el que estuvo sujeto a tutela, curatela con representación plena o guarda de español o institución española?",
+      "options": {
+        "a": "No, se requieren al menos dos años en estos casos",
+        "b": "Solo durante el período en que se encontraba bajo la tutela española",
+        "c": "Solo si la tutela fue ordenada por un tribunal español",
+        "d": "Sí, basta un año para el que haya estado sujeto a tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos"
+      },
+      "correct": "d",
+      "explicacion": "El art. 22.2.c) CC establece que bastará un año para 'El que haya estado sujeto legalmente a la tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud'.",
+      "ley": "CC, art. 22.2.c)"
+    },
+    {
+      "id": "tema_07_test_03_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 17.a) CC, ¿son españoles de origen los nacidos de padre o madre españoles aunque nazcan en el extranjero?",
+      "options": {
+        "a": "No, deben nacer necesariamente en territorio español",
+        "b": "Solo si el país de nacimiento no les atribuye su propia nacionalidad",
+        "c": "Solo si el padre o la madre están inscritos en el Registro Civil consular",
+        "d": "Sí, el nacimiento en el extranjero no impide ser español de origen si el padre o la madre son españoles"
+      },
+      "correct": "d",
+      "explicacion": "El art. 17.a) CC establece como español de origen a quien nazca 'de padre o madre españoles', sin importar el lugar de nacimiento. El ius sanguinis opera independientemente del territorio.",
+      "ley": "CC, art. 17.a)"
+    },
+    {
+      "id": "tema_07_test_03_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 20.1 CC, ¿quiénes tienen derecho a optar por la nacionalidad española?",
+      "options": {
+        "a": "Solo los nacidos en España de padres extranjeros",
+        "b": "Todos los extranjeros que hayan residido en España más de 5 años",
+        "c": "Las personas que estén o hayan estado sujetas a la patria potestad de un español, aquellas cuyo padre o madre hubiera sido originariamente español y nacido en España, y las comprendidas en el segundo apartado de los arts. 17 y 19",
+        "d": "Solo los que demuestren vínculos familiares con España"
+      },
+      "correct": "c",
+      "explicacion": "El art. 20.1 CC enumera tres supuestos de derecho de opción: a) los que estén o hayan estado sujetos a la patria potestad de un español; b) aquellos cuyo padre o madre hubiera sido originariamente español y nacido en España; c) los comprendidos en el segundo apartado de los arts. 17 y 19.",
+      "ley": "CC, art. 20.1"
+    },
+    {
+      "id": "tema_07_test_03_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.4 CC, ¿qué debe justificar el interesado para que se le conceda la nacionalidad por residencia?",
+      "options": {
+        "a": "Buena conducta cívica y suficiente grado de integración en la sociedad española",
+        "b": "Solo la legalidad y continuidad de la residencia",
+        "c": "Nivel de renta suficiente para no ser carga para el Estado",
+        "d": "Conocimiento de la lengua española y de la Constitución"
+      },
+      "correct": "a",
+      "explicacion": "El art. 22.4 CC establece que 'El interesado deberá justificar, en el expediente regulado por la legislación del Registro Civil, buena conducta cívica y suficiente grado de integración en la sociedad española'.",
+      "ley": "CC, art. 22.4"
+    },
+    {
+      "id": "tema_07_test_03_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 25.1 CC, ¿pierden la nacionalidad los españoles no originarios que utilicen exclusivamente la nacionalidad extranjera renunciada al adquirir la española?",
+      "options": {
+        "a": "No, nunca pueden perder la nacionalidad española una vez adquirida",
+        "b": "Sí, si durante un período de tres años utilizan exclusivamente esa nacionalidad extranjera renunciada",
+        "c": "Solo si residen habitualmente fuera de España",
+        "d": "Solo si además ejercen cargo público en el Estado extranjero"
+      },
+      "correct": "b",
+      "explicacion": "El art. 25.1.a) CC establece que los españoles no originarios perderán la nacionalidad 'Cuando durante un período de tres años utilicen exclusivamente la nacionalidad a la que hubieran declarado renunciar al adquirir la nacionalidad española'.",
+      "ley": "CC, art. 25.1.a)"
+    }
+  ]
+}

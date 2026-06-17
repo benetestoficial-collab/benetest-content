@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_07_test_20_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 1.1 CC, ¿en qué orden jerárquico se aplican las fuentes del ordenamiento jurídico español?",
+      "options": {
+        "a": "Primero la ley, luego la costumbre y finalmente los principios generales del derecho.",
+        "b": "Primero la costumbre, luego la ley y finalmente los principios generales del derecho.",
+        "c": "Primero los principios generales, luego la ley y finalmente la costumbre.",
+        "d": "Primero la ley, luego los principios generales y finalmente la costumbre."
+      },
+      "correct": "a",
+      "explicacion": "El art. 1.1 CC establece que las fuentes del ordenamiento jurídico español son, en este orden: la ley, la costumbre y los principios generales del derecho. La costumbre opera en defecto de ley y los principios en defecto de ley o costumbre.",
+      "ley": "CC, art. 1.1"
+    },
+    {
+      "id": "tema_07_test_20_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 9.8 CC, ¿puede el testador ordenar disposiciones testamentarias conforme a su ley nacional del momento del otorgamiento aunque en el momento del fallecimiento sea otra la ley que rija la sucesión?",
+      "options": {
+        "a": "No, siempre se aplica la ley nacional del causante en el momento del fallecimiento.",
+        "b": "Solo si la nueva ley sucesoria es más favorable para los herederos.",
+        "c": "Sí, las disposiciones testamentarias ordenadas conforme a la ley nacional del testador en el momento del otorgamiento conservarán su validez aunque sea otra la ley que rija la sucesión, si bien las legítimas se ajustarán a esta última.",
+        "d": "Solo para los bienes situados en el país de la ley elegida."
+      },
+      "correct": "c",
+      "explicacion": "El art. 9.8 CC establece que 'las disposiciones hechas en testamento y los pactos sucesorios ordenados conforme a la Ley nacional del testador o del disponente en el momento de su otorgamiento conservarán su validez, aunque sea otra la ley que rija la sucesión, si bien las legítimas se ajustarán, en su caso, a esta última'.",
+      "ley": "CC, art. 9.8"
+    },
+    {
+      "id": "tema_07_test_20_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.1 CC, ¿bastará el plazo de cinco años de residencia para los que hayan obtenido la condición de refugiado?",
+      "options": {
+        "a": "No, los refugiados necesitan el plazo general de diez años.",
+        "b": "Sí, serán suficientes cinco años de residencia para los que hayan obtenido la condición de refugiado.",
+        "c": "Solo dos años si el refugiado tiene cónyuge español.",
+        "d": "Los refugiados no pueden solicitar la nacionalidad española por residencia."
+      },
+      "correct": "b",
+      "explicacion": "El art. 22.1 CC establece que 'Serán suficientes cinco años para los que hayan obtenido la condición de refugiado'. El estatuto de refugiado justifica la reducción a la mitad del plazo general.",
+      "ley": "CC, art. 22.1"
+    },
+    {
+      "id": "tema_07_test_20_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 30 CC, ¿se exige que el recién nacido sea viable para adquirir la personalidad civil?",
+      "options": {
+        "a": "Sí, se exige viabilidad de al menos veinticuatro horas de vida.",
+        "b": "Depende de lo que establezcan los médicos en el momento del parto.",
+        "c": "Solo si el embarazo tiene más de seis meses de gestación.",
+        "d": "No, la personalidad se adquiere en el momento del nacimiento con vida, una vez producido el entero desprendimiento del seno materno, sin exigencia de viabilidad."
+      },
+      "correct": "d",
+      "explicacion": "El art. 30 CC establece que 'La personalidad se adquiere en el momento del nacimiento con vida, una vez producido el entero desprendimiento del seno materno'. No se exige ningún requisito de viabilidad ni tiempo mínimo de supervivencia.",
+      "ley": "CC, art. 30"
+    },
+    {
+      "id": "tema_07_test_20_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 46 CC, ¿pueden contraer matrimonio los menores emancipados?",
+      "options": {
+        "a": "No, el impedimento de minoría de edad afecta a todos los menores, incluidos los emancipados.",
+        "b": "Solo con autorización judicial en todo caso.",
+        "c": "Solo si tienen al menos dieciséis años cumplidos.",
+        "d": "Sí, la prohibición afecta solo a los menores de edad no emancipados."
+      },
+      "correct": "d",
+      "explicacion": "El art. 46.1.º CC establece que no pueden contraer matrimonio 'Los menores de edad no emancipados'. Los menores emancipados están excluidos del impedimento, por lo que sí pueden contraer matrimonio.",
+      "ley": "CC, art. 46.1.º"
+    },
+    {
+      "id": "tema_07_test_20_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 144 CC, si una persona está obligada a dar alimentos simultáneamente a su cónyuge, a su hijo menor sujeto a patria potestad y a su madre, y no tiene fortuna suficiente para todos, ¿en qué orden deben satisfacerse?",
+      "options": {
+        "a": "Primero la madre, luego el hijo y finalmente el cónyuge.",
+        "b": "Primero el cónyuge, luego el hijo y finalmente la madre.",
+        "c": "Primero el hijo menor sujeto a patria potestad (preferido al cónyuge), luego el cónyuge, luego la madre.",
+        "d": "Se reparte proporcionalmente entre todos por igual."
+      },
+      "correct": "c",
+      "explicacion": "El art. 144 CC fija el orden: 1.º el cónyuge, 2.º los descendientes de grado más próximo, 3.º los ascendientes. Sin embargo, el art. 145 CC establece la excepción de que cuando concurren el cónyuge y un hijo sujeto a la patria potestad, 'este será preferido a aquél'. Así: primero el hijo (preferido al cónyuge), luego el cónyuge (preferido a ascendientes), luego la madre.",
+      "ley": "CC, arts. 144 y 145"
+    },
+    {
+      "id": "tema_07_test_20_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 116 CC, ¿hasta cuántos días después de la disolución del matrimonio se presumen hijos del marido los nacidos?",
+      "options": {
+        "a": "Trescientos días.",
+        "b": "Ciento ochenta días.",
+        "c": "Doscientos días.",
+        "d": "Cuatrocientos días."
+      },
+      "correct": "a",
+      "explicacion": "El art. 116 CC establece que se presumen hijos del marido 'los nacidos después de la celebración del matrimonio y antes de los trescientos días siguientes a su disolución o a la separación legal o de hecho de los cónyuges'.",
+      "ley": "CC, art. 116"
+    },
+    {
+      "id": "tema_07_test_20_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 175.3 CC, ¿puede un tutor adoptar a su pupilo?",
+      "options": {
+        "a": "Sí, siempre que el pupilo consienta siendo mayor de doce años.",
+        "b": "No puede hasta que haya sido aprobada definitivamente la cuenta general justificada de la tutela.",
+        "c": "Sí, en cualquier momento sin restricción.",
+        "d": "Solo con autorización judicial expresa."
+      },
+      "correct": "b",
+      "explicacion": "El art. 175.3 CC establece que no puede adoptarse 'A un pupilo por su tutor hasta que haya sido aprobada definitivamente la cuenta general justificada de la tutela'. Esta restricción protege al pupilo de posibles conflictos de interés.",
+      "ley": "CC, art. 175.3"
+    },
+    {
+      "id": "tema_07_test_20_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 193 CC, ¿desde cuándo se computan los plazos de los supuestos 1.º y 2.º de declaración de fallecimiento?",
+      "options": {
+        "a": "Desde la fecha exacta en que se tuvieron las últimas noticias.",
+        "b": "Desde la expiración del año natural en que se tuvieron las últimas noticias o, en su defecto, del año natural en que ocurrió la desaparición.",
+        "c": "Desde la fecha de presentación de la solicitud de declaración.",
+        "d": "Desde el inicio del expediente judicial."
+      },
+      "correct": "b",
+      "explicacion": "El art. 193 CC establece que 'Los plazos expresados se computarán desde la expiración del año natural en que se tuvieron las últimas noticias, o, en su defecto, del en que ocurrió la desaparición'. El cómputo por año natural (no de fecha a fecha) es específico de los supuestos 1.º y 2.º.",
+      "ley": "CC, art. 193"
+    },
+    {
+      "id": "tema_07_test_20_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 177.2 CC, ¿en qué plazo mínimo desde el parto puede la madre prestar el asentimiento a la adopción de su hijo?",
+      "options": {
+        "a": "Inmediatamente tras el parto.",
+        "b": "Un año después del parto como garantía de reflexión.",
+        "c": "Tres meses después del parto.",
+        "d": "No podrá prestarse hasta que hayan transcurrido seis semanas desde el parto."
+      },
+      "correct": "d",
+      "explicacion": "El art. 177.2 CC establece que 'El asentimiento de la madre no podrá prestarse hasta que hayan transcurrido seis semanas desde el parto'. Este plazo protege a la madre del impacto emocional del parto para garantizar que su consentimiento sea libre.",
+      "ley": "CC, art. 177.2"
+    },
+    {
+      "id": "tema_07_test_20_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 184 CC, ¿quién es el primer llamado a ser representante del declarado ausente?",
+      "options": {
+        "a": "El hijo mayor de edad.",
+        "b": "El cónyuge presente mayor de edad no separado legalmente o de hecho.",
+        "c": "El ascendiente más próximo de menos edad.",
+        "d": "El Ministerio Fiscal."
+      },
+      "correct": "b",
+      "explicacion": "El art. 184 CC establece el orden de preferencia: '1.º Al cónyuge presente mayor de edad no separado legalmente o de hecho'. Solo en defecto de este se recurre al hijo mayor, luego al ascendiente más próximo de menos edad y luego a los hermanos convivientes.",
+      "ley": "CC, art. 184"
+    },
+    {
+      "id": "tema_07_test_20_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 199 CC, ¿quedan sujetos a tutela los menores emancipados?",
+      "options": {
+        "a": "No, la tutela se aplica solo a los menores no emancipados en situación de desamparo o no sujetos a patria potestad.",
+        "b": "Sí, hasta que cumplan los dieciocho años.",
+        "c": "Solo si están en situación de desamparo.",
+        "d": "Sí, siempre que no tengan medidas de apoyo voluntarias."
+      },
+      "correct": "a",
+      "explicacion": "El art. 199 CC establece que quedan sujetos a tutela '1.º Los menores no emancipados en situación de desamparo. 2.º Los menores no emancipados no sujetos a patria potestad'. Los emancipados no están sujetos a tutela.",
+      "ley": "CC, art. 199"
+    },
+    {
+      "id": "tema_07_test_20_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 268 CC, ¿cuál es el plazo máximo excepcional de revisión de las medidas de apoyo judiciales?",
+      "options": {
+        "a": "Cuatro años, si la persona con discapacidad así lo solicita.",
+        "b": "Diez años cuando la discapacidad sea permanente e irreversible.",
+        "c": "Seis años, en casos excepcionales y motivados.",
+        "d": "No existe plazo máximo; puede ser indefinido."
+      },
+      "correct": "c",
+      "explicacion": "El art. 268 CC establece que el plazo de revisión máximo es de tres años, pero que 'la autoridad judicial podrá, de manera excepcional y motivada, en el procedimiento de provisión o, en su caso, de modificación de apoyos, establecer un plazo de revisión superior que no podrá exceder de seis años'.",
+      "ley": "CC, art. 268"
+    },
+    {
+      "id": "tema_07_test_20_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 40 CC, ¿cuál es el domicilio civil de las personas naturales?",
+      "options": {
+        "a": "El lugar donde están inscritas en el Registro Civil.",
+        "b": "El lugar donde se encuentran sus principales bienes.",
+        "c": "El lugar donde ejercen su actividad laboral principal.",
+        "d": "El lugar de su residencia habitual."
+      },
+      "correct": "d",
+      "explicacion": "El art. 40 CC establece que 'Para el ejercicio de los derechos y el cumplimiento de las obligaciones civiles, el domicilio de las personas naturales es el lugar de su residencia habitual'. La residencia habitual es el criterio determinante del domicilio civil.",
+      "ley": "CC, art. 40"
+    },
+    {
+      "id": "tema_07_test_20_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 108 CC, ¿es matrimonial la filiación cuando los progenitores están casados entre sí?",
+      "options": {
+        "a": "No necesariamente; depende del momento de la concepción.",
+        "b": "Sí, es matrimonial la filiación por naturaleza cuando los progenitores están casados entre sí.",
+        "c": "Solo si el matrimonio se celebró antes de la concepción.",
+        "d": "Solo si está inscrita en el Registro Civil como matrimonial."
+      },
+      "correct": "b",
+      "explicacion": "El art. 108 CC establece que la filiación por naturaleza 'Es matrimonial cuando los progenitores están casados entre sí'. El matrimonio entre los progenitores es el criterio determinante de la matrimonialidad de la filiación.",
+      "ley": "CC, art. 108"
+    },
+    {
+      "id": "tema_07_test_20_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 292 CC, el curador debe rendir cuentas de su gestión en el plazo de tres meses al cesar, con posible prórroga. La acción para exigir esa rendición prescribe a los _____ años.",
+      "options": {
+        "a": "Cinco años.",
+        "b": "Tres años.",
+        "c": "Dos años.",
+        "d": "Diez años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 292 CC establece que 'La acción para exigir la rendición de esta cuenta prescribe a los cinco años, contados desde la terminación del plazo establecido para efectuarla'. Este plazo es idéntico al del tutor (art. 232 CC).",
+      "ley": "CC, art. 292"
+    },
+    {
+      "id": "tema_07_test_20_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 6.1 CC, ¿excusa el error de derecho del cumplimiento de la ley?",
+      "options": {
+        "a": "Sí, siempre que sea un error excusable y de buena fe.",
+        "b": "Solo en materia civil, no en materia penal.",
+        "c": "No, la ignorancia de las leyes no excusa de su cumplimiento; el error de derecho producirá únicamente los efectos que las leyes determinen.",
+        "d": "Solo si el interesado carece de formación jurídica."
+      },
+      "correct": "c",
+      "explicacion": "El art. 6.1 CC establece el principio de inexcusabilidad del desconocimiento de la ley: 'La ignorancia de las leyes no excusa de su cumplimiento. El error de derecho producirá únicamente aquellos efectos que las leyes determinen'. Es una presunción iuris et de iure.",
+      "ley": "CC, art. 6.1"
+    },
+    {
+      "id": "tema_07_test_20_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 85 CC, ¿puede disolverse el matrimonio por separación de hecho de larga duración?",
+      "options": {
+        "a": "No, el matrimonio solo se disuelve por la muerte o declaración de fallecimiento de uno de los cónyuges o por el divorcio.",
+        "b": "Sí, la separación de hecho de más de tres años disuelve el matrimonio.",
+        "c": "Solo la separación legal de más de cinco años produce la disolución.",
+        "d": "Sí, cuando ambos cónyuges manifiestan ante el juez su voluntad de no reanudar la convivencia."
+      },
+      "correct": "a",
+      "explicacion": "El art. 85 CC establece que 'El matrimonio se disuelve, sea cual fuere la forma y el tiempo de su celebración, por la muerte o la declaración de fallecimiento de uno de los cónyuges y por el divorcio'. La separación de hecho no disuelve el matrimonio.",
+      "ley": "CC, art. 85"
+    },
+    {
+      "id": "tema_07_test_20_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes es la correcta sobre el acogimiento de urgencia según el art. 173 bis.2.a) CC en relación con la edad del menor.",
+      "options": {
+        "a": "Se aplica a todos los menores sin distinción de edad.",
+        "b": "Se aplica exclusivamente a menores de dos años.",
+        "c": "Se aplica principalmente para menores de seis años.",
+        "d": "Se aplica solo a menores entre cuatro y doce años."
+      },
+      "correct": "c",
+      "explicacion": "El art. 173 bis.2.a) CC establece que el acogimiento de urgencia es 'principalmente para menores de seis años'. No es exclusivo para ese grupo de edad, pero está especialmente pensado para los más pequeños.",
+      "ley": "CC, art. 173 bis.2.a)"
+    },
+    {
+      "id": "tema_07_test_20_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 300 CC, ¿dónde deben inscribirse las resoluciones judiciales y los documentos notariales sobre cargos tutelares y medidas de apoyo a personas con discapacidad?",
+      "options": {
+        "a": "En el Registro de la Propiedad del lugar de residencia.",
+        "b": "Solo en el archivo del juzgado competente.",
+        "c": "En el Registro Mercantil cuando se trate de curatela de bienes.",
+        "d": "En el Registro Civil."
+      },
+      "correct": "d",
+      "explicacion": "El art. 300 CC, último artículo del temario, establece que 'Las resoluciones judiciales y los documentos públicos notariales sobre los cargos tutelares y medidas de apoyo a personas con discapacidad habrán de inscribirse en el Registro Civil'. El Registro Civil es el registro general de estado civil de las personas.",
+      "ley": "CC, art. 300"
+    }
+  ]
+}

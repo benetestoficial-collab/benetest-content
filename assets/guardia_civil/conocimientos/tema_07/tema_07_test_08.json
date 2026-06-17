@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 8",
+  "preguntas": [
+    {
+      "id": "tema_07_test_08_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 183 CC, ¿cuándo se considera a una persona en situación de ausencia legal si no dejó apoderado para la administración de todos sus bienes?",
+      "options": {
+        "a": "Pasado un mes desde la desaparición",
+        "b": "Pasado un año desde las últimas noticias o, a falta de estas, desde su desaparición",
+        "c": "Pasados dos años desde la desaparición",
+        "d": "Inmediatamente al desaparecer sin dejar representante"
+      },
+      "correct": "b",
+      "explicacion": "El art. 183 CC establece que se considera en situación de ausencia legal al desaparecido 'Pasado un año desde las últimas noticias o a falta de estas desde su desaparición, si no hubiese dejado apoderado con facultades de administración de todos sus bienes'. Si dejó apoderado, el plazo se extiende a tres años.",
+      "ley": "CC, art. 183"
+    },
+    {
+      "id": "tema_07_test_08_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 182 CC, ¿quiénes están obligados a promover la declaración de ausencia legal?",
+      "options": {
+        "a": "El cónyuge del ausente no separado, los parientes consanguíneos hasta el cuarto grado, el Ministerio Fiscal (de oficio o a virtud de denuncia), y cualquier persona que racionalmente estime tener sobre los bienes del desaparecido algún derecho ejercitable en vida del mismo",
+        "b": "Solo el Ministerio Fiscal de oficio",
+        "c": "Solo los herederos del ausente",
+        "d": "El juez de oficio cuando tenga conocimiento de la desaparición"
+      },
+      "correct": "a",
+      "explicacion": "El art. 182 CC establece que tienen obligación de promover la declaración de ausencia, sin orden de preferencia: el cónyuge del ausente no separado legalmente, los parientes consanguíneos hasta el cuarto grado, el Ministerio Fiscal de oficio o a virtud de denuncia, y cualquier persona que racionalmente estime tener algún derecho ejercitable en vida del desaparecido.",
+      "ley": "CC, art. 182"
+    },
+    {
+      "id": "tema_07_test_08_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 184 CC, ¿a quién corresponde preferentemente la representación del declarado ausente?",
+      "options": {
+        "a": "Al Ministerio Fiscal siempre",
+        "b": "Solo al notario designado por el juez",
+        "c": "Al pariente más próximo sin distinción de clase",
+        "d": "1.º Al cónyuge presente mayor de edad no separado legalmente o de hecho; 2.º al hijo mayor de edad; 3.º al ascendiente más próximo de menos edad; 4.º a los hermanos mayores de edad que hayan convivido con el ausente"
+      },
+      "correct": "d",
+      "explicacion": "El art. 184 CC establece el orden de representación del declarado ausente: 1.º el cónyuge presente mayor de edad no separado legalmente o de hecho; 2.º el hijo mayor de edad; 3.º el ascendiente más próximo de menos edad de una u otra línea; 4.º los hermanos mayores de edad que hayan convivido familiarmente con el ausente.",
+      "ley": "CC, art. 184"
+    },
+    {
+      "id": "tema_07_test_08_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 193 CC, ¿cuándo procede la declaración de fallecimiento con carácter general?",
+      "options": {
+        "a": "Pasados cinco años desde las últimas noticias",
+        "b": "Transcurridos diez años desde las últimas noticias habidas del ausente o, a falta de estas, desde su desaparición; o pasados cinco años si al expirar dicho plazo hubiera cumplido el ausente 75 años",
+        "c": "Pasados quince años desde la desaparición",
+        "d": "Pasado un año si hubo riesgo de muerte acreditado"
+      },
+      "correct": "b",
+      "explicacion": "El art. 193 CC establece los plazos generales: '1.º Transcurridos diez años desde las últimas noticias habidas del ausente, o, a falta de estas, desde su desaparición. 2.º Pasados cinco años desde las últimas noticias o, en defecto de estas, desde su desaparición, si al expirar dicho plazo hubiere cumplido el ausente 75 años'.",
+      "ley": "CC, art. 193"
+    },
+    {
+      "id": "tema_07_test_08_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 193.3.º CC, ¿cuándo procede la declaración de fallecimiento por riesgo inminente de muerte por causa de violencia?",
+      "options": {
+        "a": "Inmediatamente sin plazo de espera",
+        "b": "Pasados dos años desde el riesgo",
+        "c": "Cumplido un año, contado de fecha a fecha, de un riesgo inminente de muerte por causa de violencia contra la vida, en que una persona se hubiese encontrado sin haberse tenido noticias suyas con posterioridad; en caso de siniestro el plazo será de tres meses",
+        "d": "Pasados seis meses desde la última noticia"
+      },
+      "correct": "c",
+      "explicacion": "El art. 193.3.º CC establece que procede 'Cumplido un año, contado de fecha a fecha, de un riesgo inminente de muerte por causa de violencia contra la vida, en que una persona se hubiese encontrado sin haberse tenido, con posterioridad a la violencia, noticias suyas. En caso de siniestro este plazo será de tres meses'.",
+      "ley": "CC, art. 193.3.º"
+    },
+    {
+      "id": "tema_07_test_08_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 196 CC, ¿qué consecuencia tiene la firmeza de la declaración de fallecimiento sobre la sucesión?",
+      "options": {
+        "a": "Se suspende hasta que aparezca el ausente",
+        "b": "Se abre la sucesión solo si los herederos así lo solicitan",
+        "c": "Se abre la sucesión en los bienes del mismo, procediéndose a su adjudicación; los herederos no podrán disponer a título gratuito hasta cinco años después de la declaración",
+        "d": "Los bienes pasan al Estado hasta que se confirme el fallecimiento"
+      },
+      "correct": "c",
+      "explicacion": "El art. 196 CC establece que 'Firme la declaración de fallecimiento del ausente, se abrirá la sucesión en los bienes del mismo, procediéndose a su adjudicación conforme a lo dispuesto legalmente. Los herederos no podrán disponer a título gratuito hasta cinco años después de la declaración del fallecimiento'.",
+      "ley": "CC, art. 196"
+    },
+    {
+      "id": "tema_07_test_08_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 197 CC, si el declarado fallecido aparece o se prueba su existencia, ¿puede recuperar sus bienes?",
+      "options": {
+        "a": "No, los bienes ya adjudicados pertenecen definitivamente a los herederos",
+        "b": "Sí, recobrará sus bienes en el estado en que se encuentren y tendrá derecho al precio de los vendidos o a los bienes adquiridos con ese precio, pero no podrá reclamar rentas, frutos ni productos sino desde el día de su presencia o de la declaración de no haber muerto",
+        "c": "Solo puede reclamar los bienes que estén todavía en poder de los herederos originales",
+        "d": "Puede recuperar todos los bienes con todos sus frutos e intereses"
+      },
+      "correct": "b",
+      "explicacion": "El art. 197 CC establece que el ausente que reaparece 'recobrará sus bienes en el estado en que se encuentren y tendrá derecho al precio de los que se hubieran vendido, o a los bienes que con este precio se hayan adquirido, pero no podrá reclamar de sus sucesores rentas, frutos ni productos obtenidos con los bienes de su sucesión, sino desde el día de su presencia o de la declaración de no haber muerto'.",
+      "ley": "CC, art. 197"
+    },
+    {
+      "id": "tema_07_test_08_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 186 CC, ¿qué limitaciones tienen los poseedores temporales de los bienes del ausente respecto a los actos de disposición?",
+      "options": {
+        "a": "Pueden disponer libremente de todos los bienes",
+        "b": "Pueden disponer si cuentan con el acuerdo de todos los herederos conocidos",
+        "c": "Solo pueden enajenar los bienes muebles, nunca los inmuebles",
+        "d": "No podrán venderlos, gravarlos, hipotecarlos o darlos en prenda, sino en caso de necesidad o utilidad evidente, reconocida y declarada por el Letrado de la Administración de Justicia"
+      },
+      "correct": "d",
+      "explicacion": "El art. 186 CC establece que 'Los poseedores temporales de los bienes del ausente no podrán venderlos, gravarlos, hipotecarlos o darlos en prenda, sino en caso de necesidad o utilidad evidente, reconocida y declarada por el Letrado de la Administración de Justicia, quien, al autorizar dichos actos, determinará el empleo de la cantidad obtenida'.",
+      "ley": "CC, art. 186"
+    },
+    {
+      "id": "tema_07_test_08_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 194 CC, ¿cuándo procede la declaración de fallecimiento de quien pertenecía a un contingente armado y desapareció en operaciones de campaña?",
+      "options": {
+        "a": "Inmediatamente tras comprobarse la desaparición en campaña",
+        "b": "Pasado un año desde la última noticia del combatiente",
+        "c": "Transcurridos dos años contados desde la fecha del tratado de paz y, en caso de no haberse concertado, desde la declaración oficial de fin de la guerra",
+        "d": "Pasados cinco años desde el final del conflicto"
+      },
+      "correct": "c",
+      "explicacion": "El art. 194.1.º CC establece que procede la declaración de fallecimiento de los pertenecientes a un contingente armado que hayan tomado parte en operaciones de campaña y desaparecido en ellas 'luego que hayan transcurrido dos años, contados desde la fecha del tratado de paz, y en caso de no haberse concertado, desde la declaración oficial de fin de la guerra'.",
+      "ley": "CC, art. 194.1.º"
+    },
+    {
+      "id": "tema_07_test_08_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 181 CC, ¿quién es el representante y defensor nato del desaparecido?",
+      "options": {
+        "a": "El Ministerio Fiscal siempre",
+        "b": "El heredero presunto más próximo en grado",
+        "c": "El abogado designado de oficio por el juez",
+        "d": "El cónyuge presente mayor de edad no separado legalmente; en su defecto, el pariente más próximo hasta el cuarto grado"
+      },
+      "correct": "d",
+      "explicacion": "El art. 181 CC establece que 'El cónyuge presente mayor de edad no separado legalmente será el representante y defensor nato del desaparecido; y por su falta, el pariente más próximo hasta el cuarto grado, también mayor de edad'. En defecto de parientes, el Letrado de la Administración de Justicia nombrará persona solvente.",
+      "ley": "CC, art. 181"
+    },
+    {
+      "id": "tema_07_test_08_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 185 CC, ¿qué obligaciones tiene el representante del declarado ausente?",
+      "options": {
+        "a": "Solo la de conservar el patrimonio",
+        "b": "Inventariar los bienes muebles y describir los inmuebles, prestar la garantía que fije el Letrado de la Administración de Justicia (excepto los representantes legítimos más próximos), conservar y defender el patrimonio y obtener los rendimientos normales, y ajustarse a las normas procesales civiles",
+        "c": "Solo la de presentar un informe anual al juez",
+        "d": "Solo la de pagar las deudas del ausente con sus bienes"
+      },
+      "correct": "b",
+      "explicacion": "El art. 185 CC establece que el representante está atenido a: '1.º Inventariar los bienes muebles y describir los inmuebles de su representado. 2.º Prestar la garantía que el Letrado de la Administración de Justicia prudencialmente fije. 3.º Conservar y defender el patrimonio del ausente y obtener de sus bienes los rendimientos normales de que fueren susceptibles. 4.º Ajustarse a las normas que en orden a la posesión y administración de los bienes del ausente se establecen en la Ley Procesal Civil'.",
+      "ley": "CC, art. 185"
+    },
+    {
+      "id": "tema_07_test_08_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 189 CC, ¿qué derecho tiene el cónyuge del ausente?",
+      "options": {
+        "a": "Ningún derecho especial; debe esperar la declaración de fallecimiento",
+        "b": "Tiene derecho a la separación de bienes",
+        "c": "Puede contraer nuevo matrimonio",
+        "d": "Puede solicitar el divorcio sin esperar plazo"
+      },
+      "correct": "b",
+      "explicacion": "El art. 189 CC establece que 'El cónyuge del ausente tendrá derecho a la separación de bienes'. Esta disposición permite al cónyuge no ausente gestionar su propio patrimonio con independencia.",
+      "ley": "CC, art. 189"
+    },
+    {
+      "id": "tema_07_test_08_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 195 CC, ¿qué ocurre con la situación de ausencia legal cuando se produce la declaración de fallecimiento?",
+      "options": {
+        "a": "La declaración de fallecimiento hace cesar la situación de ausencia legal",
+        "b": "Las dos situaciones coexisten hasta que se cancela la de ausencia",
+        "c": "La ausencia legal continúa hasta la firmeza de la declaración de fallecimiento",
+        "d": "La ausencia legal se convierte en declaración de fallecimiento provisional"
+      },
+      "correct": "a",
+      "explicacion": "El art. 195 CC establece que 'Por la declaración de fallecimiento cesa la situación de ausencia legal'. Las dos instituciones se relacionan de forma sucesiva: la ausencia legal puede transformarse en declaración de fallecimiento.",
+      "ley": "CC, art. 195"
+    },
+    {
+      "id": "tema_07_test_08_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 194 CC, ¿cuándo procede la declaración de fallecimiento para los que se encontraban a bordo de una nave naufragada si había evidencias racionales de ausencia de supervivientes?",
+      "options": {
+        "a": "Inmediatamente tras comprobarse el naufragio",
+        "b": "Pasado un año desde el naufragio",
+        "c": "Para el supuesto de que el naufragio o desaparición por inmersión se haya comprobado y haya evidencias racionales de ausencia de supervivientes",
+        "d": "Solo tras agotar las búsquedas durante seis meses"
+      },
+      "correct": "c",
+      "explicacion": "El art. 194.2.º CC establece que procede la declaración de fallecimiento 'De los que resulte acreditado que se encontraban a bordo de una nave cuyo naufragio o desaparición por inmersión en el mar se haya comprobado, o a bordo de una aeronave cuyo siniestro se haya verificado y haya evidencias racionales de ausencia de supervivientes'. No se exige plazo adicional en este supuesto.",
+      "ley": "CC, art. 194.2.º"
+    },
+    {
+      "id": "tema_07_test_08_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 190 CC, para reclamar un derecho en nombre de la persona constituida en ausencia, ¿qué debe probarse?",
+      "options": {
+        "a": "Que la persona existía en el tiempo en que era necesaria su existencia para adquirir el derecho",
+        "b": "Que la persona ha fallecido",
+        "c": "Solo que la persona ha desaparecido",
+        "d": "Que la persona tenía capacidad de obrar en el momento relevante"
+      },
+      "correct": "a",
+      "explicacion": "El art. 190 CC establece que 'Para reclamar un derecho en nombre de la persona constituida en ausencia, es preciso probar que esta persona existía en el tiempo en que era necesaria su existencia para adquirirlo'. Es la aplicación del principio de que los derechos requieren sujeto vivo que los adquiera.",
+      "ley": "CC, art. 190"
+    },
+    {
+      "id": "tema_07_test_08_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 198 CC, ¿dónde se harán constar las declaraciones de desaparición, ausencia legal y de fallecimiento?",
+      "options": {
+        "a": "En el Registro Civil",
+        "b": "En el Registro de la Propiedad",
+        "c": "En el Registro Mercantil",
+        "d": "En el archivo del juzgado competente"
+      },
+      "correct": "a",
+      "explicacion": "El art. 198 CC establece que 'En el Registro Civil se harán constar las declaraciones de desaparición, ausencia legal y de fallecimiento, así como las representaciones legítimas y dativas acordadas, y su extinción'.",
+      "ley": "CC, art. 198"
+    },
+    {
+      "id": "tema_07_test_08_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 186 CC, ¿qué fracción de los productos líquidos como máximo pueden retener los hermanos del ausente que disfrutan de la posesión temporal de sus bienes?",
+      "options": {
+        "a": "La mitad de los productos",
+        "b": "Un cuarto de los productos, siendo el resto para el ausente",
+        "c": "La totalidad mientras dure la posesión temporal",
+        "d": "No más de dos tercios de los productos líquidos, reservándose el tercio restante para el ausente o sus herederos"
+      },
+      "correct": "d",
+      "explicacion": "El art. 186 CC establece que los hermanos del ausente 'disfrutarán, también, de la posesión temporal y harán suyos los frutos, rentas y aprovechamientos en la cuantía que el Letrado de la Administración de Justicia señale, sin que en ningún caso puedan retener más de los dos tercios de los productos líquidos, reservándose el tercio restante para el ausente, o, en su caso, para sus herederos o causahabientes'.",
+      "ley": "CC, art. 186"
+    },
+    {
+      "id": "tema_07_test_08_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 191 CC, ¿qué ocurre con la parte de la herencia que corresponde a un ausente en una sucesión abierta?",
+      "options": {
+        "a": "Se adjudica directamente al Estado",
+        "b": "Se reparte entre los herederos del ausente sin esperar",
+        "c": "Queda en depósito judicial hasta que aparezca el ausente",
+        "d": "Acrece a sus coherederos, quienes deberán hacer inventario de dichos bienes reservándolos hasta la declaración del fallecimiento"
+      },
+      "correct": "d",
+      "explicacion": "El art. 191 CC establece que 'abierta una sucesión a la que estuviere llamado un ausente, acrecerá la parte de este a sus coherederos, al no haber persona con derecho propio para reclamarla. Los unos y los otros, en su caso, deberán hacer, con intervención del Ministerio fiscal, inventario de dichos bienes, los cuales reservarán hasta la declaración del fallecimiento'.",
+      "ley": "CC, art. 191"
+    },
+    {
+      "id": "tema_07_test_08_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 183 CC, ¿cuándo se considera en situación de ausencia legal quien sí dejó apoderado para la administración de todos sus bienes?",
+      "options": {
+        "a": "Pasados tres años de ausencia sin noticias",
+        "b": "Al año de la desaparición, igual que si no dejó apoderado",
+        "c": "Al mes de la desaparición",
+        "d": "Al año desde que el apoderado renunció a su cargo"
+      },
+      "correct": "a",
+      "explicacion": "El art. 183 CC establece que cuando el desaparecido 'hubiese dejado encomendada por apoderamiento la administración de todos sus bienes', el plazo para la ausencia legal es de 'Pasados tres años'. La existencia de apoderado justifica el plazo mayor.",
+      "ley": "CC, art. 183"
+    },
+    {
+      "id": "tema_07_test_08_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 193 CC, los plazos para la declaración de fallecimiento se computarán desde la expiración del año natural en que se tuvieron las últimas noticias. ¿Existe alguna excepción a este cómputo?",
+      "options": {
+        "a": "No, siempre se computa desde la expiración del año natural",
+        "b": "Los plazos se computan siempre desde la fecha exacta de la desaparición",
+        "c": "Solo el supuesto del 193.3.º (riesgo inminente de muerte por violencia) se computa 'de fecha a fecha', sin esperar al final del año natural",
+        "d": "Solo los supuestos del art. 194 (contingente armado, naufragio) tienen su propio cómputo"
+      },
+      "correct": "c",
+      "explicacion": "El art. 193 CC dispone que los plazos de los supuestos 1.º y 2.º 'se computarán desde la expiración del año natural en que se tuvieron las últimas noticias'. Sin embargo, el supuesto 3.º ('Cumplido un año, contado de fecha a fecha') emplea un cómputo civil ordinario, no por año natural.",
+      "ley": "CC, art. 193"
+    }
+  ]
+}

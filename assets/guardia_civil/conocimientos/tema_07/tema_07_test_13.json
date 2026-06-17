@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 13",
+  "preguntas": [
+    {
+      "id": "tema_07_test_13_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 47.1 CC, ¿pueden contraer matrimonio los parientes en línea recta por adopción?",
+      "options": {
+        "a": "Sí, la adopción no crea impedimentos matrimoniales",
+        "b": "Solo si no hay convivencia entre ellos",
+        "c": "Solo si la adopción fue revocada con anterioridad",
+        "d": "No, existe impedimento para los parientes en línea recta por consanguinidad o adopción"
+      },
+      "correct": "d",
+      "explicacion": "El art. 47.1 CC establece que tampoco pueden contraer matrimonio entre sí 'Los parientes en línea recta por consanguinidad o adopción'. El parentesco adoptivo produce los mismos impedimentos que el consanguíneo en línea recta.",
+      "ley": "CC, art. 47.1"
+    },
+    {
+      "id": "tema_07_test_13_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 48 CC, ¿qué impedimento NO puede dispensarse por el juez?",
+      "options": {
+        "a": "El parentesco en línea recta y el impedimento entre hermanos (segundo grado colateral), que son indispensables",
+        "b": "El parentesco entre colaterales de tercer grado",
+        "c": "El impedimento derivado de la muerte dolosa del cónyuge anterior",
+        "d": "El vínculo matrimonial subsistente"
+      },
+      "correct": "a",
+      "explicacion": "El art. 48 CC establece que el Juez podrá dispensar 'los impedimentos de muerte dolosa del cónyuge o persona con la que hubiera estado unida por análoga relación de afectividad a la conyugal y de parentesco de grado tercero entre colaterales'. El parentesco en línea recta y el de segundo grado colateral (hermanos) NO son dispensables.",
+      "ley": "CC, art. 48"
+    },
+    {
+      "id": "tema_07_test_13_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 51.2 CC, ¿quiénes son competentes para celebrar el matrimonio?",
+      "options": {
+        "a": "Solo el alcalde y el juez de paz",
+        "b": "El sacerdote, el imam o el pastor religioso en todo caso",
+        "c": "Solo el juez de primera instancia",
+        "d": "El Alcalde del municipio o concejal en quien delegue; el Letrado de la Administración de Justicia o Notario libremente elegido por los contrayentes; y el funcionario diplomático o consular encargado del Registro Civil en el extranjero"
+      },
+      "correct": "d",
+      "explicacion": "El art. 51.2 CC establece que será competente para celebrar el matrimonio: '1.º El Alcalde del municipio donde se celebre el matrimonio o concejal en quien este delegue. 2.º El Letrado de la Administración de Justicia o Notario libremente elegido por ambos contrayentes que sea competente en el lugar de celebración. 3.º El funcionario diplomático o consular Encargado del Registro Civil en el extranjero'.",
+      "ley": "CC, art. 51.2"
+    },
+    {
+      "id": "tema_07_test_13_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 52 CC, ¿qué autoridades pueden celebrar el matrimonio cuando uno de los contrayentes se halla en peligro de muerte?",
+      "options": {
+        "a": "Solo el alcalde o el juez",
+        "b": "Solo el médico que atiende al enfermo",
+        "c": "El Alcalde, Concejal, Letrado de la Administración de Justicia, Notario o funcionario del Registro Civil; el Oficial o Jefe superior respecto de los militares en campaña; y el Capitán o Comandante respecto de los matrimonios celebrados a bordo de nave o aeronave",
+        "d": "Cualquier testigo mayor de edad designado por los contrayentes"
+      },
+      "correct": "c",
+      "explicacion": "El art. 52 CC establece tres supuestos: podrán celebrar el matrimonio en peligro de muerte '1.º El Alcalde o Concejal en quien delegue, Letrado de la Administración de Justicia, Notario o funcionario referido en el artículo 51. 2.º El Oficial o Jefe superior inmediato respecto de los militares en campaña. 3.º El Capitán o Comandante respecto de los matrimonios que se celebren a bordo de nave o aeronave'.",
+      "ley": "CC, art. 52"
+    },
+    {
+      "id": "tema_07_test_13_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 55 CC, ¿puede celebrarse el matrimonio por apoderado?",
+      "options": {
+        "a": "No, el matrimonio exige la presencia personal de ambos contrayentes",
+        "b": "Solo para los matrimonios consulares en el extranjero",
+        "c": "Solo en caso de enfermedad grave acreditada médicamente",
+        "d": "Sí, uno de los contrayentes puede contraer matrimonio por apoderado con poder especial en forma auténtica, siendo siempre necesaria la asistencia personal del otro contrayente"
+      },
+      "correct": "d",
+      "explicacion": "El art. 55 CC establece que 'Uno de los contrayentes podrá contraer matrimonio por apoderado, a quien tendrá que haber concedido poder especial en forma auténtica, siendo siempre necesaria la asistencia personal del otro contrayente'. El poder debe identificar a la persona con quien se va a celebrar el matrimonio.",
+      "ley": "CC, art. 55"
+    },
+    {
+      "id": "tema_07_test_13_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 73.3.º CC, ¿es nulo el matrimonio celebrado sin testigos cuando su presencia es necesaria?",
+      "options": {
+        "a": "No, la falta de testigos solo genera una infracción administrativa",
+        "b": "Sí, es nulo el matrimonio celebrado sin la intervención del Alcalde, Concejal, Letrado de la Administración de Justicia, Notario o personal funcionario ante quien deba celebrarse, o sin la de los testigos",
+        "c": "Solo es anulable si los testigos eran parientes del contrayente",
+        "d": "Es nulo solo cuando falta el testigo propuesto por cada parte"
+      },
+      "correct": "b",
+      "explicacion": "El art. 73.3.º CC establece que es nulo 'El que se contraiga sin la intervención del Alcalde o Concejal, Letrado/a de la Administración de Justicia, Notario/a o personal funcionario ante quien deba celebrarse, o sin la de los testigos'. La presencia de la autoridad competente y los testigos son requisitos de nulidad.",
+      "ley": "CC, art. 73.3.º"
+    },
+    {
+      "id": "tema_07_test_13_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 74 CC, ¿quién puede ejercitar la acción de nulidad matrimonial con carácter general?",
+      "options": {
+        "a": "Los cónyuges, el Ministerio Fiscal y cualquier persona que tenga interés directo y legítimo en ella",
+        "b": "Solo los cónyuges",
+        "c": "Solo el Ministerio Fiscal de oficio",
+        "d": "Solo el juez de oficio"
+      },
+      "correct": "a",
+      "explicacion": "El art. 74 CC establece que 'La acción para pedir la nulidad del matrimonio corresponde a los cónyuges, al Ministerio Fiscal y a cualquier persona que tenga interés directo y legítimo en ella, salvo lo dispuesto en los artículos siguientes'. Las restricciones de los arts. 75 y 76 limitan la legitimación en supuestos especiales.",
+      "ley": "CC, art. 74"
+    },
+    {
+      "id": "tema_07_test_13_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 79 CC, ¿qué ocurre con los efectos del matrimonio nulo respecto a los hijos y al cónyuge de buena fe?",
+      "options": {
+        "a": "La declaración de nulidad no invalida los efectos ya producidos respecto de los hijos y del contrayente o contrayentes de buena fe",
+        "b": "Todos los efectos producidos son nulos",
+        "c": "Solo se mantienen los efectos patrimoniales",
+        "d": "Los efectos se mantienen solo durante el año siguiente a la nulidad"
+      },
+      "correct": "a",
+      "explicacion": "El art. 79 CC establece que 'La declaración de nulidad del matrimonio no invalidará los efectos ya producidos respecto de los hijos y del contrayente o contrayentes de buena fe. La buena fe se presume'. Es el denominado matrimonio putativo.",
+      "ley": "CC, art. 79"
+    },
+    {
+      "id": "tema_07_test_13_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 76 CC, ¿cuándo caduca la acción de nulidad por error, coacción o miedo grave?",
+      "options": {
+        "a": "A los cuatro años desde la celebración del matrimonio",
+        "b": "A los dos años desde que se tuvo conocimiento del vicio",
+        "c": "Si los cónyuges hubieran vivido juntos durante un año después de desvanecido el error o de haber cesado la fuerza o la causa del miedo",
+        "d": "Nunca; la acción de nulidad por vicios del consentimiento es imprescriptible"
+      },
+      "correct": "c",
+      "explicacion": "El art. 76 CC establece que 'Caduca la acción y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante un año después de desvanecido el error o de haber cesado la fuerza o la causa del miedo'.",
+      "ley": "CC, art. 76"
+    },
+    {
+      "id": "tema_07_test_13_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 81 CC, ¿existe un plazo mínimo de matrimonio para pedir la separación judicial?",
+      "options": {
+        "a": "No hay ningún plazo mínimo",
+        "b": "Solo puede pedirse tras seis meses de matrimonio",
+        "c": "Sí, deben haber transcurrido tres meses desde la celebración del matrimonio, salvo que se acredite riesgo para la vida, integridad física, libertad u otros derechos del cónyuge demandante o de los hijos",
+        "d": "El plazo mínimo es de un año"
+      },
+      "correct": "c",
+      "explicacion": "El art. 81 CC establece que para la separación judicial debe haber transcurrido 'tres meses desde la celebración del matrimonio'. Sin embargo, 'No será preciso el transcurso de este plazo para la interposición de la demanda cuando se acredite la existencia de un riesgo para la vida, la integridad física, la libertad, la integridad moral o libertad e indemnidad sexual del cónyuge demandante o de los hijos'.",
+      "ley": "CC, art. 81"
+    },
+    {
+      "id": "tema_07_test_13_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 83 CC, ¿desde cuándo se producen los efectos de la separación matrimonial?",
+      "options": {
+        "a": "Desde la presentación de la demanda de separación",
+        "b": "Desde la firmeza de la sentencia o decreto que así la declare, o desde la manifestación del consentimiento de ambos cónyuges otorgado en escritura pública",
+        "c": "Desde la celebración del convenio regulador ante el letrado",
+        "d": "Desde la admisión a trámite de la demanda"
+      },
+      "correct": "b",
+      "explicacion": "El art. 83 CC establece que 'Los efectos de la separación matrimonial se producirán desde la firmeza de la sentencia o decreto que así la declare o desde la manifestación del consentimiento de ambos cónyuges otorgado en escritura pública'. Hasta la inscripción en el Registro Civil no producen efectos frente a terceros de buena fe.",
+      "ley": "CC, art. 83"
+    },
+    {
+      "id": "tema_07_test_13_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 84 CC, ¿qué efecto tiene la reconciliación sobre las medidas adoptadas en relación con los hijos durante la separación?",
+      "options": {
+        "a": "Quedan automáticamente sin efecto con la reconciliación",
+        "b": "Solo quedan sin efecto si ambos cónyuges así lo solicitan",
+        "c": "Mediante resolución judicial, podrán ser mantenidas o modificadas cuando exista causa que lo justifique, aunque la reconciliación ponga término al procedimiento",
+        "d": "Las medidas solo se modifican si lo piden los hijos"
+      },
+      "correct": "c",
+      "explicacion": "El art. 84 CC establece que la reconciliación pone término al procedimiento de separación, pero 'mediante resolución judicial, serán mantenidas o modificadas las medidas adoptadas en relación a los hijos, cuando exista causa que lo justifique'. El interés de los hijos prevalece sobre la reconciliación de los progenitores.",
+      "ley": "CC, art. 84"
+    },
+    {
+      "id": "tema_07_test_13_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 88 CC, ¿qué produce la reconciliación de los cónyuges cuando se ha interpuesto demanda de divorcio?",
+      "options": {
+        "a": "La acción de divorcio se extingue por la muerte de cualquiera de los cónyuges y por su reconciliación, que deberá ser expresa cuando se produzca después de interpuesta la demanda",
+        "b": "Solo suspende el procedimiento temporalmente",
+        "c": "La reconciliación solo es efectiva si se formaliza ante notario",
+        "d": "El procedimiento continúa aunque haya reconciliación"
+      },
+      "correct": "a",
+      "explicacion": "El art. 88 CC establece que 'La acción de divorcio se extingue por la muerte de cualquiera de los cónyuges y por su reconciliación, que deberá ser expresa cuando se produzca después de interpuesta la demanda'. La reconciliación posterior al divorcio no produce efectos legales.",
+      "ley": "CC, art. 88"
+    },
+    {
+      "id": "tema_07_test_13_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 92.1 CC, ¿quedan exentos los padres de sus obligaciones para con los hijos tras la separación, nulidad o divorcio?",
+      "options": {
+        "a": "Sí, si se establece un convenio regulador",
+        "b": "Depende del tipo de régimen de custodia acordado",
+        "c": "Solo si el juez así lo establece expresamente",
+        "d": "No, la separación, la nulidad y el divorcio no eximen a los padres de sus obligaciones para con los hijos"
+      },
+      "correct": "d",
+      "explicacion": "El art. 92.1 CC establece el principio de continuidad de las obligaciones parentales: 'La separación, la nulidad y el divorcio no eximen a los padres de sus obligaciones para con los hijos'. La ruptura matrimonial no afecta a las obligaciones respecto de los hijos.",
+      "ley": "CC, art. 92.1"
+    },
+    {
+      "id": "tema_07_test_13_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 92.7 CC, ¿procede la guarda conjunta cuando uno de los progenitores está incurso en un proceso penal por violencia?",
+      "options": {
+        "a": "Sí, si el juez lo considera conveniente para los hijos",
+        "b": "Depende del tipo de delito y su gravedad",
+        "c": "Solo en caso de sentencia condenatoria firme",
+        "d": "No procederá la guarda conjunta cuando cualquiera de los progenitores esté incurso en un proceso penal iniciado por intentar atentar contra la vida, la integridad física, la libertad, la integridad moral o la libertad e indemnidad sexual del otro cónyuge o de los hijos"
+      },
+      "correct": "d",
+      "explicacion": "El art. 92.7 CC establece que 'No procederá la guarda conjunta cuando cualquiera de los progenitores esté incurso en un proceso penal iniciado por intentar atentar contra la vida, la integridad física, la libertad, la integridad moral o la libertad e indemnidad sexual del otro cónyuge o de los hijos que convivan con ambos'. También incluye la existencia de indicios de violencia doméstica o de género, y los malos tratos a animales.",
+      "ley": "CC, art. 92.7"
+    },
+    {
+      "id": "tema_07_test_13_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 96.1 CC, ¿a quién corresponde el uso de la vivienda familiar cuando hay hijos menores?",
+      "options": {
+        "a": "Al cónyuge con mayor renta",
+        "b": "A los hijos comunes menores de edad y al cónyuge en cuya compañía queden, hasta que todos alcancen la mayoría de edad",
+        "c": "Al cónyuge propietario de la vivienda",
+        "d": "Al cónyuge que la solicite primero en la demanda"
+      },
+      "correct": "b",
+      "explicacion": "El art. 96.1 CC establece que en defecto de acuerdo, 'el uso de la vivienda familiar y de los objetos de uso ordinario de ella corresponderá a los hijos comunes menores de edad y al cónyuge en cuya compañía queden, hasta que todos aquellos alcancen la mayoría de edad'.",
+      "ley": "CC, art. 96.1"
+    },
+    {
+      "id": "tema_07_test_13_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 102 CC, ¿qué efectos se producen por ministerio de la ley al admitirse la demanda de nulidad, separación o divorcio?",
+      "options": {
+        "a": "La disolución automática del régimen económico matrimonial",
+        "b": "Los cónyuges pueden vivir separados, cesa la presunción de convivencia conyugal y quedan revocados los consentimientos y poderes que cualquiera de los cónyuges hubiera otorgado al otro",
+        "c": "Solo la atribución provisional de la vivienda familiar",
+        "d": "La suspensión automática del deber de alimentos entre cónyuges"
+      },
+      "correct": "b",
+      "explicacion": "El art. 102 CC establece que al admitirse la demanda se producen por ministerio de la ley: '1.º Los cónyuges podrán vivir separados y cesa la presunción de convivencia conyugal. 2.º Quedan revocados los consentimientos y poderes que cualquiera de los cónyuges hubiera otorgado al otro. Asimismo, salvo pacto en contrario, cesa la posibilidad de vincular los bienes privativos del otro cónyuge en el ejercicio de la potestad doméstica'.",
+      "ley": "CC, art. 102"
+    },
+    {
+      "id": "tema_07_test_13_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 60 CC, ¿qué confesiones religiosas pueden celebrar matrimonios con efectos civiles además de la Iglesia Católica?",
+      "options": {
+        "a": "Solo la Iglesia Católica",
+        "b": "Las que tengan acuerdos de cooperación con el Estado, y también las iglesias, confesiones, comunidades religiosas o federaciones inscritas en el Registro de Entidades Religiosas que hayan obtenido reconocimiento de notorio arraigo en España (con requisitos adicionales)",
+        "c": "Cualquier confesión religiosa registrada en España",
+        "d": "Solo las tres religiones del Libro (catolicismo, islamismo y judaísmo)"
+      },
+      "correct": "b",
+      "explicacion": "El art. 60 CC establece que producen efectos civiles: el matrimonio canónico o en cualquiera de las formas religiosas previstas en los acuerdos de cooperación; y también el matrimonio celebrado según las iglesias o confesiones con notorio arraigo reconocido, cumpliendo requisitos adicionales (tramitación previa de acta o expediente de capacidad y libre manifestación del consentimiento ante ministro de culto acreditado y dos testigos mayores de edad).",
+      "ley": "CC, art. 60"
+    },
+    {
+      "id": "tema_07_test_13_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 70 CC, ¿quién fija el domicilio conyugal?",
+      "options": {
+        "a": "El marido por decisión unilateral",
+        "b": "El juez siempre",
+        "c": "Los cónyuges de común acuerdo y, en caso de discrepancia, resolverá el Juez, teniendo en cuenta el interés de la familia",
+        "d": "El cónyuge con mayor renta o patrimonio"
+      },
+      "correct": "c",
+      "explicacion": "El art. 70 CC establece que 'Los cónyuges fijarán de común acuerdo el domicilio conyugal y, en caso de discrepancia, resolverá el Juez, teniendo en cuenta el interés de la familia'. Es una expresión del principio de igualdad entre los cónyuges.",
+      "ley": "CC, art. 70"
+    },
+    {
+      "id": "tema_07_test_13_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 80 CC, ¿pueden tener eficacia civil las resoluciones de los tribunales eclesiásticos sobre nulidad de matrimonio canónico?",
+      "options": {
+        "a": "Sí, si se declaran ajustadas al Derecho del Estado en resolución dictada por el Juez civil competente, a solicitud de cualquiera de las partes",
+        "b": "No, las decisiones eclesiásticas no tienen ningún efecto en el orden civil",
+        "c": "Solo si el matrimonio fue celebrado exclusivamente por el rito canónico",
+        "d": "Solo para los efectos patrimoniales, no los personales"
+      },
+      "correct": "a",
+      "explicacion": "El art. 80 CC establece que 'Las resoluciones dictadas por los Tribunales eclesiásticos sobre nulidad de matrimonio canónico o las decisiones pontificias sobre matrimonio rato y no consumado tendrán eficacia en el orden civil, a solicitud de cualquiera de las partes, si se declaran ajustados al Derecho del Estado en resolución dictada por el Juez civil competente'.",
+      "ley": "CC, art. 80"
+    }
+  ]
+}
