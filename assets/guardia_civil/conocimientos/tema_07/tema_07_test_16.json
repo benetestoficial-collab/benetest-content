@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_07_test_16_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 194.4.º CC, ¿cuándo procede la declaración de fallecimiento de quien se encontraba a bordo de una nave que se presume naufragada al no llegar a su destino?",
+      "options": {
+        "a": "Inmediatamente al comprobarse la ausencia de llegada",
+        "b": "Pasados seis meses desde la fecha de partida",
+        "c": "Luego que haya transcurrido un mes contado desde las últimas noticias recibidas o, por falta de estas, desde la fecha de salida del puerto inicial del viaje, y haya evidencias racionales de ausencia de supervivientes",
+        "d": "Pasado un año sin noticias del buque"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 194.4.º CC establece que procede la declaración de fallecimiento de los que se encuentren a bordo de una nave que se presuma naufragada 'luego que en cualquiera de los casos haya transcurrido un mes contado desde las últimas noticias recibidas o, por falta de éstas, desde la fecha de salida de la nave del puerto inicial del viaje'.",
+      "ley": "CC, art. 194.4.º"
+    },
+    {
+      "id": "tema_07_test_16_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 196 CC, ¿qué están obligados a hacer los sucesores del declarado fallecido aunque sean uno solo?",
+      "options": {
+        "a": "Pagar los impuestos sucesorios de inmediato",
+        "b": "Depositar los bienes en el juzgado durante cinco años",
+        "c": "Formar notarialmente un inventario detallado de los bienes muebles y una descripción de los inmuebles",
+        "d": "Obtener autorización judicial para cualquier acto de administración"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 196 CC establece que 'Será obligación ineludible de los sucesores, aunque por tratarse de uno solo no fuese necesaria partición, la de formar notarialmente un inventario detallado de los bienes muebles y una descripción de los inmuebles'. La obligación de inventario es ineludible aunque haya un solo heredero.",
+      "ley": "CC, art. 196"
+    },
+    {
+      "id": "tema_07_test_16_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 185 CC, ¿quiénes de entre los representantes del declarado ausente están exentos de prestar la garantía que fije el Letrado de la Administración de Justicia?",
+      "options": {
+        "a": "Los comprendidos en los números 1.º, 2.º y 3.º del art. 184 CC: el cónyuge, el hijo mayor de edad y el ascendiente más próximo de menos edad",
+        "b": "Todos están exentos",
+        "c": "Solo el cónyuge",
+        "d": "Solo los representantes que sean abogados en ejercicio"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 185.2.º CC establece que la obligación de prestar garantía alcanza a los representantes, pero 'Quedan exceptuados los comprendidos en los números 1.º, 2.º y 3.º del artículo precedente', que son el cónyuge presente, el hijo mayor de edad y el ascendiente más próximo de menos edad.",
+      "ley": "CC, art. 185.2.º"
+    },
+    {
+      "id": "tema_07_test_16_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 183 CC, ¿qué efecto produce en la ausencia legal la muerte o renuncia del mandatario o la caducidad del mandato?",
+      "options": {
+        "a": "No tiene efecto sobre la ausencia legal",
+        "b": "Debe nombrarse un nuevo mandatario antes de solicitar la declaración de ausencia",
+        "c": "Produce la declaración automática de fallecimiento",
+        "d": "Determina la ausencia legal si al producirse aquellas se ignorase el paradero del desaparecido y hubiere transcurrido un año desde las últimas noticias; además la declaración de ausencia extingue de derecho todos los mandatos del ausente"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 183 CC establece que 'La muerte o renuncia justificada del mandatario, o la caducidad del mandato, determina la ausencia legal, si al producirse aquellas se ignorase el paradero del desaparecido y hubiere transcurrido un año desde que se tuvieron las últimas noticias'. Además, 'Inscrita en el Registro Civil la declaración de ausencia, quedan extinguidos de derecho todos los mandatos generales o especiales otorgados por el ausente'.",
+      "ley": "CC, art. 183"
+    },
+    {
+      "id": "tema_07_test_16_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 187 CC, si el ausente reaparece después de que un poseedor temporal haya actuado de mala fe, ¿qué puede reclamar?",
+      "options": {
+        "a": "Solo los bienes en el estado en que se encuentren",
+        "b": "La restitución comprende también los frutos percibidos y los debidos percibir a contar del día en que aquélla se produjo, según la declaración del Letrado de la Administración de Justicia",
+        "c": "Solo el precio de los bienes vendidos",
+        "d": "Una indemnización equivalente al valor total del patrimonio"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 187 CC establece que 'Si apareciese el ausente, deberá restituírsele su patrimonio, pero no los productos percibidos, salvo mala fe interviniente, en cuyo caso la restitución comprenderá también los frutos percibidos y los debidos percibir a contar del día en que aquélla se produjo, según la declaración del Letrado de la Administración de Justicia'.",
+      "ley": "CC, art. 187"
+    },
+    {
+      "id": "tema_07_test_16_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 188 CC, ¿qué ocurre si durante la posesión temporal de los bienes del ausente se prueba su muerte?",
+      "options": {
+        "a": "Se abre una nueva licitación entre los poseedores",
+        "b": "El Ministerio Fiscal asume la administración",
+        "c": "Los bienes siguen en poder del poseedor temporal hasta la resolución judicial",
+        "d": "Se abre la sucesión en beneficio de los que en el momento del fallecimiento fuesen sus sucesores voluntarios o legítimos, debiendo el poseedor temporal hacerles entrega del patrimonio del difunto, pero reteniendo como suyos los productos recibidos en la cuantía señalada"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 188 CC establece que si se prueba la muerte del ausente 'se abrirá la sucesión en beneficio de los que en el momento del fallecimiento fuesen sus sucesores voluntarios o legítimos, debiendo el poseedor temporal hacerles entrega del patrimonio del difunto, pero reteniendo, como suyos, los productos recibidos en la cuantía señalada'.",
+      "ley": "CC, art. 188"
+    },
+    {
+      "id": "tema_07_test_16_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 219 CC, ¿pueden los progenitores designar que varios tutores actúen con carácter solidario?",
+      "options": {
+        "a": "No, los tutores siempre actúan conjuntamente",
+        "b": "Sí, si los progenitores lo hubieren dispuesto de modo expreso, la autoridad judicial podrá resolver que los tutores puedan ejercitar las facultades de la tutela con carácter solidario",
+        "c": "Solo si el juez lo considera conveniente",
+        "d": "La solidaridad se presume cuando hay más de un tutor designado"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 219 CC establece que 'cuando los progenitores del tutelado hayan designado en testamento o documento público notarial más de un tutor para que ejerzan la tutela conjuntamente, si los progenitores lo hubieren dispuesto de modo expreso, se podrá resolver, al efectuar el nombramiento de tutores, que estos puedan ejercitar las facultades de la tutela con carácter solidario'.",
+      "ley": "CC, art. 219"
+    },
+    {
+      "id": "tema_07_test_16_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 220 CC, cuando varios tutores tienen atribuidas conjuntamente sus facultades y hay conflicto de intereses de uno de ellos para un acto concreto, ¿cómo se resuelve?",
+      "options": {
+        "a": "El acto podrá ser realizado por el otro tutor o, de ser varios, por los demás en forma conjunta",
+        "b": "Se suspende el acto hasta que el juez resuelva",
+        "c": "Se nombra un defensor judicial para el acto concreto",
+        "d": "El Ministerio Fiscal asume la representación puntual"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 220 CC establece que 'Si los tutores tuvieren sus facultades atribuidas conjuntamente y hubiere incompatibilidad u oposición de intereses en alguno de ellos para un acto o contrato, podrá este ser realizado por el otro tutor o, de ser varios, por los demás en forma conjunta'.",
+      "ley": "CC, art. 220"
+    },
+    {
+      "id": "tema_07_test_16_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 221 CC, si cesa uno de los tutores cuando hay varios, ¿qué ocurre con la tutela?",
+      "options": {
+        "a": "La tutela subsistirá con los restantes, a no ser que al hacer el nombramiento se hubiera dispuesto otra cosa de modo expreso",
+        "b": "La tutela se extingue y debe nombrarse nuevo tutor para todos",
+        "c": "Siempre debe nombrarse un sustituto inmediatamente",
+        "d": "El Ministerio Fiscal asume provisionalmente las funciones"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 221 CC establece que 'En los casos de que por cualquier causa cese alguno de los tutores, la tutela subsistirá con los restantes a no ser que al hacer el nombramiento se hubiera dispuesto otra cosa de modo expreso'.",
+      "ley": "CC, art. 221"
+    },
+    {
+      "id": "tema_07_test_16_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 231 CC, ¿cuándo se extingue la tutela cuando se originó por privación de la patria potestad?",
+      "options": {
+        "a": "Cuando el titular de la patria potestad la recupera, o cuando desaparezca la causa que impedía ejercitarla de hecho",
+        "b": "Cuando el menor cumple 16 años",
+        "c": "Solo cuando el tutelado cumple la mayoría de edad",
+        "d": "Cuando el Ministerio Fiscal así lo solicita"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 231 CC establece que la tutela se extingue 'Cuando, habiéndose originado por privación o suspensión de la patria potestad, el titular de esta la recupere, o cuando desaparezca la causa que impedía al titular de la patria potestad ejercitarla de hecho'.",
+      "ley": "CC, art. 231"
+    },
+    {
+      "id": "tema_07_test_16_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 232 CC, ¿impide la aprobación judicial de las cuentas el ejercicio posterior de acciones entre el tutor y el tutelado?",
+      "options": {
+        "a": "Sí, la aprobación judicial tiene efecto de cosa juzgada",
+        "b": "Solo si el tutelado prestó su consentimiento expreso",
+        "c": "Solo impide las acciones patrimoniales, no las personales",
+        "d": "No, la aprobación judicial de las cuentas no impedirá el ejercicio de las acciones que recíprocamente puedan asistir al tutor y al menor o a sus causahabientes por razón de la tutela"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 232 CC establece que 'La aprobación judicial de las cuentas no impedirá el ejercicio de las acciones que recíprocamente puedan asistir al tutor y al menor o a sus causahabientes por razón de la tutela'. La aprobación de cuentas no equivale a liberación de toda responsabilidad.",
+      "ley": "CC, art. 232"
+    },
+    {
+      "id": "tema_07_test_16_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 237 CC (guarda de hecho del menor), ¿puede el guardador de hecho promover la privación de la patria potestad de los progenitores?",
+      "options": {
+        "a": "No, el guardador de hecho no tiene ninguna legitimación",
+        "b": "Sí, el guardador de hecho podrá promover la privación o suspensión de la patria potestad, remoción de la tutela o el nombramiento de tutor",
+        "c": "Solo puede informar a la Entidad Pública",
+        "d": "Solo puede solicitar el acogimiento formal del menor"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 237.2 CC establece que 'el guardador de hecho podrá promover la privación o suspensión de la patria potestad, remoción de la tutela o el nombramiento de tutor' cuando no se den los presupuestos para declarar el desamparo.",
+      "ley": "CC, art. 237.2"
+    },
+    {
+      "id": "tema_07_test_16_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 193.3.º CC, ¿qué se presume cuando en una subversión de orden político o social desaparece una persona sin noticias durante el tiempo expresado?",
+      "options": {
+        "a": "Se presume que emigró voluntariamente",
+        "b": "Se presume el fallecimiento automáticamente",
+        "c": "No se presume nada; debe probarse la violencia",
+        "d": "Se presume la violencia si han pasado seis meses desde la cesación de la subversión"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 193.3.º CC establece que 'Se presume la violencia si en una subversión de orden político o social hubiese desaparecido una persona sin volverse a tener noticias suyas durante el tiempo expresado, siempre que hayan pasado seis meses desde la cesación de la subversión'. La presunción de violencia facilita la declaración de fallecimiento.",
+      "ley": "CC, art. 193.3.º"
+    },
+    {
+      "id": "tema_07_test_16_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 186 CC, ¿quiénes disfrutan de la posesión temporal del patrimonio del ausente y hacen suyos los productos líquidos?",
+      "options": {
+        "a": "Todos los poseedores por igual, incluyendo hermanos",
+        "b": "Solo el cónyuge, con exclusión de los demás",
+        "c": "Solo los enumerados en los tres primeros números del art. 186 CC: el cónyuge presente, el hijo mayor de edad (preferidos los convivientes) y el ascendiente más próximo de menos edad; los hermanos lo hacen pero no pueden retener más de los dos tercios",
+        "d": "Los herederos presuntos del ausente"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 186 CC establece que disfrutan de la posesión temporal y hacen suyos los productos líquidos: '1.º Al cónyuge presente mayor de edad no separado legalmente o de hecho. 2.º Al hijo mayor de edad; si hubiese varios, serán preferidos los que convivían con el ausente y el mayor al menor. 3.º Al ascendiente más próximo de menos edad de una u otra línea'. Los hermanos también disfrutan de la posesión temporal pero con el límite de los dos tercios.",
+      "ley": "CC, art. 186"
+    },
+    {
+      "id": "tema_07_test_16_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 192 CC, ¿se extinguen los derechos del ausente sobre herencias cuando sus coherederos reciben la parte que le correspondía?",
+      "options": {
+        "a": "Sí, los derechos del ausente se extinguen al año de la apertura de la sucesión",
+        "b": "Permanecen indefinidamente sin prescripción",
+        "c": "Se extinguen a los dos años",
+        "d": "No, el ausente o sus causahabientes conservan las acciones de petición de herencia u otros derechos, que solo se extinguen por el transcurso del tiempo fijado para la prescripción"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 192 CC establece que 'Estos derechos no se extinguirán sino por el transcurso del tiempo fijado para la prescripción'. El ausente o sus causahabientes conservan las acciones de petición de herencia hasta que prescriban.",
+      "ley": "CC, art. 192"
+    },
+    {
+      "id": "tema_07_test_16_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 181 CC, ¿qué puede hacer el Letrado de la Administración de Justicia además de nombrar un defensor para el desaparecido?",
+      "options": {
+        "a": "Nada más; sus facultades se limitan al nombramiento del defensor",
+        "b": "También podrá adoptar, según su prudente arbitrio, las medidas necesarias a la conservación del patrimonio",
+        "c": "Puede declarar directamente la ausencia legal",
+        "d": "Puede gestionar personalmente los bienes del desaparecido"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 181 CC establece que el Letrado de la Administración de Justicia 'También podrá adoptar, según su prudente arbitrio, las medidas necesarias a la conservación del patrimonio'. La conservación del patrimonio es una facultad adicional del Letrado.",
+      "ley": "CC, art. 181"
+    },
+    {
+      "id": "tema_07_test_16_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 195 CC, ¿cuál es el efecto de la declaración de fallecimiento sobre la presunción de vida del ausente?",
+      "options": {
+        "a": "El ausente se presume muerto desde la desaparición",
+        "b": "No existe ninguna presunción; todo depende de las pruebas",
+        "c": "Mientras la declaración de fallecimiento no se produzca, se presume que el ausente ha vivido hasta el momento en que deba reputársele fallecido",
+        "d": "Se presume muerto desde que se inicia el procedimiento"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 195 CC establece que 'mientras dicha declaración no se produzca, se presume que el ausente ha vivido hasta el momento en que deba reputársele fallecido, salvo investigaciones en contrario'. La presunción protege al ausente hasta la declaración formal.",
+      "ley": "CC, art. 195"
+    },
+    {
+      "id": "tema_07_test_16_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 207 CC, ¿puede cualquier persona poner en conocimiento del Ministerio Fiscal el hecho que determina la tutela?",
+      "options": {
+        "a": "Sí, cualquier persona podrá poner en conocimiento del Ministerio Fiscal o de la autoridad judicial el hecho determinante de la tutela, a fin de que se dé inicio al expediente",
+        "b": "No, solo los parientes o la Entidad Pública",
+        "c": "Solo los que tienen la obligación del art. 206 CC",
+        "d": "Solo las autoridades públicas"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 207 CC establece que 'Cualquier persona podrá poner en conocimiento del Ministerio Fiscal o de la autoridad judicial el hecho determinante de la tutela, a fin de que se dé inicio al expediente a que se refiere el artículo siguiente'. Esta potestad es universal, a diferencia de la obligación del art. 206 que recae sobre determinadas personas.",
+      "ley": "CC, art. 207"
+    },
+    {
+      "id": "tema_07_test_16_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 208 CC, ¿cómo se constituye la tutela?",
+      "options": {
+        "a": "Mediante resolución administrativa de la Entidad Pública",
+        "b": "Mediante un expediente de jurisdicción voluntaria constituido por la autoridad judicial",
+        "c": "Mediante escritura pública otorgada por los progenitores",
+        "d": "Mediante acuerdo de la familia en acta notarial"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 208 CC establece que 'La autoridad judicial constituirá la tutela mediante un expediente de jurisdicción voluntaria, siguiendo los trámites previstos legalmente'. Es siempre un acto judicial, nunca administrativo.",
+      "ley": "CC, art. 208"
+    },
+    {
+      "id": "tema_07_test_16_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 205 CC, cuando el disponente dona bienes al menor y nombra un administrador para ellos, ¿qué funciones corresponden al tutor?",
+      "options": {
+        "a": "Las mismas que al administrador nombrado",
+        "b": "Ninguna; el administrador asume todas las funciones",
+        "c": "Las funciones no conferidas al administrador designado por el disponente",
+        "d": "Solo la supervisión de la gestión del administrador"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 205 CC establece que 'El que disponga de bienes a título gratuito en favor de un menor podrá establecer las reglas de administración y disposición de los mismos y designar la persona o personas que hayan de ejercitarlas. Las funciones no conferidas al administrador corresponden al tutor'. El tutor ejerce las funciones residuales no atribuidas al administrador especial.",
+      "ley": "CC, art. 205"
+    }
+  ]
+}

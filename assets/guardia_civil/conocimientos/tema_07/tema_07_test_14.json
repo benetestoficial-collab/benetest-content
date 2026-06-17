@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 14",
+  "preguntas": [
+    {
+      "id": "tema_07_test_14_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 118 CC, ¿puede inscribirse la filiación como matrimonial aun faltando la presunción del art. 116 CC por separación legal o de hecho de los cónyuges?",
+      "options": {
+        "a": "Sí, si concurre el consentimiento de ambos cónyuges",
+        "b": "No, en tal caso la filiación siempre es no matrimonial",
+        "c": "Solo si el juez lo declara tras prueba de ADN",
+        "d": "Solo si la separación tenía menos de 6 meses"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 118 CC establece que 'Aun faltando la presunción de paternidad del marido por causa de la separación legal o de hecho de los cónyuges, podrá inscribirse la filiación como matrimonial si concurre el consentimiento de ambos'. El consentimiento conjunto de los dos cónyuges suple la presunción.",
+      "ley": "CC, art. 118"
+    },
+    {
+      "id": "tema_07_test_14_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 125 CC, ¿cuándo puede determinarse la filiación de un menor respecto al segundo progenitor, si los progenitores son hermanos o consanguíneos en línea recta?",
+      "options": {
+        "a": "Libremente, sin ninguna restricción",
+        "b": "Previa autorización judicial, que se otorgará con audiencia del Ministerio Fiscal, cuando convenga al interés del menor",
+        "c": "Solo cuando el menor así lo solicite al cumplir los 14 años",
+        "d": "No puede determinarse en ningún caso"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 125 CC establece que cuando los progenitores son hermanos o consanguíneos en línea recta 'solo podrá quedar determinada legalmente respecto del otro previa autorización judicial, que se otorgará con audiencia del Ministerio Fiscal, cuando convenga al interés del menor'.",
+      "ley": "CC, art. 125"
+    },
+    {
+      "id": "tema_07_test_14_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 131 CC, ¿quién puede ejercitar la acción de reclamación de filiación por posesión de estado?",
+      "options": {
+        "a": "Cualquier persona con interés legítimo, salvo cuando la filiación que se reclame contradiga otra legalmente determinada",
+        "b": "Solo el hijo",
+        "c": "Solo el Ministerio Fiscal",
+        "d": "Solo los progenitores biológicos"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 131 CC establece que 'Cualquier persona con interés legítimo tiene acción para que se declare la filiación manifestada por la constante posesión de estado. Se exceptúa el supuesto en que la filiación que se reclame contradiga otra legalmente determinada'.",
+      "ley": "CC, art. 131"
+    },
+    {
+      "id": "tema_07_test_14_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 134 CC, ¿qué permite el ejercicio de la acción de reclamación de filiación?",
+      "options": {
+        "a": "Solo declarar la filiación reclamada",
+        "b": "Solo tiene efectos sucesorios",
+        "c": "Solo reclamar alimentos del progenitor reconocido",
+        "d": "Permite en todo caso la impugnación de la filiación contradictoria, cuando la ejerce el hijo o el progenitor"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 134 CC establece que 'El ejercicio de la acción de reclamación, conforme a los artículos anteriores, por el hijo o el progenitor, permitirá en todo caso la impugnación de la filiación contradictoria'. La acción de reclamación lleva aparejada la de impugnación.",
+      "ley": "CC, art. 134"
+    },
+    {
+      "id": "tema_07_test_14_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 137.4 CC, si falta en las relaciones familiares la posesión de estado de filiación matrimonial, ¿existe plazo para impugnarla?",
+      "options": {
+        "a": "Sí, caduca al año de la inscripción",
+        "b": "No, la demanda podrá ser interpuesta en cualquier tiempo por el hijo o sus herederos",
+        "c": "Solo puede impugnarse durante los cuatro años siguientes a la inscripción",
+        "d": "El plazo es de diez años desde que se tuvo conocimiento de los hechos"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 137.4 CC establece que 'Si falta en las relaciones familiares la posesión de estado de filiación matrimonial, la demanda podrá ser interpuesta en cualquier tiempo por el hijo o sus herederos'. La ausencia de posesión de estado hace imprescriptible la acción.",
+      "ley": "CC, art. 137.4"
+    },
+    {
+      "id": "tema_07_test_14_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 141 CC, ¿en qué plazo caduca la acción de impugnación del reconocimiento realizado mediante error, violencia o intimidación?",
+      "options": {
+        "a": "A los cuatro años desde el reconocimiento",
+        "b": "A los dos años desde que se tuvo conocimiento del vicio",
+        "c": "Al año del reconocimiento o desde que cesó el vicio de consentimiento",
+        "d": "Es imprescriptible"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 141 CC establece que 'La acción caducará al año del reconocimiento o desde que cesó el vicio de consentimiento, y podrá ser ejercitada o continuada por los herederos de aquel, si hubiere fallecido antes de transcurrir el año'.",
+      "ley": "CC, art. 141"
+    },
+    {
+      "id": "tema_07_test_14_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 175.1 CC, ¿qué personas no pueden ser adoptantes?",
+      "options": {
+        "a": "Los menores de 30 años",
+        "b": "Los que tengan más de 70 años",
+        "c": "Los divorciados con hijos propios",
+        "d": "Los que no puedan ser tutores de acuerdo con lo previsto en el Código Civil"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 175.1 CC establece que 'No pueden ser adoptantes los que no puedan ser tutores de acuerdo con lo previsto en este código'. La remisión a las causas de inhabilidad para la tutela delimita también quiénes no pueden adoptar.",
+      "ley": "CC, art. 175.1"
+    },
+    {
+      "id": "tema_07_test_14_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 176.2 CC, ¿cuándo no se necesita propuesta previa de la Entidad Pública para iniciar el expediente de adopción?",
+      "options": {
+        "a": "Nunca; la propuesta siempre es preceptiva",
+        "b": "Solo cuando el menor lleva más de tres años con la familia",
+        "c": "Cuando el adoptando sea huérfano y pariente del adoptante en tercer grado, sea hijo del cónyuge o pareja del adoptante, lleve más de un año en guarda con fines de adopción o bajo tutela del adoptante, o sea mayor de edad o menor emancipado",
+        "d": "Solo cuando los futuros adoptantes son abuelos del menor"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 176.2 CC establece cuatro excepciones a la propuesta previa: ser huérfano y pariente del adoptante en tercer grado por consanguinidad o afinidad; ser hijo del cónyuge o de la persona unida al adoptante por análoga relación; llevar más de un año en guarda con fines de adopción o bajo tutela del adoptante por el mismo tiempo; y ser mayor de edad o menor emancipado.",
+      "ley": "CC, art. 176.2"
+    },
+    {
+      "id": "tema_07_test_14_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 177.3 CC, ¿quiénes deben ser oídos por el Juez en el procedimiento de adopción?",
+      "options": {
+        "a": "Solo los adoptantes y el Ministerio Fiscal",
+        "b": "Solo el adoptando cuando sea mayor de 12 años",
+        "c": "Los progenitores que no hayan sido privados de la patria potestad y cuyo asentimiento no sea necesario; el tutor y la familia acogedora y los guardadores; y el adoptando menor de doce años de acuerdo con su edad y madurez",
+        "d": "Solo el Ministerio Fiscal y los adoptantes"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 177.3 CC establece que deberán ser oídos por el Juez: 'Los progenitores que no hayan sido privados de la patria potestad, cuando su asentimiento no fuera necesario para la adopción. El tutor y, en su caso, la familia acogedora, y el guardador o guardadores. El adoptando menor de doce años de acuerdo con su edad y madurez'.",
+      "ley": "CC, art. 177.3"
+    },
+    {
+      "id": "tema_07_test_14_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 180.5 CC, ¿durante cuánto tiempo deben conservarse las Entidades Públicas la información sobre los orígenes del menor adoptado?",
+      "options": {
+        "a": "Al menos cincuenta años con posterioridad al momento en que la adopción se haya hecho definitiva",
+        "b": "Durante veinte años",
+        "c": "Hasta la mayoría de edad del adoptado",
+        "d": "Sin límite temporal"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 180.5 CC establece que las Entidades Públicas deben conservar la información 'durante al menos cincuenta años con posterioridad al momento en que la adopción se haya hecho definitiva. La conservación se llevará a cabo a los solos efectos de que la persona adoptada pueda ejercitar el derecho al que se refiere el apartado siguiente'.",
+      "ley": "CC, art. 180.5"
+    },
+    {
+      "id": "tema_07_test_14_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 173 bis.2.a) CC, ¿cuál es la duración máxima del acogimiento familiar de urgencia?",
+      "options": {
+        "a": "Tres meses",
+        "b": "Un año",
+        "c": "Seis meses",
+        "d": "Dos años"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 173 bis.2.a) CC establece que el acogimiento familiar de urgencia 'tendrá una duración no superior a seis meses, en tanto se decide la medida de protección familiar que corresponda'. Se aplica principalmente para menores de seis años.",
+      "ley": "CC, art. 173 bis.2.a)"
+    },
+    {
+      "id": "tema_07_test_14_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 172.2 CC, ¿durante cuánto tiempo pueden los progenitores oponerse a las decisiones de la Entidad Pública respecto al menor en desamparo?",
+      "options": {
+        "a": "Un año desde la declaración de desamparo",
+        "b": "Seis meses desde el inicio de la medida de protección",
+        "c": "Dos años desde la notificación de la resolución administrativa de desamparo",
+        "d": "Sin plazo; pueden oponerse en cualquier momento"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 172.2 CC establece que 'durante el plazo de dos años desde la notificación de la resolución administrativa por la que se declare la situación de desamparo', los progenitores o tutores podrán solicitar que cese la suspensión y oponerse a las decisiones adoptadas. Pasado ese plazo, decae este derecho.",
+      "ley": "CC, art. 172.2"
+    },
+    {
+      "id": "tema_07_test_14_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 178.4 CC, ¿puede mantenerse alguna relación del menor adoptado con su familia de origen cuando el interés del menor así lo aconseje?",
+      "options": {
+        "a": "No, la adopción siempre extingue todo vínculo con la familia de origen",
+        "b": "Solo en el caso de adopción abierta expresamente autorizada por la Entidad Pública",
+        "c": "Solo si la familia de origen lo solicita ante el juez",
+        "d": "Sí, el Juez al constituir la adopción podrá acordar el mantenimiento de alguna forma de relación o contacto a propuesta de la Entidad Pública o del Ministerio Fiscal y con el consentimiento de la familia adoptiva y del adoptando"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 178.4 CC establece que cuando el interés del menor lo aconseje 'el Juez, al constituir la adopción, podrá acordar el mantenimiento de dicha relación, determinando su periodicidad, duración y condiciones, a propuesta de la Entidad Pública o del Ministerio Fiscal y con el consentimiento de la familia adoptiva y del adoptando si tuviera suficiente madurez'.",
+      "ley": "CC, art. 178.4"
+    },
+    {
+      "id": "tema_07_test_14_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 180.2 CC, ¿cuándo puede acordarse la extinción de la adopción?",
+      "options": {
+        "a": "Siempre que el adoptado lo solicite al cumplir la mayoría de edad",
+        "b": "A petición de cualquiera de los progenitores que, sin culpa suya, no hubieren intervenido en el expediente, si la demanda se interpone dentro de los dos años siguientes a la adopción y la extinción no perjudica gravemente al menor",
+        "c": "A petición del adoptante cuando el adoptado incurre en delito grave",
+        "d": "A petición del Ministerio Fiscal si la adopción resultó fraudulenta"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 180.2 CC establece que 'El Juez acordará la extinción de la adopción a petición de cualquiera de los progenitores que, sin culpa suya, no hubieren intervenido en el expediente en los términos expresados en el artículo 177. Será también necesario que la demanda se interponga dentro de los dos años siguientes a la adopción y que la extinción solicitada no perjudique gravemente al menor'.",
+      "ley": "CC, art. 180.2"
+    },
+    {
+      "id": "tema_07_test_14_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 173.2 CC, ¿qué personas deben consentir el acogimiento?",
+      "options": {
+        "a": "Los acogedores y el menor acogido si tuviera suficiente madurez y, en todo caso, si fuera mayor de doce años",
+        "b": "Solo la Entidad Pública",
+        "c": "Solo los progenitores biológicos",
+        "d": "El juez siempre mediante resolución motivada"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 173.2 CC establece que 'El acogimiento requerirá el consentimiento de los acogedores y del menor acogido si tuviera suficiente madurez y, en todo caso, si fuera mayor de doce años'. Los doce años es el umbral legal de madurez presunta para el consentimiento.",
+      "ley": "CC, art. 173.2"
+    },
+    {
+      "id": "tema_07_test_14_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 176.4 CC, ¿puede constituirse la adopción aunque el adoptante haya fallecido?",
+      "options": {
+        "a": "No, el adoptante debe estar vivo durante todo el procedimiento",
+        "b": "Sí, si el adoptante había prestado ya ante el Juez su consentimiento o lo había otorgado en documento público o testamento; los efectos se retrotraen a la fecha de prestación del consentimiento",
+        "c": "Solo si los herederos del adoptante dan su conformidad",
+        "d": "Solo si el proceso de adopción estaba iniciado antes del fallecimiento"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 176.4 CC establece que 'Podrá constituirse la adopción, aunque el adoptante hubiere fallecido, si este hubiese prestado ya ante el Juez su consentimiento o el mismo hubiera sido otorgado mediante documento público o en testamento. Los efectos de la resolución judicial en este caso se retrotraerán a la fecha de prestación de tal consentimiento'.",
+      "ley": "CC, art. 176.4"
+    },
+    {
+      "id": "tema_07_test_14_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 137.2 CC, ¿qué ocurre si el hijo desconocía la falta de paternidad biológica pese a haber transcurrido más de un año desde la inscripción?",
+      "options": {
+        "a": "La acción caduca definitivamente",
+        "b": "Puede impugnar solo si hay prueba de ADN disponible",
+        "c": "Solo puede pedir al juez que declare la verdad biológica sin efectos jurídicos",
+        "d": "El cómputo del plazo de un año comienza a contar desde que el hijo tuvo tal conocimiento"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 137.2 CC establece que 'Si el hijo, pese a haber transcurrido más de un año desde la inscripción en el registro, desde su mayoría de edad o desde la extinción de la medida de apoyo, desconociera la falta de paternidad biológica de quien aparece inscrito como su padre o progenitor no gestante, el cómputo del plazo de un año comenzará a contar desde que tuviera tal conocimiento'.",
+      "ley": "CC, art. 137.2"
+    },
+    {
+      "id": "tema_07_test_14_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 124 CC, ¿puede la madre suspender la inscripción de la filiación del padre no gestante practicada por declaración en el formulario oficial?",
+      "options": {
+        "a": "No, la inscripción es inmediatamente definitiva",
+        "b": "Sí, a simple petición de la madre o progenitor gestante durante el año siguiente al nacimiento; si el padre solicita confirmación, se necesita aprobación judicial con audiencia del Ministerio Fiscal",
+        "c": "Solo si el padre no está presente en el momento del nacimiento",
+        "d": "Solo si se presenta prueba de ADN contraria"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 124 CC establece que la inscripción de la filiación del padre o progenitor no gestante practicada en el formulario oficial 'podrá suspenderse a simple petición de la madre o progenitor gestante durante el año siguiente al nacimiento. Si el padre o progenitor no gestante solicitara la confirmación de la inscripción, será necesaria la aprobación judicial con audiencia del Ministerio Fiscal'.",
+      "ley": "CC, art. 124"
+    },
+    {
+      "id": "tema_07_test_14_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 139 CC, ¿quién puede ejercitar la acción de impugnación de la filiación materna?",
+      "options": {
+        "a": "Solo el hijo",
+        "b": "Solo el padre del niño",
+        "c": "Solo el Ministerio Fiscal",
+        "d": "La madre o progenitor que conste como gestante, justificando la suposición del parto o no ser cierta la identidad del hijo"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 139 CC establece que 'La madre o progenitor que conste como gestante podrá ejercitar la acción de impugnación de la filiación justificando la suposición del parto o no ser cierta la identidad del hijo'.",
+      "ley": "CC, art. 139"
+    },
+    {
+      "id": "tema_07_test_14_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 140 CC, cuando existe posesión de estado de filiación no matrimonial, ¿cuándo caduca la acción de impugnación?",
+      "options": {
+        "a": "Pasados cuatro años desde que el hijo, una vez inscrita la filiación, goce de la posesión de estado correspondiente; los hijos tienen acción durante un año después de alcanzar la mayoría de edad",
+        "b": "Al año de la inscripción en el Registro Civil",
+        "c": "A los dos años de la inscripción",
+        "d": "Es imprescriptible cuando existe posesión de estado"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 140 CC establece que 'Cuando exista posesión de estado, la acción de impugnación corresponderá a quien aparece como hijo o progenitor y a quienes por la filiación puedan resultar afectados en su calidad de herederos forzosos. La acción caducará pasados cuatro años desde que el hijo, una vez inscrita la filiación, goce de la posesión de estado correspondiente. Los hijos tendrán en todo caso acción durante un año después de alcanzar la mayoría de edad'.",
+      "ley": "CC, art. 140"
+    }
+  ]
+}

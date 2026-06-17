@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_07_test_12_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 17.d) CC, ¿son españoles de origen los nacidos en España cuya filiación no resulte determinada?",
+      "options": {
+        "a": "No, necesitan solicitar la nacionalidad por residencia",
+        "b": "Solo si llevan más de un año en territorio español",
+        "c": "Sí, y a estos efectos se presumen nacidos en territorio español los menores de edad cuyo primer lugar conocido de estancia sea territorio español",
+        "d": "Solo si sus padres son de país sin tratado con España"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 17.d) CC establece que son españoles de origen 'Los nacidos en España cuya filiación no resulte determinada. A estos efectos, se presumen nacidos en territorio español los menores de edad cuyo primer lugar conocido de estancia sea territorio español'.",
+      "ley": "CC, art. 17.d)"
+    },
+    {
+      "id": "tema_07_test_12_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.2.a) CC, ¿basta el plazo de un año de residencia para quienes hayan nacido en territorio español?",
+      "options": {
+        "a": "No, necesitan el plazo general de 10 años",
+        "b": "Sí, bastará el tiempo de residencia de un año para el que haya nacido en territorio español",
+        "c": "Solo si nacieron de padres extranjeros con residencia legal",
+        "d": "Solo si están empadronados ininterrumpidamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 22.2.a) CC establece que 'Bastará el tiempo de residencia de un año para: a) El que haya nacido en territorio español'. El lugar de nacimiento es un criterio que reduce significativamente el plazo de residencia necesario.",
+      "ley": "CC, art. 22.2.a)"
+    },
+    {
+      "id": "tema_07_test_12_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.2.f) CC, ¿basta el plazo de dos años para el nacido fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles?",
+      "options": {
+        "a": "No, necesita el plazo general de diez años",
+        "b": "Solo si el nacido reside en España antes de cumplir 18 años",
+        "c": "Solo si el progenitor o abuelo recuperó la nacionalidad española",
+        "d": "Sí, para el nacido fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles basta dos años de residencia"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 22.1 CC (en relación con el art. 22.2.f)) establece que el plazo de dos años es suficiente, entre otros, para 'el nacido fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles'. Es una vía para recuperar el vínculo con la nacionalidad española.",
+      "ley": "CC, art. 22.1 y 22.2.f)"
+    },
+    {
+      "id": "tema_07_test_12_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 23.b) CC, ¿deben renunciar a su anterior nacionalidad los nacionales de países iberoamericanos al adquirir la española?",
+      "options": {
+        "a": "Sí, todos los que adquieren la nacionalidad española deben renunciar",
+        "b": "No, los naturales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal y los sefardíes quedan exentos del requisito de renuncia",
+        "c": "Solo los de países con los que España no tiene tratado de doble nacionalidad",
+        "d": "Depende de la ley del país de origen"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 23.b) CC establece el requisito de renuncia a la anterior nacionalidad, pero 'Quedan a salvo de este requisito los naturales de países mencionados en el apartado 1 del artículo 24 y los sefardíes originarios de España'. Estos países son iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial y Portugal.",
+      "ley": "CC, art. 23.b)"
+    },
+    {
+      "id": "tema_07_test_12_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 29 CC, ¿para qué efectos se tiene por nacido al concebido?",
+      "options": {
+        "a": "Para todos los efectos jurídicos sin excepción",
+        "b": "Solo para efectos hereditarios",
+        "c": "Para todos los efectos que le sean favorables",
+        "d": "Para los efectos que determine el juez en cada caso"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 29 CC establece que 'el concebido se tiene por nacido para todos los efectos que le sean favorables'. La protección del nasciturus se limita a los efectos favorables, condicionada a que nazca con las condiciones del art. 30 CC.",
+      "ley": "CC, art. 29"
+    },
+    {
+      "id": "tema_07_test_12_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 35 CC, ¿cuándo empieza la personalidad de las personas jurídicas de interés público?",
+      "options": {
+        "a": "Desde la inscripción en el Registro correspondiente",
+        "b": "Desde el instante mismo en que, con arreglo a derecho, hubiesen quedado válidamente constituidas",
+        "c": "Desde el otorgamiento de la escritura pública de constitución",
+        "d": "Desde la publicación de sus estatutos en el BOE"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 35.1.º CC establece que la personalidad de las corporaciones, asociaciones y fundaciones de interés público 'empieza desde el instante mismo en que, con arreglo a derecho, hubiesen quedado válidamente constituidas'.",
+      "ley": "CC, art. 35.1.º"
+    },
+    {
+      "id": "tema_07_test_12_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 37 CC, ¿por qué se rige la capacidad civil de las fundaciones?",
+      "options": {
+        "a": "Por las leyes de su creación",
+        "b": "Por el Código Civil directamente",
+        "c": "Por sus estatutos",
+        "d": "Por las reglas de su institución, debidamente aprobadas por disposición administrativa si fuere necesario"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 37 CC establece que la capacidad civil de las fundaciones se regulará 'por las reglas de su institución, debidamente aprobadas por disposición administrativa, si fuere necesario'. Las corporaciones se rigen por las leyes que las hayan creado y las asociaciones por sus estatutos.",
+      "ley": "CC, art. 37"
+    },
+    {
+      "id": "tema_07_test_12_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 39 CC, ¿qué ocurre con los bienes de las corporaciones, asociaciones y fundaciones que dejen de funcionar?",
+      "options": {
+        "a": "Pasan automáticamente al Estado",
+        "b": "Se les dará la aplicación que las leyes, los estatutos o las cláusulas fundacionales hubiesen asignado; si nada se hubiere establecido, se aplicarán a fines análogos en interés de la región, provincia o municipio que debiera recoger los beneficios",
+        "c": "Se liquidan y reparten entre los socios o fundadores",
+        "d": "Son embargados por la Agencia Tributaria"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 39 CC establece que se dará a los bienes 'la aplicación que las leyes, o los estatutos, o las cláusulas fundacionales, les hubiesen en esta previsión asignado. Si nada se hubiere establecido previamente, se aplicarán esos bienes a la realización de fines análogos, en interés de la región, provincia o municipio que principalmente debieran recoger los beneficios de las instituciones extinguidas'.",
+      "ley": "CC, art. 39"
+    },
+    {
+      "id": "tema_07_test_12_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 25.1.b) CC, ¿en qué supuesto pierden la nacionalidad española los españoles no de origen?",
+      "options": {
+        "a": "Cuando adquieren la nacionalidad de un tercer país voluntariamente",
+        "b": "Cuando renuncien expresamente ante el Registro Civil",
+        "c": "Cuando residan fuera de España durante más de diez años seguidos",
+        "d": "Cuando entren voluntariamente al servicio de las armas o ejerzan cargo político en un Estado extranjero contra la prohibición expresa del Gobierno"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 25.1.b) CC establece que los españoles no de origen perderán la nacionalidad 'Cuando entren voluntariamente al servicio de las armas o ejerzan cargo político en un Estado extranjero contra la prohibición expresa del Gobierno'.",
+      "ley": "CC, art. 25.1.b)"
+    },
+    {
+      "id": "tema_07_test_12_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 31 CC, ¿qué derecho da al primer nacido la prioridad del nacimiento en caso de partos dobles?",
+      "options": {
+        "a": "El derecho a una mayor herencia por ley",
+        "b": "Los derechos que la ley reconozca al primogénito",
+        "c": "La patria potestad sobre sus hermanos gemelos",
+        "d": "El derecho a elegir el nombre de familia"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 31 CC establece que 'La prioridad del nacimiento, en el caso de partos dobles, da al primer nacido los derechos que la ley reconozca al primogénito'. Aunque hoy el primogeniturismo tiene menos relevancia civil, subsiste en algunos títulos nobiliarios.",
+      "ley": "CC, art. 31"
+    },
+    {
+      "id": "tema_07_test_12_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 41 CC, si los estatutos de una persona jurídica no fijan su domicilio, ¿cuál es este?",
+      "options": {
+        "a": "El lugar en que se halle establecida su representación legal o donde ejerzan las principales funciones de su instituto",
+        "b": "El domicilio del presidente o representante legal",
+        "c": "La sede social inscrita en el Registro Mercantil",
+        "d": "El domicilio del socio mayoritario"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 41 CC establece que cuando ni la ley ni los estatutos fijen el domicilio 'se entenderá que lo tienen en el lugar en que se halle establecida su representación legal, o donde ejerzan las principales funciones de su instituto'.",
+      "ley": "CC, art. 41"
+    },
+    {
+      "id": "tema_07_test_12_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 20.3 CC, ¿tiene límite de edad el ejercicio del derecho de opción a la nacionalidad española para el caso del art. 20.1.b)?",
+      "options": {
+        "a": "Sí, caduca a los veintiún años",
+        "b": "Sí, caduca a los 30 años",
+        "c": "No, el ejercicio del derecho de opción previsto en el art. 20.1.b) no está sujeto a límite alguno de edad",
+        "d": "Caduca a los dos años desde la mayoría de edad"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 20.3 CC establece que 'No obstante lo dispuesto en el apartado anterior, el ejercicio del derecho de opción previsto en el apartado 1.b) de este artículo no estará sujeto a límite alguno de edad'. El supuesto del art. 20.1.b) es el de quien tiene padre o madre originariamente español y nacido en España.",
+      "ley": "CC, art. 20.3"
+    },
+    {
+      "id": "tema_07_test_12_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 38 CC, ¿qué pueden hacer las personas jurídicas?",
+      "options": {
+        "a": "Adquirir y poseer bienes de todas clases, así como contraer obligaciones y ejercitar acciones civiles o criminales, conforme a las leyes y reglas de su constitución",
+        "b": "Solo adquirir bienes inmuebles",
+        "c": "Solo actuar en juicio a través de su representante",
+        "d": "Adquirir bienes pero no pueden comparecer en juicio directamente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 38 CC establece que 'Las personas jurídicas pueden adquirir y poseer bienes de todas clases, así como contraer obligaciones y ejercitar acciones civiles o criminales, conforme a las leyes y reglas de su constitución'.",
+      "ley": "CC, art. 38"
+    },
+    {
+      "id": "tema_07_test_12_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 19.2 CC, si el extranjero adoptado es mayor de 18 años, ¿puede adquirir la nacionalidad española?",
+      "options": {
+        "a": "No, la adopción solo confiere nacionalidad si es menor de edad",
+        "b": "Solo si reside en España al menos cinco años",
+        "c": "Sí, puede optar por la nacionalidad española de origen en el plazo de dos años a partir de la constitución de la adopción",
+        "d": "Solo si el adoptante es español de origen"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 19.2 CC establece que 'Si el adoptado es mayor de dieciocho años, podrá optar por la nacionalidad española de origen en el plazo de dos años a partir de la constitución de la adopción'.",
+      "ley": "CC, art. 19.2"
+    },
+    {
+      "id": "tema_07_test_12_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 24.3 CC, ¿qué deben hacer quienes nacidos y residiendo en el extranjero tienen la nacionalidad española por ser hijos de españoles también nacidos en el extranjero, cuando las leyes del país donde residan les atribuyen su nacionalidad?",
+      "options": {
+        "a": "Declarar su voluntad de conservar la española ante el encargado del Registro Civil en el plazo de tres años, a contar desde su mayoría de edad o emancipación, so pena de perderla",
+        "b": "Nada, mantienen automáticamente la española",
+        "c": "Solicitar la doble nacionalidad a las autoridades españolas",
+        "d": "Renunciar a la nationalidad del país de residencia"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 24.3 CC establece que 'Los que habiendo nacido y residiendo en el extranjero ostenten la nacionalidad española por ser hijos de padre o madre españoles, también nacidos en el extranjero, cuando las leyes del país donde residan les atribuyan la nacionalidad del mismo, perderán, en todo caso, la nacionalidad española si no declaran su voluntad de conservarla ante el encargado del Registro Civil en el plazo de tres años'.",
+      "ley": "CC, art. 24.3"
+    },
+    {
+      "id": "tema_07_test_12_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.2.b) CC, ¿basta un año de residencia para quien no ejerció oportunamente la facultad de optar a la nacionalidad española?",
+      "options": {
+        "a": "No, necesita el plazo de diez años",
+        "b": "Solo dos años si acredita vínculos con España",
+        "c": "Necesita cinco años de residencia",
+        "d": "Sí, bastará el tiempo de residencia de un año para el que no haya ejercitado oportunamente la facultad de optar"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 22.2.b) CC establece que bastará el tiempo de residencia de un año para 'El que no haya ejercitado oportunamente la facultad de optar'. Es una segunda oportunidad para quien perdió el plazo de opción.",
+      "ley": "CC, art. 22.2.b)"
+    },
+    {
+      "id": "tema_07_test_12_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 22.3 CC, ¿qué características debe tener la residencia para solicitar la nacionalidad?",
+      "options": {
+        "a": "Solo debe ser continuada",
+        "b": "Debe ser legal y con empadronamiento acreditado",
+        "c": "Solo debe ser legal y anterior en cinco años",
+        "d": "Deberá ser legal, continuada e inmediatamente anterior a la petición"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 22.3 CC establece que 'En todos los casos, la residencia habrá de ser legal, continuada e inmediatamente anterior a la petición'. Los tres requisitos son acumulativos: legalidad, continuidad e inmediatez.",
+      "ley": "CC, art. 22.3"
+    },
+    {
+      "id": "tema_07_test_12_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 26.2 CC, ¿quiénes necesitan habilitación previa del Gobierno para recuperar la nacionalidad española?",
+      "options": {
+        "a": "Los que se encuentren incursos en cualquiera de los supuestos del art. 25 CC (pérdida por uso exclusivo de la extranjera renunciada o por servicio de armas a Estado extranjero)",
+        "b": "Todos los que hayan perdido la nacionalidad española",
+        "c": "Solo los que hayan renunciado voluntariamente a la española",
+        "d": "Solo los que hayan adquirido otra nacionalidad después de perder la española"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 26.2 CC establece que 'No podrán recuperar o adquirir, en su caso, la nacionalidad española sin previa habilitación concedida discrecionalmente por el Gobierno, los que se encuentren incursos en cualquiera de los supuestos previstos en el artículo anterior' (art. 25 CC).",
+      "ley": "CC, art. 26.2"
+    },
+    {
+      "id": "tema_07_test_12_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 28 CC, ¿qué corporaciones, fundaciones y asociaciones gozan de la nacionalidad española?",
+      "options": {
+        "a": "Las reconocidas por la ley y domiciliadas en España, siempre que tengan el concepto de personas jurídicas con arreglo al Código Civil",
+        "b": "Solo las creadas por ley española",
+        "c": "Solo las que tienen sede en la capital del Estado",
+        "d": "Las que desarrollan actividades en España durante más de cinco años"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 28 CC establece que 'Las corporaciones, fundaciones y asociaciones, reconocidas por la ley y domiciliadas en España, gozarán de la nacionalidad española, siempre que tengan el concepto de personas jurídicas con arreglo a las disposiciones del presente Código'.",
+      "ley": "CC, art. 28"
+    },
+    {
+      "id": "tema_07_test_12_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 15.3 CC, ¿qué vecindad civil lleva consigo la recuperación de la nacionalidad española?",
+      "options": {
+        "a": "La vecindad de derecho común en todo caso",
+        "b": "La del lugar donde resida al recuperar la nacionalidad",
+        "c": "La que el interesado ostentara al tiempo de su pérdida de la nacionalidad",
+        "d": "La que elija entre las posibles opciones del art. 15.1 CC"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 15.3 CC establece que 'La recuperación de la nacionalidad española lleva consigo la de aquella vecindad civil que ostentara el interesado al tiempo de su pérdida'. Se recupera la vecindad civil anterior, no se adquiere una nueva.",
+      "ley": "CC, art. 15.3"
+    }
+  ]
+}

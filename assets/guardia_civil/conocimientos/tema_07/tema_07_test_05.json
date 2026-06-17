@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_07_test_05_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 108 CC, ¿qué tipos de filiación existen?",
+      "options": {
+        "a": "Solo la filiación legítima e ilegítima",
+        "b": "Por naturaleza (matrimonial y no matrimonial) y por adopción",
+        "c": "Biológica, adoptiva y por reproducción asistida",
+        "d": "Legal y extralegal"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 108 CC establece que 'La filiación puede tener lugar por naturaleza y por adopción. La filiación por naturaleza puede ser matrimonial y no matrimonial. Es matrimonial cuando los progenitores están casados entre sí'.",
+      "ley": "CC, art. 108"
+    },
+    {
+      "id": "tema_07_test_05_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 108 CC, ¿surten los mismos efectos la filiación matrimonial, la no matrimonial y la adoptiva?",
+      "options": {
+        "a": "Sí, surten los mismos efectos conforme a las disposiciones del Código Civil",
+        "b": "No, la filiación matrimonial tiene efectos más amplios",
+        "c": "Solo la adoptiva tiene efectos distintos por la ruptura con la familia de origen",
+        "d": "Depende de la comunidad autónoma en que se haya establecido"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 108 CC establece expresamente que 'La filiación matrimonial y la no matrimonial, así como la adoptiva, surten los mismos efectos, conforme a las disposiciones de este Código'. El principio de no discriminación por razón de nacimiento (art. 14 CE) se materializa en esta equivalencia.",
+      "ley": "CC, art. 108"
+    },
+    {
+      "id": "tema_07_test_05_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 116 CC, ¿qué hijos se presumen del marido?",
+      "options": {
+        "a": "Los nacidos después de la celebración del matrimonio y antes de los trescientos días siguientes a su disolución o a la separación legal o de hecho de los cónyuges",
+        "b": "Solo los nacidos dentro del matrimonio",
+        "c": "Los nacidos hasta dos años después de la disolución del matrimonio",
+        "d": "Solo los inscritos en el Registro Civil como hijos del matrimonio"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 116 CC establece la presunción de paternidad matrimonial: 'Se presumen hijos del marido los nacidos después de la celebración del matrimonio y antes de los trescientos días siguientes a su disolución o a la separación legal o de hecho de los cónyuges'.",
+      "ley": "CC, art. 116"
+    },
+    {
+      "id": "tema_07_test_05_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 120 CC, ¿de qué formas puede quedar determinada la filiación no matrimonial?",
+      "options": {
+        "a": "Solo por sentencia judicial",
+        "b": "Por declaración del padre en el formulario oficial al inscribir el nacimiento, por reconocimiento ante el Registro Civil o en testamento u otro documento público, por resolución de expediente del Registro Civil, por sentencia firme, o por constar en la inscripción de nacimiento practicada en plazo respecto de la madre",
+        "c": "Solo por declaración voluntaria ante notario",
+        "d": "Solo mediante prueba de ADN ratificada por el Juzgado"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 120 CC enumera cinco formas de determinar la filiación no matrimonial: 1.º declaración del padre/progenitor no gestante en formulario oficial al inscribir el nacimiento; 2.º reconocimiento ante el Registro Civil, en testamento o documento público; 3.º resolución de expediente del Registro Civil; 4.º sentencia firme; 5.º constancia en la inscripción de nacimiento practicada en plazo respecto de la madre.",
+      "ley": "CC, art. 120"
+    },
+    {
+      "id": "tema_07_test_05_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 123 CC, ¿puede reconocerse a un hijo mayor de edad sin su consentimiento?",
+      "options": {
+        "a": "Sí, el reconocimiento no necesita consentimiento del reconocido",
+        "b": "El reconocimiento es eficaz salvo que el hijo lo impugne en el plazo de un año",
+        "c": "Solo necesita consentimiento si el hijo se opone formalmente",
+        "d": "No, el reconocimiento de un hijo mayor de edad no producirá efectos sin su consentimiento expreso o tácito"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 123 CC establece que 'El reconocimiento de un hijo mayor de edad no producirá efectos sin su consentimiento expreso o tácito'. El mayor de edad tiene plena autonomía para aceptar o rechazar el reconocimiento.",
+      "ley": "CC, art. 123"
+    },
+    {
+      "id": "tema_07_test_05_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 136 CC, ¿en qué plazo puede el marido impugnar la paternidad?",
+      "options": {
+        "a": "Cuatro años desde el nacimiento del hijo",
+        "b": "Dos años desde que tuvo conocimiento del nacimiento",
+        "c": "Un año contado desde la inscripción de la filiación en el Registro Civil, aunque si ignorase el nacimiento el plazo no correrá hasta que lo conozca",
+        "d": "Sin plazo, ya que la acción de impugnación es imprescriptible"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 136.1 CC establece que 'El marido podrá ejercitar la acción de impugnación de la paternidad en el plazo de un año contado desde la inscripción de la filiación en el Registro Civil. Sin embargo, el plazo no correrá mientras el marido ignore el nacimiento'.",
+      "ley": "CC, art. 136.1"
+    },
+    {
+      "id": "tema_07_test_05_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 132 CC, ¿la acción de reclamación de la filiación matrimonial tiene plazo de prescripción?",
+      "options": {
+        "a": "Prescribe a los diez años",
+        "b": "Prescribe a los cuatro años desde la mayoría de edad del hijo",
+        "c": "Es imprescriptible cuando falta la posesión de estado",
+        "d": "Prescribe a los dos años desde el conocimiento de los hechos"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 132 CC establece que 'A falta de la correspondiente posesión de estado, la acción de reclamación de la filiación matrimonial, que es imprescriptible, corresponde a cualquiera de los dos progenitores o al hijo'.",
+      "ley": "CC, art. 132"
+    },
+    {
+      "id": "tema_07_test_05_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 113 CC, ¿cómo se acredita la filiación?",
+      "options": {
+        "a": "Solo mediante prueba de ADN",
+        "b": "Solo por sentencia judicial firme",
+        "c": "Por la inscripción en el Registro Civil, por el documento o sentencia que la determina legalmente, por la presunción de paternidad matrimonial y, a falta de los medios anteriores, por la posesión de estado",
+        "d": "Por la declaración de los progenitores ante notario"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 113 CC establece los medios de acreditación de la filiación: inscripción en el Registro Civil, documento o sentencia que la determina legalmente, presunción de paternidad matrimonial y, subsidiariamente, posesión de estado.",
+      "ley": "CC, art. 113"
+    },
+    {
+      "id": "tema_07_test_05_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 119 CC, ¿cuándo adquiere carácter matrimonial la filiación si los progenitores se casan después del nacimiento?",
+      "options": {
+        "a": "Nunca; los hijos nacidos antes del matrimonio siempre son no matrimoniales",
+        "b": "Desde la fecha del matrimonio de los progenitores, siempre que quede determinada legalmente la filiación respecto de ambos",
+        "c": "Solo si los progenitores reconocen conjuntamente al hijo ante el juez",
+        "d": "Desde la fecha en que se practique la nueva inscripción en el Registro Civil"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 119 CC establece que 'La filiación adquiere el carácter de matrimonial desde la fecha del matrimonio de los progenitores cuando este tenga lugar con posterioridad al nacimiento del hijo siempre que el hecho de la filiación quede determinado legalmente conforme a lo dispuesto en la sección siguiente'.",
+      "ley": "CC, art. 119"
+    },
+    {
+      "id": "tema_07_test_05_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 110 CC, ¿están obligados a prestar alimentos a sus hijos menores los progenitores que no ostenten la patria potestad?",
+      "options": {
+        "a": "Sí, aunque no ostenten la patria potestad, ambos progenitores están obligados a velar por los hijos menores y a prestarles alimentos",
+        "b": "No, solo los que ejercen la patria potestad tienen obligación de alimentos",
+        "c": "Solo si el juez así lo establece expresamente en sentencia",
+        "d": "Solo el progenitor custodio tiene obligación de alimentos"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 110 CC establece que 'Aunque no ostenten la patria potestad, ambos progenitores están obligados a velar por los hijos menores y a prestarles alimentos'. La obligación de alimentos es independiente de la titularidad de la patria potestad.",
+      "ley": "CC, art. 110"
+    },
+    {
+      "id": "tema_07_test_05_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 109 CC, ¿puede el hijo solicitar que se cambie el orden de sus apellidos al alcanzar la mayoría de edad?",
+      "options": {
+        "a": "No, el orden de los apellidos queda fijado definitivamente al nacer",
+        "b": "Solo si demuestra perjuicio causado por el orden vigente",
+        "c": "Sí, el hijo, al alcanzar la mayoría de edad, podrá solicitar que se altere el orden de los apellidos",
+        "d": "Solo si ambos progenitores dan su consentimiento"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 109 CC establece que 'El hijo, al alcanzar la mayoría de edad, podrá solicitar que se altere el orden de los apellidos'. Es un derecho del propio hijo que puede ejercer libremente al alcanzar la mayoría de edad.",
+      "ley": "CC, art. 109"
+    },
+    {
+      "id": "tema_07_test_05_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 121 CC, ¿qué se requiere para la validez del reconocimiento otorgado por un menor no emancipado?",
+      "options": {
+        "a": "La autorización de sus progenitores y la inscripción en el Registro Civil",
+        "b": "Solo la asistencia del representante legal del menor reconociente",
+        "c": "Aprobación judicial con audiencia del Ministerio Fiscal",
+        "d": "El consentimiento del reconocido si es mayor de 12 años"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 121 CC establece que 'El reconocimiento otorgado por menores no emancipados necesitará para su validez aprobación judicial con audiencia del Ministerio Fiscal'. El juez debe valorar el interés en juego.",
+      "ley": "CC, art. 121"
+    },
+    {
+      "id": "tema_07_test_05_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 112 CC, ¿desde cuándo produce efectos la filiación determinada legalmente?",
+      "options": {
+        "a": "Solo desde la fecha de la resolución judicial o administrativa que la determina",
+        "b": "Desde la mayoría de edad del reconocido",
+        "c": "Solo desde la inscripción en el Registro Civil",
+        "d": "Desde que tiene lugar la filiación; su determinación legal tiene efectos retroactivos cuando ello sea compatible con la naturaleza de los efectos"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 112 CC establece que 'La filiación produce sus efectos desde que tiene lugar. Su determinación legal tiene efectos retroactivos siempre que la retroactividad sea compatible con la naturaleza de aquellos y la Ley no dispusiere lo contrario'.",
+      "ley": "CC, art. 112"
+    },
+    {
+      "id": "tema_07_test_05_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 111 CC, ¿qué progenitor queda excluido de la patria potestad y no ostenta derechos sobre el hijo?",
+      "options": {
+        "a": "El que abandone el domicilio familiar",
+        "b": "El declarado en quiebra o concurso de acreedores",
+        "c": "El que no contribuya al pago de alimentos",
+        "d": "El condenado por las relaciones que dieron lugar a la generación (sentencia penal firme) y el que haya tenido la filiación judicialmente determinada contra su oposición"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 111 CC establece que quedará excluido de la patria potestad el progenitor 'Cuando haya sido condenado a causa de las relaciones a que obedezca la generación, según sentencia penal firme' y 'Cuando la filiación haya sido judicialmente determinada contra su oposición'.",
+      "ley": "CC, art. 111"
+    },
+    {
+      "id": "tema_07_test_05_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 133 CC, ¿a quién corresponde la acción de reclamación de filiación no matrimonial cuando falta la posesión de estado?",
+      "options": {
+        "a": "Solo al Ministerio Fiscal",
+        "b": "A cualquier pariente hasta el cuarto grado",
+        "c": "Solo al padre biológico",
+        "d": "Al hijo durante toda su vida; los progenitores pueden ejercitarla en el plazo de un año desde que tuvieron conocimiento de los hechos"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 133 CC establece que cuando falta la posesión de estado, la acción 'corresponderá al hijo durante toda su vida'. Los progenitores también pueden ejercitarla, pero en el plazo de un año desde que hubieran tenido conocimiento de los hechos (art. 133.2).",
+      "ley": "CC, art. 133.1"
+    },
+    {
+      "id": "tema_07_test_05_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 122 CC, ¿puede el progenitor que reconoce separadamente al hijo manifestar la identidad del otro progenitor?",
+      "options": {
+        "a": "Sí, siempre puede identificar al otro progenitor para que asuma sus responsabilidades",
+        "b": "Solo si el hijo es menor de edad y necesita protección",
+        "c": "Solo si cuenta con el consentimiento del otro progenitor",
+        "d": "No, cuando un progenitor hiciere el reconocimiento separadamente, no podrá manifestar en él la identidad del otro a no ser que esté ya determinada legalmente"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 122 CC establece que 'Cuando un progenitor hiciere el reconocimiento separadamente, no podrá manifestar en él la identidad del otro a no ser que esté ya determinada legalmente'. Esta norma protege la intimidad del otro progenitor.",
+      "ley": "CC, art. 122"
+    },
+    {
+      "id": "tema_07_test_05_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 115 CC, ¿cómo queda determinada la filiación matrimonial materna y paterna?",
+      "options": {
+        "a": "Por la inscripción del nacimiento junto con la del matrimonio de los padres, o por sentencia firme",
+        "b": "Solo por reconocimiento voluntario",
+        "c": "Por la declaración de ambos progenitores ante el juez",
+        "d": "Por la inscripción en el Registro Civil aunque no conste el matrimonio"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 115 CC establece que 'La filiación matrimonial materna y paterna quedará determinada legalmente: Por la inscripción del nacimiento junto con la del matrimonio de los padres. Por sentencia firme'.",
+      "ley": "CC, art. 115"
+    },
+    {
+      "id": "tema_07_test_05_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 117 CC, ¿cuándo puede el marido destruir la presunción de paternidad respecto a un hijo nacido dentro de los 180 días siguientes a la celebración del matrimonio?",
+      "options": {
+        "a": "No puede destruirla en ningún caso; la ley no admite excepciones",
+        "b": "Mediante declaración auténtica en contrario formalizada dentro de los seis meses siguientes al conocimiento del parto, salvo que hubiere reconocido la paternidad o conocido el embarazo antes de casarse",
+        "c": "Solo mediante sentencia judicial tras prueba de ADN",
+        "d": "En cualquier momento mediante reconocimiento del otro progenitor"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 117 CC permite al marido destruir la presunción mediante 'declaración auténtica en contrario formalizada dentro de los seis meses siguientes al conocimiento del parto', salvo que hubiere reconocido la paternidad expresa o tácitamente o conocido el embarazo antes del matrimonio.",
+      "ley": "CC, art. 117"
+    },
+    {
+      "id": "tema_07_test_05_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 126 CC, ¿puede reconocerse a un hijo ya fallecido?",
+      "options": {
+        "a": "Sí, pero solo surtirá efecto si lo consintieren sus descendientes por sí o por sus representantes legales",
+        "b": "No, el reconocimiento solo es posible en vida del reconocido",
+        "c": "Sí, sin ningún requisito adicional",
+        "d": "Solo si el fallecido no dejó testamento"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 126 CC establece que 'El reconocimiento del ya fallecido solo surtirá efecto si lo consintieren sus descendientes por sí o por sus representantes legales'. Es un mecanismo para proteger los derechos sucesorios de los descendientes.",
+      "ley": "CC, art. 126"
+    },
+    {
+      "id": "tema_07_test_05_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 114 CC, ¿cuándo pueden rectificarse los asientos de filiación sin necesidad de seguir el procedimiento especial de impugnación?",
+      "options": {
+        "a": "En ningún caso; siempre se requiere el procedimiento de impugnación",
+        "b": "Pueden rectificarse conforme a la Ley de Registro Civil, y en cualquier momento los contradictorios con hechos que una sentencia penal declare probados",
+        "c": "Solo mediante sentencia civil firme",
+        "d": "Solo si el Ministerio Fiscal así lo solicita"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 114 CC establece que 'Los asientos de filiación podrán ser rectificados conforme a la Ley de Registro Civil, sin perjuicio de lo especialmente dispuesto en el presente título sobre acciones de impugnación. Podrán también rectificarse en cualquier momento los asientos que resulten contradictorios con los hechos que una sentencia penal declare probados'.",
+      "ley": "CC, art. 114"
+    }
+  ]
+}

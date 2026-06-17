@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_08_test_16_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes plazos de prescripción de penas impuestas por sentencia firme NO es correcto según el art. 133.1 CP.",
+      "options": {
+        "a": "A los 30 años las penas de prisión por más de 20 años.",
+        "b": "A los 25 años las de prisión de 15 o más años sin exceder de 20.",
+        "c": "A los 10 años las penas menos graves.",
+        "d": "A los 20 años las de prisión de más de 10 y menos de 15 años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la d). El art. 133.1 CP establece que las penas menos graves prescriben 'A los 5 años', no a los 10. Las penas graves (distintas de las de mayor duración) prescriben a los 10 años. Las opciones a), b) y c) recogen correctamente los plazos del art. 133.1 CP.",
+      "ley": "CP, art. 133.1"
+    },
+    {
+      "id": "tema_08_test_16_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 36.1 CP, el condenado a prisión permanente revisable no puede disfrutar de permisos de salida hasta haber cumplido un mínimo de _____ años de prisión (en el caso general no terrorista).",
+      "options": {
+        "a": "Doce años.",
+        "b": "Quince años.",
+        "c": "Ocho años.",
+        "d": "Diez años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 36.1 CP establece que en los supuestos no terroristas, 'el penado no podrá disfrutar de permisos de salida hasta que haya cumplido un mínimo de... ocho años de prisión, en el previsto en la letra b)' (que es el caso general). En casos de terrorismo el mínimo para permisos es de doce años.",
+      "ley": "CP, art. 36.1"
+    },
+    {
+      "id": "tema_08_test_16_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes plazos de cancelación de antecedentes penales NO es correcto según el art. 136.1 CP.",
+      "options": {
+        "a": "Ocho años para penas graves.",
+        "b": "Dos años para penas que no excedan de doce meses y las impuestas por delitos imprudentes.",
+        "c": "Tres años para las restantes penas menos graves inferiores a tres años.",
+        "d": "Seis meses para penas leves."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la d). El art. 136.1.e) CP establece que los antecedentes penales por penas graves se cancelan a 'Diez años', no a ocho. Las opciones a) (art. 136.1.a)), b) (art. 136.1.b)) y c) (art. 136.1.c)) recogen correctamente los plazos de cancelación.",
+      "ley": "CP, art. 136.1.e)"
+    },
+    {
+      "id": "tema_08_test_16_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 139.1 CP, la pena del asesinato es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Diez a veinte años.",
+        "b": "Doce a veinte años.",
+        "c": "Veinte a veinticinco años.",
+        "d": "Quince a veinticinco años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 139.1 CP establece que el asesinato se castiga con 'la pena de prisión de quince a veinticinco años'. Cuando concurren más de una de las circunstancias del apartado anterior, se impone la pena en su mitad superior (art. 139.2 CP). El homicidio se castiga con diez a quince años.",
+      "ley": "CP, art. 139.1"
+    },
+    {
+      "id": "tema_08_test_16_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la responsabilidad civil subsidiaria del Estado del art. 121 CP NO es correcta.",
+      "options": {
+        "a": "El Estado responde subsidiariamente de los daños causados por sus funcionarios en el ejercicio de sus cargos.",
+        "b": "La responsabilidad del Estado es directa, no subsidiaria.",
+        "c": "Si se exige la responsabilidad civil en el proceso penal, la pretensión debe dirigirse simultáneamente contra la Administración.",
+        "d": "No puede darse una duplicidad indemnizatoria entre la vía penal y la administrativa."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 121 CP establece expresamente que los entes públicos 'responden SUBSIDIARIAMENTE de los daños causados por los penalmente responsables'. La responsabilidad es subsidiaria (solo cuando el responsable penal principal no pueda satisfacerla), no directa. Las opciones a), c) y d) son afirmaciones correctas del art. 121 CP.",
+      "ley": "CP, art. 121"
+    },
+    {
+      "id": "tema_08_test_16_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 177 bis.1 CP, la pena básica de la trata de seres humanos es de _____ a _____ años de prisión.",
+      "options": {
+        "a": "Tres a seis años.",
+        "b": "Dos a cinco años.",
+        "c": "Cuatro a diez años.",
+        "d": "Cinco a ocho años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 177 bis.1 CP establece que el reo de trata de seres humanos será castigado 'con la pena de cinco a ocho años de prisión'. Esta pena se eleva a la pena superior en grado cuando concurren las circunstancias de los apartados 4, 5 y 6 (víctima especialmente vulnerable, funcionario o miembro de organización criminal).",
+      "ley": "CP, art. 177 bis.1"
+    },
+    {
+      "id": "tema_08_test_16_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes plazos para la prohibición de regreso a España tras la expulsión como medida de seguridad NO es correcto según el art. 108 CP.",
+      "options": {
+        "a": "El extranjero no podrá regresar a España en un plazo de 10 años desde su expulsión.",
+        "b": "El juez puede reducir el plazo de diez años a cinco si el extranjero muestra señales de rehabilitación.",
+        "c": "Si el extranjero intenta quebrantar la decisión de expulsión, la autoridad gubernativa lo devolverá y el plazo comenzará de nuevo en su integridad.",
+        "d": "El juez puede excepcionalmente no aplicar la expulsión si aprecia que la naturaleza del delito justifica el cumplimiento en España."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la c). El art. 108 CP no prevé ninguna posibilidad de reducir el plazo de diez años de prohibición de regreso. Ese plazo es fijo. No existe previsión legal para que el juez lo reduzca a cinco años por rehabilitación. Las opciones a) (art. 108.2), b) (art. 108.3) y d) (art. 108.1) son correctas.",
+      "ley": "CP, art. 108"
+    },
+    {
+      "id": "tema_08_test_16_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 432.1 CP, la pena básica de la malversación con ánimo de lucro es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Dos a seis años.",
+        "b": "Uno a cuatro años.",
+        "c": "Tres a seis años.",
+        "d": "Cuatro a ocho años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 432.1 CP establece para la malversación básica con ánimo de lucro: 'prisión de 2 a 6 años, inhabilitación especial para cargo o empleo público y para el ejercicio del derecho de sufragio pasivo por tiempo de 6 a 10 años'.",
+      "ley": "CP, art. 432.1"
+    },
+    {
+      "id": "tema_08_test_16_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre los requisitos del estado de necesidad del art. 20.5.º CP NO es correcta.",
+      "options": {
+        "a": "El sujeto no puede haber podido evitar el peligro por otros medios legales.",
+        "b": "La situación de necesidad no puede haber sido provocada intencionadamente por el sujeto.",
+        "c": "El necesitado no puede tener, por su oficio o cargo, obligación de sacrificarse.",
+        "d": "El mal causado no puede ser mayor que el mal que se trate de evitar."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la d). El art. 20.5.º CP enumera tres requisitos del estado de necesidad: 1.º que el mal causado no sea mayor que el que se trate de evitar; 2.º que la situación no haya sido provocada intencionadamente; 3.º que el necesitado no tenga obligación de sacrificarse. La ausencia de medios legales alternativos no figura expresamente como requisito en el art. 20.5.º (sí lo contempla la jurisprudencia, pero no como requisito legal del tipo). Las opciones a), b) y c) son correctas.",
+      "ley": "CP, art. 20.5.º"
+    },
+    {
+      "id": "tema_08_test_16_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 147.1 CP, la pena del tipo básico de lesiones es de prisión de _____ a _____ años o multa de seis a doce meses.",
+      "options": {
+        "a": "Tres meses a tres años.",
+        "b": "Seis meses a dos años.",
+        "c": "Un año a tres años.",
+        "d": "Tres meses a dos años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 147.1 CP establece que las lesiones que requieren tratamiento médico o quirúrgico se castigan 'con la pena de prisión de tres meses a tres años o multa de seis a doce meses'. Es el tipo básico de lesiones que causa daño físico o psíquico y requiere tratamiento.",
+      "ley": "CP, art. 147.1"
+    },
+    {
+      "id": "tema_08_test_16_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la pena accesoria del art. 55 CP NO es correcta.",
+      "options": {
+        "a": "La prisión igual o superior a diez años lleva consigo inhabilitación absoluta durante el tiempo de la condena.",
+        "b": "También puede imponerse la privación de la patria potestad en los mismos supuestos.",
+        "c": "El juez puede además disponer la inhabilitación especial para el ejercicio de la patria potestad cuando haya relación directa con el delito.",
+        "d": "La inhabilitación absoluta del art. 55 se impone siempre, aunque ya esté prevista como pena principal."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 55 CP establece que la inhabilitación absoluta se impone 'salvo que ésta ya estuviere prevista como pena principal para el supuesto de que se trate'. Si ya es pena principal, no se impone como accesoria. La afirmación de que se impone 'siempre' es incorrecta. Las opciones a), c) y d) son correctas según el art. 55 CP.",
+      "ley": "CP, art. 55"
+    },
+    {
+      "id": "tema_08_test_16_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 150 CP, la pena por causar la pérdida o inutilidad de un órgano o miembro NO principal, o la deformidad, es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Uno a tres años.",
+        "b": "Tres a seis años.",
+        "c": "Seis a doce años.",
+        "d": "Dos a cuatro años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 150 CP establece que 'El que causare a otro la pérdida o la inutilidad de un órgano o miembro no principal, o la deformidad, será castigado con la pena de prisión de tres a seis años'. Contrasta con el art. 149 (órgano principal: 6-12 años) y el art. 147.1 (tipo básico: 3 meses a 3 años).",
+      "ley": "CP, art. 150"
+    },
+    {
+      "id": "tema_08_test_16_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la libertad vigilada del art. 106 CP NO es correcta.",
+      "options": {
+        "a": "Puede consistir en la obligación de estar siempre localizable mediante aparatos electrónicos.",
+        "b": "Puede consistir en la prohibición de aproximarse a la víctima.",
+        "c": "Puede consistir en la obligación de seguir tratamiento médico externo.",
+        "d": "La duración máxima de la libertad vigilada es siempre de cinco años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la c). El art. 105 CP establece dos plazos posibles para la libertad vigilada: hasta 5 años (en el apartado 1) o hasta 10 años 'cuando expresamente lo disponga este Código' (apartado 2). Por ejemplo, en los delitos sexuales la libertad vigilada puede ser de hasta 10 años (art. 192.1 CP). Afirmar que la duración máxima es siempre de cinco años es incorrecto. Las opciones a), b) y d) son medidas previstas en el art. 106.1 CP.",
+      "ley": "CP, arts. 105 y 106"
+    },
+    {
+      "id": "tema_08_test_16_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 164 CP, la pena básica del delito de secuestro es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Cuatro a seis años.",
+        "b": "Ocho a doce años.",
+        "c": "Seis a diez años.",
+        "d": "Diez a quince años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 164 CP establece que 'El secuestro de una persona exigiendo alguna condición para ponerla en libertad, será castigado con la pena de prisión de seis a diez años'. Si la detención supera quince días, la pena es la superior en grado; si se libera en los tres primeros días sin conseguir el objetivo, la inferior en grado.",
+      "ley": "CP, art. 164"
+    },
+    {
+      "id": "tema_08_test_16_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes circunstancias del art. 140.1 CP que permiten imponer la prisión permanente revisable al asesinato NO figura en ese artículo.",
+      "options": {
+        "a": "Que la víctima sea menor de 16 años.",
+        "b": "Que el hecho fuera subsiguiente a un delito contra la libertad sexual que el autor hubiera cometido sobre la víctima.",
+        "c": "Que el delito se hubiera cometido por quien perteneciere a un grupo u organización criminal.",
+        "d": "Que el delito se hubiera cometido por reincidencia específica."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 140.1 CP enumera tres circunstancias que convierten el asesinato en merecedor de prisión permanente revisable: víctima menor de 16 años o especialmente vulnerable (1.º), asesinato subsiguiente a delito sexual (2.º), y pertenencia del autor a organización criminal (3.º). La reincidencia específica no figura en este artículo como circunstancia determinante de la PPR.",
+      "ley": "CP, art. 140.1"
+    },
+    {
+      "id": "tema_08_test_16_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 174.1 CP, la pena de inhabilitación absoluta del delito de tortura grave es de _____ a _____ años.",
+      "options": {
+        "a": "Seis a doce años.",
+        "b": "Ocho a doce años.",
+        "c": "Diez a quince años.",
+        "d": "Seis a quince años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 174.1 CP establece que 'además de las penas señaladas se impondrá, en todo caso, la pena de inhabilitación absoluta de ocho a 12 años'. La pena de prisión es de dos a seis años para la tortura grave y de uno a tres para la menos grave.",
+      "ley": "CP, art. 174.1"
+    },
+    {
+      "id": "tema_08_test_16_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el concurso aparente de normas del art. 8 CP NO es correcta.",
+      "options": {
+        "a": "El principio de especialidad se aplica con preferencia al de generalidad.",
+        "b": "El principio de subsidiariedad se aplica solo en defecto del principal.",
+        "c": "El principio de consunción determina que el precepto más grave excluye al menos grave.",
+        "d": "El principio de alternatividad es el último criterio de resolución del concurso aparente."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El principio de consunción (art. 8.3.º CP) establece que 'El precepto penal más amplio o complejo absorberá a los que castiguen las infracciones consumidas en aquel'. No es que el más grave excluya al menos grave; eso es el principio de alternatividad (art. 8.4.º). La descripción de la opción c) corresponde al principio de alternatividad, no al de consunción.",
+      "ley": "CP, art. 8"
+    },
+    {
+      "id": "tema_08_test_16_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 473.1 CP, los meros participantes en la rebelión son castigados con prisión de _____ a _____ años.",
+      "options": {
+        "a": "Cinco a diez años.",
+        "b": "Uno a cuatro años.",
+        "c": "Diez a quince años.",
+        "d": "Tres a seis años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 473.1 CP establece la escala punitiva: 'los meros participantes, con la de prisión de cinco a diez años e inhabilitación especial para empleo o cargo público por tiempo de seis a diez años'. Los que ejercen mando subalterno: 10-15 años; los promotores y jefes: 15-25 años.",
+      "ley": "CP, art. 473.1"
+    },
+    {
+      "id": "tema_08_test_16_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la proposición para delinquir del art. 17.2 CP NO es correcta.",
+      "options": {
+        "a": "La proposición existe cuando el que ha resuelto cometer un delito invita a otra u otras personas a participar en él.",
+        "b": "La proposición para delinquir es punible en todos los delitos del Código Penal.",
+        "c": "La proposición se distingue de la conspiración en que en esta última hay acuerdo mutuo entre dos o más personas.",
+        "d": "La proposición es unilateral: una persona invita a otras sin que exista un acuerdo previo entre todos."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 17.3 CP establece que 'La conspiración y la proposición para delinquir solo se castigarán en los casos especialmente previstos en la ley'. No es punible en todos los delitos; solo cuando la ley expresamente lo prevea. Las opciones a) (art. 17.2), c) y d) son afirmaciones correctas que diferencian la proposición de la conspiración.",
+      "ley": "CP, art. 17.3"
+    },
+    {
+      "id": "tema_08_test_16_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 419 CP, la pena del cohecho propio activo es de prisión de _____ a _____ años, multa de doce a veinticuatro meses e inhabilitación de nueve a doce años.",
+      "options": {
+        "a": "Uno a cuatro años.",
+        "b": "Dos a cinco años.",
+        "c": "Tres a seis años.",
+        "d": "Cuatro a ocho años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 419 CP establece la pena de 'prisión de tres a seis años, multa de doce a veinticuatro meses, e inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de nueve a doce años' para el cohecho propio activo (recibir o solicitar dádiva para realizar acto contrario a los deberes del cargo).",
+      "ley": "CP, art. 419"
+    }
+  ]
+}

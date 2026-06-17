@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_07_test_04_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 29 CC, ¿qué determina la personalidad civil?",
+      "options": {
+        "a": "La inscripción en el Registro Civil",
+        "b": "La concepción, desde el momento de la fertilización",
+        "c": "El nacimiento; aunque el concebido se tiene por nacido para todos los efectos que le sean favorables",
+        "d": "El cumplimiento de los dieciocho años de edad"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 29 CC establece que 'El nacimiento determina la personalidad; pero el concebido se tiene por nacido para todos los efectos que le sean favorables, siempre que nazca con las condiciones que expresa el artículo siguiente'. Es la denominada protección del nasciturus.",
+      "ley": "CC, art. 29"
+    },
+    {
+      "id": "tema_07_test_04_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 30 CC, ¿en qué momento se adquiere la personalidad civil?",
+      "options": {
+        "a": "Cuando el feto es viable, con más de seis meses de gestación",
+        "b": "Con la inscripción en el Registro Civil dentro del plazo legal",
+        "c": "En el momento del nacimiento con vida, una vez producido el entero desprendimiento del seno materno",
+        "d": "A las veinticuatro horas del nacimiento si el recién nacido sobrevive"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 30 CC establece que 'La personalidad se adquiere en el momento del nacimiento con vida, una vez producido el entero desprendimiento del seno materno'. Basta nacer con vida; no se exige viabilidad.",
+      "ley": "CC, art. 30"
+    },
+    {
+      "id": "tema_07_test_04_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 32 CC, ¿cuándo se extingue la personalidad civil?",
+      "options": {
+        "a": "Por la declaración de incapacidad judicial",
+        "b": "Por la muerte de las personas",
+        "c": "Por la declaración de ausencia",
+        "d": "Por la pérdida de la capacidad de obrar"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 32 CC establece escuetamente que 'La personalidad civil se extingue por la muerte de las personas'. La muerte es el único modo de extinción de la personalidad física.",
+      "ley": "CC, art. 32"
+    },
+    {
+      "id": "tema_07_test_04_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 33 CC, si dos personas llamadas a sucederse mueren sin que se sepa cuál murió primero, ¿qué presunción se aplica?",
+      "options": {
+        "a": "Se presumen muertas al mismo tiempo y no hay transmisión de derechos de uno a otro",
+        "b": "Se presume que murió primero el mayor de edad",
+        "c": "Se presume que murió primero el de menor resistencia física",
+        "d": "Debe probar la supervivencia el que afirme haber sobrevivido"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 33 CC establece la presunción de conmoriencia: a falta de prueba sobre quién murió primero, 'se presumen muertas al mismo tiempo y no tiene lugar la transmisión de derechos de uno a otro'. Es la presunción de comoriencia del derecho español.",
+      "ley": "CC, art. 33"
+    },
+    {
+      "id": "tema_07_test_04_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 35 CC, ¿cuáles son las personas jurídicas reconocidas como de interés público?",
+      "options": {
+        "a": "Solo las fundaciones reconocidas por el Estado",
+        "b": "Solo las entidades con fines benéficos o asistenciales",
+        "c": "Las asociaciones empresariales y los sindicatos",
+        "d": "Las corporaciones, asociaciones y fundaciones de interés público reconocidas por la ley"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 35.1.º CC establece que son personas jurídicas 'Las corporaciones, asociaciones y fundaciones de interés público reconocidas por la ley. Su personalidad empieza desde el instante mismo en que, con arreglo a derecho, hubiesen quedado válidamente constituidas'.",
+      "ley": "CC, art. 35.1.º"
+    },
+    {
+      "id": "tema_07_test_04_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 40 CC, ¿qué es el domicilio de las personas naturales a efectos civiles?",
+      "options": {
+        "a": "El lugar donde están empadronadas",
+        "b": "El lugar donde se encuentran inscritas en el Registro Civil",
+        "c": "El lugar de su residencia habitual",
+        "d": "El lugar donde desarrollan su actividad profesional principal"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 40 CC establece que 'Para el ejercicio de los derechos y el cumplimiento de las obligaciones civiles, el domicilio de las personas naturales es el lugar de su residencia habitual, y, en su caso, el que determine la Ley de Enjuiciamiento Civil'.",
+      "ley": "CC, art. 40"
+    },
+    {
+      "id": "tema_07_test_04_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 40 CC, ¿cuál es el domicilio de los diplomáticos residentes en el extranjero por razón de su cargo?",
+      "options": {
+        "a": "El último que hubieren tenido en territorio español",
+        "b": "El del país donde están destinados",
+        "c": "El de la capital de España",
+        "d": "El que determine el Ministerio de Asuntos Exteriores"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 40 CC establece que 'El domicilio de los diplomáticos residentes por razón de su cargo en el extranjero, que gocen del derecho de extraterritorialidad, será el último que hubieren tenido en territorio español'.",
+      "ley": "CC, art. 40"
+    },
+    {
+      "id": "tema_07_test_04_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 42 CC, ¿produce la promesa de matrimonio obligación de contraerlo?",
+      "options": {
+        "a": "Sí, la promesa de matrimonio es un contrato que obliga a cumplirla",
+        "b": "Solo cuando la promesa haya sido aceptada por ambas partes ante notario",
+        "c": "Solo produce obligación cuando se haya formalizado por escrito ante testigos",
+        "d": "No, la promesa de matrimonio no produce obligación de contraerlo ni de cumplir lo que se hubiere estipulado para el caso de su no celebración"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 42 CC establece que 'La promesa de matrimonio no produce obligación de contraerlo ni de cumplir lo que se hubiere estipulado para el supuesto de su no celebración'. Tampoco se admite demanda que pretenda su cumplimiento.",
+      "ley": "CC, art. 42"
+    },
+    {
+      "id": "tema_07_test_04_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 43 CC, ¿qué consecuencia tiene el incumplimiento sin causa de la promesa de matrimonio por persona mayor de edad?",
+      "options": {
+        "a": "Ninguna consecuencia jurídica",
+        "b": "La obligación de resarcir a la otra parte de los gastos hechos y las obligaciones contraídas en consideración al matrimonio prometido, con acción que caduca al año",
+        "c": "El pago de una indemnización por daños morales fijada por el juez",
+        "d": "La obligación de celebrar el matrimonio bajo pena de multa"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 43 CC establece que el incumplimiento sin causa de la promesa 'solo producirá la obligación de resarcir a la otra parte de los gastos hechos y las obligaciones contraídas en consideración al matrimonio prometido'. La acción caduca al año contado desde el día de la negativa a la celebración.",
+      "ley": "CC, art. 43"
+    },
+    {
+      "id": "tema_07_test_04_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 44 CC, ¿tienen los mismos requisitos y efectos el matrimonio entre personas del mismo sexo que el de personas de diferente sexo?",
+      "options": {
+        "a": "No, existen requisitos diferentes según el sexo de los contrayentes",
+        "b": "Solo en las comunidades autónomas que así lo hayan legislado expresamente",
+        "c": "Solo tienen los mismos efectos civiles, pero no los mismos requisitos formales",
+        "d": "Sí, el matrimonio tendrá los mismos requisitos y efectos cuando ambos contrayentes sean del mismo o de diferente sexo"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 44 CC establece que 'El matrimonio tendrá los mismos requisitos y efectos cuando ambos contrayentes sean del mismo o de diferente sexo'. Esta equiparación fue introducida en 2005.",
+      "ley": "CC, art. 44"
+    },
+    {
+      "id": "tema_07_test_04_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 45 CC, ¿puede condicionarse o someterse a término el consentimiento matrimonial?",
+      "options": {
+        "a": "Sí, los contrayentes pueden añadir condiciones al consentimiento",
+        "b": "Solo se admiten condiciones suspensivas, no resolutorias",
+        "c": "No, la condición, término o modo del consentimiento se tendrá por no puesta",
+        "d": "Las condiciones son válidas si ambos contrayentes las aceptan"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 45 CC establece que 'No hay matrimonio sin consentimiento matrimonial. La condición, término o modo del consentimiento se tendrá por no puesta'. El consentimiento matrimonial debe ser puro e incondicional.",
+      "ley": "CC, art. 45"
+    },
+    {
+      "id": "tema_07_test_04_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 46 CC, ¿quiénes no pueden contraer matrimonio?",
+      "options": {
+        "a": "Los mayores de 70 años y los que padezcan enfermedades graves",
+        "b": "Los menores de edad no emancipados y los que estén ligados con vínculo matrimonial",
+        "c": "Los menores de 21 años sin autorización paterna y los divorciados antes de un año",
+        "d": "Los que no hablen la misma lengua y los que residan en distintas comunidades autónomas"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 46 CC establece que no pueden contraer matrimonio '1.° Los menores de edad no emancipados. 2.° Los que estén ligados con vínculo matrimonial'. Son los dos impedimentos dirimentes básicos: minoría de edad y vínculo.",
+      "ley": "CC, art. 46"
+    },
+    {
+      "id": "tema_07_test_04_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 47 CC, ¿hasta qué grado de parentesco colateral por consanguinidad existe impedimento para contraer matrimonio?",
+      "options": {
+        "a": "Hasta el segundo grado (hermanos)",
+        "b": "Hasta el tercer grado (tío y sobrino)",
+        "c": "Hasta el cuarto grado (primos hermanos)",
+        "d": "Hasta el sexto grado"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 47.2 CC establece que tampoco pueden contraer matrimonio entre sí 'Los colaterales por consanguinidad hasta el tercer grado'. El tercer grado comprende las relaciones tío-sobrino. Este impedimento puede ser dispensado por el Juez (art. 48 CC).",
+      "ley": "CC, art. 47.2"
+    },
+    {
+      "id": "tema_07_test_04_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 61 CC, ¿desde cuándo produce el matrimonio efectos civiles?",
+      "options": {
+        "a": "Desde su inscripción en el Registro Civil",
+        "b": "Desde su celebración, aunque para el pleno reconocimiento sea necesaria su inscripción en el Registro Civil",
+        "c": "Desde la firma del convenio regulador",
+        "d": "Desde la publicación de las amonestaciones"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 61 CC establece que 'El matrimonio produce efectos civiles desde su celebración. Para el pleno reconocimiento de los mismos será necesaria su inscripción en el Registro Civil'. La no inscripción no afecta a los derechos adquiridos de buena fe por terceras personas.",
+      "ley": "CC, art. 61"
+    },
+    {
+      "id": "tema_07_test_04_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 66 CC, ¿cuál es la situación de los cónyuges en derechos y deberes?",
+      "options": {
+        "a": "El marido tiene mayor capacidad de representación familiar",
+        "b": "Cada cónyuge tiene sus propios derechos y deberes diferenciados por ley",
+        "c": "Los cónyuges son iguales en derechos y deberes",
+        "d": "Los derechos corresponden al cónyuge titular de los bienes familiares"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 66 CC establece el principio de igualdad conyugal: 'Los cónyuges son iguales en derechos y deberes'. Este principio concreta en el ámbito del matrimonio la igualdad constitucional del art. 14 CE.",
+      "ley": "CC, art. 66"
+    },
+    {
+      "id": "tema_07_test_04_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 68 CC, ¿cuáles son las obligaciones de los cónyuges?",
+      "options": {
+        "a": "Vivir juntos, guardarse fidelidad, socorrerse mutuamente y compartir las responsabilidades domésticas y el cuidado de ascendientes, descendientes y otras personas dependientes",
+        "b": "Solo la fidelidad y el auxilio mutuo",
+        "c": "La contribución a las cargas del matrimonio según sus posibilidades",
+        "d": "La administración conjunta de los bienes familiares"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 68 CC establece que 'Los cónyuges están obligados a vivir juntos, guardarse fidelidad y socorrerse mutuamente. Deberán, además, compartir las responsabilidades domésticas y el cuidado y atención de ascendientes y descendientes y otras personas dependientes a su cargo'.",
+      "ley": "CC, art. 68"
+    },
+    {
+      "id": "tema_07_test_04_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 73 CC, ¿cuál de los siguientes supuestos provoca la nulidad del matrimonio?",
+      "options": {
+        "a": "El error en la identidad de la persona del otro contrayente o en aquellas cualidades personales que hubieren sido determinantes del consentimiento",
+        "b": "La diferencia de edad superior a veinte años entre los contrayentes",
+        "c": "La falta de inscripción en el Registro Civil",
+        "d": "La ausencia del convenio regulador firmado antes de la boda"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 73.4.º CC establece que es nulo 'El celebrado por error en la identidad de la persona del otro contrayente o en aquellas cualidades personales que, por su entidad, hubieren sido determinantes de la prestación del consentimiento'.",
+      "ley": "CC, art. 73.4.º"
+    },
+    {
+      "id": "tema_07_test_04_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 85 CC, ¿por qué causas se disuelve el matrimonio?",
+      "options": {
+        "a": "Solo por el divorcio",
+        "b": "Por la sentencia de nulidad matrimonial",
+        "c": "Por la separación de hecho mantenida durante más de cinco años",
+        "d": "Por la muerte o declaración de fallecimiento de uno de los cónyuges y por el divorcio"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 85 CC establece que 'El matrimonio se disuelve, sea cual fuere la forma y el tiempo de su celebración, por la muerte o la declaración de fallecimiento de uno de los cónyuges y por el divorcio'. La nulidad no disuelve, sino que declara que el matrimonio nunca existió.",
+      "ley": "CC, art. 85"
+    },
+    {
+      "id": "tema_07_test_04_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 97 CC, ¿a qué tiene derecho el cónyuge al que la separación o divorcio produce un desequilibrio económico?",
+      "options": {
+        "a": "Solo a la mitad de los bienes comunes",
+        "b": "Solo al uso de la vivienda familiar por un período de dos años",
+        "c": "A una pensión vitalicia equivalente al 50% de los ingresos del otro cónyuge",
+        "d": "A una compensación que puede consistir en una pensión temporal o por tiempo indefinido, o en una prestación única"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 97 CC establece que el cónyuge que sufra un desequilibrio económico 'tendrá derecho a una compensación que podrá consistir en una pensión temporal o por tiempo indefinido, o en una prestación única, según se determine en el convenio regulador o en la sentencia'.",
+      "ley": "CC, art. 97"
+    },
+    {
+      "id": "tema_07_test_04_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 101 CC, ¿cuándo se extingue el derecho a la pensión compensatoria?",
+      "options": {
+        "a": "Por el cese de la causa que lo motivó, por contraer el acreedor nuevo matrimonio o por vivir maritalmente con otra persona",
+        "b": "Solo por la muerte del cónyuge acreedor",
+        "c": "Automáticamente a los diez años de la separación o divorcio",
+        "d": "Solo cuando el deudor así lo solicite y el juez lo autorice"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 101 CC establece que 'El derecho a la pensión se extingue por el cese de la causa que lo motivó, por contraer el acreedor nuevo matrimonio o por vivir maritalmente con otra persona'. Además, no se extingue por la muerte del deudor, aunque sus herederos pueden pedir reducción.",
+      "ley": "CC, art. 101"
+    }
+  ]
+}

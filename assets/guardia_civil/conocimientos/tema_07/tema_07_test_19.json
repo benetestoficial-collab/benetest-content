@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_07_test_19_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre la nulidad matrimonial NO es correcta según el Código Civil.",
+      "options": {
+        "a": "Es nulo el matrimonio celebrado sin consentimiento matrimonial.",
+        "b": "El juez no acordará la nulidad por defecto de forma si al menos uno de los cónyuges lo contrajo de buena fe, salvo el supuesto de celebración sin autoridad competente ni testigos.",
+        "c": "La acción de nulidad por error o coacción puede ejercitarla cualquier persona con interés directo y legítimo.",
+        "d": "La declaración de nulidad no invalida los efectos ya producidos respecto de los hijos y del contrayente de buena fe."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). Según el art. 76 CC, 'En los casos de error, coacción o miedo grave solamente podrá ejercitar la acción de nulidad el cónyuge que hubiera sufrido el vicio'. No puede ejercitarla cualquier persona con interés, sino solo el cónyuge afectado. Las opciones a) (art. 73.1.º), b) (art. 78) y d) (art. 79) son correctas.",
+      "ley": "CC, art. 76"
+    },
+    {
+      "id": "tema_07_test_19_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de los siguientes supuestos NO figura entre los casos en que procede la declaración de fallecimiento según el art. 194 CC.",
+      "options": {
+        "a": "Militares que tomaron parte en operaciones de campaña y desaparecieron, transcurridos dos años desde el tratado de paz.",
+        "b": "Personas acreditadas a bordo de una nave naufragada cuando haya evidencias racionales de ausencia de supervivientes.",
+        "c": "Personas desaparecidas durante una epidemia, sin noticias durante seis meses tras su término.",
+        "d": "Personas a bordo de una aeronave siniestrada cuyo naufragio se presuma al no llegar a su destino, tras un mes desde las últimas noticias."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 194 CC no contempla las epidemias como supuesto especial de declaración de fallecimiento. Sí prevé las subversiones de orden político o social (art. 193.3.º), pero no las epidemias. Las opciones a) (art. 194.1.º), b) (art. 194.2.º) y d) (art. 194.5.º) sí están recogidas en el art. 194 CC.",
+      "ley": "CC, art. 194"
+    },
+    {
+      "id": "tema_07_test_19_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Complete: La acción de impugnación de la paternidad del marido caduca al _____ contado desde la inscripción de la filiación en el Registro Civil; pero el plazo no correrá mientras el marido ignore el _____.",
+      "options": {
+        "a": "Dos años; parto.",
+        "b": "Un año; nacimiento.",
+        "c": "Cuatro años; embarazo.",
+        "d": "Seis meses; fallecimiento del hijo."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 136.1 CC establece que 'El marido podrá ejercitar la acción de impugnación de la paternidad en el plazo de un año contado desde la inscripción de la filiación en el Registro Civil. Sin embargo, el plazo no correrá mientras el marido ignore el nacimiento'.",
+      "ley": "CC, art. 136.1"
+    },
+    {
+      "id": "tema_07_test_19_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes personas NO está obligada a promover la constitución de la tutela según el art. 206 CC.",
+      "options": {
+        "a": "Los parientes llamados a la tutela.",
+        "b": "La persona física o jurídica bajo cuya guarda se encuentre el menor.",
+        "c": "El Ministerio Fiscal.",
+        "d": "El notario ante quien se otorgue el testamento del progenitor."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 206 CC establece que están obligados a promover la constitución de la tutela 'los parientes llamados a ella y la persona física o jurídica bajo cuya guarda se encuentre el menor'. El notario ante quien se otorgue el testamento no figura entre los obligados del art. 206. Cualquier persona puede poner el hecho en conocimiento del Ministerio Fiscal (art. 207), pero el notario no tiene la obligación específica del art. 206.",
+      "ley": "CC, art. 206"
+    },
+    {
+      "id": "tema_07_test_19_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Complete: Según el art. 279 CC, quien sea nombrado curador y alegue causa de excusa deberá hacerlo dentro del plazo de _____ días a contar desde que tuviera conocimiento del nombramiento.",
+      "options": {
+        "a": "Diez días.",
+        "b": "Quince días.",
+        "c": "Treinta días.",
+        "d": "Dos meses."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 279 CC establece que 'El interesado que alegue causa de excusa deberá hacerlo dentro del plazo de quince días a contar desde que tuviera conocimiento del nombramiento'. Si la causa fuera sobrevenida, puede hacerse en cualquier momento.",
+      "ley": "CC, art. 279"
+    },
+    {
+      "id": "tema_07_test_19_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre la filiación NO es correcta según el Código Civil.",
+      "options": {
+        "a": "La filiación matrimonial, la no matrimonial y la adoptiva surten los mismos efectos.",
+        "b": "La filiación produce efectos desde que tiene lugar; su determinación legal tiene efectos retroactivos cuando ello sea compatible con la naturaleza de los efectos.",
+        "c": "No puede acreditarse la filiación por la posesión de estado cuando ya existe inscripción en el Registro Civil.",
+        "d": "La filiación se acredita por la inscripción en el Registro Civil, por el documento o sentencia que la determina legalmente, por la presunción de paternidad y, a falta de anteriores, por la posesión de estado."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 113 CC establece que 'La filiación se acredita por la inscripción en el Registro Civil, por el documento o sentencia que la determina legalmente, por la presunción de paternidad matrimonial y, a falta de los medios anteriores, por la posesión de estado'. La posesión de estado es medio subsidiario pero no está excluida cuando existe inscripción. Las opciones a) (art. 108), b) (art. 112) y d) (art. 113) son correctas.",
+      "ley": "CC, art. 113"
+    },
+    {
+      "id": "tema_07_test_19_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre la presunción de paternidad matrimonial del art. 116 CC NO es correcta.",
+      "options": {
+        "a": "Se presumen hijos del marido los nacidos después de la celebración del matrimonio.",
+        "b": "Se presumen hijos del marido los nacidos antes de los trescientos días siguientes a la disolución del matrimonio.",
+        "c": "La presunción opera también respecto de los hijos nacidos antes de los trescientos días siguientes a la separación de hecho de los cónyuges.",
+        "d": "La presunción de paternidad no puede excluirse nunca en los primeros ciento ochenta días tras la celebración del matrimonio."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 117 CC permite al marido destruir la presunción respecto a hijos nacidos dentro de los ciento ochenta días siguientes a la celebración del matrimonio, mediante declaración auténtica en contrario formalizada dentro de los seis meses siguientes al conocimiento del parto, salvo que hubiere reconocido la paternidad o conocido el embarazo antes. Las opciones a), b) y c) recogen correctamente el contenido del art. 116 CC.",
+      "ley": "CC, art. 117"
+    },
+    {
+      "id": "tema_07_test_19_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Complete: Según el art. 285 CC, el curador con facultades representativas tiene la obligación de hacer inventario del patrimonio de la persona apoyada dentro del plazo de _____ días desde la toma de posesión de su cargo.",
+      "options": {
+        "a": "Treinta días.",
+        "b": "Sesenta días.",
+        "c": "Noventa días.",
+        "d": "Ciento veinte días."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 285 CC establece que el curador con facultades representativas 'estará obligado a hacer inventario del patrimonio de la persona en cuyo favor se ha establecido el apoyo dentro del plazo de sesenta días, a contar desde aquel en que hubiese tomado posesión de su cargo'. El inventario se forma ante el Letrado de la Administración de Justicia.",
+      "ley": "CC, art. 285"
+    },
+    {
+      "id": "tema_07_test_19_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de los siguientes supuestos NO produce la extinción de la tutela de un menor según el art. 231 CC.",
+      "options": {
+        "a": "La mayoría de edad del menor.",
+        "b": "La adopción del menor.",
+        "c": "La emancipación del menor.",
+        "d": "El cambio de domicilio del tutor a otra comunidad autónoma."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 231 CC establece que la tutela se extingue por la mayoría de edad, emancipación o beneficio de la mayoría de edad; por la adopción del menor; por muerte o declaración de fallecimiento del menor; y cuando el titular de la patria potestad la recupera. El cambio de domicilio del tutor no figura en ningún caso como causa de extinción.",
+      "ley": "CC, art. 231"
+    },
+    {
+      "id": "tema_07_test_19_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre el acogimiento de urgencia NO es correcta según el art. 173 bis CC.",
+      "options": {
+        "a": "Se aplica principalmente para menores de seis años.",
+        "b": "Tiene una duración no superior a seis meses.",
+        "c": "Su fin es decidir la medida de protección familiar que corresponda.",
+        "d": "Puede prorrogarse hasta dos años si el interés del menor lo aconseja."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 173 bis.2.a) CC establece que el acogimiento familiar de urgencia 'tendrá una duración no superior a seis meses'. La prórroga hasta dos años corresponde al acogimiento temporal (art. 173 bis.2.b)), no al de urgencia. Las opciones a), b) y c) recogen correctamente las características del acogimiento de urgencia.",
+      "ley": "CC, art. 173 bis.2.a)"
+    },
+    {
+      "id": "tema_07_test_19_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Complete: Según el art. 21.4 CC, las concesiones de nacionalidad por carta de naturaleza o por residencia caducan a los _____ días siguientes a su notificación si en ese plazo el interesado no comparece ante funcionario competente.",
+      "options": {
+        "a": "Treinta días.",
+        "b": "Ciento ochenta días.",
+        "c": "Noventa días.",
+        "d": "Sesenta días."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 21.4 CC establece que 'Las concesiones por carta de naturaleza o por residencia caducan a los ciento ochenta días siguientes a su notificación, si en este plazo no comparece el interesado ante funcionario competente para cumplir los requisitos del artículo 23'.",
+      "ley": "CC, art. 21.4"
+    },
+    {
+      "id": "tema_07_test_19_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre los poderes preventivos NO es correcta según el Código Civil.",
+      "options": {
+        "a": "Los poderes preventivos habrán de otorgarse en escritura pública.",
+        "b": "El Notario autorizante comunicará el poder preventivo al Registro Civil.",
+        "c": "El poder preventivo otorgado a favor del cónyuge se extingue automáticamente por el cese de la convivencia, salvo voluntad contraria del otorgante.",
+        "d": "El poderdante no puede establecer condiciones ni mecanismos de control sobre el ejercicio del poder preventivo."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 258 CC establece que el poderdante puede establecer 'las medidas u órganos de control que estime oportuno, condiciones e instrucciones para el ejercicio de las facultades, salvaguardas para evitar abusos, conflicto de intereses o influencia indebida y los mecanismos y plazos de revisión de las medidas de apoyo'. Sí puede establecer condiciones y mecanismos de control. Las opciones a) (art. 260), b) (art. 260) y c) (art. 258) son correctas.",
+      "ley": "CC, art. 258"
+    },
+    {
+      "id": "tema_07_test_19_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre las personas jurídicas NOT es correcta según los arts. 35-41 CC.",
+      "options": {
+        "a": "La capacidad civil de las corporaciones se regula por las leyes que las hayan creado o reconocido.",
+        "b": "La capacidad civil de las asociaciones se rige por sus estatutos.",
+        "c": "La capacidad civil de las fundaciones se regula por las reglas de su institución.",
+        "d": "El domicilio de las personas jurídicas es siempre el que fijen sus estatutos, sin posibilidad de determinarlo por la ley."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 41 CC establece que cuando ni la ley que las haya creado ni los estatutos fijen el domicilio, 'se entenderá que lo tienen en el lugar en que se halle establecida su representación legal, o donde ejerzan las principales funciones de su instituto'. La ley puede determinar el domicilio aunque los estatutos no lo fijen. Las opciones a), b) y c) recogen correctamente el art. 37 CC.",
+      "ley": "CC, art. 41"
+    },
+    {
+      "id": "tema_07_test_19_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Complete: Según el art. 243 CC, el hijo mayor de _____ años que, con el consentimiento de los progenitores, viviere independientemente de estos, se reputará emancipado para todos los efectos; aunque los progenitores pueden _____ ese consentimiento.",
+      "options": {
+        "a": "Catorce años; confirmar.",
+        "b": "Dieciséis años; revocar.",
+        "c": "Diecisiete años; ampliar.",
+        "d": "Dieciocho años; modificar."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 243 CC establece que 'Se reputará para todos los efectos como emancipado al hijo mayor de dieciséis años que, con el consentimiento de los progenitores, viviere independientemente de estos. Los progenitores podrán revocar este consentimiento'.",
+      "ley": "CC, art. 243"
+    },
+    {
+      "id": "tema_07_test_19_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de los siguientes actos requiere siempre autorización judicial cuando lo realiza el curador representativo según el art. 287 CC.",
+      "options": {
+        "a": "Firmar un contrato de trabajo a nombre de la persona con discapacidad.",
+        "b": "Dar un inmueble en arrendamiento por un término inicial de cuatro años.",
+        "c": "Dar un inmueble en arrendamiento por un término inicial de siete años.",
+        "d": "Cobrar el alquiler mensual del piso de la persona con discapacidad."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 287.2.º CC establece que el curador representativo necesita autorización judicial para 'dar inmuebles en arrendamiento por término inicial que exceda de seis años'. Un arrendamiento de siete años excede de ese límite y requiere autorización. Un arrendamiento de cuatro años (opción b) no la requeriría, pues no excede de seis años.",
+      "ley": "CC, art. 287.2.º"
+    },
+    {
+      "id": "tema_07_test_19_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre los derechos de las personas adoptadas NO es correcta según el Código Civil.",
+      "options": {
+        "a": "Las personas adoptadas tienen derecho a conocer sus orígenes biológicos al alcanzar la mayoría de edad.",
+        "b": "Las Entidades Públicas deben conservar la información sobre los orígenes del adoptado al menos cincuenta años desde que la adopción se hizo definitiva.",
+        "c": "La extinción de la adopción produce automáticamente la pérdida de la nacionalidad española adquirida por adopción.",
+        "d": "Los menores adoptados pueden ejercer ese derecho a conocer sus orígenes a través de sus representantes legales."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 180.3 CC establece expresamente que 'La extinción de la adopción no es causa de pérdida de la nacionalidad ni de la vecindad civil adquiridas, ni alcanza a los efectos patrimoniales anteriormente producidos'. Las opciones a), b) y d) son correctas según el art. 180.5 y 180.6 CC.",
+      "ley": "CC, art. 180.3"
+    },
+    {
+      "id": "tema_07_test_19_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre la separación conyugal de mutuo acuerdo sin hijos menores NO es correcta según el Código Civil.",
+      "options": {
+        "a": "Los cónyuges podrán acordar la separación ante notario mediante escritura pública.",
+        "b": "Los cónyuges podrán acordar la separación ante el letrado de la Administración de Justicia.",
+        "c": "No se necesita el transcurso de ningún plazo mínimo desde la celebración del matrimonio.",
+        "d": "Los funcionarios consulares no están facultados para autorizar escrituras públicas de separación."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 82.1 CC exige que hayan 'transcurridos tres meses desde la celebración del matrimonio' incluso para la separación de mutuo acuerdo sin hijos menores ante letrado o notario. Sí existe plazo mínimo de tres meses. Las opciones a), b) y d) son correctas según el art. 82 CC.",
+      "ley": "CC, art. 82.1"
+    },
+    {
+      "id": "tema_07_test_19_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Complete: Según el art. 25.2 CC, la acción de nulidad de la adquisición de la nacionalidad española obtenida por falsedad, ocultación o fraude debe ejercitarse por el _____ dentro del plazo de _____ años.",
+      "options": {
+        "a": "Juez de instrucción; cinco años.",
+        "b": "Ministerio Fiscal; quince años.",
+        "c": "Ministerio del Interior; diez años.",
+        "d": "Afectado; cuatro años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 25.2 CC establece que 'La acción de nulidad deberá ejercitarse por el Ministerio Fiscal de oficio o en virtud de denuncia, dentro del plazo de quince años'. Solo el Ministerio Fiscal puede ejercer esta acción.",
+      "ley": "CC, art. 25.2"
+    },
+    {
+      "id": "tema_07_test_19_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Señale cuál de las siguientes afirmaciones sobre los efectos del matrimonio NOT es correcta según el Código Civil.",
+      "options": {
+        "a": "El matrimonio produce efectos civiles desde su celebración.",
+        "b": "Para el pleno reconocimiento de los efectos del matrimonio es necesaria su inscripción en el Registro Civil.",
+        "c": "El matrimonio no inscrito perjudica los derechos adquiridos de buena fe por terceras personas.",
+        "d": "El matrimonio secreto no perjudica los derechos adquiridos de buena fe por terceros hasta su publicación en el Registro Civil ordinario."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la c). El art. 61 CC establece que 'El matrimonio no inscrito no perjudicará los derechos adquiridos de buena fe por terceras personas'. La afirmación de la opción c) es la contraria, afirmando que sí perjudica, lo cual es incorrecto. Las opciones a), b) (art. 61) y d) (art. 64) son correctas.",
+      "ley": "CC, art. 61"
+    },
+    {
+      "id": "tema_07_test_19_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Complete: Según el art. 2.1 CC, si en las leyes no se dispone otra cosa, entrarán en vigor a los _____ días de su completa publicación en el BOE.",
+      "options": {
+        "a": "Diez días.",
+        "b": "Veinte días.",
+        "c": "Treinta días.",
+        "d": "Cinco días."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 2.1 CC establece que 'Las leyes entrarán en vigor a los veinte días de su completa publicación en el «Boletín Oficial del Estado», si en ellas no se dispone otra cosa'. Este es el plazo de vacatio legis supletorio del ordenamiento español.",
+      "ley": "CC, art. 2.1"
+    }
+  ]
+}

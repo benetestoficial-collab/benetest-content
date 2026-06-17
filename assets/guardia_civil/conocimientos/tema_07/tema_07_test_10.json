@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_07_test_10_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 240 CC, ¿a qué edad empieza la mayor edad?",
+      "options": {
+        "a": "A los dieciséis años cumplidos",
+        "b": "A los veintiún años cumplidos",
+        "c": "A los dieciocho años cumplidos",
+        "d": "A los catorce años si existe emancipación judicial"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 240 CC establece que 'La mayor edad empieza a los dieciocho años cumplidos. Para el cómputo de los años de la mayoría de edad se incluirá completo el día del nacimiento'.",
+      "ley": "CC, art. 240"
+    },
+    {
+      "id": "tema_07_test_10_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 239 CC, ¿de qué formas puede tener lugar la emancipación?",
+      "options": {
+        "a": "Solo por la mayoría de edad",
+        "b": "Por la mayor edad, por concesión de los que ejerzan la patria potestad y por concesión judicial",
+        "c": "Por matrimonio, por la mayor edad y por resolución judicial",
+        "d": "Solo por concesión judicial o por la mayor edad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 239 CC establece que 'La emancipación tiene lugar: Por la mayor edad. Por concesión de los que ejerzan la patria potestad. Por concesión judicial'.",
+      "ley": "CC, art. 239"
+    },
+    {
+      "id": "tema_07_test_10_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 241 CC, ¿qué requisitos se exigen para la emancipación por concesión de quienes ejerzan la patria potestad?",
+      "options": {
+        "a": "Que el menor tenga dieciséis años cumplidos y que la consienta; se otorgará por escritura pública o por comparecencia ante el encargado del Registro Civil",
+        "b": "Que el menor tenga 14 años y sus progenitores la concedan ante el juez",
+        "c": "Que el menor tenga 17 años y que ambos progenitores consientan ante notario",
+        "d": "Que el menor tenga 16 años y la solicite personalmente al juez"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 241 CC establece que 'Para que tenga lugar la emancipación por concesión de quienes ejerzan la patria potestad, se requiere que el menor tenga dieciséis años cumplidos y que la consienta. Esta emancipación se otorgará por escritura pública o por comparecencia ante el encargado del Registro Civil'.",
+      "ley": "CC, art. 241"
+    },
+    {
+      "id": "tema_07_test_10_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 242 CC, ¿puede revocarse la emancipación una vez concedida?",
+      "options": {
+        "a": "Sí, puede revocarse durante el primer año tras su concesión",
+        "b": "Puede revocarse si el menor lo solicita antes de los 18 años",
+        "c": "Solo puede revocarse si el menor comete delitos graves",
+        "d": "No, concedida la emancipación no podrá ser revocada"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 242 CC establece que 'La concesión de la emancipación habrá de inscribirse en el Registro Civil, no produciendo entre tanto efectos contra terceros. Concedida la emancipación no podrá ser revocada'. La irrevocabilidad es un rasgo esencial.",
+      "ley": "CC, art. 242"
+    },
+    {
+      "id": "tema_07_test_10_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 247 CC, ¿qué actos no puede realizar el emancipado sin consentimiento de sus progenitores o defensor judicial?",
+      "options": {
+        "a": "Ninguno; el emancipado tiene plena capacidad",
+        "b": "Solo los actos que afecten a su patrimonio inmobiliario",
+        "c": "Tomar dinero a préstamo, gravar o enajenar bienes inmuebles y establecimientos mercantiles o industriales u objetos de extraordinario valor",
+        "d": "Todos los actos jurídicos hasta que cumpla los 18 años"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 247 CC establece que 'hasta que llegue a la mayor edad no podrá el emancipado tomar dinero a préstamo, gravar o enajenar bienes inmuebles y establecimientos mercantiles o industriales u objetos de extraordinario valor sin consentimiento de sus progenitores y, a falta de ambos, sin el de su defensor judicial'.",
+      "ley": "CC, art. 247"
+    },
+    {
+      "id": "tema_07_test_10_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 244 CC, ¿en qué supuestos puede la autoridad judicial conceder la emancipación a los hijos mayores de 16 años?",
+      "options": {
+        "a": "Solo cuando los progenitores hayan fallecido",
+        "b": "En cualquier caso si el menor tiene 17 años y el Ministerio Fiscal lo avala",
+        "c": "Solo cuando el menor lo solicite y acredite independencia económica",
+        "d": "Cuando quien ejerce la patria potestad contrajere nupcias o conviviere maritalmente con persona distinta del otro progenitor; cuando los progenitores vivieren separados; o cuando concurra cualquier causa que entorpezca gravemente el ejercicio de la patria potestad"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 244 CC establece tres supuestos de emancipación judicial: '1.º Cuando quien ejerce la patria potestad contrajere nupcias o conviviere maritalmente con persona distinta del otro progenitor. 2.º Cuando los progenitores vivieren separados. 3.º Cuando concurra cualquier causa que entorpezca gravemente el ejercicio de la patria potestad'.",
+      "ley": "CC, art. 244"
+    },
+    {
+      "id": "tema_07_test_10_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 249 CC, ¿cuál es la finalidad de las medidas de apoyo a las personas con discapacidad?",
+      "options": {
+        "a": "Sustituir la voluntad de la persona con discapacidad en todos los actos jurídicos",
+        "b": "Permitir el desarrollo pleno de su personalidad y su desenvolvimiento jurídico en condiciones de igualdad, con respeto a su dignidad y derechos fundamentales",
+        "c": "Proteger los bienes de la persona con discapacidad frente a terceros",
+        "d": "Facilitar la gestión patrimonial por parte de los familiares"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 249 CC establece que las medidas de apoyo 'tendrán por finalidad permitir el desarrollo pleno de su personalidad y su desenvolvimiento jurídico en condiciones de igualdad'. Deben estar inspiradas en el respeto a la dignidad de la persona y en la tutela de sus derechos fundamentales.",
+      "ley": "CC, art. 249"
+    },
+    {
+      "id": "tema_07_test_10_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 250 CC, ¿cuáles son las medidas de apoyo para las personas con discapacidad?",
+      "options": {
+        "a": "Solo la tutela y la curatela",
+        "b": "Las de naturaleza voluntaria, la guarda de hecho, la curatela y el defensor judicial",
+        "c": "Solo la curatela y el defensor judicial",
+        "d": "La patria potestad prorrogada, la tutela y la curatela"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 250 CC establece que 'Las medidas de apoyo para el ejercicio de la capacidad jurídica de las personas que lo precisen son, además de las de naturaleza voluntaria, la guarda de hecho, la curatela y el defensor judicial'.",
+      "ley": "CC, art. 250"
+    },
+    {
+      "id": "tema_07_test_10_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 249 CC, ¿qué principios deben ajustarse las medidas de apoyo de origen legal o judicial?",
+      "options": {
+        "a": "Los principios de eficacia y rapidez en la gestión",
+        "b": "Los principios de seguridad jurídica y protección del patrimonio",
+        "c": "Los principios de necesidad y proporcionalidad; además, solo procederán en defecto o insuficiencia de la voluntad de la persona de que se trate",
+        "d": "Los principios de igualdad y no discriminación únicamente"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 249 CC establece que las medidas de apoyo de origen legal o judicial 'solo procederán en defecto o insuficiencia de la voluntad de la persona de que se trate. Todas ellas deberán ajustarse a los principios de necesidad y proporcionalidad'.",
+      "ley": "CC, art. 249"
+    },
+    {
+      "id": "tema_07_test_10_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 255 CC, ¿puede cualquier persona mayor de edad prever sus propias medidas de apoyo?",
+      "options": {
+        "a": "Sí, cualquier persona mayor de edad o menor emancipada puede prever o acordar en escritura pública medidas de apoyo relativas a su persona o bienes, en previsión o apreciación de circunstancias que puedan dificultarle el ejercicio de su capacidad jurídica",
+        "b": "No, solo el juez puede establecer medidas de apoyo",
+        "c": "Solo si lo hace junto a sus familiares más cercanos",
+        "d": "Solo cuando ya se ha iniciado el procedimiento judicial de provisión de apoyos"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 255 CC establece que 'Cualquier persona mayor de edad o menor emancipada en previsión o apreciación de la concurrencia de circunstancias que puedan dificultarle el ejercicio de su capacidad jurídica en igualdad de condiciones con las demás, podrá prever o acordar en escritura pública medidas de apoyo relativas a su persona o bienes'.",
+      "ley": "CC, art. 255"
+    },
+    {
+      "id": "tema_07_test_10_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 268 CC, ¿en qué plazo máximo se revisarán las medidas de apoyo adoptadas judicialmente?",
+      "options": {
+        "a": "En un plazo máximo de tres años, aunque excepcionalmente puede establecerse un plazo superior que no exceda de seis años",
+        "b": "Cada año",
+        "c": "Cada cinco años sin posibilidad de prórroga",
+        "d": "Solo cuando la persona con discapacidad o el Ministerio Fiscal lo soliciten"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 268 CC establece que las medidas de apoyo adoptadas judicialmente 'serán revisadas periódicamente en un plazo máximo de tres años. No obstante, la autoridad judicial podrá, de manera excepcional y motivada, en el procedimiento de provisión o, en su caso, de modificación de apoyos, establecer un plazo de revisión superior que no podrá exceder de seis años'.",
+      "ley": "CC, art. 268"
+    },
+    {
+      "id": "tema_07_test_10_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 287 CC, ¿qué actos requieren siempre autorización judicial para el curador representativo?",
+      "options": {
+        "a": "Solo los actos de disposición de bienes inmuebles",
+        "b": "Entre otros, enajenar o gravar bienes inmuebles, establecimientos mercantiles u objetos preciosos; dar inmuebles en arrendamiento por más de seis años; disponer a título gratuito de bienes; aceptar herencias sin beneficio de inventario; dar o tomar dinero a préstamo",
+        "c": "Solo los actos de disposición de bienes hereditarios",
+        "d": "Solo los actos que superen los 6.000 euros de valor"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 287 CC enumera los actos que siempre requieren autorización judicial: actos de transcendencia personal o familiar; enajenar o gravar inmuebles, establecimientos o bienes de especial significado; dar inmuebles en arrendamiento por más de seis años; disponer a título gratuito de bienes (salvo los de escasa relevancia); renunciar derechos; aceptar herencias sin beneficio de inventario; dar y tomar dinero a préstamo y prestar aval o fianza; interponer demanda (salvo asuntos urgentes o escasa cuantía); y celebrar seguros de vida con inversiones de cuantía extraordinaria.",
+      "ley": "CC, art. 287"
+    },
+    {
+      "id": "tema_07_test_10_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 295 CC, ¿cuándo se nombrará un defensor judicial de la persona con discapacidad?",
+      "options": {
+        "a": "Solo cuando el curador haya fallecido",
+        "b": "Únicamente cuando el Ministerio Fiscal lo considere necesario",
+        "c": "Solo cuando la persona con discapacidad lo solicite",
+        "d": "Cuando quien haya de prestar apoyo no pueda hacerlo; cuando exista conflicto de intereses; durante la tramitación de la excusa del curador; cuando se haya promovido la provisión de apoyos; y cuando la persona con discapacidad requiera medidas de apoyo de carácter ocasional aunque sea recurrente"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 295 CC establece cinco supuestos para nombrar defensor judicial: 1.º cuando quien haya de prestar apoyo no pueda hacerlo; 2.º cuando exista conflicto de intereses entre la persona con discapacidad y quien haya de prestarle apoyo; 3.º durante la tramitación de la excusa del curador; 4.º cuando se haya promovido la provisión de medidas judiciales; 5.º cuando la persona requiera medidas de apoyo de carácter ocasional, aunque sea recurrente.",
+      "ley": "CC, art. 295"
+    },
+    {
+      "id": "tema_07_test_10_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 300 CC, ¿dónde se inscribirán las resoluciones judiciales y documentos públicos sobre cargos tutelares y medidas de apoyo?",
+      "options": {
+        "a": "En el Registro Civil",
+        "b": "En el Registro de la Propiedad",
+        "c": "En el Registro Mercantil",
+        "d": "En el archivo del juzgado competente"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 300 CC establece que 'Las resoluciones judiciales y los documentos públicos notariales sobre los cargos tutelares y medidas de apoyo a personas con discapacidad habrán de inscribirse en el Registro Civil'. Es el último artículo del tema.",
+      "ley": "CC, art. 300"
+    },
+    {
+      "id": "tema_07_test_10_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 276 CC, ¿cuál es el orden para el nombramiento de curador cuando no existe propuesta de la persona que precisa apoyo?",
+      "options": {
+        "a": "Primero los hijos, luego el cónyuge",
+        "b": "Primero el Ministerio Fiscal y luego los familiares más cercanos",
+        "c": "El orden lo decide libremente el juez sin sujeción a preferencias legales",
+        "d": "1.º El cónyuge o quien se encuentre en situación asimilable conviviente; 2.º el hijo o descendiente que conviva; 3.º el progenitor o ascendiente que conviva; 4.º la persona dispuesta en testamento o documento público por el cónyuge o progenitores; 5.º el guardador de hecho; 6.º el hermano, pariente o allegado que conviva; 7.º una persona jurídica adecuada"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 276 CC establece un orden de preferencia legal cuando no existe propuesta: 1.º el cónyuge o pareja conviviente; 2.º el hijo o descendiente conviviente; 3.º el progenitor o ascendiente conviviente; 4.º la persona dispuesta en testamento o documento público por el cónyuge o progenitores; 5.º el guardador de hecho; 6.º el hermano, pariente o allegado conviviente; 7.º una persona jurídica con los requisitos del art. 275.",
+      "ley": "CC, art. 276"
+    },
+    {
+      "id": "tema_07_test_10_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 285 CC, ¿en qué plazo debe el curador con facultades representativas hacer inventario del patrimonio de la persona en cuyo favor se ha establecido el apoyo?",
+      "options": {
+        "a": "En el plazo de treinta días desde la toma de posesión",
+        "b": "En el plazo de tres meses desde la toma de posesión",
+        "c": "En el plazo de sesenta días desde la toma de posesión del cargo, ante el Letrado de la Administración de Justicia",
+        "d": "En el plazo de seis meses, prorrogables"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 285 CC establece que el curador con facultades representativas 'estará obligado a hacer inventario del patrimonio de la persona en cuyo favor se ha establecido el apoyo dentro del plazo de sesenta días, a contar desde aquel en que hubiese tomado posesión de su cargo'. El inventario se forma ante el Letrado de la Administración de Justicia.",
+      "ley": "CC, art. 285"
+    },
+    {
+      "id": "tema_07_test_10_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 243 CC, ¿se reputa emancipado el hijo mayor de 16 años que vive independientemente con el consentimiento de los progenitores?",
+      "options": {
+        "a": "No, necesita siempre emancipación formal",
+        "b": "Solo si la independencia dura más de un año",
+        "c": "Sí, se reputará para todos los efectos como emancipado, aunque los progenitores pueden revocar este consentimiento",
+        "d": "Solo si tiene trabajo remunerado estable"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 243 CC establece que 'Se reputará para todos los efectos como emancipado al hijo mayor de dieciséis años que, con el consentimiento de los progenitores, viviere independientemente de estos. Los progenitores podrán revocar este consentimiento'. Es la llamada emancipación de hecho o vida independiente.",
+      "ley": "CC, art. 243"
+    },
+    {
+      "id": "tema_07_test_10_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 251 CC, ¿se pueden prohibir las prohibiciones del art. 251 en las medidas voluntarias de apoyo?",
+      "options": {
+        "a": "Sí, en las medidas de apoyo voluntarias las prohibiciones del art. 251 no serán de aplicación cuando el otorgante las haya excluido expresamente en el documento de constitución",
+        "b": "No, las prohibiciones son absolutas e irrenunciables",
+        "c": "Solo pueden excluirse con autorización judicial",
+        "d": "Solo pueden excluirse si el Ministerio Fiscal da su conformidad"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 251 CC, tras enumerar las prohibiciones a quien desempeñe medidas de apoyo, establece que 'En las medidas de apoyo voluntarias estas prohibiciones no resultarán de aplicación cuando el otorgante las haya excluido expresamente en el documento de constitución de dichas medidas'. La autonomía de la voluntad prevalece en las medidas voluntarias.",
+      "ley": "CC, art. 251"
+    },
+    {
+      "id": "tema_07_test_10_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 292 CC, ¿en qué plazo prescribe la acción para exigir la rendición de cuentas al curador?",
+      "options": {
+        "a": "A los tres años desde el cese del curador",
+        "b": "A los cinco años, contados desde la terminación del plazo establecido para efectuarla",
+        "c": "A los diez años desde la aprobación judicial de las cuentas",
+        "d": "Sin plazo; es imprescriptible"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 292 CC establece que 'La acción para exigir la rendición de esta cuenta prescribe a los cinco años, contados desde la terminación del plazo establecido para efectuarla'. El plazo para rendir las cuentas es de tres meses desde el cese, prorrogables.",
+      "ley": "CC, art. 292"
+    },
+    {
+      "id": "tema_07_test_10_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 279 CC, ¿en qué plazo debe alegar la excusa el curador que tenga justa causa para no ejercer el cargo?",
+      "options": {
+        "a": "En el plazo de un mes desde el nombramiento",
+        "b": "Antes de la toma de posesión del cargo sin plazo concreto",
+        "c": "En el plazo de treinta días desde la toma de posesión",
+        "d": "Dentro del plazo de quince días a contar desde que tuviera conocimiento del nombramiento; si la causa es sobrevenida puede hacerlo en cualquier momento"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 279 CC establece que 'El interesado que alegue causa de excusa deberá hacerlo dentro del plazo de quince días a contar desde que tuviera conocimiento del nombramiento. Si la causa fuera sobrevenida podrá hacerlo en cualquier momento'. Mientras se resuelve sobre la excusa, el nombrado está obligado a ejercer su función.",
+      "ley": "CC, art. 279"
+    }
+  ]
+}

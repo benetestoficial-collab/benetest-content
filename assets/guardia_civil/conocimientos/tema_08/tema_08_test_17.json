@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_08_test_17_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 138.1 CP, la pena del delito de homicidio doloso es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Ocho a quince años.",
+        "b": "Diez a quince años.",
+        "c": "Doce a quince años.",
+        "d": "Diez a veinte años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 138.1 CP establece que 'El que matare a otro será castigado, como reo de homicidio, con la pena de prisión de diez a quince años'. El homicidio es el tipo básico de delito contra la vida; el asesinato (art. 139) parte de quince años.",
+      "ley": "CP, art. 138.1"
+    },
+    {
+      "id": "tema_08_test_17_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 163.1 CP, la detención ilegal básica se castiga con prisión de _____ a _____ años.",
+      "options": {
+        "a": "Dos a cuatro años.",
+        "b": "Cinco a ocho años.",
+        "c": "Cuatro a seis años.",
+        "d": "Seis a diez años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 163.1 CP establece la pena básica de la detención ilegal: 'prisión de cuatro a seis años'. La pena sube a cinco a ocho años si la detención supera quince días (art. 163.3), y baja a la inferior en grado si el detenido es liberado en los tres primeros días sin conseguir el objetivo (art. 163.2).",
+      "ley": "CP, art. 163.1"
+    },
+    {
+      "id": "tema_08_test_17_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 149.1 CP, la pena por causar la pérdida de un órgano o miembro principal es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Tres a seis años.",
+        "b": "Cuatro a ocho años.",
+        "c": "Ocho a quince años.",
+        "d": "Seis a doce años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 149.1 CP establece que quien causara a otro 'la pérdida o la inutilidad de un órgano o miembro principal, o de un sentido, la impotencia, la esterilidad, una grave deformidad, o una grave enfermedad somática o psíquica, será castigado con la pena de prisión de seis a 12 años'.",
+      "ley": "CP, art. 149.1"
+    },
+    {
+      "id": "tema_08_test_17_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 404 CP, la pena de la prevaricación administrativa es de inhabilitación especial para empleo o cargo público y para el derecho de sufragio pasivo por tiempo de _____ a _____ años.",
+      "options": {
+        "a": "Seis a doce años.",
+        "b": "Diez a veinte años.",
+        "c": "Cinco a diez años.",
+        "d": "Nueve a quince años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 404 CP establece que la prevaricación administrativa se castiga 'con la pena de inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de nueve a quince años'. No lleva pena de prisión.",
+      "ley": "CP, art. 404"
+    },
+    {
+      "id": "tema_08_test_17_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 473.1 CP, los jefes principales de la rebelión son castigados con prisión de _____ a _____ años e inhabilitación absoluta por el mismo tiempo.",
+      "options": {
+        "a": "Diez a veinte años.",
+        "b": "Doce a veinte años.",
+        "c": "Quince a veinticinco años.",
+        "d": "Veinte a treinta años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 473.1 CP establece que los promotores, sostenedores de la rebelión y jefes principales serán castigados con 'la pena de prisión de quince a veinticinco años e inhabilitación absoluta por el mismo tiempo'. Los mandos subalternos reciben de diez a quince años con inhabilitación absoluta de diez a quince años.",
+      "ley": "CP, art. 473.1"
+    },
+    {
+      "id": "tema_08_test_17_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 178.1 CP, la pena básica de la agresión sexual es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Dos a cuatro años.",
+        "b": "Uno a cuatro años.",
+        "c": "Tres a seis años.",
+        "d": "Seis meses a dos años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 178.1 CP establece que la agresión sexual básica (cualquier acto que atente contra la libertad sexual sin consentimiento) se castiga con 'la pena de prisión de uno a cuatro años'. Con violencia o intimidación la pena sube a uno a cinco años (art. 178.3).",
+      "ley": "CP, art. 178.1"
+    },
+    {
+      "id": "tema_08_test_17_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 179.1 CP, la pena del delito de violación (acceso carnal sin consentimiento) es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Cuatro a doce años.",
+        "b": "Seis a doce años.",
+        "c": "Ocho a quince años.",
+        "d": "Cinco a quince años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 179.1 CP establece que cuando la agresión sexual consiste en acceso carnal (vaginal, anal o bucal) o introducción de objetos, 'el responsable será castigado como reo de violación con la pena de prisión de cuatro a doce años'. Con violencia o intimidación la pena sube a seis a doce años (art. 179.2).",
+      "ley": "CP, art. 179.1"
+    },
+    {
+      "id": "tema_08_test_17_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 432.2 CP, la malversación agravada (perjuicio superior a 50.000 euros, etc.) se castiga con prisión de _____ a _____ años e inhabilitación absoluta de _____ a _____ años.",
+      "options": {
+        "a": "Tres a ocho años e inhabilitación de seis a doce años.",
+        "b": "Seis a doce años e inhabilitación de doce a veinte años.",
+        "c": "Cuatro a ocho años e inhabilitación de diez a veinte años.",
+        "d": "Dos a seis años e inhabilitación de ocho a doce años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 432.2 CP establece para la malversación agravada: 'penas de prisión de cuatro a ocho años e inhabilitación absoluta por tiempo de diez a veinte años'. Las circunstancias que agravan son: daño grave al servicio público, perjuicio superior a 50.000 euros, o bienes de valor artístico, histórico, cultural o científico, o destinados a aliviar calamidades.",
+      "ley": "CP, art. 432.2"
+    },
+    {
+      "id": "tema_08_test_17_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 181.1 CP, los actos de carácter sexual con un menor de _____ años se castigan con prisión de dos a seis años.",
+      "options": {
+        "a": "Dieciséis años.",
+        "b": "Catorce años.",
+        "c": "Dieciocho años.",
+        "d": "Doce años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 181.1 CP establece que 'El que realizare actos de carácter sexual con un menor de 16 años, será castigado con la pena de prisión de dos a seis años'. La edad de consentimiento sexual en España es de 16 años.",
+      "ley": "CP, art. 181.1"
+    },
+    {
+      "id": "tema_08_test_17_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 217 CP, el delito de bigamia se castiga con prisión de _____ a _____ año.",
+      "options": {
+        "a": "Tres meses a seis meses.",
+        "b": "Seis meses a un año.",
+        "c": "Un año a dos años.",
+        "d": "Seis meses a dos años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 217 CP establece que quien 'contrajere segundo o ulterior matrimonio, a sabiendas de que subsiste legalmente el anterior, será castigado con la pena de prisión de seis meses a un año'.",
+      "ley": "CP, art. 217"
+    },
+    {
+      "id": "tema_08_test_17_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 485.1 CP, quien mate al Rey o al Príncipe de Asturias será castigado con _____ .",
+      "options": {
+        "a": "Prisión permanente revisable.",
+        "b": "Prisión de veinte a veinticinco años.",
+        "c": "Prisión de veinticinco a treinta años.",
+        "d": "Prisión de quince a veinte años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 485.1 CP establece que 'El que matare al Rey o a la Reina o al Príncipe o a la Princesa de Asturias será castigado con la pena de prisión permanente revisable'. Matar a otros miembros de la Familia Real (art. 485.2) se castiga con veinte a veinticinco años.",
+      "ley": "CP, art. 485.1"
+    },
+    {
+      "id": "tema_08_test_17_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 420 CP, el cohecho para acto propio del cargo se castiga con prisión de _____ a _____ años, multa de doce a veinticuatro meses e inhabilitación de cinco a nueve años.",
+      "options": {
+        "a": "Dos a cuatro años.",
+        "b": "Uno a tres años.",
+        "c": "Tres a seis años.",
+        "d": "Cuatro a ocho años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 420 CP establece para el cohecho para acto propio del cargo (no contrario a deberes): 'pena de prisión de dos a cuatro años, multa de doce a veinticuatro meses e inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de cinco a nueve años'. Es menos grave que el art. 419.",
+      "ley": "CP, art. 420"
+    },
+    {
+      "id": "tema_08_test_17_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 173.2 CP, el maltrato habitual en el entorno familiar se castiga con prisión de _____ a _____ años.",
+      "options": {
+        "a": "Tres meses a un año.",
+        "b": "Seis meses a dos años.",
+        "c": "Un año a tres años.",
+        "d": "Seis meses a tres años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 173.2 CP establece para el maltrato habitual: 'pena de prisión de seis meses a tres años, privación del derecho a la tenencia y porte de armas de tres a cinco años y, en su caso... inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento por tiempo de uno a cinco años'.",
+      "ley": "CP, art. 173.2"
+    },
+    {
+      "id": "tema_08_test_17_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 174.1 CP, la pena de la tortura grave es de prisión de _____ a _____ años, más inhabilitación absoluta de ocho a doce años.",
+      "options": {
+        "a": "Uno a cuatro años.",
+        "b": "Tres a seis años.",
+        "c": "Dos a seis años.",
+        "d": "Cuatro a ocho años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 174.1 CP establece que 'El culpable de tortura será castigado con la pena de prisión de dos a seis años si el atentado fuera grave, y de prisión de uno a tres años si no lo es. Además de las penas señaladas se impondrá, en todo caso, la pena de inhabilitación absoluta de ocho a 12 años'.",
+      "ley": "CP, art. 174.1"
+    },
+    {
+      "id": "tema_08_test_17_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 607.1.1.º CP, el genocidio con muerte de miembros del grupo se castiga con _____ .",
+      "options": {
+        "a": "Prisión de quince a veinte años.",
+        "b": "Prisión de veinte a veinticinco años.",
+        "c": "Prisión permanente revisable.",
+        "d": "Prisión de veinte a treinta años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 607.1.1.º CP establece que los que con propósito de destruir un grupo 'mataran a alguno de sus miembros' serán castigados 'Con la pena de prisión permanente revisable'. Es la pena máxima del ordenamiento penal español.",
+      "ley": "CP, art. 607.1.1.º"
+    },
+    {
+      "id": "tema_08_test_17_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 616 ter CP, la pena del delito de piratería es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Cinco a diez años.",
+        "b": "Diez a quince años.",
+        "c": "Quince a veinte años.",
+        "d": "Ocho a doce años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 616 ter CP establece que el reo del delito de piratería 'será castigado como reo del delito de piratería con la pena de prisión de diez a quince años'. La pena se impone sin perjuicio de las que correspondan por los demás delitos cometidos.",
+      "ley": "CP, art. 616 ter"
+    },
+    {
+      "id": "tema_08_test_17_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 131.1 CP, los delitos con pena máxima de más de cinco años y no más de diez prescriben a los _____ años.",
+      "options": {
+        "a": "Diez años.",
+        "b": "Cinco años.",
+        "c": "Quince años.",
+        "d": "Veinte años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 131.1 CP establece: 'A los diez, cuando la pena máxima señalada por la ley sea prisión o inhabilitación por más de cinco años y que no exceda de diez'. Los plazos van de uno (injurias y calumnias, y delitos leves) a veinte años (pena máxima de quince o más años).",
+      "ley": "CP, art. 131.1"
+    },
+    {
+      "id": "tema_08_test_17_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 413 CP, el delito de infidelidad en la custodia de documentos se castiga con prisión de _____ a _____ años, multa de siete a veinticuatro meses e inhabilitación de tres a seis años.",
+      "options": {
+        "a": "Seis meses a dos años.",
+        "b": "Tres a seis años.",
+        "c": "Dos a seis años.",
+        "d": "Uno a cuatro años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 413 CP establece que la autoridad o funcionario que sustraiga, destruya, inutilice u oculte documentos cuya custodia le esté encomendada 'incurrirá en las penas de prisión de uno a cuatro años, multa de siete a veinticuatro meses, e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años'.",
+      "ley": "CP, art. 413"
+    },
+    {
+      "id": "tema_08_test_17_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 510.1.a) CP, la pena por fomentar públicamente el odio o la violencia por razón de raza, religión u otras características es de prisión de _____ a _____ años y multa de seis a doce meses.",
+      "options": {
+        "a": "Seis meses a dos años.",
+        "b": "Uno a cuatro años.",
+        "c": "Dos a cuatro años.",
+        "d": "Tres a cinco años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 510.1.a) CP castiga a quienes públicamente fomenten el odio, hostilidad, discriminación o violencia contra grupos o personas por razón de sus características con 'una pena de prisión de uno a cuatro años y multa de seis a doce meses'. Las penas se agravan en su mitad superior cuando se cometen a través de internet.",
+      "ley": "CP, art. 510.1.a)"
+    },
+    {
+      "id": "tema_08_test_17_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 607 bis.2.1.º CP, el crimen de lesa humanidad que causa la muerte de alguna persona se castiga con _____ .",
+      "options": {
+        "a": "Prisión de veinte a veinticinco años.",
+        "b": "Prisión de veinticinco a treinta años.",
+        "c": "Prisión de quince a veinte años.",
+        "d": "Prisión permanente revisable."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 607 bis.2.1.º CP establece que los reos de delitos de lesa humanidad serán castigados 'Con la pena de prisión permanente revisable si causaran la muerte de alguna persona'. Al igual que en el genocidio con muerte (art. 607.1.1.º), la pena máxima del ordenamiento español es la prisión permanente revisable.",
+      "ley": "CP, art. 607 bis.2.1.º"
+    }
+  ]
+}

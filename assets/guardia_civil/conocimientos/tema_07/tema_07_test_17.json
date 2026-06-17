@@ -1,0 +1,307 @@
+{
+  "tema_numero": 7,
+  "tema": "Derecho Civil",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_07_test_17_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 249 CC, ¿deben las personas que prestan apoyo actuar conforme a la voluntad de la persona con discapacidad?",
+      "options": {
+        "a": "No, deben actuar en el interés objetivo de la persona",
+        "b": "Sí, deberán actuar atendiendo a la voluntad, deseos y preferencias de quien lo requiera, y fomentarán que pueda ejercer su capacidad con menos apoyo en el futuro",
+        "c": "Solo cuando la persona pueda expresar claramente su voluntad",
+        "d": "Solo si el juez así lo ha establecido en la resolución"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 249 CC establece que 'Las personas que presten apoyo deberán actuar atendiendo a la voluntad, deseos y preferencias de quien lo requiera. Igualmente procurarán que la persona con discapacidad pueda desarrollar su propio proceso de toma de decisiones, informándola, ayudándola en su comprensión y razonamiento y facilitando que pueda expresar sus preferencias. Asimismo, fomentarán que la persona con discapacidad pueda ejercer su capacidad jurídica con menos apoyo en el futuro'.",
+      "ley": "CC, art. 249"
+    },
+    {
+      "id": "tema_07_test_17_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 250 CC, ¿cuál es la diferencia entre la curatela y el defensor judicial como medidas de apoyo?",
+      "options": {
+        "a": "La curatela es para menores y el defensor judicial para adultos",
+        "b": "El defensor judicial tiene más facultades que el curador",
+        "c": "La curatela se aplica a quienes precisen apoyo de modo continuado; el defensor judicial cuando la necesidad de apoyo se precise de forma ocasional, aunque sea recurrente",
+        "d": "Solo hay diferencia en el nombramiento, no en las funciones"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 250 CC establece que 'La curatela es una medida formal de apoyo que se aplicará a quienes precisen el apoyo de modo continuado' y que 'El nombramiento de defensor judicial como medida formal de apoyo procederá cuando la necesidad de apoyo se precise de forma ocasional, aunque sea recurrente'.",
+      "ley": "CC, art. 250"
+    },
+    {
+      "id": "tema_07_test_17_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 253 CC, ¿qué ocurre en situaciones de apoyo urgente cuando la persona carece de guardador de hecho?",
+      "options": {
+        "a": "El juez nombra un curador de urgencia",
+        "b": "La familia más cercana asume automáticamente la función",
+        "c": "El Ministerio Fiscal asume directamente el apoyo",
+        "d": "El apoyo se prestará de modo provisional por la entidad pública que en el respectivo territorio tenga encomendada esta función, que dará conocimiento de la situación al Ministerio Fiscal en el plazo de veinticuatro horas"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 253 CC establece que 'Cuando una persona se encuentre en una situación que exija apoyo para el ejercicio de su capacidad jurídica de modo urgente y carezca de un guardador de hecho, el apoyo se prestará de modo provisional por la entidad pública que en el respectivo territorio tenga encomendada esta función. La entidad dará conocimiento de la situación al Ministerio Fiscal en el plazo de veinticuatro horas'.",
+      "ley": "CC, art. 253"
+    },
+    {
+      "id": "tema_07_test_17_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 256 CC, ¿puede incluirse en un poder ordinario una cláusula para que subsista si el poderdante precisa en el futuro apoyo en el ejercicio de su capacidad?",
+      "options": {
+        "a": "No, los poderes preventivos deben ser exclusivos para ese fin",
+        "b": "Solo si la discapacidad ya existe en el momento del otorgamiento",
+        "c": "Solo si el poder está aprobado judicialmente",
+        "d": "Sí, el poderdante podrá incluir una cláusula que estipule que el poder subsista si en el futuro precisa apoyo en el ejercicio de su capacidad (poder preventivo por subsistencia)"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 256 CC establece que 'El poderdante podrá incluir una cláusula que estipule que el poder subsista si en el futuro precisa apoyo en el ejercicio de su capacidad'. Es el denominado poder preventivo de subsistencia, que transforma un poder ordinario en preventivo.",
+      "ley": "CC, art. 256"
+    },
+    {
+      "id": "tema_07_test_17_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 258 CC, ¿qué ocurre con el poder preventivo cuando el poderdante está casado y cesa la convivencia conyugal?",
+      "options": {
+        "a": "El poder sigue vigente en todo caso",
+        "b": "El poder se suspende temporalmente mientras dure el proceso de separación",
+        "c": "Cuando se hubieren otorgado a favor del cónyuge o de la pareja de hecho del poderdante, el cese de la convivencia producirá su extinción automática, salvo que medie voluntad contraria del otorgante o que el cese venga determinado por el internamiento de este",
+        "d": "El juez decide si el poder continúa o no vigente"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 258 CC establece que cuando los poderes preventivos se hubieren otorgado a favor del cónyuge o pareja de hecho, 'el cese de la convivencia producirá su extinción automática, salvo que medie voluntad contraria del otorgante o que el cese venga determinado por el internamiento de este'.",
+      "ley": "CC, art. 258"
+    },
+    {
+      "id": "tema_07_test_17_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 263 CC, ¿puede el guardador de hecho continuar sus funciones aunque existan medidas de apoyo voluntarias o judiciales ya establecidas?",
+      "options": {
+        "a": "No, las medidas formales siempre desplazan a la guarda de hecho",
+        "b": "Sí, quien viniere ejerciendo adecuadamente la guarda de hecho continuará en el desempeño de su función incluso si existen medidas de apoyo de naturaleza voluntaria o judicial, siempre que estas no se estén aplicando eficazmente",
+        "c": "Solo si la persona con discapacidad lo solicita expresamente",
+        "d": "Solo si el juez lo autoriza expresamente"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 263 CC establece que 'Quien viniere ejerciendo adecuadamente la guarda de hecho de una persona con discapacidad continuará en el desempeño de su función incluso si existen medidas de apoyo de naturaleza voluntaria o judicial, siempre que estas no se estén aplicando eficazmente'.",
+      "ley": "CC, art. 263"
+    },
+    {
+      "id": "tema_07_test_17_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 266 CC, ¿tiene el guardador de hecho derecho al reembolso de los gastos?",
+      "options": {
+        "a": "Sí, el guardador tiene derecho al reembolso de los gastos justificados y a la indemnización por los daños derivados de la guarda, a cargo de los bienes de la persona a la que presta apoyo",
+        "b": "No, la guarda de hecho es siempre gratuita y sin indemnización",
+        "c": "Solo si el juez lo autoriza en resolución motivada",
+        "d": "Solo si la guarda dura más de un año"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 266 CC establece que 'El guardador tiene derecho al reembolso de los gastos justificados y a la indemnización por los daños derivados de la guarda, a cargo de los bienes de la persona a la que presta apoyo'.",
+      "ley": "CC, art. 266"
+    },
+    {
+      "id": "tema_07_test_17_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 269 CC, ¿puede la resolución judicial de constitución de curatela incluir la mera privación de derechos?",
+      "options": {
+        "a": "Sí, el juez puede establecer la privación de cualquier derecho si protege al discapacitado",
+        "b": "Solo puede privar del derecho de voto con informe médico",
+        "c": "No, en ningún caso podrá incluir la resolución judicial la mera privación de derechos",
+        "d": "Puede privar de derechos patrimoniales si hay riesgo para el patrimonio"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 269 CC establece expresamente que 'En ningún caso podrá incluir la resolución judicial la mera privación de derechos'. La curatela se configura como medida de apoyo, no de privación de capacidad.",
+      "ley": "CC, art. 269"
+    },
+    {
+      "id": "tema_07_test_17_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 271 CC, ¿puede cualquier persona mayor de edad proponer quién será su curador en el futuro?",
+      "options": {
+        "a": "Sí, cualquier persona mayor de edad o menor emancipada, en previsión de que pueda precisar curatela, podrá proponer en escritura pública el nombramiento o la exclusión de una o varias personas determinadas para el ejercicio de la función de curador (autocuratela)",
+        "b": "No, el curador siempre lo nombra el juez sin propuestas previas",
+        "c": "Solo los mayores de 65 años pueden hacer esa previsión",
+        "d": "Solo cuando ya existe un diagnóstico de enfermedad degenerativa"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 271 CC establece que 'Cualquier persona mayor de edad o menor emancipada, en previsión de la concurrencia de circunstancias que puedan dificultarle el ejercicio de su capacidad jurídica en igualdad de condiciones con las demás, podrá proponer en escritura pública el nombramiento o la exclusión de una o varias personas determinadas para el ejercicio de la función de curador'. Es la autocuratela.",
+      "ley": "CC, art. 271"
+    },
+    {
+      "id": "tema_07_test_17_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 272 CC, ¿vincula al juez la propuesta de curador hecha por la propia persona en autocuratela?",
+      "options": {
+        "a": "No, el juez siempre decide libremente",
+        "b": "Sí, vinculará a la autoridad judicial al constituir la curatela, salvo que puedan prescindirse de esas disposiciones por circunstancias graves desconocidas por el disponente o por alteración de las causas expresadas, mediante resolución motivada",
+        "c": "Solo la vincula si está firmada por testigos",
+        "d": "Solo vincula si el Ministerio Fiscal da su conformidad"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 272 CC establece que 'La propuesta de nombramiento y demás disposiciones voluntarias a que se refiere el artículo anterior vincularán a la autoridad judicial al constituir la curatela'. Sin embargo, puede prescindirse de ellas por circunstancias graves desconocidas por el disponente o por alteración de las causas, mediante resolución motivada.",
+      "ley": "CC, art. 272"
+    },
+    {
+      "id": "tema_07_test_17_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 278 CC, ¿pueden ser removidos los curadores?",
+      "options": {
+        "a": "Sí, serán removidos los que después del nombramiento incurran en causa legal de inhabilidad, se conduzcan mal en su desempeño, tengan notoria ineptitud o surjan problemas graves y continuados de convivencia con la persona a la que prestan apoyo",
+        "b": "No, el nombramiento de curador es definitivo",
+        "c": "Solo a petición de la persona con discapacidad",
+        "d": "Solo a petición del Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 278 CC establece que 'Serán removidos de la curatela los que, después del nombramiento, incurran en una causa legal de inhabilidad, o se conduzcan mal en su desempeño por incumplimiento de los deberes propios del cargo, por notoria ineptitud de su ejercicio o cuando, en su caso, surgieran problemas de convivencia graves y continuados con la persona a la que prestan apoyo'.",
+      "ley": "CC, art. 278"
+    },
+    {
+      "id": "tema_07_test_17_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 282 CC, ¿dónde toma posesión el curador de su cargo?",
+      "options": {
+        "a": "Ante el Letrado de la Administración de Justicia",
+        "b": "Ante el juez que le nombró",
+        "c": "Ante notario público",
+        "d": "Ante el Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 282 CC establece que 'El curador tomará posesión de su cargo ante el Letrado de la Administración de Justicia'. Una vez en el ejercicio de la curatela, estará obligado a mantener contacto personal con la persona a la que va a prestar apoyo.",
+      "ley": "CC, art. 282"
+    },
+    {
+      "id": "tema_07_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 289 CC, ¿necesita autorización judicial la partición de herencia realizada por el curador representativo?",
+      "options": {
+        "a": "Sí, siempre necesita autorización previa",
+        "b": "Solo necesita aprobación si el valor supera 30.000 euros",
+        "c": "No necesita ni autorización ni aprobación judicial",
+        "d": "No necesita autorización judicial previa, pero una vez practicada requerirá aprobación judicial"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 289 CC establece que 'No necesitarán autorización judicial la partición de herencia o la división de cosa común realizada por el curador representativo, pero una vez practicadas requerirán aprobación judicial'. Se facilita la partición pero se controla a posteriori.",
+      "ley": "CC, art. 289"
+    },
+    {
+      "id": "tema_07_test_17_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 291 CC, ¿se extingue automáticamente la curatela por la muerte de la persona con medidas de apoyo?",
+      "options": {
+        "a": "No, la curatela subsiste hasta la aprobación de las cuentas",
+        "b": "Solo cuando se inscriba la defunción en el Registro Civil",
+        "c": "Sí, la curatela se extingue de pleno derecho por la muerte o declaración de fallecimiento de la persona con medidas de apoyo",
+        "d": "La extinción requiere resolución judicial específica"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 291 CC establece que 'La curatela se extingue de pleno derecho por la muerte o declaración de fallecimiento de la persona con medidas de apoyo'. También se extingue por resolución judicial cuando ya no sea precisa o cuando se adopte forma de apoyo más adecuada.",
+      "ley": "CC, art. 291"
+    },
+    {
+      "id": "tema_07_test_17_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 294 CC, ¿en qué plazo prescribe la acción de responsabilidad contra el curador por daños causados con culpa o negligencia?",
+      "options": {
+        "a": "A los cinco años desde el cese del curador",
+        "b": "A los dos años desde que la persona con discapacidad tuvo conocimiento del daño",
+        "c": "A los tres años contados desde la rendición final de cuentas",
+        "d": "Es imprescriptible"
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 294 CC establece que 'El curador responderá de los daños que hubiese causado por su culpa o negligencia a la persona a la que preste apoyo. La acción para reclamar esta responsabilidad prescribe a los tres años contados desde la rendición final de cuentas'.",
+      "ley": "CC, art. 294"
+    },
+    {
+      "id": "tema_07_test_17_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 250 CC, ¿puede ejercer medidas de apoyo quien presta servicios asistenciales o residenciales a la persona con discapacidad?",
+      "options": {
+        "a": "Sí, siempre que cuente con habilitación profesional",
+        "b": "No, no podrán ejercer ninguna de las medidas de apoyo quienes, en virtud de una relación contractual, presten servicios asistenciales, residenciales o de naturaleza análoga a la persona que precisa el apoyo",
+        "c": "Solo los centros públicos tienen esta prohibición",
+        "d": "Solo está prohibido si no existe supervisión judicial"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 250 CC establece que 'No podrán ejercer ninguna de las medidas de apoyo quienes, en virtud de una relación contractual, presten servicios asistenciales, residenciales o de naturaleza análoga a la persona que precisa el apoyo'. Esta prohibición evita conflictos de interés entre prestadores de servicios y personas apoyadas.",
+      "ley": "CC, art. 250"
+    },
+    {
+      "id": "tema_07_test_17_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 267 CC, ¿cuándo se extingue la guarda de hecho de las personas con discapacidad?",
+      "options": {
+        "a": "Cuando la persona apoyada solicite que el apoyo se organice de otro modo; cuando desaparezcan las causas que la motivaron; cuando el guardador desista de su actuación (comunicándolo previamente a la entidad pública); o cuando la autoridad judicial lo considere conveniente",
+        "b": "Solo cuando el juez lo ordena",
+        "c": "Automáticamente tras dos años de ejercicio",
+        "d": "Cuando la persona con discapacidad recupera su capacidad jurídica plena"
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 267 CC establece que la guarda de hecho se extingue: '1.º Cuando la persona a quien se preste apoyo solicite que este se organice de otro modo. 2.º Cuando desaparezcan las causas que la motivaron. 3.º Cuando el guardador desista de su actuación, en cuyo caso deberá ponerlo previamente en conocimiento de la entidad pública. 4.º Cuando, a solicitud del Ministerio Fiscal o de quien se interese por ejercer el apoyo de la persona bajo guarda, la autoridad judicial lo considere conveniente'.",
+      "ley": "CC, art. 267"
+    },
+    {
+      "id": "tema_07_test_17_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 7. Derecho Civil. Según el art. 286 CC, ¿qué consecuencia tiene para el curador no incluir en el inventario los créditos que tenga contra la persona a la que presta apoyo?",
+      "options": {
+        "a": "Debe incluirlos en el plazo de un mes",
+        "b": "Se suspende su función hasta que los declare",
+        "c": "El juez puede sancionarle con multa",
+        "d": "Se entenderá que renuncia a ellos"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 286 CC establece que 'En el caso de que el curador no incluya en el inventario los créditos que tenga contra la persona a la que presta apoyo, se entenderá que renuncia a ellos'. Es una sanción que protege a la persona con discapacidad.",
+      "ley": "CC, art. 286"
+    },
+    {
+      "id": "tema_07_test_17_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 7. Derecho Civil. Según el art. 281 CC, ¿tiene derecho a retribución el curador?",
+      "options": {
+        "a": "No, el cargo de curador es siempre gratuito",
+        "b": "Sí, el curador tiene derecho a una retribución, siempre que el patrimonio de la persona con discapacidad lo permita, así como al reembolso de los gastos justificados y a la indemnización de los daños sufridos sin culpa en el ejercicio de su función",
+        "c": "Solo los curadores profesionales tienen derecho a retribución",
+        "d": "Solo si los progenitores lo establecieron en la autocuratela"
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 281 CC establece que 'El curador tiene derecho a una retribución, siempre que el patrimonio de la persona con discapacidad lo permita, así como al reembolso de los gastos justificados y a la indemnización de los daños sufridos sin culpa por su parte en el ejercicio de su función, cantidades que serán satisfechas con cargo a dicho patrimonio'.",
+      "ley": "CC, art. 281"
+    },
+    {
+      "id": "tema_07_test_17_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 7. Derecho Civil. Según el art. 296 CC, ¿se nombrará defensor judicial si el apoyo a la persona con discapacidad se ha encomendado a más de una persona?",
+      "options": {
+        "a": "Sí, siempre que haya conflicto de intereses entre ellas",
+        "b": "Solo si la persona con discapacidad lo solicita expresamente",
+        "c": "Sí, cuando dos de ellas discrepan sobre la decisión a tomar",
+        "d": "No se nombrará defensor judicial si el apoyo se ha encomendado a más de una persona, salvo que ninguna pueda actuar o la autoridad judicial motivadamente considere necesario el nombramiento"
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 296 CC establece que 'No se nombrará defensor judicial si el apoyo se ha encomendado a más de una persona, salvo que ninguna pueda actuar o la autoridad judicial motivadamente considere necesario el nombramiento'.",
+      "ley": "CC, art. 296"
+    }
+  ]
+}
