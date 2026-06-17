@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_08_test_19_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el principio de legalidad penal del art. 1 CP NO es correcta.",
+      "options": {
+        "a": "No puede castigarse ninguna acción ni omisión que no esté prevista como delito por ley anterior a su perpetración.",
+        "b": "Las medidas de seguridad solo pueden aplicarse cuando concurran los presupuestos establecidos previamente por la Ley.",
+        "c": "La analogía está prohibida para crear nuevas figuras delictivas o agravar las existentes.",
+        "d": "La jurisprudencia reiterada del Tribunal Supremo puede crear nuevos tipos penales por analogía si existe identidad de razón."
+      },
+      "correct": "d",
+      "explicacion": "La jurisprudencia NO puede crear nuevos tipos penales. El art. 4.1 CP establece que 'Las leyes penales no se aplicarán a casos distintos de los comprendidos expresamente en ellas'. La analogía está prohibida en Derecho Penal; solo la ley puede crear delitos (principio de legalidad). Las opciones , y son afirmaciones correctas.",
+      "ley": "CP, arts. 1 y 4"
+    },
+    {
+      "id": "tema_08_test_19_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes supuestos de EXENCIÓN de la responsabilidad criminal NO figura en el art. 20 CP.",
+      "options": {
+        "a": "Actuar bajo la influencia del alcohol con conciencia de los hechos.",
+        "b": "Obrar impulsado por miedo insuperable.",
+        "c": "Obrar en cumplimiento de un deber o en el ejercicio legítimo de un derecho, oficio o cargo.",
+        "d": "Padecer alteraciones en la percepción desde el nacimiento o desde la infancia que tengan gravemente alterada la conciencia de la realidad."
+      },
+      "correct": "a",
+      "explicacion": "Actuar bajo la influencia del alcohol con conciencia de los hechos NO es eximente, ni siquiera atenuante necesariamente (solo lo es si es grave adicción del art. 21.2.ª). La embriaguez voluntaria con conciencia puede incluso constituir la circunstancia de actio libera in causa. Las opciones , y son eximentes del art. 20 CP.",
+      "ley": "CP, art. 20"
+    },
+    {
+      "id": "tema_08_test_19_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de cohecho del art. 422 CP (cohecho impropio) NO es correcta.",
+      "options": {
+        "a": "Se castiga al funcionario que admite dádiva ofrecida en consideración a su cargo.",
+        "b": "No se exige que el funcionario realice ningún acto concreto a cambio de la dádiva.",
+        "c": "La pena es de prisión de seis meses a un año y suspensión de empleo y cargo público de uno a tres años.",
+        "d": "El art. 422 también castiga al particular que ofrece la dádiva con la misma pena que al funcionario."
+      },
+      "correct": "d",
+      "explicacion": "El art. 422 CP solo castiga al funcionario que admite la dádiva. El artículo no tipifica expresamente al particular que ofrece en el supuesto de cohecho impropio del art. 422 (sí en el art. 424 para los otros supuestos). La pena del art. 422 es solo para el funcionario. 422 CP.",
+      "ley": "CP, art. 422"
+    },
+    {
+      "id": "tema_08_test_19_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes NO es un presupuesto para la aplicación de medidas de seguridad según el art. 95 CP.",
+      "options": {
+        "a": "Que el sujeto haya cometido un hecho previsto como delito.",
+        "b": "Que pueda deducirse un pronóstico de peligrosidad futura.",
+        "c": "Que el sujeto haya sido declarado culpable en sentencia condenatoria.",
+        "d": "Que el tribunal haya recabado los informes que estime convenientes."
+      },
+      "correct": "c",
+      "explicacion": "El art. 95 CP establece exactamente dos presupuestos para aplicar medidas de seguridad: que el sujeto haya cometido un hecho previsto como delito, y que del hecho y las circunstancias personales pueda deducirse un pronóstico de peligrosidad futura. No se exige declaración de culpabilidad; de hecho, las medidas de seguridad se aplican precisamente a quienes han sido absueltos por inimputabilidad. Exigir sentencia condenatoria sería incompatible con la naturaleza y finalidad de las medidas de seguridad.",
+      "ley": "CP, art. 95.1"
+    },
+    {
+      "id": "tema_08_test_19_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre los efectos de la inhabilitación especial para empleo o cargo público del art. 42 CP NO es correcta.",
+      "options": {
+        "a": "Produce la pérdida de TODOS los cargos públicos del penado, aunque no estén relacionados con el delito.",
+        "b": "Produce la incapacidad para obtener el mismo u otros análogos durante el tiempo de la condena.",
+        "c": "En la sentencia deben especificarse los empleos, cargos y honores sobre los que recae.",
+        "d": "Produce la privación definitiva del empleo o cargo sobre el que recayere."
+      },
+      "correct": "a",
+      "explicacion": "El art. 42 CP establece que la inhabilitación especial 'produce la privación definitiva del empleo o cargo SOBRE EL QUE RECAYERE, aunque sea electivo'. Solo afecta al cargo específico (y análogos); no priva de TODOS los cargos del penado. Eso es propio de la inhabilitación ABSOLUTA (art. 41 CP). 42.",
+      "ley": "CP, art. 42"
+    },
+    {
+      "id": "tema_08_test_19_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes NO es un requisito de los modelos de organización y gestión (compliance) del art. 31 bis.5 CP para eximir de responsabilidad a la persona jurídica.",
+      "options": {
+        "a": "Requerirán que todos los empleados sean titulados en compliance.",
+        "b": "Establecerán los protocolos o procedimientos de toma de decisiones.",
+        "c": "Impondrán la obligación de informar de posibles riesgos e incumplimientos.",
+        "d": "Identificarán las actividades en cuyo ámbito puedan ser cometidos los delitos que deben ser prevenidos."
+      },
+      "correct": "a",
+      "explicacion": "El art. 31 bis.5 CP establece seis requisitos de los modelos de organización: identificar actividades de riesgo; establecer protocolos de toma de decisiones; disponer de gestión de recursos financieros adecuada; imponer obligación de informar de riesgos; establecer sistema disciplinario; y verificar periódicamente el modelo. No exige que los empleados sean titulados en compliance. 31 bis.5.",
+      "ley": "CP, art. 31 bis.5"
+    },
+    {
+      "id": "tema_08_test_19_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la apología del art. 18 CP NO es correcta.",
+      "options": {
+        "a": "La apología consiste en la exposición de ideas o doctrinas que ensalcen el crimen o enaltezcan a su autor.",
+        "b": "La apología es siempre delictiva por sí misma, con independencia de si constituye provocación.",
+        "c": "La apología solo será delictiva como forma de provocación y si constituye una incitación directa a cometer un delito.",
+        "d": "La apología debe realizarse ante una concurrencia de personas o por cualquier medio de difusión."
+      },
+      "correct": "b",
+      "explicacion": "El art. 18.1 CP establece expresamente que 'La apología solo será delictiva como forma de provocación y si por su naturaleza y circunstancias constituye una incitación directa a cometer un delito'. La apología NO es siempre delictiva por sí misma. 18.1 CP.",
+      "ley": "CP, art. 18.1"
+    },
+    {
+      "id": "tema_08_test_19_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes penas NO corresponde al delito de malversación del art. 432.1 CP.",
+      "options": {
+        "a": "Prisión de dos a seis años.",
+        "b": "Inhabilitación absoluta de diez a veinte años.",
+        "c": "Inhabilitación para el ejercicio del derecho de sufragio pasivo de seis a diez años.",
+        "d": "Inhabilitación especial para cargo o empleo público de seis a diez años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 432.1 CP establece para la malversación básica: 'prisión de 2 a 6 años, inhabilitación especial para cargo o empleo público y para el ejercicio del derecho de sufragio pasivo por tiempo de 6 a 10 años'. La inhabilitación ABSOLUTA de diez a veinte años corresponde al tipo agravado del art. 432.2 CP. 432.1.",
+      "ley": "CP, art. 432.1"
+    },
+    {
+      "id": "tema_08_test_19_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre los efectos del perdón del ofendido en los delitos contra la libertad sexual del art. 191.2 CP NO es correcta.",
+      "options": {
+        "a": "El perdón del ofendido no extingue la acción penal.",
+        "b": "El perdón del ofendido mayor de edad sí extingue la acción penal en los delitos sexuales.",
+        "c": "Esta regla se aplica incluso cuando el ofendido es mayor de edad.",
+        "d": "El perdón del ofendido no extingue la responsabilidad de esa clase."
+      },
+      "correct": "b",
+      "explicacion": "El art. 191.2 CP establece sin excepciones que 'En estos delitos el perdón del ofendido o del representante legal no extingue la acción penal ni la responsabilidad de esa clase'. No distingue entre víctimas mayores o menores de edad. El perdón NUNCA extingue la acción penal en estos delitos.",
+      "ley": "CP, art. 191.2"
+    },
+    {
+      "id": "tema_08_test_19_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes NO es un delito tipificado en el art. 472 CP como fin de la rebelión.",
+      "options": {
+        "a": "Destituir o despojar de sus prerrogativas al Rey.",
+        "b": "Declarar la independencia de una parte del territorio nacional.",
+        "c": "Impedir la libre celebración de elecciones para cargos públicos.",
+        "d": "Disolver el Tribunal Constitucional."
+      },
+      "correct": "d",
+      "explicacion": "El art. 472 CP tipifica como fines de la rebelión: derogar la Constitución, deponer a la Corona, impedir elecciones, disolver las Cortes/Congreso/Senado/Asambleas Legislativas, declarar la independencia de parte del territorio, sustituir al Gobierno o sus miembros, y sustraer fuerzas armadas a la obediencia del Gobierno. Disolver el Tribunal Constitucional no figura expresamente entre los fines del art. 472.",
+      "ley": "CP, art. 472"
+    },
+    {
+      "id": "tema_08_test_19_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la exención por cumplimiento de un deber del art. 20.7.º CP NO es correcta.",
+      "options": {
+        "a": "Opera cuando el sujeto actúa en el ejercicio legítimo de un derecho, oficio o cargo.",
+        "b": "El ejercicio del deber debe ser legítimo; un deber ejercido ilegítimamente no exime.",
+        "c": "El art. 616 bis CP establece que esta eximente nunca puede aplicarse a quienes participen en genocidio o lesa humanidad.",
+        "d": "La obediencia debida está incluida sin restricciones como modalidad de esta eximente."
+      },
+      "correct": "d",
+      "explicacion": "La obediencia debida NO está incluida sin restricciones. El art. 410.2 CP establece que los funcionarios no incurren en responsabilidad cuando el mandato supone 'infracción manifiesta, clara y terminante de un precepto de Ley'. Además, el art. 616 bis excluye expresamente la eximente del art. 20.7.º en el genocidio y los crímenes de lesa humanidad.",
+      "ley": "CP, art. 20.7.º y 616 bis"
+    },
+    {
+      "id": "tema_08_test_19_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el art. 7 CP (tiempo de comisión del delito) NO es correcta.",
+      "options": {
+        "a": "Los delitos se consideran cometidos en el momento en que el sujeto ejecuta la acción.",
+        "b": "En los delitos de omisión, se atiende al momento en que el sujeto omite el acto que estaba obligado a realizar.",
+        "c": "En los delitos de resultado, el tiempo de comisión es el momento en que se produce el resultado lesivo.",
+        "d": "El momento de la acción determina la ley penal aplicable en el tiempo."
+      },
+      "correct": "c",
+      "explicacion": "El art. 7 CP adopta la teoría de la acción: 'los delitos se consideran cometidos en el momento en que el sujeto ejecuta la acción u omite el acto que estaba obligado a realizar', NO en el momento del resultado. Esto es relevante en los delitos a distancia y de resultado tardío: se aplica la ley vigente en el momento de la acción, no del resultado.",
+      "ley": "CP, art. 7"
+    },
+    {
+      "id": "tema_08_test_19_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el art. 130.2 CP (extinción de la responsabilidad de personas jurídicas) NO es correcta.",
+      "options": {
+        "a": "La transformación, fusión o absorción de una persona jurídica traslada la responsabilidad a la entidad resultante.",
+        "b": "La disolución encubierta no extingue la responsabilidad penal.",
+        "c": "La disolución voluntaria de una persona jurídica ante notario siempre extingue su responsabilidad penal.",
+        "d": "Se considerará disolución encubierta cuando se continúe la actividad económica manteniendo la identidad sustancial de clientes, proveedores y empleados."
+      },
+      "correct": "c",
+      "explicacion": "El art. 130.2 CP establece que 'No extingue la responsabilidad penal la disolución encubierta o meramente aparente de la persona jurídica'. Una disolución voluntaria ante notario que sea meramente aparente tampoco extingue la responsabilidad. La forma de la disolución no importa; lo que importa es si es real o encubierta. 130.2.",
+      "ley": "CP, art. 130.2"
+    },
+    {
+      "id": "tema_08_test_19_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la responsabilidad personal subsidiaria por impago de multa del art. 53 CP NO es correcta.",
+      "options": {
+        "a": "Consiste en un día de privación de libertad por cada dos cuotas diarias no satisfechas.",
+        "b": "En delitos leves puede cumplirse mediante localización permanente.",
+        "c": "Puede cumplirse mediante trabajos en beneficio de la comunidad previa conformidad del penado.",
+        "d": "Esta responsabilidad subsidiaria se impone obligatoriamente a todos los condenados a pena privativa de libertad superior a cinco años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 53.3 CP establece exactamente lo contrario: 'Esta responsabilidad subsidiaria NO se impondrá a los condenados a pena privativa de libertad superior a cinco años'. Es una exclusión, no una imposición obligatoria para ese grupo. Las opciones , y son correctas.",
+      "ley": "CP, art. 53.3"
+    },
+    {
+      "id": "tema_08_test_19_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el art. 136.3 CP (cancelación de antecedentes de personas jurídicas) NO es correcta.",
+      "options": {
+        "a": "Los 50 años se aplican a todos los antecedentes penales de personas jurídicas sin distinción.",
+        "b": "En el caso de prohibición definitiva de actividades, los antecedentes se cancelan a los 50 años.",
+        "c": "Para penas ordinarias de personas jurídicas (distintas de disolución y prohibición definitiva), los plazos son los mismos que los del apartado 1 del art. 136.",
+        "d": "En el caso de disolución definitiva, los antecedentes se cancelan a los 50 años de la firmeza de la sentencia."
+      },
+      "correct": "a",
+      "explicacion": "El art. 136.3 CP establece que el plazo de 50 años se aplica SOLO cuando 'se hubiese acordado la disolución o la prohibición definitiva de actividades'. Para los demás casos, se aplican 'el plazo que corresponda, de acuerdo con la regla prevista en el apartado 1 de este artículo'. El plazo de 50 años NO es universal para todas las personas jurídicas.",
+      "ley": "CP, art. 136.3"
+    },
+    {
+      "id": "tema_08_test_19_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes conductas NO está tipificada en el art. 177 bis.1 CP como medio comisivo de la trata de seres humanos.",
+      "options": {
+        "a": "La violencia.",
+        "b": "La intimidación.",
+        "c": "La simple promesa de empleo.",
+        "d": "El abuso de una situación de superioridad o de necesidad o de vulnerabilidad de la víctima."
+      },
+      "correct": "c",
+      "explicacion": "La 'simple promesa de empleo' sin engaño o abuso no figura como medio comisivo en el art. 177 bis.1 CP. Los medios son: violencia, intimidación o engaño, abuso de situación de superioridad o de necesidad o de vulnerabilidad, y entrega o recepción de pagos o beneficios para lograr el consentimiento de quien tenga el control sobre la víctima. Una promesa de empleo sin engaño no encaja en ninguno de estos supuestos.",
+      "ley": "CP, art. 177 bis.1"
+    },
+    {
+      "id": "tema_08_test_19_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el art. 485.3 CP (tentativa de delitos contra la Corona) NO es correcta.",
+      "options": {
+        "a": "La reducción de la pena en tentativa es obligatoria en los delitos del art. 485.",
+        "b": "En el caso de tentativa de los delitos del art. 485 podrá imponerse la pena inferior en un grado.",
+        "c": "El uso del término 'podrá' implica que la reducción es facultativa para el juez.",
+        "d": "En la tentativa de matar al Rey, podría imponerse la pena inferior en un grado a la prisión permanente revisable."
+      },
+      "correct": "a",
+      "explicacion": "El art. 485.3 CP establece que 'En el caso de tentativa de estos delitos PODRÁ imponerse la pena inferior en un grado'. El uso de 'podrá' indica que es FACULTATIVA para el tribunal, no obligatoria. Afirmar que es obligatoria es incorrecto.",
+      "ley": "CP, art. 485.3"
+    },
+    {
+      "id": "tema_08_test_19_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes grupos NO está protegido expresamente por el tipo de incitación al odio del art. 510.1.a) CP.",
+      "options": {
+        "a": "Grupos identificados por razón de orientación sexual.",
+        "b": "Grupos identificados por aporofobia (fobia a los pobres).",
+        "c": "Grupos identificados por su nivel de renta elevada.",
+        "d": "Grupos identificados por discapacidad."
+      },
+      "correct": "c",
+      "explicacion": "El art. 510.1.a) CP protege a grupos identificados por razón de ideología, religión o creencias, situación familiar, pertenencia a una etnia, raza o nación, origen nacional, sexo, orientación o identidad sexual, razones de género, aporofobia, enfermedad o discapacidad. Los grupos identificados por su nivel de renta elevada no están recogidos en este precepto. La aporofobia protege a quienes tienen escasos recursos, no a los grupos económicamente privilegiados.",
+      "ley": "CP, art. 510.1.a)"
+    },
+    {
+      "id": "tema_08_test_19_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito del art. 614 CP (delito en conflicto armado con pena mínima) es correcta respecto a la prescripción.",
+      "options": {
+        "a": "No prescribe nunca, como los demás delitos del Título XXIV.",
+        "b": "Los delitos castigados en el art. 614 sí prescriben, siendo la excepción expresa del art. 131.3 CP.",
+        "c": "Prescribe a los veinte años.",
+        "d": "Prescribe a los treinta años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 131.3 CP establece que no prescriben los delitos de lesa humanidad, genocidio y 'los delitos contra las personas y bienes protegidos en caso de conflicto armado, SALVO los castigados en el artículo 614'. El art. 614 es expresamente excluido de la imprescriptibilidad, por lo que sus delitos sí prescriben según las reglas generales del art. 131.1 CP.",
+      "ley": "CP, art. 131.3"
+    },
+    {
+      "id": "tema_08_test_19_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de acoso del art. 172 ter CP NO es correcta.",
+      "options": {
+        "a": "Se exige que las conductas de acoso sean insistentes y reiteradas.",
+        "b": "El delito siempre es perseguible solo mediante denuncia de la persona agraviada.",
+        "c": "Deben alterar el normal desarrollo de la vida cotidiana de la víctima.",
+        "d": "Cuando el acoso se dirige a la pareja o ex pareja, la pena es de prisión de uno a dos años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 172 ter.4 CP establece que los hechos 'solo serán perseguibles mediante denuncia de la persona agraviada o de su representante legal'. Sin embargo, el art. 172 ter.2 establece que 'En este caso no será necesaria la denuncia' cuando el ofendido es el cónyuge o ex pareja (o personas del entorno familiar). Por tanto, NO siempre requiere denuncia.",
+      "ley": "CP, art. 172 ter"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_08_test_03_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 32 CP, ¿cuáles son los tipos de penas que pueden imponerse?",
+      "options": {
+        "a": "Privativas de libertad, privativas de otros derechos y multa.",
+        "b": "Privativas de libertad y de derechos únicamente.",
+        "c": "Prisión, inhabilitación, multa y arresto domiciliario.",
+        "d": "Prisión, multa y trabajos en beneficio de la comunidad."
+      },
+      "correct": "a",
+      "explicacion": "El art. 32 CP establece que las penas que pueden imponerse 'bien con carácter principal bien como accesorias, son: Privativas de libertad. Privativas de otros derechos. Multa'.",
+      "ley": "CP, art. 32"
+    },
+    {
+      "id": "tema_08_test_03_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 33.2 CP, ¿cuál de estas penas NO es una pena grave?",
+      "options": {
+        "a": "La prisión permanente revisable.",
+        "b": "La prisión superior a cinco años.",
+        "c": "La multa de más de tres meses.",
+        "d": "La inhabilitación absoluta."
+      },
+      "correct": "c",
+      "explicacion": "La multa de más de tres meses es una pena MENOS GRAVE según el art. 33.3.j) CP, no una pena grave. Las penas graves incluyen la prisión permanente revisable, la prisión superior a cinco años y la inhabilitación absoluta (art. 33.2 CP).",
+      "ley": "CP, art. 33.3.j)"
+    },
+    {
+      "id": "tema_08_test_03_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 35 CP, ¿cuáles son las penas privativas de libertad?",
+      "options": {
+        "a": "La prisión y la detención preventiva.",
+        "b": "La prisión, el arresto de fin de semana y la localización permanente.",
+        "c": "La prisión permanente revisable, la prisión, la localización permanente y la responsabilidad personal subsidiaria por impago de multa.",
+        "d": "Solo la prisión y la localización permanente."
+      },
+      "correct": "c",
+      "explicacion": "El art. 35 CP establece que son penas privativas de libertad: 'La prisión permanente revisable. La prisión. La localización permanente. La responsabilidad personal subsidiaria por impago de multa'.",
+      "ley": "CP, art. 35"
+    },
+    {
+      "id": "tema_08_test_03_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 36.2 CP, ¿cuál es la duración mínima y máxima de la pena de prisión?",
+      "options": {
+        "a": "Mínimo tres meses, máximo veinte años (salvo lo que dispongan otros preceptos).",
+        "b": "Mínimo seis meses, máximo treinta años.",
+        "c": "Mínimo seis meses, máximo veinte años.",
+        "d": "Mínimo un año, máximo veinticinco años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 36.2 CP establece que 'La pena de prisión tendrá una duración mínima de tres meses y máxima de veinte años, salvo lo que excepcionalmente dispongan otros preceptos del presente Código'.",
+      "ley": "CP, art. 36.2"
+    },
+    {
+      "id": "tema_08_test_03_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 37.1 CP, ¿cuál es la duración máxima de la localización permanente?",
+      "options": {
+        "a": "Tres meses.",
+        "b": "Dos años.",
+        "c": "Un año.",
+        "d": "Seis meses."
+      },
+      "correct": "d",
+      "explicacion": "El art. 37.1 CP establece que 'La localización permanente tendrá una duración de hasta seis meses'. Su cumplimiento obliga al penado a permanecer en su domicilio o en lugar determinado fijado por el Juez.",
+      "ley": "CP, art. 37.1"
+    },
+    {
+      "id": "tema_08_test_03_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 41 CP, ¿qué produce la pena de inhabilitación absoluta?",
+      "options": {
+        "a": "Solo impide obtener nuevos cargos durante la condena.",
+        "b": "Solo suspende el empleo o cargo público actual.",
+        "c": "La privación definitiva de todos los honores, empleos y cargos públicos que tenga el penado, aunque sean electivos; produce también la incapacidad para obtenerlos y para ser elegido para cargo público durante la condena.",
+        "d": "Impide ejercer actividades profesionales privadas."
+      },
+      "correct": "c",
+      "explicacion": "El art. 41 CP establece que la inhabilitación absoluta 'produce la privación definitiva de todos los honores, empleos y cargos públicos que tenga el penado, aunque sean electivos. Produce, además, la incapacidad para obtener los mismos o cualesquiera otros honores, cargos o empleos públicos, y la de ser elegido para cargo público, durante el tiempo de la condena'.",
+      "ley": "CP, art. 41"
+    },
+    {
+      "id": "tema_08_test_03_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 49 CP, ¿pueden imponerse los trabajos en beneficio de la comunidad sin el consentimiento del condenado?",
+      "options": {
+        "a": "Sí, el juez puede imponerlos directamente.",
+        "b": "No, los trabajos en beneficio de la comunidad no podrán imponerse sin el consentimiento de la persona condenada.",
+        "c": "Solo si el delito causó daños a la comunidad.",
+        "d": "Solo si el condenado es reincidente."
+      },
+      "correct": "b",
+      "explicacion": "El art. 49 CP establece que 'Los trabajos en beneficio de la comunidad, que no podrán imponerse sin el consentimiento de la persona condenada, le obligan a prestar su cooperación no retribuida en determinadas actividades de utilidad pública'. El consentimiento es un requisito esencial.",
+      "ley": "CP, art. 49"
+    },
+    {
+      "id": "tema_08_test_03_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 50 CP, ¿en qué consiste el sistema de días-multa?",
+      "options": {
+        "a": "La pena de multa se determina por el número de días (mínimo 10, máximo 2 años para personas físicas) multiplicado por la cuota diaria (mínimo 2, máximo 400 euros), fijada según la situación económica del reo.",
+        "b": "El importe de la multa equivale a un día de salario mínimo por cada día de condena.",
+        "c": "La multa se divide por el número de días que el penado trabaje en beneficio de la comunidad.",
+        "d": "La multa equivale al importe de los daños causados dividido entre el número de días de condena."
+      },
+      "correct": "a",
+      "explicacion": "El art. 50 CP establece el sistema de días-multa: extensión mínima de 10 días y máxima de 2 años (5 años para personas jurídicas); la cuota diaria tiene un mínimo de 2 y un máximo de 400 euros (personas físicas). Los jueces fijan motivadamente la extensión dentro de los límites del delito y la cuota atendiendo exclusivamente a la situación económica del reo.",
+      "ley": "CP, art. 50"
+    },
+    {
+      "id": "tema_08_test_03_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 53.1 CP, si el condenado no paga la multa impuesta, ¿qué responsabilidad subsidiaria se aplica?",
+      "options": {
+        "a": "Un día de privación de libertad por cada cuota diaria no satisfecha.",
+        "b": "Un día de privación de libertad por cada dos cuotas diarias no satisfechas.",
+        "c": "Tres días de privación de libertad por cada cuota no pagada.",
+        "d": "La sustitución automática por trabajos en beneficio de la comunidad."
+      },
+      "correct": "b",
+      "explicacion": "El art. 53.1 CP establece la responsabilidad personal subsidiaria por impago de multa: 'un día de privación de libertad por cada dos cuotas diarias no satisfechas, que, tratándose de delitos leves, podrá cumplirse mediante localización permanente'.",
+      "ley": "CP, art. 53.1"
+    },
+    {
+      "id": "tema_08_test_03_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 55 CP, ¿qué pena accesoria lleva consigo la pena de prisión igual o superior a diez años?",
+      "options": {
+        "a": "La inhabilitación especial para el ejercicio de la patria potestad.",
+        "b": "La inhabilitación absoluta durante el tiempo de la condena, salvo que ya estuviere prevista como pena principal.",
+        "c": "La privación del derecho a conducir vehículos.",
+        "d": "La prohibición de residir en determinados lugares."
+      },
+      "correct": "b",
+      "explicacion": "El art. 55 CP establece que 'La pena de prisión igual o superior a diez años llevará consigo la inhabilitación absoluta durante el tiempo de la condena, salvo que ésta ya estuviere prevista como pena principal para el supuesto de que se trate'. El juez puede además imponer inhabilitación especial para patria potestad.",
+      "ley": "CP, art. 55"
+    },
+    {
+      "id": "tema_08_test_03_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 47 CP, cuando la pena de privación del derecho a conducir sea superior a dos años, ¿qué consecuencia adicional tiene?",
+      "options": {
+        "a": "Se impone también la multa de forma automática.",
+        "b": "Se ordena el ingreso en prisión.",
+        "c": "Se impone la inhabilitación absoluta.",
+        "d": "Comportará la pérdida de vigencia del permiso o licencia de conducción."
+      },
+      "correct": "d",
+      "explicacion": "El art. 47 CP establece que 'Cuando la pena impuesta lo fuere por un tiempo superior a dos años comportará la pérdida de vigencia del permiso o licencia que habilite para la conducción o la tenencia y porte, respectivamente'. Es decir, pierde no solo el derecho de conducir sino la vigencia del permiso.",
+      "ley": "CP, art. 47"
+    },
+    {
+      "id": "tema_08_test_03_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 43 CP, ¿qué efecto tiene la pena de suspensión de empleo o cargo público?",
+      "options": {
+        "a": "Priva definitivamente del empleo o cargo.",
+        "b": "Impide obtener nuevos empleos públicos.",
+        "c": "Priva al penado del ejercicio de su empleo o cargo durante el tiempo de la condena.",
+        "d": "Inhabilita para el ejercicio del sufragio pasivo."
+      },
+      "correct": "c",
+      "explicacion": "El art. 43 CP establece que 'La suspensión de empleo o cargo público priva de su ejercicio al penado durante el tiempo de la condena'. Es diferente de la inhabilitación especial, que priva definitivamente del empleo o cargo.",
+      "ley": "CP, art. 43"
+    },
+    {
+      "id": "tema_08_test_03_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 33.7 CP, ¿cuáles son las penas aplicables a las personas jurídicas?",
+      "options": {
+        "a": "Solo la multa y la disolución.",
+        "b": "Solo multa, clausura e inhabilitación.",
+        "c": "Las mismas que las personas físicas pero en el doble de su duración.",
+        "d": "Multa (por cuotas o proporcional), disolución, suspensión de actividades (hasta 5 años), clausura de locales (hasta 5 años), prohibición de actividades (temporal o definitiva), inhabilitación para subvenciones (hasta 15 años) e intervención judicial (hasta 5 años). Todas tienen la consideración de graves."
+      },
+      "correct": "d",
+      "explicacion": "El art. 33.7 CP establece que las penas de las personas jurídicas tienen 'todas la consideración de graves' e incluyen: multa (cuotas o proporcional), disolución, suspensión de actividades hasta 5 años, clausura hasta 5 años, prohibición de actividades (hasta 15 años si temporal), inhabilitación para subvenciones y contratos públicos hasta 15 años, e intervención judicial hasta 5 años.",
+      "ley": "CP, art. 33.7"
+    },
+    {
+      "id": "tema_08_test_03_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 34 CP, ¿se reputa pena la detención y prisión preventiva?",
+      "options": {
+        "a": "Sí, es una pena privativa de libertad.",
+        "b": "No, la detención y prisión preventiva y las demás medidas cautelares de naturaleza penal no se reputan penas.",
+        "c": "Solo la detención es pena; la prisión preventiva no.",
+        "d": "Son penas provisionales que se descuentan de la condena."
+      },
+      "correct": "b",
+      "explicacion": "El art. 34 CP establece expresamente que no se reputarán penas: 'La detención y prisión preventiva y las demás medidas cautelares de naturaleza penal'. Tampoco las multas gubernativas o disciplinarias ni las privaciones de derechos civiles o administrativas.",
+      "ley": "CP, art. 34"
+    },
+    {
+      "id": "tema_08_test_03_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 48.2 CP, ¿qué impide la prohibición de aproximarse a la víctima?",
+      "options": {
+        "a": "Acercarse a la víctima en cualquier lugar donde se encuentre, así como a su domicilio, lugares de trabajo y cualquier otro que sea frecuentado; suspende el régimen de visitas respecto de los hijos.",
+        "b": "Solo acercarse al domicilio de la víctima.",
+        "c": "Solo residir en la misma ciudad que la víctima.",
+        "d": "Comunicarse con la víctima por cualquier medio."
+      },
+      "correct": "a",
+      "explicacion": "El art. 48.2 CP establece que la prohibición de aproximarse 'impide al penado acercarse a ellos, en cualquier lugar donde se encuentren, así como acercarse a su domicilio, a sus lugares de trabajo y a cualquier otro que sea frecuentado por ellos, quedando en suspenso, respecto de los hijos, el régimen de visitas, comunicación y estancia que, en su caso, se hubiere reconocido en sentencia civil hasta el total cumplimiento de esta pena'.",
+      "ley": "CP, art. 48.2"
+    },
+    {
+      "id": "tema_08_test_03_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 36.1 CP, ¿cuántos años de prisión efectiva debe cumplir el condenado a prisión permanente revisable por delitos de terrorismo antes de acceder al tercer grado?",
+      "options": {
+        "a": "Doce años.",
+        "b": "Quince años.",
+        "c": "Veinticinco años.",
+        "d": "Veinte años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 36.1 CP establece que la clasificación en tercer grado no podrá efectuarse 'Hasta el cumplimiento de veinte años de prisión efectiva, en el caso de que el penado lo hubiera sido por un delito relativo a las organizaciones y grupos terroristas y de los delitos de terrorismo'. En el resto de casos el límite es de quince años.",
+      "ley": "CP, art. 36.1"
+    },
+    {
+      "id": "tema_08_test_03_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 58.1 CP, ¿cómo se computa el tiempo de privación de libertad sufrido provisionalmente?",
+      "options": {
+        "a": "Se descuenta solo si el juez expresamente lo ordena.",
+        "b": "Solo se abona si la privación cautelar duró más de seis meses.",
+        "c": "Se descuenta al 50% del tiempo de condena.",
+        "d": "Se abonará en su totalidad para el cumplimiento de la pena o penas impuestas en la causa en que fue acordada, salvo que coincida con privación de libertad impuesta en otra causa ya abonada."
+      },
+      "correct": "d",
+      "explicacion": "El art. 58.1 CP establece que 'El tiempo de privación de libertad sufrido provisionalmente será abonado en su totalidad por el Juez o Tribunal sentenciador para el cumplimiento de la pena o penas impuestas en la causa en que dicha privación fue acordada, salvo en cuanto haya coincidido con cualquier privación de libertad impuesta al penado en otra causa, que le haya sido abonada o le sea abonable en ella'.",
+      "ley": "CP, art. 58.1"
+    },
+    {
+      "id": "tema_08_test_03_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 42 CP, ¿qué produce la pena de inhabilitación especial para empleo o cargo público?",
+      "options": {
+        "a": "La privación temporal del ejercicio del empleo o cargo.",
+        "b": "La pérdida de todos los cargos públicos del penado.",
+        "c": "La privación definitiva del empleo o cargo sobre el que recayere, aunque sea electivo, y la incapacidad para obtener el mismo u otros análogos durante la condena.",
+        "d": "La imposibilidad de ser elegido para cargo público de por vida."
+      },
+      "correct": "c",
+      "explicacion": "El art. 42 CP establece que la inhabilitación especial para empleo o cargo público 'produce la privación definitiva del empleo o cargo sobre el que recayere, aunque sea electivo, y de los honores que le sean anejos. Produce, además, la incapacidad para obtener el mismo u otros análogos, durante el tiempo de la condena'. En la sentencia deben especificarse los empleos o cargos inhabilitados.",
+      "ley": "CP, art. 42"
+    },
+    {
+      "id": "tema_08_test_03_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 60.1 CP, ¿qué ocurre cuando un penado con condena firme padece un trastorno mental grave que le impide conocer el sentido de la pena?",
+      "options": {
+        "a": "El Juez de Vigilancia Penitenciaria suspenderá la ejecución de la pena privativa de libertad y podrá imponer una medida de seguridad privativa de libertad que no podrá ser más gravosa que la pena sustituida.",
+        "b": "La pena queda extinguida definitivamente.",
+        "c": "La pena se aplaza sin ninguna medida alternativa.",
+        "d": "El Ministerio Fiscal solicita el indulto automáticamente."
+      },
+      "correct": "a",
+      "explicacion": "El art. 60.1 CP establece que el Juez de Vigilancia Penitenciaria suspenderá la ejecución de la pena y garantizará que el penado reciba asistencia médica, pudiendo decretar una medida de seguridad privativa de libertad 'que no podrá ser, en ningún caso, más gravosa que la pena sustituida'. Al restablecerse la salud, el penado cumplirá la sentencia si la pena no hubiere prescrito.",
+      "ley": "CP, art. 60.1"
+    },
+    {
+      "id": "tema_08_test_03_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 50.3 CP, ¿cuál es la extensión máxima de la pena de multa para personas físicas?",
+      "options": {
+        "a": "Un año.",
+        "b": "Dos años.",
+        "c": "Tres años.",
+        "d": "Cinco años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 50.3 CP establece que 'Su extensión mínima será de 10 días y la máxima de 2 años'. Las personas jurídicas tienen una extensión máxima de 5 años. La cuota diaria para personas físicas oscila entre 2 y 400 euros.",
+      "ley": "CP, art. 50.3"
+    }
+  ]
+}

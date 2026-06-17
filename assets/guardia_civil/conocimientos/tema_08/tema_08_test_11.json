@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 11",
+  "preguntas": [
+    {
+      "id": "tema_08_test_11_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la ley penal en el tiempo NO es correcta según el Código Penal.",
+      "options": {
+        "a": "Las leyes penales favorables al reo tienen efecto retroactivo aunque haya sentencia firme.",
+        "b": "En caso de duda sobre la ley más favorable, será oído el reo.",
+        "c": "Los hechos cometidos bajo la vigencia de una ley temporal serán juzgados por la ley posterior más favorable.",
+        "d": "Las medidas de seguridad carecen de efecto retroactivo cuando las leyes las establezcan."
+      },
+      "correct": "c",
+      "explicacion": "Según el art. 2.2 CP, 'Los hechos cometidos bajo la vigencia de una Ley temporal serán juzgados, sin embargo, conforme a ella, salvo que se disponga expresamente lo contrario'. Las leyes temporales se aplican a los hechos cometidos durante su vigencia aunque hayan sido derogadas, a diferencia del principio general de retroactividad favorable.",
+      "ley": "CP, art. 2.2"
+    },
+    {
+      "id": "tema_08_test_11_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 36.2 CP, la pena de prisión tiene una duración mínima de _____ y máxima de _____, salvo excepciones.",
+      "options": {
+        "a": "Seis meses y veinticinco años.",
+        "b": "Un año y veinticinco años.",
+        "c": "Tres meses y veinte años.",
+        "d": "Seis meses y veinte años."
+      },
+      "correct": "c",
+      "explicacion": "El art. 36.2 CP establece que 'La pena de prisión tendrá una duración mínima de tres meses y máxima de veinte años, salvo lo que excepcionalmente dispongan otros preceptos del presente Código'. Otros preceptos pueden elevar el máximo hasta 40 años en casos de concurso de delitos.",
+      "ley": "CP, art. 36.2"
+    },
+    {
+      "id": "tema_08_test_11_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes NO es una causa que exime de responsabilidad criminal según el art. 20 CP.",
+      "options": {
+        "a": "Anomalía o alteración psíquica que impida comprender la ilicitud del hecho.",
+        "b": "El estado de intoxicación plena por alcohol o drogas no buscado con propósito de delinquir.",
+        "c": "La provocación suficiente por parte del defensor.",
+        "d": "El obrar impulsado por miedo insuperable."
+      },
+      "correct": "c",
+      "explicacion": "La 'provocación suficiente por parte del defensor' es precisamente un requisito NEGATIVO de la legítima defensa (uno de los tres requisitos es la FALTA de provocación suficiente). La provocación suficiente impide apreciar la eximente de legítima defensa. 20 CP (números 1.º, 2.º y 6.º respectivamente).",
+      "ley": "CP, art. 20"
+    },
+    {
+      "id": "tema_08_test_11_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el error de tipo y el error de prohibición NO es correcta según el art. 14 CP.",
+      "options": {
+        "a": "El error invencible sobre un hecho constitutivo de la infracción penal excluye la responsabilidad criminal.",
+        "b": "El error vencible sobre la ilicitud del hecho excluye la responsabilidad criminal.",
+        "c": "El error invencible sobre la ilicitud del hecho excluye la responsabilidad criminal.",
+        "d": "El error vencible sobre un hecho constitutivo de la infracción penal puede castigarse como imprudente."
+      },
+      "correct": "b",
+      "explicacion": "El art. 14.3 CP establece que el error invencible sobre la ilicitud del hecho excluye la responsabilidad criminal, pero 'Si el error fuera vencible, se aplicará la pena inferior en uno o dos grados'. El error vencible de prohibición NO excluye la responsabilidad, solo atenúa la pena. 14.1 y 14.3 CP.",
+      "ley": "CP, art. 14.3"
+    },
+    {
+      "id": "tema_08_test_11_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 50 CP, la cuota diaria de la multa tiene un mínimo de _____ y un máximo de _____ euros para personas físicas.",
+      "options": {
+        "a": "Un euro y trescientos euros.",
+        "b": "Cinco euros y quinientos euros.",
+        "c": "Dos euros y cuatrocientos euros.",
+        "d": "Diez euros y mil euros."
+      },
+      "correct": "c",
+      "explicacion": "El art. 50.4 CP establece que 'La cuota diaria tendrá un mínimo de dos y un máximo de 400 euros'. Para las personas jurídicas la cuota mínima es de 30 euros y la máxima de 5.000 euros.",
+      "ley": "CP, art. 50.4"
+    },
+    {
+      "id": "tema_08_test_11_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes NO es un medio comisivo que convierte la agresión sexual en más grave según el art. 178.2 CP.",
+      "options": {
+        "a": "Empleo de violencia.",
+        "b": "Intimidación.",
+        "c": "Abuso de situación de superioridad o vulnerabilidad.",
+        "d": "Actuar con disfraz o disimulo."
+      },
+      "correct": "d",
+      "explicacion": "El art. 178.2 CP establece que se consideran en todo caso agresión sexual los actos cometidos 'empleando violencia, intimidación o abuso de una situación de superioridad o de vulnerabilidad de la víctima', así como los cometidos sobre personas privadas de sentido o con voluntad anulada. El 'disfraz' es una circunstancia agravante genérica del art. 22.2.ª CP pero no está en el art. 178.2.",
+      "ley": "CP, art. 178.2"
+    },
+    {
+      "id": "tema_08_test_11_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la responsabilidad penal de personas jurídicas NO es correcta según el Código Penal.",
+      "options": {
+        "a": "La persona jurídica puede ser penalmente responsable aunque no se haya individualizado a la persona física responsable.",
+        "b": "El Estado, las Administraciones públicas territoriales e institucionales y los Organismos Reguladores no están sometidos a responsabilidad penal de personas jurídicas.",
+        "c": "Las penas aplicables a las personas jurídicas incluyen la disolución, la clausura y la intervención judicial, entre otras.",
+        "d": "Los modelos de organización y gestión (compliance) nunca pueden eximir de responsabilidad a la persona jurídica; solo la atenúan."
+      },
+      "correct": "d",
+      "explicacion": "Según el art. 31 bis.2 CP, si los representantes legales cometen el delito eludiendo fraudulentamente los modelos de organización y gestión correctamente implementados, la persona jurídica 'quedará exenta de responsabilidad'. El compliance bien implementado SÍ puede eximir totalmente de responsabilidad. Las opciones , y son afirmaciones correctas.",
+      "ley": "CP, art. 31 bis.2"
+    },
+    {
+      "id": "tema_08_test_11_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 53.1 CP, la responsabilidad personal subsidiaria por impago de multa se computa a razón de un día de privación de libertad por cada _____ cuotas diarias no satisfechas.",
+      "options": {
+        "a": "Dos cuotas.",
+        "b": "Una cuota.",
+        "c": "Tres cuotas.",
+        "d": "Cinco cuotas."
+      },
+      "correct": "a",
+      "explicacion": "El art. 53.1 CP establece que el condenado que no satisfaga la multa 'quedará sujeto a una responsabilidad personal subsidiaria de un día de privación de libertad por cada dos cuotas diarias no satisfechas'. En delitos leves puede cumplirse mediante localización permanente.",
+      "ley": "CP, art. 53.1"
+    },
+    {
+      "id": "tema_08_test_11_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes plazos de prescripción del delito NO es correcto según el art. 131.1 CP.",
+      "options": {
+        "a": "Tres años para los demás delitos, excepto los delitos leves.",
+        "b": "Quince años para pena de más de diez años y menos de quince.",
+        "c": "Diez años para pena de más de cinco años y no más de diez.",
+        "d": "Veinte años para pena máxima de quince o más años de prisión."
+      },
+      "correct": "a",
+      "explicacion": "El art. 131.1 CP establece que 'Los demás delitos, excepto los delitos leves y los delitos de injurias y calumnias, que prescriben al año' prescriben 'A los cinco años', no a los tres. 131.1.",
+      "ley": "CP, art. 131.1"
+    },
+    {
+      "id": "tema_08_test_11_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes circunstancias agravantes NO figura en el art. 22 CP.",
+      "options": {
+        "a": "Ejecutar el hecho mediante precio, recompensa o promesa.",
+        "b": "Actuar bajo la influencia de bebidas alcohólicas.",
+        "c": "Obrar con abuso de confianza.",
+        "d": "Ejecutar el hecho mediante disfraz o con abuso de superioridad."
+      },
+      "correct": "b",
+      "explicacion": "Actuar bajo la influencia de bebidas alcohólicas NO es una agravante; al contrario, puede ser una eximente (art. 20.2.º CP) o atenuante (art. 21.2.ª) según el grado. Las opciones , y son circunstancias agravantes expresamente previstas en el art. 22 CP.",
+      "ley": "CP, art. 22"
+    },
+    {
+      "id": "tema_08_test_11_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes es CÓMPLICE y no coautor según el art. 29 CP.",
+      "options": {
+        "a": "El que coopera a la ejecución del hecho con actos no esenciales, anteriores o simultáneos.",
+        "b": "El que realiza el hecho conjuntamente con otro.",
+        "c": "El que realiza el hecho por sí solo.",
+        "d": "El que induce directamente a otro a ejecutar el delito."
+      },
+      "correct": "a",
+      "explicacion": "El art. 29 CP define los cómplices como 'los que, no hallándose comprendidos en el artículo anterior [autores], cooperan a la ejecución del hecho con actos anteriores o simultáneos'. La diferencia con la cooperación necesaria (autoría) es que la aportación del cómplice no es esencial para la ejecución. 28 CP.",
+      "ley": "CP, art. 29"
+    },
+    {
+      "id": "tema_08_test_11_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 136.1 CP, los antecedentes penales por penas leves se cancelan transcurridos _____ sin delinquir.",
+      "options": {
+        "a": "Seis meses.",
+        "b": "Tres meses.",
+        "c": "Un año.",
+        "d": "Dos años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 136.1.a) CP establece que los antecedentes penales se cancelan transcurridos 'Seis meses para las penas leves'. Los plazos se van incrementando para penas de mayor gravedad hasta llegar a los diez años para las penas graves.",
+      "ley": "CP, art. 136.1.a)"
+    },
+    {
+      "id": "tema_08_test_11_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes penas NO es una pena leve según el art. 33.4 CP.",
+      "options": {
+        "a": "La suspensión de empleo o cargo público de tres meses a seis meses.",
+        "b": "La multa de hasta tres meses.",
+        "c": "La localización permanente de un día a tres meses.",
+        "d": "La privación del derecho a conducir de tres meses a un año."
+      },
+      "correct": "a",
+      "explicacion": "La suspensión de empleo o cargo público NO figura entre las penas leves del art. 33.4 CP. Las penas leves son: privación del derecho a conducir (3 meses a 1 año), privación del derecho a tenencia y porte de armas (3 meses a 1 año), inhabilitación especial para actividades con animales (3 meses a 1 año), privación del derecho a residir en determinados lugares (inferior a 6 meses), prohibición de aproximarse (1 mes a menos de 6 meses), prohibición de comunicarse (1 mes a menos de 6 meses), multa (hasta 3 meses), localización permanente (1 día a 3 meses) y trabajos en beneficio de la comunidad (1 a 30 días).",
+      "ley": "CP, art. 33.4"
+    },
+    {
+      "id": "tema_08_test_11_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 40 CP, la inhabilitación absoluta tiene una duración de _____ a _____.",
+      "options": {
+        "a": "Tres meses a diez años.",
+        "b": "Cinco a quince años.",
+        "c": "Un año a quince años.",
+        "d": "Seis a veinte años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 40 CP establece que la inhabilitación absoluta tiene una duración 'de 6 a 20 años'. La inhabilitación especial tiene una duración de 3 meses a 20 años. La suspensión de empleo o cargo público dura de 3 meses a 6 años.",
+      "ley": "CP, art. 40"
+    },
+    {
+      "id": "tema_08_test_11_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes conductas NO está incluida entre las finalidades de la trata de seres humanos del art. 177 bis.1 CP.",
+      "options": {
+        "a": "La explotación sexual incluyendo la pornografía.",
+        "b": "La extracción de órganos corporales.",
+        "c": "La explotación para realizar actividades deportivas ilegales.",
+        "d": "La imposición de trabajo o servicios forzados."
+      },
+      "correct": "c",
+      "explicacion": "Las actividades deportivas ilegales no figuran entre las finalidades del art. 177 bis.1 CP. Las finalidades expresamente previstas son: imposición de trabajo o servicios forzados, esclavitud, servidumbre o mendicidad; explotación sexual incluyendo pornografía; explotación para realizar actividades delictivas; extracción de órganos corporales; y celebración de matrimonios forzados. La mendicidad, la explotación sexual y la extracción de órganos sí están incluidas.",
+      "ley": "CP, art. 177 bis.1"
+    },
+    {
+      "id": "tema_08_test_11_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la cancelación de antecedentes de personas jurídicas NO es correcta según el art. 136.3 CP.",
+      "options": {
+        "a": "Las penas de personas jurídicas se cancelan en los mismos plazos que para personas físicas según la gravedad.",
+        "b": "En todos los casos, los antecedentes de personas jurídicas se cancelan a los 50 años de la firmeza de la sentencia.",
+        "c": "En caso de prohibición definitiva de actividades, los antecedentes se cancelan transcurridos 50 años.",
+        "d": "En caso de disolución definitiva de la persona jurídica, los antecedentes se cancelan transcurridos 50 años desde la firmeza de la sentencia."
+      },
+      "correct": "b",
+      "explicacion": "El art. 136.3 CP establece que las penas de personas jurídicas 'se cancelarán en el plazo que corresponda, de acuerdo con la regla prevista en el apartado 1 de este artículo, SALVO que se hubiese acordado la disolución o la prohibición definitiva de actividades. En estos casos, se cancelarán las anotaciones transcurridos 50 años'. El plazo de 50 años solo aplica cuando hay disolución o prohibición definitiva, no en todos los casos.",
+      "ley": "CP, art. 136.3"
+    },
+    {
+      "id": "tema_08_test_11_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 133.1 CP, las penas impuestas por sentencia firme de más de veinte años de prisión prescriben a los _____ años.",
+      "options": {
+        "a": "Veinte años.",
+        "b": "Treinta años.",
+        "c": "Veinticinco años.",
+        "d": "Cuarenta años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 133.1 CP establece que las penas prescriben 'A los 30 años, las de prisión por más de 20 años'. Las de prisión de 15 o más años sin exceder de 20 prescriben a los 25 años. Las de más de 10 y menos de 15 a los 20 años.",
+      "ley": "CP, art. 133.1"
+    },
+    {
+      "id": "tema_08_test_11_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes NO es un elemento del concepto de 'funcionario público' a efectos penales según el art. 24.2 CP.",
+      "options": {
+        "a": "Participar en el ejercicio de funciones públicas.",
+        "b": "Por disposición inmediata de la Ley.",
+        "c": "Por elección.",
+        "d": "Por contrato laboral privado con empresa del sector público."
+      },
+      "correct": "d",
+      "explicacion": "El art. 24.2 CP define al funcionario público como 'todo el que por disposición inmediata de la Ley o por elección o por nombramiento de autoridad competente participe en el ejercicio de funciones públicas'. El contrato laboral privado con empresa del sector público no convierte automáticamente a alguien en funcionario a efectos penales si no participa en funciones públicas.",
+      "ley": "CP, art. 24.2"
+    },
+    {
+      "id": "tema_08_test_11_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes causas de extinción de la responsabilidad criminal NO figura en el art. 130.1 CP.",
+      "options": {
+        "a": "La amnistía.",
+        "b": "El indulto.",
+        "c": "El perdón del ofendido en los casos previstos.",
+        "d": "La rehabilitación del penado."
+      },
+      "correct": "d",
+      "explicacion": "La 'rehabilitación del penado' no figura como causa de extinción de la responsabilidad criminal en el art. 130.1 CP. Las causas son: muerte del reo, cumplimiento de la condena, remisión definitiva de la pena, amnistía o indulto, perdón del ofendido (cuando proceda), prescripción del delito y prescripción de la pena o medida de seguridad. Las opciones a), b) y d) sí figuran en el art. 130.1.",
+      "ley": "CP, art. 130.1"
+    },
+    {
+      "id": "tema_08_test_11_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 37.1 CP, la localización permanente tendrá una duración de hasta _____ meses.",
+      "options": {
+        "a": "Tres meses.",
+        "b": "Seis meses.",
+        "c": "Doce meses.",
+        "d": "Dieciocho meses."
+      },
+      "correct": "b",
+      "explicacion": "El art. 37.1 CP establece que 'La localización permanente tendrá una duración de hasta seis meses'. Obliga al penado a permanecer en su domicilio o lugar determinado. En ciertos supuestos puede cumplirse en el centro penitenciario más próximo los sábados, domingos y festivos.",
+      "ley": "CP, art. 37.1"
+    }
+  ]
+}

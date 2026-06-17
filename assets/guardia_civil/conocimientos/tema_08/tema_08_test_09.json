@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 9",
+  "preguntas": [
+    {
+      "id": "tema_08_test_09_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 472 CP, ¿qué es el delito de rebelión?",
+      "options": {
+        "a": "Cualquier acto de desobediencia a las autoridades.",
+        "b": "Alzarse violenta y públicamente para alguno de los fines previstos en el art. 472, como derogar la Constitución, deponer al Gobierno, impedir elecciones, disolver las Cortes o declarar la independencia de parte del territorio.",
+        "c": "La conspiración para cometer delitos contra el Estado.",
+        "d": "El uso de la fuerza armada contra la soberanía nacional."
+      },
+      "correct": "b",
+      "explicacion": "El art. 472 CP define la rebelión como alzarse 'violenta y públicamente' para alguno de los fines descritos en sus siete apartados: derogar la Constitución, deponer a la Corona, impedir elecciones, disolver las Cortes, declarar la independencia de parte del territorio, sustituir el Gobierno, o sustraer fuerzas armadas a la obediencia del Gobierno.",
+      "ley": "CP, art. 472"
+    },
+    {
+      "id": "tema_08_test_09_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 473.1 CP, ¿cuál es la pena para los promotores y jefes principales de la rebelión?",
+      "options": {
+        "a": "Prisión de diez a quince años.",
+        "b": "Prisión de cinco a diez años.",
+        "c": "Prisión de quince a veinticinco años e inhabilitación absoluta por el mismo tiempo.",
+        "d": "Prisión permanente revisable."
+      },
+      "correct": "c",
+      "explicacion": "El art. 473.1 CP establece que los que hayan promovido o sostengan la rebelión y los jefes principales serán castigados con 'prisión de quince a veinticinco años e inhabilitación absoluta por el mismo tiempo'. Los que ejerzan mando subalterno: prisión de diez a quince años. Los meros participantes: prisión de cinco a diez años.",
+      "ley": "CP, art. 473.1"
+    },
+    {
+      "id": "tema_08_test_09_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 480.1 CP, ¿queda exento de pena el implicado en rebelión que la revele a tiempo de poder evitar sus consecuencias?",
+      "options": {
+        "a": "No, nunca hay exención en los delitos de rebelión.",
+        "b": "La exención solo aplica a los meros participantes, no a los promotores.",
+        "c": "Solo se atenúa la pena en uno o dos grados.",
+        "d": "Sí, quedará exento de pena el que, implicado en un delito de rebelión, lo reveleare a tiempo de poder evitar sus consecuencias."
+      },
+      "correct": "d",
+      "explicacion": "El art. 480.1 CP establece la exención por delación oportuna: 'Quedará exento de pena el que, implicado en un delito de rebelión, lo revelare a tiempo de poder evitar sus consecuencias'. También se atenúa la pena a los meros ejecutores que depongan las armas antes de haberlas usado sometiéndose a la autoridad legítima.",
+      "ley": "CP, art. 480.1"
+    },
+    {
+      "id": "tema_08_test_09_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 485.1 CP, ¿cuál es la pena por matar al Rey o Príncipe de Asturias?",
+      "options": {
+        "a": "Prisión de veinte a veinticinco años.",
+        "b": "Prisión permanente revisable.",
+        "c": "Prisión de veinticinco a treinta años.",
+        "d": "Prisión de quince a veinte años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 485.1 CP establece que 'El que matare al Rey o a la Reina o al Príncipe o a la Princesa de Asturias será castigado con la pena de prisión permanente revisable'. La muerte de otros miembros de la Familia Real se castiga con prisión de veinte a veinticinco años.",
+      "ley": "CP, art. 485.1"
+    },
+    {
+      "id": "tema_08_test_09_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 490.3 CP, ¿cuál es la pena por calumniar o injuriar gravemente al Rey en el ejercicio de sus funciones?",
+      "options": {
+        "a": "Prisión de seis meses a dos años si la calumnia o injuria fueran graves, y multa de seis a doce meses si no lo son.",
+        "b": "Multa de seis a doce meses.",
+        "c": "Prisión de uno a tres años.",
+        "d": "Inhabilitación absoluta de seis a doce años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 490.3 CP establece que quien calumniare o injuriare al Rey (u otros miembros de la Familia Real) 'en el ejercicio de sus funciones o con motivo u ocasión de estas, será castigado con la pena de prisión de seis meses a dos años si la calumnia o injuria fueran graves, y con la de multa de seis a doce meses si no lo son'.",
+      "ley": "CP, art. 490.3"
+    },
+    {
+      "id": "tema_08_test_09_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 493 CP, ¿cuál es la pena por invadir con fuerza o violencia las sedes del Congreso o Senado cuando están reunidos?",
+      "options": {
+        "a": "Prisión de cinco a ocho años.",
+        "b": "Prisión de uno a tres años.",
+        "c": "Prisión de dos a cuatro años.",
+        "d": "Prisión de tres a cinco años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 493 CP establece que 'Los que, sin alzarse públicamente, invadieren con fuerza, violencia o intimidación las sedes del Congreso de los Diputados, del Senado o de una Asamblea Legislativa de Comunidad Autónoma, si están reunidos, serán castigados con la pena de prisión de tres a cinco años'.",
+      "ley": "CP, art. 493"
+    },
+    {
+      "id": "tema_08_test_09_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 510.1.a) CP, ¿cuál es la pena por fomentar públicamente el odio o la discriminación contra grupos por razones de raza, religión, orientación sexual o discapacidad?",
+      "options": {
+        "a": "Prisión de uno a cuatro años y multa de seis a doce meses.",
+        "b": "Multa de seis a doce meses.",
+        "c": "Prisión de seis meses a dos años.",
+        "d": "Inhabilitación especial de tres a seis años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 510.1.a) CP castiga a 'Quienes públicamente fomenten, promuevan o inciten directa o indirectamente al odio, hostilidad, discriminación o violencia contra un grupo..' con 'una pena de prisión de uno a cuatro años y multa de seis a doce meses'. Las penas se imponen en su mitad superior cuando se cometen a través de internet o medios de comunicación.",
+      "ley": "CP, art. 510.1.a)"
+    },
+    {
+      "id": "tema_08_test_09_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 504.2 CP, ¿cuál es la pena por injuriar o amenazar gravemente a los Ejércitos o Fuerzas y Cuerpos de Seguridad?",
+      "options": {
+        "a": "Multa de seis a doce meses.",
+        "b": "Prisión de seis meses a un año.",
+        "c": "Multa de doce a dieciocho meses.",
+        "d": "Inhabilitación especial de uno a tres años."
+      },
+      "correct": "c",
+      "explicacion": "El art. 504.2 CP establece que 'Los que injuriaren o amenazaren gravemente a los Ejércitos, Clases o Cuerpos y Fuerzas de Seguridad, serán castigados con la pena de multa de doce a dieciocho meses'. La exención de pena por prueba de la verdad se aplica también en este supuesto.",
+      "ley": "CP, art. 504.2"
+    },
+    {
+      "id": "tema_08_test_09_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 515 CP, ¿qué asociaciones son consideradas ilícitas?",
+      "options": {
+        "a": "Las que tengan por objeto cometer algún delito; las que empleen medios violentos o de alteración de la personalidad; las organizaciones paramilitares; y las que fomenten el odio, hostilidad o discriminación por razón de ideología, raza, sexo u otras características.",
+        "b": "Solo las que tienen por objeto cometer delitos.",
+        "c": "Solo las organizaciones paramilitares y las que promuevan el terrorismo.",
+        "d": "Las asociaciones no registradas en el Ministerio del Interior."
+      },
+      "correct": "a",
+      "explicacion": "El art. 515 CP establece que son punibles las asociaciones ilícitas que: '1.º Las que tengan por objeto cometer algún delito o, después de constituidas, promuevan su comisión. 2.º Las que, aun teniendo por objeto un fin lícito, empleen medios violentos o de alteración o control de la personalidad. 3.º Las organizaciones de carácter paramilitar. 4.º Las que fomenten, promuevan o inciten directa o indirectamente al odio, hostilidad, discriminación o violencia contra personas o grupos'.",
+      "ley": "CP, art. 515"
+    },
+    {
+      "id": "tema_08_test_09_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 517 CP, ¿cuál es la pena para los fundadores, directores y presidentes de asociaciones ilícitas?",
+      "options": {
+        "a": "Prisión de uno a tres años.",
+        "b": "Prisión de dos a cuatro años, multa de doce a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de seis a doce años.",
+        "c": "Prisión de tres a cinco años.",
+        "d": "Inhabilitación especial de dos a seis años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 517.1.º CP establece para fundadores, directores y presidentes: 'prisión de dos a cuatro años, multa de doce a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de seis a doce años'. Los miembros activos reciben prisión de uno a tres años y multa de doce a veinticuatro meses.",
+      "ley": "CP, art. 517.1.º"
+    },
+    {
+      "id": "tema_08_test_09_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 543 CP, ¿cuál es la pena por ultrajar a España, sus Comunidades Autónomas o sus símbolos?",
+      "options": {
+        "a": "Multa de siete a doce meses.",
+        "b": "Prisión de seis meses a un año.",
+        "c": "Inhabilitación especial de uno a tres años.",
+        "d": "Multa de doce a veinticuatro meses."
+      },
+      "correct": "a",
+      "explicacion": "El art. 543 CP establece que 'Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comunidades Autónomas o a sus símbolos o emblemas, efectuados con publicidad, se castigarán con la pena de multa de siete a doce meses'. Se requiere que los ultrajes se efectúen con publicidad.",
+      "ley": "CP, art. 543"
+    },
+    {
+      "id": "tema_08_test_09_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 498 CP, ¿cuál es la pena por usar fuerza, violencia o amenaza grave para impedir a un diputado asistir a las sesiones?",
+      "options": {
+        "a": "Prisión de uno a tres años.",
+        "b": "Multa de doce a veinticuatro meses.",
+        "c": "Prisión de tres a cinco años.",
+        "d": "Inhabilitación especial de uno a tres años."
+      },
+      "correct": "c",
+      "explicacion": "El art. 498 CP establece que 'Los que emplearen fuerza, violencia, intimidación o amenaza grave para impedir a un miembro del Congreso de los Diputados, del Senado o de una Asamblea Legislativa de Comunidad Autónoma asistir a sus reuniones, o, por los mismos medios, coartaren la libre manifestación de sus opiniones o la emisión de su voto, serán castigados con la pena de prisión de tres a cinco años'.",
+      "ley": "CP, art. 498"
+    },
+    {
+      "id": "tema_08_test_09_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 530 CP, ¿cuál es la pena por prolongar ilegalmente la privación de libertad de un detenido con violación de garantías constitucionales o legales?",
+      "options": {
+        "a": "Prisión de uno a tres años.",
+        "b": "Multa de seis a doce meses.",
+        "c": "Inhabilitación especial para empleo o cargo público por tiempo de cuatro a ocho años.",
+        "d": "Suspensión de empleo o cargo de dos a cuatro años."
+      },
+      "correct": "c",
+      "explicacion": "El art. 530 CP establece que la autoridad o funcionario que 'acordare, practicare o prolongare cualquier privación de libertad de un detenido, preso o sentenciado, con violación de los plazos o demás garantías constitucionales o legales, será castigado con la pena de inhabilitación especial para empleo o cargo público por tiempo de cuatro a ocho años'. Es una protección del derecho a la libertad.",
+      "ley": "CP, art. 530"
+    },
+    {
+      "id": "tema_08_test_09_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 537 CP, ¿cuál es la pena por impedir u obstaculizar el derecho a la asistencia de abogado al detenido?",
+      "options": {
+        "a": "Multa de cuatro a diez meses e inhabilitación especial para empleo o cargo público de dos a cuatro años.",
+        "b": "Prisión de seis meses a un año.",
+        "c": "Inhabilitación especial de uno a tres años.",
+        "d": "Suspensión de empleo o cargo de uno a tres años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 537 CP establece que quien impida u obstaculice el derecho a la asistencia de abogado al detenido o preso 'será castigado con la pena de multa de cuatro a diez meses e inhabilitación especial para empleo o cargo público de dos a cuatro años'. También se castiga a quien procure o favorezca la renuncia a este derecho o no informe inmediatamente al detenido de sus derechos.",
+      "ley": "CP, art. 537"
+    },
+    {
+      "id": "tema_08_test_09_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 478 CP, ¿qué ocurre con la pena de inhabilitación cuando quien comete rebelión está constituido en autoridad?",
+      "options": {
+        "a": "Se duplica la inhabilitación especial prevista.",
+        "b": "Se añade multa de doce a veinticuatro meses.",
+        "c": "La pena se impone en su mitad superior.",
+        "d": "La pena de inhabilitación se sustituye por inhabilitación absoluta por tiempo de quince a veinte años, salvo que la circunstancia ya esté contemplada en el tipo penal."
+      },
+      "correct": "d",
+      "explicacion": "El art. 478 CP establece que 'En el caso de hallarse constituido en autoridad el que cometa cualquiera de los delitos previstos en este capítulo, la pena de inhabilitación que estuviese prevista en cada caso se sustituirá por la inhabilitación absoluta por tiempo de quince a veinte años, salvo que tal circunstancia se halle específicamente contemplada en el tipo penal de que se trate'.",
+      "ley": "CP, art. 478"
+    },
+    {
+      "id": "tema_08_test_09_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 502.1 CP, ¿cuál es la pena por no comparecer ante una Comisión de Investigación habiendo sido requerido?",
+      "options": {
+        "a": "Prisión de seis meses a un año.",
+        "b": "Las penas del delito de desobediencia; si el reo es funcionario, además suspensión de empleo o cargo público de seis meses a dos años.",
+        "c": "Multa de doce a veinticuatro meses.",
+        "d": "Solo sanción disciplinaria administrativa."
+      },
+      "correct": "b",
+      "explicacion": "El art. 502.1 CP establece que los que, habiendo sido requeridos en forma legal, 'dejaren de comparecer ante una Comisión de investigación de las Cortes Generales o de una Asamblea Legislativa de Comunidad Autónoma, castigados como reos del delito de desobediencia. Si el reo fuera autoridad o funcionario público, se le impondrá además la pena de suspensión de empleo o cargo público por tiempo de 6 meses a 2 años'.",
+      "ley": "CP, art. 502.1"
+    },
+    {
+      "id": "tema_08_test_09_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 523 CP, ¿cuál es la pena por impedir o perturbar actos religiosos de confesiones inscritas cuando se comete en lugar destinado al culto?",
+      "options": {
+        "a": "Multa de cuatro a diez meses.",
+        "b": "Multa de doce a veinticuatro meses.",
+        "c": "Prisión de uno a tres años.",
+        "d": "Prisión de seis meses a seis años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 523 CP establece que quien con violencia, amenaza, tumulto o vías de hecho impidiere o perturbara actos religiosos 'será castigado con la pena de prisión de seis meses a seis años, si el hecho se ha cometido en lugar destinado al culto, y con la de multa de cuatro a diez meses si se realiza en cualquier otro lugar'.",
+      "ley": "CP, art. 523"
+    },
+    {
+      "id": "tema_08_test_09_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 531 CP, ¿cuál es la pena por decretar o prolongar ilegalmente la incomunicación de un detenido?",
+      "options": {
+        "a": "Inhabilitación especial para empleo o cargo público de cuatro a ocho años.",
+        "b": "Multa de seis a doce meses.",
+        "c": "Prisión de uno a tres años.",
+        "d": "Inhabilitación especial para empleo o cargo público de dos a seis años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 531 CP establece que quien 'decretare, practicare o prolongare la incomunicación de un detenido, preso o sentenciado, con violación de los plazos o demás garantías constitucionales o legales, será castigado con la pena de inhabilitación especial para empleo o cargo público por tiempo de dos a seis años'. Es menos grave que la privación de libertad ilegal del art. 530 (4 a 8 años).",
+      "ley": "CP, art. 531"
+    },
+    {
+      "id": "tema_08_test_09_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 491.2 CP, ¿cuál es la pena por utilizar la imagen del Rey de forma que pueda dañar el prestigio de la Corona?",
+      "options": {
+        "a": "Prisión de seis meses a un año.",
+        "b": "Multa de seis a veinticuatro meses.",
+        "c": "Multa de doce a veinticuatro meses.",
+        "d": "Inhabilitación especial de uno a tres años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 491.2 CP establece que 'Se impondrá la pena de multa de seis a veinticuatro meses al que utilizare la imagen del Rey o de la Reina o de cualquiera de sus ascendientes o descendientes, o de la Reina consorte o del consorte de la Reina, o del Regente o de algún miembro de la Regencia, o del Príncipe o de la Princesa de Asturias, de cualquier forma que pueda dañar el prestigio de la Corona'.",
+      "ley": "CP, art. 491.2"
+    },
+    {
+      "id": "tema_08_test_09_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 477 CP, ¿con qué penas se castigan la provocación, conspiración y proposición para cometer rebelión?",
+      "options": {
+        "a": "Con la misma pena que el delito consumado.",
+        "b": "Con la pena inferior en uno o dos grados, sin inhabilitación.",
+        "c": "Con la pena de inhabilitación prevista en los artículos anteriores, además de la pena de prisión inferior en uno o dos grados al delito correspondiente.",
+        "d": "Con la pena de multa únicamente."
+      },
+      "correct": "c",
+      "explicacion": "El art. 477 CP establece que la provocación, conspiración y proposición para cometer rebelión serán castigadas 'además de con la inhabilitación prevista en los artículos anteriores, con la pena de prisión inferior en uno o dos grados a la del delito correspondiente'. La inhabilitación es adicional a la pena de prisión reducida.",
+      "ley": "CP, art. 477"
+    }
+  ]
+}

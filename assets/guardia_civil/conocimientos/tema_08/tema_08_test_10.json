@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_08_test_10_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 607.1.1.º CP, ¿cuál es la pena del delito de genocidio cuando se mata a miembros del grupo?",
+      "options": {
+        "a": "Prisión de quince a veinticinco años.",
+        "b": "Prisión de veinte a veinticinco años.",
+        "c": "Prisión permanente revisable.",
+        "d": "Prisión de diez a quince años."
+      },
+      "correct": "c",
+      "explicacion": "El art. 607.1.1.º CP establece que los que con propósito de destruir total o parcialmente a un grupo perpetraren la muerte de alguno de sus miembros serán castigados 'Con la pena de prisión permanente revisable'. También se castiga con la misma pena la agresión sexual a miembros del grupo.",
+      "ley": "CP, art. 607.1.1.º"
+    },
+    {
+      "id": "tema_08_test_10_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 607.1 CP, ¿cuáles son los grupos protegidos frente al genocidio?",
+      "options": {
+        "a": "Solo grupos nacionales y étnicos.",
+        "b": "Grupos nacionales, étnicos, raciales, religiosos o determinados por la discapacidad de sus integrantes.",
+        "c": "Grupos nacionales, étnicos, raciales y políticos.",
+        "d": "Cualquier grupo humano sin distinción."
+      },
+      "correct": "b",
+      "explicacion": "El art. 607.1 CP establece que el genocidio requiere el propósito de destruir 'total o parcialmente un grupo nacional, étnico, racial, religioso o determinado por la discapacidad de sus integrantes'. Los grupos políticos y culturales no están incluidos expresamente en el tipo penal español.",
+      "ley": "CP, art. 607.1"
+    },
+    {
+      "id": "tema_08_test_10_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 607 bis.1 CP, ¿qué dos requisitos configuran los crímenes de lesa humanidad?",
+      "options": {
+        "a": "Que se cometan como parte de un ataque generalizado o sistemático contra la población civil o contra una parte de ella.",
+        "b": "Que sean cometidos por autoridad o funcionario y que afecten a un gran número de víctimas.",
+        "c": "Que se cometan en tiempo de guerra y que haya intervención estatal.",
+        "d": "Que sean cometidos por una organización criminal y que tengan carácter internacional."
+      },
+      "correct": "a",
+      "explicacion": "El art. 607 bis.1 CP establece que son reos de delitos de lesa humanidad quienes cometan los hechos previstos 'como parte de un ataque generalizado o sistemático contra la población civil o contra una parte de ella'. El carácter generalizado o sistemático del ataque es el elemento que distingue el crimen de lesa humanidad del delito ordinario.",
+      "ley": "CP, art. 607 bis.1"
+    },
+    {
+      "id": "tema_08_test_10_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 607 bis.2.1.º CP, ¿cuál es la pena del crimen de lesa humanidad cuando el autor causa la muerte de alguna persona?",
+      "options": {
+        "a": "Prisión de veinte a veinticinco años.",
+        "b": "Prisión de quince a veinticinco años.",
+        "c": "Prisión de quince a veinte años.",
+        "d": "Prisión permanente revisable."
+      },
+      "correct": "d",
+      "explicacion": "El art. 607 bis.2.1.º CP establece que los reos de delitos de lesa humanidad serán castigados 'Con la pena de prisión permanente revisable si causaran la muerte de alguna persona'. Es la pena máxima del ordenamiento español junto con la del genocidio con muerte.",
+      "ley": "CP, art. 607 bis.2.1.º"
+    },
+    {
+      "id": "tema_08_test_10_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 608 CP, ¿cuáles son las personas protegidas en caso de conflicto armado?",
+      "options": {
+        "a": "Solo los prisioneros de guerra.",
+        "b": "Solo la población civil y los heridos en combate.",
+        "c": "Los heridos, enfermos, náufragos y personal sanitario; los prisioneros de guerra; la población civil; las personas fuera de combate; los parlamentarios; el personal de Naciones Unidas; y cualquier otra persona protegida por tratados internacionales.",
+        "d": "Los civiles y el personal de organismos humanitarios."
+      },
+      "correct": "c",
+      "explicacion": "El art. 608 CP enumera siete categorías de personas protegidas: 1.º heridos, enfermos, náufragos y personal sanitario o religioso (Convenios I y II de Ginebra); 2.º prisioneros de guerra (Convenio III); 3.º población civil (Convenio IV); 4.º personas fuera de combate y personal de la Potencia Protectora; 5.º parlamentarios; 6.º personal de Naciones Unidas; 7.º cualquier otra persona protegida por el Protocolo II o tratados en que España sea parte.",
+      "ley": "CP, art. 608"
+    },
+    {
+      "id": "tema_08_test_10_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 610 CP, ¿cuál es la pena por emplear métodos de combate prohibidos o destinados a causar sufrimientos innecesarios?",
+      "options": {
+        "a": "Prisión de cuatro a ocho años.",
+        "b": "Prisión de cinco a diez años.",
+        "c": "Prisión de quince a veinte años.",
+        "d": "Prisión de diez a quince años, sin perjuicio de la pena por los resultados producidos."
+      },
+      "correct": "d",
+      "explicacion": "El art. 610 CP establece que quien en un conflicto armado 'emplee u ordene emplear métodos o medios de combate prohibidos o destinados a causar sufrimientos innecesarios o males superfluos, así como aquéllos concebidos para causar o de los que fundamentalmente quepa prever que causen daños extensos, duraderos y graves al medio ambiente natural.. u ordene no dar cuartel, será castigado con la pena de prisión de 10 a 15 años, sin perjuicio de la pena que corresponda por los resultados producidos'.",
+      "ley": "CP, art. 610"
+    },
+    {
+      "id": "tema_08_test_10_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 605.1 CP, ¿cuál es la pena por matar al Jefe de un Estado extranjero internacionalmente protegido?",
+      "options": {
+        "a": "Prisión de veinte a veinticinco años.",
+        "b": "Prisión permanente revisable.",
+        "c": "Prisión de quince a veinte años.",
+        "d": "Prisión de quince a veinticinco años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 605.1 CP establece que 'El que matare al Jefe de un Estado extranjero, o a otra persona internacionalmente protegida por un Tratado, que se halle en España, será castigado con la pena de prisión permanente revisable'. Este delito protege la función diplomática y la estabilidad de las relaciones internacionales.",
+      "ley": "CP, art. 605.1"
+    },
+    {
+      "id": "tema_08_test_10_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 616 ter CP, ¿cuál es la pena del delito de piratería?",
+      "options": {
+        "a": "Prisión de cinco a diez años.",
+        "b": "Prisión de diez a quince años.",
+        "c": "Prisión de quince a veinte años.",
+        "d": "Prisión de ocho a doce años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 616 ter CP establece que el reo del delito de piratería (quien con violencia, intimidación o engaño se apodere, dañe o destruya una aeronave, buque u otro tipo de embarcación en el mar, o atente contra personas, cargamento o bienes a bordo) 'será castigado como reo del delito de piratería con la pena de prisión de diez a quince años'.",
+      "ley": "CP, art. 616 ter"
+    },
+    {
+      "id": "tema_08_test_10_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 616 quáter.1 CP, ¿cuál es la pena por resistirse o desobedecer a un buque de guerra en el contexto de persecución de piratería?",
+      "options": {
+        "a": "Multa de seis a doce meses.",
+        "b": "Prisión de uno a tres años.",
+        "c": "Opciones b) y c) son ambas correctas según el caso.",
+        "d": "Prisión de diez a quince años si hay empleo de fuerza o violencia."
+      },
+      "correct": "c",
+      "explicacion": "El art. 616 quáter CP establece dos penas: el apartado 1 castiga la resistencia sin fuerza con 'prisión de uno a tres años'; el apartado 2 establece que 'Si en la conducta anterior se empleare fuerza o violencia se impondrá la pena de diez a quince años de prisión'. Ambas opciones son correctas dependiendo del uso o no de fuerza.",
+      "ley": "CP, art. 616 quáter"
+    },
+    {
+      "id": "tema_08_test_10_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 615 bis CP, ¿qué penas se imponen a quienes financien la comisión de genocidio, crímenes de lesa humanidad o delitos contra personas protegidas en conflicto armado?",
+      "options": {
+        "a": "Las mismas penas que al autor de los correspondientes delitos previstos en el capítulo; también se imponen a quienes recluten personas o suministren bienes o medios para cometer tales delitos.",
+        "b": "Las mismas penas que al autor del delito principal.",
+        "c": "Las penas inferiores en un grado a las del autor.",
+        "d": "Solo multa, no penas de prisión."
+      },
+      "correct": "a",
+      "explicacion": "El art. 615 bis CP establece que 'Las mismas penas previstas en los delitos a que se refiere el presente capítulo se impondrán a quienes los financien, reciban financiación de dichas personas, recluten a personas para cometer cualquiera de dichos delitos, o suministren bienes o medios materiales a quien los vaya a cometer'. La financiación y apoyo logístico a estos delitos graves recibe la misma pena que la autoría.",
+      "ley": "CP, art. 615 bis"
+    },
+    {
+      "id": "tema_08_test_10_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 607 bis.2.6.º CP, ¿cuál es la pena por la desaparición forzada de personas como delito de lesa humanidad?",
+      "options": {
+        "a": "Prisión de doce a quince años.",
+        "b": "Prisión de ocho a doce años.",
+        "c": "Prisión de diez a quince años.",
+        "d": "Prisión permanente revisable."
+      },
+      "correct": "a",
+      "explicacion": "El art. 607 bis.2.6.º CP establece que se castiga 'Con la pena de prisión de doce a quince años la desaparición forzada de personas'. La desaparición forzada se define como la aprehensión, detención o secuestro realizado por agentes del Estado o con su autorización, seguida de la negativa a reconocer la privación de libertad o de ocultar el paradero de la persona.",
+      "ley": "CP, art. 607 bis.2.6.º"
+    },
+    {
+      "id": "tema_08_test_10_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 607.1.3.º CP, ¿cuál es la pena por someter a un grupo a condiciones de existencia que pongan en peligro su vida, en el contexto del genocidio?",
+      "options": {
+        "a": "Prisión permanente revisable.",
+        "b": "Prisión de ocho a quince años.",
+        "c": "Prisión de quince a veinte años.",
+        "d": "Prisión de cuatro a ocho años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 607.1.3.º CP establece la pena de 'prisión de ocho a quince años' por someter al grupo o a cualquiera de sus individuos a condiciones de existencia que pongan en peligro su vida o perturben gravemente su salud, o cuando se les causaran las lesiones del art. 150 CP. Es inferior a la prisión permanente revisable de los apartados 1.º y 2.º.",
+      "ley": "CP, art. 607.1.3.º"
+    },
+    {
+      "id": "tema_08_test_10_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 616 bis CP, ¿se puede alegar el cumplimiento de un mandato para eximir de responsabilidad en los delitos de genocidio o lesa humanidad?",
+      "options": {
+        "a": "Sí, siempre que el mandato provenga de autoridad legítima.",
+        "b": "Sí, si el superior jerárquico así lo ordena por escrito.",
+        "c": "Solo en caso de error invencible sobre la ilicitud del mandato.",
+        "d": "No, lo dispuesto en el art. 20.7.º (cumplimiento de un deber) en ningún caso resultará aplicable a quienes cumplan mandatos de cometer o participar en genocidio o delitos de lesa humanidad."
+      },
+      "correct": "d",
+      "explicacion": "El art. 616 bis CP establece que 'Lo dispuesto en el artículo 20.7.º de este Código en ningún caso resultará aplicable a quienes cumplan mandatos de cometer o participar en los hechos incluidos en los capítulos II (genocidio) y II bis (lesa humanidad) de este título'. La obediencia debida no puede justificar la participación en estos crímenes.",
+      "ley": "CP, art. 616 bis"
+    },
+    {
+      "id": "tema_08_test_10_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 609 CP, ¿cuál es la pena por maltratar o torturar a personas protegidas en conflicto armado?",
+      "options": {
+        "a": "Prisión de cuatro a ocho años, sin perjuicio de la pena que pueda corresponder por los resultados lesivos producidos.",
+        "b": "Prisión de dos a cuatro años.",
+        "c": "Prisión de seis a doce años.",
+        "d": "Prisión de ocho a doce años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 609 CP establece que quien, con ocasión de un conflicto armado, maltrate de obra o ponga en grave peligro la vida de una persona protegida, la torture o la someta a tratos inhumanos 'será castigado con la pena de prisión de cuatro a ocho años, sin perjuicio de la pena que pueda corresponder por los resultados lesivos producidos'. Es el tipo básico de los delitos contra personas protegidas.",
+      "ley": "CP, art. 609"
+    },
+    {
+      "id": "tema_08_test_10_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 606.1 CP, ¿cuál es la pena por violar la inmunidad personal del Jefe de un Estado extranjero?",
+      "options": {
+        "a": "Prisión de tres a seis años.",
+        "b": "Prisión de uno a cuatro años.",
+        "c": "Multa de doce a veinticuatro meses.",
+        "d": "Prisión de seis meses a tres años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 606.1 CP establece que 'El que violare la inmunidad personal del Jefe de otro Estado o de otra persona internacionalmente protegida por un Tratado, será castigado con la pena de prisión de seis meses a tres años'. Es distinto de la muerte del Jefe de Estado (art. 605.1: prisión permanente revisable).",
+      "ley": "CP, art. 606.1"
+    },
+    {
+      "id": "tema_08_test_10_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 607 bis.2.7.º CP, ¿cuál es la pena por detener ilegalmente a alguien con infracción de normas internacionales, como delito de lesa humanidad?",
+      "options": {
+        "a": "Prisión de cuatro a ocho años.",
+        "b": "Prisión de doce a quince años.",
+        "c": "Prisión de ocho a doce años, con pena inferior en grado si la detención dura menos de quince días.",
+        "d": "Prisión permanente revisable."
+      },
+      "correct": "c",
+      "explicacion": "El art. 607 bis.2.7.º CP establece que se castiga 'Con la pena de prisión de ocho a 12 años si detuvieran a otro, privándolo de su libertad, con infracción de las normas internacionales sobre la detención. Se impondrá la pena inferior en grado cuando la detención dure menos de quince días'.",
+      "ley": "CP, art. 607 bis.2.7.º"
+    },
+    {
+      "id": "tema_08_test_10_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 607.1.4.º CP, ¿cuál es la pena por llevar a cabo desplazamientos forzosos del grupo en el contexto del genocidio?",
+      "options": {
+        "a": "Prisión de cuatro a ocho años.",
+        "b": "Prisión permanente revisable.",
+        "c": "Prisión de ocho a quince años.",
+        "d": "Prisión de quince a veinte años."
+      },
+      "correct": "c",
+      "explicacion": "El art. 607.1.4.º CP castiga con 'la misma pena' (refiriéndose al apartado 3.º, de 8 a 15 años) los desplazamientos forzosos del grupo o sus miembros, la adopción de medidas que tiendan a impedir su género de vida o reproducción, o el traslado forzoso de individuos de un grupo a otro.",
+      "ley": "CP, art. 607.1.4.º"
+    },
+    {
+      "id": "tema_08_test_10_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 607 bis.2.4.º CP, ¿cuál es la pena por deportar forzosamente a personas como crimen de lesa humanidad?",
+      "options": {
+        "a": "Prisión de ocho a doce años.",
+        "b": "Prisión de seis a ocho años.",
+        "c": "Prisión de doce a quince años.",
+        "d": "Prisión de cuatro a ocho años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 607 bis.2.4.º CP establece que se castiga 'Con la pena de prisión de ocho a 12 años si deportaran o trasladaran por la fuerza, sin motivos autorizados por el derecho internacional, a una o más personas a otro Estado o lugar, mediante la expulsión u otros actos de coacción'.",
+      "ley": "CP, art. 607 bis.2.4.º"
+    },
+    {
+      "id": "tema_08_test_10_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 611.1.º CP, ¿cuál es la pena por realizar o ordenar ataques indiscriminados contra la población civil con ocasión de un conflicto armado?",
+      "options": {
+        "a": "Prisión de cuatro a ocho años.",
+        "b": "Prisión de diez a quince años, sin perjuicio de la pena por los resultados producidos.",
+        "c": "Prisión de cinco a diez años.",
+        "d": "Prisión permanente revisable."
+      },
+      "correct": "b",
+      "explicacion": "El art. 611 CP establece la pena de 'prisión de diez a quince años, sin perjuicio de la pena que corresponda por los resultados producidos' para quien, con ocasión de un conflicto armado, realice u ordene ataques indiscriminados o excesivos, haga objeto a la población civil de ataques o represalias, destruya buques innecesariamente, obligue a prisioneros a servir a la parte adversa, deporte o retenga ilegalmente a personas protegidas, o practique segregación racial.",
+      "ley": "CP, art. 611"
+    },
+    {
+      "id": "tema_08_test_10_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 607 bis.2.8.º CP, ¿cuál es la pena por cometer tortura grave sobre personas bajo custodia como crimen de lesa humanidad?",
+      "options": {
+        "a": "Prisión de dos a seis años.",
+        "b": "Prisión permanente revisable.",
+        "c": "Prisión de ocho a doce años.",
+        "d": "Prisión de cuatro a ocho años para tortura grave, y prisión de dos a seis años si es menos grave."
+      },
+      "correct": "d",
+      "explicacion": "El art. 607 bis.2.8.º CP establece que los reos de lesa humanidad serán castigados 'Con la pena de cuatro a ocho años de prisión si cometieran tortura grave sobre personas que tuvieran bajo su custodia o control, y con la de prisión de dos a seis años si fuera menos grave'. La pena se impone sin perjuicio de las correspondientes a otros atentados contra derechos de la víctima.",
+      "ley": "CP, art. 607 bis.2.8.º"
+    }
+  ]
+}

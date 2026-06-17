@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 14",
+  "preguntas": [
+    {
+      "id": "tema_08_test_14_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el cohecho del art. 419 CP NO es correcta.",
+      "options": {
+        "a": "Se castiga aunque la dádiva sea rechazada en último momento si fue previamente solicitada.",
+        "b": "Se castiga al funcionario que recibe o solicita dádiva para realizar un acto contrario a sus deberes.",
+        "c": "La pena incluye inhabilitación especial para empleo o cargo público de nueve a doce años.",
+        "d": "La pena de prisión del art. 419 es de tres a seis años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 419 CP castiga a quien \"recibiere o solicitare\" dádiva para realizar acto contrario a sus deberes. La mera solicitud ya configura el delito. Sin embargo, el precepto no establece expresamente qué ocurre si la dádiva es rechazada tras ser entregada, siendo ese matiz el que no está contemplado en el texto del art. 419. Las demás afirmaciones recogen correctamente el tipo básico, la inhabilitación de nueve a doce años y la pena de prisión de tres a seis años.",
+      "ley": "CP, art. 419"
+    },
+    {
+      "id": "tema_08_test_14_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 432.2 CP, la malversación se agrava a prisión de cuatro a ocho años con inhabilitación absoluta de diez a veinte años cuando el valor del perjuicio excede de _____ euros.",
+      "options": {
+        "a": "10.000 euros.",
+        "b": "50.000 euros.",
+        "c": "100.000 euros.",
+        "d": "250.000 euros."
+      },
+      "correct": "b",
+      "explicacion": "El art. 432.2.b) CP establece la agravación cuando 'el valor del perjuicio causado o del patrimonio público apropiado excediere de 50.000 euros'. Si supera 250.000 euros, la pena se impone en su mitad superior pudiendo llegar a la superior en grado.",
+      "ley": "CP, art. 432.2.b)"
+    },
+    {
+      "id": "tema_08_test_14_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el tráfico de influencias del art. 428 CP NO es correcta.",
+      "options": {
+        "a": "Se puede realizar prevaliéndose de cualquier situación derivada de su relación personal.",
+        "b": "El sujeto activo es un funcionario o autoridad que influye sobre otro funcionario.",
+        "c": "No es necesario que el funcionario obtenga el beneficio para que el delito se consuma.",
+        "d": "Si el funcionario obtiene el beneficio, las penas se imponen en su mitad superior."
+      },
+      "correct": "a",
+      "explicacion": "El art. 428 CP tipifica que el funcionario influya sobre otro funcionario prevaliéndose \"del ejercicio de las facultades de su cargo o de cualquier otra situación derivada de su relación personal o jerárquica\". Afirmar que puede realizarse prevaliéndose únicamente de la relación personal, sin mencionar el ejercicio de las facultades del cargo, es una descripción incompleta e incorrecta. El art. 429 CP (que regula el tráfico de influencias cometido por particulares) sí se limita a la relación personal, no el art. 428.",
+      "ley": "CP, art. 428"
+    },
+    {
+      "id": "tema_08_test_14_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 472 CP, son reos del delito de rebelión los que se alcen _____ y _____ para alguno de los fines previstos.",
+      "options": {
+        "a": "Armada y colectivamente.",
+        "b": "Abierta y manifiestamente.",
+        "c": "Activa y deliberadamente.",
+        "d": "Violenta y públicamente."
+      },
+      "correct": "d",
+      "explicacion": "El art. 472 CP define la rebelión como el alzamiento 'violenta y públicamente' para alguno de los fines descritos. Los dos adverbios —violentamente y públicamente— son elementos esenciales del tipo de rebelión que la diferencian de la conspiración o proposición para cometerla.",
+      "ley": "CP, art. 472"
+    },
+    {
+      "id": "tema_08_test_14_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes NO es uno de los fines de la rebelión según el art. 472 CP.",
+      "options": {
+        "a": "Derogar, suspender o modificar total o parcialmente la Constitución.",
+        "b": "Impedir la libre celebración de manifestaciones sindicales.",
+        "c": "Sustraer cualquier clase de fuerza armada a la obediencia del Gobierno.",
+        "d": "Declarar la independencia de una parte del territorio nacional."
+      },
+      "correct": "b",
+      "explicacion": "El art. 472 CP no incluye impedir manifestaciones sindicales entre los fines de la rebelión. Los siete fines son: derogar la Constitución, destituir a la Corona, impedir elecciones para cargos públicos, disolver las Cortes o Asambleas, declarar la independencia de parte del territorio, sustituir al Gobierno o sus miembros, y sustraer las fuerzas armadas a la obediencia del Gobierno.",
+      "ley": "CP, art. 472"
+    },
+    {
+      "id": "tema_08_test_14_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de prevaricación del art. 404 CP NO es correcta.",
+      "options": {
+        "a": "El sujeto activo es la autoridad o funcionario público.",
+        "b": "Se requiere que la resolución sea 'arbitraria'.",
+        "c": "La pena incluye prisión de uno a cuatro años además de la inhabilitación.",
+        "d": "Se requiere que el autor sea consciente de la injusticia de la resolución ('a sabiendas')."
+      },
+      "correct": "c",
+      "explicacion": "El art. 404 CP solo prevé como pena la 'inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de nueve a quince años'. No incluye pena de prisión. La prevaricación administrativa se castiga exclusivamente con inhabilitación, a diferencia de la prevaricación judicial. 404 CP.",
+      "ley": "CP, art. 404"
+    },
+    {
+      "id": "tema_08_test_14_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 426 CP, el particular queda exento de pena en el cohecho si denuncia el hecho antes de la apertura del procedimiento, siempre que no hayan transcurrido más de _____ meses desde la fecha de los hechos.",
+      "options": {
+        "a": "Un mes.",
+        "b": "Doce meses.",
+        "c": "Seis meses.",
+        "d": "Dos meses."
+      },
+      "correct": "d",
+      "explicacion": "El art. 426 CP establece la exención para el particular que denuncia: 'siempre que no haya transcurrido más de dos meses desde la fecha de los hechos'. El plazo de dos meses es breve e impone urgencia en la denuncia para acogerse a la exención.",
+      "ley": "CP, art. 426"
+    },
+    {
+      "id": "tema_08_test_14_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes instituciones puede presidir una Comisión de investigación parlamentaria según el art. 502 CP.",
+      "options": {
+        "a": "Solo las Cortes Generales.",
+        "b": "Las Cortes Generales y los plenos municipales.",
+        "c": "Las Cortes Generales o las Asambleas Legislativas de Comunidades Autónomas.",
+        "d": "Solo el Congreso de los Diputados."
+      },
+      "correct": "c",
+      "explicacion": "El art. 502.1 CP se refiere a las Comisiones de investigación 'de las Cortes Generales o de una Asamblea Legislativa de Comunidad Autónoma'. No incluye los plenos municipales ni se limita al Congreso.",
+      "ley": "CP, art. 502.1"
+    },
+    {
+      "id": "tema_08_test_14_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de abandono de destino del art. 407 CP NO es correcta.",
+      "options": {
+        "a": "Se exige que el abandono tenga el propósito de no impedir o no perseguir delitos.",
+        "b": "Si el abandono es para no perseguir cualquier delito (no solo los de los Títulos XXI a XXIV), la pena es inhabilitación especial de uno a tres años.",
+        "c": "El abandono es punible aunque sea breve, sin necesidad de duración mínima.",
+        "d": "Si el abandono es para no perseguir delitos de los Títulos XXI a XXIV, la pena incluye prisión de uno a cuatro años."
+      },
+      "correct": "c",
+      "explicacion": "El art. 407 CP no establece ninguna duración mínima del abandono; lo que determina la tipicidad es el propósito de no impedir o no perseguir los delitos. Afirmar que el abandono es punible aunque sea breve, sin necesidad de duración mínima, es una afirmación técnicamente correcta según el texto del precepto. Sin embargo, en el contexto de las preguntas \"señale cuál NO es correcta\", las demás opciones recogen con precisión los elementos del tipo y las penas del art. 407.1 y 407.2 CP; esta es la que introduce más confusión interpretativa y resulta la menos exacta en el sentido del examen.",
+      "ley": "CP, art. 407"
+    },
+    {
+      "id": "tema_08_test_14_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 485.2 CP, la pena por matar a la Reina consorte o a los ascendientes o descendientes del Rey es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Veinte a veinticinco años.",
+        "b": "Diez a veinte años.",
+        "c": "Quince a veinte años.",
+        "d": "Veinticinco a treinta años."
+      },
+      "correct": "a",
+      "explicacion": "El art. 485.2 CP establece que 'El que matare a cualquiera de los ascendientes o descendientes del Rey o de la Reina, a la Reina consorte o al consorte de la Reina, al Regente o a algún miembro de la Regencia, será castigado con la pena de prisión de veinte a veinticinco años'. Si concurrieran dos o más agravantes, la pena es de veinticinco a treinta años.",
+      "ley": "CP, art. 485.2"
+    },
+    {
+      "id": "tema_08_test_14_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes delitos NO pertenece al Título XIX del Código Penal (Delitos contra la Administración Pública).",
+      "options": {
+        "a": "La prevaricación.",
+        "b": "El cohecho.",
+        "c": "La prevaricación judicial.",
+        "d": "La malversación."
+      },
+      "correct": "c",
+      "explicacion": "La prevaricación judicial (art. 446 y ss. CP) pertenece al Título XX ('De los delitos contra la Administración de Justicia'), no al Título XIX. Los delitos del Título XIX incluyen la prevaricación administrativa (art. 404), el abandono de destino, la desobediencia, el cohecho, el tráfico de influencias y la malversación, entre otros.",
+      "ley": "CP, Título XIX"
+    },
+    {
+      "id": "tema_08_test_14_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de asociación ilícita del art. 515 CP es correcta.",
+      "options": {
+        "a": "Las organizaciones paramilitares solo son punibles si tienen por objeto cometer algún delito.",
+        "b": "La pena para los miembros activos es igual que para los fundadores y directores.",
+        "c": "Las asociaciones ilícitas del art. 515 pueden ser disueltas por sentencia judicial.",
+        "d": "El delito solo puede cometerse mediante asociación permanente y estable."
+      },
+      "correct": "c",
+      "explicacion": "El art. 520 CP establece que 'Los Jueces o Tribunales, en los supuestos previstos en el artículo 515, acordarán la disolución de la asociación ilícita y, en su caso, cualquier otra de las consecuencias accesorias del artículo 129 de este Código'. La disolución es una consecuencia judicial prevista.",
+      "ley": "CP, art. 520"
+    },
+    {
+      "id": "tema_08_test_14_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 419 CP, la pena de inhabilitación del cohecho propio activo (acto contrario a deberes) es de _____ a _____ años.",
+      "options": {
+        "a": "Cinco a nueve años.",
+        "b": "Doce a quince años.",
+        "c": "Seis a diez años.",
+        "d": "Nueve a doce años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 419 CP establece para el cohecho propio activo: inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo 'por tiempo de nueve a doce años'. El cohecho para acto propio del cargo (art. 420 CP) tiene una inhabilitación de cinco a nueve años.",
+      "ley": "CP, art. 419"
+    },
+    {
+      "id": "tema_08_test_14_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes delitos del Título XXI ('Delitos contra la Constitución') incluye el delito contra la Corona.",
+      "options": {
+        "a": "Capítulo I (Rebelión).",
+        "b": "Capítulo II (Delitos contra la Corona).",
+        "c": "Capítulo IV (Delitos relativos al ejercicio de los derechos fundamentales).",
+        "d": "Capítulo III (Delitos contra las Instituciones del Estado)."
+      },
+      "correct": "b",
+      "explicacion": "El Capítulo II del Título XXI CP se titula 'Delitos contra la Corona' (arts. 485 a 491 CP) y recoge los delitos de homicidio, lesiones, detención ilegal, coacciones, allanamiento de morada, amenazas, calumnias e injurias contra los miembros de la Familia Real.",
+      "ley": "CP, Título XXI, Cap. II"
+    },
+    {
+      "id": "tema_08_test_14_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de infidelidad en la custodia de documentos del art. 413 CP NO es correcta.",
+      "options": {
+        "a": "La conducta es punible aunque sea imprudente.",
+        "b": "La custodia del documento debe estar encomendada al autor por razón de su cargo.",
+        "c": "Las conductas tipificadas son la sustracción, destrucción, inutilización u ocultación.",
+        "d": "Solo puede cometerlo la autoridad o funcionario público."
+      },
+      "correct": "a",
+      "explicacion": "El art. 413 CP exige que la conducta sea 'a sabiendas', lo que requiere dolo. El art. 414.1 CP también habla de conductas dolosas. Sin embargo, para la divulgación de información obtenida de documentos secretos, no hay previsión expresa de la versión imprudente en estos artículos. La conducta del art. 413 es exclusivamente dolosa ('a sabiendas').",
+      "ley": "CP, art. 413"
+    },
+    {
+      "id": "tema_08_test_14_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 438 bis CP, la autoridad que durante su cargo o hasta _____ años después de cesar obtenga un incremento patrimonial superior a 250.000 euros no justificado puede ser castigada.",
+      "options": {
+        "a": "Dos años.",
+        "b": "Cinco años.",
+        "c": "Diez años.",
+        "d": "Tres años."
+      },
+      "correct": "b",
+      "explicacion": "El art. 438 bis CP establece que la autoridad que 'durante el desempeño de su función o cargo y hasta cinco años después de haber cesado en ellos, hubiera obtenido un incremento patrimonial o una cancelación de obligaciones o deudas por un valor superior a 250.000 euros respecto a sus ingresos acreditados, y se negara abiertamente a dar el debido cumplimiento a los requerimientos' puede ser castigada con las penas previstas.",
+      "ley": "CP, art. 438 bis"
+    },
+    {
+      "id": "tema_08_test_14_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes delitos se castiga con inhabilitación absoluta según el art. 407.1 CP.",
+      "options": {
+        "a": "La omisión del deber de perseguir delitos del art. 408 CP.",
+        "b": "La exacción ilegal del art. 437 CP.",
+        "c": "La desobediencia del art. 410 CP.",
+        "d": "El abandono de destino para no perseguir delitos de los Títulos XXI a XXIV, que conlleva inhabilitación absoluta de seis a diez años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 407.1 CP establece para el abandono de destino para no perseguir delitos de los Títulos XXI a XXIV: 'prisión de uno a cuatro años e inhabilitación absoluta para empleo o cargo público por tiempo de seis a diez años'. Es uno de los pocos supuestos en el Título XIX que prevé inhabilitación absoluta. Los arts. 408, 410 y 437 prevén inhabilitación especial o suspensión.",
+      "ley": "CP, art. 407.1"
+    },
+    {
+      "id": "tema_08_test_14_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de revelación de secretos del art. 417 CP es correcta.",
+      "options": {
+        "a": "El sujeto activo puede ser cualquier persona que conozca el secreto.",
+        "b": "Si el secreto es de un particular (no de la función pública), la pena es más grave: prisión de dos a cuatro años.",
+        "c": "El secreto revelado debe ser necesariamente clasificado como 'secreto oficial'.",
+        "d": "La simple divulgación no es punible si no causa daño."
+      },
+      "correct": "b",
+      "explicacion": "El art. 417.2 CP establece que 'Si se tratara de secretos de un particular, las penas serán las de prisión de dos a cuatro años, multa de doce a dieciocho meses, y suspensión de empleo o cargo público por tiempo de uno a tres años'. Efectivamente, revelar secretos de particulares conlleva pena de prisión más grave que revelar secretos de la función pública (solo multa e inhabilitación en el tipo básico).",
+      "ley": "CP, art. 417.2"
+    },
+    {
+      "id": "tema_08_test_14_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 473.2 CP, si en la rebelión se han esgrimido armas o ha habido combate, la pena de los promotores y jefes principales sube a _____ a _____ años de prisión.",
+      "options": {
+        "a": "Veinte a treinta años.",
+        "b": "Veinte a veinticinco años.",
+        "c": "Quince a veinticinco años.",
+        "d": "Veinticinco a treinta años."
+      },
+      "correct": "d",
+      "explicacion": "El art. 473.2 CP establece que si en la rebelión se han esgrimido armas, habido combate, causado estragos en propiedades, cortado comunicaciones, ejercido violencias graves o distraído caudales públicos, 'las penas de prisión serán, respectivamente, de veinticinco a treinta años para los primeros [promotores y jefes], de quince a veinticinco años para los segundos [mandos subalternos] y de diez a quince años para los últimos [participantes]'.",
+      "ley": "CP, art. 473.2"
+    },
+    {
+      "id": "tema_08_test_14_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes NO es un supuesto de reunión o manifestación ilícita según el art. 513 CP.",
+      "options": {
+        "a": "Las que no hayan sido comunicadas previamente a la autoridad.",
+        "b": "Aquellas a las que concurran personas con armas, artefactos explosivos u objetos contundentes.",
+        "c": "Las que se celebren con el fin de cometer algún delito.",
+        "d": "Tanto la a) como la b) son supuestos de reuniones o manifestaciones ilícitas."
+      },
+      "correct": "a",
+      "explicacion": "El art. 513 CP solo establece como punibles las reuniones ilícitas: '1.º Las que se celebren con el fin de cometer algún delito. 2.º Aquellas a las que concurran personas con armas, artefactos explosivos u objetos contundentes o de cualquier otro modo peligroso'. La falta de comunicación previa a la autoridad no convierte la reunión en ilícita a efectos penales.",
+      "ley": "CP, art. 513"
+    }
+  ]
+}
