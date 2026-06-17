@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 18",
+  "preguntas": [
+    {
+      "id": "tema_08_test_18_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el sistema vicarial del art. 99 CP (concurrencia de penas y medidas de seguridad) es correcta.",
+      "options": {
+        "a": "Se cumple primero la medida de seguridad, que se abona al tiempo de la pena; si tras la medida la pena pone en peligro los efectos conseguidos, puede suspenderse.",
+        "b": "Siempre se cumple primero la pena y luego la medida de seguridad.",
+        "c": "Se cumplen simultáneamente la pena y la medida de seguridad.",
+        "d": "El juez puede ordenar cualquier orden de cumplimiento a su discreción."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 99 CP establece el sistema vicarial: 'el juez o tribunal ordenará el cumplimiento de la medida [primero], que se abonará para el de la pena. Una vez alzada la medida de seguridad, el juez o tribunal podrá, si con la ejecución de la pena se pusieran en peligro los efectos conseguidos a través de aquélla, suspender el cumplimiento del resto de la pena'.",
+      "ley": "CP, art. 99"
+    },
+    {
+      "id": "tema_08_test_18_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Un funcionario recibe una dádiva en consideración a su cargo sin realizar ningún acto concreto. Según el art. 422 CP, ¿qué delito comete y cuál es la pena?",
+      "options": {
+        "a": "Cohecho propio activo del art. 419 CP; prisión de tres a seis años.",
+        "b": "No comete delito si no realiza ningún acto concreto a cambio.",
+        "c": "Tráfico de influencias del art. 428 CP.",
+        "d": "Cohecho impropio pasivo del art. 422 CP; prisión de seis meses a un año y suspensión de empleo y cargo de uno a tres años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 422 CP castiga el cohecho impropio pasivo: el funcionario que 'admitiera, por sí o por persona interpuesta, dádiva o regalo que le fueren ofrecidos en consideración a su cargo o función, incurrirá en la pena de prisión de seis meses a un año y suspensión de empleo y cargo público de uno a tres años'. No es necesario que realice ningún acto concreto.",
+      "ley": "CP, art. 422"
+    },
+    {
+      "id": "tema_08_test_18_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes es una circunstancia que OBLIGA a imponer la prisión permanente revisable en los casos de asesinato según el art. 140 CP.",
+      "options": {
+        "a": "Que el autor haya sido previamente condenado por otro asesinato.",
+        "b": "Que el asesinato vaya precedido de un delito contra la libertad sexual que el autor haya cometido sobre la misma víctima.",
+        "c": "Que el asesinato se cometa con alevosía y ensañamiento simultáneamente.",
+        "d": "Que la víctima sea funcionario público en el ejercicio de sus funciones."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 140.1.2.º CP establece que el asesinato se castiga con prisión permanente revisable 'Que el hecho fuera subsiguiente a un delito contra la libertad sexual que el autor hubiera cometido sobre la víctima'. Las opciones a) (el condena previa no está en el art. 140.1), c) (la concurrencia de agravantes del art. 139 solo agrava en mitad superior según el art. 139.2) y d) (no figura en el art. 140) son incorrectas.",
+      "ley": "CP, art. 140.1.2.º"
+    },
+    {
+      "id": "tema_08_test_18_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Un particular ofrece 3.000 euros a un funcionario para que no dicte una resolución que debería dictar. Según el Código Penal, ¿qué delito comete el particular?",
+      "options": {
+        "a": "Tráfico de influencias del art. 429 CP.",
+        "b": "No comete delito si el funcionario rechaza la oferta.",
+        "c": "Solo comete cohecho si el funcionario acepta.",
+        "d": "Cohecho activo del art. 424.1 CP, con las mismas penas que el funcionario corrompido."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la a). El art. 424.1 CP establece que el particular que 'ofreciere o entregare dádiva o retribución de cualquier otra clase a una autoridad, funcionario público o persona que participe en el ejercicio de la función pública para que realice un acto contrario a los deberes inherentes a su cargo o un acto propio de su cargo, para que no realice o retrase el que debiera practicar, o en consideración a su cargo o función, será castigado en sus respectivos casos, con las mismas penas de prisión y multa que la autoridad, funcionario o persona corrompida'. El mero ofrecimiento es suficiente.",
+      "ley": "CP, art. 424.1"
+    },
+    {
+      "id": "tema_08_test_18_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál es la principal diferencia entre el delito de conspiración para delinquir (art. 17.1 CP) y la coautoría en tentativa (art. 16.3 CP).",
+      "options": {
+        "a": "En la conspiración, los sujetos se conciertan para ejecutar el delito pero aún no han dado principio a la ejecución; en la tentativa con coautores, ya se han iniciado los actos ejecutivos.",
+        "b": "No hay diferencia; ambas figuras son idénticas.",
+        "c": "La conspiración solo es punible en delitos graves; la tentativa en cualquier delito.",
+        "d": "La conspiración requiere más de dos personas; la tentativa con coautores solo dos."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). La conspiración (art. 17.1 CP) es un acto preparatorio: los sujetos se conciertan y resuelven ejecutar el delito pero aún no han comenzado la ejecución. La tentativa (art. 16 CP) con coautores implica que ya se ha dado principio a la ejecución 'por hechos exteriores'. La diferencia es la fase del iter criminis alcanzada.",
+      "ley": "CP, arts. 16 y 17"
+    },
+    {
+      "id": "tema_08_test_18_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 130.5.º CP, el perdón del ofendido extingue la responsabilidad criminal en los delitos leves. ¿En qué supuesto específico NO extingue la responsabilidad aunque la víctima sea el ofendido?",
+      "options": {
+        "a": "Cuando el acusado es reincidente.",
+        "b": "En los delitos cometidos contra personas menores de edad o personas con discapacidad necesitadas de especial protección que afecten a bienes jurídicos eminentemente personales.",
+        "c": "Cuando el Ministerio Fiscal ya ha formulado acusación.",
+        "d": "Cuando el perdón es posterior a la sentencia."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 130.5.º CP establece que 'En los delitos cometidos contra personas menores de edad o personas con discapacidad necesitadas de especial protección que afecten a bienes jurídicos eminentemente personales, el perdón de la persona ofendida no extingue la responsabilidad criminal'. Esta excepción protege a las víctimas más vulnerables.",
+      "ley": "CP, art. 130.5.º"
+    },
+    {
+      "id": "tema_08_test_18_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la eximente incompleta del art. 21.1.ª CP es correcta.",
+      "options": {
+        "a": "La eximente incompleta solo se aplica a la legítima defensa.",
+        "b": "La eximente incompleta excluye la pena pero no la medida de seguridad.",
+        "c": "La eximente incompleta (concurrencia parcial de los requisitos de las eximentes del art. 20) es una atenuante que permite reducir la pena, pudiendo el juez aplicar la pena inferior en uno o dos grados.",
+        "d": "La eximente incompleta se refiere exclusivamente a los trastornos mentales del art. 20.1.º."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 21.1.ª CP establece como atenuante 'Las causas expresadas en el capítulo anterior [eximentes del art. 20], cuando no concurrieren todos los requisitos necesarios para eximir de responsabilidad en sus respectivos casos'. La eximente incompleta es una atenuante cualificada que permite la reducción de la pena en uno o dos grados (art. 68 CP).",
+      "ley": "CP, art. 21.1.ª"
+    },
+    {
+      "id": "tema_08_test_18_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Un militar no denuncia a sus superiores una conspiración de rebelión de la que tiene conocimiento. Según el art. 476.2 CP, ¿cuál es la pena?",
+      "options": {
+        "a": "La misma que para los rebeldes.",
+        "b": "Solo inhabilitación especial de uno a tres años.",
+        "c": "Las mismas penas previstas en el art. 476.1 en su mitad inferior: prisión de dos a cinco años e inhabilitación de seis a diez años, en su mitad inferior.",
+        "d": "No se castiga si el militar no participa activamente en la rebelión."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 476.2 CP establece que el militar que, 'teniendo conocimiento de que se trata de cometer un delito de rebelión, no lo denuncie inmediatamente a sus superiores o a las autoridades o funcionarios que, por razón de su cargo, tengan la obligación de perseguir el delito', será castigado 'con las mismas penas previstas en el apartado anterior [art. 476.1] en su mitad inferior'. El art. 476.1 prevé prisión de dos a cinco años e inhabilitación de seis a diez años.",
+      "ley": "CP, art. 476.2"
+    },
+    {
+      "id": "tema_08_test_18_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes diferencias entre la trata de seres humanos del art. 177 bis CP y el delito de inmigración ilegal del art. 318 bis CP es correcta.",
+      "options": {
+        "a": "La trata (art. 177 bis) persigue la explotación de la víctima como finalidad; la inmigración ilegal (art. 318 bis) castiga la facilitación de la entrada o permanencia ilegal sin exigir necesariamente una finalidad de explotación.",
+        "b": "No hay diferencia entre ambos delitos; regulan la misma conducta.",
+        "c": "La trata solo se castiga si la víctima es extranjera; el 318 bis, si es española.",
+        "d": "El art. 318 bis solo se aplica a ciudadanos de la Unión Europea."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). La trata de seres humanos del art. 177 bis CP requiere que la captación, transporte, etc. se realice con alguna de las finalidades de explotación (sexual, laboral, extracción de órganos, etc.). El art. 318 bis CP castiga promover, favorecer o facilitar la inmigración clandestina de personas sin necesitar esa finalidad de explotación. Ambos pueden concurrir (art. 177 bis.9 establece que las penas de trata se imponen sin perjuicio de las del art. 318 bis).",
+      "ley": "CP, arts. 177 bis y 318 bis"
+    },
+    {
+      "id": "tema_08_test_18_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 6.1 CP, la medida de seguridad no puede superar en duración a la pena abstractamente aplicable. Si el delito cometido tiene pena máxima de dos años de prisión, ¿cuál es la duración máxima de la medida de seguridad privativa de libertad?",
+      "options": {
+        "a": "No puede exceder de dos años.",
+        "b": "Puede ser indefinida si el sujeto sigue siendo peligroso.",
+        "c": "Puede superar los dos años si el tribunal lo estima necesario.",
+        "d": "Queda a discreción del Juez de Vigilancia Penitenciaria."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 6.2 CP establece el principio de proporcionalidad de las medidas de seguridad: 'Las medidas de seguridad no pueden resultar ni más gravosas ni de mayor duración que la pena abstractamente aplicable al hecho cometido'. Si la pena máxima abstracta es dos años, la medida de seguridad no puede exceder de dos años.",
+      "ley": "CP, art. 6.2"
+    },
+    {
+      "id": "tema_08_test_18_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el desistimiento voluntario del art. 16.2 CP es correcta.",
+      "options": {
+        "a": "El desistimiento voluntario exime siempre de toda responsabilidad penal, incluso por los actos ya ejecutados.",
+        "b": "El desistimiento no es posible cuando hay coautores.",
+        "c": "El desistimiento solo es posible antes de que comience la ejecución.",
+        "d": "Quien desiste voluntariamente queda exento de responsabilidad por el delito intentado, pero no por los actos ejecutados si estos ya son constitutivos de otro delito."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 16.2 CP establece que 'Quedará exento de responsabilidad penal por el delito intentado quien evite voluntariamente la consumación del delito, bien desistiendo de la ejecución ya iniciada, bien impidiendo la producción del resultado, sin perjuicio de la responsabilidad en que pudiera haber incurrido por los actos ejecutados, si éstos fueren ya constitutivos de otro delito'. La exención es solo por el delito intentado, no por conductas previas ya constitutivas de delito.",
+      "ley": "CP, art. 16.2"
+    },
+    {
+      "id": "tema_08_test_18_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 122 CP, ¿quién tiene obligación de restitución aunque no sea responsable criminal ni civil del delito?",
+      "options": {
+        "a": "El encubridor del delito.",
+        "b": "El que por título lucrativo hubiere participado de los efectos de un delito, hasta la cuantía de su participación.",
+        "c": "El adquirente de buena fe de los bienes procedentes del delito.",
+        "d": "El asegurador del responsable civil."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 122 CP establece que 'El que por título lucrativo hubiere participado de los efectos de un delito, está obligado a la restitución de la cosa o al resarcimiento del daño hasta la cuantía de su participación'. Se trata del partícipe a título lucrativo (quien se beneficia de los efectos del delito sin ser autor ni cómplice ni encubridor).",
+      "ley": "CP, art. 122"
+    },
+    {
+      "id": "tema_08_test_18_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el art. 31 quater CP (atenuantes de personas jurídicas) es correcta.",
+      "options": {
+        "a": "Las personas jurídicas tienen las mismas atenuantes que las personas físicas.",
+        "b": "Las atenuantes de las personas jurídicas son las mismas que las del art. 21 CP.",
+        "c": "La reincidencia puede ser atenuante para la persona jurídica si ha implantado un compliance.",
+        "d": "Solo pueden ser atenuantes para la persona jurídica: confesar la infracción, colaborar en la investigación aportando pruebas decisivas, reparar el daño antes del juicio oral, o establecer medidas eficaces de prevención antes del inicio del juicio oral."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 31 quater CP establece un catálogo cerrado de atenuantes para personas jurídicas, realizadas 'con posterioridad a la comisión del delito y a través de sus representantes legales': a) confesar la infracción; b) colaborar aportando pruebas nuevas y decisivas; c) reparar o disminuir el daño; d) establecer medidas eficaces de prevención antes del inicio del juicio oral. No se aplican las atenuantes del art. 21 CP.",
+      "ley": "CP, art. 31 quater"
+    },
+    {
+      "id": "tema_08_test_18_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 190 CP, ¿qué efectos tienen las condenas de jueces extranjeros por delitos contra la libertad sexual a efectos del Código Penal español?",
+      "options": {
+        "a": "Ningún efecto en el Código Penal español.",
+        "b": "Solo se tienen en cuenta si son de países de la Unión Europea.",
+        "c": "Se equiparan a las sentencias de los jueces españoles a efectos de la agravante de reincidencia.",
+        "d": "Solo se aplican si existe tratado de reconocimiento mutuo de sentencias."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 190 CP establece que 'La condena de un Juez o Tribunal extranjero, impuesta por delitos comprendidos en este Título, será equiparada a las sentencias de los Jueces o Tribunales españoles a los efectos de la aplicación de la circunstancia agravante de reincidencia'. Es una excepción a la regla general del art. 22.8.ª que exige condena de tribunales españoles.",
+      "ley": "CP, art. 190"
+    },
+    {
+      "id": "tema_08_test_18_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre la omisión impropia del art. 11 CP es correcta.",
+      "options": {
+        "a": "Toda omisión se equipara a la acción en los delitos de resultado.",
+        "b": "La omisión solo se equipara a la acción en los delitos de resultado cuando la no evitación equivale a la causación, infringiendo un especial deber jurídico del autor (posición de garante por ley o por acción precedente).",
+        "c": "La posición de garante puede derivar de la mera promesa verbal de cuidar a alguien.",
+        "d": "La omisión impropia siempre se castiga con pena inferior que la acción."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 11 CP establece que los delitos de resultado solo se entenderán cometidos por omisión 'cuando la no evitación del mismo, al infringir un especial deber jurídico del autor, equivalga, según el sentido del texto de la ley, a su causación'. Las fuentes de la posición de garante son: a) obligación legal o contractual de actuar; b) acción u omisión precedente del omitente que haya creado el riesgo.",
+      "ley": "CP, art. 11"
+    },
+    {
+      "id": "tema_08_test_18_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 57 CP, ¿en qué tipo de delitos DEBEN imponerse obligatoriamente las prohibiciones del art. 48 cuando la víctima sea la pareja o ex pareja del condenado?",
+      "options": {
+        "a": "En todos los delitos del Código Penal.",
+        "b": "En los delitos mencionados en el párrafo 1 del art. 57 (homicidio, aborto, lesiones, contra la libertad, torturas, trata, delitos sexuales, contra la intimidad, el honor, el patrimonio, el orden socioeconómico y las relaciones familiares) cometidos contra la pareja o ex pareja.",
+        "c": "Solo en los delitos de violencia doméstica y de género.",
+        "d": "Solo cuando la pena impuesta sea superior a tres años de prisión."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 57.2 CP establece que en los supuestos de los delitos del párrafo primero del apartado 1 (homicidio, aborto, lesiones, libertad, torturas, trata, sexuales, intimidad, honor, patrimonio, relaciones familiares) cometidos contra la pareja o ex pareja u otras personas del entorno familiar, 'se acordará, en todo caso' la prohibición de aproximación del art. 48.2. Es obligatoria, no facultativa.",
+      "ley": "CP, art. 57.2"
+    },
+    {
+      "id": "tema_08_test_18_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito del art. 220.3 CP (sustitución de un niño por otro) es correcta.",
+      "options": {
+        "a": "La pena es de prisión de uno a cinco años, superior a la de la suposición de parto.",
+        "b": "La pena es la misma que la de la suposición de parto: seis meses a dos años.",
+        "c": "Solo puede cometerse en centros sanitarios.",
+        "d": "No es punible si se hace con el consentimiento de los padres biológicos."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 220.3 CP establece que 'La sustitución de un niño por otro será castigada con las penas de prisión de uno a cinco años', mientras que la suposición de parto (art. 220.1) se castiga con seis meses a dos años. La sustitución es más grave por su mayor complejidad y los perjuicios causados. No exige que se cometa en centro sanitario.",
+      "ley": "CP, art. 220.3"
+    },
+    {
+      "id": "tema_08_test_18_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 31 quinquies CP, ¿pueden las Administraciones públicas ser responsables penalmente como personas jurídicas?",
+      "options": {
+        "a": "Sí, sin ninguna excepción.",
+        "b": "Solo si actúan en el ámbito del mercado como empresas privadas.",
+        "c": "Solo en los delitos fiscales.",
+        "d": "No, las disposiciones de responsabilidad penal de personas jurídicas no son aplicables al Estado, las Administraciones públicas territoriales e institucionales, los Organismos Reguladores, las Agencias y Entidades públicas Empresariales."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 31 quinquies.1 CP establece que las disposiciones de responsabilidad penal de personas jurídicas 'no serán aplicables al Estado, a las Administraciones públicas territoriales e institucionales, a los Organismos Reguladores, las Agencias y Entidades públicas Empresariales, a las organizaciones internacionales de derecho público, ni a aquellas otras que ejerzan potestades públicas de soberanía o administrativas'.",
+      "ley": "CP, art. 31 quinquies.1"
+    },
+    {
+      "id": "tema_08_test_18_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el art. 26 CP (concepto de documento) es correcta.",
+      "options": {
+        "a": "Solo tienen la consideración de documentos los soportes escritos en papel.",
+        "b": "Los documentos electrónicos no tienen la consideración de documentos según el Código Penal.",
+        "c": "A efectos del Código Penal, se considera documento todo soporte material que exprese o incorpore datos, hechos o narraciones con eficacia probatoria o cualquier otro tipo de relevancia jurídica.",
+        "d": "Solo son documentos los expedidos por autoridad pública o fedatario."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 26 CP establece una definición amplia de documento: 'todo soporte material que exprese o incorpore datos, hechos o narraciones con eficacia probatoria o cualquier otro tipo de relevancia jurídica'. Esta definición incluye documentos electrónicos, fotos, grabaciones, etc., no se limita a soportes papel ni a documentos públicos.",
+      "ley": "CP, art. 26"
+    },
+    {
+      "id": "tema_08_test_18_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 25 CP, ¿a quién considera 'persona con discapacidad necesitada de especial protección' a efectos penales?",
+      "options": {
+        "a": "A cualquier persona con discapacidad reconocida legalmente.",
+        "b": "Solo a las personas con discapacidad física grave.",
+        "c": "A la persona con discapacidad que, tenga o no judicialmente modificada su capacidad de obrar, requiera de asistencia o apoyo para el ejercicio de su capacidad jurídica y para la toma de decisiones a causa de sus deficiencias intelectuales o mentales de carácter permanente.",
+        "d": "Solo a quienes estén internados en centros de protección."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 25 CP distingue dos conceptos: 'discapacidad' (deficiencias físicas, mentales, intelectuales o sensoriales que limiten la participación plena) y 'persona con discapacidad necesitada de especial protección' (la que, 'tenga o no judicialmente modificada su capacidad de obrar, requiera de asistencia o apoyo para el ejercicio de su capacidad jurídica y para la toma de decisiones respecto de su persona, de sus derechos o intereses a causa de sus deficiencias intelectuales o mentales de carácter permanente'). Esta última categoría merece mayor protección penal.",
+      "ley": "CP, art. 25"
+    }
+  ]
+}

@@ -795,8 +795,109 @@
       "total_preguntas": 400
     },
     "tema_08": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Derecho Penal",
+          "archivo": "guardia_civil/conocimientos/tema_08/tema_08_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_09": {
       "tests": [],

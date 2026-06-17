@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 7",
+  "preguntas": [
+    {
+      "id": "tema_08_test_07_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 217 CP, ¿cuál es la pena del delito de bigamia?",
+      "options": {
+        "a": "Prisión de seis meses a un año.",
+        "b": "Prisión de uno a tres años.",
+        "c": "Multa de doce a veinticuatro meses.",
+        "d": "Prisión de dos a cuatro años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 217 CP establece que 'El que contrajere segundo o ulterior matrimonio, a sabiendas de que subsiste legalmente el anterior, será castigado con la pena de prisión de seis meses a un año'.",
+      "ley": "CP, art. 217"
+    },
+    {
+      "id": "tema_08_test_07_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 218.1 CP, ¿cuál es la pena por celebrar matrimonio inválido para perjudicar al otro contrayente?",
+      "options": {
+        "a": "Multa de seis a doce meses.",
+        "b": "Inhabilitación especial de uno a tres años.",
+        "c": "Prisión de uno a tres años.",
+        "d": "Prisión de seis meses a dos años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 218.1 CP establece: 'El que, para perjudicar al otro contrayente, celebrare matrimonio inválido será castigado con la pena de prisión de seis meses a dos años'. El art. 218.2 CP exime de pena si el matrimonio fuese posteriormente convalidado.",
+      "ley": "CP, art. 218.1"
+    },
+    {
+      "id": "tema_08_test_07_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 219.1 CP, ¿cuál es la pena por autorizar un matrimonio en que concurra alguna causa de nulidad conocida o denunciada en el expediente?",
+      "options": {
+        "a": "Multa de seis a doce meses.",
+        "b": "Suspensión de empleo o cargo público de seis meses a dos años.",
+        "c": "Prisión de seis meses a dos años e inhabilitación especial para empleo o cargo público de dos a seis años.",
+        "d": "Prisión de uno a tres años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 219.1 CP establece que quien autorice matrimonio con causa de nulidad conocida o denunciada en el expediente 'será castigado con la pena de prisión de seis meses a dos años e inhabilitación especial para empleo o cargo público de dos a seis años'. Si la causa fuera dispensable, la pena es de suspensión de empleo o cargo público de seis meses a dos años.",
+      "ley": "CP, art. 219.1"
+    },
+    {
+      "id": "tema_08_test_07_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 220.1 CP, ¿cuál es la pena de la suposición de parto?",
+      "options": {
+        "a": "Multa de seis a doce meses.",
+        "b": "Prisión de seis meses a dos años.",
+        "c": "Prisión de uno a cuatro años.",
+        "d": "Prisión de dos a cinco años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 220.1 CP establece que 'La suposición de un parto será castigada con las penas de prisión de seis meses a dos años'. La sustitución de un niño por otro (art. 220.3 CP) tiene una pena mayor: prisión de uno a cinco años.",
+      "ley": "CP, art. 220.1"
+    },
+    {
+      "id": "tema_08_test_07_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 221.1 CP, ¿cuál es la pena por entrega de un menor a cambio de compensación económica eludiendo los procedimientos legales de adopción?",
+      "options": {
+        "a": "Multa de doce a veinticuatro meses.",
+        "b": "Prisión de seis meses a dos años.",
+        "c": "Prisión de uno a cinco años e inhabilitación especial para el ejercicio del derecho de la patria potestad, tutela, curatela o guarda por tiempo de cuatro a diez años.",
+        "d": "Prisión de dos a cuatro años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 221.1 CP establece para la denominada 'adopción ilegal': 'serán castigados con las penas de prisión de uno a cinco años y de inhabilitación especial para el ejercicio del derecho de la patria potestad, tutela, curatela o guarda por tiempo de cuatro a 10 años'. La misma pena se impone a quien lo recibe y al intermediario.",
+      "ley": "CP, art. 221.1"
+    },
+    {
+      "id": "tema_08_test_07_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 404 CP, ¿cuál es la pena del delito de prevaricación administrativa?",
+      "options": {
+        "a": "Inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de nueve a quince años.",
+        "b": "Prisión de uno a tres años.",
+        "c": "Multa de doce a veinticuatro meses e inhabilitación especial por tres años.",
+        "d": "Suspensión de empleo o cargo público de uno a tres años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 404 CP establece para la prevaricación administrativa (dictado a sabiendas de resolución arbitraria): 'se le castigará con la pena de inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de nueve a quince años'. No lleva pena privativa de libertad.",
+      "ley": "CP, art. 404"
+    },
+    {
+      "id": "tema_08_test_07_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 408 CP, ¿cuál es la pena por omisión del deber de perseguir delitos?",
+      "options": {
+        "a": "Prisión de seis meses a dos años.",
+        "b": "Inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años.",
+        "c": "Multa de doce a veinticuatro meses.",
+        "d": "Suspensión de empleo o cargo público de uno a tres años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 408 CP establece que 'La autoridad o funcionario que, faltando a la obligación de su cargo, dejare intencionadamente de promover la persecución de los delitos de que tenga noticia o de sus responsables, incurrirá en la pena de inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años'.",
+      "ley": "CP, art. 408"
+    },
+    {
+      "id": "tema_08_test_07_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 410.1 CP, ¿cuál es la pena por desobediencia abierta a resoluciones judiciales u órdenes de la autoridad superior?",
+      "options": {
+        "a": "Multa de tres a doce meses e inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años.",
+        "b": "Prisión de tres meses a un año.",
+        "c": "Prisión de seis meses a dos años.",
+        "d": "Suspensión de empleo o cargo de uno a tres años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 410.1 CP establece para las autoridades o funcionarios que se negaren abiertamente a dar el debido cumplimiento: 'incurrirán en la pena de multa de tres a doce meses e inhabilitación especial para empleo o cargo público por tiempo de seis meses a dos años'. No incurren en responsabilidad cuando el mandato constituye una infracción manifiesta, clara y terminante de una ley (art. 410.2 CP).",
+      "ley": "CP, art. 410.1"
+    },
+    {
+      "id": "tema_08_test_07_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 413 CP, ¿cuál es la pena por sustracción, destrucción u ocultación de documentos cuya custodia está encomendada por razón del cargo?",
+      "options": {
+        "a": "Multa de seis a veinticuatro meses.",
+        "b": "Prisión de seis meses a dos años e inhabilitación especial de uno a tres años.",
+        "c": "Suspensión de empleo o cargo de dos a cuatro años.",
+        "d": "Prisión de uno a cuatro años, multa de siete a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 413 CP establece la pena por infidelidad en la custodia de documentos: 'incurrirá en las penas de prisión de uno a cuatro años, multa de siete a veinticuatro meses, e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años'. Es una de las penas más graves del Título XIX.",
+      "ley": "CP, art. 413"
+    },
+    {
+      "id": "tema_08_test_07_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 417.1 CP, ¿cuál es la pena básica por revelación de secretos o informaciones por parte de la autoridad o funcionario público?",
+      "options": {
+        "a": "Prisión de uno a tres años.",
+        "b": "Prisión de seis meses a dos años.",
+        "c": "Solo inhabilitación especial de uno a cinco años.",
+        "d": "Multa de 12 a 18 meses e inhabilitación especial para empleo o cargo público por tiempo de 1 a 3 años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 417.1 CP establece la pena básica por revelación de secretos: 'incurrirá en la pena de multa de 12 a 18 meses e inhabilitación especial para empleo o cargo público por tiempo de 1 a 3 años'. Si de la revelación resultara grave daño para la causa pública o para tercero, la pena es de prisión de uno a tres años e inhabilitación de tres a cinco años.",
+      "ley": "CP, art. 417.1"
+    },
+    {
+      "id": "tema_08_test_07_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 407.1 CP, ¿cuál es la pena por abandono de destino para no impedir o no perseguir delitos de los Títulos XXI a XXIV del Código Penal?",
+      "options": {
+        "a": "Inhabilitación especial de uno a tres años.",
+        "b": "Prisión de uno a cuatro años e inhabilitación absoluta para empleo o cargo público por tiempo de seis a diez años.",
+        "c": "Multa de doce a veinticuatro meses.",
+        "d": "Suspensión de empleo de dos a cinco años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 407.1 CP establece que quien abandone su destino con el propósito de no impedir o no perseguir delitos comprendidos en los Títulos XXI, XXII, XXIII y XXIV 'se le castigará con la pena de prisión de uno a cuatro años e inhabilitación absoluta para empleo o cargo público por tiempo de seis a diez años'. Si fuera para no perseguir cualquier otro delito, inhabilitación especial de uno a tres años.",
+      "ley": "CP, art. 407.1"
+    },
+    {
+      "id": "tema_08_test_07_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 412.3 CP, ¿cuál es la pena para la autoridad o funcionario que, requerido por un particular, se abstiene de prestar auxilio para evitar un delito contra la vida de las personas?",
+      "options": {
+        "a": "Multa de tres a doce meses.",
+        "b": "Prisión de uno a tres años.",
+        "c": "Multa de dieciocho a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años.",
+        "d": "Suspensión de empleo o cargo de dos a cuatro años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 412.3 CP establece la pena más grave de la denegación de auxilio: cuando el requerimiento es para evitar 'un delito contra la vida de las personas', la pena es 'multa de dieciocho a veinticuatro meses e inhabilitación especial para empleo o cargo público por tiempo de tres a seis años'. Si es contra integridad, libertad sexual, salud o libertad: multa de doce a dieciocho meses y suspensión de uno a tres años.",
+      "ley": "CP, art. 412.3"
+    },
+    {
+      "id": "tema_08_test_07_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 405 CP, ¿cuál es la pena por proponer, nombrar o dar posesión para un cargo público a quien no reúne los requisitos legales?",
+      "options": {
+        "a": "Inhabilitación especial de uno a tres años.",
+        "b": "Multa de tres a ocho meses y suspensión de empleo o cargo público por tiempo de uno a tres años.",
+        "c": "Prisión de seis meses a dos años.",
+        "d": "Inhabilitación absoluta de seis a diez años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 405 CP establece que la autoridad o funcionario que proponga, nombre o dé posesión a quien no reúna los requisitos 'se le castigará con las penas de multa de tres a ocho meses y suspensión de empleo o cargo público por tiempo de uno a tres años'. La persona que acepta la propuesta sabiendo que carece de requisitos incurre en la misma pena de multa (art. 406 CP).",
+      "ley": "CP, art. 405"
+    },
+    {
+      "id": "tema_08_test_07_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 220.3 CP, ¿cuál es la pena por sustitución de un niño por otro?",
+      "options": {
+        "a": "Prisión de uno a cinco años.",
+        "b": "Prisión de seis meses a dos años.",
+        "c": "Prisión de dos a cuatro años.",
+        "d": "Prisión de tres a seis años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 220.3 CP establece que 'La sustitución de un niño por otro será castigada con las penas de prisión de uno a cinco años'. Es una pena superior a la de la suposición de parto (seis meses a dos años) por la mayor gravedad de la conducta.",
+      "ley": "CP, art. 220.3"
+    },
+    {
+      "id": "tema_08_test_07_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 416 CP, ¿qué pena se aplica a los particulares encargados accidentalmente de la custodia de documentos que cometan las conductas de los arts. 413, 414 y 415 CP?",
+      "options": {
+        "a": "Las mismas penas que los funcionarios públicos.",
+        "b": "La mitad de las penas señaladas para los funcionarios.",
+        "c": "Solo multa, nunca prisión.",
+        "d": "Las penas de prisión o multa inmediatamente inferiores a las respectivamente señaladas en los tres artículos anteriores."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 416 CP establece que los particulares encargados accidentalmente por comisión del Gobierno o de las autoridades 'incurran en las conductas descritas en los mismos' serán castigados 'con las penas de prisión o multa inmediatamente inferiores a las respectivamente señaladas en los tres artículos anteriores'. La condición accidental atenúa la pena respecto a los funcionarios.",
+      "ley": "CP, art. 416"
+    },
+    {
+      "id": "tema_08_test_07_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 409 CP, ¿cuál es la pena para las autoridades o funcionarios que promuevan, dirijan u organicen el abandono colectivo e ilegal de un servicio público?",
+      "options": {
+        "a": "Prisión de uno a tres años.",
+        "b": "Inhabilitación especial de uno a tres años.",
+        "c": "Multa de ocho a doce meses y suspensión de empleo o cargo público por tiempo de seis meses a dos años.",
+        "d": "Suspensión de empleo o cargo público de dos a cuatro años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 409 CP establece para quienes promuevan, dirijan u organicen el abandono colectivo de un servicio público: 'multa de ocho a doce meses y suspensión de empleo o cargo público por tiempo de seis meses a dos años'. Los que meramente participen en el abandono, causando grave perjuicio: solo multa de ocho a doce meses.",
+      "ley": "CP, art. 409"
+    },
+    {
+      "id": "tema_08_test_07_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 222 CP, ¿qué pena adicional se impone al educador, facultativo, autoridad o funcionario público que comete los delitos de suposición de parto o alteración de filiación?",
+      "options": {
+        "a": "Solo la inhabilitación absoluta.",
+        "b": "La pena prevista en el art. 220 en su mitad superior.",
+        "c": "La pena señalada en los artículos 220 y 221 más inhabilitación especial para empleo o cargo público, profesión u oficio, de dos a seis años.",
+        "d": "Privación del derecho al sufragio pasivo."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 222 CP establece que el educador, facultativo, autoridad o funcionario que realice las conductas de los arts. 220 y 221 'incurrirá en la pena en ellos señalada y, además, en la de inhabilitación especial para empleo o cargo público, profesión u oficio, de dos a seis años'. El término 'facultativo' comprende médicos, matronas, personal de enfermería y cualquier profesional sanitario o socio-sanitario.",
+      "ley": "CP, art. 222"
+    },
+    {
+      "id": "tema_08_test_07_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Según el art. 411 CP, ¿qué pena se impone a la autoridad o funcionario que, después de haber suspendido la ejecución de órdenes de sus superiores, las desobedeciere cuando aquellos hubieren desaprobado la suspensión?",
+      "options": {
+        "a": "Multa de 12 a 24 meses e inhabilitación especial para empleo o cargo público por tiempo de 1 a 3 años.",
+        "b": "Multa de tres a doce meses.",
+        "c": "Prisión de seis meses a dos años.",
+        "d": "Suspensión de empleo o cargo de dos a cinco años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 411 CP establece que la autoridad o funcionario que suspenda la ejecución de órdenes superiores y luego las desobedezca después de que aquellos hayan desaprobado la suspensión 'incurrirá en las penas de multa de 12 a 24 meses, e inhabilitación especial para empleo o cargo público por tiempo de 1 a 3 años'. Es diferente de la desobediencia del art. 410.",
+      "ley": "CP, art. 411"
+    },
+    {
+      "id": "tema_08_test_07_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Según el art. 220.5 CP, ¿cuál es la pena por sustituciones de niños en centros sanitarios por imprudencia grave?",
+      "options": {
+        "a": "Multa de seis a doce meses.",
+        "b": "Prisión de seis meses a un año.",
+        "c": "Prisión de uno a dos años.",
+        "d": "Solo responsabilidad civil."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 220.5 CP establece que 'Las sustituciones de un niño por otro que se produjeren en centros sanitarios o socio-sanitarios por imprudencia grave de los responsables de su identificación y custodia, serán castigadas con la pena de prisión de seis meses a un año'.",
+      "ley": "CP, art. 220.5"
+    },
+    {
+      "id": "tema_08_test_07_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Según el art. 410.2 CP, ¿en qué supuesto no incurren en responsabilidad criminal las autoridades o funcionarios que no dan cumplimiento a un mandato?",
+      "options": {
+        "a": "Cuando el mandato les cause perjuicio económico.",
+        "b": "Cuando el mandato no sea urgente.",
+        "c": "Cuando el mandato no venga firmado por la autoridad competente.",
+        "d": "Cuando el mandato constituya una infracción manifiesta, clara y terminante de un precepto de Ley o de cualquier otra disposición general."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 410.2 CP establece la excepción de la desobediencia debida: 'No obstante lo dispuesto en el apartado anterior, no incurrirán en responsabilidad criminal las autoridades o funcionarios por no dar cumplimiento a un mandato que constituya una infracción manifiesta, clara y terminante de un precepto de Ley o de cualquier otra disposición general'. El incumplimiento debe ser manifiesto, claro y terminante.",
+      "ley": "CP, art. 410.2"
+    }
+  ]
+}

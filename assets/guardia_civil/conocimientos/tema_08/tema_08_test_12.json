@@ -1,0 +1,307 @@
+{
+  "tema_numero": 8,
+  "tema": "Derecho Penal",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_08_test_12_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de asesinato NO es correcta según el Código Penal.",
+      "options": {
+        "a": "El asesinato con alevosía se castiga con prisión de quince a veinticinco años.",
+        "b": "Cuando concurren más de una de las circunstancias del art. 139 CP, se impone la pena en su mitad superior.",
+        "c": "El asesinato para facilitar la comisión de otro delito se castiga con pena de multa adicional.",
+        "d": "El asesinato de persona menor de dieciséis años se castiga con prisión permanente revisable."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la d). El asesinato para facilitar otro delito (art. 139.1.4.º CP) se castiga con prisión de quince a veinticinco años, no con multa adicional. Las opciones a) (art. 139.1), b) (art. 139.2) y c) (art. 140.1.1.º) son afirmaciones correctas.",
+      "ley": "CP, art. 139"
+    },
+    {
+      "id": "tema_08_test_12_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 163.3 CP, la pena de la detención ilegal se impone en _____ si el encierro o detención ha durado más de quince días.",
+      "options": {
+        "a": "Su mitad superior (cuatro a seis años).",
+        "b": "Pena de cinco a ocho años.",
+        "c": "Pena de seis a diez años.",
+        "d": "Pena superior en grado."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 163.3 CP establece que 'Se impondrá la pena de prisión de cinco a ocho años si el encierro o detención ha durado más de quince días'. La pena básica de la detención ilegal es de cuatro a seis años (art. 163.1); se reduce si se libera en los tres primeros días (pena inferior en grado).",
+      "ley": "CP, art. 163.3"
+    },
+    {
+      "id": "tema_08_test_12_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de tortura (art. 174 CP) NO es correcta.",
+      "options": {
+        "a": "Solo pueden cometerlo la autoridad o funcionario público.",
+        "b": "Se exige que el funcionario actúe abusando de su cargo.",
+        "c": "Se exige que tenga una finalidad específica: obtener confesión, castigar o discriminar.",
+        "d": "La pena incluye siempre la inhabilitación especial de dos a cuatro años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la d). El art. 174.1 CP establece que el culpable de tortura grave será castigado con 'prisión de dos a seis años' y se le impondrá 'en todo caso, la pena de inhabilitación ABSOLUTA de ocho a 12 años', no inhabilitación especial de dos a cuatro años. Las opciones a), b) y c) describen correctamente elementos del tipo del art. 174 CP.",
+      "ley": "CP, art. 174.1"
+    },
+    {
+      "id": "tema_08_test_12_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 142.1 CP, el homicidio por imprudencia grave cometido mediante vehículo a motor lleva además la pena de privación del derecho a conducir de _____ a _____ años.",
+      "options": {
+        "a": "Seis meses a dos años.",
+        "b": "Uno a seis años.",
+        "c": "Dos a cuatro años.",
+        "d": "Uno a tres años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 142.1 CP establece que si el homicidio imprudente grave 'se hubiera cometido utilizando un vehículo a motor o un ciclomotor, se impondrá asimismo la pena de privación del derecho a conducir vehículos a motor y ciclomotores de uno a seis años'. Es una pena acumulada a la de prisión de uno a cuatro años.",
+      "ley": "CP, art. 142.1"
+    },
+    {
+      "id": "tema_08_test_12_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes circunstancias NO agrava las lesiones del art. 148 CP.",
+      "options": {
+        "a": "Si en la agresión se hubieren utilizado armas concretamente peligrosas.",
+        "b": "Si hubiere mediado ensañamiento o alevosía.",
+        "c": "Si la víctima fuere menor de dieciséis años.",
+        "d": "Si la víctima fuere menor de catorce años."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la d). El art. 148.3.º CP establece como agravante que 'la víctima fuere menor de 14 años', no de dieciséis. El límite de catorce años es el establecido en este precepto. Las opciones a) (art. 148.1.º), b) (art. 148.2.º) y c) (art. 148.3.º) son circunstancias agravantes correctas del art. 148 CP.",
+      "ley": "CP, art. 148.3.º"
+    },
+    {
+      "id": "tema_08_test_12_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el acoso (stalking) del art. 172 ter CP NO es correcta.",
+      "options": {
+        "a": "Se castiga al que acose a una persona alterando el normal desarrollo de su vida cotidiana de forma insistente y reiterada.",
+        "b": "El delito siempre es perseguible mediante denuncia de la persona agraviada.",
+        "c": "Cuando el ofendido es el cónyuge o ex pareja, la pena es de prisión de uno a dos años.",
+        "d": "También se castiga quien utilice sin consentimiento la imagen de una persona para abrir perfiles falsos en redes sociales, ocasionándole acoso."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la c). El art. 172 ter.4 CP establece que los hechos son perseguibles mediante denuncia de la persona agraviada o su representante, PERO el art. 172 ter.2 establece que 'En este caso no será necesaria la denuncia' cuando el ofendido sea el cónyuge o persona asimilada. Por tanto, no SIEMPRE es perseguible solo mediante denuncia. Las opciones a), b) y d) son correctas según el art. 172 ter.",
+      "ley": "CP, art. 172 ter"
+    },
+    {
+      "id": "tema_08_test_12_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 143.4 CP, la pena por causar activamente la muerte de quien sufra un padecimiento grave e incurable, a petición seria e inequívoca, es la _____ a las señaladas en los apartados 2 y 3.",
+      "options": {
+        "a": "La misma pena.",
+        "b": "La mitad de la pena.",
+        "c": "La pena superior en un grado.",
+        "d": "La pena inferior en uno o dos grados."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 143.4 CP establece la atenuación para quien cause o coopere activamente a la muerte de alguien que sufre padecimientos graves e incurables por petición expresa, seria e inequívoca: 'será castigado con la pena inferior en uno o dos grados a las señaladas en los apartados 2 y 3'. El art. 143.5 CP establece la exención de responsabilidad cuando se cumple lo establecido en la ley reguladora de la eutanasia.",
+      "ley": "CP, art. 143.4"
+    },
+    {
+      "id": "tema_08_test_12_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes conductas constituye el tipo básico de las amenazas del art. 169.2.º CP.",
+      "options": {
+        "a": "Amenaza condicional con un delito grave, habiendo conseguido el propósito.",
+        "b": "Amenaza no condicional de un mal constitutivo de delito.",
+        "c": "Amenaza de un mal que no constituye delito.",
+        "d": "Amenaza a grupos étnicos o religiosos."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 169.2.º CP castiga con 'prisión de seis meses a dos años, cuando la amenaza no haya sido condicional'. Este es uno de los tipos básicos del delito de amenazas, cuando el mal amenazado constituye un delito de los previstos en el art. 169 (homicidio, lesiones, etc.) pero la amenaza no va condicionada a exigencia alguna.",
+      "ley": "CP, art. 169.2.º"
+    },
+    {
+      "id": "tema_08_test_12_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de violencia habitual del art. 173.2 CP NO es correcta.",
+      "options": {
+        "a": "Para apreciar la habitualidad se atiende al número de actos violentos acreditados y a su proximidad temporal.",
+        "b": "Además de las penas previstas, puede imponerse la medida de libertad vigilada.",
+        "c": "Las penas se imponen en su mitad superior cuando se perpetren en presencia de menores.",
+        "d": "Los actos violentos deben haberse ejercido siempre sobre la misma víctima para apreciar la habitualidad."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 173.3 CP establece que para apreciar la habitualidad 'se atenderá al número de actos de violencia que resulten acreditados, así como a la proximidad temporal de los mismos, con independencia de que dicha violencia se haya ejercido sobre la misma o diferentes víctimas'. La violencia sobre diferentes víctimas también puede computarse para apreciar la habitualidad. Las opciones a), c) y d) son correctas.",
+      "ley": "CP, art. 173.3"
+    },
+    {
+      "id": "tema_08_test_12_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 143.2 CP, la pena por cooperar con actos necesarios al suicidio de una persona es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Un año a tres años.",
+        "b": "Dos a cinco años.",
+        "c": "Cuatro a ocho años.",
+        "d": "Seis a diez años."
+      },
+      "correct": "b",
+      "explicacion": "La respuesta correcta es la b). El art. 143.2 CP establece 'Se impondrá la pena de prisión de dos a cinco años al que coopere con actos necesarios al suicidio de una persona'. La inducción al suicidio (art. 143.1) se castiga con cuatro a ocho años; la cooperación que llega a ejecutar la muerte (art. 143.3) con seis a diez años.",
+      "ley": "CP, art. 143.2"
+    },
+    {
+      "id": "tema_08_test_12_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes es un delito de acción pública (no requiere denuncia del ofendido) según el Código Penal.",
+      "options": {
+        "a": "El acoso del art. 172 quater CP (obstaculizar el ejercicio del derecho al aborto).",
+        "b": "Las coacciones leves del art. 172.3 CP.",
+        "c": "El acoso sexual del art. 184.1 CP.",
+        "d": "Las amenazas leves del art. 171.7 CP."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la d). El art. 172 quater.5 CP establece expresamente que 'En la persecución de los hechos descritos en este artículo no será necesaria la denuncia de la persona agraviada ni de su representación legal'. Es un delito perseguible de oficio. Las opciones a) (art. 171.7: requiere denuncia), b) (art. 172.3: requiere denuncia) y c) (art. 191.1: requiere denuncia o querella del Ministerio Fiscal) son delitos semipúblicos.",
+      "ley": "CP, art. 172 quater.5"
+    },
+    {
+      "id": "tema_08_test_12_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de secuestro (art. 164 CP) es correcta.",
+      "options": {
+        "a": "La pena básica del secuestro es la misma que la de la detención ilegal.",
+        "b": "Si la detención supera treinta días, la pena se agrava a la superior en grado.",
+        "c": "El secuestro se diferencia de la detención ilegal en que exige alguna condición para poner a la víctima en libertad.",
+        "d": "El secuestro solo lo puede cometer una organización criminal."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 164 CP define el secuestro precisamente por la exigencia de condición: 'El secuestro de una persona exigiendo alguna condición para ponerla en libertad'. La pena básica es de seis a diez años (vs. cuatro a seis de la detención ilegal). Si la detención supera quince días (no treinta), la pena se agrava a la superior en grado.",
+      "ley": "CP, art. 164"
+    },
+    {
+      "id": "tema_08_test_12_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 149.2 CP, la pena por causar una mutilación genital en cualquiera de sus manifestaciones es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Seis a doce años.",
+        "b": "Tres a seis años.",
+        "c": "Ocho a quince años.",
+        "d": "Cuatro a ocho años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 149.2 CP establece que 'El que causara a otro una mutilación genital en cualquiera de sus manifestaciones será castigado con la pena de prisión de seis a 12 años'. Si la víctima es menor o persona con discapacidad necesitada de especial protección, puede imponerse además la inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento por tiempo de cuatro a diez años.",
+      "ley": "CP, art. 149.2"
+    },
+    {
+      "id": "tema_08_test_12_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes NO es una circunstancia que agrave las amenazas a una ex pareja según el art. 171.4 CP.",
+      "options": {
+        "a": "Que el delito se perpetre en presencia de menores.",
+        "b": "Que tenga lugar en el domicilio común o en el domicilio de la víctima.",
+        "c": "Que el autor tenga antecedentes penales por el mismo delito.",
+        "d": "Que se realice quebrantando una pena del art. 48 CP o medida cautelar de la misma naturaleza."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la d). Los antecedentes penales del autor no figuran entre las circunstancias agravantes específicas del art. 171.4 CP (que prevé la imposición en mitad superior). Las circunstancias que agravan son: perpetrarse en presencia de menores, tener lugar en el domicilio común o de la víctima, o realizarse quebrantando una pena del art. 48 CP o medida cautelar.",
+      "ley": "CP, art. 171.4"
+    },
+    {
+      "id": "tema_08_test_12_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de tráfico de órganos del art. 156 bis CP NO es correcta.",
+      "options": {
+        "a": "El tráfico de órganos solo es punible si existe finalidad lucrativa.",
+        "b": "Se incluye la preparación, preservación y transporte de órganos ilícitamente extraídos.",
+        "c": "El receptor que consiente el trasplante conociendo su origen ilícito puede ser castigado.",
+        "d": "Se castiga la extracción ilícita de órganos de persona viva o fallecida."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la d). El art. 156 bis CP no exige finalidad lucrativa en todos los supuestos. Los que 'de cualquier modo promovieren, favorecieren, facilitaren, publicitaren o ejecutaren el tráfico de órganos humanos' serán castigados, sin necesidad de acreditar ánimo de lucro en todos los casos. Las opciones a), b) y c) son afirmaciones correctas del art. 156 bis CP.",
+      "ley": "CP, art. 156 bis"
+    },
+    {
+      "id": "tema_08_test_12_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 166.2 CP, la pena del reo de detención ilegal que no da razón del paradero del detenido menor de edad es de prisión de _____ a _____ años.",
+      "options": {
+        "a": "Doce a veinte años.",
+        "b": "Veinte a veinticinco años.",
+        "c": "Diez a quince años.",
+        "d": "Quince a veinte años."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 166.2.a) CP establece la pena agravada cuando el reo de detención ilegal no da razón del paradero y la víctima es menor de edad: 'El hecho será castigado con una pena de quince a veinte años de prisión, en el caso de detención ilegal'. En el secuestro el agravado sería de veinte a veinticinco años.",
+      "ley": "CP, art. 166.2.a)"
+    },
+    {
+      "id": "tema_08_test_12_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito de riña tumultuaria del art. 154 CP es correcta.",
+      "options": {
+        "a": "Solo se castiga a los que inician la riña.",
+        "b": "No se castiga si nadie resulta lesionado.",
+        "c": "La pena es la misma que el delito de lesiones del art. 147 CP.",
+        "d": "Se castiga a quienes riñeren acometiéndose tumultuariamente y utilizando medios que pongan en peligro la vida o integridad, con prisión de tres meses a un año o multa de seis a veinticuatro meses."
+      },
+      "correct": "d",
+      "explicacion": "La respuesta correcta es la b). El art. 154 CP establece que 'Quienes riñeren entre sí, acometiéndose tumultuariamente, y utilizando medios o instrumentos que pongan en peligro la vida o integridad de las personas, serán castigados por su participación en la riña con la pena de prisión de tres meses a un año o multa de seis a 24 meses'. No es necesario que se produzca resultado lesivo.",
+      "ley": "CP, art. 154"
+    },
+    {
+      "id": "tema_08_test_12_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de las siguientes afirmaciones sobre el delito del art. 175 CP (atentado a la integridad moral por funcionario, fuera de casos de tortura) NO es correcta.",
+      "options": {
+        "a": "La pena incluye inhabilitación absoluta de ocho a doce años en todo caso.",
+        "b": "Requiere abuso del cargo.",
+        "c": "Solo puede cometerlo la autoridad o funcionario público.",
+        "d": "Si el atentado fuera grave: prisión de dos a cuatro años; si no fuera grave: prisión de seis meses a dos años."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la c). El art. 175 CP establece que al autor 'se impondrá, en todo caso, al autor, además de las penas señaladas, la de inhabilitación especial para empleo o cargo público de dos a cuatro años', NO inhabilitación absoluta de ocho a doce años. La inhabilitación absoluta de ocho a doce años es la del delito de tortura del art. 174 CP. Las opciones a), b) y d) son correctas.",
+      "ley": "CP, art. 175"
+    },
+    {
+      "id": "tema_08_test_12_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 8. Derecho Penal. Complete: Según el art. 147.2 CP, quien causare a otro una lesión que NO requiera tratamiento médico o quirúrgico (más allá de primera asistencia) será castigado con multa de _____ a _____ meses.",
+      "options": {
+        "a": "Uno a tres meses.",
+        "b": "Seis a doce meses.",
+        "c": "Tres a seis meses.",
+        "d": "Doce a veinticuatro meses."
+      },
+      "correct": "a",
+      "explicacion": "La respuesta correcta es la b). El art. 147.2 CP establece que quien causare 'una lesión no incluida en el apartado anterior [que no requiere tratamiento médico o quirúrgico], será castigado con la pena de multa de uno a tres meses'. El art. 147.3 castiga el golpe sin lesión con multa de uno a dos meses.",
+      "ley": "CP, art. 147.2"
+    },
+    {
+      "id": "tema_08_test_12_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 8. Derecho Penal. Señale cuál de los siguientes delitos requiere que el autor sea autoridad o funcionario público para que el delito se configure en su tipo básico.",
+      "options": {
+        "a": "El homicidio del art. 138 CP.",
+        "b": "La detención ilegal del art. 163 CP.",
+        "c": "La tortura del art. 174 CP.",
+        "d": "Las coacciones del art. 172 CP."
+      },
+      "correct": "c",
+      "explicacion": "La respuesta correcta es la b). El art. 174.1 CP exige expresamente que el sujeto activo sea 'la autoridad o funcionario público'. La tortura es un delito especial propio que solo puede cometer la autoridad o funcionario. Los delitos de los arts. 138 (homicidio), 163 (detención ilegal) y 172 (coacciones) en su tipo básico pueden ser cometidos por cualquier particular.",
+      "ley": "CP, art. 174.1"
+    }
+  ]
+}
