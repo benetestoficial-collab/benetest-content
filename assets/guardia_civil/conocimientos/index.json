@@ -900,8 +900,109 @@
       "total_preguntas": 400
     },
     "tema_09": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Derecho Procesal Penal",
+          "archivo": "guardia_civil/conocimientos/tema_09/tema_09_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_10": {
       "tests": [],

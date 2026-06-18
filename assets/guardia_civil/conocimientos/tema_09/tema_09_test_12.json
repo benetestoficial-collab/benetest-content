@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_09_test_12_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. El Tribunal Superior de Justicia:",
+      "options": {
+        "a": "Tomará el nombre de la Comunidad Autónoma y extenderá su jurisdicción al ámbito territorial de esta",
+        "b": "Extenderá su jurisdicción a todo el territorio nacional",
+        "c": "Tomará siempre el nombre de la capital de provincia donde tenga su sede",
+        "d": "Carece de denominación oficial específica"
+      },
+      "correct": "a",
+      "explicacion": "El Tribunal Superior de Justicia toma el nombre de la Comunidad Autónoma correspondiente y extiende su jurisdicción al ámbito territorial de la misma, culminando la organización judicial en dicho territorio.",
+      "ley": "Artículo 71 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El Tribunal Superior de Justicia estará integrado por las siguientes Salas:",
+      "options": {
+        "a": "De lo Militar y de lo Eclesiástico",
+        "b": "De lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social",
+        "c": "Una sola Sala mixta para todos los órdenes jurisdiccionales",
+        "d": "Únicamente de lo Penal y de lo Mercantil"
+      },
+      "correct": "b",
+      "explicacion": "El Tribunal Superior de Justicia está integrado por tres Salas: la de lo Civil y Penal, la de lo Contencioso-Administrativo y la de lo Social, compuestas por su Presidente, los Presidentes de Sala y los Magistrados que determine la ley.",
+      "ley": "Artículo 72.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El Presidente del Tribunal Superior de Justicia, que lo es también de su Sala de lo Civil y Penal:",
+      "options": {
+        "a": "Pierde su condición de Magistrado al asumir la presidencia",
+        "b": "Será automáticamente Fiscal General del Estado",
+        "c": "Tendrá la consideración de Magistrado del Tribunal Supremo mientras desempeñe el cargo",
+        "d": "Carece de cualquier consideración honorífica especial"
+      },
+      "correct": "c",
+      "explicacion": "El Presidente del Tribunal Superior de Justicia, que preside también la Sala de lo Civil y Penal, tiene la consideración de Magistrado del Tribunal Supremo mientras desempeñe dicho cargo, reflejando la relevancia institucional de su función.",
+      "ley": "Artículo 72.2 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Como Sala de lo Penal, corresponde a la Sala de lo Civil y Penal del Tribunal Superior de Justicia:",
+      "options": {
+        "a": "El enjuiciamiento exclusivo de delitos leves de tráfico",
+        "b": "La aprobación de los presupuestos del Poder Judicial autonómico",
+        "c": "La gestión administrativa de los registros civiles",
+        "d": "La instrucción y el fallo de las causas penales contra jueces, magistrados y miembros del Ministerio Fiscal por delitos cometidos en el ejercicio de su cargo en la comunidad autónoma"
+      },
+      "correct": "d",
+      "explicacion": "Como Sala de lo Penal, corresponde al Tribunal Superior de Justicia la instrucción y el fallo de las causas penales contra jueces, magistrados y miembros del Ministerio Fiscal por delitos cometidos en el ejercicio de su cargo dentro de la comunidad autónoma, salvo que dicha atribución corresponda al Tribunal Supremo.",
+      "ley": "Artículo 73.3.b) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La Sala de lo Penal del Tribunal Superior de Justicia conocerá también:",
+      "options": {
+        "a": "De los recursos de apelación contra las resoluciones dictadas en primera instancia por las Audiencias Provinciales",
+        "b": "De las cuestiones prejudiciales ante el Tribunal de Justicia de la Unión Europea",
+        "c": "De los conflictos entre Comunidades Autónomas",
+        "d": "De los recursos de amparo constitucional"
+      },
+      "correct": "a",
+      "explicacion": "Entre sus competencias, la Sala de lo Penal del Tribunal Superior de Justicia conoce de los recursos de apelación contra las resoluciones dictadas en primera instancia por las Audiencias Provinciales, así como de aquellos otros recursos que las leyes le atribuyan.",
+      "ley": "Artículo 73.3.c) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia conocerá, en única instancia, de los recursos relativos a:",
+      "options": {
+        "a": "Las cuestiones laborales de ámbito municipal exclusivamente",
+        "b": "Los conflictos matrimoniales con elemento internacional",
+        "c": "Los actos de las Entidades locales y de las Administraciones de las comunidades autónomas no atribuidos a otros órganos",
+        "d": "Los delitos cometidos por autoridades autonómicas"
+      },
+      "correct": "c",
+      "explicacion": "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia conoce, en única instancia, de los recursos contra actos de las Entidades locales y de las Administraciones de las comunidades autónomas cuyo conocimiento no esté atribuido a otros órganos jurisdiccionales, entre otras materias enumeradas legalmente.",
+      "ley": "Artículo 74.1.a) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La Sala de lo Social del Tribunal Superior de Justicia conocerá, en única instancia, de los procesos sobre controversias que afecten a trabajadores y empresarios en un ámbito:",
+      "options": {
+        "a": "Limitado a las empresas públicas",
+        "b": "Superior siempre al territorio nacional",
+        "c": "Superior al de una Sección de lo Social del Tribunal de Instancia y no superior al de la comunidad autónoma",
+        "d": "Exclusivamente municipal"
+      },
+      "correct": "c",
+      "explicacion": "La Sala de lo Social del Tribunal Superior de Justicia conoce, en única instancia, de los procesos sobre controversias laborales cuyo ámbito sea superior al de una Sección de lo Social del Tribunal de Instancia, pero no superior al de la propia comunidad autónoma.",
+      "ley": "Artículo 75.1º de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La Sala especial constituida por el Presidente del Tribunal Superior de Justicia, los Presidentes de Sala y el Magistrado más moderno de cada una conocerá de las recusaciones formuladas contra:",
+      "options": {
+        "a": "Los Letrados de la Administración de Justicia de cualquier provincia",
+        "b": "Los funcionarios de la Administración Local",
+        "c": "El Presidente, los Presidentes de Sala o de Audiencias Provinciales con sede en la Comunidad Autónoma, o dos o más Magistrados de una Sala o Sección",
+        "d": "Los miembros del Consejo de Ministros"
+      },
+      "correct": "c",
+      "explicacion": "Esta Sala especial conoce de las recusaciones formuladas contra el Presidente del Tribunal Superior de Justicia, los Presidentes de Sala o de Audiencias Provinciales con sede en la Comunidad Autónoma, o contra dos o más Magistrados de una misma Sala, Sección o Audiencia Provincial.",
+      "ley": "Artículo 77.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Las Audiencias Provinciales tendrán su sede en:",
+      "options": {
+        "a": "La capital de la provincia, de la que tomarán su nombre, extendiendo su jurisdicción a toda ella",
+        "b": "Cualquier municipio que el Consejo General del Poder Judicial determine anualmente",
+        "c": "Madrid, con competencia exclusiva sobre toda España",
+        "d": "La sede del Tribunal Superior de Justicia correspondiente, sin excepción"
+      },
+      "correct": "a",
+      "explicacion": "Las Audiencias Provinciales tienen su sede en la capital de la provincia, de la que toman su nombre, y extienden su jurisdicción a toda ella, sin perjuicio de la posibilidad de crear Secciones fuera de la capital con adscripción a determinados partidos judiciales.",
+      "ley": "Artículo 80.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las Audiencias Provinciales se compondrán, con carácter general, de:",
+      "options": {
+        "a": "Un Presidente exclusivamente, sin otros magistrados",
+        "b": "Cinco Magistrados como mínimo en todo caso",
+        "c": "Un único Magistrado, sin Presidente diferenciado",
+        "d": "Un Presidente y dos o más magistrados"
+      },
+      "correct": "d",
+      "explicacion": "Con carácter general, las Audiencias Provinciales se componen de un Presidente y dos o más magistrados, pudiendo también integrarse por dos o más Secciones de la misma composición, presidiendo el Presidente de la Audiencia una de ellas.",
+      "ley": "Artículo 81.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. En el orden penal, las Audiencias Provinciales conocerán, entre otras materias:",
+      "options": {
+        "a": "De los recursos de amparo constitucional en materia penal",
+        "b": "Exclusivamente de los delitos leves de tráfico",
+        "c": "De las cuestiones de inconstitucionalidad en materia penal",
+        "d": "De las causas por delito, salvo las que la ley atribuya a otros Tribunales"
+      },
+      "correct": "d",
+      "explicacion": "En el orden penal, las Audiencias Provinciales conocen, con carácter general, de las causas por delito, a excepción de aquellas que la ley atribuya al conocimiento de las Secciones de lo Penal de los Tribunales de Instancia o de otros Tribunales previstos legalmente.",
+      "ley": "Artículo 82.1.1º de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Para el conocimiento de los recursos contra resoluciones de las Secciones de Instrucción en juicios por delitos leves, la Audiencia Provincial se constituirá:",
+      "options": {
+        "a": "Con un mínimo de cinco Magistrados especializados",
+        "b": "Con un solo magistrado o magistrada, mediante un turno de reparto",
+        "c": "Con la totalidad de sus Magistrados, sin excepción",
+        "d": "Únicamente con el Presidente de la Audiencia"
+      },
+      "correct": "b",
+      "explicacion": "Para conocer de los recursos contra resoluciones de las Secciones de Instrucción de los Tribunales de Instancia en juicios por delitos leves, la Audiencia Provincial se constituye con un solo magistrado o magistrada, designado mediante un turno de reparto.",
+      "ley": "Artículo 82.1.2º de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las Audiencias Provinciales conocerán de los recursos contra resoluciones en materia penal dictadas por:",
+      "options": {
+        "a": "El Tribunal Constitucional",
+        "b": "Las Secciones de Violencia sobre la Mujer y las Secciones de Violencia contra la Infancia y la Adolescencia",
+        "c": "Los Juzgados de Paz, en todo caso",
+        "d": "La Fiscalía Europea exclusivamente"
+      },
+      "correct": "b",
+      "explicacion": "Las Audiencias Provinciales conocen de los recursos que establezca la ley contra las resoluciones en materia penal dictadas por las Secciones de Violencia sobre la Mujer y por las Secciones de Violencia contra la Infancia y la Adolescencia, debiendo especializarse algunas de sus Secciones para facilitar dicho conocimiento.",
+      "ley": "Artículo 82.1.3º de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. En el orden civil, las Audiencias Provinciales conocerán:",
+      "options": {
+        "a": "De los recursos que establezca la ley contra las resoluciones dictadas en primera instancia por las Secciones Civiles de los Tribunales de Instancia de la provincia",
+        "b": "De los procedimientos de adopción internacional en exclusiva",
+        "c": "Exclusivamente de los recursos de casación civil",
+        "d": "De los conflictos de competencia con tribunales extranjeros"
+      },
+      "correct": "a",
+      "explicacion": "En el orden civil, las Audiencias Provinciales conocen de los recursos contra las resoluciones dictadas en primera instancia por las Secciones Civiles de los Tribunales de Instancia de la provincia, constituyéndose con un solo magistrado cuando se trate de recursos seguidos por los trámites del juicio verbal por razón de la cuantía.",
+      "ley": "Artículo 82.2.1º de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. El juicio del Jurado se celebrará:",
+      "options": {
+        "a": "Únicamente ante el Tribunal Supremo",
+        "b": "En el ámbito de la Audiencia Provincial u otros Tribunales y en la forma que establezca la ley",
+        "c": "Ante los Juzgados de Paz de cada municipio",
+        "d": "Exclusivamente en la Audiencia Nacional"
+      },
+      "correct": "b",
+      "explicacion": "El juicio del Jurado se celebra en el ámbito de la Audiencia Provincial u otros Tribunales, en la forma que establezca la ley, rigiéndose su composición y competencia por lo dispuesto en la Ley Orgánica del Tribunal del Jurado.",
+      "ley": "Artículo 83 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 78 de la Ley Orgánica del Poder Judicial, cuando el número de asuntos lo requiera podrán crearse, con carácter excepcional:",
+      "options": {
+        "a": "Salas de lo Contencioso-Administrativo o de lo Social con jurisdicción limitada a una o varias provincias de la misma Comunidad Autónoma",
+        "b": "Nuevos Tribunales Superiores de Justicia adicionales en una misma Comunidad Autónoma",
+        "c": "Salas penales con jurisdicción internacional",
+        "d": "Audiencias Provinciales adicionales sin sede fija"
+      },
+      "correct": "a",
+      "explicacion": "Cuando el volumen de asuntos procedentes de determinadas provincias u otras circunstancias lo justifiquen, podrán crearse excepcionalmente Salas de lo Contencioso-Administrativo o de lo Social con jurisdicción limitada a una o varias provincias de la misma Comunidad Autónoma, con sede en su capital.",
+      "ley": "Artículo 78 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La Ley de planta podrá reducir el número de Magistrados de los Tribunales Superiores de Justicia cuando:",
+      "options": {
+        "a": "Lo solicite el Defensor del Pueblo",
+        "b": "El presupuesto autonómico resulte insuficiente, sin más criterios",
+        "c": "El número de asuntos lo justifique",
+        "d": "Así lo decida unilateralmente el Presidente del Tribunal Superior"
+      },
+      "correct": "c",
+      "explicacion": "La Ley de planta puede reducir el número de Magistrados en aquellos Tribunales Superiores de Justicia donde el volumen de asuntos lo justifique, quedando las Salas compuestas por su respectivo Presidente y por los Presidentes y Magistrados que dicha ley determine.",
+      "ley": "Artículo 79 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 76 de la Ley Orgánica del Poder Judicial, cada una de las Salas del Tribunal Superior de Justicia conocerá de las recusaciones formuladas contra sus Magistrados:",
+      "options": {
+        "a": "Únicamente cuando el recusado sea el Presidente del Tribunal",
+        "b": "En ningún caso, al corresponder siempre al Tribunal Supremo",
+        "c": "Solo si la recusación se presenta por escrito notarial",
+        "d": "Cuando la competencia no corresponda a la Sala especial prevista en el artículo siguiente"
+      },
+      "correct": "d",
+      "explicacion": "Cada Sala del Tribunal Superior de Justicia conoce de las recusaciones formuladas contra sus propios Magistrados, salvo cuando dicha competencia corresponda a la Sala especial constituida específicamente para los casos de mayor relevancia institucional previstos en la ley.",
+      "ley": "Artículo 76 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La Sala de lo Civil y Penal del Tribunal Superior de Justicia, como Sala de lo Civil, conocerá del recurso de casación contra resoluciones del orden civil con sede en la comunidad autónoma cuando:",
+      "options": {
+        "a": "El recurso se interponga directamente ante el Tribunal Supremo",
+        "b": "Se funde en infracción de normas de derecho civil, foral o especial propio de la comunidad, y el Estatuto de Autonomía haya previsto esta atribución",
+        "c": "Se trate de cualquier materia civil, sin necesidad de especialidad foral",
+        "d": "La cuantía del litigio supere un millón de euros"
+      },
+      "correct": "b",
+      "explicacion": "La Sala de lo Civil y Penal del Tribunal Superior de Justicia, actuando como Sala de lo Civil, conoce del recurso de casación que la ley establezca contra resoluciones civiles dictadas en la comunidad autónoma, siempre que se funde en infracción de normas de derecho civil, foral o especial propio de dicha comunidad, y el correspondiente Estatuto de Autonomía haya previsto esta atribución.",
+      "ley": "Artículo 73.1.a) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_12_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Corresponde igualmente a las Audiencias Provinciales el conocimiento de las cuestiones de competencia en materia civil y penal que se susciten entre:",
+      "options": {
+        "a": "Órganos jurisdiccionales de distintos países de la Unión Europea",
+        "b": "El Tribunal Supremo y la Audiencia Nacional",
+        "c": "Tribunales de distintas Comunidades Autónomas, sin excepción",
+        "d": "Los jueces, magistrados de un mismo o distinto Tribunal de Instancia de la provincia"
+      },
+      "correct": "d",
+      "explicacion": "Corresponde a las Audiencias Provinciales el conocimiento de las cuestiones de competencia en materia civil y penal que se planteen entre los jueces, juezas, magistrados y magistradas de un mismo o distinto Tribunal de Instancia dentro de la provincia.",
+      "ley": "Artículo 82.4.1º de la Ley Orgánica del Poder Judicial"
+    }
+  ]
+}

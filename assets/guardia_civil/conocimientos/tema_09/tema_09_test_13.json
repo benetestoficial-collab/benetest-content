@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 13",
+  "preguntas": [
+    {
+      "id": "tema_09_test_13_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 84 de la Ley Orgánica del Poder Judicial, habrá un Tribunal de Instancia:",
+      "options": {
+        "a": "Exclusivamente en la Comunidad de Madrid",
+        "b": "Únicamente en las capitales de provincia",
+        "c": "Solo en los municipios de más de cien mil habitantes",
+        "d": "En cada partido judicial, con sede en su capital, de la que tomará su nombre"
+      },
+      "correct": "d",
+      "explicacion": "La ley establece que habrá un Tribunal de Instancia en cada partido judicial, con sede en la capital de este, de la cual tomará su nombre, constituyendo la unidad básica de la organización judicial de primera instancia.",
+      "ley": "Artículo 84.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los Tribunales de Instancia estarán integrados, como mínimo, por una Sección Única de:",
+      "options": {
+        "a": "Exclusivamente Social",
+        "b": "Civil y de Instrucción",
+        "c": "Solo Contencioso-Administrativo",
+        "d": "Únicamente Mercantil"
+      },
+      "correct": "b",
+      "explicacion": "Los Tribunales de Instancia están integrados, con carácter general, por una Sección Única de Civil y de Instrucción, pudiendo además contar con otras Secciones especializadas como Familia, Mercantil, Violencia sobre la Mujer, Penal, Menores, Vigilancia Penitenciaria, Contencioso-Administrativo o Social, según determine la Ley de Demarcación y Planta Judicial.",
+      "ley": "Artículo 84.2 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Las Secciones de Violencia sobre la Mujer conocerán, en el orden penal, de la instrucción de procesos por delitos como homicidio, lesiones o delitos contra la libertad sexual cuando:",
+      "options": {
+        "a": "La víctima sea cualquier persona, sin distinción de relación con el agresor",
+        "b": "Ambas partes sean de la misma nacionalidad",
+        "c": "El delito se cometa exclusivamente en el domicilio conyugal",
+        "d": "Se hubiesen cometido contra quien sea o haya sido esposa o mujer ligada al autor por análoga relación de afectividad"
+      },
+      "correct": "d",
+      "explicacion": "Las Secciones de Violencia sobre la Mujer conocen de la instrucción de procesos por homicidio, lesiones, delitos contra la libertad e indemnidad sexual y otros delitos cometidos con violencia o intimidación, cuando la víctima sea o haya sido esposa o mujer ligada al autor por análoga relación de afectividad, aun sin convivencia, así como sobre determinados descendientes o personas dependientes.",
+      "ley": "Artículo 89.5.a) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Entre las competencias de las Secciones de Violencia sobre la Mujer se encuentra:",
+      "options": {
+        "a": "La resolución de conflictos laborales colectivos",
+        "b": "El conocimiento exclusivo de causas civiles internacionales",
+        "c": "La instrucción de delitos económicos sin relación con violencia de género",
+        "d": "La adopción de las correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias del juez de guardia"
+      },
+      "correct": "d",
+      "explicacion": "Entre las competencias atribuidas a las Secciones de Violencia sobre la Mujer se encuentra la adopción de las correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias que en esta materia correspondan al juez o jueza de guardia.",
+      "ley": "Artículo 89.5.c) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Las Secciones de Violencia contra la Infancia y la Adolescencia conocerán, en el orden penal, de la instrucción de procesos por delitos de homicidio, lesiones o contra la libertad sexual cuando:",
+      "options": {
+        "a": "La víctima sea niño, niña o adolescente",
+        "b": "Se trate de delitos cometidos en el extranjero por españoles",
+        "c": "El delito se cometa en el ámbito escolar exclusivamente",
+        "d": "El autor sea menor de edad en todo caso"
+      },
+      "correct": "a",
+      "explicacion": "Las Secciones de Violencia contra la Infancia y la Adolescencia conocen de la instrucción de procesos por homicidio, aborto, lesiones, delitos contra la libertad e indemnidad sexual, trata de seres humanos y otros delitos cometidos con violencia, cuando la víctima sea niño, niña o adolescente.",
+      "ley": "Artículo 89 bis.5 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando unos mismos hechos pudieran ser conocidos tanto por la Sección de Violencia contra la Infancia y la Adolescencia como por la Sección de Violencia sobre la Mujer, la competencia corresponderá:",
+      "options": {
+        "a": "A la Sección de Violencia contra la Infancia y la Adolescencia, siempre",
+        "b": "A la Audiencia Provincial, que resolverá el conflicto",
+        "c": "Se determinará por sorteo entre ambas Secciones",
+        "d": "A la Sección de Violencia sobre la Mujer, en todo caso"
+      },
+      "correct": "d",
+      "explicacion": "La ley resuelve expresamente este posible conflicto de competencia estableciendo que, cuando los hechos objeto de instrucción puedan ser conocidos por ambas Secciones, la competencia corresponderá en todo caso a la Sección de Violencia sobre la Mujer.",
+      "ley": "Artículo 89 bis.7 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Con carácter general, existirá una Sección de lo Penal en el Tribunal de Instancia:",
+      "options": {
+        "a": "Únicamente en los municipios de más de un millón de habitantes",
+        "b": "Solo en la Comunidad Autónoma de Madrid",
+        "c": "Exclusivamente para delitos cometidos por menores",
+        "d": "Con sede en la capital de cada provincia y jurisdicción en toda ella"
+      },
+      "correct": "d",
+      "explicacion": "Con carácter general, en el Tribunal de Instancia con sede en la capital de cada provincia y con jurisdicción en toda ella existirá una Sección de lo Penal, pudiendo establecerse también otras en poblaciones distintas según el volumen de asuntos.",
+      "ley": "Artículo 90.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Corresponde a las Secciones de lo Penal de los Tribunales de Instancia, entre otras funciones:",
+      "options": {
+        "a": "La instrucción exclusiva de delitos leves de tráfico",
+        "b": "La tramitación de procedimientos de extradición activa",
+        "c": "La ejecución de las sentencias dictadas en causas por delito grave o menos grave por las Secciones de Instrucción",
+        "d": "La resolución de recursos contra el Tribunal Supremo"
+      },
+      "correct": "c",
+      "explicacion": "Entre las funciones de las Secciones de lo Penal se encuentra la ejecución de las sentencias dictadas en causas por delito grave o menos grave por las Secciones de Instrucción, las Secciones de Violencia sobre la Mujer y las Secciones de Violencia contra la Infancia y la Adolescencia.",
+      "ley": "Artículo 90.4 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Con carácter general, existirá una Sección de Menores en el Tribunal de Instancia:",
+      "options": {
+        "a": "Con sede en la capital de cada provincia y jurisdicción en toda ella",
+        "b": "Solo cuando lo solicite el Defensor del Pueblo",
+        "c": "Únicamente en Madrid y Barcelona",
+        "d": "Exclusivamente para menores extranjeros"
+      },
+      "correct": "a",
+      "explicacion": "Con carácter general, existirá una Sección de Menores en el Tribunal de Instancia con sede en la capital de cada provincia y con jurisdicción en toda ella, pudiendo establecerse otras secciones cuando el volumen de trabajo lo aconseje.",
+      "ley": "Artículo 91.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Corresponde a las Secciones de Menores de los Tribunales de Instancia:",
+      "options": {
+        "a": "El enjuiciamiento de delitos cometidos por adultos contra menores, exclusivamente",
+        "b": "La tutela administrativa de menores extranjeros no acompañados",
+        "c": "El ejercicio de las funciones legalmente previstas respecto de menores que hubieren incurrido en conductas tipificadas como delito o delito leve",
+        "d": "La gestión de los centros educativos públicos"
+      },
+      "correct": "c",
+      "explicacion": "Corresponde a las Secciones de Menores de los Tribunales de Instancia el ejercicio de las funciones legalmente establecidas respecto de los menores que hubieren incurrido en conductas tipificadas como delito o delito leve, así como aquellas otras que las leyes les atribuyan en relación con los menores de edad.",
+      "ley": "Artículo 91.2 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La Sección de Vigilancia Penitenciaria tendrá, entre otras, funciones jurisdiccionales relativas a:",
+      "options": {
+        "a": "La ejecución de penas privativas de libertad y medidas de seguridad, y el control jurisdiccional de la potestad disciplinaria penitenciaria",
+        "b": "La concesión de indultos generales",
+        "c": "El nombramiento de funcionarios de prisiones",
+        "d": "La negociación de convenios colectivos del personal penitenciario"
+      },
+      "correct": "a",
+      "explicacion": "La Sección de Vigilancia Penitenciaria tiene funciones jurisdiccionales en materia de ejecución de penas privativas de libertad y medidas de seguridad, control jurisdiccional de la potestad disciplinaria de las autoridades penitenciarias, y amparo de los derechos y beneficios de los internos en los establecimientos penitenciarios.",
+      "ley": "Artículo 92.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La Sección de Instrucción del Tribunal Central de Instancia instruirá, entre otras, las causas cuyo enjuiciamiento corresponda a:",
+      "options": {
+        "a": "Los Tribunales eclesiásticos",
+        "b": "Cualquier Juzgado de Paz del territorio nacional",
+        "c": "La Sala de lo Penal de la Audiencia Nacional o a la propia Sección de lo Penal del Tribunal Central de Instancia",
+        "d": "Las Audiencias Provinciales sin excepción"
+      },
+      "correct": "c",
+      "explicacion": "La Sección de Instrucción del Tribunal Central de Instancia, con sede en Madrid y jurisdicción en todo el territorio nacional, instruye las causas cuyo enjuiciamiento corresponda a la Sala de lo Penal de la Audiencia Nacional o a la Sección de lo Penal del propio Tribunal Central de Instancia, además de tramitar expedientes de extradición y órdenes europeas de detención.",
+      "ley": "Artículo 95.a) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La Sección de lo Penal del Tribunal Central de Instancia conocerá, cuando así lo establezcan las leyes procesales, de las causas por los delitos a que se refiere:",
+      "options": {
+        "a": "Cualquier delito leve cometido en territorio nacional",
+        "b": "Los delitos cometidos por menores de catorce años",
+        "c": "El artículo 65 de la Ley Orgánica del Poder Judicial",
+        "d": "Exclusivamente delitos fiscales de cuantía inferior a mil euros"
+      },
+      "correct": "c",
+      "explicacion": "La Sección de lo Penal del Tribunal Central de Instancia conoce, en los casos en que así lo establezcan las leyes procesales, de las causas por los delitos a que se refiere el artículo 65 de la Ley Orgánica del Poder Judicial (competencias de la Sala de lo Penal de la Audiencia Nacional), correspondiéndole asimismo la ejecución de sentencias por delito grave o menos grave dictadas por la Sección de Instrucción.",
+      "ley": "Artículo 95.b) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La Sección de Menores del Tribunal Central de Instancia conocerá:",
+      "options": {
+        "a": "De las causas que le atribuya la legislación reguladora de la responsabilidad penal de los menores",
+        "b": "De los recursos contra resoluciones de la Audiencia Nacional en materia laboral",
+        "c": "De cualquier proceso civil sobre filiación",
+        "d": "De los conflictos de competencia entre Comunidades Autónomas"
+      },
+      "correct": "a",
+      "explicacion": "La Sección de Menores del Tribunal Central de Instancia conoce de las causas que le atribuya la legislación reguladora de la responsabilidad penal de los menores, así como de la emisión y ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que le corresponda.",
+      "ley": "Artículo 95.c) de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Habrá un Juez o Jueza de Paz, conforme al artículo 99 de la Ley Orgánica del Poder Judicial:",
+      "options": {
+        "a": "Exclusivamente en los municipios costeros",
+        "b": "Únicamente en las capitales de provincia",
+        "c": "En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción",
+        "d": "Solo en municipios con más de cincuenta mil habitantes"
+      },
+      "correct": "c",
+      "explicacion": "En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción, y con jurisdicción en el término correspondiente, habrá un Juez o Jueza de Paz, garantizando así la presencia de la justicia de proximidad en todo el territorio.",
+      "ley": "Artículo 99.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. En el orden penal, los Juzgados de Paz conocerán:",
+      "options": {
+        "a": "En primera instancia, de los procesos por delito leve que les atribuya la ley, y podrán intervenir en actuaciones de prevención o por delegación",
+        "b": "De los recursos de casación en materia penal",
+        "c": "Exclusivamente de los delitos de violencia de género",
+        "d": "De cualquier delito grave cometido en su término municipal"
+      },
+      "correct": "a",
+      "explicacion": "En el orden penal, los Juzgados de Paz conocen en primera instancia de los procesos por delito leve que les atribuya la ley, pudiendo además intervenir en actuaciones penales de prevención o por delegación y en aquellas otras que señalen las leyes.",
+      "ley": "Artículo 100.2 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los Jueces de Paz y sus sustitutos serán nombrados para un período de:",
+      "options": {
+        "a": "Dos años",
+        "b": "Cuatro años, por la Sala de Gobierno del Tribunal Superior de Justicia correspondiente",
+        "c": "Indefinidamente, hasta su jubilación",
+        "d": "Seis años, por el Ministerio de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "Los Jueces de Paz y sus sustitutos son nombrados para un período de cuatro años por la Sala de Gobierno del Tribunal Superior de Justicia correspondiente, recayendo el nombramiento en las personas elegidas por el respectivo Ayuntamiento mediante mayoría absoluta del Pleno.",
+      "ley": "Artículo 101.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Para ser nombrado Juez de Paz, titular o sustituto, conforme al artículo 102 de la Ley Orgánica del Poder Judicial:",
+      "options": {
+        "a": "Es imprescindible ser licenciado o graduado en Derecho",
+        "b": "No es necesario ser licenciado en Derecho, bastando reunir los requisitos generales de ingreso en la Carrera Judicial y no estar incurso en causas de incapacidad o incompatibilidad",
+        "c": "Debe pertenecer obligatoriamente al Cuerpo de Letrados de la Administración de Justicia",
+        "d": "Se exige una antigüedad mínima de veinte años como funcionario público"
+      },
+      "correct": "b",
+      "explicacion": "Pueden ser nombrados Jueces de Paz, tanto titulares como sustitutos, quienes, aun no siendo licenciados en Derecho, reúnan los requisitos legalmente exigidos para el ingreso en la Carrera Judicial y no estén incursos en causas de incapacidad o incompatibilidad para el ejercicio de funciones judiciales, salvo la relativa al ejercicio de actividades profesionales o mercantiles.",
+      "ley": "Artículo 102 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los Jueces de Paz, dentro de su circunscripción, tendrán el tratamiento y precedencia reconocidos a:",
+      "options": {
+        "a": "Los Magistrados del Tribunal Supremo",
+        "b": "Los Jueces de Primera Instancia e Instrucción",
+        "c": "El Fiscal General del Estado",
+        "d": "Los Presidentes de Audiencia Provincial"
+      },
+      "correct": "b",
+      "explicacion": "Los Jueces de Paz son retribuidos conforme al sistema y cuantía legalmente establecidos, y tienen, dentro de su circunscripción, el tratamiento y precedencia reconocidos en la suya a los Jueces de Primera Instancia e Instrucción.",
+      "ley": "Artículo 103.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_13_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. En el orden civil, las Secciones Civiles de los Tribunales de Instancia conocerán, entre otras materias:",
+      "options": {
+        "a": "De los conflictos de competencia con tribunales extranjeros",
+        "b": "De los recursos que establezca la ley contra las resoluciones de los jueces y juezas de paz del partido",
+        "c": "Exclusivamente de los recursos de casación civil",
+        "d": "De los delitos leves cometidos contra la propiedad"
+      },
+      "correct": "b",
+      "explicacion": "Las Secciones Civiles de los Tribunales de Instancia conocen, en el orden civil, de los juicios en primera instancia no atribuidos a otros órganos, de los actos de jurisdicción voluntaria, y de los recursos que establezca la ley contra las resoluciones de los jueces y juezas de paz del partido, así como de las cuestiones de competencia civil entre estos.",
+      "ley": "Artículo 85 de la Ley Orgánica del Poder Judicial"
+    }
+  ]
+}

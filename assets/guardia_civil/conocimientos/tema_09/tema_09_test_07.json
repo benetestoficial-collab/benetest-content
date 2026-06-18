@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 7",
+  "preguntas": [
+    {
+      "id": "tema_09_test_07_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El careo entre testigos o procesados, como regla general, deberá celebrarse:",
+      "options": {
+        "a": "Entre todos los procesados de la causa al mismo tiempo",
+        "b": "Únicamente por escrito, sin presencia física",
+        "c": "Entre más de cuatro personas simultáneamente",
+        "d": "Entre dos personas a la vez"
+      },
+      "correct": "d",
+      "explicacion": "Cuando testigos o procesados discreparen sobre algún hecho o circunstancia relevante para el sumario, el Juez podrá celebrar careo entre los discordes, diligencia que, por regla general, no debe tener lugar más que entre dos personas a la vez.",
+      "ley": "Artículo 451 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Durante la práctica del careo, el Juez:",
+      "options": {
+        "a": "Deberá abandonar la sala mientras dure el acto",
+        "b": "Autorizará la presencia de medios de comunicación sin restricción",
+        "c": "Permitirá que los careados se insulten si ello esclarece la verdad",
+        "d": "No permitirá que los careados se insulten o amenacen"
+      },
+      "correct": "d",
+      "explicacion": "Entre las garantías del careo, la ley establece expresamente que el Juez no permitirá que las personas careadas se insulten o se amenacen durante la práctica de esta diligencia.",
+      "ley": "Artículo 454 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los careos con testigos menores de edad:",
+      "options": {
+        "a": "Están terminantemente prohibidos en todo caso",
+        "b": "Solo pueden practicarse si el menor ha cumplido dieciséis años",
+        "c": "No se practicarán salvo que el Juez lo considere imprescindible y no lesivo para su interés, previo informe pericial",
+        "d": "Se practicarán siempre que lo solicite cualquiera de las partes"
+      },
+      "correct": "c",
+      "explicacion": "Como regla general, los careos solo se practican cuando no existe otro modo de comprobar la existencia del delito o la culpabilidad de los procesados. Respecto de testigos menores de edad, la ley añade una garantía adicional: no se practicarán salvo que el Juez los considere imprescindibles y no lesivos para el interés del menor, debiendo mediar previo informe pericial.",
+      "ley": "Artículo 455 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 457 de la Ley de Enjuiciamiento Criminal, son peritos no titulares:",
+      "options": {
+        "a": "Los que tienen título oficial de una ciencia o arte reglamentado por la Administración",
+        "b": "Únicamente los funcionarios públicos en activo",
+        "c": "Quienes hayan sido designados directamente por el Ministerio Fiscal",
+        "d": "Los que, careciendo de título oficial, tienen conocimiento o prácticas especiales en alguna ciencia o arte"
+      },
+      "correct": "d",
+      "explicacion": "La ley distingue entre peritos titulares, que poseen título oficial de una ciencia o arte cuyo ejercicio está reglamentado, y peritos no titulares, que sin tener dicho título cuentan con conocimientos o prácticas especiales en alguna ciencia o arte, debiendo el Juez preferir a los primeros.",
+      "ley": "Artículo 457 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Todo reconocimiento pericial, como regla general, se realizará por:",
+      "options": {
+        "a": "Tres peritos como mínimo, designados por sorteo",
+        "b": "Dos peritos, salvo que no hubiese más de uno en el lugar y no fuere posible esperar a otro sin graves inconvenientes",
+        "c": "Cuatro peritos, dos por cada parte",
+        "d": "Un solo perito, sin excepción"
+      },
+      "correct": "b",
+      "explicacion": "El reconocimiento pericial debe practicarse, como regla general, por dos peritos, exceptuándose el caso en que no hubiera más de uno disponible en el lugar y no fuera posible esperar la llegada de otro sin perjudicar gravemente el curso del sumario.",
+      "ley": "Artículo 459 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Quien sea llamado por el Juez para desempeñar un servicio pericial:",
+      "options": {
+        "a": "Solo está obligado a acudir si recibe una compensación económica previa",
+        "b": "No podrá negarse a acudir si no estuviese legítimamente impedido",
+        "c": "Puede delegar la comparecencia en cualquier familiar",
+        "d": "Puede negarse libremente sin necesidad de alegar causa"
+      },
+      "correct": "b",
+      "explicacion": "La ley impone a quien sea llamado para un servicio pericial la obligación de acudir al llamamiento del Juez, salvo que se encuentre legítimamente impedido, circunstancia que deberá poner en conocimiento del Juez en el momento de recibir el nombramiento.",
+      "ley": "Artículo 462 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. No podrán prestar informe pericial acerca del delito, cualquiera que sea la persona ofendida:",
+      "options": {
+        "a": "Los peritos titulares con conocimientos actualizados",
+        "b": "Los médicos forenses adscritos al Juzgado de instrucción",
+        "c": "Los peritos designados por el Ministerio Fiscal",
+        "d": "Quienes, conforme al artículo 416, no estén obligados a declarar como testigos"
+      },
+      "correct": "d",
+      "explicacion": "La ley excluye de la posibilidad de prestar informe pericial sobre el delito a aquellas personas que, conforme a las reglas sobre dispensa de declarar como testigos, no estén obligadas a hacerlo, debiendo el perito comprendido en dicha situación advertirlo al Juez antes de prestar el informe, bajo sanción.",
+      "ley": "Artículo 464 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los peritos nombrados por el Juez podrán ser recusados por las partes cuando:",
+      "options": {
+        "a": "El reconocimiento e informe periciales no puedan reproducirse de nuevo en el juicio oral",
+        "b": "El informe pericial haya sido favorable al investigado",
+        "c": "El perito resida fuera del partido judicial",
+        "d": "El perito sea titulado en su especialidad"
+      },
+      "correct": "a",
+      "explicacion": "Si el reconocimiento e informe periciales pudieran practicarse de nuevo en el juicio oral, los peritos nombrados no podrán ser recusados por las partes; por el contrario, si no fuera posible su reproducción en el juicio oral, sí procederá la recusación conforme a las causas legalmente previstas.",
+      "ley": "Artículo 467 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes circunstancias NO constituye, conforme al artículo 468 de la Ley de Enjuiciamiento Criminal, causa de recusación de los peritos:",
+      "options": {
+        "a": "El parentesco de consanguinidad o afinidad dentro del cuarto grado con el querellante o el reo",
+        "b": "El interés directo o indirecto en la causa o en otra semejante",
+        "c": "La residencia habitual del perito en una localidad distinta a la del Juzgado",
+        "d": "La amistad íntima o la enemistad manifiesta"
+      },
+      "correct": "c",
+      "explicacion": "Son causas de recusación de los peritos el parentesco de consanguinidad o afinidad dentro del cuarto grado con el querellante o el reo, el interés directo o indirecto en la causa o en otra semejante, y la amistad íntima o la enemistad manifiesta. La mera residencia del perito en una localidad distinta no constituye, por sí sola, causa legal de recusación.",
+      "ley": "Artículo 468 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Antes de dar comienzo al acto pericial, los peritos, tanto los nombrados por el Juez como por las partes, deberán:",
+      "options": {
+        "a": "Prestar juramento de proceder bien y fielmente, con el único fin de descubrir y declarar la verdad",
+        "b": "Renunciar expresamente a sus honorarios",
+        "c": "Depositar una fianza económica equivalente a sus honorarios",
+        "d": "Obtener autorización previa del Tribunal Supremo"
+      },
+      "correct": "a",
+      "explicacion": "Todos los peritos, tanto los designados por el Juez como los nombrados por las partes, deben prestar juramento antes de iniciar el acto pericial, comprometiéndose a proceder bien y fielmente en sus operaciones y a no perseguir otro fin que el de descubrir y declarar la verdad.",
+      "ley": "Artículo 474 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El informe pericial, conforme al artículo 478 de la Ley de Enjuiciamiento Criminal, comprenderá, si fuere posible:",
+      "options": {
+        "a": "Solo la opinión personal del perito sobre la culpabilidad del investigado",
+        "b": "La descripción del objeto, la relación detallada de las operaciones practicadas y las conclusiones formuladas conforme a su ciencia o arte",
+        "c": "Exclusivamente una valoración económica de los daños causados",
+        "d": "Únicamente las conclusiones finales de los peritos, sin descripción previa"
+      },
+      "correct": "b",
+      "explicacion": "El informe pericial debe comprender, en la medida de lo posible, la descripción de la persona o cosa objeto del mismo, la relación detallada de todas las operaciones practicadas por los peritos y su resultado, y las conclusiones que formulen conforme a los principios y reglas de su ciencia o arte.",
+      "ley": "Artículo 478 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Si los peritos estuviesen discordes y su número fuere par, el Juez:",
+      "options": {
+        "a": "Suspenderá indefinidamente la causa hasta que los peritos se pongan de acuerdo",
+        "b": "Nombrará otro perito adicional",
+        "c": "Anulará automáticamente todas las operaciones practicadas",
+        "d": "Decidirá personalmente la cuestión técnica sin más intervención pericial"
+      },
+      "correct": "b",
+      "explicacion": "Cuando los peritos se hallaren discordes y su número fuese par, el Juez nombrará otro perito adicional, repitiéndose si fuere posible las operaciones ya practicadas con su intervención, o limitándose en otro caso a deliberar con los demás y formular sus conclusiones motivadas.",
+      "ley": "Artículo 484 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 489 de la Ley de Enjuiciamiento Criminal, ningún español ni extranjero podrá ser detenido:",
+      "options": {
+        "a": "Salvo que lo solicite expresamente el Ministerio Fiscal",
+        "b": "Si pertenece a una organización internacional",
+        "c": "A no ser que medie sentencia condenatoria firme previa",
+        "d": "Sino en los casos y en la forma que las leyes prescriban"
+      },
+      "correct": "d",
+      "explicacion": "El principio de legalidad en materia de detención exige que ningún español ni extranjero pueda ser detenido sino en los casos y en la forma que las leyes prescriban expresamente, constituyendo esta una garantía esencial frente a detenciones arbitrarias.",
+      "ley": "Artículo 489 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cualquier persona, sin necesidad de ser autoridad o agente, puede detener, entre otros casos:",
+      "options": {
+        "a": "A quien se niegue a identificarse ante un particular",
+        "b": "Al delincuente in fraganti",
+        "c": "A cualquier persona que tenga antecedentes penales, aunque no esté cometiendo delito alguno",
+        "d": "A cualquier persona sospechosa, sin más requisitos"
+      },
+      "correct": "b",
+      "explicacion": "Entre los supuestos en que cualquier persona, sin necesidad de ostentar la condición de autoridad o agente, puede practicar una detención se encuentra el caso del delincuente sorprendido in fraganti, así como quien intente cometer un delito en el momento de ir a ejecutarlo o quien se fugue estando cumpliendo condena.",
+      "ley": "Artículo 490 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. No se podrá detener por la presunta comisión de delitos leves, salvo que:",
+      "options": {
+        "a": "Exista denuncia previa de un tercero, sin más requisitos",
+        "b": "El delito leve se haya cometido en horario nocturno",
+        "c": "El presunto reo no tuviese domicilio conocido ni diese fianza bastante a juicio de la autoridad o agente",
+        "d": "El presunto reo sea reincidente en cualquier tipo de delito"
+      },
+      "correct": "c",
+      "explicacion": "Como regla general, no procede la detención por la presunta comisión de delitos leves, exceptuándose el caso en que el presunto responsable carezca de domicilio conocido y no preste fianza suficiente a juicio de la autoridad o agente que pretenda detenerle.",
+      "ley": "Artículo 495 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Quien detuviere a una persona deberá ponerla en libertad o entregarla al Juez más próximo al lugar de la detención dentro de:",
+      "options": {
+        "a": "Las veinticuatro horas siguientes",
+        "b": "Las doce horas siguientes",
+        "c": "Las setenta y dos horas siguientes",
+        "d": "Las cuarenta y ocho horas siguientes"
+      },
+      "correct": "a",
+      "explicacion": "El particular, autoridad o agente de Policía Judicial que practique una detención debe poner en libertad a la persona detenida o entregarla al Juez más próximo al lugar de la detención dentro de las veinticuatro horas siguientes al acto de la misma, incurriendo en responsabilidad penal si la demora excede de ese plazo.",
+      "ley": "Artículo 496 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El Juez o Tribunal a quien se entregue un detenido deberá elevar la detención a prisión o dejarla sin efecto, con carácter general, en el término de:",
+      "options": {
+        "a": "Setenta y dos horas",
+        "b": "Veinticuatro horas",
+        "c": "Noventa y seis horas",
+        "d": "Cuarenta y ocho horas"
+      },
+      "correct": "a",
+      "explicacion": "El Juez o Tribunal de la causa al que se entregue un detenido debe resolver, en el plazo de setenta y dos horas desde la entrega, si eleva la detención a prisión o la deja sin efecto, contándose dicho plazo desde el momento en que el detenido le hubiese sido entregado.",
+      "ley": "Artículo 497 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El auto que eleva la detención a prisión o la deja sin efecto:",
+      "options": {
+        "a": "Es definitivo e irrecurrible en todo caso",
+        "b": "Solo se notifica al Ministerio Fiscal, nunca al procesado",
+        "c": "Se pondrá en conocimiento del Ministerio Fiscal y se notificará al querellante particular y al procesado, informándole de su derecho a pedir la reposición",
+        "d": "No requiere notificación alguna mientras dure la instrucción"
+      },
+      "correct": "c",
+      "explicacion": "El auto por el que se eleva la detención a prisión o se deja sin efecto debe comunicarse al Ministerio Fiscal y notificarse al querellante particular, si lo hubiere, y al procesado, a quien además se le informará del derecho que le asiste para solicitar, de palabra o por escrito, la reposición de dicho auto.",
+      "ley": "Artículo 501 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La Autoridad o agente de Policía Judicial tendrá obligación de detener, entre otros casos, a:",
+      "options": {
+        "a": "Quien estuviere procesado por delito con pena superior a la de prisión correccional",
+        "b": "Cualquier persona que se niegue a identificarse",
+        "c": "Toda persona que circule en horario nocturno por la vía pública",
+        "d": "Cualquier transeúnte sin documentación visible"
+      },
+      "correct": "a",
+      "explicacion": "Entre los supuestos en que la Autoridad o agente de Policía Judicial tiene obligación de detener se encuentra el del procesado por delito al que el Código señale pena superior a la de prisión correccional, así como los demás casos en que cualquier persona puede detener conforme al artículo 490.",
+      "ley": "Artículo 492 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_07_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El particular que detuviere a otra persona deberá, si esta lo exigiere:",
+      "options": {
+        "a": "Entregar inmediatamente al detenido a sus familiares",
+        "b": "Solicitar autorización judicial previa antes de soltarlo",
+        "c": "Justificar haber obrado en virtud de motivos racionalmente suficientes para creer que el detenido se hallaba en alguno de los casos legales de detención",
+        "d": "Abstenerse de dar ninguna explicación"
+      },
+      "correct": "c",
+      "explicacion": "El particular que practique una detención debe justificar, si el detenido lo exige, que actuó en virtud de motivos racionalmente suficientes para creer que aquel se encontraba comprendido en alguno de los supuestos legales que autorizan la detención por cualquier persona.",
+      "ley": "Artículo 491 de la Ley de Enjuiciamiento Criminal"
+    }
+  ]
+}

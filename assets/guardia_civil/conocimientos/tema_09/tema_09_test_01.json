@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_09_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme a la Ley de Enjuiciamiento Criminal, la jurisdicción criminal es:",
+      "options": {
+        "a": "Prorrogable mediante acuerdo de las partes",
+        "b": "Prorrogable solo en delitos leves",
+        "c": "Siempre improrrogable",
+        "d": "Prorrogable cuando lo autorice el Ministerio Fiscal"
+      },
+      "correct": "c",
+      "explicacion": "La competencia en el orden criminal no admite prórroga por voluntad de las partes ni por acuerdo entre ellas, a diferencia de lo que ocurre en otros órdenes jurisdiccionales. Se trata de una competencia de carácter imperativo, fijada exclusivamente por la ley.",
+      "ley": "Artículo 8 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los Jueces y Tribunales que tengan competencia para conocer de una causa determinada, ¿para qué otros actos tendrán también competencia?",
+      "options": {
+        "a": "Exclusivamente para la ejecución de las sentencias, no para la tramitación",
+        "b": "Para todas sus incidencias, para llevar a efecto las providencias de tramitación y para la ejecución de las sentencias",
+        "c": "Únicamente para dictar la sentencia firme",
+        "d": "Solo para las incidencias surgidas antes de la apertura del juicio oral"
+      },
+      "correct": "b",
+      "explicacion": "El órgano competente para conocer de una causa extiende su competencia a todas las incidencias que en ella surjan, a la tramitación procesal y a la ejecución de la sentencia que finalmente se dicte, sin perjuicio de las especialidades previstas para los juicios rápidos.",
+      "ley": "Artículo 9 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones NO es correcta respecto a la competencia para conocer de causas y juicios criminales:",
+      "options": {
+        "a": "Se exceptúan los casos reservados por las leyes al Senado",
+        "b": "Corresponde con carácter general a la jurisdicción ordinaria",
+        "c": "Se exceptúan los casos reservados a los Tribunales de Guerra y Marina",
+        "d": "Se exceptúan todos los delitos cometidos por autoridades administrativas, sin excepción"
+      },
+      "correct": "d",
+      "explicacion": "La jurisdicción ordinaria conoce con carácter general de las causas y juicios criminales, con la única excepción de los casos que las leyes reservan expresamente al Senado, a los Tribunales de Guerra y Marina y a las Autoridades administrativas o de policía, no existiendo una exclusión general e indiscriminada para todo delito cometido por autoridades administrativas.",
+      "ley": "Artículo 10 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando en una misma causa aparezcan a la vez culpables personas sujetas a la jurisdicción ordinaria y otras aforadas, el conocimiento corresponderá:",
+      "options": {
+        "a": "Debe dividirse la causa, juzgando cada jurisdicción a sus propios sujetos",
+        "b": "Siempre a la jurisdicción especial del aforado",
+        "c": "Al Tribunal Supremo en todo caso",
+        "d": "A la jurisdicción ordinaria, salvo excepciones expresamente consignadas en las leyes"
+      },
+      "correct": "d",
+      "explicacion": "Cuando concurren en una misma causa personas sometidas a la jurisdicción ordinaria junto con personas aforadas, la regla general atribuye el conocimiento a la jurisdicción ordinaria, salvo que existan excepciones expresamente recogidas en las leyes respecto a la competencia de otra jurisdicción.",
+      "ley": "Artículo 11 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Respecto a las causas por delitos cometidos por personas aforadas, la jurisdicción ordinaria:",
+      "options": {
+        "a": "Solo puede actuar tras autorización expresa del Tribunal Supremo",
+        "b": "Será siempre competente para prevenir la causa, limitándose a instruir las primeras diligencias",
+        "c": "Debe esperar a que la jurisdicción especial se inhiba expresamente antes de actuar",
+        "d": "No tiene ninguna competencia, ni siquiera para las primeras diligencias"
+      },
+      "correct": "b",
+      "explicacion": "La jurisdicción ordinaria es siempre competente para prevenir las causas por delitos que cometan los aforados, limitándose su actuación a instruir las primeras diligencias; concluidas estas, remitirá las actuaciones al órgano competente con arreglo a las leyes y pondrá a su disposición a los detenidos y los efectos ocupados, cesando en cuanto conste que la jurisdicción especial instruye causa sobre el mismo delito.",
+      "ley": "Artículo 12 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. ¿Cuál de las siguientes actuaciones NO se considera una de las \"primeras diligencias\" según la Ley de Enjuiciamiento Criminal?",
+      "options": {
+        "a": "Dictar sentencia condenatoria firme contra el presunto responsable",
+        "b": "Recoger y poner en custodia cuanto conduzca a la comprobación e identificación del delincuente",
+        "c": "Consignar las pruebas del delito que puedan desaparecer",
+        "d": "Detener, en su caso, a los presuntos responsables del delito"
+      },
+      "correct": "a",
+      "explicacion": "Las primeras diligencias se ciñen a actuaciones de carácter urgente y cautelar: consignar pruebas perecederas, custodiar lo que conduzca a la comprobación del delito y a la identificación del delincuente, detener en su caso a los presuntos responsables y proteger a los ofendidos, pudiendo acordarse medidas cautelares u órdenes de protección. Dictar sentencia firme es un acto propio del enjuiciamiento, ajeno por completo a esta fase preliminar.",
+      "ley": "Artículo 13 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El conocimiento y fallo de los juicios por delito leve corresponde, con carácter general, a:",
+      "options": {
+        "a": "El Tribunal del Jurado",
+        "b": "La Audiencia Provincial de la circunscripción",
+        "c": "La Sala de lo Penal de la Audiencia Nacional",
+        "d": "La Sección de Instrucción de los Tribunales de Instancia"
+      },
+      "correct": "d",
+      "explicacion": "El conocimiento y fallo de los juicios por delito leve corresponde a la Sección de Instrucción de los Tribunales de Instancia, salvo que la competencia corresponda a las secciones especializadas en violencia sobre la mujer o en violencia contra la infancia y la adolescencia, conforme a las reglas específicas previstas para estas materias.",
+      "ley": "Artículo 14.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La Sección de lo Penal del Tribunal de Instancia conocerá y fallará, con carácter general, los delitos sancionados con pena privativa de libertad de duración no superior a:",
+      "options": {
+        "a": "Cinco años",
+        "b": "Diez años",
+        "c": "Tres años",
+        "d": "Siete años"
+      },
+      "correct": "a",
+      "explicacion": "Corresponde a la Sección de lo Penal del Tribunal de Instancia de la circunscripción donde se cometió el delito el conocimiento y fallo de las causas por delitos a los que la ley señale pena privativa de libertad de duración no superior a cinco años, o pena de multa cualquiera que sea su cuantía, u otras penas de distinta naturaleza siempre que su duración conjunta no exceda de diez años.",
+      "ley": "Artículo 14.3 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando el conocimiento y fallo de una causa por delito dependa de la gravedad de la pena, si el procedimiento se dirige exclusivamente contra una persona jurídica, se atenderá:",
+      "options": {
+        "a": "Siempre a la Audiencia Provincial, con independencia de la pena",
+        "b": "A la pena que correspondería imponer a la persona jurídica conforme al Código Penal",
+        "c": "A la pena media entre la prevista para la persona física y la jurídica",
+        "d": "A la pena legalmente prevista para la persona física, aun cuando el procedimiento se dirija solo contra la persona jurídica"
+      },
+      "correct": "d",
+      "explicacion": "Para determinar el órgano competente cuando el conocimiento de la causa depende de la gravedad de la pena, se atenderá en todo caso a la pena legalmente prevista para la persona física, incluso cuando el procedimiento se dirija exclusivamente contra una persona jurídica.",
+      "ley": "Artículo 14 bis de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando no conste el lugar en que se haya cometido un delito, el orden de preferencia para determinar el Juez o Tribunal competente comienza por:",
+      "options": {
+        "a": "La residencia del reo presunto",
+        "b": "El término municipal en que se hayan descubierto pruebas materiales del delito",
+        "c": "El término municipal en que el presunto reo haya sido aprehendido",
+        "d": "Cualquiera que hubiese tenido noticia del delito"
+      },
+      "correct": "b",
+      "explicacion": "Cuando no conste el lugar de comisión del delito, la ley establece un orden de preferencia: en primer lugar, el término municipal, partido o circunscripción en que se hayan descubierto pruebas materiales del delito; en segundo lugar, aquel en que el presunto reo haya sido aprehendido; en tercer lugar, el de su residencia; y, por último, cualquiera que hubiese tenido noticia del delito.",
+      "ley": "Artículo 15 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. En los delitos cuya instrucción corresponda al Juez de Violencia sobre la Mujer, la competencia territorial vendrá determinada por:",
+      "options": {
+        "a": "El lugar de detención del investigado",
+        "b": "El lugar de comisión de los hechos, sin excepción",
+        "c": "El lugar del domicilio de la víctima",
+        "d": "El domicilio del Ministerio Fiscal actuante"
+      },
+      "correct": "c",
+      "explicacion": "Para los delitos cuya instrucción o conocimiento corresponda al Juez de Violencia sobre la Mujer, la competencia territorial se determina por el lugar del domicilio de la víctima, sin perjuicio de que el Juez del lugar de comisión de los hechos pueda adoptar la orden de protección o medidas urgentes cuando proceda.",
+      "ley": "Artículo 15 bis de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Para juzgar a los reos de delitos conexos, cuando alguno de ellos esté sujeto a la jurisdicción ordinaria y los demás sean aforados, será competente:",
+      "options": {
+        "a": "El Tribunal Supremo, exclusivamente",
+        "b": "La jurisdicción especial del aforado, en todo caso",
+        "c": "La jurisdicción ordinaria",
+        "d": "Se debe dividir la causa según el fuero de cada reo"
+      },
+      "correct": "c",
+      "explicacion": "La jurisdicción ordinaria será competente para juzgar a los reos de delitos conexos siempre que alguno de ellos esté sujeto a dicha jurisdicción, aun cuando los demás reos sean aforados, sin perjuicio de las excepciones expresamente recogidas en las leyes, en particular en la legislación penal de Guerra y Marina.",
+      "ley": "Artículo 16 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Como regla general, cada delito dará lugar a:",
+      "options": {
+        "a": "Tantas causas como personas perjudicadas existan",
+        "b": "Dos causas independientes, una penal y otra civil",
+        "c": "La formación de una única causa",
+        "d": "Una causa por cada órgano judicial que intervenga"
+      },
+      "correct": "c",
+      "explicacion": "El principio general es que cada delito da lugar a la formación de una única causa. No obstante, los delitos conexos podrán investigarse y enjuiciarse conjuntamente cuando la investigación y prueba en común resulten convenientes para su esclarecimiento, salvo que ello suponga excesiva complejidad o dilación para el proceso.",
+      "ley": "Artículo 17.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes situaciones NO se considera, a efectos de atribución de jurisdicción y competencia, un delito conexo:",
+      "options": {
+        "a": "Los cometidos por dos o más personas reunidas",
+        "b": "Los cometidos por diversas personas cuando se ocasionen lesiones o daños recíprocos",
+        "c": "Los cometidos por la misma persona en momentos distintos sin relación ni concierto previo entre ellos",
+        "d": "Los cometidos como medio para perpetrar otros o facilitar su ejecución"
+      },
+      "correct": "c",
+      "explicacion": "La ley enumera de forma tasada los supuestos de delitos conexos: los cometidos por varias personas reunidas, los cometidos por varias personas en distinto lugar o tiempo si hubo concierto previo, los cometidos como medio o para procurar la impunidad de otros, los de favorecimiento real y personal y blanqueo de capitales respecto al delito antecedente, y los que ocasionen lesiones o daños recíprocos. Los delitos cometidos por una misma persona sin concierto ni relación entre sí no encajan en ninguno de estos supuestos de conexión.",
+      "ley": "Artículo 17.2 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Para conocer de las causas por delitos conexos, cuando a los distintos delitos esté señalada igual pena, será competente:",
+      "options": {
+        "a": "El de la residencia del investigado principal",
+        "b": "El que primero comenzare la causa",
+        "c": "El del territorio donde se cometió el delito de mayor gravedad",
+        "d": "El órgano que designe el Tribunal Supremo en todo caso"
+      },
+      "correct": "b",
+      "explicacion": "Entre los criterios establecidos para determinar la competencia en causas por delitos conexos, cuando los distintos delitos tengan señalada igual pena, la ley atribuye la competencia al órgano que primero hubiera comenzado a conocer de la causa, reservando para el Tribunal Supremo o la Audiencia la designación solo cuando las causas se iniciaron al mismo tiempo o no conste cuál lo hizo primero.",
+      "ley": "Artículo 18.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. De todo delito nace acción penal para el castigo del culpable, y además puede nacer:",
+      "options": {
+        "a": "Acción civil para la restitución de la cosa, reparación del daño e indemnización de perjuicios",
+        "b": "Acción laboral contra el empleador del culpable",
+        "c": "Acción contencioso-administrativa contra el Estado",
+        "d": "Acción mercantil para la disolución de sociedades implicadas"
+      },
+      "correct": "a",
+      "explicacion": "De todo delito nace acción penal para el castigo del culpable, y puede nacer también acción civil dirigida a la restitución de la cosa, la reparación del daño causado y la indemnización de los perjuicios derivados del hecho punible.",
+      "ley": "Artículo 100 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. La acción penal tiene, con carácter general, naturaleza:",
+      "options": {
+        "a": "Reservada en exclusiva al Ministerio Fiscal",
+        "b": "Pública, pudiendo ejercitarla todos los ciudadanos españoles conforme a la ley",
+        "c": "Mixta, requiriendo siempre acuerdo entre ofendido y Ministerio Fiscal",
+        "d": "Privada, solo ejercitable por el ofendido"
+      },
+      "correct": "b",
+      "explicacion": "La acción penal es pública, lo que significa que todos los ciudadanos españoles pueden ejercitarla con arreglo a las prescripciones legales, sin perjuicio de las limitaciones y excepciones expresamente previstas para determinadas personas o delitos.",
+      "ley": "Artículo 101 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes personas SÍ puede ejercitar la acción penal según la regla general del artículo 102 de la Ley de Enjuiciamiento Criminal:",
+      "options": {
+        "a": "Cualquier ciudadano que goce de la plenitud de sus derechos civiles y no se encuentre en los supuestos de exclusión legal",
+        "b": "El Juez o Magistrado",
+        "c": "El condenado dos veces por sentencia firme como reo de denuncia o querella calumniosas",
+        "d": "El que no goce de la plenitud de los derechos civiles"
+      },
+      "correct": "a",
+      "explicacion": "La ley excluye del ejercicio de la acción penal a quienes no gocen de la plenitud de sus derechos civiles, a los condenados dos veces por sentencia firme como autores de denuncia o querella calumniosas, y a Jueces o Magistrados, sin perjuicio de que estas mismas personas puedan ejercitarla cuando el delito se haya cometido contra ellas mismas o contra determinados familiares. Fuera de estas excepciones tasadas, cualquier ciudadano con plena capacidad civil puede ejercitar la acción penal.",
+      "ley": "Artículo 102 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los funcionarios del Ministerio Fiscal tienen la obligación de ejercitar todas las acciones penales que consideren procedentes, haya o no acusador particular, EXCEPTO:",
+      "options": {
+        "a": "Las relativas a delitos leves de cualquier naturaleza",
+        "b": "Las que afecten a menores de edad",
+        "c": "Las relativas a delitos contra la Administración Pública",
+        "d": "Las que el Código Penal reserva exclusivamente a la querella privada"
+      },
+      "correct": "d",
+      "explicacion": "El Ministerio Fiscal tiene la obligación de ejercitar, conforme a la ley, todas las acciones penales que estime procedentes, exista o no acusador particular en la causa, con la única excepción de aquellas que el Código Penal reserva de forma exclusiva al ejercicio mediante querella privada.",
+      "ley": "Artículo 105.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_01_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Las víctimas del delito que no hayan renunciado a su derecho podrán ejercer la acción penal, con carácter general, en cualquier momento:",
+      "options": {
+        "a": "Antes del trámite de calificación del delito, sin que ello permita retrotraer las actuaciones ya practicadas",
+        "b": "Solo durante los cinco primeros días desde la comisión del delito",
+        "c": "Hasta la apertura de la fase de instrucción únicamente",
+        "d": "En cualquier momento del procedimiento, incluso tras dictarse sentencia firme"
+      },
+      "correct": "a",
+      "explicacion": "Las víctimas que no hayan renunciado a su derecho pueden ejercer la acción penal en cualquier momento antes del trámite de calificación del delito, sin que ello permita retrotraer ni reiterar las actuaciones ya practicadas con anterioridad a su personación. Si se personan tras el plazo para formular escrito de acusación, pueden ejercitar la acción adhiriéndose al escrito de acusación ya formulado hasta el inicio del juicio oral.",
+      "ley": "Artículo 109 bis.1 de la Ley de Enjuiciamiento Criminal"
+    }
+  ]
+}

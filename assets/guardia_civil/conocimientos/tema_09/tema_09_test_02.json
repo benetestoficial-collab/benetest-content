@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_09_test_02_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Entre los derechos que deben instruirse a toda persona a quien se atribuya un hecho punible se encuentra:",
+      "options": {
+        "a": "El derecho a elegir el órgano judicial que instruirá la causa",
+        "b": "El derecho a guardar silencio y a no declarar contra sí mismo ni confesarse culpable",
+        "c": "El derecho a que la instrucción se realice exclusivamente por escrito",
+        "d": "El derecho a ser juzgado en un plazo máximo de quince días"
+      },
+      "correct": "b",
+      "explicacion": "Entre el catálogo de derechos que deben comunicarse sin demora injustificada a la persona a quien se atribuye un hecho punible figuran el derecho a guardar silencio y a no contestar a alguna o algunas de las preguntas que se le formulen, así como el derecho a no declarar contra sí mismo y a no confesarse culpable.",
+      "ley": "Artículo 118.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El derecho de defensa comprende la asistencia letrada de un abogado, con el que el investigado podrá comunicarse y entrevistarse reservadamente:",
+      "options": {
+        "a": "Solo después de prestar declaración ante la autoridad judicial",
+        "b": "Incluso antes de que se le reciba declaración por la policía, el fiscal o la autoridad judicial",
+        "c": "Únicamente si lo autoriza expresamente el Ministerio Fiscal",
+        "d": "Solo a partir de la apertura del juicio oral"
+      },
+      "correct": "b",
+      "explicacion": "El derecho de defensa incluye la asistencia de un abogado de libre designación o, en su defecto, de oficio, con quien el investigado puede comunicarse y entrevistarse de forma reservada incluso antes de que se le tome declaración por la policía, el fiscal o la autoridad judicial, salvo las excepciones legalmente previstas, y dicho abogado estará presente en todas sus declaraciones, careos y diligencias de reconocimiento.",
+      "ley": "Artículo 118.2 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Las comunicaciones entre el investigado o encausado y su abogado tienen carácter confidencial, salvo cuando:",
+      "options": {
+        "a": "El investigado se encuentre en situación de prisión provisional",
+        "b": "Lo solicite el Ministerio Fiscal sin necesidad de motivación",
+        "c": "Hayan transcurrido más de seis meses desde el inicio de la instrucción",
+        "d": "Se constaten indicios objetivos de la participación del abogado en el hecho delictivo investigado"
+      },
+      "correct": "d",
+      "explicacion": "El carácter confidencial de las comunicaciones entre el investigado o encausado y su letrado solo cede cuando se constate la existencia de indicios objetivos de la participación del propio abogado en el hecho delictivo investigado o de su implicación junto con el investigado en otra infracción penal, sin perjuicio de lo dispuesto en la legislación penitenciaria.",
+      "ley": "Artículo 118.4 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando haya de procederse a la imputación de una persona jurídica, la citación para la comparecencia se hará:",
+      "options": {
+        "a": "Mediante edicto publicado en el Boletín Oficial del Estado, sin más trámite",
+        "b": "En el domicilio social de la persona jurídica, requiriendo la designación de representante, Abogado y Procurador",
+        "c": "En el domicilio del Ministerio Fiscal que instruya la causa",
+        "d": "En el domicilio particular de su administrador único"
+      },
+      "correct": "b",
+      "explicacion": "Cuando deba procederse a la imputación de una persona jurídica, la citación se practica en su domicilio social, requiriendo a la entidad la designación de un representante, así como de Abogado y Procurador para el procedimiento, con la advertencia de que, si no lo hace, se procederá a la designación de oficio de estos dos últimos.",
+      "ley": "Artículo 119.1.a) de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las partes que no tengan reconocido el derecho a la asistencia jurídica gratuita tendrán obligación de satisfacer, entre otros conceptos:",
+      "options": {
+        "a": "Todas las costas procesales, con independencia del resultado del proceso",
+        "b": "Solo los honorarios periciales, nunca los de abogado o procurador",
+        "c": "Únicamente las costas si resultan condenadas en sentencia firme",
+        "d": "Los derechos de los procuradores que les representen y los honorarios de los abogados que les defiendan"
+      },
+      "correct": "d",
+      "explicacion": "Quienes no tengan reconocido el derecho a la asistencia jurídica gratuita deben satisfacer los derechos de sus procuradores, los honorarios de sus abogados y, en su caso, los de los peritos y las indemnizaciones de testigos que hubieran reclamado, sin que ello implique obligación de abonar el resto de costas procesales salvo condena expresa.",
+      "ley": "Artículo 121 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Entre los documentos que, en todo caso, deberán traducirse para el imputado o acusado que no entienda la lengua del procedimiento se encuentran:",
+      "options": {
+        "a": "Todas las providencias de mero trámite dictadas en la causa",
+        "b": "Solo los atestados policiales iniciales",
+        "c": "Únicamente las declaraciones testificales practicadas en fase de instrucción",
+        "d": "Las resoluciones que acuerden la prisión del imputado, el escrito de acusación y la sentencia"
+      },
+      "correct": "d",
+      "explicacion": "Dentro del derecho a la traducción escrita de documentos esenciales, la ley exige en todo caso la traducción de las resoluciones que acuerden la prisión del imputado, del escrito de acusación y de la sentencia, sin perjuicio de que pueda solicitarse motivadamente que se considere esencial algún otro documento.",
+      "ley": "Artículo 123.1.d) de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El traductor o intérprete judicial será designado, como regla general:",
+      "options": {
+        "a": "Por sorteo entre los funcionarios del Juzgado",
+        "b": "Por libre elección del imputado, sin intervención de la Administración",
+        "c": "De entre aquellos que se hallen incluidos en los listados elaborados por la Administración competente",
+        "d": "Exclusivamente por el Colegio de Abogados del lugar donde se celebre el juicio"
+      },
+      "correct": "c",
+      "explicacion": "La designación del traductor o intérprete judicial se realiza, como regla general, de entre los profesionales incluidos en los listados elaborados por la Administración competente, reservándose la habilitación excepcional de un intérprete eventual para los supuestos de urgencia en que no sea posible recurrir a los inscritos en dichas listas.",
+      "ley": "Artículo 124.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La renuncia a los derechos de traducción e interpretación reconocidos al imputado o acusado:",
+      "options": {
+        "a": "Debe ser expresa y libre, y solo válida tras recibir un asesoramiento jurídico suficiente, sin que puedan renunciarse todos los derechos del catálogo",
+        "b": "Es siempre válida si la realiza el abogado en nombre de su cliente",
+        "c": "Puede realizarse en cualquier momento, incluso de forma tácita",
+        "d": "No puede realizarse bajo ninguna circunstancia ni siquiera tras asesoramiento jurídico"
+      },
+      "correct": "a",
+      "explicacion": "La renuncia a los derechos de traducción e interpretación debe ser expresa y libre, y únicamente será válida si se produce después de que el imputado o acusado haya recibido un asesoramiento jurídico suficiente y accesible sobre sus consecuencias. En todo caso, los derechos a ser asistido por intérprete durante las actuaciones que requieran su presencia y a la interpretación del juicio oral no pueden renunciarse.",
+      "ley": "Artículo 126 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. El que presenciare la perpetración de cualquier delito público está obligado a:",
+      "options": {
+        "a": "Ponerlo inmediatamente en conocimiento del Juez de instrucción, de paz, comarcal, municipal o del funcionario fiscal más próximo",
+        "b": "Esperar a que la víctima presente la denuncia correspondiente",
+        "c": "Comunicarlo únicamente al Ministerio del Interior",
+        "d": "Detener personalmente al autor antes de avisar a la autoridad"
+      },
+      "correct": "a",
+      "explicacion": "Quien presencie la comisión de un delito público tiene la obligación legal de ponerlo inmediatamente en conocimiento del Juez de instrucción, de paz, comarcal o municipal, o del funcionario fiscal más próximo al lugar donde se encuentre, bajo apercibimiento de multa en caso de incumplimiento.",
+      "ley": "Artículo 259 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes personas SÍ está obligada a denunciar, no estando comprendida en las exenciones legales:",
+      "options": {
+        "a": "Los ascendientes y descendientes del delincuente",
+        "b": "Un vecino sin relación de parentesco ni convivencia con el delincuente",
+        "c": "Los parientes colaterales del delincuente hasta el segundo grado inclusive",
+        "d": "El cónyuge no separado legalmente o de hecho del delincuente"
+      },
+      "correct": "b",
+      "explicacion": "La ley exime de la obligación de denunciar al cónyuge no separado legalmente o de hecho, a la persona que conviva en análoga relación de afectividad, y a los ascendientes, descendientes y parientes colaterales hasta el segundo grado del delincuente, salvo en determinados delitos graves contra menores o personas con discapacidad. Quien no tenga ninguna de estas relaciones de parentesco o convivencia con el delincuente queda sujeto a la obligación general de denunciar.",
+      "ley": "Artículo 261 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Quienes por razón de sus cargos, profesiones u oficios tuvieren noticia de algún delito público, estarán obligados a:",
+      "options": {
+        "a": "Comunicarlo solo cuando el delito sea constitutivo de delito grave",
+        "b": "Investigar personalmente los hechos antes de informar a la autoridad",
+        "c": "Denunciarlo inmediatamente al Ministerio Fiscal, al Tribunal competente, al Juez de instrucción o, en su defecto, al municipal o funcionario de policía",
+        "d": "Denunciarlo únicamente si la víctima lo solicita expresamente"
+      },
+      "correct": "c",
+      "explicacion": "Quienes, por razón de su cargo, profesión u oficio, tengan noticia de un delito público están obligados a denunciarlo inmediatamente al Ministerio Fiscal, al Tribunal competente, al Juez de instrucción o, en su defecto, al municipal o al funcionario de policía más próximo si se tratara de un delito flagrante, incurriendo en multa disciplinaria en caso de incumplimiento.",
+      "ley": "Artículo 262 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La obligación de denunciar por razón de profesión NO comprende a:",
+      "options": {
+        "a": "Los Abogados y Procuradores respecto de las instrucciones o explicaciones recibidas de sus clientes",
+        "b": "Los empleados públicos respecto de hechos conocidos en el ejercicio de su cargo",
+        "c": "Los funcionarios de policía respecto de los delitos flagrantes que observen",
+        "d": "Los médicos respecto de cualquier noticia que reciban en su vida privada"
+      },
+      "correct": "a",
+      "explicacion": "La obligación de denunciar impuesta a quienes conocen un delito por razón de su cargo, profesión u oficio no alcanza a los Abogados ni a los Procuradores respecto de las instrucciones o explicaciones que reciban de sus clientes, ni a los eclesiásticos y ministros de cultos respecto de lo revelado en el ejercicio de su ministerio.",
+      "ley": "Artículo 263 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las denuncias, conforme a la Ley de Enjuiciamiento Criminal, podrán hacerse:",
+      "options": {
+        "a": "Solo de palabra ante el funcionario de policía",
+        "b": "Únicamente por escrito y de forma personal",
+        "c": "Por escrito o de palabra, personalmente o por medio de mandatario con poder especial",
+        "d": "Exclusivamente a través de la sede electrónica del Ministerio de Justicia"
+      },
+      "correct": "c",
+      "explicacion": "La denuncia puede formularse tanto por escrito como de palabra, y puede presentarse personalmente por el denunciante o por medio de un mandatario que cuente con poder especial para ello, debiendo en todo caso identificarse al denunciante y narrar circunstanciadamente el hecho.",
+      "ley": "Artículo 265.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de los siguientes hechos SÍ podría denunciarse válidamente por vía telemática:",
+      "options": {
+        "a": "Un hecho cometido con violencia o intimidación",
+        "b": "Un delito flagrante presenciado por el propio denunciante",
+        "c": "Un hurto sin autor conocido, sin testigos y sin que el denunciante sea menor de edad",
+        "d": "Un hecho de naturaleza sexual"
+      },
+      "correct": "c",
+      "explicacion": "La ley excluye de la denuncia por vía telemática los hechos cometidos con violencia o intimidación, los que tengan autor conocido, aquellos en que existan testigos, los denunciados por un menor de edad, los delitos flagrantes y los hechos de naturaleza violenta o sexual. Fuera de estos supuestos tasados, como un hurto sin autor conocido ni testigos presenciado por un denunciante mayor de edad, la denuncia telemática es admisible.",
+      "ley": "Artículo 266 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Formalizada una denuncia, el Tribunal o funcionario se abstendrá de todo procedimiento cuando:",
+      "options": {
+        "a": "El denunciante no aporte pruebas documentales",
+        "b": "El denunciado se encuentre fuera del territorio nacional",
+        "c": "Hayan transcurrido más de veinticuatro horas desde los hechos",
+        "d": "El hecho no revista carácter de delito o la denuncia fuere manifiestamente falsa"
+      },
+      "correct": "d",
+      "explicacion": "Una vez formalizada la denuncia, debe procederse inmediatamente a comprobar el hecho denunciado, salvo que este no revista carácter de delito o que la denuncia resulte manifiestamente falsa, supuestos en los que el Tribunal o funcionario se abstendrá de todo procedimiento, sin perjuicio de la responsabilidad en que pudieran incurrir si desestimasen la denuncia indebidamente.",
+      "ley": "Artículo 269 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 270 de la Ley de Enjuiciamiento Criminal, pueden querellarse ejercitando la acción popular:",
+      "options": {
+        "a": "Únicamente las personas directamente ofendidas por el delito",
+        "b": "Todos los ciudadanos españoles, hayan sido o no ofendidos por el delito",
+        "c": "Solo el Ministerio Fiscal y las asociaciones de víctimas",
+        "d": "Exclusivamente los extranjeros residentes legalmente en España"
+      },
+      "correct": "b",
+      "explicacion": "En ejercicio de la acción popular regulada en el artículo 101, todos los ciudadanos españoles pueden querellarse, hayan sido o no ofendidos por el delito; los extranjeros, por su parte, solo pueden querellarse por delitos cometidos contra sus personas o bienes o los de sus representados, previa prestación de fianza salvo excepciones por tratado o reciprocidad.",
+      "ley": "Artículo 270 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. La querella se interpondrá, con carácter general, ante:",
+      "options": {
+        "a": "El Ministerio Fiscal",
+        "b": "Cualquier comisaría de policía",
+        "c": "El Juez de instrucción competente",
+        "d": "El Tribunal Supremo"
+      },
+      "correct": "c",
+      "explicacion": "La querella debe interponerse ante el Juez de instrucción competente, salvo que el querellado esté sometido por disposición especial de la ley a un Tribunal distinto, en cuyo caso se presentará ante este último.",
+      "ley": "Artículo 272 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando la querella sea por un delito perseguible solo a instancia de parte, se entenderá abandonada si el querellante deja de instar el procedimiento dentro de:",
+      "options": {
+        "a": "Los veinte días siguientes a la práctica de las primeras diligencias",
+        "b": "El mes siguiente a la admisión de la querella",
+        "c": "Los cinco días siguientes a la notificación del auto correspondiente",
+        "d": "Los diez días siguientes a la notificación del auto en que así se hubiese acordado"
+      },
+      "correct": "d",
+      "explicacion": "En las querellas por delitos perseguibles solo a instancia de parte, se considera abandonada si el querellante no insta el procedimiento dentro de los diez días siguientes a la notificación del auto en que el Juez o Tribunal así lo hubiera acordado, debiendo este requerir de oficio al querellante transcurrido ese plazo desde la paralización de la causa.",
+      "ley": "Artículo 275 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La querella, conforme al artículo 277 de la Ley de Enjuiciamiento Criminal, deberá presentarse siempre:",
+      "options": {
+        "a": "Por medio de Procurador con poder bastante y suscrita por Letrado",
+        "b": "Directamente por el querellante sin necesidad de representación",
+        "c": "Únicamente a través de la sede judicial electrónica",
+        "d": "Con la firma de al menos dos testigos presenciales"
+      },
+      "correct": "a",
+      "explicacion": "La querella debe presentarse siempre por medio de Procurador que cuente con poder bastante y suscrita por Letrado, extendiéndose en papel de oficio y debiendo contener, entre otros extremos, la identificación del órgano ante quien se presenta, de querellante y querellado, la relación circunstanciada del hecho y las diligencias cuya práctica se solicita.",
+      "ley": "Artículo 277 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_02_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Están exentos de prestar la fianza exigida al querellante particular, entre otros:",
+      "options": {
+        "a": "El ofendido y sus herederos o representantes legales",
+        "b": "Todos los extranjeros sin excepción",
+        "c": "Cualquier ciudadano que ejercite la acción popular sin relación con la víctima",
+        "d": "Las personas jurídicas mercantiles con domicilio en España"
+      },
+      "correct": "a",
+      "explicacion": "Quedan exentos de prestar la fianza que con carácter general se exige al querellante particular el ofendido y sus herederos o representantes legales, así como, en los delitos de asesinato u homicidio, determinados familiares de la víctima y del delincuente, y las asociaciones de víctimas autorizadas expresamente por esta, sin que dicha exención alcance a los extranjeros salvo lo previsto por tratado internacional o reciprocidad.",
+      "ley": "Artículo 281 de la Ley de Enjuiciamiento Criminal"
+    }
+  ]
+}
