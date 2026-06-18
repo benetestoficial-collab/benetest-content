@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_09_test_20_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones sobre la Policía Judicial conforme a la Ley de Enjuiciamiento Criminal NO es correcta:",
+      "options": {
+        "a": "Tiene por objeto averiguar los delitos públicos y practicar diligencias para comprobarlos y descubrir a los delincuentes",
+        "b": "Tiene competencia exclusiva para dictar sentencia en los juicios por delito leve",
+        "c": "Debe recoger los efectos e instrumentos del delito en peligro de desaparición y ponerlos a disposición de la autoridad judicial",
+        "d": "Actúa bajo la dependencia de Jueces, Tribunales y Ministerio Fiscal en sus funciones de investigación"
+      },
+      "correct": "b",
+      "explicacion": "Dictar sentencia es una función jurisdiccional reservada a Jueces y Tribunales, no a la Policía Judicial. Esta tiene por objeto averiguar los delitos públicos, practicar las diligencias para comprobarlos y descubrir a los responsables, así como recoger y custodiar los efectos del delito en peligro de desaparición, actuando siempre bajo dependencia judicial y fiscal.",
+      "ley": "Artículo 282 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_20_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La identidad supuesta otorgada a un agente encubierto por el Ministerio del Interior tendrá una duración de seis meses, prorrogables por:",
+      "options": {
+        "a": "Un único período adicional de tres meses",
+        "b": "No será prorrogable en ningún caso",
+        "c": "Períodos de igual duración",
+        "d": "Períodos de un año cada uno"
+      },
+      "correct": "c",
+      "explicacion": "La identidad supuesta concedida al agente encubierto por el Ministerio del Interior tiene una duración inicial de seis meses, siendo prorrogable por períodos de igual duración mientras subsista la necesidad de la investigación autorizada.",
+      "ley": "Artículo 282 bis.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_20_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 1 de la Ley Orgánica reguladora del procedimiento de Habeas Corpus, se considera persona ilegalmente detenida a quien:",
+      "options": {
+        "a": "Haya prestado consentimiento expreso e informado a su propia detención",
+        "b": "Se encuentre cumpliendo una medida cautelar acordada conforme a la ley",
+        "c": "Esté privada de libertad por plazo superior al señalado en las leyes sin ser puesta en libertad o entregada al Juez más próximo",
+        "d": "Haya sido condenada por sentencia firme dictada por Tribunal competente"
+      },
+      "correct": "c",
+      "explicacion": "Se considera persona ilegalmente detenida, entre otros supuestos, a quien esté privada de libertad por plazo superior al legalmente señalado sin haber sido puesta en libertad o entregada al Juez más próximo al lugar de la detención, garantizándose así el control judicial inmediato de cualquier privación de libertad.",
+      "ley": "Artículo 1 de la Ley Orgánica 6/1984, reguladora del procedimiento de Habeas Corpus"
+    },
+    {
+      "id": "tema_09_test_20_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El procedimiento de Habeas Corpus se iniciará, salvo que se incoe de oficio, mediante escrito o comparecencia, siendo preceptiva la intervención de Abogado y Procurador:",
+      "options": {
+        "a": "Solo si el detenido es extranjero sin residencia legal en España",
+        "b": "Sí, en todo caso, sin excepción alguna",
+        "c": "Solo será preceptiva la intervención de Procurador, no la de Abogado",
+        "d": "No, no será preceptiva la intervención de Abogado ni de Procurador"
+      },
+      "correct": "d",
+      "explicacion": "Para garantizar la agilidad y accesibilidad de este procedimiento de protección de la libertad, no es preceptiva la intervención de Abogado ni de Procurador para iniciar el Habeas Corpus, pudiendo cualquier persona instarlo mediante escrito o comparecencia.",
+      "ley": "Artículo 4 de la Ley Orgánica 6/1984, reguladora del procedimiento de Habeas Corpus"
+    },
+    {
+      "id": "tema_09_test_20_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones sobre el Tribunal Supremo conforme a la Ley Orgánica del Poder Judicial NO es correcta:",
+      "options": {
+        "a": "Es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales",
+        "b": "Está integrado por las Salas que corresponda según los distintos órdenes jurisdiccionales",
+        "c": "Tiene su sede en la villa de Madrid",
+        "d": "Su jurisdicción se extiende exclusivamente al territorio de la Comunidad de Madrid"
+      },
+      "correct": "d",
+      "explicacion": "El Tribunal Supremo, con sede en Madrid, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales, y su jurisdicción se extiende a todo el territorio español, sin limitación territorial alguna a una Comunidad Autónoma concreta.",
+      "ley": "Artículo 53 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_20_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El Tribunal Superior de Justicia toma su nombre de:",
+      "options": {
+        "a": "El partido judicial más poblado de la región",
+        "b": "El Tribunal Supremo, del que constituye una sección desconcentrada",
+        "c": "La capital de provincia donde tenga su sede únicamente",
+        "d": "La Comunidad Autónoma, extendiendo su jurisdicción al ámbito territorial de esta"
+      },
+      "correct": "d",
+      "explicacion": "El Tribunal Superior de Justicia toma el nombre de la Comunidad Autónoma correspondiente, extendiendo su jurisdicción al ámbito territorial de la misma, culminando la organización judicial ordinaria dentro de dicho territorio.",
+      "ley": "Artículo 71 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_20_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las Audiencias Provinciales se compondrán, con carácter general, de un Presidente y:",
+      "options": {
+        "a": "Cinco Magistrados como mínimo, en todo caso",
+        "b": "Ningún magistrado adicional, actuando el Presidente en solitario",
+        "c": "Un único magistrado adicional, sin posibilidad de ampliación",
+        "d": "Dos o más magistrados"
+      },
+      "correct": "d",
+      "explicacion": "Las Audiencias Provinciales se componen, con carácter general, de un Presidente y dos o más magistrados, pudiendo también integrarse por dos o más Secciones de la misma composición.",
+      "ley": "Artículo 81.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_20_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones sobre el Ministerio Fiscal NO es correcta:",
+      "options": {
+        "a": "Actúa de oficio o a petición de los interesados, según corresponda",
+        "b": "Se rige exclusivamente por las instrucciones particulares de cada Comunidad Autónoma",
+        "c": "Vela por la independencia de los tribunales y procura ante ellos la satisfacción del interés social",
+        "d": "Tiene por misión promover la acción de la Justicia en defensa de la legalidad y de los derechos de los ciudadanos"
+      },
+      "correct": "b",
+      "explicacion": "El Ministerio Fiscal se rige por lo dispuesto en su Estatuto Orgánico, no por instrucciones particulares de las Comunidades Autónomas, lo que garantiza su actuación conforme a los principios de unidad de actuación y dependencia jerárquica propios de la institución.",
+      "ley": "Artículo 541 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_20_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Constituyen la Policía Judicial en sentido estricto las Unidades Orgánicas integradas por miembros de:",
+      "options": {
+        "a": "Las Policías Locales exclusivamente",
+        "b": "El personal civil de la Administración de Justicia",
+        "c": "Las Fuerzas Armadas, sin distinción de Ejército",
+        "d": "El Cuerpo Nacional de Policía y de la Guardia Civil"
+      },
+      "correct": "d",
+      "explicacion": "Conforme al Real Decreto 769/1987, constituyen la Policía Judicial en sentido estricto las Unidades Orgánicas integradas por miembros del Cuerpo Nacional de Policía y de la Guardia Civil, previstas en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad.",
+      "ley": "Artículo 7 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_20_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones sobre las Unidades Orgánicas de la Policía Judicial NO es correcta:",
+      "options": {
+        "a": "Pueden ser removidas libremente de una investigación concreta por sus mandos policiales, sin necesidad de autorización judicial",
+        "b": "Dependen funcionalmente de los Jueces, Tribunales o miembros del Ministerio Fiscal que conozcan del asunto investigado",
+        "c": "Se estructuran con arreglo a criterios de distribución territorial sobre una base provincial",
+        "d": "Sus funcionarios deben guardar rigurosa reserva sobre la evolución y resultado de las investigaciones encomendadas"
+      },
+      "correct": "a",
+      "explicacion": "Los funcionarios de las Unidades Orgánicas de la Policía Judicial no pueden ser removidos o apartados de una investigación concreta hasta que finalice esta o la fase procesal que la originó, salvo decisión o autorización del Juez o Fiscal competente, lo que constituye una garantía esencial de su dependencia funcional judicial.",
+      "ley": "Artículo 16 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_20_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Toda víctima tiene derecho a entender y ser entendida, lo que implica que las comunicaciones con ella se realizarán en un lenguaje:",
+      "options": {
+        "a": "Exclusivamente escrito, sin posibilidad de comunicación oral",
+        "b": "Reservado únicamente a los profesionales del Derecho que intervengan en el caso",
+        "c": "Claro, sencillo y accesible, teniendo en cuenta sus características personales",
+        "d": "Técnico-jurídico riguroso, sin adaptación a sus circunstancias"
+      },
+      "correct": "c",
+      "explicacion": "El derecho a entender y ser entendida exige que todas las comunicaciones con la víctima, orales o escritas, se realicen en un lenguaje claro, sencillo y accesible, adaptado a sus características personales y necesidades específicas.",
+      "ley": "Artículo 4 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_20_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones sobre los derechos de las víctimas conforme a la Ley 4/2015 NO es correcta:",
+      "options": {
+        "a": "La condición de víctima exige siempre que se conozca la identidad del infractor",
+        "b": "La víctima tiene derecho a recibir un trato respetuoso, profesional, individualizado y no discriminatorio",
+        "c": "Está vedada la mediación y conciliación en supuestos de violencia sexual y de violencia de género",
+        "d": "Toda víctima tiene derecho a la protección, información, apoyo, asistencia, atención y reparación"
+      },
+      "correct": "a",
+      "explicacion": "Los derechos reconocidos a la víctima se ejercen con independencia de que se conozca o no la identidad del infractor y del resultado del proceso, por lo que no es correcto afirmar que la condición de víctima exija conocer dicha identidad.",
+      "ley": "Artículo 3.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_20_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Toda víctima tiene, en el momento de presentar su denuncia, derecho a obtener una copia de la misma:",
+      "options": {
+        "a": "Solo si abona previamente una tasa administrativa",
+        "b": "Sin certificar, al carecer dicho trámite de relevancia legal",
+        "c": "Debidamente certificada",
+        "d": "Únicamente transcurridos treinta días desde su presentación"
+      },
+      "correct": "c",
+      "explicacion": "Toda víctima tiene, en el momento de presentar su denuncia, el derecho a obtener una copia de la misma debidamente certificada, así como a la asistencia lingüística gratuita cuando no entienda o no hable las lenguas oficiales del lugar.",
+      "ley": "Artículo 6.a) de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_20_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones sobre la entrada y registro en lugar cerrado conforme a la Ley de Enjuiciamiento Criminal NO es correcta:",
+      "options": {
+        "a": "El registro se hará procurando evitar las inspecciones inútiles y sin perjudicar ni importunar al interesado más de lo necesario",
+        "b": "El propio sospechoso podrá decidir libremente la hora de la entrada sin necesidad de autorización judicial",
+        "c": "El Juez podrá decretar la entrada y registro durante el día o la noche cuando lo considere conveniente, con las debidas justificaciones",
+        "d": "Se necesita resolución judicial para entrar en domicilio particular, salvo consentimiento del titular o flagrante delito"
+      },
+      "correct": "b",
+      "explicacion": "La entrada en domicilio requiere, con carácter general, resolución judicial motivada, consentimiento del titular o situación de flagrante delito, sin que el sospechoso pueda decidir unilateralmente la hora o condiciones de la diligencia, que corresponde determinar a la autoridad judicial.",
+      "ley": "Artículos 545 y 558 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_20_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las Salas de Gobierno y el Consejo General del Poder Judicial intervienen en la organización judicial conforme a la Ley Orgánica del Poder Judicial; las Audiencias Provinciales tendrán su sede en:",
+      "options": {
+        "a": "La capital de la provincia, de la que tomarán su nombre",
+        "b": "Madrid, con jurisdicción sobre toda España",
+        "c": "La sede del Tribunal Superior de Justicia, sin excepción alguna",
+        "d": "Cualquier municipio designado anualmente por sorteo"
+      },
+      "correct": "a",
+      "explicacion": "Las Audiencias Provinciales tienen su sede en la capital de la provincia, de la que toman su nombre, extendiendo su jurisdicción a toda ella, sin perjuicio de la posibilidad de crear Secciones fuera de la capital.",
+      "ley": "Artículo 80.1 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_20_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al Estatuto de la víctima del delito, las víctimas de delitos de violencia de género serán notificadas de las resoluciones sobre prisión, libertad o medidas cautelares relacionadas con su seguridad:",
+      "options": {
+        "a": "Únicamente si lo solicitan expresamente por escrito",
+        "b": "Sin necesidad de que lo solicite, salvo que manifieste su deseo de no recibir dichas notificaciones",
+        "c": "Solo tras la firmeza de la sentencia definitiva del procedimiento",
+        "d": "Nunca, al estar dichas resoluciones protegidas por el secreto de las actuaciones"
+      },
+      "correct": "b",
+      "explicacion": "Para las víctimas de violencia de género, la notificación de estas resoluciones es automática, sin necesidad de solicitud previa, salvo que la propia víctima manifieste su deseo de no recibirlas, reforzando así su protección efectiva.",
+      "ley": "Artículo 7.3 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_20_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones sobre los Jueces de Paz NO es correcta:",
+      "options": {
+        "a": "Tendrán, dentro de su circunscripción, el tratamiento y precedencia de los Jueces de Primera Instancia e Instrucción",
+        "b": "Son nombrados para un período de cuatro años por la Sala de Gobierno del Tribunal Superior de Justicia",
+        "c": "Es imprescindible que posean la licenciatura o el grado en Derecho para poder ser nombrados",
+        "d": "Conocerán en primera instancia de los procesos por delito leve que les atribuya la ley"
+      },
+      "correct": "c",
+      "explicacion": "Pueden ser nombrados Jueces de Paz, tanto titulares como sustitutos, quienes, aun no siendo licenciados en Derecho, reúnan los requisitos legalmente exigidos para el ingreso en la Carrera Judicial y no estén incursos en causas de incapacidad o incompatibilidad para el ejercicio de funciones judiciales.",
+      "ley": "Artículo 102 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_09_test_20_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El acceso de las víctimas a los servicios de apoyo prestados por las Oficinas de Asistencia a las Víctimas:",
+      "options": {
+        "a": "No se condicionará a la presentación previa de una denuncia",
+        "b": "Exige siempre la presentación de denuncia formal con carácter previo",
+        "c": "Solo está disponible una vez dictada sentencia firme",
+        "d": "Requiere el pago de una tasa para acceder a la primera consulta"
+      },
+      "correct": "a",
+      "explicacion": "La ley garantiza el acceso a los servicios de apoyo a las víctimas con independencia de que se haya presentado o no denuncia formal, facilitando que cualquier víctima pueda recibir asistencia desde el primer momento, incluso antes de decidir si denuncia los hechos.",
+      "ley": "Artículo 28.3 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_20_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La obligación de reembolso de subvenciones y ayudas percibidas por la condición de víctima surge cuando la persona beneficiaria:",
+      "options": {
+        "a": "Decida no continuar como parte acusadora en el proceso",
+        "b": "Fuera condenada por denuncia falsa o simulación de delito",
+        "c": "Cambie de residencia durante la tramitación del procedimiento",
+        "d": "Sea absuelto el acusado por falta de pruebas"
+      },
+      "correct": "b",
+      "explicacion": "La obligación de reembolsar las subvenciones y ayudas recibidas, incrementadas con el interés legal del dinero aumentado en un cincuenta por ciento, surge específicamente cuando la persona beneficiaria de las mismas fuera condenada por denuncia falsa o simulación de delito.",
+      "ley": "Artículo 35.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_20_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de las siguientes afirmaciones sobre el juicio del Jurado conforme a la Ley Orgánica del Poder Judicial NO es correcta:",
+      "options": {
+        "a": "Solo puede constituirse en la Audiencia Nacional, con exclusión de cualquier otro Tribunal",
+        "b": "Constituye una manifestación del derecho de los ciudadanos a participar en la Administración de Justicia",
+        "c": "Su composición y competencia se regula en la Ley Orgánica del Tribunal del Jurado",
+        "d": "Se celebrará en el ámbito de la Audiencia Provincial u otros Tribunales y en la forma que establezca la ley"
+      },
+      "correct": "a",
+      "explicacion": "El juicio del Jurado se celebra en el ámbito de la Audiencia Provincial u otros Tribunales, en la forma que establezca la ley, sin que su constitución quede limitada exclusivamente a la Audiencia Nacional, rigiéndose su composición y competencia por la Ley Orgánica del Tribunal del Jurado.",
+      "ley": "Artículo 83 de la Ley Orgánica del Poder Judicial"
+    }
+  ]
+}

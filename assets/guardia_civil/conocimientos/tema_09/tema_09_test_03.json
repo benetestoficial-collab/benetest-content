@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_09_test_03_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. La Policía Judicial tiene por objeto, entre otras funciones:",
+      "options": {
+        "a": "Dictar sentencia en los juicios por delito leve",
+        "b": "Averiguar los delitos públicos cometidos en su territorio y practicar las diligencias necesarias para comprobarlos y descubrir a los delincuentes",
+        "c": "Decidir en exclusiva sobre la prisión provisional del investigado",
+        "d": "Sustituir al Ministerio Fiscal en el ejercicio de la acusación"
+      },
+      "correct": "b",
+      "explicacion": "Es obligación de todos los integrantes de la Policía Judicial averiguar los delitos públicos cometidos en su demarcación, practicar las diligencias necesarias para comprobarlos y descubrir a los responsables, así como recoger los efectos e instrumentos del delito en peligro de desaparición, poniéndolos a disposición de la autoridad judicial.",
+      "ley": "Artículo 282 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La identidad supuesta otorgada a un agente encubierto por el Ministerio del Interior tendrá una duración de:",
+      "options": {
+        "a": "Seis meses, prorrogables por períodos de igual duración",
+        "b": "Dos años, prorrogables por una sola vez",
+        "c": "Tres meses, improrrogables",
+        "d": "Un año, no prorrogable"
+      },
+      "correct": "a",
+      "explicacion": "La identidad supuesta del agente encubierto es otorgada por el Ministerio del Interior por un plazo de seis meses, prorrogables por períodos de igual duración, quedando habilitado para actuar en todo lo relacionado con la investigación concreta autorizada por resolución judicial o del Ministerio Fiscal.",
+      "ley": "Artículo 282 bis.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. A efectos de la regulación del agente encubierto, se considera delincuencia organizada la asociación de:",
+      "options": {
+        "a": "Cinco o más personas con estructura jerárquica formalmente constituida",
+        "b": "Tres o más personas para realizar, de forma permanente o reiterada, determinadas conductas delictivas",
+        "c": "Cualquier número de personas siempre que actúen en más de una provincia",
+        "d": "Dos o más personas, con independencia de la permanencia de su actuación"
+      },
+      "correct": "b",
+      "explicacion": "La ley define la delincuencia organizada, a los efectos de autorizar la actuación bajo identidad supuesta, como la asociación de tres o más personas para realizar, de forma permanente o reiterada, conductas dirigidas a cometer alguno de los delitos expresamente enumerados en la norma.",
+      "ley": "Artículo 282 bis.4 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando los funcionarios de Policía Judicial tuvieren conocimiento de un delito público, deberán participarlo a la autoridad judicial o al Ministerio Fiscal:",
+      "options": {
+        "a": "Únicamente al finalizar todas las diligencias, sin excepción",
+        "b": "Inmediatamente, sin cesar en la práctica de las diligencias de prevención si pudieren hacerlo así",
+        "c": "Solo si lo solicita expresamente el denunciante",
+        "d": "En el plazo máximo de un mes desde el inicio del atestado"
+      },
+      "correct": "b",
+      "explicacion": "Tan pronto como los funcionarios de la Policía Judicial tengan conocimiento de un delito público, deben comunicarlo inmediatamente a la autoridad judicial o al Ministerio Fiscal, sin cesar en la práctica de las diligencias de prevención si fuera posible hacerlo simultáneamente; en caso contrario, lo harán en cuanto las hubieran terminado.",
+      "ley": "Artículo 284.1 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando no exista autor conocido del delito, la Policía Judicial conservará el atestado a disposición del Ministerio Fiscal sin enviarlo, EXCEPTO cuando:",
+      "options": {
+        "a": "El hecho se haya producido en horario nocturno",
+        "b": "El denunciante sea una persona jurídica",
+        "c": "Haya transcurrido más de un año desde la apertura del atestado",
+        "d": "Se trate de delitos contra la vida, contra la integridad física o de corrupción"
+      },
+      "correct": "d",
+      "explicacion": "Como regla general, sin autor conocido la Policía Judicial conserva el atestado a disposición del Ministerio Fiscal y de la autoridad judicial sin remitirlo, salvo que se trate de delitos contra la vida, contra la integridad física, contra la libertad e indemnidad sexuales o relacionados con la corrupción, que tras 72 horas se hayan obtenido resultados, o que se solicite expresamente su remisión.",
+      "ley": "Artículo 284.2 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El atestado policial, conforme al artículo 292 de la Ley de Enjuiciamiento Criminal, debe especificar:",
+      "options": {
+        "a": "Solo las medidas cautelares adoptadas",
+        "b": "Únicamente la identidad del denunciante",
+        "c": "Exclusivamente el resultado de las pruebas periciales practicadas",
+        "d": "Con la mayor exactitud los hechos averiguados, las declaraciones e informes recibidos y las circunstancias observadas que puedan ser prueba o indicio del delito"
+      },
+      "correct": "d",
+      "explicacion": "El atestado debe especificar con la mayor exactitud posible los hechos averiguados por los funcionarios de Policía Judicial, insertando las declaraciones e informes recibidos y anotando todas las circunstancias observadas que puedan constituir prueba o indicio del delito, remitiendo además un informe sobre detenciones anteriores y requisitorias.",
+      "ley": "Artículo 292 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los funcionarios de Policía Judicial no podrán dejar transcurrir, salvo fuerza mayor, más de:",
+      "options": {
+        "a": "24 horas sin dar conocimiento a la autoridad judicial o al Ministerio Fiscal de las diligencias practicadas",
+        "b": "48 horas sin dar conocimiento a la autoridad judicial o al Ministerio Fiscal de las diligencias practicadas",
+        "c": "72 horas sin dar conocimiento a la autoridad judicial o al Ministerio Fiscal de las diligencias practicadas",
+        "d": "12 horas sin dar conocimiento a la autoridad judicial o al Ministerio Fiscal de las diligencias practicadas"
+      },
+      "correct": "a",
+      "explicacion": "Salvo en supuestos de fuerza mayor o en el caso de ausencia de autor conocido, los funcionarios de Policía Judicial no pueden dejar transcurrir más de 24 horas sin comunicar a la autoridad judicial o al Ministerio Fiscal las diligencias que hubieran practicado, bajo sanción disciplinaria en caso de incumplimiento.",
+      "ley": "Artículo 295 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los atestados redactados por los funcionarios de Policía Judicial, a efectos legales, se consideran:",
+      "options": {
+        "a": "Autos de procesamiento",
+        "b": "Sentencias firmes",
+        "c": "Denuncias",
+        "d": "Querellas formales"
+      },
+      "correct": "c",
+      "explicacion": "Los atestados que redacten los funcionarios de Policía Judicial, así como las manifestaciones realizadas a consecuencia de sus averiguaciones, se consideran denuncias a los efectos legales, mientras que sus demás declaraciones firmadas tendrán el valor de declaraciones testificales en cuanto se refieran a hechos de conocimiento propio.",
+      "ley": "Artículo 297 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. El sumario está constituido por:",
+      "options": {
+        "a": "Las actuaciones encaminadas a preparar el juicio para averiguar y hacer constar la perpetración de los delitos y la culpabilidad de los delincuentes",
+        "b": "Únicamente la sentencia y los recursos posteriores",
+        "c": "Las actuaciones administrativas previas a la apertura de cualquier expediente",
+        "d": "Solo las diligencias practicadas en el acto del juicio oral"
+      },
+      "correct": "a",
+      "explicacion": "El sumario comprende las actuaciones dirigidas a preparar el juicio, practicadas para averiguar y hacer constar la perpetración de los delitos con todas las circunstancias relevantes para su calificación y la culpabilidad de los responsables, asegurando además sus personas y las responsabilidades pecuniarias derivadas.",
+      "ley": "Artículo 299 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El abogado o procurador que revelare indebidamente el contenido del sumario será corregido con multa de:",
+      "options": {
+        "a": "500 a 10.000 euros",
+        "b": "100 a 1.000 euros",
+        "c": "1.000 a 20.000 euros",
+        "d": "5.000 a 50.000 euros"
+      },
+      "correct": "a",
+      "explicacion": "Las diligencias del sumario tienen carácter reservado hasta la apertura del juicio oral. El abogado o procurador de cualquiera de las partes que revele indebidamente su contenido será corregido con multa de 500 a 10.000 euros, sanción que se aplica también a cualquier persona no funcionaria que cometa la misma infracción.",
+      "ley": "Artículo 301 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El secreto total o parcial del sumario acordado por el Juez de Instrucción tendrá una duración máxima de:",
+      "options": {
+        "a": "Quince días, no prorrogables",
+        "b": "Tres meses, prorrogables indefinidamente",
+        "c": "Un mes, debiendo alzarse necesariamente al menos diez días antes de la conclusión del sumario",
+        "d": "Seis meses, con alzamiento automático"
+      },
+      "correct": "c",
+      "explicacion": "El Juez de Instrucción puede declarar el sumario total o parcialmente secreto para las partes personadas por un plazo no superior a un mes, cuando resulte necesario para evitar un riesgo grave para personas o para no comprometer el resultado de la investigación, debiendo alzarse dicho secreto necesariamente con al menos diez días de antelación a la conclusión del sumario.",
+      "ley": "Artículo 302 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La formación del sumario, ya se inicie de oficio o a instancia de parte, corresponde con carácter general a:",
+      "options": {
+        "a": "El Ministerio Fiscal exclusivamente",
+        "b": "El Tribunal del Jurado desde el primer momento",
+        "c": "Los Jueces de instrucción por los delitos cometidos dentro de su partido o demarcación",
+        "d": "La Policía Judicial en todos los casos"
+      },
+      "correct": "c",
+      "explicacion": "La formación del sumario corresponde a los Jueces de instrucción respecto de los delitos cometidos dentro de su partido o demarcación, y en su defecto a los demás Jueces de la misma población, sin perjuicio de la posibilidad de nombrar Jueces instructores especiales en causas atribuidas a Tribunales determinados por ley orgánica.",
+      "ley": "Artículo 303 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Las Salas de gobierno de las Audiencias podrán nombrar un Juez instructor especial cuando:",
+      "options": {
+        "a": "El Juez de instrucción ordinario lo solicite por motivos de carga de trabajo, sin más requisitos",
+        "b": "El delito sea de competencia exclusiva de la Audiencia Provincial",
+        "c": "Lo solicite directamente cualquier ciudadano sin motivación adicional",
+        "d": "Las extraordinarias circunstancias del delito, de lugar, de tiempo o de las personas intervinientes motiven fundadamente dicho nombramiento"
+      },
+      "correct": "d",
+      "explicacion": "Las Salas de gobierno pueden nombrar un Juez instructor especial cuando las extraordinarias circunstancias del delito, ya sean de lugar, de tiempo de ejecución, o de las personas que en él hubieran intervenido como ofensores u ofendidos, motiven fundadamente dicho nombramiento para una más acertada investigación o comprobación de los hechos.",
+      "ley": "Artículo 304 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La formación de los sumarios de delitos públicos por los Jueces de instrucción se realiza:",
+      "options": {
+        "a": "Bajo la supervisión exclusiva del Defensor del Pueblo",
+        "b": "Bajo la inspección directa del Fiscal del Tribunal competente",
+        "c": "Con autorización previa del Tribunal Constitucional",
+        "d": "Sin ningún tipo de control externo"
+      },
+      "correct": "b",
+      "explicacion": "Los Jueces de instrucción forman los sumarios de los delitos públicos bajo la inspección directa del Fiscal del Tribunal competente, ejercida bien mediante constitución del propio Fiscal o sus auxiliares junto al Juez instructor, bien mediante testimonios periódicos remitidos por este.",
+      "ley": "Artículo 306 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El Juez instructor practicará las diligencias propuestas por el Ministerio Fiscal o las partes personadas:",
+      "options": {
+        "a": "Únicamente cuando se trate de diligencias periciales",
+        "b": "Solo si cuentan con el visto bueno previo del Tribunal superior",
+        "c": "Salvo que las considere inútiles o perjudiciales",
+        "d": "Siempre, sin excepción posible"
+      },
+      "correct": "c",
+      "explicacion": "El Juez que instruye el sumario debe practicar las diligencias propuestas por el Ministerio Fiscal o por cualquiera de las partes personadas, salvo que las considere inútiles o perjudiciales, en cuyo caso podrá denegarlas, siendo dicha denegación recurrible en apelación.",
+      "ley": "Artículo 311 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El Juez de instrucción desestimará la querella presentada cuando:",
+      "options": {
+        "a": "El Ministerio Fiscal no haya emitido informe favorable",
+        "b": "El querellado no haya sido previamente detenido",
+        "c": "Los hechos en que se funde no constituyan delito o no se considere competente para instruir el sumario",
+        "d": "El querellante no aporte fianza en el mismo día de presentación"
+      },
+      "correct": "c",
+      "explicacion": "La querella será desestimada cuando los hechos en que se fundamente no sean constitutivos de delito, o cuando el Juez no se considere competente para instruir el sumario correspondiente, siendo dicho auto de desestimación recurrible en apelación con efectos suspensivos.",
+      "ley": "Artículo 313 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Las diligencias pedidas y denegadas durante la instrucción del sumario:",
+      "options": {
+        "a": "Podrán ser propuestas de nuevo en el juicio oral",
+        "b": "Quedan definitivamente excluidas del procedimiento",
+        "c": "Solo pueden reproducirse mediante un nuevo sumario",
+        "d": "Únicamente pueden recuperarse mediante recurso de casación"
+      },
+      "correct": "a",
+      "explicacion": "Las diligencias que hubieran sido solicitadas durante la instrucción y denegadas por el Juez no quedan definitivamente perdidas para la parte que las propuso, ya que la ley permite expresamente que sean propuestas de nuevo en el momento del juicio oral.",
+      "ley": "Artículo 314 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando el Juez de instrucción tuviere noticia de un delito grave, de difícil comprobación o que hubiese causado alarma, deberá:",
+      "options": {
+        "a": "Delegar siempre la instrucción en el Juez municipal",
+        "b": "Esperar el informe del Ministerio Fiscal antes de actuar",
+        "c": "Remitir el asunto directamente a la Audiencia Provincial sin instrucción previa",
+        "d": "Trasladarse inmediatamente al lugar del delito y formar el sumario, haciéndose cargo de las actuaciones del Juez municipal"
+      },
+      "correct": "d",
+      "explicacion": "Ante delitos de especial gravedad, de difícil comprobación por circunstancias especiales o que hayan causado alarma social, el Juez de instrucción debe trasladarse inmediatamente al lugar de los hechos y formar el sumario, haciéndose cargo de las actuaciones ya practicadas por el Juez municipal y permaneciendo en el lugar el tiempo necesario para evitar dilaciones perjudiciales.",
+      "ley": "Artículo 318 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los Jueces de instrucción formarán el sumario ante sus Letrados de la Administración de Justicia; en casos urgentes y extraordinarios, a falta de estos, podrán proceder con la intervención de:",
+      "options": {
+        "a": "Cualquier funcionario público de su elección",
+        "b": "Dos funcionarios de Policía Judicial designados al azar",
+        "c": "Un Abogado del Estado",
+        "d": "Un Notario o de dos hombres buenos mayores de edad que sepan leer y escribir"
+      },
+      "correct": "d",
+      "explicacion": "Como regla general, el sumario se forma ante el Letrado de la Administración de Justicia; sin embargo, en casos urgentes y extraordinarios en que este faltare, la ley permite que el Juez de instrucción proceda con la intervención de un Notario o de dos hombres buenos mayores de edad que sepan leer y escribir, quienes deberán jurar guardar fidelidad y secreto.",
+      "ley": "Artículo 321 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_03_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La investigación judicial se desarrollará, con carácter general, en un plazo máximo desde la incoación de la causa de:",
+      "options": {
+        "a": "Seis meses, sin posibilidad de prórroga",
+        "b": "Doce meses, pudiendo acordarse prórrogas sucesivas por períodos iguales o inferiores a seis meses",
+        "c": "Dieciocho meses, prorrogables únicamente una vez",
+        "d": "Veinticuatro meses, improrrogables"
+      },
+      "correct": "b",
+      "explicacion": "La investigación judicial debe desarrollarse en un plazo máximo de doce meses desde la incoación de la causa. Si antes de finalizar dicho plazo se constata que no podrá concluirse la investigación, el Juez, de oficio o a instancia de parte y oídas las partes, podrá acordar prórrogas sucesivas por períodos iguales o inferiores a seis meses mediante auto motivado.",
+      "ley": "Artículo 324.1 de la Ley de Enjuiciamiento Criminal"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 9",
+  "preguntas": [
+    {
+      "id": "tema_09_test_09_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El Juez o Tribunal que conociere de la causa podrá decretar la entrada y registro en edificios y lugares públicos:",
+      "options": {
+        "a": "De día o de noche, cuando hubiere indicios de encontrarse allí el procesado, efectos del delito o documentos para su descubrimiento",
+        "b": "Solo durante el horario diurno, nunca de noche",
+        "c": "Únicamente con autorización previa del Ministerio del Interior",
+        "d": "Solo si el delito está sancionado con pena de prisión superior a cinco años"
+      },
+      "correct": "a",
+      "explicacion": "El Juez o Tribunal competente puede decretar la entrada y registro, de día o de noche, en edificios y lugares públicos cuando existan indicios de que allí se encuentra el procesado, efectos o instrumentos del delito, o libros, papeles u otros objetos útiles para su descubrimiento y comprobación.",
+      "ley": "Artículo 546 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Señale cuál de los siguientes NO se reputa edificio o lugar público a efectos de entrada y registro:",
+      "options": {
+        "a": "Los establecimientos de reunión o recreo, lícitos o no",
+        "b": "Los buques del Estado",
+        "c": "Los destinados a cualquier servicio oficial, militar o civil del Estado",
+        "d": "El domicilio particular de cualquier ciudadano, conforme al artículo 554"
+      },
+      "correct": "d",
+      "explicacion": "Se reputan edificios o lugares públicos los destinados a servicio oficial del Estado, Provincia o Municipio, los de reunión o recreo lícitos o no, cualesquiera otros edificios cerrados que no constituyan domicilio particular, y los buques del Estado. El domicilio particular, definido en el artículo 554, queda sometido a un régimen de protección reforzada distinto, al exigir consentimiento o resolución judicial motivada.",
+      "ley": "Artículo 547 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La entrada y registro en el domicilio de un español o extranjero residente en España requiere, a falta de consentimiento:",
+      "options": {
+        "a": "Autorización del Defensor del Pueblo",
+        "b": "Auto motivado, que se notificará al interesado inmediatamente o, como máximo, dentro de las veinticuatro horas siguientes",
+        "c": "Acuerdo previo del Ayuntamiento del lugar donde se ubique el domicilio",
+        "d": "Simple comunicación verbal de la Policía Judicial, sin necesidad de resolución judicial"
+      },
+      "correct": "b",
+      "explicacion": "A falta de consentimiento del interesado, la entrada y registro en su domicilio exige auto judicial motivado, que deberá notificarse a la persona afectada inmediatamente o, como máximo, dentro de las veinticuatro horas siguientes a su dictado, en garantía del derecho fundamental a la inviolabilidad del domicilio.",
+      "ley": "Artículo 550 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Se entenderá que presta su consentimiento a la entrada y registro:",
+      "options": {
+        "a": "Quien, requerido para permitirla, ejecuta los actos necesarios para que pueda tener efecto sin invocar la inviolabilidad del domicilio",
+        "b": "Cualquier persona que se encuentre casualmente en el lugar",
+        "c": "Quien previamente haya sido denunciado por terceros",
+        "d": "Quien guarde silencio ante la solicitud de entrada"
+      },
+      "correct": "a",
+      "explicacion": "Se considera que presta su consentimiento aquel que, siendo requerido por quien haya de practicar la entrada y registro para que lo permita, realiza por su parte los actos necesarios para que dicha entrada pueda llevarse a efecto, sin invocar la inviolabilidad del domicilio reconocida constitucionalmente.",
+      "ley": "Artículo 551 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Al practicar los registros domiciliarios, la ley exige:",
+      "options": {
+        "a": "Documentar el registro únicamente mediante fotografías, sin acta escrita",
+        "b": "Registrar absolutamente todos los espacios del domicilio sin excepción, aunque sean irrelevantes",
+        "c": "Evitar inspecciones inútiles y adoptar precauciones para no comprometer la reputación del interesado, respetando sus secretos si no interesan a la instrucción",
+        "d": "Permitir el acceso libre de medios de comunicación durante la práctica del registro"
+      },
+      "correct": "c",
+      "explicacion": "Durante la práctica de los registros debe evitarse realizar inspecciones inútiles, procurando no perjudicar ni importunar al interesado más de lo necesario y adoptando precauciones para no comprometer su reputación, respetando sus secretos cuando no interesen a la instrucción de la causa.",
+      "ley": "Artículo 552 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los agentes de policía podrán proceder de propia autoridad a la detención inmediata, sin necesidad de orden judicial previa, entre otros casos:",
+      "options": {
+        "a": "Cuando exista una simple sospecha sin ningún indicio objetivo",
+        "b": "Cuando exista mandamiento de prisión contra la persona o sea sorprendida en flagrante delito",
+        "c": "Cuando lo solicite cualquier vecino del domicilio",
+        "d": "Cuando el presunto responsable tenga antecedentes penales, sin más circunstancias"
+      },
+      "correct": "b",
+      "explicacion": "Los agentes de policía pueden detener de propia autoridad cuando exista mandamiento de prisión contra la persona, cuando sea sorprendida en flagrante delito, cuando un delincuente perseguido se oculte en una casa, o en casos de urgente necesidad relacionados con bandas armadas o terrorismo, pudiendo además registrar el lugar y ocupar los efectos relacionados con el delito.",
+      "ley": "Artículo 553 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Tratándose de personas jurídicas imputadas, se reputa domicilio a efectos de entrada y registro:",
+      "options": {
+        "a": "Cualquier sucursal de la entidad, sin distinción de uso",
+        "b": "Únicamente la vivienda particular de su administrador",
+        "c": "Solo las oficinas situadas en la capital de provincia",
+        "d": "El espacio físico que constituya su centro de dirección, ya sea el domicilio social o un establecimiento dependiente, así como los lugares donde se custodien documentos reservados a terceros"
+      },
+      "correct": "d",
+      "explicacion": "Respecto de las personas jurídicas imputadas, se reputa domicilio el espacio físico que constituya su centro de dirección, ya se trate del domicilio social o de un establecimiento dependiente, así como aquellos otros lugares donde se custodien documentos u otros soportes de su vida diaria reservados al conocimiento de terceros.",
+      "ley": "Artículo 554 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El auto de entrada y registro en el domicilio de un particular deberá:",
+      "options": {
+        "a": "Requerir la firma de al menos tres jueces distintos",
+        "b": "Limitarse a una mención genérica sin más concreción",
+        "c": "Ser dictado oralmente, sin necesidad de constancia escrita",
+        "d": "Ser siempre fundado, expresando concretamente el edificio o lugar, si será de día y la Autoridad o funcionario que lo practique"
+      },
+      "correct": "d",
+      "explicacion": "El auto que autorice la entrada y registro en un domicilio particular debe estar siempre fundado, expresando concretamente el edificio o lugar cerrado donde haya de practicarse, si tendrá lugar solo de día, y la Autoridad o funcionario encargado de su ejecución.",
+      "ley": "Artículo 558 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando el edificio o lugar cerrado a registrar se encuentre fuera del territorio del Juez instructor, este:",
+      "options": {
+        "a": "Encomendará la práctica de las operaciones al Juez de su misma categoría del territorio donde radique el edificio",
+        "b": "Perderá automáticamente la competencia sobre toda la causa",
+        "c": "Deberá personarse físicamente en dicho territorio en todo caso",
+        "d": "Solo podrá actuar mediante exhorto internacional"
+      },
+      "correct": "a",
+      "explicacion": "Si el edificio o lugar cerrado a registrar se encuentra fuera del territorio del Juez instructor, este encomendará la práctica de las operaciones al Juez de su misma categoría correspondiente al territorio donde radique dicho lugar, quien a su vez podrá delegarlas en autoridades o agentes de Policía Judicial.",
+      "ley": "Artículo 563 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Antes de practicar la entrada y registro en el domicilio de un particular, se notificará el auto:",
+      "options": {
+        "a": "Exclusivamente al Ministerio Fiscal, nunca al interesado",
+        "b": "Al propio interesado, y si no fuere habido, a su encargado o a cualquier persona mayor de edad presente, prefiriendo a familiares",
+        "c": "Únicamente a la Policía Judicial encargada de ejecutarlo",
+        "d": "A cualquier viandante que se encuentre en la vía pública próxima"
+      },
+      "correct": "b",
+      "explicacion": "El auto de entrada y registro en domicilio particular se notifica al propio interesado; si no fuere hallado, se notificará a su encargado, y en su defecto, a cualquier otra persona mayor de edad presente en el domicilio, prefiriendo a los familiares del interesado, dejando constancia mediante diligencia con asistencia de dos vecinos si no se hallara a nadie.",
+      "ley": "Artículo 566 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Una vez practicadas las diligencias preceptivas, la entrada y registro se llevará a cabo:",
+      "options": {
+        "a": "Solo en presencia de un notario público",
+        "b": "Únicamente con el consentimiento expreso y reiterado del titular",
+        "c": "Sin posibilidad de emplear ningún medio coactivo en ningún caso",
+        "d": "Empleando, si fuere necesario, el auxilio de la fuerza"
+      },
+      "correct": "d",
+      "explicacion": "Una vez practicadas las diligencias previas establecidas legalmente, se procederá a la entrada y registro, pudiendo emplearse, si resultara necesario, el auxilio de la fuerza para hacer efectiva dicha diligencia.",
+      "ley": "Artículo 568 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El registro domiciliario se practicará siempre en presencia de:",
+      "options": {
+        "a": "El alcalde del municipio donde se practique el registro",
+        "b": "Dos representantes de organizaciones de defensa de los derechos humanos",
+        "c": "Un mínimo de cinco testigos vecinos del lugar, en cualquier caso",
+        "d": "El interesado o quien legítimamente le represente, y del Letrado de la Administración de Justicia que lo autorice"
+      },
+      "correct": "d",
+      "explicacion": "El registro debe practicarse a presencia del interesado o de quien legítimamente le represente, o en su defecto de un familiar mayor de edad o de dos testigos vecinos, debiendo estar siempre presente el Letrado de la Administración de Justicia del órgano que lo hubiera autorizado, quien levantará acta del resultado.",
+      "ley": "Artículo 569 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Si el registro de un domicilio particular no hubiera terminado al expirar el día y el interesado se opusiera a su continuación nocturna:",
+      "options": {
+        "a": "Se suspenderá la diligencia, cerrando y sellando el local o muebles para evitar fuga o sustracción de objetos, salvo los supuestos de urgencia previstos legalmente",
+        "b": "Se continuará igualmente por la fuerza, sin excepción",
+        "c": "Se trasladará al interesado a dependencias policiales hasta el día siguiente",
+        "d": "Se dará por concluido el registro sin posibilidad de reanudarlo"
+      },
+      "correct": "a",
+      "explicacion": "Si al expirar el día no hubiera concluido el registro y el interesado se opone a su continuación nocturna, la diligencia se suspenderá, salvo los supuestos de urgencia previstos en los artículos 546 y 550, cerrando y sellando el local o los muebles para evitar la fuga de la persona o la sustracción de los objetos buscados.",
+      "ley": "Artículo 570 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La diligencia de entrada y registro en lugar cerrado deberá expresar, entre otros extremos:",
+      "options": {
+        "a": "Solo la firma del interesado, sin más contenido",
+        "b": "Exclusivamente el inventario de bienes hallados, sin referencia a personas",
+        "c": "Los nombres del Juez o su delegado y demás intervinientes, los incidentes ocurridos, la hora de inicio y conclusión, y la relación del registro",
+        "d": "Únicamente el resultado final, sin más detalle"
+      },
+      "correct": "c",
+      "explicacion": "En la diligencia de entrada y registro deben expresarse los nombres del Juez o de su delegado que la practique y de las demás personas intervinientes, los incidentes ocurridos, la hora de inicio y conclusión de la diligencia, y la relación del registro por el orden en que se haya realizado, junto con los resultados obtenidos.",
+      "ley": "Artículo 572 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El registro de los libros y papeles de contabilidad del procesado o de otra persona solo se ordenará cuando:",
+      "options": {
+        "a": "El procesado preste su consentimiento expreso de forma previa",
+        "b": "Lo solicite cualquier persona interesada en la causa, sin más requisitos",
+        "c": "Hubiere indicios graves de que de esta diligencia resultará el descubrimiento o comprobación de algún hecho importante de la causa",
+        "d": "Hayan transcurrido más de seis meses desde la apertura del sumario"
+      },
+      "correct": "c",
+      "explicacion": "El registro de los libros y papeles de contabilidad del procesado o de cualquier otra persona solo procede cuando existan indicios graves de que dicha diligencia permitirá descubrir o comprobar algún hecho o circunstancia relevante para la causa.",
+      "ley": "Artículo 573 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los libros y papeles que se recojan en un registro deberán ser:",
+      "options": {
+        "a": "Devueltos sin más al titular sin examen previo",
+        "b": "Foliados, sellados y rubricados en todas sus hojas por el Letrado de la Administración de Justicia, bajo su responsabilidad",
+        "c": "Destruidos inmediatamente tras su examen pericial",
+        "d": "Entregados directamente a la prensa para su publicación"
+      },
+      "correct": "b",
+      "explicacion": "Los libros y papeles recogidos durante un registro deben ser foliados, sellados y rubricados en todas sus hojas por el Letrado de la Administración de Justicia, quien actúa bajo su propia responsabilidad para garantizar la integridad de dicha documentación.",
+      "ley": "Artículo 574 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Quien se niegue a exhibir objetos o papeles que se sospeche relacionados con la causa:",
+      "options": {
+        "a": "Será corregido con multa, y si insiste, podrá ser procesado como autor de desobediencia a la Autoridad si el objeto fuere importante",
+        "b": "No incurre en ninguna responsabilidad si alega motivos personales",
+        "c": "Queda automáticamente exento de toda obligación tras la primera negativa",
+        "d": "Solo puede ser sancionado si el objeto pertenece al Estado"
+      },
+      "correct": "a",
+      "explicacion": "Todos están obligados a exhibir los objetos y papeles que se sospeche relacionados con la causa; quien se niegue será corregido con multa, y si insiste en su negativa respecto de objetos de importancia, podrá ser procesado como autor del delito de desobediencia a la Autoridad, salvo que su conducta merezca la calificación de encubrimiento o receptación.",
+      "ley": "Artículo 575 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Si el libro objeto de registro fuere el protocolo de un Notario, se procederá:",
+      "options": {
+        "a": "Solicitando autorización previa del Colegio de Abogados",
+        "b": "Con arreglo a lo dispuesto en la Ley del Notariado",
+        "c": "Mediante incautación inmediata sin ninguna garantía adicional",
+        "d": "Aplicando exclusivamente las normas generales de registro de papeles, sin especialidad alguna"
+      },
+      "correct": "b",
+      "explicacion": "Cuando el libro objeto de registro sea el protocolo de un Notario, debe procederse con arreglo a lo dispuesto específicamente en la Ley del Notariado, estableciéndose reglas análogas para los libros del Registro de la Propiedad conforme a la Ley Hipotecaria y para los del Registro Civil o Mercantil según su normativa propia.",
+      "ley": "Artículo 578 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Para la entrada y registro en edificios destinados a la habitación u oficina de representantes de naciones extranjeras acreditados ante España, el Juez:",
+      "options": {
+        "a": "Deberá esperar un plazo mínimo de un mes antes de actuar",
+        "b": "Necesitará autorización del Tribunal Internacional de La Haya",
+        "c": "Pedirá su venia por medio de atento oficio, rogándoles que contesten en el término de doce horas",
+        "d": "Podrá entrar directamente sin ningún trámite previo"
+      },
+      "correct": "c",
+      "explicacion": "Para entrar y registrar los edificios destinados a la habitación u oficina de los representantes de naciones extranjeras acreditados ante el Gobierno de España, el Juez debe solicitar su venia mediante atento oficio, rogándoles que respondan en el plazo de doce horas; si no contestan o la deniegan, se comunicará al Ministerio competente, absteniéndose de entrar mientras tanto.",
+      "ley": "Artículo 559 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_09_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Desde el momento en que el Juez acuerde la entrada y registro en un edificio o lugar cerrado, deberá:",
+      "options": {
+        "a": "Esperar un mínimo de cuarenta y ocho horas antes de practicar la diligencia",
+        "b": "Notificar la decisión públicamente a través de medios de comunicación",
+        "c": "Adoptar las medidas de vigilancia convenientes para evitar la fuga del procesado o la sustracción de los objetos a registrar",
+        "d": "Solicitar la presencia de un representante de cada partido político"
+      },
+      "correct": "c",
+      "explicacion": "Desde que el Juez acuerda la entrada y registro en cualquier edificio o lugar cerrado, debe adoptar las medidas de vigilancia convenientes para evitar la fuga del procesado o la sustracción de los instrumentos, efectos del delito, libros, papeles o cualesquiera otras cosas objeto del registro.",
+      "ley": "Artículo 567 de la Ley de Enjuiciamiento Criminal"
+    }
+  ]
+}

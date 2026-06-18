@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 15",
+  "preguntas": [
+    {
+      "id": "tema_09_test_15_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las funciones generales de policía judicial corresponden, conforme al artículo 1 del Real Decreto 769/1987:",
+      "options": {
+        "a": "Únicamente a las unidades especializadas adscritas a los Juzgados Centrales",
+        "b": "Solo a quienes posean la condición de licenciados en Derecho",
+        "c": "Exclusivamente a los funcionarios del Cuerpo Nacional de Policía",
+        "d": "A todos los miembros de las Fuerzas y Cuerpos de Seguridad, cualquiera que sea su naturaleza y dependencia, dentro del ámbito de sus competencias"
+      },
+      "correct": "d",
+      "explicacion": "Las funciones generales de policía judicial corresponden a todos los miembros de las Fuerzas y Cuerpos de Seguridad, cualquiera que sea su naturaleza y dependencia, en la medida en que deben prestar la colaboración requerida por la Autoridad Judicial o el Ministerio Fiscal, con sujeción al ámbito de sus respectivas competencias.",
+      "ley": "Artículo 1 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los miembros de las Fuerzas y Cuerpos de Seguridad desarrollarán sus cometidos de policía judicial:",
+      "options": {
+        "a": "A requerimiento de la Autoridad Judicial, del Ministerio Fiscal o de sus superiores policiales, o por propia iniciativa a través de estos últimos",
+        "b": "Solo si existe denuncia formal previa de un particular",
+        "c": "Exclusivamente en horario diurno, conforme a la normativa específica",
+        "d": "Únicamente cuando lo solicite expresamente la víctima del delito"
+      },
+      "correct": "a",
+      "explicacion": "Los miembros de las Fuerzas y Cuerpos de Seguridad, en sus funciones de policía judicial, desarrollarán sus cometidos a requerimiento de la Autoridad Judicial, del Ministerio Fiscal o de sus superiores policiales, o por propia iniciativa a través de estos últimos.",
+      "ley": "Artículo 2 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Todos los componentes de las Fuerzas y Cuerpos de Seguridad, por su propia iniciativa, deberán practicar al tener noticia de un hecho presuntamente delictivo:",
+      "options": {
+        "a": "Exclusivamente la identificación de los testigos presenciales",
+        "b": "La detención preventiva de cualquier persona presente en el lugar",
+        "c": "Solo la elaboración de un informe estadístico mensual",
+        "d": "Las primeras diligencias de prevención y aseguramiento, así como la ocupación y custodia de los objetos relacionados con el delito"
+      },
+      "correct": "d",
+      "explicacion": "Todos los componentes de las Fuerzas y Cuerpos de Seguridad, cualesquiera que sean su naturaleza y dependencia, deben practicar por propia iniciativa, según sus respectivas atribuciones, las primeras diligencias de prevención y aseguramiento en cuanto tengan noticia de un hecho presuntamente delictivo, así como la ocupación y custodia de los objetos relacionados con su ejecución, dando cuenta de ello a la Autoridad Judicial o Fiscal.",
+      "ley": "Artículo 4 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El funcionario policial que haya iniciado una investigación deberá cesar en ella cuando:",
+      "options": {
+        "a": "Lo solicite la persona investigada por escrito",
+        "b": "Comparezca la Autoridad Judicial o el Fiscal encargado de las actuaciones para hacerse cargo de ella",
+        "c": "Lo decida unilateralmente cualquier superior jerárquico de su unidad",
+        "d": "Transcurran veinticuatro horas desde su inicio, sin excepción"
+      },
+      "correct": "b",
+      "explicacion": "El funcionario policial que haya iniciado la investigación, sea cual sea su procedencia, deberá cesar en ella al comparecer la Autoridad Judicial o el Fiscal encargado de las actuaciones para hacerse cargo de la misma, debiendo hacerle entrega de las diligencias practicadas, los efectos intervenidos y las personas cuya detención se hubiese acordado.",
+      "ley": "Artículo 5 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Constituyen la Policía Judicial en sentido estricto las Unidades Orgánicas integradas por miembros de:",
+      "options": {
+        "a": "Exclusivamente las Policías Locales de cada municipio",
+        "b": "El Cuerpo Nacional de Policía y de la Guardia Civil",
+        "c": "Las Fuerzas Armadas, sin distinción de cuerpo",
+        "d": "El personal civil de la Administración de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "Constituyen la Policía Judicial en sentido estricto las Unidades Orgánicas previstas en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, integradas por miembros del Cuerpo Nacional de Policía y de la Guardia Civil.",
+      "ley": "Artículo 7 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las Unidades Orgánicas de la Policía Judicial se estructurarán con arreglo a criterios de distribución territorial sobre una base:",
+      "options": {
+        "a": "Continental, dependiendo de organismos de la Unión Europea",
+        "b": "Provincial, pudiendo constituirse también secciones en poblaciones con elevado índice de criminalidad",
+        "c": "Estrictamente autonómica, coincidiendo siempre con los límites de cada Comunidad Autónoma",
+        "d": "Exclusivamente municipal, sin posibilidad de ámbito superior"
+      },
+      "correct": "b",
+      "explicacion": "Las Unidades Orgánicas de la Policía Judicial se estructuran con arreglo a criterios de distribución territorial sobre una base provincial, pudiendo constituirse secciones en aquellas poblaciones cuyo índice de criminalidad lo aconseje, así como unidades con ámbito superior al provincial por razones de especialización delictual.",
+      "ley": "Artículo 9 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. En la ejecución de sus cometidos de averiguación del delito, las Unidades Orgánicas de la Policía Judicial dependen funcionalmente de:",
+      "options": {
+        "a": "Exclusivamente del Ministerio del Interior, sin intervención judicial",
+        "b": "Las asociaciones de víctimas reconocidas oficialmente",
+        "c": "Los Jueces, Tribunales o miembros del Ministerio Fiscal que estén conociendo del asunto objeto de su investigación",
+        "d": "Los Ayuntamientos de la localidad donde actúen"
+      },
+      "correct": "c",
+      "explicacion": "En la ejecución de sus cometidos de averiguación del delito y descubrimiento y aseguramiento del delincuente, las Unidades Orgánicas de la Policía Judicial y sus funcionarios dependen funcionalmente de los Jueces, Tribunales o miembros del Ministerio Fiscal que estén conociendo del asunto objeto de su investigación.",
+      "ley": "Artículo 10 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los funcionarios policiales comisionados para una investigación concreta se atendrán en su desarrollo a:",
+      "options": {
+        "a": "Las indicaciones de los medios de comunicación que cubran el caso",
+        "b": "Su propio criterio profesional, sin sujeción a directriz alguna",
+        "c": "Las órdenes y directrices recibidas de la Autoridad Judicial o Fiscal, sin que las instrucciones técnicas de sus superiores policiales puedan contradecirlas",
+        "d": "Las instrucciones de sus superiores policiales con preferencia sobre cualquier otra autoridad"
+      },
+      "correct": "c",
+      "explicacion": "Los funcionarios policiales comisionados por la Autoridad Judicial o Fiscal para la práctica de una investigación concreta deben atenerse a las órdenes y directrices recibidas de estas, sin que las instrucciones de carácter técnico de sus superiores policiales inmediatos puedan contradecir dichas órdenes.",
+      "ley": "Artículo 11 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los funcionarios integrantes de las Unidades Orgánicas de la Policía Judicial deberán guardar:",
+      "options": {
+        "a": "Total transparencia pública sobre cada investigación en curso",
+        "b": "Reserva únicamente frente a los medios de comunicación, no frente a otros funcionarios",
+        "c": "Confidencialidad solo durante los primeros tres días de la investigación",
+        "d": "Rigurosa reserva sobre la evolución y resultado de las investigaciones encomendadas"
+      },
+      "correct": "d",
+      "explicacion": "Los funcionarios integrantes de las Unidades Orgánicas de la Policía Judicial deben guardar rigurosa reserva sobre la evolución y resultado de las concretas investigaciones que les hayan sido encomendadas, así como de las informaciones obtenidas a través de ellas, pudiendo la infracción de este deber ser corregida disciplinariamente.",
+      "ley": "Artículo 15 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El deber de reserva de los funcionarios de la Policía Judicial sobre sus investigaciones:",
+      "options": {
+        "a": "No impedirá, salvo prohibición expresa del Juez o Fiscal competente, el intercambio interno de información dentro de la Unidad Orgánica",
+        "b": "Impide en todo caso cualquier comunicación entre compañeros de la misma unidad",
+        "c": "Solo es exigible a los funcionarios con más de diez años de antigüedad",
+        "d": "Se extingue automáticamente transcurridas veinticuatro horas"
+      },
+      "correct": "a",
+      "explicacion": "El deber de reserva sobre las investigaciones no impide, salvo que medie prohibición expresa del Juez o Fiscal competente, el intercambio interno de información dentro de la propia Unidad Orgánica, con el fin de favorecer la mejor coordinación y eficacia de los servicios.",
+      "ley": "Artículo 15 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los funcionarios de las Unidades Orgánicas de la Policía Judicial a quienes esté encomendada una investigación concreta:",
+      "options": {
+        "a": "Pueden ser sustituidos libremente por sus mandos policiales sin necesidad de notificación alguna",
+        "b": "Cesarán automáticamente al cumplir un año en el cargo",
+        "c": "No podrán ser removidos o apartados de ella hasta que finalice la misma o la fase procesal que la originó, salvo decisión o autorización del Juez o Fiscal competente",
+        "d": "Solo pueden ser sustituidos si lo solicita la persona investigada"
+      },
+      "correct": "c",
+      "explicacion": "Los funcionarios de las Unidades Orgánicas de la Policía Judicial a quienes se hubiera encomendado una investigación concreta no podrán ser removidos o apartados de ella hasta que finalice la misma o la fase del procedimiento que la originó, si no es por decisión o con la autorización del Juez o Fiscal competente.",
+      "ley": "Artículo 16 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El Juez, Tribunal o Fiscal del que dependan los funcionarios de la Policía Judicial podrá instar el ejercicio de la potestad disciplinaria cuando:",
+      "options": {
+        "a": "Lo decida un órgano internacional de derechos humanos",
+        "b": "Simplemente lo desee, sin necesidad de motivación alguna",
+        "c": "Fundadamente entienda que la conducta del funcionario ha sido merecedora de sanción, pudiendo practicar informaciones reservadas pertinentes",
+        "d": "El funcionario solicite voluntariamente ser sancionado"
+      },
+      "correct": "c",
+      "explicacion": "El Juez o Tribunal del que dependan los funcionarios de las Unidades Orgánicas, o el Fiscal competente, podrá instar el ejercicio de la potestad disciplinaria respecto de aquellos cuando fundadamente entienda que su conducta ha sido merecedora de sanción, pudiendo a tal efecto practicar las informaciones reservadas que considere pertinentes.",
+      "ley": "Artículo 17 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. A las Unidades Orgánicas de la Policía Judicial corresponderá la función de investigación criminal con carácter:",
+      "options": {
+        "a": "Limitado a los delitos de tráfico",
+        "b": "Esporádico y subsidiario",
+        "c": "Exclusivamente estacional, según la época del año",
+        "d": "Permanente y especial"
+      },
+      "correct": "d",
+      "explicacion": "A las Unidades Orgánicas de la Policía Judicial corresponde la función de investigación criminal con carácter permanente y especial, debiendo contar con los efectivos y medios necesarios para el eficaz desenvolvimiento de sus cometidos.",
+      "ley": "Artículo 18 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando los funcionarios de la Policía Judicial realicen diligencias de investigación criminal concretadas a un hecho presuntamente delictivo, con carácter previo a la apertura de actuación judicial, actuarán bajo la dependencia de:",
+      "options": {
+        "a": "El Ministerio Fiscal, dando cuenta de sus investigaciones a la Fiscalía correspondiente",
+        "b": "Los medios de comunicación que difundan el caso",
+        "c": "El Ayuntamiento del lugar de los hechos",
+        "d": "Cualquier autoridad administrativa que lo solicite"
+      },
+      "correct": "a",
+      "explicacion": "Cuando los funcionarios de las Unidades Orgánicas de la Policía Judicial realicen diligencias de investigación criminal concretadas a un supuesto presuntamente delictivo, con carácter previo a la apertura de la actuación judicial correspondiente, actuarán bajo la dependencia del Ministerio Fiscal, debiendo dar cuenta de sus investigaciones a la Fiscalía correspondiente.",
+      "ley": "Artículo 20 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Una vez iniciado el procedimiento penal, el Juez o Tribunal competente se entenderá directamente, sin necesidad de acudir a instancias administrativas superiores, con:",
+      "options": {
+        "a": "El Delegado del Gobierno de la Comunidad Autónoma correspondiente",
+        "b": "El Ministro del Interior, en todo caso",
+        "c": "El Jefe de la Unidad correspondiente, sea del Cuerpo Nacional de Policía o de la Guardia Civil, para encomendarle la práctica de investigaciones",
+        "d": "El Presidente de la Comunidad Autónoma"
+      },
+      "correct": "c",
+      "explicacion": "Una vez iniciado el procedimiento penal, el Juez o Tribunal competente, y el Fiscal encargado de las actuaciones en los casos previos a dicho procedimiento, se entenderán directamente, sin necesidad de acudir a instancias administrativas superiores, con el Jefe de la Unidad correspondiente, sea del Cuerpo Nacional de Policía o de la Guardia Civil, para encomendarle la práctica de cualquier investigación.",
+      "ley": "Artículo 21 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Para actuaciones o pesquisas de especial trascendencia que requieran la adscripción permanente de funcionarios de grupos policiales especializados no integrados en la Unidad Orgánica correspondiente, el encargo habrá de cursarse por conducto de:",
+      "options": {
+        "a": "El Defensor del Pueblo, exclusivamente",
+        "b": "El Presidente del Tribunal Supremo, el Fiscal General del Estado, o los Presidentes o Fiscales de la Audiencia Nacional o del Tribunal Superior de Justicia",
+        "c": "Cualquier Juez de Paz del municipio afectado",
+        "d": "El Alcalde de la localidad donde se realice la investigación"
+      },
+      "correct": "b",
+      "explicacion": "Excepcionalmente, para actuaciones o pesquisas que por su trascendencia o complejidad requieran la adscripción permanente de funcionarios o medios de grupos policiales especializados no integrados en la Unidad Orgánica correspondiente, el encargo debe cursarse por conducto del Presidente del Tribunal Supremo o del Fiscal General del Estado, o de los Presidentes o Fiscales de la Audiencia Nacional o del Tribunal Superior de Justicia respectivo.",
+      "ley": "Artículo 22 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las diligencias y actuaciones llevadas a cabo por las Unidades Orgánicas de la Policía Judicial:",
+      "options": {
+        "a": "Tendrán el valor reconocido en las Leyes y gozarán de la especial consideración derivada de su carácter de comisionados de Jueces, Tribunales y Fiscales",
+        "b": "Carecen de valor probatorio si no son ratificadas notarialmente",
+        "c": "Pierden su validez transcurridas cuarenta y ocho horas desde su práctica",
+        "d": "Solo tienen valor si son firmadas por un Letrado de la Administración de Justicia presente en el lugar de los hechos"
+      },
+      "correct": "a",
+      "explicacion": "Las diligencias y actuaciones llevadas a cabo por las Unidades Orgánicas de la Policía Judicial tienen el valor reconocido en las Leyes y gozan de la especial consideración derivada de su adscripción y del carácter de comisionados de Jueces, Tribunales y Fiscales que ostentan sus miembros.",
+      "ley": "Artículo 14 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. En defecto de Unidades de Policía Judicial, y con carácter transitorio o en supuestos de urgencia, los Jueces, Tribunales y miembros del Ministerio Fiscal podrán:",
+      "options": {
+        "a": "Delegar sus funciones jurisdiccionales en la autoridad gubernativa",
+        "b": "Renunciar a la investigación del hecho delictivo",
+        "c": "Suspender indefinidamente cualquier procedimiento penal en curso",
+        "d": "Encomendar a los miembros de las Fuerzas y Cuerpos de Seguridad la práctica de concretas diligencias de investigación"
+      },
+      "correct": "d",
+      "explicacion": "En defecto de Unidades de Policía Judicial, y con carácter transitorio o en supuestos de urgencia, los Jueces, Tribunales y miembros del Ministerio Fiscal pueden, siempre con sujeción a su respectivo ámbito legal y territorial de atribuciones, encomendar a los miembros de las Fuerzas y Cuerpos de Seguridad la práctica de concretas diligencias de investigación.",
+      "ley": "Artículo 3 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La Policía Judicial, bajo la dependencia funcional directa de los Jueces, Tribunales y del Ministerio Fiscal, desarrollará funciones de:",
+      "options": {
+        "a": "Averiguación del delito y descubrimiento y aseguramiento del delincuente",
+        "b": "Gestión administrativa de los registros civiles municipales",
+        "c": "Mediación en conflictos vecinales sin trascendencia penal",
+        "d": "Elaboración de las estadísticas oficiales de criminalidad para uso exclusivo del Gobierno"
+      },
+      "correct": "a",
+      "explicacion": "La Policía Judicial, con la composición y estructuración que determina el Real Decreto, desarrolla, bajo la dependencia funcional directa de los Jueces y Tribunales y del Ministerio Fiscal, funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente.",
+      "ley": "Artículo 6 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    },
+    {
+      "id": "tema_09_test_15_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los funcionarios policiales informarán de la evolución de sus investigaciones y rendirán cuenta del resultado final de su actuación:",
+      "options": {
+        "a": "Únicamente a sus mandos policiales, sin informar a la autoridad judicial",
+        "b": "A la Autoridad Judicial o del Ministerio Fiscal que hubiere ordenado la investigación, en los términos que esta haya dispuesto",
+        "c": "A la víctima del delito directamente, sin intervención judicial",
+        "d": "A los medios de comunicación, con carácter prioritario"
+      },
+      "correct": "b",
+      "explicacion": "Los funcionarios policiales deben informar de la evolución de sus investigaciones y rendir cumplida cuenta del resultado final de su actuación a la Autoridad Judicial o del Ministerio Fiscal que hubiera ordenado dicha investigación, en los términos y forma que esta haya dispuesto.",
+      "ley": "Artículo 12 del Real Decreto 769/1987, sobre regulación de la Policía Judicial"
+    }
+  ]
+}
