@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_09_test_16_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El ámbito de aplicación del Estatuto de la víctima del delito alcanza a las víctimas de delitos cometidos en España o que puedan perseguirse en España:",
+      "options": {
+        "a": "Con independencia de su nacionalidad, de si son mayores o menores de edad o de si disfrutan o no de residencia legal",
+        "b": "Únicamente si poseen nacionalidad española",
+        "c": "Solo si residen legalmente en territorio de la Unión Europea",
+        "d": "Exclusivamente si han denunciado el hecho ante la Policía Nacional"
+      },
+      "correct": "a",
+      "explicacion": "Las disposiciones del Estatuto de la víctima del delito son aplicables a las víctimas de delitos cometidos en España o que puedan ser perseguidos en España, con independencia de su nacionalidad, de si son mayores o menores de edad, o de si disfrutan o no de residencia legal.",
+      "ley": "Artículo 1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Se considera víctima directa, conforme al artículo 2 de la Ley del Estatuto de la víctima del delito:",
+      "options": {
+        "a": "Solo quienes hayan presentado denuncia formal ante un Juzgado",
+        "b": "Exclusivamente los testigos presenciales del hecho delictivo",
+        "c": "Únicamente las personas jurídicas perjudicadas económicamente",
+        "d": "Toda persona física que haya sufrido un daño o perjuicio sobre su propia persona o patrimonio causado directamente por la comisión de un delito"
+      },
+      "correct": "d",
+      "explicacion": "Se considera víctima directa a toda persona física que haya sufrido un daño o perjuicio sobre su propia persona o patrimonio, en especial lesiones físicas o psíquicas, daños emocionales o perjuicios económicos directamente causados por la comisión de un delito.",
+      "ley": "Artículo 2.a) de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. En caso de muerte o desaparición de una persona causada directamente por un delito, tendrán la consideración de víctima indirecta, entre otros:",
+      "options": {
+        "a": "Cualquier ciudadano que conociera a la víctima, sin más requisitos",
+        "b": "Los compañeros de trabajo de la víctima, sin distinción de relación personal",
+        "c": "Las entidades aseguradoras que hubieran cubierto el riesgo",
+        "d": "El cónyuge no separado legalmente o de hecho y los hijos de la víctima que convivieran con ella"
+      },
+      "correct": "d",
+      "explicacion": "Se considera víctima indirecta, en caso de muerte o desaparición causada por un delito, al cónyuge no separado legalmente o de hecho, a los hijos de la víctima o del cónyuge que convivieran con ella, a la persona unida por análoga relación de afectividad, y a otros parientes y personas bajo su guarda, tutela o acogimiento.",
+      "ley": "Artículo 2.b).1º de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 2 de la Ley del Estatuto de la víctima del delito, las disposiciones de esta ley:",
+      "options": {
+        "a": "Solo se aplican si el delito ha sido objeto de sentencia condenatoria firme",
+        "b": "Se extienden automáticamente a cualquier empresa relacionada con la víctima",
+        "c": "Se aplicarán a cualquier persona que alegue haber sufrido un perjuicio, sin distinción",
+        "d": "No serán aplicables a terceros que hubieran sufrido perjuicios derivados del delito"
+      },
+      "correct": "d",
+      "explicacion": "La ley excluye expresamente de su ámbito de aplicación a los terceros que hubieran sufrido perjuicios derivados del delito, limitando así la condición de víctima a quienes se ajusten a las categorías de víctima directa o indirecta legalmente definidas.",
+      "ley": "Artículo 2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Toda víctima tiene derecho a la protección, información, apoyo, asistencia, atención y reparación, así como a la participación activa en el proceso penal, estando en todo caso vedada:",
+      "options": {
+        "a": "La posibilidad de personarse como parte en el proceso",
+        "b": "La mediación y la conciliación en supuestos de violencia sexual y de violencia de género",
+        "c": "La asistencia jurídica gratuita en cualquier supuesto",
+        "d": "La comunicación con las Oficinas de Asistencia a las Víctimas"
+      },
+      "correct": "b",
+      "explicacion": "Entre los derechos generales reconocidos a toda víctima, la ley establece expresamente que en todo caso estará vedada la mediación y la conciliación en los supuestos de violencia sexual y de violencia de género, dada la especial vulnerabilidad de estas víctimas.",
+      "ley": "Artículo 3.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El derecho a entender y ser entendida implica que todas las comunicaciones con las víctimas, orales o escritas:",
+      "options": {
+        "a": "Se harán en un lenguaje claro, sencillo y accesible, teniendo en cuenta sus características personales",
+        "b": "Se realizarán exclusivamente por escrito, sin posibilidad de comunicación oral",
+        "c": "Se limitarán a un resumen de cinco líneas, sin más detalle",
+        "d": "Solo se facilitarán cuando la víctima posea formación jurídica previa"
+      },
+      "correct": "a",
+      "explicacion": "El derecho a entender y ser entendida exige que todas las comunicaciones con las víctimas, orales o escritas, se realicen en un lenguaje claro, sencillo y accesible, atendiendo a sus características personales y, especialmente, a las necesidades derivadas de discapacidad sensorial, intelectual o mental, o de su minoría de edad.",
+      "ley": "Artículo 4 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Desde el primer contacto con las autoridades y funcionarios, la víctima:",
+      "options": {
+        "a": "Deberá comparecer siempre sola, sin acompañamiento alguno",
+        "b": "Necesitará autorización judicial previa para ser acompañada",
+        "c": "Podrá estar acompañada de una persona de su elección",
+        "d": "Solo podrá ser acompañada por un Abogado colegiado"
+      },
+      "correct": "c",
+      "explicacion": "Como manifestación del derecho a entender y ser entendida, la víctima podrá estar acompañada de una persona de su elección desde el primer contacto con las autoridades y funcionarios, lo que contribuye a su mayor bienestar y seguridad emocional durante el proceso.",
+      "ley": "Artículo 4.c) de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Toda víctima tiene derecho, desde el primer contacto con las autoridades, incluso antes de presentar denuncia, a recibir información sobre, entre otros extremos:",
+      "options": {
+        "a": "El listado completo de Abogados colegiados en la provincia",
+        "b": "Las medidas de asistencia y apoyo disponibles y el procedimiento para obtenerlas",
+        "c": "Exclusivamente los datos personales del presunto autor del delito",
+        "d": "Únicamente el horario de atención al público del Juzgado"
+      },
+      "correct": "b",
+      "explicacion": "Toda víctima tiene derecho, desde el primer contacto con las autoridades y funcionarios, incluso antes de presentar la denuncia, a recibir información inmediata y adaptada a sus circunstancias sobre las medidas de asistencia y apoyo disponibles, el procedimiento para denunciar, el asesoramiento jurídico, las medidas de protección y otros extremos relevantes.",
+      "ley": "Artículo 5.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Toda víctima tiene, en el momento de presentar su denuncia, el derecho a:",
+      "options": {
+        "a": "Recibir una indemnización inmediata con cargo a fondos públicos",
+        "b": "Obtener directamente el número de teléfono particular del Juez instructor",
+        "c": "Obtener una copia de la denuncia, debidamente certificada",
+        "d": "Exigir la detención inmediata del presunto responsable"
+      },
+      "correct": "c",
+      "explicacion": "Toda víctima tiene, en el momento de presentar su denuncia, el derecho a obtener una copia de la misma, debidamente certificada, así como a la asistencia lingüística gratuita y a la traducción escrita de dicha copia cuando no entienda o no hable ninguna de las lenguas oficiales del lugar donde se presenta.",
+      "ley": "Artículo 6.a) de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Entre las resoluciones que deben notificarse a la víctima conforme al artículo 7 de la Ley del Estatuto de la víctima se encuentran:",
+      "options": {
+        "a": "La resolución por la que se acuerde no iniciar el procedimiento penal y la sentencia que ponga fin al procedimiento",
+        "b": "Exclusivamente las resoluciones sobre costas procesales",
+        "c": "Únicamente las resoluciones de archivo provisional",
+        "d": "Solo las sentencias absolutorias, nunca las condenatorias"
+      },
+      "correct": "a",
+      "explicacion": "Entre las resoluciones que deben notificarse a la víctima se encuentran la resolución que acuerde no iniciar el procedimiento penal, la sentencia que ponga fin al procedimiento, las resoluciones sobre prisión o puesta en libertad del infractor, y aquellas que adopten o modifiquen medidas cautelares destinadas a garantizar su seguridad.",
+      "ley": "Artículo 7.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las víctimas podrán, en cualquier momento del procedimiento:",
+      "options": {
+        "a": "Renunciar definitivamente e irrevocablemente a su condición de víctima",
+        "b": "Exigir que se anule cualquier resolución judicial que les sea desfavorable",
+        "c": "Manifestar su deseo de no ser informadas de las resoluciones, quedando sin efecto la solicitud de información realizada",
+        "d": "Solicitar que se archive el procedimiento sin más trámite"
+      },
+      "correct": "c",
+      "explicacion": "La ley reconoce a las víctimas la facultad de manifestar en cualquier momento su deseo de no ser informadas de las resoluciones que en otro caso les corresponderían, quedando entonces sin efecto la solicitud de información que hubieran realizado previamente.",
+      "ley": "Artículo 7.2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando se trate de víctimas de delitos de violencia de género, las resoluciones sobre prisión, puesta en libertad o medidas cautelares se les notificarán:",
+      "options": {
+        "a": "Nunca, por motivos de protección de datos",
+        "b": "Sin necesidad de que la víctima lo solicite, salvo que manifieste su deseo de no recibir dichas notificaciones",
+        "c": "Únicamente si lo solicitan expresamente por escrito ante el Juzgado",
+        "d": "Solo tras la firmeza de la sentencia definitiva"
+      },
+      "correct": "b",
+      "explicacion": "Tratándose de víctimas de delitos de violencia de género, se les notificarán automáticamente las resoluciones relativas a prisión, puesta en libertad y medidas cautelares relacionadas con su seguridad, sin necesidad de solicitud previa, salvo que la propia víctima manifieste su deseo de no recibir dichas notificaciones.",
+      "ley": "Artículo 7.3 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los Abogados y Procuradores no podrán dirigirse a las víctimas de catástrofes o sucesos con un número elevado de víctimas para ofrecerles sus servicios profesionales hasta transcurridos:",
+      "options": {
+        "a": "45 días desde el hecho, salvo que la víctima haya solicitado expresamente dichos servicios",
+        "b": "15 días desde el hecho",
+        "c": "90 días desde el hecho, sin excepción",
+        "d": "Un año desde el hecho"
+      },
+      "correct": "a",
+      "explicacion": "Como garantía frente a posibles prácticas de captación indebida, los Abogados y Procuradores no pueden dirigirse a las víctimas de catástrofes o sucesos con un número elevado de afectados para ofrecerles sus servicios profesionales hasta transcurridos 45 días desde el hecho, salvo que la propia víctima haya solicitado expresamente dichos servicios.",
+      "ley": "Artículo 8.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El incumplimiento de la prohibición de dirigirse a las víctimas antes de transcurridos los 45 días tras una catástrofe o suceso de gran magnitud dará lugar a:",
+      "options": {
+        "a": "La nulidad automática de cualquier actuación profesional posterior",
+        "b": "Responsabilidad disciplinaria por infracción muy grave, sin perjuicio de otras responsabilidades",
+        "c": "Una simple amonestación verbal sin consecuencias formales",
+        "d": "La pérdida automática de la condición de colegiado durante un año"
+      },
+      "correct": "b",
+      "explicacion": "El incumplimiento de la prohibición de dirigirse a las víctimas de catástrofes antes del plazo legalmente establecido da lugar a responsabilidad disciplinaria por infracción muy grave, sin perjuicio de las demás responsabilidades que pudieran corresponder.",
+      "ley": "Artículo 8.2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Toda víctima que no hable o no entienda el castellano o la lengua oficial de la actuación tendrá derecho a:",
+      "options": {
+        "a": "Ser asistida gratuitamente por un intérprete cuando se le reciba declaración por el Juez, el Fiscal o funcionarios de policía",
+        "b": "Obtener una indemnización adicional por la barrera lingüística",
+        "c": "Exigir que el proceso se traslade íntegramente a su país de origen",
+        "d": "Renunciar automáticamente a su condición de víctima si no domina el idioma"
+      },
+      "correct": "a",
+      "explicacion": "Toda víctima que no hable o no entienda el castellano o la lengua oficial de la actuación tiene derecho a ser asistida gratuitamente por un intérprete que hable una lengua que comprenda, cuando se le reciba declaración en la fase de investigación o intervenga como testigo en juicio o vista oral, derecho extensible también a personas con limitaciones auditivas o de expresión oral.",
+      "ley": "Artículo 9.1.a) de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La decisión de no facilitar interpretación o traducción a la víctima en actuaciones policiales:",
+      "options": {
+        "a": "Requiere conformidad previa del Ministerio Fiscal para ser válida",
+        "b": "Solo puede recurrirse ante el Defensor del Pueblo",
+        "c": "Podrá ser recurrida ante el Juez de instrucción",
+        "d": "Es definitiva e inatacable en todo caso"
+      },
+      "correct": "c",
+      "explicacion": "Cuando se trate de actuaciones policiales, la decisión de no facilitar interpretación o traducción a la víctima puede ser recurrida ante el Juez de instrucción, entendiéndose interpuesto el recurso cuando la persona afectada hubiera expresado su disconformidad en el momento de la denegación.",
+      "ley": "Artículo 9.4 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Toda víctima tiene derecho a acceder a los servicios de asistencia y apoyo facilitados por las Administraciones públicas y las Oficinas de Asistencia a las Víctimas:",
+      "options": {
+        "a": "Exclusivamente durante el primer mes tras la comisión del delito",
+        "b": "De forma gratuita y confidencial, en los términos que reglamentariamente se determinen",
+        "c": "Solo si el delito ha sido calificado judicialmente como grave",
+        "d": "Únicamente mediante el pago de una tasa administrativa"
+      },
+      "correct": "b",
+      "explicacion": "Toda víctima tiene derecho a acceder, de forma gratuita y confidencial, en los términos reglamentariamente establecidos, a los servicios de asistencia y apoyo facilitados por las Administraciones públicas y las Oficinas de Asistencia a las Víctimas, pudiendo este derecho extenderse a sus familiares en determinados casos de especial gravedad.",
+      "ley": "Artículo 10 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La asistencia de intérprete a la víctima se podrá prestar:",
+      "options": {
+        "a": "Exclusivamente mediante traducción escrita previa, sin posibilidad de interpretación oral",
+        "b": "Solo si la víctima sufraga personalmente los gastos del intérprete",
+        "c": "Únicamente de forma presencial, sin excepción alguna",
+        "d": "Por medio de videoconferencia o cualquier medio de telecomunicación, salvo que se acuerde la presencia física para salvaguardar sus derechos"
+      },
+      "correct": "d",
+      "explicacion": "La asistencia de intérprete a la víctima puede prestarse por medio de videoconferencia o cualquier otro medio de telecomunicación, salvo que el Juez o Tribunal, de oficio o a instancia de parte, acuerde la presencia física del intérprete para salvaguardar adecuadamente los derechos de la víctima.",
+      "ley": "Artículo 9.2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las autoridades o funcionarios que entren en contacto con las víctimas deberán derivarlas a las Oficinas de Asistencia a las Víctimas:",
+      "options": {
+        "a": "Únicamente si la víctima presenta lesiones visibles",
+        "b": "Exclusivamente cuando lo ordene expresamente el Ministerio Fiscal",
+        "c": "Solo en los delitos cometidos en horario nocturno",
+        "d": "Cuando resulte necesario en atención a la gravedad del delito o cuando la víctima lo solicite"
+      },
+      "correct": "d",
+      "explicacion": "Las autoridades o funcionarios que entren en contacto con las víctimas deben derivarlas a las Oficinas de Asistencia a las Víctimas cuando resulte necesario en atención a la gravedad del delito cometido, o en aquellos casos en que la propia víctima lo solicite.",
+      "ley": "Artículo 10 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_16_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La información que se facilite a la víctima sobre sus derechos desde el primer contacto con las autoridades:",
+      "options": {
+        "a": "Se proporciona una única vez, sin necesidad de actualización posterior",
+        "b": "Se limita exclusivamente a la fase de instrucción, sin extenderse al juicio oral",
+        "c": "Será actualizada en cada fase del procedimiento, para garantizar la posibilidad de ejercer sus derechos",
+        "d": "Solo se facilita si la víctima ha contratado Abogado particular"
+      },
+      "correct": "c",
+      "explicacion": "La información facilitada a la víctima sobre sus derechos debe ser actualizada en cada fase del procedimiento, con el fin de garantizarle la posibilidad real de ejercer dichos derechos a lo largo de todo el proceso penal.",
+      "ley": "Artículo 5.2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    }
+  ]
+}

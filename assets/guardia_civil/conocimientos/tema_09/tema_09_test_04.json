@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_09_test_04_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando el delito perseguido haya dejado vestigios o pruebas materiales, el Juez instructor ordenará:",
+      "options": {
+        "a": "Que se remitan sin inspección previa al Tribunal Supremo",
+        "b": "Que se entreguen directamente a la víctima sin más trámite",
+        "c": "Que se destruyan inmediatamente para evitar contaminación",
+        "d": "Que se recojan y conserven para el juicio oral, procediendo a la inspección ocular y descripción de cuanto pueda relacionarse con el hecho"
+      },
+      "correct": "d",
+      "explicacion": "Cuando el delito haya dejado vestigios o pruebas materiales, el Juez instructor debe ordenar su recogida y conservación para el juicio oral, procediendo a la inspección ocular y a la descripción de todo lo que pueda guardar relación con la existencia y naturaleza del hecho, incluyendo el lugar, los objetos hallados y los accidentes del terreno.",
+      "ley": "Artículo 326 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Si se tratare de un robo u otro delito cometido con fractura, escalamiento o violencia, el Juez instructor deberá:",
+      "options": {
+        "a": "Remitir el asunto directamente al Tribunal del Jurado",
+        "b": "Esperar a que el Ministerio Fiscal solicite expresamente la inspección",
+        "c": "Limitarse a recabar la declaración de la víctima",
+        "d": "Describir los vestigios dejados y consultar el parecer de peritos sobre la manera, instrumentos, medios o tiempo de ejecución del delito"
+      },
+      "correct": "d",
+      "explicacion": "En los delitos cometidos con fractura, escalamiento o violencia, el Juez instructor debe describir los vestigios que hubieran quedado y consultar el parecer de peritos acerca de la manera, los instrumentos, los medios o el tiempo empleado en la ejecución del delito.",
+      "ley": "Artículo 328 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Las diligencias de inspección ocular se extenderán por escrito en el acto mismo y serán firmadas por:",
+      "options": {
+        "a": "Únicamente el Juez instructor",
+        "b": "Solo el letrado de la Administración de Justicia",
+        "c": "El Juez instructor, el Fiscal si asistiere, el letrado de la Administración de Justicia y las personas presentes",
+        "d": "Exclusivamente las personas halladas en el lugar del delito"
+      },
+      "correct": "c",
+      "explicacion": "Todas las diligencias de inspección ocular deben extenderse por escrito en el propio acto y ser firmadas por el Juez instructor, por el Fiscal si asistiera, por el letrado de la Administración de Justicia y por las personas que se hallaren presentes durante su práctica.",
+      "ley": "Artículo 332 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La persona declarada procesada como presunta autora del hecho podrá presenciar las diligencias de inspección ocular:",
+      "options": {
+        "a": "Únicamente a través de su procurador, sin presencia física",
+        "b": "Solo si lo autoriza expresamente el Ministerio Fiscal",
+        "c": "Sola o asistida del defensor que eligiese o le fuese nombrado de oficio, si así lo solicitara",
+        "d": "Nunca, al ser diligencias de carácter exclusivamente técnico"
+      },
+      "correct": "c",
+      "explicacion": "Quien se halle procesado como presunta persona autora del hecho punible puede presenciar las diligencias de inspección ocular, ya sea solo o asistido del defensor que elija o le sea nombrado de oficio si lo solicita, pudiendo ambos formular observaciones que se consignarán por diligencia si no son aceptadas.",
+      "ley": "Artículo 333 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La persona afectada por la incautación de efectos relacionados con el delito podrá recurrir dicha medida:",
+      "options": {
+        "a": "Solo si la incautación afecta a bienes inmuebles",
+        "b": "En cualquier momento, ante el Juez de Instrucción",
+        "c": "Exclusivamente mediante recurso de casación ante el Tribunal Supremo",
+        "d": "Únicamente dentro de las 24 horas siguientes a la incautación"
+      },
+      "correct": "b",
+      "explicacion": "La persona afectada por la incautación de armas, instrumentos o efectos relacionados con el delito puede recurrir esta medida en cualquier momento ante el Juez de Instrucción, sin que dicho recurso requiera intervención de abogado cuando lo presente un tercero distinto del imputado.",
+      "ley": "Artículo 334 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. En los casos de muerte violenta o sospechosa de criminalidad, antes de proceder al enterramiento del cadáver se procederá a:",
+      "options": {
+        "a": "Su incineración inmediata por motivos sanitarios",
+        "b": "Trasladarlo sin identificación a un depósito provincial",
+        "c": "Entregarlo directamente a la familia sin más diligencia",
+        "d": "Identificarlo por medio de testigos que den razón satisfactoria de su conocimiento"
+      },
+      "correct": "d",
+      "explicacion": "Cuando la instrucción se siga por causa de muerte violenta o sospechosa de criminalidad, antes del enterramiento o inmediatamente después de la exhumación, y tras la descripción correspondiente, el cadáver debe ser identificado por medio de testigos que, a su vista, den razón satisfactoria de su conocimiento.",
+      "ley": "Artículo 340 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Si no existieran testigos de conocimiento del cadáver, y su estado lo permitiera, se expondrá al público antes de la autopsia durante un tiempo mínimo de:",
+      "options": {
+        "a": "48 horas",
+        "b": "12 horas",
+        "c": "6 horas",
+        "d": "24 horas"
+      },
+      "correct": "d",
+      "explicacion": "En ausencia de testigos de conocimiento, si el estado del cadáver lo permite, este se expondrá al público antes de practicarse la autopsia durante un tiempo mínimo de 24 horas, fijándose un cartel con el sitio, hora y día del hallazgo y el Juez instructor, para facilitar su reconocimiento.",
+      "ley": "Artículo 341 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. En los sumarios por muerte violenta o sospechosa, la autopsia del cadáver se practicará:",
+      "options": {
+        "a": "Solo si lo solicita expresamente la familia del fallecido",
+        "b": "Únicamente cuando no exista ningún indicio externo de la causa de muerte",
+        "c": "Por los Médicos forenses o, en su caso, por los que designe el Juez, aun cuando por la inspección exterior pueda presumirse la causa de la muerte",
+        "d": "Solo en los casos de homicidio doloso, nunca en muertes accidentales"
+      },
+      "correct": "c",
+      "explicacion": "En los sumarios por muerte violenta o sospechosa de criminalidad se procederá a la autopsia del cadáver por los Médicos forenses, o en su defecto por quienes designe el Juez, incluso cuando por la inspección exterior pudiera presumirse ya la causa del fallecimiento, debiendo informar sobre su origen y circunstancias.",
+      "ley": "Artículo 343 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. El Médico forense es definido por la Ley de Enjuiciamiento Criminal como:",
+      "options": {
+        "a": "El facultativo encargado de auxiliar a la administración de justicia en los casos en que sea necesaria la intervención de su profesión",
+        "b": "Un funcionario exclusivamente dedicado a la docencia universitaria",
+        "c": "Un cargo de elección popular en cada partido judicial",
+        "d": "Un cargo de designación directa por el Ministerio Fiscal sin relación con la Administración de Justicia"
+      },
+      "correct": "a",
+      "explicacion": "En cada Juzgado de instrucción existirá un Médico forense, entendido como el facultativo encargado de auxiliar a la administración de justicia en todos los casos y actuaciones en que resulte necesaria o conveniente la intervención de su profesión dentro de la demarcación judicial.",
+      "ley": "Artículo 344 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El Médico forense, para ausentarse hasta 8 días, necesita licencia de:",
+      "options": {
+        "a": "El Presidente de la Audiencia de lo criminal",
+        "b": "El Juez del partido donde haya sido nombrado",
+        "c": "El Colegio de Médicos de la provincia",
+        "d": "El Ministerio de la Presidencia, Justicia y Relaciones con las Cortes"
+      },
+      "correct": "b",
+      "explicacion": "El Médico forense debe residir en la capital del partido judicial para el que haya sido nombrado, y solo puede ausentarse de ella con licencia, correspondiendo al Juez autorizar ausencias de hasta 8 días, al Presidente de la Audiencia de lo criminal hasta 20 días, y al Ministerio competente por el tiempo que estime conveniente.",
+      "ley": "Artículo 345 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El procesado, respecto de la asistencia facultativa por lesiones, tiene derecho a:",
+      "options": {
+        "a": "Sustituir completamente al Médico forense designado por el Juez",
+        "b": "Designar un Profesor que intervenga junto con los nombrados por el Juez instructor o la parte acusadora",
+        "c": "Exigir que se le asista exclusivamente en un centro hospitalario privado",
+        "d": "Negarse a cualquier reconocimiento médico sin consecuencia procesal alguna"
+      },
+      "correct": "b",
+      "explicacion": "En los casos de envenenamiento, heridas u otras lesiones, el procesado tiene derecho a designar un Profesor que intervenga, junto con los nombrados por el Juez instructor o el designado por la parte acusadora, en la asistencia facultativa del paciente.",
+      "ley": "Artículo 350 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Las autopsias se practicarán, con carácter general, en:",
+      "options": {
+        "a": "Un local público destinado a tal fin y al depósito de cadáveres en cada pueblo o partido",
+        "b": "Cualquier hospital privado elegido libremente por la familia",
+        "c": "Las dependencias de la Audiencia Provincial competente",
+        "d": "El domicilio del Juez instructor"
+      },
+      "correct": "a",
+      "explicacion": "Las autopsias se realizan en el local público que la Administración tenga destinado en cada pueblo o partido para tal fin y para el depósito de cadáveres, sin perjuicio de que el Juez de instrucción pueda disponer que se practiquen en otro lugar o en el domicilio del difunto si la familia lo solicita y no perjudica al éxito del sumario.",
+      "ley": "Artículo 353 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los médicos que asistan a una persona herida en una causa criminal estarán obligados a:",
+      "options": {
+        "a": "Abstenerse de informar mientras no concluya el sumario",
+        "b": "Informar exclusivamente a la familia del herido, no al Juez instructor",
+        "c": "Dar parte de su estado y adelantos en los períodos señalados, y de inmediato ante cualquier novedad relevante",
+        "d": "Comunicar el estado del herido únicamente al finalizar el tratamiento completo"
+      },
+      "correct": "c",
+      "explicacion": "Cuando el hecho criminal consista en lesiones, los médicos que asistan al herido están obligados a dar parte de su estado y evolución en los períodos que se les señalen, así como a comunicar inmediatamente al Juez instructor cualquier novedad que merezca ser puesta en su conocimiento.",
+      "ley": "Artículo 355 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Las operaciones de análisis químico que exija la sustanciación de los procesos criminales se practicarán, con carácter general, por:",
+      "options": {
+        "a": "Doctores en Medicina, en Farmacia, en Ciencias físico-químicas, o Ingenieros especializados en química",
+        "b": "Cualquier funcionario de Policía Judicial con formación básica",
+        "c": "Exclusivamente personal del Instituto Nacional de Toxicología",
+        "d": "El propio Juez instructor, sin necesidad de peritos"
+      },
+      "correct": "a",
+      "explicacion": "Las operaciones de análisis químico necesarias en los procesos criminales se practican por Doctores en Medicina, en Farmacia, en Ciencias físico-químicas o por Ingenieros especializados en la rama química, pudiendo recurrirse a Licenciados con conocimientos y práctica suficientes si no hubiere Doctores disponibles.",
+      "ley": "Artículo 356 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Los peritos que practiquen el análisis químico no estarán obligados a trabajar más de:",
+      "options": {
+        "a": "Tres horas por día, excepto en casos urgentes o extraordinarios",
+        "b": "Cinco horas por día, sin excepción posible",
+        "c": "Una hora por día, salvo causa urgente",
+        "d": "Ocho horas por día, en cualquier circunstancia"
+      },
+      "correct": "a",
+      "explicacion": "Los Profesores que actúen como peritos titulares en los análisis químicos no están obligados a dedicar más de tres horas diarias a este servicio, salvo en los casos urgentes o extraordinarios que se hagan constar expresamente en los autos.",
+      "ley": "Artículo 358 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El Juez de Instrucción podrá acordar, en resolución motivada, la obtención de muestras biológicas del sospechoso para determinar su perfil de ADN cuando:",
+      "options": {
+        "a": "Lo solicite cualquier ciudadano sin necesidad de justificación",
+        "b": "Se trate exclusivamente de delitos sancionados con pena de prisión permanente revisable",
+        "c": "El sospechoso preste su consentimiento expreso, siendo este el único requisito",
+        "d": "Concurran acreditadas razones que lo justifiquen y resulten indispensables para dicha determinación"
+      },
+      "correct": "d",
+      "explicacion": "Siempre que concurran acreditadas razones que lo justifiquen, el Juez de Instrucción puede acordar en resolución motivada la obtención de muestras biológicas del sospechoso indispensables para determinar su perfil de ADN, pudiendo decidir los actos de inspección, reconocimiento o intervención corporal adecuados a los principios de proporcionalidad y razonabilidad.",
+      "ley": "Artículo 363 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. En los delitos de robo, hurto o estafa, cuando no hubiere testigos presenciales, para hacer constar la preexistencia de las cosas se recibirá información sobre:",
+      "options": {
+        "a": "Los antecedentes penales del investigado únicamente",
+        "b": "Exclusivamente el valor de mercado actual del bien",
+        "c": "Los antecedentes del agraviado y las circunstancias que indiquen que poseía las cosas al tiempo del delito",
+        "d": "La situación económica del Ministerio Fiscal actuante"
+      },
+      "correct": "c",
+      "explicacion": "En los delitos de robo, hurto y estafa, y en general en cualquier delito en que deba constar la preexistencia de las cosas sustraídas, a falta de testigos presenciales se recibirá información sobre los antecedentes del agraviado y sobre las circunstancias que indiquen que poseía dichas cosas en el momento de cometerse el delito.",
+      "ley": "Artículo 364 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las diligencias relativas a la inspección ocular y al cuerpo del delito se practicarán:",
+      "options": {
+        "a": "Con preferencia a las demás del sumario, sin suspenderse salvo para asegurar al presunto culpable o auxiliar a los agraviados",
+        "b": "Al final de la instrucción, una vez concluidas todas las demás diligencias",
+        "c": "Únicamente en horario de audiencia pública",
+        "d": "Solo si lo solicita expresamente el Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "Las diligencias relativas a la inspección ocular y al cuerpo del delito tienen carácter preferente respecto de las demás diligencias del sumario, y su ejecución solo puede suspenderse para asegurar la persona del presunto culpable o para prestar el auxilio necesario a los agraviados por el delito.",
+      "ley": "Artículo 366 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Durante el sumario, el Juez NO admitirá:",
+      "options": {
+        "a": "La intervención de peritos en el reconocimiento de los efectos hallados",
+        "b": "Reclamaciones ni tercerías que tengan por objeto la devolución de los efectos que constituyen el cuerpo del delito",
+        "c": "La presencia del procesado en la inspección ocular",
+        "d": "Las diligencias propuestas por el Ministerio Fiscal"
+      },
+      "correct": "b",
+      "explicacion": "La ley prohíbe expresamente que el Juez admita durante el sumario reclamaciones ni tercerías cuyo objeto sea la devolución de los efectos que constituyen el cuerpo del delito, cualquiera que sea su clase y la persona que las formule, sin perjuicio de la restitución que proceda conforme a las reglas específicas sobre incautación.",
+      "ley": "Artículo 367 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_04_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando fuere conveniente para mayor claridad o comprobación de los hechos durante la inspección ocular, podrá:",
+      "options": {
+        "a": "Suspenderse indefinidamente la instrucción hasta disponer de medios técnicos avanzados",
+        "b": "Levantarse el plano del lugar, hacerse el retrato de las personas objeto del delito o la copia o diseño de los efectos hallados",
+        "c": "Delegarse íntegramente en la parte acusadora la documentación del lugar",
+        "d": "Sustituirse la inspección ocular por una declaración exclusivamente testifical"
+      },
+      "correct": "b",
+      "explicacion": "Para mayor claridad o comprobación de los hechos, la ley permite levantar el plano detallado del lugar, realizar el retrato de las personas que hubieran sido objeto del delito, o efectuar la copia o el diseño de los efectos o instrumentos hallados.",
+      "ley": "Artículo 327 de la Ley de Enjuiciamiento Criminal"
+    }
+  ]
+}

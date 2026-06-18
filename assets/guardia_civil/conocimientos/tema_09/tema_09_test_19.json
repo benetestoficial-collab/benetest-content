@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_09_test_19_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El Fiscal recabará del Juez o Tribunal la designación de un defensor judicial de la víctima menor de edad cuando valore que:",
+      "options": {
+        "a": "El delito ha sido calificado como leve",
+        "b": "La víctima ha alcanzado la mayoría de edad durante el proceso",
+        "c": "Los representantes legales de la víctima tienen con ella un conflicto de intereses que no permite confiar en una gestión adecuada de sus intereses",
+        "d": "El acusado ha sido absuelto en primera instancia"
+      },
+      "correct": "c",
+      "explicacion": "El Fiscal debe recabar del Juez o Tribunal la designación de un defensor judicial de la víctima cuando valore que sus representantes legales tienen con ella un conflicto de intereses, derivado o no del hecho investigado, que no permite confiar en una gestión adecuada de sus intereses en la investigación o el proceso penal.",
+      "ley": "Artículo 26.2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando existan dudas sobre la edad de la víctima y no pueda determinarse con certeza, conforme al artículo 26.3 de la Ley del Estatuto de la víctima:",
+      "options": {
+        "a": "El proceso quedará suspendido hasta determinar la edad exacta",
+        "b": "Se presumirá que se trata de una persona menor de edad",
+        "c": "Se presumirá siempre que es mayor de edad",
+        "d": "Se aplicará la edad media estimada por un perito médico forense, sin presunción legal"
+      },
+      "correct": "b",
+      "explicacion": "Ante la incertidumbre sobre la edad de la víctima que no pueda determinarse con certeza, la ley establece una presunción de minoría de edad, a los efectos de la aplicación de las medidas de protección previstas en el Estatuto de la víctima del delito.",
+      "ley": "Artículo 26.3 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las Oficinas de Asistencia a las Víctimas serán organizadas:",
+      "options": {
+        "a": "Por el Gobierno y las Comunidades Autónomas que hayan asumido competencias en materia de Justicia, en el ámbito que les es propio",
+        "b": "Únicamente por organizaciones no gubernamentales sin financiación pública",
+        "c": "Solo por el Consejo General del Poder Judicial",
+        "d": "Exclusivamente por los Colegios de Abogados"
+      },
+      "correct": "a",
+      "explicacion": "El Gobierno y las Comunidades Autónomas que hayan asumido competencias en materia de Justicia son los responsables de organizar, en el ámbito que les es propio, las Oficinas de Asistencia a las Víctimas, pudiendo además celebrar convenios de colaboración con entidades públicas y privadas sin ánimo de lucro.",
+      "ley": "Artículo 27.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Entre las funciones mínimas de las Oficinas de Asistencia a las Víctimas se encuentra:",
+      "options": {
+        "a": "La elaboración del escrito de acusación en sustitución del Ministerio Fiscal",
+        "b": "La imposición de medidas cautelares contra el investigado",
+        "c": "La información general sobre sus derechos, incluyendo la posibilidad de acceder a un sistema público de indemnización",
+        "d": "La representación procesal obligatoria de la víctima en todo procedimiento"
+      },
+      "correct": "c",
+      "explicacion": "Entre las funciones mínimas que deben prestar las Oficinas de Asistencia a las Víctimas se encuentra la información general sobre sus derechos y, en particular, sobre la posibilidad de acceder a un sistema público de indemnización, además de información sobre servicios especializados disponibles.",
+      "ley": "Artículo 28.1.a) de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Entre las funciones de las Oficinas de Asistencia a las Víctimas, conforme al artículo 28.1.c), se incluye:",
+      "options": {
+        "a": "La fijación de la pena solicitada por el Ministerio Fiscal",
+        "b": "La gestión exclusiva de las indemnizaciones civiles",
+        "c": "El apoyo emocional a la víctima",
+        "d": "La declaración formal de la víctima ante el Tribunal"
+      },
+      "correct": "c",
+      "explicacion": "Entre las funciones mínimas de las Oficinas de Asistencia a las Víctimas se encuentra el apoyo emocional a la víctima, complementando así el asesoramiento jurídico y económico con una atención integral que tenga en cuenta su bienestar psicológico.",
+      "ley": "Artículo 28.1.c) de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las Oficinas de Asistencia a las Víctimas asesorarán también sobre:",
+      "options": {
+        "a": "El régimen fiscal de las indemnizaciones percibidas por terceros ajenos al delito",
+        "b": "Las estrategias de defensa que debe seguir el Abogado del acusado",
+        "c": "Exclusivamente las tasas judiciales aplicables al procedimiento",
+        "d": "El riesgo y la forma de prevenir la victimización secundaria o reiterada, o la intimidación o represalias"
+      },
+      "correct": "d",
+      "explicacion": "Entre las funciones de las Oficinas de Asistencia a las Víctimas se incluye el asesoramiento sobre el riesgo y la forma de prevenir la victimización secundaria o reiterada, así como la intimidación o las represalias que pudieran sufrir las víctimas.",
+      "ley": "Artículo 28.1.e) de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Tras la valoración de las circunstancias particulares de la víctima, las Oficinas de Asistencia a las Víctimas podrán prestar, entre otras medidas:",
+      "options": {
+        "a": "Imposición de penas alternativas al condenado",
+        "b": "Revisión de las sentencias dictadas en otros procedimientos",
+        "c": "Apoyo o asistencia psicológica y acompañamiento a juicio",
+        "d": "Representación procesal exclusiva, sustituyendo al Abogado de la víctima"
+      },
+      "correct": "c",
+      "explicacion": "Tras valorar las circunstancias particulares de la víctima, las Oficinas de Asistencia a las Víctimas pueden prestar, entre otras medidas, apoyo o asistencia psicológica y acompañamiento a juicio, así como información sobre recursos psicosociales y asistenciales disponibles.",
+      "ley": "Artículo 28.2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El acceso a los servicios de apoyo a las víctimas prestados por las Oficinas de Asistencia:",
+      "options": {
+        "a": "Exige siempre haber presentado denuncia formal previamente",
+        "b": "Solo está disponible tras dictarse sentencia condenatoria firme",
+        "c": "Requiere autorización expresa del Ministerio Fiscal en cada caso",
+        "d": "No se condicionará a la presentación previa de una denuncia"
+      },
+      "correct": "d",
+      "explicacion": "La ley garantiza el acceso a los servicios de apoyo a las víctimas con independencia de que se haya presentado o no una denuncia formal, facilitando así que cualquier víctima pueda recibir asistencia desde el primer momento.",
+      "ley": "Artículo 28.3 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los familiares de la víctima podrán acceder a los servicios de apoyo prestados por las Oficinas de Asistencia a las Víctimas:",
+      "options": {
+        "a": "Únicamente si residen en el mismo domicilio que la víctima",
+        "b": "Nunca, al estar reservado el acceso exclusivamente a la víctima directa",
+        "c": "Conforme a lo reglamentariamente dispuesto, cuando se trate de delitos que hayan causado perjuicios de especial gravedad",
+        "d": "Solo tras solicitarlo formalmente ante el Tribunal Supremo"
+      },
+      "correct": "c",
+      "explicacion": "Los familiares de la víctima pueden acceder a los servicios de apoyo a las víctimas conforme a lo que se disponga reglamentariamente, en aquellos casos en que se trate de delitos que hayan causado perjuicios de especial gravedad.",
+      "ley": "Artículo 28.4 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las Oficinas de Asistencia a las Víctimas, conforme al artículo 29 de la ley, prestarán también apoyo a:",
+      "options": {
+        "a": "Los servicios de justicia restaurativa y demás procedimientos de solución extraprocesal legalmente establecidos",
+        "b": "La ejecución de las penas privativas de libertad",
+        "c": "La instrucción de las diligencias previas del proceso",
+        "d": "La fijación de las tasas judiciales aplicables"
+      },
+      "correct": "a",
+      "explicacion": "Las Oficinas de Asistencia a las Víctimas, en los términos que reglamentariamente se determinen, prestan apoyo a los servicios de justicia restaurativa y a los demás procedimientos de solución extraprocesal que legalmente se establezcan.",
+      "ley": "Artículo 29 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La formación en los principios de protección de las víctimas en el proceso penal debe asegurarse, entre otros colectivos, respecto de:",
+      "options": {
+        "a": "Exclusivamente los periodistas que cubran sucesos judiciales",
+        "b": "Jueces y Magistrados, Fiscales, Letrados de la Administración de Justicia y Fuerzas y Cuerpos de Seguridad",
+        "c": "Únicamente los funcionarios de prisiones",
+        "d": "Solo los miembros de organizaciones no gubernamentales"
+      },
+      "correct": "b",
+      "explicacion": "El Ministerio competente, el Consejo General del Poder Judicial, la Fiscalía General del Estado y las Comunidades Autónomas deben asegurar formación general y específica sobre protección de víctimas en los cursos de formación de Jueces, Fiscales, Letrados de la Administración de Justicia, Fuerzas y Cuerpos de Seguridad, médicos forenses y demás personal relacionado.",
+      "ley": "Artículo 30.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los Colegios de Abogados y de Procuradores, conforme al artículo 30.2 de la Ley del Estatuto de la víctima:",
+      "options": {
+        "a": "Impulsarán la formación y sensibilización de sus colegiados en los principios de protección de las víctimas",
+        "b": "Quedan exentos de cualquier obligación formativa en esta materia",
+        "c": "Solo deben formar a los colegiados que ejerzan en el orden penal",
+        "d": "Delegan dicha formación exclusivamente en el Ministerio de Justicia"
+      },
+      "correct": "a",
+      "explicacion": "Los Colegios de Abogados y de Procuradores tienen la obligación de impulsar la formación y sensibilización de sus colegiados en los principios de protección de las víctimas contenidos en la Ley del Estatuto de la víctima del delito.",
+      "ley": "Artículo 30.2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El Gobierno y las Comunidades Autónomas, con el fin de hacer más efectiva la protección de las víctimas:",
+      "options": {
+        "a": "Delegarán esta función exclusivamente en organizaciones internacionales",
+        "b": "Aprobarán los Protocolos que resulten necesarios para la protección de las víctimas",
+        "c": "Solo podrán actuar mediante ley orgánica, sin posibilidad de protocolos administrativos",
+        "d": "Quedan eximidos de cualquier desarrollo reglamentario en esta materia"
+      },
+      "correct": "b",
+      "explicacion": "El Gobierno y las Comunidades Autónomas, en el marco de sus respectivas competencias, deben aprobar los Protocolos que resulten necesarios para hacer más efectiva la protección de las víctimas y de los derechos que les reconoce la ley.",
+      "ley": "Artículo 31 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 32 de la Ley del Estatuto de la víctima, los poderes públicos fomentarán:",
+      "options": {
+        "a": "La reducción de los plazos procesales en cualquier tipo de delito",
+        "b": "La cooperación con los colectivos profesionales especializados en el trato, atención y protección a las víctimas",
+        "c": "La eliminación de las Oficinas de Asistencia a las Víctimas en favor de entidades privadas",
+        "d": "La privatización total de los servicios de asistencia a las víctimas"
+      },
+      "correct": "b",
+      "explicacion": "Los poderes públicos deben fomentar la cooperación con los colectivos profesionales especializados en el trato, atención y protección a las víctimas, así como su participación en los sistemas de evaluación del funcionamiento de las medidas adoptadas para su protección.",
+      "ley": "Artículo 32 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los poderes públicos promoverán la cooperación internacional en materia de derechos de las víctimas del delito, especialmente con:",
+      "options": {
+        "a": "Únicamente Estados con los que España no tenga tratado de extradición",
+        "b": "Solo organizaciones no gubernamentales internacionales, excluyendo a los Estados",
+        "c": "Exclusivamente países iberoamericanos",
+        "d": "Los Estados miembros de la Unión Europea"
+      },
+      "correct": "d",
+      "explicacion": "Los poderes públicos deben promover la cooperación con otros Estados, y especialmente con los Estados miembros de la Unión Europea, en materia de derechos de las víctimas del delito, mediante el intercambio de experiencias, información y otras actividades de colaboración.",
+      "ley": "Artículo 33 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los poderes públicos fomentarán campañas de sensibilización social en favor de las víctimas, así como:",
+      "options": {
+        "a": "La obligación de los medios de difundir la identidad completa de toda víctima",
+        "b": "La autorregulación de los medios de comunicación social para preservar la intimidad, imagen y dignidad de las víctimas",
+        "c": "La supresión total de la libertad de prensa en asuntos penales",
+        "d": "La censura previa obligatoria de cualquier publicación periodística"
+      },
+      "correct": "b",
+      "explicacion": "Los poderes públicos deben fomentar campañas de sensibilización social en favor de las víctimas, así como la autorregulación de los medios de comunicación social, tanto públicos como privados, con el fin de preservar la intimidad, la imagen, la dignidad y los demás derechos de las víctimas.",
+      "ley": "Artículo 34 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. La persona que se hubiera beneficiado de subvenciones o ayudas por su condición de víctima vendrá obligada a reembolsar las cantidades recibidas y los gastos causados a la Administración cuando:",
+      "options": {
+        "a": "Cambie de domicilio durante la tramitación del procedimiento",
+        "b": "Decida no continuar como parte en el proceso",
+        "c": "El proceso penal termine con sentencia absolutoria del acusado",
+        "d": "Fuera condenada por denuncia falsa o simulación de delito"
+      },
+      "correct": "d",
+      "explicacion": "La obligación de reembolso de las subvenciones y ayudas percibidas, así como de los gastos causados a la Administración, surge cuando la persona que se hubiera beneficiado de tales medidas en su condición de víctima fuera condenada por denuncia falsa o simulación de delito.",
+      "ley": "Artículo 35.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. El reembolso de las cantidades y gastos a que se refiere el artículo 35.1 de la Ley del Estatuto de la víctima se realizará:",
+      "options": {
+        "a": "Con un incremento del interés legal del dinero aumentado en un cincuenta por ciento",
+        "b": "Únicamente si el condenado lo solicita voluntariamente",
+        "c": "Aplicando un interés fijo del cien por cien sobre el capital, en todo caso",
+        "d": "Sin ningún tipo de interés adicional sobre la cantidad original"
+      },
+      "correct": "a",
+      "explicacion": "El reembolso de las cantidades percibidas y de los gastos causados a la Administración por las actuaciones de reconocimiento, información, protección y apoyo debe realizarse con un incremento del interés legal del dinero aumentado en un cincuenta por ciento, cuando la persona fuera condenada por denuncia falsa o simulación de delito.",
+      "ley": "Artículo 35.1 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El procedimiento de liquidación de la obligación de reembolso y la determinación de las cuantías correspondientes a cada concepto:",
+      "options": {
+        "a": "Quedan sujetos a negociación privada entre la víctima y la Administración",
+        "b": "Se fijarán directamente en cada sentencia condenatoria, sin desarrollo reglamentario posterior",
+        "c": "Corresponden en exclusiva al Tribunal Supremo mediante acuerdo de Pleno",
+        "d": "Se determinarán reglamentariamente"
+      },
+      "correct": "d",
+      "explicacion": "La ley remite al desarrollo reglamentario tanto el procedimiento de liquidación de la obligación de reembolso como la determinación de las cuantías que puedan corresponder a cada uno de los conceptos reembolsables.",
+      "ley": "Artículo 35.2 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    },
+    {
+      "id": "tema_09_test_19_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La obligación de reembolso regulada en el artículo 35 de la Ley del Estatuto de la víctima del delito:",
+      "options": {
+        "a": "Se aplicará sin perjuicio de lo previsto en la Ley de Asistencia Jurídica Gratuita",
+        "b": "Deroga automáticamente cualquier disposición de la Ley de Asistencia Jurídica Gratuita",
+        "c": "Excluye a las víctimas de violencia de género de cualquier obligación de reembolso, sin excepción",
+        "d": "Solo es aplicable a personas jurídicas, nunca a personas físicas"
+      },
+      "correct": "a",
+      "explicacion": "La obligación de reembolso prevista en este artículo se aplica sin perjuicio de lo establecido en la Ley de Asistencia Jurídica Gratuita, de modo que ambas regulaciones coexisten sin que una excluya a la otra.",
+      "ley": "Artículo 35.3 de la Ley 4/2015, del Estatuto de la víctima del delito"
+    }
+  ]
+}

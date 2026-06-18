@@ -1,0 +1,307 @@
+{
+  "tema_numero": 9,
+  "tema": "Derecho Procesal Penal",
+  "test": "Test 6",
+  "preguntas": [
+    {
+      "id": "tema_09_test_06_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Si el procesado estuviere detenido, se le recibirá la primera declaración dentro del término de:",
+      "options": {
+        "a": "24 horas, prorrogable por otras 48 horas si mediare causa grave",
+        "b": "72 horas, improrrogables",
+        "c": "48 horas, prorrogable por otras 24 horas",
+        "d": "12 horas, sin posibilidad de prórroga"
+      },
+      "correct": "a",
+      "explicacion": "Cuando el procesado se encuentre detenido, debe recibírsele la primera declaración dentro de las 24 horas siguientes, plazo que puede prorrogarse por otras 48 horas cuando medie causa grave, la cual deberá expresarse en la providencia que acuerde dicha prórroga.",
+      "ley": "Artículo 386 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Las preguntas dirigidas al procesado en sus declaraciones:",
+      "options": {
+        "a": "Podrán incluir promesas de beneficios procesales no autorizados legalmente",
+        "b": "Podrán formularse de modo capcioso si lo autoriza el Ministerio Fiscal",
+        "c": "Serán directas, sin que puedan hacerse de modo capcioso o sugestivo, ni emplear coacción o amenaza",
+        "d": "Deben formularse exclusivamente por escrito, nunca de forma oral"
+      },
+      "correct": "c",
+      "explicacion": "Las preguntas que se dirijan al procesado deben ser directas y orientadas a la averiguación de los hechos, sin que en ningún caso puedan formularse de modo capcioso o sugestivo, ni pueda emplearse con él coacción o amenaza alguna.",
+      "ley": "Artículo 389 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando el procesado rehúse contestar o se finja loco, sordo o mudo, el Juez instructor:",
+      "options": {
+        "a": "Suspenderá indefinidamente la instrucción del proceso",
+        "b": "Le advertirá que, no obstante su silencio o simulada enfermedad, se continuará la instrucción del proceso",
+        "c": "Remitirá inmediatamente la causa al Tribunal Supremo",
+        "d": "Decretará automáticamente su absolución por falta de pruebas"
+      },
+      "correct": "b",
+      "explicacion": "Ante la negativa a contestar o la simulación de enfermedad por parte del procesado, el Juez instructor le advertirá que la instrucción del proceso continuará a pesar de su silencio o de la enfermedad simulada, debiendo además investigarse la veracidad de dicha enfermedad.",
+      "ley": "Artículo 392 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. En la declaración del procesado, conforme al artículo 396 de la Ley de Enjuiciamiento Criminal:",
+      "options": {
+        "a": "Únicamente podrá manifestar lo que su abogado le indique expresamente por escrito",
+        "b": "Se le leerá íntegramente el sumario, incluidas todas las declaraciones de los demás procesados",
+        "c": "El Juez podrá realizarle cargos directos para forzar su confesión",
+        "d": "Se le permitirá manifestar cuanto tenga por conveniente para su exculpación, sin que en ningún caso puedan hacérsele cargos ni reconvenciones"
+      },
+      "correct": "d",
+      "explicacion": "Se permite al procesado manifestar cuanto considere conveniente para su exculpación o para explicar los hechos, evacuándose con urgencia las diligencias que proponga si el Juez las estima conducentes, sin que en ningún caso puedan hacérsele cargos ni reconvenciones, ni leerse el sumario salvo sus propias declaraciones anteriores.",
+      "ley": "Artículo 396 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 400 de la Ley de Enjuiciamiento Criminal, el procesado:",
+      "options": {
+        "a": "Solo puede declarar una vez durante toda la instrucción",
+        "b": "Solo puede ampliar su declaración tras la apertura del juicio oral",
+        "c": "Necesita autorización expresa del Ministerio Fiscal para declarar de nuevo",
+        "d": "Podrá declarar cuantas veces quisiere, recibiéndole el Juez inmediatamente la declaración si tuviese relación con la causa"
+      },
+      "correct": "d",
+      "explicacion": "La ley reconoce al procesado el derecho a declarar cuantas veces quiera, debiendo el Juez recibirle inmediatamente la declaración siempre que esta guarde relación con la causa que se está instruyendo.",
+      "ley": "Artículo 400 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. La confesión del procesado, conforme al artículo 406 de la Ley de Enjuiciamiento Criminal:",
+      "options": {
+        "a": "No dispensa al Juez de instrucción de practicar todas las diligencias necesarias para adquirir el convencimiento de la verdad de la confesión y de la existencia del delito",
+        "b": "Solo es válida si se ratifica ante el Tribunal del Jurado",
+        "c": "Exime automáticamente al Juez de practicar más diligencias de investigación",
+        "d": "Determina la apertura inmediata del juicio oral sin instrucción adicional"
+      },
+      "correct": "a",
+      "explicacion": "La confesión del procesado no exime al Juez de instrucción de practicar todas las diligencias que resulten necesarias para adquirir el convencimiento de su veracidad y de la existencia del delito, debiendo interrogarle sobre todas las circunstancias del hecho y sobre quiénes pudieran tener conocimiento de él.",
+      "ley": "Artículo 406 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Para recibir declaración al procesado menor de edad:",
+      "options": {
+        "a": "Se requerirá autorización previa del Tribunal Supremo",
+        "b": "Deberá estar presente obligatoriamente el Defensor del Pueblo",
+        "c": "No habrá necesidad de nombrarle curador",
+        "d": "Será necesario nombrarle curador en todo caso"
+      },
+      "correct": "c",
+      "explicacion": "La ley dispensa expresamente de la necesidad de nombrar curador para recibir declaración al procesado que sea menor de edad, sin perjuicio de las garantías generales que le asisten en su declaración.",
+      "ley": "Artículo 409 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando se haya procedido a la imputación de una persona jurídica, se tomará declaración:",
+      "options": {
+        "a": "Únicamente al administrador único, sin posibilidad de asistencia letrada",
+        "b": "A un perito contable designado de oficio",
+        "c": "Al representante especialmente designado por ella, asistido de su Abogado",
+        "d": "A todos los socios de la entidad, sin excepción"
+      },
+      "correct": "c",
+      "explicacion": "Cuando se impute a una persona jurídica, la declaración se toma al representante especialmente designado por la entidad, asistido de su Abogado, siéndole de aplicación los derechos a guardar silencio, a no declarar contra sí misma y a no confesarse culpable, en lo que no resulte incompatible con su especial naturaleza.",
+      "ley": "Artículo 409 bis de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. Conforme al artículo 410 de la Ley de Enjuiciamiento Criminal, la obligación de concurrir al llamamiento judicial para declarar como testigo corresponde a:",
+      "options": {
+        "a": "Solo a quienes hayan presenciado directamente los hechos",
+        "b": "Únicamente a los nacionales españoles",
+        "c": "Todos los que residan en territorio español, nacionales o extranjeros, que no estén impedidos",
+        "d": "Exclusivamente a los mayores de treinta años"
+      },
+      "correct": "c",
+      "explicacion": "Tienen obligación de concurrir al llamamiento judicial para declarar todos los que residan en territorio español, sean nacionales o extranjeros, siempre que no se encuentren impedidos y hayan sido citados con las formalidades legalmente prescritas.",
+      "ley": "Artículo 410 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Están exentos del deber de comparecer al llamamiento judicial, sin estarlo de declarar (pudiendo hacerlo por escrito), entre otros:",
+      "options": {
+        "a": "Cualquier funcionario público de cualquier nivel",
+        "b": "El Presidente y los demás miembros del Gobierno",
+        "c": "Todos los empresarios con más de cincuenta trabajadores",
+        "d": "Los testigos que residan en la misma localidad del juzgado"
+      },
+      "correct": "b",
+      "explicacion": "Entre las personas exentas de concurrir al llamamiento del Juez, aunque no de declarar, pudiendo informar por escrito sobre los hechos conocidos por razón de su cargo, se encuentran el Presidente y los demás miembros del Gobierno, los Presidentes de las Cámaras, el Presidente del Tribunal Constitucional, el del Consejo General del Poder Judicial, el Fiscal General del Estado y los Presidentes de las Comunidades Autónomas.",
+      "ley": "Artículo 412.2 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Están dispensados de la obligación general de declarar como testigos contra el procesado, entre otros:",
+      "options": {
+        "a": "Los testigos presenciales del hecho delictivo, sin excepción",
+        "b": "Los parientes en línea directa ascendente y descendente, el cónyuge o persona unida por análoga relación, y los hermanos consanguíneos o uterinos",
+        "c": "Los vecinos del procesado sin relación de parentesco",
+        "d": "Cualquier compañero de trabajo del procesado"
+      },
+      "correct": "b",
+      "explicacion": "Están dispensados de declarar los parientes del procesado en línea directa ascendente y descendente, su cónyuge o persona unida a él por análoga relación de afectividad, sus hermanos consanguíneos o uterinos y los colaterales consanguíneos hasta el segundo grado civil, debiendo el Juez advertirles de este derecho.",
+      "ley": "Artículo 416 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Señale en qué caso NO se aplica la dispensa de declarar a favor de los parientes del procesado:",
+      "options": {
+        "a": "Cuando el delito sea de escasa gravedad y no exista víctima identificada",
+        "b": "Cuando el testigo tenga atribuida la representación legal o guarda de hecho de la víctima menor de edad",
+        "c": "Cuando el testigo sea menor de edad y la víctima también lo sea",
+        "d": "Cuando el testigo nunca haya residido con el procesado"
+      },
+      "correct": "b",
+      "explicacion": "La dispensa de declarar no resulta aplicable, entre otros supuestos, cuando el testigo tenga atribuida la representación legal o guarda de hecho de la víctima menor de edad o con discapacidad necesitada de especial protección, ni cuando se trate de un delito grave y el testigo, siendo mayor de edad, declare sobre hechos cometidos contra una víctima menor o con discapacidad.",
+      "ley": "Artículo 416 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. No podrán ser obligados a declarar como testigos, entre otros:",
+      "options": {
+        "a": "Los funcionarios de Policía Judicial respecto de cualquier diligencia practicada",
+        "b": "Los abogados de la acusación particular sin excepción",
+        "c": "Los eclesiásticos y ministros de cultos disidentes, sobre los hechos revelados en el ejercicio de su ministerio",
+        "d": "Cualquier testigo que alegue desconocimiento de los hechos"
+      },
+      "correct": "c",
+      "explicacion": "No pueden ser obligados a declarar como testigos los eclesiásticos y ministros de cultos disidentes respecto de los hechos revelados en el ejercicio de su ministerio, los funcionarios públicos cuando no puedan declarar sin violar el secreto al que están obligados por su cargo, y los incapacitados física o moralmente.",
+      "ley": "Artículo 417 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Quien sin estar impedido no concurriere al primer llamamiento judicial como testigo incurrirá en multa de:",
+      "options": {
+        "a": "5.000 a 20.000 euros",
+        "b": "1.000 a 10.000 euros",
+        "c": "50 a 200 euros",
+        "d": "200 a 5.000 euros"
+      },
+      "correct": "d",
+      "explicacion": "Quien, sin estar impedido ni comprendido en las exenciones legales, no concurra al primer llamamiento judicial o se resista a declarar lo que sepa, incurrirá en multa de 200 a 5.000 euros, pudiendo además ser conducido por los agentes de la autoridad y perseguido por el delito de obstrucción a la justicia o de desobediencia grave.",
+      "ley": "Artículo 420 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los testigos mayores de edad penal, al presentarse a declarar, deberán:",
+      "options": {
+        "a": "Prestar juramento o promesa de decir todo lo que supieren respecto a lo preguntado, siendo informados de la obligación de ser veraces",
+        "b": "Firmar una renuncia previa a cualquier derecho procesal",
+        "c": "Aportar necesariamente prueba documental que respalde su testimonio",
+        "d": "Acreditar formación jurídica específica antes de declarar"
+      },
+      "correct": "a",
+      "explicacion": "Los testigos mayores de edad penal deben prestar juramento o promesa de decir todo lo que sepan sobre lo que se les pregunte, debiendo el Juez informarles en lenguaje claro y comprensible de su obligación de ser veraces y de la posibilidad de incurrir en falso testimonio, pudiendo además las víctimas hacerse acompañar por su representante legal y una persona de su elección.",
+      "ley": "Artículo 433 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 9. Derecho Procesal Penal. El juramento que prestan los testigos se realizará:",
+      "options": {
+        "a": "En nombre de Dios, prestándose con arreglo a la religión del testigo",
+        "b": "Únicamente ante un notario, nunca ante el Juez",
+        "c": "Siempre en nombre de Dios, con independencia de la religión del testigo",
+        "d": "Por escrito, sin posibilidad de hacerlo de forma oral"
+      },
+      "correct": "a",
+      "explicacion": "El juramento se presta en nombre de Dios, debiendo los testigos prestarlo con arreglo a las prescripciones de su propia religión, lo que permite adaptar la fórmula a las distintas creencias.",
+      "ley": "Artículo 434 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. Los testigos declararán, conforme al artículo 435 de la Ley de Enjuiciamiento Criminal:",
+      "options": {
+        "a": "Únicamente por escrito, sin comparecencia personal",
+        "b": "Separada y secretamente, a presencia del Juez instructor y del Letrado de la Administración de Justicia",
+        "c": "En presencia obligatoria de todas las partes personadas, sin excepción",
+        "d": "Todos juntos en un mismo acto, para confrontar sus versiones"
+      },
+      "correct": "b",
+      "explicacion": "Los testigos deben declarar de forma separada y secreta, a presencia del Juez instructor y del Letrado de la Administración de Justicia, evitando así la posible contaminación o influencia entre los distintos testimonios.",
+      "ley": "Artículo 435 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Tras finalizar su declaración, el testigo que incumpla la obligación de comunicar sus cambios de domicilio o de comparecer de nuevo cuando se le cite podrá ser castigado con una multa de:",
+      "options": {
+        "a": "5.000 a 10.000 euros",
+        "b": "1.000 a 5.000 euros",
+        "c": "100 a 500 euros",
+        "d": "200 a 1.000 euros"
+      },
+      "correct": "d",
+      "explicacion": "Terminada la declaración, se advierte al testigo de su obligación de comparecer de nuevo cuando sea citado y de comunicar los cambios de domicilio, bajo apercibimiento de multa de 200 a 1.000 euros en caso de incumplimiento, sin perjuicio de la responsabilidad criminal en que pudiera incurrir.",
+      "ley": "Artículo 446 de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 9. Derecho Procesal Penal. Cuando un menor de catorce años deba intervenir como testigo en la instrucción de determinados delitos graves, la autoridad judicial:",
+      "options": {
+        "a": "Acordará en todo caso practicar la audiencia del menor como prueba preconstituida, con todas las garantías de la prueba en el juicio oral",
+        "b": "Solo podrá recabar su testimonio mediante careo con el investigado",
+        "c": "Prescindirá siempre de su testimonio por su corta edad",
+        "d": "Le exigirá prestar juramento en los mismos términos que a un adulto"
+      },
+      "correct": "a",
+      "explicacion": "Cuando un menor de catorce años o una persona con discapacidad necesitada de especial protección deba intervenir como testigo en la instrucción de determinados delitos graves, la autoridad judicial acordará en todo caso practicar su audiencia como prueba preconstituida, con todas las garantías de la prueba en juicio oral y los apoyos necesarios de accesibilidad.",
+      "ley": "Artículo 449 ter de la Ley de Enjuiciamiento Criminal"
+    },
+    {
+      "id": "tema_09_test_06_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 9. Derecho Procesal Penal. El Juez instructor podrá habilitar a los agentes de policía para:",
+      "options": {
+        "a": "Dictar sentencia en sustitución del Tribunal competente",
+        "b": "Dispensar a los testigos del deber de declarar",
+        "c": "Decretar la prisión provisional de los procesados sin intervención judicial",
+        "d": "Practicar las diligencias de citación verbal o escrita de testigos, si lo considera conveniente"
+      },
+      "correct": "d",
+      "explicacion": "La ley permite al Juez instructor habilitar a los agentes de policía para que practiquen las diligencias de citación verbal o escrita de los testigos cuando lo estime conveniente para la buena marcha de la instrucción.",
+      "ley": "Artículo 431 de la Ley de Enjuiciamiento Criminal"
+    }
+  ]
+}
