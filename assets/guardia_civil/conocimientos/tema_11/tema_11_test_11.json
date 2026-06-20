@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 11",
+  "preguntas": [
+    {
+      "id": "tema_11_test_11_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las autoridades autonómicas de protección de datos podrán ejercer las funciones y potestades de los artículos 57 y 58 del RGPD cuando se refieran a:",
+      "options": {
+        "a": "Tratamientos de los que sean responsables entidades del sector público de la correspondiente Comunidad Autónoma o de las Entidades Locales incluidas en su ámbito territorial",
+        "b": "Tratamientos de datos sanitarios, con independencia de quién sea el responsable",
+        "c": "Cualquier tratamiento realizado en territorio español, sin restricción competencial específica",
+        "d": "Solo tratamientos realizados por empresas privadas con sede social en dicha Comunidad Autónoma"
+      },
+      "correct": "a",
+      "explicacion": "Las autoridades autonómicas de protección de datos personales podrán ejercer las funciones y potestades de los artículos 57 y 58 del RGPD cuando se refieran a tratamientos de los que sean responsables las entidades integrantes del sector público de la correspondiente Comunidad Autónoma o de las Entidades Locales incluidas en su ámbito territorial, o quienes presten servicios mediante gestión directa o indirecta.",
+      "ley": "Artículo 57.1.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Las autoridades autonómicas también pueden ejercer sus competencias en tratamientos llevados a cabo por:",
+      "options": {
+        "a": "Cualquier persona física que actúe en su domicilio sin relación con función pública alguna",
+        "b": "Únicamente las Universidades públicas de cada Comunidad Autónoma",
+        "c": "Personas físicas o jurídicas para el ejercicio de funciones públicas en materias que sean competencia de la correspondiente Administración Autonómica o Local",
+        "d": "Entidades extranjeras con presencia comercial mínima en territorio nacional"
+      },
+      "correct": "c",
+      "explicacion": "Las autoridades autonómicas de protección de datos podrán ejercer sus competencias cuando se refieran a tratamientos llevados a cabo por personas físicas o jurídicas para el ejercicio de las funciones públicas en materias que sean competencia de la correspondiente Administración Autonómica o Local.",
+      "ley": "Artículo 57.1.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las autoridades autonómicas de protección de datos podrán dictar, en relación con los tratamientos sometidos a su competencia, circulares con:",
+      "options": {
+        "a": "Necesidad de aprobación previa por la propia AEPD en cada caso",
+        "b": "El alcance y los efectos establecidos para la AEPD en el artículo 55 de la LOPD",
+        "c": "Efectos exclusivamente orientativos, sin obligatoriedad alguna",
+        "d": "Alcance limitado solo a empresas con menos de cinco empleados"
+      },
+      "correct": "b",
+      "explicacion": "Las autoridades autonómicas de protección de datos podrán dictar, en relación con los tratamientos sometidos a su competencia, circulares con el alcance y los efectos establecidos para la Agencia Española de Protección de Datos en el artículo 55 de la LOPD.",
+      "ley": "Artículo 57.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La Presidencia de la AEPD convocará, por iniciativa propia o cuando lo solicite otra autoridad, a las autoridades autonómicas de protección de datos para contribuir a la aplicación coherente del RGPD y la LOPD, celebrándose en todo caso:",
+      "options": {
+        "a": "Reuniones semestrales de cooperación",
+        "b": "Reuniones solo si lo solicitan al menos tres Comunidades Autónomas conjuntamente",
+        "c": "Reuniones únicamente anuales, sin posibilidad de mayor frecuencia",
+        "d": "Reuniones cada cuatro años, coincidiendo con los nombramientos de las presidencias"
+      },
+      "correct": "a",
+      "explicacion": "La Presidencia de la AEPD convocará, por iniciativa propia o cuando lo solicite otra autoridad, a las autoridades autonómicas de protección de datos para contribuir a la aplicación coherente del RGPD y la LOPD. En todo caso, se celebrarán reuniones semestrales de cooperación.",
+      "ley": "Artículo 58 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La Presidencia de la AEPD y las autoridades autonómicas de protección de datos podrán solicitar y deberán intercambiarse mutuamente la información necesaria para el cumplimiento de sus funciones, en particular, la relativa a:",
+      "options": {
+        "a": "Las relaciones laborales internas de cada autoridad de control",
+        "b": "La actividad del Comité Europeo de Protección de Datos",
+        "c": "Exclusivamente las cuestiones presupuestarias propias de cada autoridad",
+        "d": "Información que no afecte a procedimientos sancionadores en curso"
+      },
+      "correct": "b",
+      "explicacion": "La Presidencia de la AEPD y las autoridades autonómicas de protección de datos podrán solicitar y deberán intercambiarse mutuamente la información necesaria para el cumplimiento de sus funciones y, en particular, la relativa a la actividad del Comité Europeo de Protección de Datos. Asimismo, podrán constituir grupos de trabajo para tratar asuntos específicos de interés común.",
+      "ley": "Artículo 58 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando la Presidencia de la AEPD considere que un tratamiento competencia de las autoridades autonómicas vulnera el RGPD, podrá requerirlas a que adopten las medidas necesarias para su cesación en el plazo de:",
+      "options": {
+        "a": "Seis meses, plazo general del procedimiento sancionador",
+        "b": "Un mes",
+        "c": "Quince días hábiles, sin posibilidad de prórroga",
+        "d": "Tres meses, equivalente al plazo de admisión a trámite de reclamaciones"
+      },
+      "correct": "b",
+      "explicacion": "Cuando la Presidencia de la AEPD considere que un tratamiento llevado a cabo en materias que fueran competencia de las autoridades autonómicas de protección de datos vulnera el RGPD, podrá requerirlas a que adopten, en el plazo de un mes, las medidas necesarias para su cesación.",
+      "ley": "Artículo 59 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Si la autoridad autonómica no atendiere en plazo el requerimiento de cesación de un tratamiento ilícito formulado por la AEPD, o las medidas adoptadas no supusieran tal cesación:",
+      "options": {
+        "a": "La AEPD podrá ejercer las acciones que procedan ante la jurisdicción contencioso-administrativa",
+        "b": "Se suspende la autonomía financiera de la Comunidad Autónoma afectada",
+        "c": "La AEPD asumirá automáticamente la competencia sobre el tratamiento, sin más trámite",
+        "d": "El Gobierno destituirá automáticamente a la autoridad autonómica incumplidora"
+      },
+      "correct": "a",
+      "explicacion": "Si la autoridad autonómica no atendiere en plazo el requerimiento o las medidas adoptadas no supusiesen la cesación en el tratamiento ilícito, la AEPD podrá ejercer las acciones que procedan ante la jurisdicción contencioso-administrativa.",
+      "ley": "Artículo 59 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando las autoridades autonómicas, como autoridades competentes, deban someter su proyecto de decisión al Comité Europeo de Protección de Datos o le soliciten el examen de un asunto, todas las comunicaciones se practicarán:",
+      "options": {
+        "a": "Mediante notificación directa al país de la presidencia rotatoria de la Unión Europea",
+        "b": "Directamente entre la autoridad autonómica y el Comité Europeo, sin intermediación estatal",
+        "c": "Por conducto de la Agencia Española de Protección de Datos, que será asistida por un representante de la autoridad autonómica en su intervención ante el Comité",
+        "d": "A través del Ministerio de Asuntos Exteriores, en su función de representación internacional"
+      },
+      "correct": "c",
+      "explicacion": "Se practicarán por conducto de la AEPD todas las comunicaciones entre el Comité Europeo de Protección de Datos y las autoridades autonómicas de protección de datos cuando estas, como autoridades competentes, deban someter su proyecto de decisión al citado Comité o le soliciten el examen de un asunto conforme al artículo 64 del RGPD. La AEPD será asistida por un representante de la autoridad autonómica en su intervención ante el Comité.",
+      "ley": "Artículo 60 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Las autoridades autonómicas de protección de datos ostentarán la condición de autoridad de control principal o interesada en el procedimiento del artículo 60 del RGPD cuando se refiera a un tratamiento previsto en el artículo 57 de la LOPD, salvo que:",
+      "options": {
+        "a": "El tratamiento afecte a menos de cien personas en el ámbito autonómico",
+        "b": "Hayan transcurrido más de dos años desde el inicio del tratamiento sin reclamaciones",
+        "c": "El responsable o encargado desarrollase significativamente tratamientos de la misma naturaleza en el resto del territorio español",
+        "d": "El responsable sea una entidad pública estatal, en cuyo caso siempre interviene la AEPD"
+      },
+      "correct": "c",
+      "explicacion": "Las autoridades autonómicas de protección de datos ostentarán la condición de autoridad de control principal o interesada en el procedimiento establecido por el artículo 60 del RGPD cuando se refiera a un tratamiento previsto en el artículo 57 de la LOPD que se llevara a cabo por un responsable o encargado, salvo que desarrollase significativamente tratamientos de la misma naturaleza en el resto del territorio español.",
+      "ley": "Artículo 61.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En los procedimientos del artículo 60 del RGPD donde corresponde intervenir a las autoridades autonómicas, estas deberán:",
+      "options": {
+        "a": "Informar a la AEPD sobre su desarrollo en los supuestos en que deba aplicarse el mecanismo de coherencia",
+        "b": "Limitarse a recibir notificaciones, sin facultad de intervención activa",
+        "c": "Resolver de forma definitiva sin posibilidad de revisión por ningún otro organismo",
+        "d": "Mantener absoluto secreto sobre el procedimiento ante cualquier autoridad estatal"
+      },
+      "correct": "a",
+      "explicacion": "Corresponderá a las autoridades autonómicas intervenir en los procedimientos establecidos en el artículo 60 del RGPD cuando ostenten la condición de autoridad de control principal o interesada, informando a la AEPD sobre su desarrollo en los supuestos en que deba aplicarse el mecanismo de coherencia.",
+      "ley": "Artículo 61.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando las autoridades autonómicas, como autoridades principales, deban solicitar al Comité Europeo de Protección de Datos la emisión de una decisión vinculante según el artículo 65 del RGPD, las comunicaciones se practicarán:",
+      "options": {
+        "a": "A través del Tribunal Constitucional, por afectar a un derecho fundamental",
+        "b": "Mediante el Consejo de Estado, como órgano consultivo supremo del Estado",
+        "c": "Directamente por la autoridad autonómica, sin intervención de la AEPD",
+        "d": "Por conducto de la Agencia Española de Protección de Datos"
+      },
+      "correct": "d",
+      "explicacion": "Se practicarán por conducto de la AEPD todas las comunicaciones entre el Comité Europeo de Protección de Datos y las autoridades autonómicas de protección de datos cuando estas, como autoridades principales, deban solicitar del citado Comité la emisión de una decisión vinculante según lo previsto en el artículo 65 del RGPD.",
+      "ley": "Artículo 62.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Las autoridades autonómicas que tengan la condición de autoridad interesada no principal en un procedimiento del artículo 65 del RGPD, cuando el asunto sea remitido al Comité Europeo de Protección de Datos:",
+      "options": {
+        "a": "Informarán a la AEPD, facilitándole la documentación e información necesarias para su tramitación, siendo la AEPD asistida por un representante de la autoridad autonómica interesada",
+        "b": "Asumen automáticamente la condición de autoridad principal en sustitución de la inicial",
+        "c": "Quedan completamente excluidas de toda participación en dicho procedimiento desde ese momento",
+        "d": "Deben resolver de manera autónoma el asunto, sin remitirlo realmente al Comité Europeo"
+      },
+      "correct": "a",
+      "explicacion": "Las autoridades autonómicas de protección de datos que tengan la condición de autoridad interesada no principal en un procedimiento de los previstos en el artículo 65 del RGPD informarán a la AEPD cuando el asunto sea remitido al Comité Europeo de Protección de Datos, facilitándole la documentación e información necesarias. La AEPD será asistida por un representante de la autoridad autonómica interesada en su intervención ante el Comité.",
+      "ley": "Artículo 62.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los tratamientos que se encuentren expresamente previstos en los respectivos Estatutos de Autonomía pueden también determinar la competencia de:",
+      "options": {
+        "a": "Únicamente el Tribunal Constitucional para resolver cualquier conflicto",
+        "b": "El Consejo de Estado, en su función consultiva sobre normas autonómicas",
+        "c": "El Defensor del Pueblo, como garante general de derechos fundamentales",
+        "d": "Las autoridades autonómicas de protección de datos"
+      },
+      "correct": "d",
+      "explicacion": "Las autoridades autonómicas de protección de datos personales podrán ejercer las funciones y potestades de los artículos 57 y 58 del RGPD cuando se refieran, entre otros supuestos, a tratamientos que se encuentren expresamente previstos, en su caso, en los respectivos Estatutos de Autonomía.",
+      "ley": "Artículo 57.1.c) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las autoridades autonómicas de protección de datos ejercen sus competencias respecto de tratamientos llevados a cabo por entidades que presten servicios a través de:",
+      "options": {
+        "a": "Solo gestión directa, excluyendo formas de gestión indirecta como concesión o sociedad mercantil",
+        "b": "Cualquier forma de gestión directa o indirecta",
+        "c": "Únicamente fórmulas asociativas entre Administraciones, sin gestión empresarial",
+        "d": "Exclusivamente cuando la prestación se efectúe en régimen de monopolio público"
+      },
+      "correct": "b",
+      "explicacion": "Las autoridades autonómicas de protección de datos podrán ejercer sus competencias cuando se refieran a tratamientos de los que sean responsables las entidades integrantes del sector público de la correspondiente Comunidad Autónoma o de las Entidades Locales o quienes presten servicios a través de cualquier forma de gestión directa o indirecta.",
+      "ley": "Artículo 57.1.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Señale cuál de las siguientes afirmaciones sobre la cooperación institucional entre la AEPD y las autoridades autonómicas NO es correcta:",
+      "options": {
+        "a": "La Presidencia de la AEPD puede convocar reuniones por iniciativa propia o a solicitud de otra autoridad",
+        "b": "Pueden constituirse grupos de trabajo para asuntos específicos de interés común",
+        "c": "Deberán celebrarse al menos reuniones semestrales de cooperación",
+        "d": "Las reuniones de cooperación entre la AEPD y las autoridades autonómicas son meramente potestativas y nunca obligatorias, dependiendo exclusivamente de la voluntad de cada autoridad"
+      },
+      "correct": "d",
+      "explicacion": "Las reuniones de cooperación no son meramente potestativas: la ley establece que en todo caso se celebrarán reuniones semestrales de cooperación, lo que constituye una obligación mínima de periodicidad, sin perjuicio de que además puedan convocarse otras reuniones por iniciativa propia de la Presidencia o a solicitud de cualquier autoridad.",
+      "ley": "Artículo 58 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El requerimiento de la Presidencia de la AEPD a una autoridad autonómica para que cese un tratamiento contrario al RGPD solo procede cuando dicho tratamiento sea:",
+      "options": {
+        "a": "Exclusivamente referido a categorías especiales de datos personales",
+        "b": "Realizado por cualquier entidad, con independencia de quién sea la autoridad competente sobre el mismo",
+        "c": "Llevado a cabo en materias que fueran competencia de las autoridades autonómicas de protección de datos",
+        "d": "Objeto previamente de una sanción firme dictada por la propia autoridad autonómica"
+      },
+      "correct": "c",
+      "explicacion": "Cuando la Presidencia de la AEPD considere que un tratamiento llevado a cabo en materias que fueran competencia de las autoridades autonómicas de protección de datos vulnera el RGPD podrá requerirlas a que adopten las medidas necesarias para su cesación, exigiéndose precisamente que se trate de una materia competencia de dichas autoridades autonómicas.",
+      "ley": "Artículo 59 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En el procedimiento previsto en el artículo 60 del RGPD para tratamientos transfronterizos, la asistencia que presta la AEPD a la autoridad autonómica consiste en:",
+      "options": {
+        "a": "Solo aportar financiación al procedimiento, sin participación técnica alguna",
+        "b": "Sustituir completamente a la autoridad autonómica en la toma de todas las decisiones",
+        "c": "Vetar cualquier decisión que la autoridad autonómica pretenda adoptar sin justificación",
+        "d": "Ser el conducto por el que se practican las comunicaciones con el Comité Europeo de Protección de Datos, además de estar asistida por un representante de la autoridad autonómica"
+      },
+      "correct": "d",
+      "explicacion": "Se practicarán por conducto de la AEPD las comunicaciones entre el Comité Europeo de Protección de Datos y las autoridades autonómicas cuando estas deban someter su proyecto de decisión al Comité o soliciten su examen. En estos casos, la AEPD será asistida por un representante de la Autoridad autonómica en su intervención ante el Comité, reflejando un mecanismo de cooperación mutua.",
+      "ley": "Artículo 60 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las autoridades autonómicas de protección de datos se rigen, además de la propia normativa autonómica de creación, por:",
+      "options": {
+        "a": "El Derecho Internacional Público, con preferencia sobre la legislación nacional",
+        "b": "Las disposiciones específicas del Ministerio de Hacienda en materia presupuestaria únicamente",
+        "c": "Exclusivamente normas autonómicas, sin sujeción a normativa estatal ni europea",
+        "d": "El Reglamento (UE) 2016/679 y la LOPD en el ejercicio de las funciones y potestades de los artículos 57 y 58 del RGPD que les correspondan"
+      },
+      "correct": "d",
+      "explicacion": "Las autoridades autonómicas de protección de datos podrán ejercer, de acuerdo con la normativa autonómica que las crea, las funciones y potestades establecidas en los artículos 57 y 58 del Reglamento (UE) 2016/679, dentro del marco competencial que les fija la LOPD en su artículo 57.",
+      "ley": "Artículo 57.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando un responsable o encargado del tratamiento, sometido a la competencia de una autoridad autonómica conforme al artículo 57 de la LOPD, desarrolle significativamente tratamientos de la misma naturaleza en el resto del territorio español:",
+      "options": {
+        "a": "Mantiene en todo caso su condición de autoridad principal, sin excepción posible",
+        "b": "El asunto queda definitivamente excluido de cualquier mecanismo de coherencia europeo",
+        "c": "La autoridad autonómica no ostentará la condición de autoridad de control principal en el procedimiento del artículo 60 del RGPD",
+        "d": "Pasa automáticamente a ser competencia exclusiva de las autoridades de otras Comunidades Autónomas implicadas"
+      },
+      "correct": "c",
+      "explicacion": "Las autoridades autonómicas ostentarán la condición de autoridad de control principal o interesada en el procedimiento del artículo 60 del RGPD, salvo que el responsable o encargado desarrollase significativamente tratamientos de la misma naturaleza en el resto del territorio español, en cuyo caso esa condición de autoridad autonómica principal no se mantiene en los mismos términos.",
+      "ley": "Artículo 61.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_11_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La normativa autonómica que crea las autoridades de protección de datos en cada Comunidad Autónoma:",
+      "options": {
+        "a": "Debe ser idéntica en su contenido para todas las Comunidades Autónomas, sin margen de configuración propia",
+        "b": "Determina el ámbito y las condiciones concretas de ejercicio de las competencias previstas en el artículo 57 de la LOPD para esa autoridad autonómica",
+        "c": "Carece de cualquier relevancia jurídica práctica frente a la normativa estatal",
+        "d": "Solo puede regular aspectos puramente organizativos internos, sin atribución de competencias sustantivas"
+      },
+      "correct": "b",
+      "explicacion": "Las autoridades autonómicas de protección de datos podrán ejercer las funciones y potestades establecidas en los artículos 57 y 58 del RGPD de acuerdo con la normativa autonómica, lo que implica que dicha normativa de creación es la que determina y concreta el ámbito y condiciones de ejercicio de esas competencias dentro del marco general fijado por la LOPD.",
+      "ley": "Artículo 57.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

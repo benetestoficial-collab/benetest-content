@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_10_test_04_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los interesados en un procedimiento administrativo tienen, entre otros, el derecho a:",
+      "options": {
+        "a": "Exigir que la resolución se dicte dentro de los tres días siguientes a su solicitud",
+        "b": "Designar al instructor del procedimiento entre los funcionarios del órgano competente",
+        "c": "Paralizar el procedimiento cuando lo consideren conveniente para sus intereses",
+        "d": "Conocer en cualquier momento el estado de la tramitación y acceder y obtener copia de los documentos contenidos en el procedimiento"
+      },
+      "correct": "d",
+      "explicacion": "Entre los derechos de los interesados en el procedimiento administrativo se incluyen: conocer en cualquier momento el estado de la tramitación, el sentido del silencio, el órgano competente y los actos de trámite dictados; así como acceder y obtener copia de los documentos contenidos en el procedimiento.",
+      "ley": "Artículo 53.1.a) de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los interesados en un procedimiento administrativo tienen el derecho a no presentar documentos originales, salvo que:",
+      "options": {
+        "a": "El importe económico del expediente supere cincuenta mil euros",
+        "b": "Así lo solicite el instructor del procedimiento de forma motivada",
+        "c": "La Administración lo considere conveniente en cualquier momento del procedimiento",
+        "d": "La normativa reguladora aplicable establezca de manera excepcional lo contrario, teniendo en tal caso derecho a obtener copia autenticada"
+      },
+      "correct": "d",
+      "explicacion": "Los interesados tienen derecho a no presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario. En caso de tener que presentar un original, tienen derecho a obtener una copia autenticada del mismo.",
+      "ley": "Artículo 53.1.c) de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En los procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tienen el derecho a:",
+      "options": {
+        "a": "Designar libremente al instructor del expediente sancionador",
+        "b": "Obtener automáticamente la suspensión del procedimiento durante seis meses",
+        "c": "La presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario",
+        "d": "Impugnar la competencia de la Administración ante la jurisdicción ordinaria antes de la incoación"
+      },
+      "correct": "c",
+      "explicacion": "En procedimientos sancionadores, los presuntos responsables tienen, además de los derechos generales, el derecho a ser notificados de los hechos imputados, las infracciones y sanciones posibles, la identidad del instructor y la autoridad sancionadora, así como a la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.",
+      "ley": "Artículo 53.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las medidas provisionales adoptadas antes de la iniciación del procedimiento administrativo deberán ser confirmadas, modificadas o levantadas:",
+      "options": {
+        "a": "Dentro de los tres días hábiles siguientes a la adopción de la medida",
+        "b": "En el plazo de seis meses desde su adopción, mediante resolución motivada",
+        "c": "En el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción",
+        "d": "Solo con carácter definitivo al dictarse la resolución final del procedimiento"
+      },
+      "correct": "c",
+      "explicacion": "Las medidas provisionales adoptadas antes de la iniciación del procedimiento, en casos de urgencia inaplazable, deben ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción. Si no se inicia el procedimiento en ese plazo o el acuerdo de iniciación no contiene pronunciamiento sobre ellas, quedarán sin efecto.",
+      "ley": "Artículo 56.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. No se podrán adoptar medidas provisionales que:",
+      "options": {
+        "a": "Sean propuestas por la parte interesada, ya que deben adoptarse siempre de oficio",
+        "b": "Puedan causar perjuicio de difícil o imposible reparación a los interesados, o que impliquen violación de derechos amparados por las leyes",
+        "c": "Afecten a personas jurídicas de cualquier naturaleza",
+        "d": "Tengan carácter económico, aunque sean reversibles"
+      },
+      "correct": "b",
+      "explicacion": "Las medidas provisionales no pueden causar perjuicio de difícil o imposible reparación a los interesados ni implicar violación de derechos amparados por las leyes. Además, deben respetar los principios de proporcionalidad, efectividad y menor onerosidad.",
+      "ley": "Artículo 56.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los procedimientos de naturaleza sancionadora se iniciarán:",
+      "options": {
+        "a": "A solicitud del denunciante, que tendrá la condición de interesado en todo caso",
+        "b": "De oficio o a solicitud del interesado, indistintamente",
+        "c": "Únicamente a petición del Ministerio Fiscal, con independencia de la materia",
+        "d": "Siempre de oficio por acuerdo del órgano competente, estableciéndose la debida separación entre la fase instructora y la sancionadora, encomendada a órganos distintos"
+      },
+      "correct": "d",
+      "explicacion": "Los procedimientos de naturaleza sancionadora se iniciarán siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos. En ningún caso podrá imponerse sanción sin haberse tramitado el oportuno procedimiento.",
+      "ley": "Artículo 63.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La denuncia en un procedimiento administrativo:",
+      "options": {
+        "a": "Vincula al órgano competente para iniciar el procedimiento en todo caso",
+        "b": "Solo puede ser presentada por quienes tengan una obligación legal de denunciar",
+        "c": "Confiere automáticamente la condición de interesado con todos sus derechos",
+        "d": "Es el acto por el que cualquier persona pone en conocimiento de un órgano administrativo la existencia de un hecho que pudiera justificar la iniciación de oficio de un procedimiento; la presentación de una denuncia no confiere por sí sola la condición de interesado"
+      },
+      "correct": "d",
+      "explicacion": "La denuncia es el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo. La presentación de una denuncia no confiere por sí sola la condición de interesado en el procedimiento.",
+      "ley": "Artículos 62.1 y 62.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El derecho a reclamar responsabilidad patrimonial de la Administración prescribirá en el plazo de:",
+      "options": {
+        "a": "Cuatro años desde que se produjo el daño, en todo caso",
+        "b": "Dos años desde que el interesado tuvo conocimiento del daño",
+        "c": "Un año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo, computándose en los daños físicos o psíquicos desde la curación o la determinación del alcance de las secuelas",
+        "d": "Seis meses desde que la resolución causante del daño adquirió firmeza"
+      },
+      "correct": "c",
+      "explicacion": "El derecho a reclamar responsabilidad patrimonial prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo. En caso de daños físicos o psíquicos a las personas, el plazo se computará desde la curación o la determinación del alcance de las secuelas.",
+      "ley": "Artículo 67.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Si la solicitud de iniciación no reúne los requisitos legales, se requerirá al interesado para que en un plazo de diez días subsane la falta. Si no lo hiciera:",
+      "options": {
+        "a": "Se le tendrá por desistido de su petición, previa resolución que deberá dictarse en los términos del artículo 21",
+        "b": "El procedimiento continuará de oficio sin posibilidad de subsanación posterior",
+        "c": "Se le impondrá una multa coercitiva por incumplimiento de sus obligaciones",
+        "d": "Se declarará la caducidad automática sin necesidad de resolución"
+      },
+      "correct": "a",
+      "explicacion": "Si la solicitud no reúne los requisitos legales, se requerirá al interesado para que en un plazo de diez días subsane la falta o acompañe los documentos preceptivos, con indicación de que si no lo hiciera se le tendrá por desistido de su petición, previa resolución dictada conforme al artículo 21.",
+      "ley": "Artículo 68.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La declaración responsable es el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad:",
+      "options": {
+        "a": "Que renuncia al derecho de recurso contra la resolución que se dicte en el procedimiento",
+        "b": "Que cumple con los requisitos legales para obtener o ejercer un derecho o facultad, que dispone de la documentación acreditativa, que la pondrá a disposición de la Administración cuando le sea requerida, y que mantendrá el cumplimiento de dichas obligaciones",
+        "c": "Que acepta la responsabilidad solidaria con otros interesados en el mismo procedimiento",
+        "d": "Que delega en la Administración la comprobación de sus condiciones personales y profesionales"
+      },
+      "correct": "b",
+      "explicacion": "La declaración responsable es el documento en que el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos establecidos en la normativa vigente para obtener o ejercer un derecho o facultad, que dispone de la documentación acreditativa, que la pondrá a disposición de la Administración cuando le sea requerida, y que se compromete a mantener el cumplimiento de dichas obligaciones.",
+      "ley": "Artículo 69.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La comunicación en el ámbito del procedimiento administrativo común es el documento mediante el que:",
+      "options": {
+        "a": "La Administración notifica al interesado el inicio del procedimiento sancionador",
+        "b": "Los interesados ponen en conocimiento de la Administración competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho",
+        "c": "El interesado renuncia expresamente a los derechos reconocidos en la ley",
+        "d": "Los órganos administrativos se intercambian información entre sí con carácter reservado"
+      },
+      "correct": "b",
+      "explicacion": "La comunicación es el documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.",
+      "ley": "Artículo 69.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho o el inicio de una actividad:",
+      "options": {
+        "a": "Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección de las Administraciones Públicas",
+        "b": "Únicamente una vez dictada la resolución administrativa que las admita expresamente",
+        "c": "Desde que la Administración emita la correspondiente certificación de conformidad",
+        "d": "Solo tras su verificación por la Administración, que dispondrá de un plazo de treinta días para ello"
+      },
+      "correct": "a",
+      "explicacion": "Las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho o el inicio de una actividad desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas.",
+      "ley": "Artículo 69.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La inexactitud, falsedad u omisión esencial en una declaración responsable determinará:",
+      "options": {
+        "a": "La pérdida exclusiva de la posibilidad de presentar nuevas declaraciones responsables en ese año",
+        "b": "La suspensión temporal del procedimiento durante noventa días",
+        "c": "La imposibilidad de continuar con el ejercicio del derecho o actividad, sin perjuicio de las responsabilidades penales, civiles o administrativas, y la posibilidad de imponer la obligación de restituir la situación jurídica al momento previo",
+        "d": "Únicamente la obligación de presentar la documentación correcta, sin más consecuencias"
+      },
+      "correct": "c",
+      "explicacion": "La inexactitud, falsedad u omisión esencial en una declaración responsable o comunicación determinará la imposibilidad de continuar con el ejercicio del derecho o actividad, sin perjuicio de responsabilidades penales, civiles o administrativas. La resolución de la Administración podrá determinar la obligación de restituir la situación al momento previo y la imposibilidad de instar nuevo procedimiento con el mismo objeto durante el período fijado por la ley.",
+      "ley": "Artículo 69.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Para el inicio de una misma actividad u obtención de un mismo derecho, la Administración podrá exigir:",
+      "options": {
+        "a": "Bien una declaración responsable, bien una comunicación, pero no ambas acumulativamente",
+        "b": "Ambas de forma simultánea, siempre que se justifique la necesidad de cada una",
+        "c": "Solo la declaración responsable, nunca la comunicación",
+        "d": "Cualquier número de comunicaciones y declaraciones que estime necesario"
+      },
+      "correct": "a",
+      "explicacion": "Únicamente será exigible, bien una declaración responsable, bien una comunicación para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho o facultad para su ejercicio, sin que sea posible la exigencia de ambas acumulativamente.",
+      "ley": "Artículo 69.6 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Se entiende por expediente administrativo:",
+      "options": {
+        "a": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla",
+        "b": "El registro de las actuaciones del órgano competente con independencia del procedimiento",
+        "c": "Solo la documentación escrita generada en el procedimiento, excluidos los actos de trámite",
+        "d": "La relación de interesados que intervienen en cada procedimiento administrativo"
+      },
+      "correct": "a",
+      "explicacion": "El expediente administrativo es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla. Los expedientes tendrán formato electrónico y se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos.",
+      "ley": "Artículo 70.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Contra el acuerdo de acumulación de procedimientos:",
+      "options": {
+        "a": "Cabrá recurso de alzada ante el superior jerárquico",
+        "b": "Solo cabrá recurso contencioso-administrativo ante la Sala de lo Contencioso",
+        "c": "Cabrá recurso potestativo de reposición",
+        "d": "No procederá recurso alguno"
+      },
+      "correct": "d",
+      "explicacion": "Contra el acuerdo de acumulación de procedimientos no procederá recurso alguno. Del mismo modo, tampoco cabe recurso contra el acuerdo que declare la aplicación de la tramitación de urgencia o la denegación de la ampliación de plazos.",
+      "ley": "Artículo 57 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las solicitudes de iniciación de un procedimiento administrativo deberán contener, entre otros datos:",
+      "options": {
+        "a": "Solo el nombre del interesado y la petición concreta, sin más requisitos formales",
+        "b": "La acreditación de la representación mediante escritura notarial en todo caso",
+        "c": "Nombre y apellidos del interesado, medio de notificación elegido, hechos y petición, lugar y fecha, firma o acreditación de voluntad, y órgano al que se dirigen con su código de identificación",
+        "d": "Únicamente el código de identificación del órgano y el texto de la solicitud"
+      },
+      "correct": "c",
+      "explicacion": "Las solicitudes deben contener: nombre y apellidos o razón social del interesado y representante si lo hubiera; identificación del medio electrónico o lugar físico para notificaciones; hechos, razones y petición con toda claridad; lugar y fecha; firma o acreditación de voluntad; y el órgano, centro o unidad administrativa a la que se dirige con su código de identificación.",
+      "ley": "Artículo 66.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la iniciación del procedimiento administrativo NO es correcta:",
+      "options": {
+        "a": "Los procedimientos sancionadores pueden iniciarse a solicitud de los particulares interesados que tengan condición de víctimas",
+        "b": "Los procedimientos pueden iniciarse de oficio o a solicitud del interesado",
+        "c": "La petición razonada de otro órgano no vincula al órgano competente para iniciar el procedimiento",
+        "d": "La iniciación de oficio puede producirse por propia iniciativa, orden superior, petición razonada de otros órganos o por denuncia"
+      },
+      "correct": "a",
+      "explicacion": "Los procedimientos de naturaleza sancionadora se inician siempre de oficio por acuerdo del órgano competente, nunca a solicitud de los particulares. La denuncia no confiere la condición de interesado ni obliga a iniciar el procedimiento. Los procedimientos no sancionadores sí pueden iniciarse de oficio o a solicitud del interesado.",
+      "ley": "Artículos 54 y 63 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El denunciante que haya participado en la comisión de una infracción y sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción:",
+      "options": {
+        "a": "Podrá solicitar recompensa económica por su colaboración con la Administración",
+        "b": "El órgano competente deberá eximir al denunciante del pago de la multa u otro tipo de sanción no pecuniaria, siempre que repare el perjuicio causado y hayan cesado en la participación",
+        "c": "Solo se beneficiará de la reducción si no ha tenido participación directa en la infracción",
+        "d": "Quedará exonerado de cualquier responsabilidad civil o penal además de la administrativa"
+      },
+      "correct": "b",
+      "explicacion": "El órgano competente para resolver deberá eximir al denunciante del pago de la multa u otro tipo de sanción no pecuniaria cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, siempre que no se dispusiera ya de elementos suficientes, se repare el perjuicio causado, el denunciante cese en la participación y no haya destruido pruebas.",
+      "ley": "Artículo 62.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_04_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Si alguno de los sujetos obligados a relacionarse electrónicamente presenta su solicitud de forma presencial, las Administraciones Públicas:",
+      "options": {
+        "a": "Admitirán la solicitud presencial con plena validez, sin necesidad de subsanación",
+        "b": "Le requerirán para que la subsane a través de su presentación electrónica, considerándose como fecha de presentación la de la subsanación",
+        "c": "Tramitarán la solicitud en papel durante los seis primeros meses",
+        "d": "Rechazarán la solicitud definitivamente sin posibilidad de nueva presentación"
+      },
+      "correct": "b",
+      "explicacion": "Si alguno de los sujetos obligados a relacionarse electrónicamente con la Administración presenta su solicitud presencialmente, las Administraciones Públicas le requerirán para que la subsane a través de su presentación electrónica, considerándose como fecha de presentación la de la subsanación electrónica.",
+      "ley": "Artículo 68.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+  ]
+}

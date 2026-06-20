@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 13",
+  "preguntas": [
+    {
+      "id": "tema_10_test_13_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La potestad sancionadora de las Administraciones Públicas se ejercerá cuando:",
+      "options": {
+        "a": "Exista precedente administrativo que justifique la imposición de la sanción",
+        "b": "La Administración lo estime conveniente para proteger el interés público sin necesidad de norma habilitante",
+        "c": "Así lo acuerde el órgano de gobierno correspondiente mediante reglamento",
+        "d": "Haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio"
+      },
+      "correct": "d",
+      "explicacion": "La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio y de acuerdo con lo establecido en esta Ley y en la Ley de Procedimiento Administrativo Común. El ejercicio de la potestad sancionadora corresponde a los órganos que la tengan expresamente atribuida por disposición legal o reglamentaria.",
+      "ley": "Artículo 25.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las disposiciones sancionadoras producirán efecto retroactivo cuando:",
+      "options": {
+        "a": "Nunca pueden tener efecto retroactivo, ni siquiera cuando favorezcan al infractor",
+        "b": "Favorezcan al presunto infractor o al infractor, tanto en la tipificación de la infracción como en la sanción y sus plazos de prescripción, incluso respecto de las sanciones pendientes de cumplimiento",
+        "c": "Solo se aplica retroactividad cuando la nueva norma reduce la cuantía de la sanción en más de un cincuenta por ciento",
+        "d": "La Administración lo considere oportuno por razones de equidad"
+      },
+      "correct": "b",
+      "explicacion": "Las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor, tanto en lo referido a la tipificación de la infracción como a la sanción y a sus plazos de prescripción, incluso respecto de las sanciones pendientes de cumplimiento al entrar en vigor la nueva disposición.",
+      "ley": "Artículo 26.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Solo constituyen infracciones administrativas las vulneraciones del ordenamiento jurídico:",
+      "options": {
+        "a": "Que hayan sido calificadas como tales por la jurisprudencia reiterada",
+        "b": "Que produzcan daños económicos cuantificables a la Administración o a terceros",
+        "c": "Establecidas tanto por ley como por reglamento, en igualdad de rango",
+        "d": "Previstas como tales infracciones por una Ley, siendo las normas definidoras de infracciones y sanciones no susceptibles de aplicación analógica"
+      },
+      "correct": "d",
+      "explicacion": "Solo constituyen infracciones administrativas las vulneraciones del ordenamiento jurídico previstas como tales infracciones por una Ley. Las disposiciones reglamentarias de desarrollo pueden introducir especificaciones o graduaciones pero no nuevas infracciones. Las normas definidoras de infracciones y sanciones no son susceptibles de aplicación analógica.",
+      "ley": "Artículos 27.1 y 27.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las sanciones administrativas, sean o no de naturaleza pecuniaria:",
+      "options": {
+        "a": "Pueden implicar privación de libertad subsidiaria si el infractor no paga la multa",
+        "b": "Solo pueden implicar privación de libertad en supuestos de infracciones muy graves",
+        "c": "Pueden implicar privación de libertad cuando así lo establezca una ley orgánica",
+        "d": "En ningún caso podrán implicar, directa o subsidiariamente, privación de libertad"
+      },
+      "correct": "d",
+      "explicacion": "Las sanciones administrativas, sean o no de naturaleza pecuniaria, en ningún caso podrán implicar, directa o subsidiariamente, privación de libertad. La privación de libertad es una medida reservada exclusivamente al ámbito penal con las garantías propias de ese orden jurisdiccional.",
+      "ley": "Artículo 29.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Entre los criterios para graduar la sanción administrativa se considerarán especialmente:",
+      "options": {
+        "a": "El grado de culpabilidad o intencionalidad, la continuidad o persistencia de la conducta, la naturaleza de los perjuicios causados, y la reincidencia por comisión de más de una infracción de la misma naturaleza en el término de un año declarada por resolución firme",
+        "b": "La situación económica del infractor y sus cargas familiares",
+        "c": "Solo la cuantía económica del daño causado a la Administración",
+        "d": "Únicamente el grado de reincidencia del infractor, sin considerar otros factores"
+      },
+      "correct": "a",
+      "explicacion": "La graduación de la sanción considerará especialmente: el grado de culpabilidad o la existencia de intencionalidad; la continuidad o persistencia en la conducta infractora; la naturaleza de los perjuicios causados; y la reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa.",
+      "ley": "Artículo 29.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Si la prescripción no está fijada en las leyes reguladoras de los regímenes sancionadores, las infracciones muy graves prescribirán a los:",
+      "options": {
+        "a": "Cinco años para las muy graves, tres para las graves y un año para las leves",
+        "b": "Diez años para las muy graves, cinco para las graves y dos para las leves",
+        "c": "Cuatro años para muy graves, dos para graves, y tres meses para las leves",
+        "d": "Tres años; las graves a los dos años; las leves a los seis meses; y las sanciones por faltas muy graves a los tres años, por graves a los dos años y por leves al año"
+      },
+      "correct": "d",
+      "explicacion": "Si las leyes no fijan plazos de prescripción, las infracciones muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses. Las sanciones por faltas muy graves prescriben a los tres años, las por faltas graves a los dos años y las por faltas leves al año.",
+      "ley": "Artículo 30.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La prescripción de las infracciones se interrumpe por:",
+      "options": {
+        "a": "Cualquier actuación administrativa relacionada con el asunto, aunque el interesado no tenga conocimiento de ella",
+        "b": "Solo por la notificación del acuerdo de iniciación del procedimiento sancionador",
+        "c": "Por la interposición de cualquier recurso administrativo o judicial sobre el mismo asunto",
+        "d": "La iniciación, con conocimiento del interesado, de un procedimiento administrativo de naturaleza sancionadora, reiniciándose el plazo si el expediente estuviera paralizado durante más de un mes por causa no imputable al presunto responsable"
+      },
+      "correct": "d",
+      "explicacion": "Interrumpirá la prescripción de las infracciones la iniciación, con conocimiento del interesado, de un procedimiento administrativo de naturaleza sancionadora, reiniciándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.",
+      "ley": "Artículo 30.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. No podrán sancionarse los hechos que lo hayan sido penal o administrativamente cuando:",
+      "options": {
+        "a": "El interesado alegue la previa sanción, aunque no concurra identidad de fundamento",
+        "b": "En todos los casos en que exista una previa actuación penal, cualquiera que sea su resultado",
+        "c": "Se aprecie identidad del sujeto, hecho y fundamento (non bis in idem)",
+        "d": "Solo cuando la sanción penal sea de mayor gravedad que la administrativa"
+      },
+      "correct": "c",
+      "explicacion": "No podrán sancionarse los hechos que lo hayan sido penal o administrativamente en los casos en que se aprecie identidad del sujeto, hecho y fundamento. Este es el principio non bis in idem que prohíbe la doble sanción cuando concurren estos tres elementos de identidad.",
+      "ley": "Artículo 31.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los particulares tendrán derecho a ser indemnizados por la Administración cuando sufran lesiones que:",
+      "options": {
+        "a": "Sean consecuencia del funcionamiento normal o anormal de los servicios públicos, siempre que el daño sea efectivo, evaluable económicamente e individualizado, salvo en casos de fuerza mayor o daños que deban ser soportados por la ley",
+        "b": "Sean causadas por cualquier actuación de la Administración, aunque no guarden relación con los servicios públicos",
+        "c": "Solo sean consecuencia del funcionamiento anormal de los servicios públicos, no del normal",
+        "d": "Sean superiores a una cuantía mínima establecida reglamentariamente"
+      },
+      "correct": "a",
+      "explicacion": "Los particulares tendrán derecho a ser indemnizados por las lesiones que sufran como consecuencia del funcionamiento normal o anormal de los servicios públicos, siempre que la lesión sea efectiva, evaluable económicamente e individualizada. Se excluyen los casos de fuerza mayor y los daños que el particular tenga el deber jurídico de soportar.",
+      "ley": "Artículos 32.1 y 32.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La anulación en vía administrativa o judicial de los actos o disposiciones administrativas:",
+      "options": {
+        "a": "Genera automáticamente el derecho a la indemnización por el perjuicio causado",
+        "b": "Solo genera indemnización si la anulación fue declarada por la jurisdicción contencioso-administrativa",
+        "c": "No presupone por sí misma derecho a la indemnización",
+        "d": "Presupone el derecho a la indemnización cuando el acto anulado fuera desfavorable"
+      },
+      "correct": "c",
+      "explicacion": "La anulación en vía administrativa o por el orden jurisdiccional contencioso-administrativo de los actos o disposiciones administrativas no presupone, por sí misma, derecho a la indemnización. Deberán concurrir los requisitos de la responsabilidad patrimonial: lesión efectiva, evaluable económicamente e individualizada, y nexo causal con el funcionamiento del servicio.",
+      "ley": "Artículo 32.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Cuando varias Administraciones Públicas actúan conjuntamente y se deriva responsabilidad patrimonial:",
+      "options": {
+        "a": "Responderán frente al particular en todo caso de forma solidaria",
+        "b": "Cada Administración responderá solo de la parte que le corresponda en la gestión",
+        "c": "Responderá solo la Administración que tenga mayor presupuesto",
+        "d": "El particular debe determinar previamente qué Administración es responsable antes de reclamar"
+      },
+      "correct": "a",
+      "explicacion": "Cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones públicas se derive responsabilidad patrimonial, las Administraciones intervinientes responderán frente al particular, en todo caso, de forma solidaria.",
+      "ley": "Artículo 33.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La cuantía de la indemnización en responsabilidad patrimonial se calculará con referencia al día:",
+      "options": {
+        "a": "En que el interesado reclame la indemnización a la Administración",
+        "b": "En que se dicte la resolución del procedimiento de responsabilidad patrimonial",
+        "c": "En que la lesión efectivamente se produjo, actualizándose a la fecha en que se ponga fin al procedimiento con arreglo al Índice de Garantía de la Competitividad",
+        "d": "En que se formalice el acuerdo de terminación convencional del procedimiento"
+      },
+      "correct": "c",
+      "explicacion": "La cuantía de la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad con arreglo al Índice de Garantía de la Competitividad, fijado por el Instituto Nacional de Estadística, y de los intereses que procedan por demora en el pago.",
+      "ley": "Artículo 34.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los particulares para hacer efectiva la responsabilidad patrimonial de las autoridades y personal al servicio de la Administración que les han causado daños deberán:",
+      "options": {
+        "a": "Dirigirse directamente contra el funcionario causante del daño ante la jurisdicción civil",
+        "b": "Obtener sentencia penal firme condenatoria del funcionario antes de poder reclamar a la Administración",
+        "c": "Exigirla directamente a la Administración Pública correspondiente, que luego podrá exigir de oficio a sus autoridades o personal la responsabilidad en que hubieran incurrido por dolo o culpa o negligencia graves",
+        "d": "Presentar reclamación simultánea tanto a la Administración como al funcionario personalmente"
+      },
+      "correct": "c",
+      "explicacion": "Los particulares exigirán directamente a la Administración Pública correspondiente las indemnizaciones por los daños causados por sus autoridades y personal. La Administración, cuando hubiere indemnizado a los lesionados, exigirá de oficio a sus autoridades y personal la responsabilidad en que hubieran incurrido por dolo, culpa o negligencia graves.",
+      "ley": "Artículos 36.1 y 36.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La exigencia de responsabilidad penal del personal al servicio de las Administraciones Públicas:",
+      "options": {
+        "a": "No suspenderá los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan, salvo que la determinación de los hechos en el orden penal sea necesaria para fijar la responsabilidad patrimonial",
+        "b": "No tiene ninguna relación con los procedimientos de responsabilidad patrimonial",
+        "c": "Siempre suspende los procedimientos de responsabilidad patrimonial hasta que recaiga sentencia penal firme",
+        "d": "Suspende los procedimientos de responsabilidad patrimonial solo cuando el imputado sea funcionario público de carrera"
+      },
+      "correct": "a",
+      "explicacion": "La exigencia de responsabilidad penal del personal al servicio de las Administraciones Públicas no suspenderá los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan, salvo que la determinación de los hechos en el orden jurisdiccional penal sea necesaria para la fijación de la responsabilidad patrimonial.",
+      "ley": "Artículo 37.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando de la comisión de una infracción deriva necesariamente la comisión de otra u otras infracciones:",
+      "options": {
+        "a": "Se aplica la media aritmética de todas las sanciones que corresponderían a cada infracción",
+        "b": "Se impondrán todas las sanciones correspondientes a cada infracción cometida de forma acumulada",
+        "c": "Se deberá imponer únicamente la sanción correspondiente a la infracción más grave cometida",
+        "d": "El órgano sancionador elige qué sanción imponer entre las que corresponden a cada infracción"
+      },
+      "correct": "c",
+      "explicacion": "Cuando de la comisión de una infracción derive necesariamente la comisión de otra u otras, se deberá imponer únicamente la sanción correspondiente a la infracción más grave cometida. Esta regla evita la sanción desproporcionada cuando existe una relación de necesidad entre infracciones.",
+      "ley": "Artículo 29.5 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. No serán indemnizables los daños que se deriven de hechos o circunstancias:",
+      "options": {
+        "a": "Que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción de aquellos (riesgo del desarrollo)",
+        "b": "Que se deriven de actos de gobierno o de alta política de la Administración",
+        "c": "Producidos por terceros que actúan en concurrencia con la Administración",
+        "d": "Que sean consecuencia del funcionamiento ordinario de los servicios públicos"
+      },
+      "correct": "a",
+      "explicacion": "No serán indemnizables los daños que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción de aquellos (riesgo del desarrollo), todo ello sin perjuicio de las prestaciones asistenciales o económicas que las leyes puedan establecer para estos casos.",
+      "ley": "Artículo 34.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La infracción continuada consiste en:",
+      "options": {
+        "a": "La comisión de la misma infracción en un período superior a un año",
+        "b": "La realización de una pluralidad de acciones u omisiones que infrinjan el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión",
+        "c": "La reiteración de la misma infracción una vez impuesta la sanción",
+        "d": "Cualquier conducta sancionable que se prolongue en el tiempo más de treinta días"
+      },
+      "correct": "b",
+      "explicacion": "Será sancionable, como infracción continuada, la realización de una pluralidad de acciones u omisiones que infrinjan el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión.",
+      "ley": "Artículo 29.6 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La indemnización por responsabilidad patrimonial puede abonarse mediante pagos periódicos o sustituirse por compensación en especie cuando:",
+      "options": {
+        "a": "La Administración lo decida unilateralmente sin necesidad de consentimiento del interesado",
+        "b": "Resulte más adecuado para lograr la reparación debida y convenga al interés público, siempre que exista acuerdo con el interesado",
+        "c": "Siempre es posible y la Administración puede imponerlo aunque el interesado se oponga",
+        "d": "Solo cuando la cuantía supere los cien mil euros"
+      },
+      "correct": "b",
+      "explicacion": "La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos cuando resulte más adecuado para lograr la reparación debida y convenga al interés público, siempre que exista acuerdo con el interesado.",
+      "ley": "Artículo 34.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La responsabilidad por daños y perjuicios causados durante la ejecución de contratos cuando sean consecuencia de una orden inmediata y directa de la Administración:",
+      "options": {
+        "a": "Se exige directamente al contratista sin posibilidad de reclamar a la Administración",
+        "b": "Se determinará siguiendo el procedimiento previsto en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas",
+        "c": "Se exige solo ante la jurisdicción civil, nunca por vía administrativa",
+        "d": "No existe responsabilidad patrimonial de la Administración en contratos del sector público"
+      },
+      "correct": "b",
+      "explicacion": "Se seguirá el procedimiento previsto en la Ley de Procedimiento Administrativo Común para determinar la responsabilidad de las Administraciones Públicas por daños causados a terceros durante la ejecución de contratos cuando sean consecuencia de una orden inmediata y directa de la Administración o de los vicios del proyecto elaborado por ella misma.",
+      "ley": "Artículo 32.9 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_13_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El procedimiento para exigir responsabilidad patrimonial a las autoridades y personal al servicio de la Administración incluye, entre otros trámites:",
+      "options": {
+        "a": "Solo el trámite de audiencia de diez días, siguiéndose la tramitación ordinaria en todo lo demás",
+        "b": "Alegaciones durante quince días, práctica de pruebas durante quince días, audiencia durante diez días, propuesta de resolución en cinco días, y resolución por el órgano competente en cinco días",
+        "c": "Solo audiencia al interesado durante treinta días, sin más trámites específicos",
+        "d": "Alegaciones durante cinco días, informe del Consejo de Estado y resolución por el Consejo de Ministros"
+      },
+      "correct": "b",
+      "explicacion": "El procedimiento para exigir responsabilidad a las autoridades y personal al servicio de la Administración constará al menos de: alegaciones durante un plazo de quince días, práctica de las pruebas admitidas durante quince días, audiencia durante diez días, formulación de la propuesta de resolución en cinco días desde la audiencia, y resolución por el órgano competente en cinco días.",
+      "ley": "Artículo 36.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    }
+  ]
+}

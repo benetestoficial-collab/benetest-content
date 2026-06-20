@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 7",
+  "preguntas": [
+    {
+      "id": "tema_11_test_07_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los responsables y encargados del tratamiento deberán designar un delegado de protección de datos en los supuestos del artículo 37.1 del RGPD y, en todo caso, cuando se trate, entre otras, de las siguientes entidades:",
+      "options": {
+        "a": "Los colegios profesionales y sus consejos generales, los centros docentes y universidades, y las entidades aseguradoras y reaseguradoras",
+        "b": "Solo las entidades públicas, quedando excluidas todas las entidades privadas sin excepción",
+        "c": "Exclusivamente los partidos políticos y sindicatos de cualquier ámbito",
+        "d": "Únicamente las microempresas con menos de diez trabajadores"
+      },
+      "correct": "a",
+      "explicacion": "Los responsables y encargados del tratamiento deberán designar un delegado de protección de datos en los supuestos previstos en el artículo 37.1 del RGPD y, en todo caso, cuando se trate de entidades como: colegios profesionales y sus consejos generales, centros docentes y Universidades públicas y privadas, y entidades aseguradoras y reaseguradoras, entre otras enumeradas en la ley.",
+      "ley": "Artículo 34.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Entre las entidades obligadas a designar delegado de protección de datos se encuentran las entidades responsables de ficheros comunes para la evaluación de la solvencia patrimonial, así como:",
+      "options": {
+        "a": "Exclusivamente los autónomos que ejerzan actividades comerciales por internet",
+        "b": "Las entidades sin fines de lucro que no realicen ningún tratamiento de datos de carácter especial",
+        "c": "Las entidades responsables de los ficheros comunes para la gestión y prevención del fraude, incluyendo los regulados por la legislación de prevención del blanqueo de capitales",
+        "d": "Únicamente las pequeñas empresas que facturen menos de cien mil euros anuales"
+      },
+      "correct": "c",
+      "explicacion": "Entre las entidades obligadas a designar delegado de protección de datos se encuentran las entidades responsables de ficheros comunes para la evaluación de la solvencia patrimonial y crédito o de los ficheros comunes para la gestión y prevención del fraude, incluyendo a los responsables de los ficheros regulados por la legislación de prevención del blanqueo de capitales y de la financiación del terrorismo.",
+      "ley": "Artículo 34.1.j) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Entre las entidades obligadas a designar delegado de protección de datos figuran los centros sanitarios legalmente obligados al mantenimiento de las historias clínicas, exceptuándose:",
+      "options": {
+        "a": "Únicamente los hospitales públicos, quedando obligados todos los centros privados sin excepción",
+        "b": "Los profesionales de la salud que, aun estando legalmente obligados al mantenimiento de historias clínicas, ejerzan su actividad a título individual",
+        "c": "Solo aquellos centros con menos de cincuenta pacientes registrados en su base de datos",
+        "d": "Todos los profesionales sanitarios sin excepción, cualquiera que sea su forma de ejercicio profesional"
+      },
+      "correct": "b",
+      "explicacion": "Los centros sanitarios legalmente obligados al mantenimiento de las historias clínicas de los pacientes están obligados a designar delegado de protección de datos. Se exceptúan los profesionales de la salud que, aun estando legalmente obligados al mantenimiento de las historias clínicas, ejerzan su actividad a título individual.",
+      "ley": "Artículo 34.1.l) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los responsables o encargados del tratamiento no incluidos en la lista de entidades obligadas a designar delegado de protección de datos:",
+      "options": {
+        "a": "Deben siempre subcontratar la función a un despacho externo especializado",
+        "b": "Quedan exentos de toda obligación relacionada con la protección de datos personales",
+        "c": "No pueden designar delegado de protección de datos en ningún caso, ya que la ley lo prohíbe",
+        "d": "Podrán designar de manera voluntaria un delegado de protección de datos, que quedará sometido al régimen establecido en el RGPD y en la LOPD"
+      },
+      "correct": "d",
+      "explicacion": "Los responsables o encargados del tratamiento no incluidos en el listado de entidades obligadas podrán designar de manera voluntaria un delegado de protección de datos, que quedará sometido al régimen establecido en el Reglamento (UE) 2016/679 y en la LOPD, con idénticas garantías que un delegado de designación obligatoria.",
+      "ley": "Artículo 34.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los responsables y encargados del tratamiento deben comunicar a la AEPD o, en su caso, a las autoridades autonómicas, las designaciones, nombramientos y ceses de los delegados de protección de datos en un plazo de:",
+      "options": {
+        "a": "Cinco días hábiles desde la firma del contrato",
+        "b": "Treinta días naturales",
+        "c": "Diez días",
+        "d": "Un mes desde la designación o cese"
+      },
+      "correct": "c",
+      "explicacion": "Los responsables y encargados del tratamiento comunicarán en el plazo de diez días a la AEPD o, en su caso, a las autoridades autonómicas de protección de datos, las designaciones, nombramientos y ceses de los delegados de protección de datos, tanto en los supuestos obligatorios como en los voluntarios.",
+      "ley": "Artículo 34.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD y las autoridades autonómicas de protección de datos mantendrán una lista actualizada de delegados de protección de datos que será:",
+      "options": {
+        "a": "Publicada únicamente en el Boletín Oficial del Estado con carácter anual",
+        "b": "Solo accesible bajo solicitud expresa y motivada del propio interesado afectado",
+        "c": "Accesible por medios electrónicos",
+        "d": "Confidencial y de acceso restringido exclusivamente a los responsables del tratamiento"
+      },
+      "correct": "c",
+      "explicacion": "La AEPD y las autoridades autonómicas de protección de datos mantendrán, en el ámbito de sus respectivas competencias, una lista actualizada de delegados de protección de datos que será accesible por medios electrónicos, garantizando la transparencia y el conocimiento público de quiénes ejercen esta función.",
+      "ley": "Artículo 34.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En el cumplimiento de las obligaciones de designación, los responsables y encargados del tratamiento podrán establecer la dedicación del delegado de protección de datos, completa o a tiempo parcial, en función de:",
+      "options": {
+        "a": "Únicamente la antigüedad de la empresa en el sector económico correspondiente",
+        "b": "El número de empleados de la organización, sin valorar otros criterios funcionales",
+        "c": "Exclusivamente las instrucciones que dicte el Ministerio de Justicia al respecto",
+        "d": "El volumen de los tratamientos, la categoría especial de los datos tratados o de los riesgos para los derechos o libertades de los interesados"
+      },
+      "correct": "d",
+      "explicacion": "En el cumplimiento de las obligaciones relativas a la designación del delegado de protección de datos, los responsables y encargados del tratamiento podrán establecer la dedicación completa o a tiempo parcial del delegado, entre otros criterios, en función del volumen de los tratamientos, la categoría especial de los datos tratados o de los riesgos para los derechos o libertades de los interesados.",
+      "ley": "Artículo 34.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El cumplimiento de los requisitos establecidos en el artículo 37.5 del RGPD para la designación del delegado de protección de datos, sea persona física o jurídica, podrá demostrarse, entre otros medios, mediante:",
+      "options": {
+        "a": "Exclusivamente la titulación en informática, sin valorar conocimientos jurídicos",
+        "b": "La mera pertenencia a un colegio profesional, sin necesidad de conocimientos específicos en la materia",
+        "c": "Solo la antigüedad en la empresa, sin necesidad de formación específica en protección de datos",
+        "d": "Mecanismos voluntarios de certificación, que tendrán particularmente en cuenta la obtención de una titulación universitaria que acredite conocimientos especializados en el derecho y la práctica en materia de protección de datos"
+      },
+      "correct": "d",
+      "explicacion": "El cumplimiento de los requisitos del artículo 37.5 del RGPD para la designación del delegado de protección de datos podrá demostrarse, entre otros medios, a través de mecanismos voluntarios de certificación que tendrán particularmente en cuenta la obtención de una titulación universitaria que acredite conocimientos especializados en el derecho y la práctica en materia de protección de datos.",
+      "ley": "Artículo 35 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El delegado de protección de datos actuará como interlocutor del responsable o encargado del tratamiento ante:",
+      "options": {
+        "a": "La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos, pudiendo inspeccionar procedimientos y emitir recomendaciones en el ámbito de sus competencias",
+        "b": "Únicamente la Fiscalía General del Estado en supuestos de tratamiento de datos penales",
+        "c": "Exclusivamente los tribunales de justicia en procedimientos sancionadores",
+        "d": "Solo el Consejo de Ministros, en caso de que el responsable sea una Administración Pública"
+      },
+      "correct": "a",
+      "explicacion": "El delegado de protección de datos actuará como interlocutor del responsable o encargado del tratamiento ante la AEPD y las autoridades autonómicas de protección de datos. El delegado podrá inspeccionar los procedimientos relacionados con el objeto de la LOPD y emitir recomendaciones en el ámbito de sus competencias.",
+      "ley": "Artículo 36.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando el delegado de protección de datos sea una persona física integrada en la organización del responsable o encargado:",
+      "options": {
+        "a": "Su contrato es siempre temporal, con duración máxima de dos años renovables",
+        "b": "Solo puede ser removido por decisión judicial firme, sin posibilidad de cese administrativo",
+        "c": "No podrá ser removido ni sancionado por desempeñar sus funciones, salvo que incurriera en dolo o negligencia grave en su ejercicio, garantizándose su independencia dentro de la organización",
+        "d": "Puede ser removido libremente en cualquier momento por decisión del responsable, sin más limitación"
+      },
+      "correct": "c",
+      "explicacion": "Cuando se trate de una persona física integrada en la organización del responsable o encargado del tratamiento, el delegado de protección de datos no podrá ser removido ni sancionado por el responsable o el encargado por desempeñar sus funciones salvo que incurriera en dolo o negligencia grave en su ejercicio. Se garantizará la independencia del delegado dentro de la organización, debiendo evitarse cualquier conflicto de intereses.",
+      "ley": "Artículo 36.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. En el ejercicio de sus funciones, el delegado de protección de datos tendrá acceso a los datos personales y procesos de tratamiento, sin que el responsable o encargado pueda oponer a dicho acceso:",
+      "options": {
+        "a": "La existencia de cualquier deber de confidencialidad o secreto, incluyendo el previsto en el artículo 5 de la LOPD",
+        "b": "Ninguna limitación, ya que esta materia no está regulada expresamente en la LOPD",
+        "c": "El acceso solo está limitado a los datos no confidenciales del tratamiento, excluyendo el secreto profesional",
+        "d": "El delegado debe obtener consentimiento individual de cada afectado antes de acceder a sus datos"
+      },
+      "correct": "a",
+      "explicacion": "En el ejercicio de sus funciones el delegado de protección de datos tendrá acceso a los datos personales y procesos de tratamiento, no pudiendo oponer a este acceso el responsable o el encargado del tratamiento la existencia de cualquier deber de confidencialidad o secreto, incluyendo el previsto en el artículo 5 de la LOPD.",
+      "ley": "Artículo 36.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando el delegado de protección de datos aprecie la existencia de una vulneración relevante en materia de protección de datos:",
+      "options": {
+        "a": "Lo documentará y lo comunicará inmediatamente a los órganos de administración y dirección del responsable o el encargado del tratamiento",
+        "b": "Debe comunicarlo en exclusiva a la Agencia Española de Protección de Datos, sin informar internamente a la organización",
+        "c": "Debe esperar a la siguiente reunión ordinaria del órgano de gobierno para informar de la vulneración",
+        "d": "Puede optar libremente entre informar o no, sin obligación legal de comunicarlo"
+      },
+      "correct": "a",
+      "explicacion": "Cuando el delegado de protección de datos aprecie la existencia de una vulneración relevante en materia de protección de datos lo documentará y lo comunicará inmediatamente a los órganos de administración y dirección del responsable o el encargado del tratamiento.",
+      "ley": "Artículo 36.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando el responsable o encargado del tratamiento hubieran designado un delegado de protección de datos, el afectado podrá, con carácter previo a presentar una reclamación ante la autoridad de control:",
+      "options": {
+        "a": "Esperar un plazo mínimo de un año antes de poder reclamar ante ninguna instancia",
+        "b": "Dirigirse al delegado de protección de datos de la entidad contra la que se reclame, quien comunicará su decisión en el plazo máximo de dos meses desde la recepción de la reclamación",
+        "c": "Solo puede presentar la reclamación directamente ante la autoridad de control, sin paso previo posible",
+        "d": "Acudir directamente a la vía judicial, sin posibilidad de intervención del delegado"
+      },
+      "correct": "b",
+      "explicacion": "Cuando el responsable o el encargado hubieran designado un delegado de protección de datos, el afectado podrá, con carácter previo a la presentación de una reclamación ante la Agencia Española de Protección de Datos o las autoridades autonómicas, dirigirse al delegado de protección de datos de la entidad contra la que se reclame. El delegado comunicará al afectado la decisión adoptada en el plazo máximo de dos meses desde la recepción de la reclamación.",
+      "ley": "Artículo 37.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando el afectado presente una reclamación ante la AEPD, esta podrá remitir la reclamación al delegado de protección de datos para que responda en el plazo de:",
+      "options": {
+        "a": "Quince días hábiles",
+        "b": "Un mes",
+        "c": "Seis meses, equivalente al plazo del procedimiento general",
+        "d": "Tres meses, igual que el plazo general de admisión a trámite"
+      },
+      "correct": "b",
+      "explicacion": "Cuando el afectado presente una reclamación ante la AEPD o las autoridades autonómicas, aquellas podrán remitir la reclamación al delegado de protección de datos a fin de que este responda en el plazo de un mes. Si transcurrido dicho plazo el delegado no hubiera comunicado a la autoridad competente la respuesta dada, esta continuará el procedimiento conforme al Título VIII de la LOPD.",
+      "ley": "Artículo 37.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los códigos de conducta regulados por la sección 5.ª del Capítulo IV del RGPD serán:",
+      "options": {
+        "a": "Vinculantes para quienes se adhieran a los mismos, pudiendo dotarse de mecanismos de resolución extrajudicial de conflictos",
+        "b": "Aplicables únicamente a las entidades de más de quinientos trabajadores",
+        "c": "De aprobación exclusivamente por el Parlamento Europeo, sin intervención de autoridades nacionales",
+        "d": "Meramente orientativos, sin ningún tipo de obligación para los adherentes"
+      },
+      "correct": "a",
+      "explicacion": "Los códigos de conducta regulados por la sección 5.ª del Capítulo IV del Reglamento (UE) 2016/679 serán vinculantes para quienes se adhieran a los mismos. Dichos códigos podrán dotarse de mecanismos de resolución extrajudicial de conflictos para sus adheridos.",
+      "ley": "Artículo 38.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los códigos de conducta podrán promoverse, además de por las asociaciones y organismos a que se refiere el artículo 40.2 del RGPD, por:",
+      "options": {
+        "a": "Exclusivamente entidades sin ánimo de lucro de carácter benéfico",
+        "b": "Empresas o grupos de empresas, así como por los responsables o encargados a los que se refiere el artículo 77.1 de la LOPD",
+        "c": "Solo la propia Agencia Española de Protección de Datos como único promotor posible",
+        "d": "Únicamente partidos políticos en el ejercicio de su actividad institucional"
+      },
+      "correct": "b",
+      "explicacion": "Los códigos de conducta podrán promoverse, además de por las asociaciones y organismos a los que se refiere el artículo 40.2 del RGPD, por empresas o grupos de empresas, así como por los responsables o encargados a los que se refiere el artículo 77.1 de la LOPD. También pueden ser promovidos por organismos que asuman funciones de supervisión y resolución extrajudicial de conflictos.",
+      "ley": "Artículo 38.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Los códigos de conducta serán aprobados por:",
+      "options": {
+        "a": "Cualquier asociación empresarial sectorial, sin necesidad de aprobación administrativa",
+        "b": "El Consejo de Ministros mediante real decreto específico para cada código",
+        "c": "Únicamente el Comité Europeo de Protección de Datos, sin intervención nacional",
+        "d": "La Agencia Española de Protección de Datos o, en su caso, por la autoridad autonómica de protección de datos competente"
+      },
+      "correct": "d",
+      "explicacion": "Los códigos de conducta serán aprobados por la Agencia Española de Protección de Datos o, en su caso, por la autoridad autonómica de protección de datos competente. Cuando proceda, se sometE a los proyectos de código al mecanismo de coherencia previsto en el artículo 63 del RGPD.",
+      "ley": "Artículo 38.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La acreditación de las instituciones de certificación a las que se refiere el artículo 43.1 del RGPD podrá ser llevada a cabo por:",
+      "options": {
+        "a": "El Ministerio de Industria, sin intervención de organismos de acreditación específicos",
+        "b": "Exclusivamente la Agencia Española de Protección de Datos, sin colaboración de otros entes",
+        "c": "La Entidad Nacional de Acreditación (ENAC), que comunicará a la AEPD y a las autoridades autonómicas las concesiones, denegaciones o revocaciones de acreditaciones",
+        "d": "Cualquier entidad bancaria con licencia de actividad en territorio español"
+      },
+      "correct": "c",
+      "explicacion": "Sin perjuicio de las funciones y poderes de acreditación de la autoridad de control competente, la acreditación de las instituciones de certificación a las que se refiere el artículo 43.1 del RGPD podrá ser llevada a cabo por la Entidad Nacional de Acreditación (ENAC), que comunicará a la AEPD y a las autoridades de protección de datos de las CCAA las concesiones, denegaciones o revocaciones de las acreditaciones, así como su motivación.",
+      "ley": "Artículo 39 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Los responsables o encargados del tratamiento que se adhieran a un código de conducta se obligan a:",
+      "options": {
+        "a": "No someterse nunca a ningún tipo de control externo más allá de su propia autoevaluación",
+        "b": "Pagar una cuota fija anual a la autoridad de control con independencia de su volumen de tratamiento",
+        "c": "Renunciar expresamente a cualquier mecanismo de resolución extrajudicial de conflictos",
+        "d": "Someter al organismo o entidad de supervisión las reclamaciones que les fueran formuladas por los afectados en relación con tratamientos incluidos en su ámbito de aplicación, cuando consideren que no procede atender lo solicitado"
+      },
+      "correct": "d",
+      "explicacion": "Los responsables o encargados del tratamiento que se adhieran al código de conducta se obligan a someter al organismo o entidad de supervisión las reclamaciones que les fueran formuladas por los afectados en relación con los tratamientos de datos incluidos en su ámbito de aplicación, en caso de considerar que no procede atender a lo solicitado en la reclamación.",
+      "ley": "Artículo 38.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_07_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD y las autoridades autonómicas mantendrán registros de los códigos de conducta aprobados, que estarán:",
+      "options": {
+        "a": "Completamente independientes y sin ninguna coordinación entre las distintas autoridades",
+        "b": "Interconectados entre sí y coordinados con el registro gestionado por el Comité Europeo de Protección de Datos, siendo accesibles a través de medios electrónicos",
+        "c": "Solo disponibles mediante solicitud presencial en las oficinas de la autoridad correspondiente",
+        "d": "Reservados exclusivamente al uso interno de las propias autoridades de control"
+      },
+      "correct": "b",
+      "explicacion": "La AEPD y las autoridades autonómicas de protección de datos mantendrán registros de los códigos de conducta aprobados por las mismas, que estarán interconectados entre sí y coordinados con el registro gestionado por el Comité Europeo de Protección de Datos conforme al artículo 40.11 del RGPD. El registro será accesible a través de medios electrónicos.",
+      "ley": "Artículo 38.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_11_test_20_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La LOPD no es de aplicación, entre otros supuestos, a los tratamientos:",
+      "options": {
+        "a": "Realizados por cualquier Administración Pública en el ejercicio ordinario de sus competencias",
+        "b": "Relativos a menores de edad con independencia de su finalidad",
+        "c": "Sometidos a la normativa sobre protección de materias clasificadas",
+        "d": "Que impliquen la elaboración de perfiles comerciales de cualquier naturaleza"
+      },
+      "correct": "c",
+      "explicacion": "La LOPD no será de aplicación, entre otros supuestos, a los tratamientos sometidos a la normativa sobre protección de materias clasificadas, además de a los tratamientos excluidos del RGPD por su artículo 2.2 y a los tratamientos de datos de personas fallecidas (salvo el régimen específico del artículo 3).",
+      "ley": "Artículo 2.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una entidad recoge datos de salud para gestionar un seguro médico contratado por el afectado. ¿Bajo qué condiciones es lícito este tratamiento de categoría especial de datos?",
+      "options": {
+        "a": "Cuando esté amparado en una norma con rango de ley que pueda amparar el tratamiento de datos de salud para la ejecución de un contrato de seguro del que el afectado sea parte",
+        "b": "Solo si la entidad aseguradora es de titularidad pública estatal",
+        "c": "Sin necesidad de ninguna cobertura normativa adicional al mero hecho de existir un contrato de seguro",
+        "d": "Únicamente si el afectado renuncia previamente a cualquier derecho de acceso a sus propios datos"
+      },
+      "correct": "a",
+      "explicacion": "Los tratamientos de categorías especiales fundados en el Derecho español deberán estar amparados en una norma con rango de ley. En particular, dicha norma podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+      "ley": "Artículo 9.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando un afectado eligiese un sistema de acceso remoto facilitado por el responsable, este derecho se entenderá:",
+      "options": {
+        "a": "Condicionado a la firma de un documento notarial aceptando expresamente el sistema",
+        "b": "No atendido, ya que el sistema de acceso remoto nunca sustituye la respuesta individual escrita",
+        "c": "Limitado únicamente a los datos recogidos en el último año, sin acceso a información anterior",
+        "d": "Otorgado, bastando la comunicación al afectado del modo de acceder a dicho sistema para tener por atendida la solicitud"
+      },
+      "correct": "d",
+      "explicacion": "El derecho de acceso se entenderá otorgado si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto, directo y seguro a los datos personales que garantice, de modo permanente, el acceso a su totalidad, bastando la comunicación del modo de acceder a dicho sistema para tener por atendida la solicitud.",
+      "ley": "Artículo 13.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una empresa de telecomunicaciones que trata datos personales habitualmente y a gran escala está incluida entre las entidades que deben designar delegado de protección de datos. ¿En qué precepto se fundamenta esta obligación?",
+      "options": {
+        "a": "Únicamente en el RGPD, sin que la LOPD contemple ninguna previsión específica al respecto",
+        "b": "En el artículo 22 de la LOPD, relativo a videovigilancia, por analogía con otros tratamientos masivos",
+        "c": "En el artículo 34.1.c) de la LOPD, relativo a entidades que explotan redes y prestan servicios de comunicaciones electrónicas con tratamiento habitual y sistemático de datos a gran escala",
+        "d": "En el artículo 89 de la LOPD, relativo al ámbito laboral exclusivamente"
+      },
+      "correct": "c",
+      "explicacion": "Entre las entidades obligadas a designar delegado de protección de datos en todo caso se encuentran las entidades que exploten redes y presten servicios de comunicaciones electrónicas conforme a su legislación específica, cuando traten habitual y sistemáticamente datos personales a gran escala.",
+      "ley": "Artículo 34.1.c) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD, en su régimen económico-presupuestario, destina el resultado positivo de sus ingresos a:",
+      "options": {
+        "a": "Financiar directamente programas de televisión sobre concienciación en protección de datos",
+        "b": "Reducir el déficit público general del Estado en su conjunto",
+        "c": "Repartirse anualmente entre todo el personal de la Agencia como complemento retributivo",
+        "d": "La dotación de sus reservas con el fin de garantizar su plena independencia"
+      },
+      "correct": "d",
+      "explicacion": "El resultado positivo de sus ingresos se destinará por la AEPD a la dotación de sus reservas con el fin de garantizar su plena independencia, reforzando así su autonomía financiera frente a ciclos presupuestarios coyunturales.",
+      "ley": "Artículo 46.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un código de conducta sectorial es promovido por un grupo de empresas para regular tratamientos de datos en su sector. Una vez aprobado, ¿qué efecto tiene sobre los adheridos?",
+      "options": {
+        "a": "Solo es vinculante si todas las empresas del sector se adhieren sin excepción alguna",
+        "b": "Es vinculante para quienes se adhieran al mismo, pudiendo dotarse de mecanismos de resolución extrajudicial de conflictos",
+        "c": "Su vinculación queda condicionada a la ratificación expresa por cada cliente afectado",
+        "d": "Tiene carácter meramente orientativo, sin generar ninguna obligación jurídica efectiva"
+      },
+      "correct": "b",
+      "explicacion": "Los códigos de conducta regulados por la sección 5.ª del Capítulo IV del RGPD serán vinculantes para quienes se adhieran a los mismos, pudiendo dotarse de mecanismos de resolución extrajudicial de conflictos para sus adheridos.",
+      "ley": "Artículo 38.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un investigador de la AEPD necesita examinar documentos y equipos del responsable inspeccionado en el curso de una investigación. ¿Qué facultades tiene a estos efectos?",
+      "options": {
+        "a": "Requerir la exhibición o el envío de documentos y datos necesarios, examinarlos en el lugar en que se encuentren, obtener copia de ellos e inspeccionar equipos físicos y lógicos",
+        "b": "Solo puede solicitar documentos por escrito, sin posibilidad de inspección física in situ",
+        "c": "Solo puede examinar documentos en papel, sin facultad sobre sistemas informáticos",
+        "d": "Necesita siempre orden judicial previa para cualquier requerimiento documental al responsable"
+      },
+      "correct": "a",
+      "explicacion": "Quienes desarrollen la actividad de investigación podrán recabar informaciones precisas, realizar inspecciones, requerir la exhibición o el envío de documentos y datos necesarios, examinarlos en el lugar en que se encuentren depositados, obtener copia de ellos, e inspeccionar los equipos físicos y lógicos sujetos a investigación.",
+      "ley": "Artículo 53.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una entidad responsable trata datos de naturaleza penal sin amparo en norma alguna y sin tratarse de abogados o procuradores que recojan información de sus clientes. ¿Es lícito este tratamiento?",
+      "options": {
+        "a": "Sí, cualquier entidad puede tratar libremente datos penales sin cobertura normativa específica",
+        "b": "Es irrelevante la cobertura normativa si el afectado consiente verbalmente el tratamiento",
+        "c": "Solo es ilícito si los datos se refieren a menores de edad, siendo lícito en el resto de casos",
+        "d": "No, fuera de los supuestos amparados por norma de la Unión, la LOPD u otras normas legales, solo es posible cuando lo lleven a cabo abogados y procuradores con dicha finalidad específica"
+      },
+      "correct": "d",
+      "explicacion": "Fuera de los supuestos amparados por norma de Derecho de la Unión, la LOPD u otras normas de rango legal, los tratamientos de datos referidos a condenas e infracciones penales solo serán posibles cuando sean llevados a cabo por abogados y procuradores para recoger información facilitada por sus clientes en el ejercicio de sus funciones.",
+      "ley": "Artículo 10.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las disposiciones de la Presidencia de la AEPD que fijan criterios de aplicación del RGPD y la LOPD se denominan:",
+      "options": {
+        "a": "Dictámenes Vinculantes del Comité Europeo de Protección de Datos",
+        "b": "Circulares de la Agencia Española de Protección de Datos",
+        "c": "Acuerdos Marco de Cumplimiento Normativo Sectorial",
+        "d": "Reglamentos de Desarrollo de la Ley Orgánica de Protección de Datos"
+      },
+      "correct": "b",
+      "explicacion": "La Presidencia de la AEPD podrá dictar disposiciones que fijen los criterios a que responderá la actuación de esta autoridad en la aplicación del RGPD y la LOPD, que se denominarán «Circulares de la Agencia Española de Protección de Datos», siendo obligatorias una vez publicadas en el Boletín Oficial del Estado.",
+      "ley": "Artículo 55.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un afectado se opone al tratamiento de sus datos para mercadotecnia directa, derivando ello en una supresión. ¿Qué tipo de datos puede conservar el responsable a pesar de la supresión?",
+      "options": {
+        "a": "Solo los datos económicos relacionados con compras previas del afectado",
+        "b": "Ningún dato puede conservarse tras la supresión derivada del ejercicio del derecho de oposición",
+        "c": "Cualquier dato del afectado, sin limitación de ningún tipo tras la supresión formal",
+        "d": "Los datos identificativos del afectado necesarios para impedir tratamientos futuros con fines de mercadotecnia directa"
+      },
+      "correct": "d",
+      "explicacion": "Cuando la supresión derive del ejercicio del derecho de oposición con arreglo al artículo 21.2 del RGPD, el responsable podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros para fines de mercadotecnia directa, constituyendo una excepción justificada y limitada al deber general de supresión.",
+      "ley": "Artículo 15.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las autoridades autonómicas de protección de datos podrán dictar, en relación con los tratamientos sometidos a su competencia, circulares con:",
+      "options": {
+        "a": "El alcance y los efectos establecidos para la AEPD en el artículo 55 de la LOPD",
+        "b": "Alcance limitado exclusivamente a entidades de menos de cincuenta trabajadores",
+        "c": "Necesidad de aprobación previa por la propia AEPD en cada caso concreto",
+        "d": "Eficacia meramente orientativa, sin ninguna fuerza vinculante en su ámbito territorial"
+      },
+      "correct": "a",
+      "explicacion": "Las autoridades autonómicas de protección de datos podrán dictar, en relación con los tratamientos sometidos a su competencia, circulares con el alcance y los efectos establecidos para la Agencia Española de Protección de Datos en el artículo 55 de la LOPD.",
+      "ley": "Artículo 57.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un responsable del tratamiento se adhiere voluntariamente a mecanismos de resolución extrajudicial de conflictos pero recibe directamente una reclamación de un afectado sin que medie aún intervención de la AEPD. ¿Puede la AEPD remitirle la reclamación recibida posteriormente?",
+      "options": {
+        "a": "No, una vez presentada la reclamación ante la AEPD, esta debe resolverla siempre directamente sin remisión alguna",
+        "b": "La remisión solo es posible si el responsable no cuenta con delegado de protección de datos designado",
+        "c": "La AEPD podrá remitir la reclamación al organismo que asuma las funciones de resolución extrajudicial de conflictos a los efectos previstos en la LOPD, antes de resolver sobre la admisión a trámite",
+        "d": "Solo puede remitirla si el afectado lo solicita expresamente por escrito a la propia AEPD"
+      },
+      "correct": "c",
+      "explicacion": "Antes de resolver sobre la admisión a trámite de la reclamación, la AEPD podrá remitirla al delegado de protección de datos que hubiera designado el responsable, al organismo de supervisión de códigos de conducta, o al organismo que asuma las funciones de resolución extrajudicial de conflictos, a los efectos previstos en los artículos 37 y 38.2 de la LOPD.",
+      "ley": "Artículo 65.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Cuál es la finalidad genérica que permite el tratamiento de imágenes mediante sistemas de cámaras conforme al artículo 22 de la LOPD?",
+      "options": {
+        "a": "Preservar la seguridad de las personas y bienes, así como de sus instalaciones",
+        "b": "Controlar de forma genérica y sin más limitación el rendimiento laboral de los empleados",
+        "c": "Realizar marketing personalizado basado en el comportamiento de los clientes",
+        "d": "Cualquier finalidad que decida unilateralmente el titular de las instalaciones"
+      },
+      "correct": "a",
+      "explicacion": "Las personas físicas o jurídicas, públicas o privadas, podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes, así como de sus instalaciones, siendo esta la finalidad legitimadora genérica de este tipo de tratamientos.",
+      "ley": "Artículo 22.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. En relación con el deber de información cuando los datos no se obtienen del afectado, ¿qué información básica adicional, distinta de la general, debe incluirse?",
+      "options": {
+        "a": "La fecha exacta de nacimiento del responsable legal de la entidad que trata los datos",
+        "b": "El precio abonado por la adquisición de los datos a la fuente original",
+        "c": "Las categorías de datos objeto de tratamiento y las fuentes de las que procedieran los datos",
+        "d": "Únicamente el nombre del primer responsable que recogió originariamente los datos"
+      },
+      "correct": "c",
+      "explicacion": "Cuando los datos personales no hubieran sido obtenidos del afectado, en estos supuestos la información básica incluirá también las categorías de datos objeto de tratamiento y las fuentes de las que procedieran los datos, además de la información básica general aplicable a cualquier supuesto.",
+      "ley": "Artículo 11.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando un responsable o encargado no comunitario, sometido al RGPD por afectar a residentes en España, cuenta con representante en territorio español, ¿qué régimen de responsabilidad se aplica entre representante y responsable?",
+      "options": {
+        "a": "Solo responde el responsable principal, quedando el representante completamente exonerado siempre",
+        "b": "Responden solidariamente de los daños y perjuicios causados, conforme al artículo 82 del RGPD",
+        "c": "La responsabilidad se divide siempre al cincuenta por ciento entre ambos, sin matización adicional",
+        "d": "Solo responde el representante, liberando totalmente al responsable extracomunitario de cualquier obligación"
+      },
+      "correct": "b",
+      "explicacion": "En caso de exigencia de responsabilidad en los términos previstos en el artículo 82 del RGPD, los responsables, encargados y representantes responderán solidariamente de los daños y perjuicios causados, lo que refuerza la protección de los afectados frente a responsables establecidos fuera de la Unión Europea.",
+      "ley": "Artículo 30.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una persona informa sobre infracciones normativas cometidas en su entorno laboral. ¿Qué normativa específica complementa el régimen general de protección de sus datos personales?",
+      "options": {
+        "a": "La Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción",
+        "b": "Exclusivamente las normas internas de cumplimiento normativo de la empresa, sin amparo legal estatal específico",
+        "c": "La Ley de Enjuiciamiento Criminal, en su regulación general sobre testigos",
+        "d": "El Estatuto de los Trabajadores, en sus disposiciones sobre extinción del contrato"
+      },
+      "correct": "a",
+      "explicacion": "Los tratamientos de datos personales necesarios para garantizar la protección de las personas que informen sobre infracciones normativas se regirán por el Reglamento (UE) 2016/679, la LOPD y la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.",
+      "ley": "Artículo 24 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las actuaciones de investigación de la AEPD pueden realizarse a través de sistemas digitales como videoconferencia. ¿Qué se requiere para su utilización?",
+      "options": {
+        "a": "Solo la disponibilidad técnica de la Agencia, sin necesidad de conformidad alguna del inspeccionado",
+        "b": "Solicitud expresa y exclusiva del propio inspeccionado, sin posibilidad de iniciativa de la Agencia",
+        "c": "Que lo determine la Agencia y se cuente con la conformidad del inspeccionado en relación con su uso y con la fecha y hora de su desarrollo",
+        "d": "Autorización judicial previa específica para cada sesión, equivalente al acceso domiciliario"
+      },
+      "correct": "c",
+      "explicacion": "La utilización de sistemas digitales para las actuaciones de investigación se producirá cuando lo determine la Agencia y requerirá la conformidad del inspeccionado en relación con su uso y con la fecha y hora de su desarrollo, garantizando además la transmisión segura de la información intercambiada.",
+      "ley": "Artículo 53 bis de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una autoridad autonómica somete un proyecto de código de conducta al mecanismo de coherencia europeo. ¿Cómo se gestiona la comunicación con el Comité Europeo en este supuesto?",
+      "options": {
+        "a": "La autoridad autonómica gestiona directamente toda la comunicación, sin intervención de la AEPD",
+        "b": "Se estará a lo dispuesto en el artículo 60 de la LOPD, que regula la coordinación en caso de emisión de dictamen por el Comité Europeo de Protección de Datos",
+        "c": "Se requiere la disolución previa del código de conducta antes de cualquier sometimiento al mecanismo europeo",
+        "d": "El proyecto queda automáticamente suspendido sin posibilidad de tramitación europea para autoridades autonómicas"
+      },
+      "correct": "b",
+      "explicacion": "Cuando sea una autoridad autonómica de protección de datos la que someta el proyecto de código al mecanismo de coherencia, se estará a lo dispuesto en el artículo 60 de la LOPD, que prevé que las comunicaciones con el Comité Europeo se practiquen por conducto de la AEPD, asistida por un representante de la autoridad autonómica.",
+      "ley": "Artículo 38.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El plazo para la designación, comunicación a la AEPD, de un delegado de protección de datos tras su nombramiento es de:",
+      "options": {
+        "a": "Un mes natural, idéntico al de respuesta del delegado en reclamaciones",
+        "b": "Diez días",
+        "c": "Quince días hábiles, distinto del plazo de comunicación de los ceses",
+        "d": "Tres meses, equivalente al plazo de admisión a trámite de reclamaciones"
+      },
+      "correct": "b",
+      "explicacion": "Los responsables y encargados del tratamiento comunicarán en el plazo de diez días a la AEPD o, en su caso, a las autoridades autonómicas, las designaciones, nombramientos y ceses de los delegados de protección de datos, tanto en los supuestos obligatorios como en los voluntarios.",
+      "ley": "Artículo 34.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_20_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Como cierre del régimen de garantías de la LOPD, ¿qué relación existe entre las distintas vías de protección del afectado (delegado de protección de datos, organismos de supervisión de códigos de conducta, y reclamación ante la AEPD)?",
+      "options": {
+        "a": "Son vías completamente excluyentes entre sí, debiendo el afectado optar irrevocablemente por una sola desde el principio",
+        "b": "La intervención de cualquier organismo distinto de la AEPD requiere siempre el consentimiento previo y expreso del responsable del tratamiento",
+        "c": "Solo existe la vía de reclamación directa ante la AEPD, sin que la LOPD prevea ninguna intervención de delegados ni organismos de supervisión",
+        "d": "Son vías complementarias y articuladas: el afectado puede dirigirse primero al delegado o al organismo de supervisión, y si no se resuelve satisfactoriamente, puede acudir a la AEPD, que además puede remitir reclamaciones recibidas a dichos organismos antes de resolver"
+      },
+      "correct": "d",
+      "explicacion": "La LOPD articula un sistema complementario de garantías: el afectado puede dirigirse al delegado de protección de datos (artículo 37) o, en el marco de códigos de conducta, al organismo de supervisión (artículo 38.2), antes de o en paralelo a la reclamación ante la AEPD, que a su vez puede remitir reclamaciones recibidas a dichos organismos antes de resolver sobre su admisión a trámite (artículo 65.4), conformando un sistema escalonado y coordinado de protección.",
+      "ley": "Artículos 37, 38 y 65 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

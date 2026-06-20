@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_10_test_03_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Toda notificación deberá ser cursada dentro del plazo de diez días desde que el acto haya sido dictado, y deberá contener:",
+      "options": {
+        "a": "Solo el texto íntegro de la resolución, sin más requisitos formales",
+        "b": "El texto íntegro de la resolución, con indicación de si pone fin a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+        "c": "Un resumen del acto y la indicación del plazo para recurrirlo",
+        "d": "Únicamente los recursos que procedan ante la jurisdicción contencioso-administrativa"
+      },
+      "correct": "b",
+      "explicacion": "Toda notificación debe ser cursada en diez días desde el dictado del acto y debe contener: el texto íntegro de la resolución, indicación de si pone o no fin a la vía administrativa, los recursos que procedan en vía administrativa y judicial, el órgano ante el que presentarlos y el plazo para interponerlos.",
+      "ley": "Artículo 40.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las notificaciones que contengan el texto íntegro del acto pero omitan alguno de los demás requisitos legales surtirán efecto:",
+      "options": {
+        "a": "A partir de la fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución, o interponga cualquier recurso que proceda",
+        "b": "Solo si el interesado renuncia expresamente a alegar el defecto de forma",
+        "c": "Desde el momento en que se intente practicar la notificación, aunque el interesado no la reciba",
+        "d": "Nunca, al ser nulas de pleno derecho por incumplir los requisitos formales"
+      },
+      "correct": "a",
+      "explicacion": "Las notificaciones que contengan el texto íntegro del acto pero omitan alguno de los demás requisitos (indicación de recursos, órgano, plazo) surtirán efecto desde que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución, o interponga cualquier recurso que proceda.",
+      "ley": "Artículo 40.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las notificaciones se practicarán preferentemente:",
+      "options": {
+        "a": "Mediante entrega personal por el empleado público, con preferencia sobre otros medios",
+        "b": "Por medios electrónicos, y en todo caso cuando el interesado resulte obligado a recibirlas por esta vía",
+        "c": "En papel, salvo que el interesado haya optado expresamente por medios electrónicos",
+        "d": "Por correo certificado con acuse de recibo, como medio preferente en todo caso"
+      },
+      "correct": "b",
+      "explicacion": "Las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía. Excepcionalmente pueden practicarse por medios no electrónicos cuando el interesado comparezca espontáneamente solicitándolo, o cuando sea necesario para asegurar la eficacia de la actuación administrativa.",
+      "ley": "Artículo 41.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Cuando la notificación en papel se practique en el domicilio del interesado y este no se halle presente, podrá hacerse cargo de la misma:",
+      "options": {
+        "a": "Solo el cónyuge o pareja de hecho del interesado",
+        "b": "Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad",
+        "c": "Únicamente persona mayor de dieciocho años con documento de identidad acreditado",
+        "d": "Solo el representante legal previamente inscrito en el procedimiento"
+      },
+      "correct": "b",
+      "explicacion": "Cuando la notificación se practique en el domicilio del interesado y este no se halle presente, podrá hacerse cargo de ella cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad. Si nadie se hiciera cargo, se intentará de nuevo en hora distinta dentro de los tres días siguientes.",
+      "ley": "Artículo 42.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Si el primer intento de notificación en papel no es posible, el segundo intento se realizará:",
+      "options": {
+        "a": "Dentro de los diez días siguientes en cualquier horario",
+        "b": "Al día siguiente hábil en el mismo horario",
+        "c": "Únicamente si el interesado lo solicita expresamente por escrito",
+        "d": "En una hora distinta dentro de los tres días siguientes, y si el primer intento fue antes de las quince horas, el segundo deberá ser después de las quince horas y viceversa"
+      },
+      "correct": "d",
+      "explicacion": "Si nadie se hace cargo de la notificación, el intento se repetirá por una sola vez en una hora distinta dentro de los tres días siguientes. Si el primer intento se realizó antes de las quince horas, el segundo deberá realizarse después de las quince horas, y viceversa, dejando al menos un margen de tres horas entre ambos intentos.",
+      "ley": "Artículo 42.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las notificaciones por medios electrónicos se entenderán rechazadas cuando:",
+      "options": {
+        "a": "Transcurran dos días hábiles sin acceder a su contenido en cualquier supuesto",
+        "b": "El interesado manifieste verbalmente que no desea recibirla",
+        "c": "El interesado no haya habilitado una dirección electrónica habilitada única",
+        "d": "Hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido, si la notificación electrónica es obligatoria o fue elegida por el interesado"
+      },
+      "correct": "d",
+      "explicacion": "Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+      "ley": "Artículo 43.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando los interesados en un procedimiento sean desconocidos o no pueda practicarse la notificación, esta se hará por medio de anuncio publicado en:",
+      "options": {
+        "a": "El «Boletín Oficial del Estado»",
+        "b": "El Boletín de la Comunidad Autónoma correspondiente, con preferencia sobre el estatal",
+        "c": "Cualquier diario de tirada nacional elegido por la Administración",
+        "d": "Exclusivamente en el tablón de edictos del Ayuntamiento de su último domicilio"
+      },
+      "correct": "a",
+      "explicacion": "Cuando los interesados sean desconocidos, se ignore el lugar de notificación o, intentada esta, no se hubiera podido practicar, la notificación se hará por medio de anuncio publicado en el «Boletín Oficial del Estado». Con carácter facultativo y previo pueden publicarse anuncios en el boletín autonómico o provincial, o en el tablón del Ayuntamiento.",
+      "ley": "Artículo 44 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En todo caso, los actos administrativos serán objeto de publicación, surtiendo esta los efectos de la notificación, cuando:",
+      "options": {
+        "a": "El acto tenga efectos económicos superiores a cien mil euros",
+        "b": "La Administración lo considere conveniente por razones de oportunidad política",
+        "c": "El acto tenga por destinatario a una pluralidad indeterminada de personas, o cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva",
+        "d": "El interesado se oponga a recibir la notificación individual"
+      },
+      "correct": "c",
+      "explicacion": "En todo caso serán publicados los actos que tengan por destinatario a una pluralidad indeterminada de personas, los casos en que la notificación individual sea insuficiente, y los actos integrantes de procedimientos selectivos o de concurrencia competitiva (en este último caso, la convocatoria deberá indicar el medio de publicaciones sucesivas).",
+      "ley": "Artículo 45.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Son nulos de pleno derecho los actos de las Administraciones Públicas que, entre otros supuestos:",
+      "options": {
+        "a": "Lesionen los derechos y libertades susceptibles de amparo constitucional, sean dictados por órgano manifiestamente incompetente por razón de la materia o del territorio, o prescindan total y absolutamente del procedimiento legalmente establecido",
+        "b": "Contengan un error aritmético de escasa trascendencia",
+        "c": "Hayan sido dictados por órgano incompetente jerárquicamente pero no por razón de la materia",
+        "d": "Sean dictados con un leve defecto de forma sin afectar a su contenido"
+      },
+      "correct": "a",
+      "explicacion": "Son nulos de pleno derecho los actos que lesionen derechos susceptibles de amparo constitucional, los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio, los de contenido imposible, los constitutivos de infracción penal, los que prescindan total y absolutamente del procedimiento legalmente establecido, y los actos contrarios al ordenamiento por los que se adquieran facultades sin cumplir los requisitos esenciales.",
+      "ley": "Artículo 47.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. También serán nulas de pleno derecho las disposiciones administrativas que:",
+      "options": {
+        "a": "Vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan retroactividad de disposiciones sancionadoras no favorables",
+        "b": "Contengan errores de transcripción sin afectar a su contenido esencial",
+        "c": "Sean dictadas por órgano competente pero con defecto de forma secundario",
+        "d": "Modifiquen reglamentos anteriores sin la debida motivación expresa"
+      },
+      "correct": "a",
+      "explicacion": "Son nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+      "ley": "Artículo 47.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder. El defecto de forma solo determinará la anulabilidad cuando:",
+      "options": {
+        "a": "Cualquier defecto de forma, por mínimo que sea, determina siempre la anulabilidad",
+        "b": "El defecto sea denunciado por el interesado dentro del plazo de audiencia",
+        "c": "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+        "d": "Solo cuando el órgano superior jerárquico así lo declare expresamente"
+      },
+      "correct": "c",
+      "explicacion": "El defecto de forma solo determina la anulabilidad del acto cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados. Los defectos de forma que no produzcan estas consecuencias no afectan a la validez del acto.",
+      "ley": "Artículo 48.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La nulidad o anulabilidad de un acto administrativo en relación con los actos sucesivos del procedimiento:",
+      "options": {
+        "a": "Implica siempre la nulidad de todos los actos posteriores del procedimiento sin excepción",
+        "b": "Se traslada automáticamente a todos los actos del mismo órgano",
+        "c": "No implicará la de los actos sucesivos que sean independientes del primero",
+        "d": "Solo afecta a los actos del mismo expediente dictados en los diez días siguientes"
+      },
+      "correct": "c",
+      "explicacion": "La nulidad o anulabilidad de un acto no implicará la de los actos sucesivos en el procedimiento que sean independientes del primero. Del mismo modo, la nulidad o anulabilidad en parte del acto no implica la de las partes independientes de aquella, salvo que la parte viciada sea tan esencial que sin ella el acto no hubiera sido dictado.",
+      "ley": "Artículo 49 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los actos nulos o anulables que contengan los elementos constitutivos de otro acto distinto:",
+      "options": {
+        "a": "Requieren nueva tramitación íntegra del procedimiento para producir efectos",
+        "b": "Solo pueden ser convalidados por el Consejo de Estado",
+        "c": "Serán declarados nulos en su totalidad sin posibilidad de conversión",
+        "d": "Producirán los efectos de ese otro acto (conversión de actos viciados)"
+      },
+      "correct": "d",
+      "explicacion": "La conversión de actos viciados permite que los actos nulos o anulables que contengan los elementos constitutivos de otro acto distinto produzcan los efectos de ese otro acto, limitando así las consecuencias de los vicios de legalidad y preservando la eficacia administrativa en lo posible.",
+      "ley": "Artículo 50 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan. El acto de convalidación producirá efecto:",
+      "options": {
+        "a": "Solo desde que sea notificado a todos los interesados en el procedimiento",
+        "b": "Desde su fecha, salvo lo dispuesto para la retroactividad de los actos administrativos",
+        "c": "Desde la fecha de la publicación en el Boletín Oficial correspondiente",
+        "d": "Retroactivamente desde la fecha del acto originalmente viciado, en todo caso"
+      },
+      "correct": "b",
+      "explicacion": "El acto de convalidación producirá efecto desde su fecha, sin perjuicio de la posibilidad de otorgar eficacia retroactiva en los supuestos previstos en el artículo 39.3 (sustitución de actos anulados o efectos favorables al interesado). Si el vicio consiste en incompetencia no determinante de nulidad, puede convalidar el órgano jerárquico superior.",
+      "ley": "Artículo 52.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes causas de nulidad de pleno derecho de los actos administrativos NO está recogida en el artículo 47 de la Ley 39/2015:",
+      "options": {
+        "a": "Los actos que tengan un contenido imposible",
+        "b": "Los actos que lesionen los derechos y libertades susceptibles de amparo constitucional",
+        "c": "Los actos que contengan un defecto de forma secundario que no produzca indefensión",
+        "d": "Los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio"
+      },
+      "correct": "c",
+      "explicacion": "El defecto de forma secundario que no produce indefensión no es causa de nulidad de pleno derecho sino, en el mejor de los casos, de anulabilidad, y únicamente cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a indefensión. Las causas de nulidad de pleno derecho son tasadas y de interpretación estricta.",
+      "ley": "Artículos 47 y 48 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando el interesado rechaza la notificación de una actuación administrativa:",
+      "options": {
+        "a": "Se declara la nulidad del procedimiento por vulneración del derecho de defensa",
+        "b": "El órgano administrativo deberá intentar la notificación por todos los medios disponibles indefinidamente",
+        "c": "Se hará constar en el expediente, especificando las circunstancias del intento y el medio, dando por efectuado el trámite y siguiéndose el procedimiento",
+        "d": "El procedimiento queda suspendido hasta que el interesado decida aceptar la notificación"
+      },
+      "correct": "c",
+      "explicacion": "Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio empleado, dando por efectuado el trámite y siguiéndose el procedimiento.",
+      "ley": "Artículo 41.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas enviarán un aviso al dispositivo electrónico o dirección de correo electrónico del interesado informándole de una notificación puesta a disposición. La falta de práctica de este aviso:",
+      "options": {
+        "a": "No impedirá que la notificación sea considerada plenamente válida",
+        "b": "Determinará la nulidad de la notificación en todo caso",
+        "c": "Obligará a la Administración a reiniciar el plazo de notificación desde cero",
+        "d": "Generará responsabilidad patrimonial automática de la Administración"
+      },
+      "correct": "a",
+      "explicacion": "Aunque las Administraciones deben enviar un aviso al dispositivo electrónico o correo electrónico del interesado informándole de la puesta a disposición de una notificación, la falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida.",
+      "ley": "Artículo 41.6 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En ningún caso se efectuarán por medios electrónicos las notificaciones:",
+      "options": {
+        "a": "Dirigidas a personas jurídicas, aunque estas estén obligadas a relacionarse electrónicamente",
+        "b": "En procedimientos sancionadores, por afectar a derechos fundamentales",
+        "c": "Que contengan resoluciones de más de diez páginas en formato digital",
+        "d": "Que vayan acompañadas de elementos no susceptibles de conversión en formato electrónico, o que contengan medios de pago a favor de los obligados, tales como cheques"
+      },
+      "correct": "d",
+      "explicacion": "En ningún caso se efectuarán por medios electrónicos las notificaciones en que el acto vaya acompañado de elementos no susceptibles de conversión en formato electrónico, y las que contengan medios de pago a favor de los obligados, tales como cheques.",
+      "ley": "Artículo 41.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando el interesado es notificado por distintos cauces en el mismo procedimiento, se tomará como fecha de notificación:",
+      "options": {
+        "a": "La que resulte más favorable para el interesado",
+        "b": "La notificación electrónica, con independencia de cuándo se produjera",
+        "c": "La última recibida, por ser la más completa",
+        "d": "La de aquella que se hubiera producido en primer lugar"
+      },
+      "correct": "d",
+      "explicacion": "Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de aquella que se hubiera producido en primer lugar, lo que garantiza la seguridad jurídica y evita dilaciones indebidas en los plazos.",
+      "ley": "Artículo 41.7 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_03_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
+      "options": {
+        "a": "Siempre implicará la nulidad de pleno derecho del acto realizado",
+        "b": "Solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo",
+        "c": "No tendrá ningún efecto sobre la validez del acto en ningún caso",
+        "d": "Producirá la anulabilidad automática e inmediata del acto, sin necesidad de impugnación"
+      },
+      "correct": "b",
+      "explicacion": "La realización de actuaciones administrativas fuera del tiempo establecido solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo. La mera extemporaneidad no produce por sí sola la invalidez del acto, siendo necesario que la naturaleza del plazo así lo exija.",
+      "ley": "Artículo 48.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+  ]
+}

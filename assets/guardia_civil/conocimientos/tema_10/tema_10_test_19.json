@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_10_test_19_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la delegación de competencias en la Ley 40/2015 NO es correcta:",
+      "options": {
+        "a": "Las resoluciones adoptadas por delegación se considerarán dictadas por el órgano delegante",
+        "b": "La delegación de competencias no supone alteración de la titularidad de la competencia",
+        "c": "Las competencias que se ejercen por delegación pueden a su vez delegarse libremente sin necesidad de autorización legal expresa",
+        "d": "Las delegaciones de competencias deben publicarse en el boletín oficial correspondiente según el ámbito territorial"
+      },
+      "correct": "c",
+      "explicacion": "Salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por delegación. Esta regla impide la subdelegación en cadena sin control legal expreso, a diferencia de lo que afirma incorrectamente la opción seleccionada.",
+      "ley": "Artículo 9.5 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la avocación de competencias NO es correcta:",
+      "options": {
+        "a": "En supuestos de delegación en órganos no dependientes jerárquicamente, solo puede avocar el órgano delegante",
+        "b": "Contra el acuerdo de avocación cabe recurso de alzada directo ante el órgano superior jerárquico del que avoca",
+        "c": "La avocación se realiza mediante acuerdo motivado notificado a los interesados antes o simultáneamente a la resolución final",
+        "d": "La avocación puede impugnarse en el recurso que se interponga contra la resolución del procedimiento"
+      },
+      "correct": "b",
+      "explicacion": "Contra el acuerdo de avocación no cabrá recurso directo, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento. La avocación es una decisión instrumental dentro del procedimiento, no susceptible de recurso autónomo.",
+      "ley": "Artículo 10.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre las encomiendas de gestión NO es correcta:",
+      "options": {
+        "a": "Las encomiendas de gestión pueden tener por objeto prestaciones propias de los contratos del sector público cuando ello redunde en mayor eficacia",
+        "b": "El órgano encomendado tendrá la condición de encargado del tratamiento de los datos personales a los que tenga acceso",
+        "c": "La encomienda entre órganos de distintas Administraciones se formaliza mediante convenio publicado en el boletín oficial correspondiente",
+        "d": "La encomienda de gestión no supone cesión de la titularidad de la competencia"
+      },
+      "correct": "a",
+      "explicacion": "Las encomiendas de gestión no podrán tener por objeto prestaciones propias de los contratos regulados en la legislación de contratos del sector público. Si la prestación encomendada coincide con el objeto de un contrato, su naturaleza y régimen jurídico se ajustará a la legislación de contratos.",
+      "ley": "Artículo 11.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la suplencia de titulares de órganos administrativos NO es correcta:",
+      "options": {
+        "a": "En las resoluciones dictadas mediante suplencia debe constar esta circunstancia",
+        "b": "Si no se designa suplente, la competencia se ejercerá por quien designe el órgano inmediato superior",
+        "c": "La suplencia implica siempre alteración de la competencia a favor del suplente, que asume la titularidad mientras dure la suplencia",
+        "d": "Para la validez de la suplencia no es necesaria su publicación"
+      },
+      "correct": "c",
+      "explicacion": "La suplencia no implica alteración de la competencia. El suplente ejerce temporalmente las funciones del titular sin que ello signifique transmisión de la titularidad de la competencia, que sigue correspondiendo al órgano suplido.",
+      "ley": "Artículo 13.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre órganos colegiados NO es correcta:",
+      "options": {
+        "a": "Cuando los miembros votan en contra o se abstienen quedan exentos de la responsabilidad derivada del acuerdo",
+        "b": "Todos los órganos colegiados pueden constituirse, convocar y celebrar sesiones tanto presencialmente como a distancia",
+        "c": "Para la válida constitución del órgano colegiado siempre es necesaria la asistencia presencial física de todos sus miembros, sin posibilidad de participación a distancia",
+        "d": "Los acuerdos se adoptan por mayoría de votos"
+      },
+      "correct": "c",
+      "explicacion": "Todos los órganos colegiados podrán constituirse, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario. No se exige asistencia física de todos los miembros.",
+      "ley": "Artículo 17.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la abstención y recusación NO es correcta:",
+      "options": {
+        "a": "La recusación puede promoverse por los interesados en cualquier momento de la tramitación del procedimiento",
+        "b": "La no abstención cuando concurra causa dará lugar a la responsabilidad que proceda",
+        "c": "Son motivos de abstención tener interés personal en el asunto o ser administrador de sociedad interesada",
+        "d": "Contra las resoluciones adoptadas en materia de recusación cabe siempre recurso de alzada ante el superior jerárquico inmediato"
+      },
+      "correct": "d",
+      "explicacion": "Contra las resoluciones adoptadas en materia de recusación no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.",
+      "ley": "Artículo 24.5 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la potestad sancionadora NO es correcta:",
+      "options": {
+        "a": "Las normas definidoras de infracciones y sanciones no son susceptibles de aplicación analógica",
+        "b": "Las disposiciones sancionadoras favorables al infractor tienen efecto retroactivo",
+        "c": "Las sanciones administrativas pueden implicar privación de libertad cuando la infracción sea calificada como muy grave",
+        "d": "La potestad sancionadora se ejerce cuando haya sido expresamente reconocida por una norma con rango de Ley"
+      },
+      "correct": "c",
+      "explicacion": "Las sanciones administrativas, sean o no de naturaleza pecuniaria, en ningún caso podrán implicar, directa o subsidiariamente, privación de libertad, con independencia de la gravedad de la infracción cometida. La privación de libertad queda reservada al ámbito penal.",
+      "ley": "Artículo 29.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre prescripción de infracciones y sanciones NO es correcta:",
+      "options": {
+        "a": "El plazo de prescripción de las infracciones comienza a contarse desde el día en que se cometió la infracción",
+        "b": "La iniciación con conocimiento del interesado de un procedimiento sancionador interrumpe la prescripción",
+        "c": "En infracciones continuadas o permanentes, el plazo de prescripción comienza desde que finalizó la conducta infractora",
+        "d": "Las infracciones leves prescriben siempre a los seis meses, sin posibilidad de que la ley reguladora establezca un plazo distinto"
+      },
+      "correct": "d",
+      "explicacion": "Las infracciones y sanciones prescribirán según lo dispuesto en las leyes que las establezcan. Solo si estas leyes no fijan plazos de prescripción, las infracciones leves prescribirán a los seis meses con carácter subsidiario, pudiendo cada ley reguladora establecer plazos distintos.",
+      "ley": "Artículo 30.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre responsabilidad patrimonial de las Administraciones Públicas NO es correcta:",
+      "options": {
+        "a": "El daño alegado debe ser efectivo, evaluable económicamente e individualizado",
+        "b": "No serán indemnizables los daños que se deriven de hechos que no se pudieran prever según el estado de la ciencia o técnica existente",
+        "c": "La mera anulación en vía administrativa o judicial de un acto presupone siempre el derecho del interesado a ser indemnizado",
+        "d": "Los particulares tienen derecho a ser indemnizados por el funcionamiento normal o anormal de los servicios públicos"
+      },
+      "correct": "c",
+      "explicacion": "La anulación en vía administrativa o por el orden jurisdiccional contencioso-administrativo de los actos o disposiciones administrativas no presupone, por sí misma, derecho a la indemnización. Es necesario que concurran además los demás requisitos de la responsabilidad patrimonial.",
+      "ley": "Artículo 32.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la sede electrónica NO es correcta:",
+      "options": {
+        "a": "El establecimiento de una sede electrónica exime a su titular de cualquier responsabilidad sobre la veracidad de la información publicada",
+        "b": "La sede electrónica es una dirección electrónica cuya titularidad corresponde a una Administración Pública u organismo público",
+        "c": "Las sedes electrónicas deben garantizar la identificación del órgano titular de la sede",
+        "d": "Las sedes deben disponer de medios para formular sugerencias y quejas"
+      },
+      "correct": "a",
+      "explicacion": "El establecimiento de una sede electrónica conlleva la responsabilidad de su titular respecto de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma, sin que exista ninguna exención de dicha responsabilidad.",
+      "ley": "Artículo 38.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre los convenios NO es correcta:",
+      "options": {
+        "a": "Los convenios no pueden tener por objeto prestaciones propias de los contratos del sector público",
+        "b": "Los Protocolos Generales de Actuación que comporten meras declaraciones de intención tienen la consideración de convenios a todos los efectos",
+        "c": "Los convenios se perfeccionan por la prestación del consentimiento de las partes",
+        "d": "Las aportaciones financieras comprometidas por los firmantes no pueden superar los gastos derivados de la ejecución del convenio"
+      },
+      "correct": "b",
+      "explicacion": "No tienen la consideración de convenios los Protocolos Generales de Actuación o instrumentos similares que comporten meras declaraciones de intención de contenido general, siempre que no supongan la formalización de compromisos jurídicos concretos y exigibles.",
+      "ley": "Artículo 47.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la organización de la Administración General del Estado NO es correcta:",
+      "options": {
+        "a": "Los Secretarios de Estado tienen la consideración de órganos directivos, no de órganos superiores",
+        "b": "Los Ministros y los Secretarios de Estado son órganos superiores en la organización central de la AGE",
+        "c": "Los órganos superiores y directivos tienen la condición de alto cargo, excepto los Subdirectores generales",
+        "d": "La AGE comprende la Organización Central, la Organización Territorial y la Administración en el exterior"
+      },
+      "correct": "a",
+      "explicacion": "Los Secretarios de Estado son órganos superiores, junto con los Ministros, no órganos directivos. Son órganos directivos los Subsecretarios y Secretarios generales, los Secretarios generales técnicos y Directores generales, y los Subdirectores generales.",
+      "ley": "Artículo 55.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre los Delegados del Gobierno en las Comunidades Autónomas NO es correcta:",
+      "options": {
+        "a": "Los Delegados del Gobierno son órganos directivos con rango de Subsecretario",
+        "b": "Los Delegados del Gobierno dependen funcionalmente del Presidente del Gobierno y orgánicamente del Ministerio competente por razón de la materia",
+        "c": "Los Delegados del Gobierno son nombrados por Real Decreto del Consejo de Ministros a propuesta del Presidente del Gobierno",
+        "d": "Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la Comunidad Autónoma"
+      },
+      "correct": "b",
+      "explicacion": "Los Delegados del Gobierno dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia, no al revés. Esta distinción organizativa es relevante para entender la doble línea de dependencia de los Delegados del Gobierno.",
+      "ley": "Artículo 72.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre los Subdelegados del Gobierno NO es correcta:",
+      "options": {
+        "a": "Los Subdelegados son nombrados por el Delegado mediante libre designación entre funcionarios del Subgrupo A1",
+        "b": "Los Subdelegados del Gobierno tienen rango de Director general, igual que los Directores Generales de los Ministerios",
+        "c": "En las Comunidades uniprovinciales sin Subdelegado, el Delegado asume sus competencias",
+        "d": "Los Subdelegados del Gobierno están bajo la inmediata dependencia del Delegado del Gobierno"
+      },
+      "correct": "b",
+      "explicacion": "Los Subdelegados del Gobierno tienen nivel de Subdirector General, no de Director general. Esta diferencia de rango refleja la posición jerárquica de los Subdelegados respecto a los Delegados del Gobierno, que tienen rango de Subsecretario.",
+      "ley": "Artículo 74 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre las relaciones interadministrativas NO es correcta:",
+      "options": {
+        "a": "El deber de colaboración incluye facilitar a otras Administraciones la información que precisen sobre su actividad",
+        "b": "La negativa a prestar asistencia debe comunicarse motivadamente a la Administración solicitante",
+        "c": "Las Administraciones se rigen por principios como la lealtad institucional y la cooperación voluntaria",
+        "d": "La asistencia y colaboración entre Administraciones nunca puede negarse, siendo siempre obligatoria con independencia de las circunstancias"
+      },
+      "correct": "d",
+      "explicacion": "La asistencia y colaboración requerida sí puede negarse en determinados supuestos: cuando el organismo no esté facultado para prestarla, no disponga de medios suficientes, causara un perjuicio grave a sus intereses o funciones, o la información solicitada tenga carácter confidencial o reservado.",
+      "ley": "Artículo 141.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre las Conferencias Sectoriales NO es correcta:",
+      "options": {
+        "a": "Las Conferencias Sectoriales deben inscribirse en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación",
+        "b": "Las Conferencias Sectoriales son presididas siempre por el Presidente del Gobierno, con independencia de la materia tratada",
+        "c": "Los Acuerdos de las Conferencias Sectoriales son de obligado cumplimiento, salvo para quienes hayan votado en contra mientras no decidan suscribirlos",
+        "d": "Las Conferencias Sectoriales son órganos de cooperación de composición multilateral y ámbito sectorial determinado"
+      },
+      "correct": "b",
+      "explicacion": "Las Conferencias Sectoriales son presididas por el miembro del Gobierno que, en representación de la AGE, resulte competente por razón de la materia tratada en la Conferencia, no necesariamente por el Presidente del Gobierno. Es la Conferencia de Presidentes la presidida por el Presidente del Gobierno.",
+      "ley": "Artículo 147.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre las actuaciones administrativas automatizadas NO es correcta:",
+      "options": {
+        "a": "Puede utilizarse el sello electrónico o el código seguro de verificación como sistemas de firma",
+        "b": "Debe establecerse previamente el órgano responsable a efectos de impugnación",
+        "c": "Es cualquier acto realizado íntegramente a través de medios electrónicos sin intervención directa de un empleado público",
+        "d": "En la actuación administrativa automatizada siempre debe intervenir directamente un empleado público para validar el resultado final"
+      },
+      "correct": "d",
+      "explicacion": "Se entiende por actuación administrativa automatizada precisamente aquella en la que no haya intervenido de forma directa un empleado público; esta es la característica definitoria de este tipo de actuación, distinguiéndola de la actuación ordinaria con intervención humana.",
+      "ley": "Artículo 41.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la Comisión interministerial de coordinación de la Administración periférica del Estado NO es correcta:",
+      "options": {
+        "a": "Es un órgano resolutorio que sustituye a los Delegados del Gobierno en sus funciones de coordinación",
+        "b": "Sus atribuciones, composición y funcionamiento se regulan mediante Real Decreto",
+        "c": "Se encarga de coordinar la actuación de la Administración periférica con los distintos Departamentos ministeriales",
+        "d": "Es un órgano colegiado adscrito al Ministerio de Hacienda y Administraciones Públicas"
+      },
+      "correct": "a",
+      "explicacion": "La Comisión interministerial de coordinación de la Administración periférica del Estado es un órgano colegiado de coordinación, no un órgano resolutorio que sustituya a los Delegados del Gobierno, cuyas competencias propias y directas mantienen plena vigencia.",
+      "ley": "Artículo 78 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la tipicidad de las infracciones administrativas NO es correcta:",
+      "options": {
+        "a": "Las normas definidoras de infracciones y sanciones no son susceptibles de aplicación analógica",
+        "b": "Solo constituyen infracciones administrativas las vulneraciones previstas como tales por una Ley",
+        "c": "Las infracciones administrativas se clasifican por la Ley en leves, graves y muy graves",
+        "d": "Las disposiciones reglamentarias de desarrollo pueden crear nuevas infracciones administrativas siempre que se justifique adecuadamente"
+      },
+      "correct": "d",
+      "explicacion": "Las disposiciones reglamentarias de desarrollo solo pueden introducir especificaciones o graduaciones al cuadro de infracciones o sanciones establecidas legalmente, sin que en ningún caso puedan constituir nuevas infracciones o sanciones ni alterar la naturaleza o límites de las establecidas por ley.",
+      "ley": "Artículo 27.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_19_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la responsabilidad concurrente de varias Administraciones Públicas NO es correcta:",
+      "options": {
+        "a": "Cuando de fórmulas conjuntas de actuación entre varias Administraciones se derive responsabilidad, cada Administración responde únicamente de la parte que le sea proporcionalmente atribuible",
+        "b": "Las Administraciones intervinientes responden frente al particular de forma solidaria",
+        "c": "Esto se aplica cuando de la gestión dimanante de fórmulas conjuntas de actuación se derive responsabilidad patrimonial",
+        "d": "El particular puede dirigir su reclamación contra cualquiera de las Administraciones intervinientes"
+      },
+      "correct": "a",
+      "explicacion": "Cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones Públicas se derive responsabilidad, las Administraciones intervinientes responderán frente al particular, en todo caso, de forma solidaria, no de forma proporcional, lo que permite al particular reclamar el total a cualquiera de ellas.",
+      "ley": "Artículo 33.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    }
+  ]
+}

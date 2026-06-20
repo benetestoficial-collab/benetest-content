@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_10_test_17_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los principios por los que se rigen las relaciones interadministrativas incluyen, entre otros:",
+      "options": {
+        "a": "Solo el principio de jerarquía entre Administraciones, siendo la del Estado superior a las autonómicas y locales",
+        "b": "Lealtad institucional, colaboración, cooperación voluntaria en el ejercicio de competencias propias, coordinación para garantizar la coherencia de actuaciones, eficiencia en gestión de recursos públicos, responsabilidad y solidaridad interterritorial",
+        "c": "Exclusivamente los principios de eficacia y economía, sin obligaciones de cooperación",
+        "d": "Solo coordinación y subordinación de las Administraciones autonómicas y locales a la General del Estado"
+      },
+      "correct": "b",
+      "explicacion": "Las Administraciones Públicas actúan y se relacionan de acuerdo con los principios de: lealtad institucional; adecuación al orden de distribución de competencias; colaboración para lograr fines comunes; cooperación voluntaria; coordinación para garantizar la coherencia de actuaciones; eficiencia en la gestión de recursos; responsabilidad en el cumplimiento de obligaciones; garantía e igualdad de derechos de los ciudadanos; y solidaridad interterritorial.",
+      "ley": "Artículo 140 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La asistencia y colaboración entre Administraciones Públicas puede negarse cuando:",
+      "options": {
+        "a": "El organismo requerido lo considere oportuno sin necesidad de motivación",
+        "b": "El organismo no esté facultado para prestarla, no disponga de medios suficientes, causaría un perjuicio grave a los intereses encomendados o a sus propias funciones, o la información solicitada tenga carácter confidencial o reservado",
+        "c": "Las Administraciones pertenezcan a distintos niveles territoriales",
+        "d": "La solicitud de asistencia suponga un incremento de gasto para el organismo requerido"
+      },
+      "correct": "b",
+      "explicacion": "La asistencia y colaboración requerida solo podrá negarse cuando el organismo no esté facultado para prestarla de acuerdo con su normativa específica, no disponga de medios suficientes para ello, cuando de hacerlo causara un perjuicio grave a los intereses cuya tutela tiene encomendada o al cumplimiento de sus propias funciones, o cuando la información solicitada tenga carácter confidencial o reservado. La negativa debe comunicarse motivadamente.",
+      "ley": "Artículo 141.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La Conferencia de Presidentes es un órgano de cooperación multilateral formada por:",
+      "options": {
+        "a": "El Presidente del Gobierno y los Ministros competentes por razón de la materia a tratar",
+        "b": "Los Presidentes de todas las Administraciones Públicas, incluidos los de Diputaciones y Ayuntamientos",
+        "c": "Solo los Presidentes de las Comunidades Autónomas, sin participación del Presidente del Gobierno",
+        "d": "El Presidente del Gobierno, que la preside, y por los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla"
+      },
+      "correct": "d",
+      "explicacion": "La Conferencia de Presidentes es un órgano de cooperación multilateral entre el Gobierno de la Nación y los respectivos Gobiernos de las Comunidades Autónomas y está formada por el Presidente del Gobierno, que la preside, y por los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.",
+      "ley": "Artículo 146.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La Conferencia Sectorial es un órgano de cooperación de composición multilateral y ámbito sectorial que reúne como Presidente a:",
+      "options": {
+        "a": "El Ministro de la Presidencia, como órgano de coordinación gubernamental",
+        "b": "El Subsecretario del Ministerio competente, sin participación de los Consejos de Gobierno autonómicos",
+        "c": "El miembro del Gobierno que resulte competente por razón de la materia, y a los correspondientes miembros de los Consejos de Gobierno de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla",
+        "d": "El Presidente del Gobierno, que preside todas las Conferencias Sectoriales"
+      },
+      "correct": "c",
+      "explicacion": "La Conferencia Sectorial es un órgano de cooperación, de composición multilateral y ámbito sectorial determinado, que reúne, como Presidente, al miembro del Gobierno que, en representación de la Administración General del Estado, resulte competente por razón de la materia, y a los correspondientes miembros de los Consejos de Gobierno, en representación de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.",
+      "ley": "Artículo 147.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las Conferencias Sectoriales ejercen funciones:",
+      "options": {
+        "a": "Únicamente de coordinación, nunca decisorias ni consultivas",
+        "b": "Consultivas, decisorias o de coordinación orientadas a alcanzar acuerdos sobre materias comunes",
+        "c": "Exclusivamente consultivas, sin posibilidad de adoptar decisiones vinculantes",
+        "d": "Solo informativas, sin posibilidad de funciones de coordinación"
+      },
+      "correct": "b",
+      "explicacion": "Las Conferencias Sectoriales pueden ejercer funciones consultivas, decisorias o de coordinación orientadas a alcanzar acuerdos sobre materias comunes, incluyendo funciones como ser informadas de anteproyectos de leyes, establecer planes de cooperación, intercambiar información y fijar criterios para la distribución territorial de créditos presupuestarios.",
+      "ley": "Artículo 148.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las reuniones de las Conferencias Sectoriales son convocadas por:",
+      "options": {
+        "a": "El Ministro que presida la Conferencia Sectorial, al menos una vez al año, o cuando lo soliciten al menos la tercera parte de sus miembros",
+        "b": "La mitad más uno de los miembros de la Conferencia, siendo el Ministro solo un miembro más",
+        "c": "El Presidente del Gobierno, que convoca todas las conferencias sectoriales",
+        "d": "El Consejo de Estado mediante dictamen preceptivo en cada caso"
+      },
+      "correct": "a",
+      "explicacion": "Corresponde al Ministro que presida la Conferencia Sectorial acordar la convocatoria de las reuniones por iniciativa propia, al menos una vez al año, o cuando lo soliciten al menos la tercera parte de sus miembros. En este último caso, la solicitud deberá incluir la propuesta de orden del día.",
+      "ley": "Artículo 149.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las decisiones de la Conferencia Sectorial pueden revestir la forma de Acuerdo, Recomendación o Declaración. Los Acuerdos:",
+      "options": {
+        "a": "Son siempre vinculantes para todos los miembros, incluyendo los que votaron en contra",
+        "b": "No son jurídicamente vinculantes, teniendo solo valor de recomendación política",
+        "c": "Suponen un compromiso de actuación en el ejercicio de las respectivas competencias, son de obligado cumplimiento y directamente exigibles, salvo para quienes hayan votado en contra mientras no decidan suscribirlos",
+        "d": "Solo son vinculantes para las Administraciones que los han propuesto"
+      },
+      "correct": "c",
+      "explicacion": "Los Acuerdos suponen un compromiso de actuación en el ejercicio de las respectivas competencias. Son de obligado cumplimiento y directamente exigibles de acuerdo con lo previsto en la Ley de Jurisdicción Contencioso-administrativa, salvo para quienes hayan votado en contra mientras no decidan suscribirlos con posterioridad.",
+      "ley": "Artículo 151.2.a) de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Cuando la Administración General del Estado ejerza funciones de coordinación en la Conferencia Sectorial, el Acuerdo adoptado:",
+      "options": {
+        "a": "Será de obligado cumplimiento para todas las Administraciones integrantes de la Conferencia Sectorial, con independencia del sentido de su voto",
+        "b": "Solo es vinculante para las Comunidades Autónomas que han participado en la reunión",
+        "c": "No tiene carácter vinculante, siendo siempre de libre adopción para cada Administración",
+        "d": "Solo es vinculante para la AGE y las Administraciones que lo han votado favorablemente"
+      },
+      "correct": "a",
+      "explicacion": "Cuando la Administración General del Estado ejerza funciones de coordinación, el Acuerdo que se adopte en la Conferencia Sectorial, incluyendo los votos particulares formulados, será de obligado cumplimiento para todas las Administraciones Públicas integrantes de la Conferencia Sectorial, con independencia del sentido de su voto, siendo exigibles conforme a lo establecido legalmente.",
+      "ley": "Artículo 151.2.a) de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Comisiones Bilaterales de Cooperación son órganos de cooperación de composición bilateral que reúnen, por un número igual de representantes, a:",
+      "options": {
+        "a": "Miembros del Gobierno, en representación de la Administración General del Estado, y miembros del Consejo de Gobierno de la Comunidad Autónoma o representantes de Ceuta o Melilla",
+        "b": "El Presidente del Gobierno y el Presidente de la Comunidad Autónoma exclusivamente",
+        "c": "Solo al Ministro competente por razón de la materia y al Consejero autonómico correspondiente",
+        "d": "Representantes de todas las Administraciones afectadas, incluyendo las Entidades Locales"
+      },
+      "correct": "a",
+      "explicacion": "Las Comisiones Bilaterales de Cooperación son órganos de composición bilateral que reúnen, por un número igual de representantes, a miembros del Gobierno, en representación de la Administración General del Estado, y miembros del Consejo de Gobierno de la Comunidad Autónoma o representantes de la Ciudad de Ceuta o de la Ciudad de Melilla.",
+      "ley": "Artículo 153.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las Comisiones Bilaterales de Cooperación ejercen funciones de:",
+      "options": {
+        "a": "Consulta y adopción de acuerdos para mejorar la coordinación entre las respectivas Administraciones en asuntos que afecten de forma singular a la Comunidad Autónoma, Ceuta o Melilla",
+        "b": "Solo carácter consultivo, sin posibilidad de adoptar acuerdos vinculantes",
+        "c": "Exclusivamente transferencia de competencias del Estado a las Comunidades Autónomas",
+        "d": "Únicamente de coordinación financiera y distribución de créditos presupuestarios"
+      },
+      "correct": "a",
+      "explicacion": "Las Comisiones Bilaterales de Cooperación ejercen funciones de consulta y adopción de acuerdos que tengan por objeto la mejora de la coordinación entre las respectivas Administraciones en asuntos que afecten de forma singular a la Comunidad Autónoma, a la Ciudad de Ceuta o a la Ciudad de Melilla.",
+      "ley": "Artículo 153.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las Comisiones Territoriales de Coordinación pueden crearse cuando:",
+      "options": {
+        "a": "Solo cuando lo ordene el Consejo de Ministros mediante Real Decreto",
+        "b": "La proximidad territorial o la concurrencia de funciones administrativas así lo requiera, de composición multilateral entre Administraciones cuyos territorios sean coincidentes o limítrofes",
+        "c": "Únicamente cuando existan conflictos competenciales entre dos Administraciones diferentes",
+        "d": "Solo para coordinar actuaciones de la AGE con las Comunidades Autónomas, sin Entidades Locales"
+      },
+      "correct": "b",
+      "explicacion": "Cuando la proximidad territorial o la concurrencia de funciones administrativas así lo requiera, podrán crearse Comisiones Territoriales de Coordinación, de composición multilateral, entre Administraciones cuyos territorios sean coincidentes o limítrofes, para mejorar la coordinación de la prestación de servicios, prevenir duplicidades y mejorar la eficiencia y calidad de los servicios.",
+      "ley": "Artículo 154.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El Esquema Nacional de Interoperabilidad comprende:",
+      "options": {
+        "a": "Los criterios de distribución de competencias en materia de telecomunicaciones entre Administraciones",
+        "b": "Únicamente los estándares de firma electrónica reconocidos por la Unión Europea",
+        "c": "Solo las normas técnicas de seguridad informática de las redes de la AGE",
+        "d": "El conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, formatos y aplicaciones que deben tener en cuenta las Administraciones Públicas para sus decisiones tecnológicas que garanticen la interoperabilidad"
+      },
+      "correct": "d",
+      "explicacion": "El Esquema Nacional de Interoperabilidad comprende el conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, de los formatos y de las aplicaciones que deberán ser tenidos en cuenta por las Administraciones Públicas para la toma de decisiones tecnológicas que garanticen la interoperabilidad.",
+      "ley": "Artículo 156.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas, con carácter previo a la adquisición, desarrollo o mantenimiento de una aplicación informática, deberán:",
+      "options": {
+        "a": "Comunicar al Congreso de los Diputados los sistemas informáticos que van a adquirir o desarrollar",
+        "b": "Desarrollar siempre aplicaciones propias para garantizar la seguridad y confidencialidad de los datos",
+        "c": "Obtener autorización previa del Ministerio de Hacienda y Función Pública para cualquier nuevo desarrollo",
+        "d": "Consultar en el directorio general de aplicaciones si existen soluciones disponibles para su reutilización que puedan satisfacer sus necesidades, estando obligadas a usar las existentes salvo que la decisión de no reutilizarlas se justifique en términos de eficiencia"
+      },
+      "correct": "d",
+      "explicacion": "Las Administraciones Públicas, con carácter previo a la adquisición, desarrollo o mantenimiento de una aplicación, deberán consultar en el directorio general de aplicaciones si existen soluciones disponibles para su reutilización. Si existe una solución disponible, las Administraciones estarán obligadas a su uso, salvo que la decisión de no reutilizarla se justifique en términos de eficiencia.",
+      "ley": "Artículo 157.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los órganos de cooperación entre distintas Administraciones Públicas en los que participe la AGE, para que resulte válida su sesión constitutiva deberán:",
+      "options": {
+        "a": "Publicar su acta constitutiva en el BOE antes de celebrar la primera sesión",
+        "b": "Obtener autorización previa del Consejo de Ministros mediante Real Decreto",
+        "c": "Inscribirse en el Registro estatal de Órganos e Instrumentos de Cooperación",
+        "d": "Comunicarlo al Tribunal de Cuentas en el plazo de un mes desde su constitución"
+      },
+      "correct": "c",
+      "explicacion": "Los órganos de cooperación entre distintas Administraciones Públicas en los que participe la Administración General del Estado deberán inscribirse en el Registro estatal de Órganos e Instrumentos de Cooperación para que resulte válida su sesión constitutiva. Del mismo modo, las Conferencias Sectoriales deben inscribirse para su válida constitución.",
+      "ley": "Artículo 145.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En las relaciones electrónicas entre Administraciones Públicas, en ningún caso podrá procederse a un tratamiento ulterior de los datos para:",
+      "options": {
+        "a": "Fines incompatibles con el fin para el cual se recogieron inicialmente los datos personales, salvo que las leyes especiales no lo prohíban y se comunique previamente a la Administración cedente",
+        "b": "Fines estadísticos o de investigación científica, que están expresamente prohibidos",
+        "c": "Fines de coordinación entre Administraciones, que requieren siempre nueva recogida de datos",
+        "d": "Cualquier finalidad distinta de la original, siendo el tratamiento ulterior siempre incompatible"
+      },
+      "correct": "a",
+      "explicacion": "En ningún caso podrá procederse a un tratamiento ulterior de los datos para fines incompatibles con el fin para el cual se recogieron inicialmente. No se considera incompatible el tratamiento con fines de archivo en interés público, investigación científica e histórica o fines estadísticos. Si la cesionaria pretende uso para finalidad que estime compatible, deberá comunicarlo previamente a la cedente.",
+      "ley": "Artículo 155.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los Acuerdos de la Conferencia de Presidentes:",
+      "options": {
+        "a": "Solo tienen efectos declarativos, sin ningún tipo de vinculación jurídica para las partes",
+        "b": "Son preparados por el Consejo de Estado y se limitan a los acuerdos financieros entre el Estado y las CCAA",
+        "c": "Solo pueden tratar asuntos propuestos por el Presidente del Gobierno, sin posibilidad de iniciativa autonómica",
+        "d": "Tienen por objeto la deliberación de asuntos y la adopción de acuerdos de interés para el Estado y las Comunidades Autónomas, siendo preparados por un Comité preparatorio presidido por un Ministro del Gobierno"
+      },
+      "correct": "d",
+      "explicacion": "La Conferencia de Presidentes tiene por objeto la deliberación de asuntos y la adopción de acuerdos de interés para el Estado y las Comunidades Autónomas. Está asistida para la preparación de sus reuniones por un Comité preparatorio del que forman parte un Ministro del Gobierno, que lo preside, y un Consejero de cada Comunidad Autónoma.",
+      "ley": "Artículo 146.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Recomendaciones de las Conferencias Sectoriales tienen como finalidad:",
+      "options": {
+        "a": "Sustituir a las circulares ministeriales cuando se refieran a materias de competencia compartida",
+        "b": "Imponer a todas las Administraciones la obligación de actuar según lo indicado, sin posibilidad de discrepancia",
+        "c": "Expresar la opinión de la Conferencia Sectorial sobre un asunto sometido a su consulta, comprometiéndose los miembros a orientar su actuación conforme a ellas salvo quienes votaron en contra, quienes deberán motivar si se apartan de la Recomendación",
+        "d": "Solo publicar la posición común de la Administración General del Estado, sin vinculación para las Comunidades Autónomas"
+      },
+      "correct": "c",
+      "explicacion": "La Recomendación tiene como finalidad expresar la opinión de la Conferencia Sectorial sobre un asunto que se somete a su consulta. Los miembros de la Conferencia Sectorial se comprometen a orientar su actuación de conformidad con lo previsto en la Recomendación, salvo quienes hayan votado en contra mientras no decidan suscribirla. Si algún miembro se aparta de la Recomendación, deberá motivarlo e incorporar dicha justificación en el expediente correspondiente.",
+      "ley": "Artículo 151.2.b) de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La votación en las Conferencias Sectoriales se produce:",
+      "options": {
+        "a": "Solo por unanimidad de todas las Administraciones representadas",
+        "b": "Por la representación que cada Administración Pública tenga y no por los distintos miembros de cada una de ellas",
+        "c": "Por mayoría de dos tercios de todas las Administraciones, sin posibilidad de votos ponderados",
+        "d": "Por mayoría simple de los miembros presentes, contando individualmente cada representante"
+      },
+      "correct": "b",
+      "explicacion": "La adopción de decisiones en las Conferencias Sectoriales requerirá la previa votación de los miembros. Esta votación se producirá por la representación que cada Administración Pública tenga y no por los distintos miembros de cada una de ellas.",
+      "ley": "Artículo 151.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La Administración General del Estado mantendrá un directorio general de aplicaciones para su reutilización, que servirá para:",
+      "options": {
+        "a": "Solo facilitar información estadística sobre el uso de software por las Administraciones Públicas",
+        "b": "Sustituir a los servicios informáticos de las Comunidades Autónomas mediante centralización técnica",
+        "c": "Prestar apoyo para la libre reutilización de aplicaciones e impulsar el desarrollo de aplicaciones, formatos y estándares comunes en el marco de los esquemas nacionales de interoperabilidad y seguridad",
+        "d": "Controlar exclusivamente las aplicaciones del Ministerio de Defensa y de seguridad nacional"
+      },
+      "correct": "c",
+      "explicacion": "La Administración General del Estado mantendrá un directorio general de aplicaciones para su reutilización, prestará apoyo para la libre reutilización de aplicaciones e impulsará el desarrollo de aplicaciones, formatos y estándares comunes en el marco de los esquemas nacionales de interoperabilidad y seguridad.",
+      "ley": "Artículo 158.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_17_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los planes conjuntos multilaterales adoptados por las Conferencias Sectoriales entre la AGE y las CCAA tendrán la naturaleza de:",
+      "options": {
+        "a": "Resoluciones administrativas de la AGE, vinculantes para las CCAA por razón de su posición superior",
+        "b": "Recomendaciones sin carácter vinculante para ninguna de las partes",
+        "c": "Convenios interadministrativos, sujetos al régimen general de los convenios de la Ley 40/2015",
+        "d": "Acuerdo de la conferencia sectorial y se publicarán en el «Boletín Oficial del Estado»"
+      },
+      "correct": "d",
+      "explicacion": "Las Conferencias Sectoriales podrán adoptar planes conjuntos, de carácter multilateral, entre la Administración General del Estado y las Comunidades Autónomas, para comprometer actuaciones conjuntas para la consecución de objetivos comunes, que tendrán la naturaleza de Acuerdo de la conferencia sectorial y se publicarán en el «Boletín Oficial del Estado».",
+      "ley": "Artículo 151.2.a) de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    }
+  ]
+}

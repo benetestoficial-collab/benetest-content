@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 8",
+  "preguntas": [
+    {
+      "id": "tema_10_test_08_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La tramitación simplificada del procedimiento administrativo puede acordarse:",
+      "options": {
+        "a": "Solo en procedimientos sancionadores por infracciones leves previamente calificadas como tales",
+        "b": "Solo de oficio por la Administración, sin posibilidad de que el interesado lo solicite",
+        "c": "Únicamente cuando el importe económico del procedimiento sea inferior a cinco mil euros",
+        "d": "De oficio o a solicitud del interesado, cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen"
+      },
+      "correct": "d",
+      "explicacion": "La tramitación simplificada puede acordarse de oficio o a solicitud del interesado cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen. En cualquier momento anterior a la resolución, el órgano competente puede acordar continuar con la tramitación ordinaria.",
+      "ley": "Artículo 96.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Cuando la Administración acuerda de oficio la tramitación simplificada y un interesado manifiesta su oposición expresa:",
+      "options": {
+        "a": "El órgano superior jerárquico decidirá qué tramitación aplicar",
+        "b": "La oposición no tiene efectos y el procedimiento sigue siendo simplificado",
+        "c": "La Administración deberá seguir la tramitación ordinaria",
+        "d": "El procedimiento se archivará provisionalmente hasta que el interesado acepte la tramitación"
+      },
+      "correct": "c",
+      "explicacion": "Cuando la Administración acuerda de oficio la tramitación simplificada, debe notificarlo a los interesados. Si alguno de ellos manifiesta su oposición expresa, la Administración deberá seguir la tramitación ordinaria. En los procedimientos sancionadores por infracciones leves no cabe esta oposición.",
+      "ley": "Artículo 96.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El plazo para resolver los procedimientos administrativos tramitados de manera simplificada es de:",
+      "options": {
+        "a": "Cinco días hábiles, contados desde que se inicia el procedimiento",
+        "b": "Quince días hábiles desde la solicitud de inicio",
+        "c": "Tres meses en todo caso, igual que la tramitación ordinaria",
+        "d": "Treinta días a contar desde el siguiente a la notificación del acuerdo de tramitación simplificada, salvo que reste menos para la tramitación ordinaria"
+      },
+      "correct": "d",
+      "explicacion": "Los procedimientos tramitados de manera simplificada deberán ser resueltos en treinta días a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada, salvo que reste menos para su resolución conforme a la tramitación ordinaria.",
+      "ley": "Artículo 96.6 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En la tramitación simplificada, el trámite de audiencia solo se realiza cuando:",
+      "options": {
+        "a": "Únicamente cuando el Consejo de Estado lo exija en su dictamen",
+        "b": "Solo en procedimientos sancionadores por infracciones graves",
+        "c": "Siempre, en todos los procedimientos simplificados sin excepción",
+        "d": "La resolución vaya a ser desfavorable para el interesado"
+      },
+      "correct": "d",
+      "explicacion": "En la tramitación simplificada, el trámite de audiencia solo se practica cuando la resolución vaya a ser desfavorable para el interesado. Entre los trámites de la tramitación simplificada también figuran: inicio, subsanación, alegaciones en cinco días, informe jurídico y del CGPJ si son preceptivos, dictamen del Consejo de Estado si es preceptivo, y resolución.",
+      "ley": "Artículo 96.6.d) de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Ponen fin a la vía administrativa, entre otros actos:",
+      "options": {
+        "a": "Solo las resoluciones dictadas por el Consejo de Ministros o equivalente autonómico",
+        "b": "Las resoluciones de los recursos de alzada, los actos de los órganos que carezcan de superior jerárquico, y la resolución de los procedimientos de responsabilidad patrimonial",
+        "c": "Únicamente las resoluciones de los recursos de alzada interpuestos ante el superior jerárquico",
+        "d": "Solo los acuerdos de terminación convencional suscritos por todas las partes"
+      },
+      "correct": "b",
+      "explicacion": "Ponen fin a la vía administrativa: las resoluciones de los recursos de alzada; las resoluciones de los procedimientos alternativos del artículo 112.2; las resoluciones de los órganos que carezcan de superior jerárquico (salvo ley en contrario); los acuerdos finalizadores del procedimiento; la resolución de los procedimientos de responsabilidad patrimonial; y los actos que establezca una disposición legal o reglamentaria.",
+      "ley": "Artículo 114.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En el ámbito estatal, ponen fin a la vía administrativa, entre otros:",
+      "options": {
+        "a": "Solo los actos del Consejo de Ministros, excluyendo los de cada Ministro individualmente",
+        "b": "Los actos de todos los órganos del Ministerio de Hacienda, por ser el órgano de control presupuestario",
+        "c": "Los actos administrativos de los miembros y órganos del Gobierno, y los emanados de los Ministros y Secretarios de Estado en el ejercicio de sus competencias",
+        "d": "Únicamente los actos del Presidente del Gobierno y del Consejo de Ministros"
+      },
+      "correct": "c",
+      "explicacion": "En el ámbito estatal ponen fin a la vía administrativa: los actos de los miembros y órganos del Gobierno; los emanados de los Ministros y Secretarios de Estado en sus competencias; los emanados de órganos directivos con nivel de Director general o superior en materia de personal; y, en organismos públicos, los del máximo órgano de dirección según sus estatutos.",
+      "ley": "Artículo 114.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Son causas de inadmisión de un recurso administrativo, entre otras:",
+      "options": {
+        "a": "Solo la incompetencia del órgano y la falta de firma del recurrente",
+        "b": "Ser incompetente el órgano administrativo cuando el competente pertenezca a otra Administración, carecer de legitimación el recurrente, y haber transcurrido el plazo para la interposición",
+        "c": "Únicamente el transcurso del plazo para interponer el recurso",
+        "d": "Cualquier defecto formal que no haya sido subsanado en el plazo requerido"
+      },
+      "correct": "b",
+      "explicacion": "Son causas de inadmisión: que el órgano sea incompetente cuando el competente pertenezca a otra Administración (debiendo remitirse el recurso); carecer de legitimación el recurrente; tratarse de un acto no susceptible de recurso; haber transcurrido el plazo para la interposición; y carecer el recurso manifiestamente de fundamento.",
+      "ley": "Artículo 116 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Cuando en la resolución de un recurso se aprecia un vicio de forma y no se estima procedente resolver sobre el fondo:",
+      "options": {
+        "a": "La resolución será nula de pleno derecho, archivándose el expediente",
+        "b": "El órgano superior dictará directamente la resolución de fondo sin retrotraer actuaciones",
+        "c": "Se declarará la caducidad del procedimiento y deberá iniciarse de nuevo desde el principio",
+        "d": "Se ordenará la retroacción del procedimiento al momento en que el vicio fue cometido, sin perjuicio de que pueda acordarse la convalidación de actuaciones"
+      },
+      "correct": "d",
+      "explicacion": "Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo, se ordenará la retroacción del procedimiento al momento en que el vicio fue cometido, sin perjuicio de que eventualmente pueda acordarse la convalidación de actuaciones por el órgano competente.",
+      "ley": "Artículo 119.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En la tramitación simplificada de procedimientos sancionadores por infracciones leves:",
+      "options": {
+        "a": "El procedimiento se resuelve en quince días desde la incoación",
+        "b": "No pueden imponerse sanciones superiores a trescientos euros",
+        "c": "No cabe la oposición expresa por parte del interesado para volver a la tramitación ordinaria",
+        "d": "El interesado siempre puede oponerse y exigir la tramitación ordinaria"
+      },
+      "correct": "c",
+      "explicacion": "En los procedimientos de naturaleza sancionadora puede adoptarse la tramitación simplificada cuando el órgano competente considere que existen elementos suficientes para calificar la infracción como leve, sin que en este caso quepa la oposición expresa por parte del interesado que sí está prevista en otros supuestos de tramitación simplificada.",
+      "ley": "Artículo 96.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando el interesado solicita la tramitación simplificada y el órgano competente aprecia que no concurren razones para ello, puede desestimar la solicitud:",
+      "options": {
+        "a": "En cualquier momento del procedimiento, con audiencia previa al interesado",
+        "b": "En el plazo de cinco días desde su presentación, sin que exista posibilidad de recurso; transcurrido ese plazo sin pronunciamiento, la solicitud se entenderá desestimada",
+        "c": "En el plazo de tres meses, que es el plazo general de resolución",
+        "d": "Solo mediante resolución motivada del órgano superior jerárquico"
+      },
+      "correct": "b",
+      "explicacion": "Si el interesado solicita la tramitación simplificada y el órgano aprecia que no concurren las razones previstas, puede desestimar la solicitud en el plazo de cinco días desde su presentación, sin que exista posibilidad de recurso por parte del interesado. Transcurrido ese plazo, la solicitud se entiende desestimada.",
+      "ley": "Artículo 96.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La resolución del recurso en cuanto a su alcance:",
+      "options": {
+        "a": "Decidirá cuantas cuestiones de forma y fondo plantee el procedimiento, hayan sido o no alegadas, siendo congruente con las peticiones del recurrente y sin agravar su situación inicial",
+        "b": "Puede empeorar la situación del recurrente si el interés público así lo requiere",
+        "c": "Debe limitarse a estimar o desestimar el recurso sin entrar en cuestiones no planteadas",
+        "d": "Solo puede pronunciarse sobre las cuestiones expresamente alegadas por el recurrente"
+      },
+      "correct": "a",
+      "explicacion": "El órgano que resuelve el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados (en este último caso oyendo previamente a los interesados). No obstante, la resolución será congruente con las peticiones del recurrente, sin que en ningún caso pueda agravarse su situación inicial.",
+      "ley": "Artículo 119.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La revisión de oficio de actos nulos puede inadmitirse a trámite sin necesidad de dictamen del Consejo de Estado cuando:",
+      "options": {
+        "a": "Las solicitudes no se basen en las causas de nulidad del artículo 47.1, carezcan manifiestamente de fundamento, o se hubieran desestimado otras solicitudes sustancialmente iguales",
+        "b": "El acto a revisar sea de la Administración Local y no estatal",
+        "c": "El interesado no haya abonado la tasa correspondiente a la revisión de oficio",
+        "d": "Hayan transcurrido menos de seis meses desde que el acto adquirió firmeza"
+      },
+      "correct": "a",
+      "explicacion": "El órgano competente para la revisión de oficio puede acordar motivadamente la inadmisión a trámite sin necesidad de dictamen del Consejo de Estado cuando las solicitudes no se basen en alguna de las causas de nulidad del artículo 47.1, carezcan manifiestamente de fundamento, o cuando se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.",
+      "ley": "Artículo 106.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El recurso extraordinario de revisión debe resolverse en el plazo de tres meses. Si transcurre ese plazo sin resolución:",
+      "options": {
+        "a": "Se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa",
+        "b": "El procedimiento caducará automáticamente sin posibilidad de recurso",
+        "c": "Se entenderá estimado por silencio positivo",
+        "d": "El interesado debe presentar un nuevo recurso extraordinario de revisión"
+      },
+      "correct": "a",
+      "explicacion": "Transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.",
+      "ley": "Artículo 126.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando hay pluralidad de recursos administrativos que traen causa del mismo acto y se ha interpuesto un recurso judicial:",
+      "options": {
+        "a": "El órgano administrativo puede acordar la suspensión del plazo para resolver los recursos administrativos hasta que recaiga pronunciamiento judicial",
+        "b": "Los recursos administrativos quedan sin efecto automáticamente al presentarse el recurso judicial",
+        "c": "Todos los recursos administrativos se declaran inadmisibles por prejudicialidad judicial",
+        "d": "Se obliga a resolver todos los recursos administrativos antes de pronunciarse la jurisdicción contenciosa"
+      },
+      "correct": "a",
+      "explicacion": "Cuando deban resolverse una pluralidad de recursos administrativos que traigan causa del mismo acto y se hubiera interpuesto un recurso judicial contra una resolución o el acto presunto desestimatorio, el órgano administrativo puede acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial, que será comunicado a los interesados.",
+      "ley": "Artículo 120 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La audiencia a los interesados en la tramitación de un recurso, cuando hayan de tenerse en cuenta nuevos hechos o documentos, se efectuará en un plazo de:",
+      "options": {
+        "a": "Treinta días naturales en todo caso",
+        "b": "Cinco días hábiles improrrogables",
+        "c": "Un plazo igual al del trámite de audiencia original en el procedimiento",
+        "d": "No inferior a diez días ni superior a quince"
+      },
+      "correct": "d",
+      "explicacion": "Cuando en la resolución de un recurso hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.",
+      "ley": "Artículo 118.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En el recurso administrativo, no se tendrán en cuenta en la resolución hechos, documentos o alegaciones del recurrente cuando:",
+      "options": {
+        "a": "Sean documentos aportados con posterioridad a la fecha de dictado del acto recurrido",
+        "b": "Habiendo podido aportarlos en el trámite de alegaciones del procedimiento principal, no lo haya hecho",
+        "c": "No estén directamente relacionados con el motivo del recurso",
+        "d": "Hayan sido ya valorados y rechazados por el órgano que dictó el acto impugnado"
+      },
+      "correct": "b",
+      "explicacion": "No se tendrán en cuenta en la resolución del recurso los hechos, documentos o alegaciones del recurrente cuando, habiendo podido aportarlos en el trámite de alegaciones del procedimiento en el que se dictó la resolución recurrida, no lo haya hecho. Tampoco podrá solicitarse la práctica de pruebas cuando su falta de realización fuera imputable al interesado.",
+      "ley": "Artículo 118.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los actos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición. Si se opta por interponer reposición:",
+      "options": {
+        "a": "No podrá interponerse recurso contencioso-administrativo hasta que sea resuelto o se entienda desestimado el recurso de reposición",
+        "b": "El plazo para el recurso contencioso-administrativo se suspende pero puede interponerse en cualquier momento",
+        "c": "Pueden simultanearse el recurso de reposición y el recurso contencioso-administrativo",
+        "d": "Una vez resuelto el recurso de reposición, ya no puede acudirse a la jurisdicción contenciosa"
+      },
+      "correct": "a",
+      "explicacion": "Si el interesado elige interponer el recurso potestativo de reposición, no puede interponer el recurso contencioso-administrativo hasta que el recurso de reposición sea resuelto expresamente o se haya producido su desestimación presunta por silencio. Solo una vez agotada esa vía potestativa puede acudirse a la jurisdicción contenciosa.",
+      "ley": "Artículo 123.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En el ámbito de la Administración General del Estado, la competencia para la revisión de oficio de actos nulos corresponde al Consejo de Ministros respecto de:",
+      "options": {
+        "a": "Exclusivamente las disposiciones reglamentarias de los Ministerios",
+        "b": "Todos los actos de cualquier órgano de la Administración del Estado sin excepción",
+        "c": "Sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros",
+        "d": "Solo sus propios actos, no los de los Ministros"
+      },
+      "correct": "c",
+      "explicacion": "En el ámbito estatal, el Consejo de Ministros es competente para la revisión de oficio respecto de sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros. Los Ministros son competentes respecto de los actos de los Secretarios de Estado y de órganos directivos de su Departamento no dependientes de una Secretaría de Estado.",
+      "ley": "Artículo 111 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las facultades de revisión establecidas en el Capítulo de revisión de oficio no podrán ejercerse cuando:",
+      "options": {
+        "a": "El acto provenga de un órgano de la Administración Local, reservándose la revisión a la AGE",
+        "b": "El acto sea favorable para el interesado que lo solicita",
+        "c": "Por prescripción de acciones, por el tiempo transcurrido u otras circunstancias, su ejercicio resulte contrario a la equidad, la buena fe, el derecho de los particulares o las leyes",
+        "d": "Hayan transcurrido cuatro años desde que el acto adquirió firmeza en todos los casos"
+      },
+      "correct": "c",
+      "explicacion": "Las facultades de revisión establecidas no podrán ser ejercidas cuando por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias su ejercicio resulte contrario a la equidad, a la buena fe, al derecho de los particulares o a las leyes. Este es el llamado límite de la revisión.",
+      "ley": "Artículo 110 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_08_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La declaración de lesividad de actos anulables en el ámbito de las Entidades Locales se adoptará por:",
+      "options": {
+        "a": "El Alcalde o Presidente de la Entidad Local, como máximo responsable ejecutivo",
+        "b": "El Pleno de la Corporación o, en defecto de este, por el órgano colegiado superior de la entidad",
+        "c": "El órgano estatal de tutela de las Entidades Locales en cada caso",
+        "d": "El Delegado del Gobierno en la Comunidad Autónoma correspondiente"
+      },
+      "correct": "b",
+      "explicacion": "Si el acto que se declara lesivo proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por el Pleno de la Corporación o, en defecto de este, por el órgano colegiado superior de la entidad.",
+      "ley": "Artículo 107.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+  ]
+}

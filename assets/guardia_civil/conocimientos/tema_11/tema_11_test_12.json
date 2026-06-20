@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_11_test_12_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las disposiciones del Título VIII de la LOPD serán de aplicación a los procedimientos tramitados por la AEPD en los supuestos en que:",
+      "options": {
+        "a": "Únicamente en procedimientos de naturaleza civil derivados de un contrato de prestación de servicios",
+        "b": "Se trate exclusivamente de reclamaciones relacionadas con sanciones penales por delitos informáticos",
+        "c": "Solo cuando el afectado sea menor de edad, excluyendo el resto de supuestos",
+        "d": "Un afectado reclame que no ha sido atendida su solicitud de ejercicio de derechos del artículo 15 a 22 del RGPD, así como cuando aquella investigue una posible infracción del reglamento y la LOPD"
+      },
+      "correct": "d",
+      "explicacion": "Las disposiciones del Título VIII serán de aplicación a los procedimientos tramitados por la AEPD en los supuestos en los que un afectado reclame que no ha sido atendida su solicitud de ejercicio de los derechos reconocidos en los artículos 15 a 22 del RGPD, así como en los que aquella investigue la existencia de una posible infracción de lo dispuesto en el mencionado reglamento y en la LOPD.",
+      "ley": "Artículo 63.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los procedimientos tramitados por la AEPD se regirán por lo dispuesto en el RGPD, la LOPD, sus disposiciones reglamentarias de desarrollo y, con carácter subsidiario, por:",
+      "options": {
+        "a": "El Derecho Penal, por la naturaleza punitiva del régimen sancionador",
+        "b": "Solo las circulares internas de la propia Agencia, sin recurso a normativa estatal general",
+        "c": "Exclusivamente la Ley de Enjuiciamiento Civil, sin posibilidad de aplicar normas administrativas",
+        "d": "Las normas generales sobre los procedimientos administrativos, en cuanto no contradigan dichas normas"
+      },
+      "correct": "d",
+      "explicacion": "Los procedimientos tramitados por la AEPD se regirán por lo dispuesto en el RGPD, en la LOPD, por las disposiciones reglamentarias dictadas en su desarrollo y, en cuanto no las contradigan, con carácter subsidiario, por las normas generales sobre los procedimientos administrativos.",
+      "ley": "Artículo 63.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando el procedimiento se refiera exclusivamente a la falta de atención de una solicitud de ejercicio de derechos, el plazo para resolver será de:",
+      "options": {
+        "a": "Tres meses, equivalente al plazo general de las admisiones a trámite",
+        "b": "Un año natural completo, sin posibilidad de silencio administrativo",
+        "c": "Seis meses a contar desde la fecha de notificación del acuerdo de admisión a trámite, transcurrido el cual el interesado podrá considerar estimada su reclamación",
+        "d": "Quince días hábiles, plazo idéntico al ejercicio ordinario del derecho de acceso"
+      },
+      "correct": "c",
+      "explicacion": "Cuando el procedimiento se refiera exclusivamente a la falta de atención de una solicitud de ejercicio de derechos, se iniciará por acuerdo de admisión a trámite. El plazo para resolver el procedimiento será de seis meses a contar desde la fecha en que hubiera sido notificado al reclamante el acuerdo de admisión a trámite. Transcurrido ese plazo, el interesado podrá considerar estimada su reclamación.",
+      "ley": "Artículo 64.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando el procedimiento tenga por objeto determinar la posible existencia de una infracción del RGPD y la LOPD, tendrá una duración máxima de:",
+      "options": {
+        "a": "Seis meses sin posibilidad alguna de suspensión por trámites europeos",
+        "b": "Doce meses a contar desde la fecha del acuerdo de inicio, transcurrido el cual se producirá su caducidad y el archivo de actuaciones",
+        "c": "Veinticuatro meses, prorrogables automáticamente por otro plazo igual",
+        "d": "Tres meses, idéntico al plazo de admisión a trámite de las reclamaciones"
+      },
+      "correct": "b",
+      "explicacion": "Cuando el procedimiento tenga por objeto la determinación de la posible existencia de una infracción, se iniciará mediante acuerdo de inicio. El procedimiento tendrá una duración máxima de doce meses a contar desde la fecha del acuerdo de inicio. Transcurrido ese plazo se producirá su caducidad y, en consecuencia, el archivo de actuaciones.",
+      "ley": "Artículo 64.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La AEPD, previa audiencia al responsable o encargado del tratamiento, podrá dirigir un apercibimiento y ordenar la adopción de medidas correctivas, en lugar de iniciar el procedimiento sancionador pleno. Este procedimiento de apercibimiento tendrá una duración máxima de:",
+      "options": {
+        "a": "Seis meses a contar desde la fecha del acuerdo de inicio, transcurrido el cual se producirá su caducidad",
+        "b": "Tres meses, idéntico al plazo de admisión a trámite",
+        "c": "Un mes, plazo equivalente al de respuesta del delegado de protección de datos",
+        "d": "Doce meses, igual que el procedimiento sancionador pleno"
+      },
+      "correct": "a",
+      "explicacion": "Cuando proceda en atención a la naturaleza de los hechos y los criterios del artículo 83.2 del RGPD, la AEPD, previa audiencia, podrá dirigir un apercibimiento y ordenar medidas correctivas. El procedimiento tendrá una duración máxima de seis meses a contar desde la fecha del acuerdo de inicio, transcurrido el cual se producirá su caducidad y el archivo de actuaciones.",
+      "ley": "Artículo 64.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Los plazos de tramitación de los procedimientos de la AEPD quedarán automáticamente suspendidos cuando:",
+      "options": {
+        "a": "Deba recabarse información, consulta, solicitud de asistencia o pronunciamiento preceptivo de un órgano de la Unión Europea o de autoridades de control de Estados miembros, por el tiempo que medie entre la solicitud y la notificación",
+        "b": "Coincida el procedimiento con el período vacacional de verano de cada año",
+        "c": "El afectado solicite expresamente la suspensión por motivos personales sin más justificación",
+        "d": "El responsable del tratamiento decida unilateralmente solicitar más tiempo"
+      },
+      "correct": "a",
+      "explicacion": "Los plazos de tramitación quedarán automáticamente suspendidos cuando deba recabarse información, consulta, solicitud de asistencia o pronunciamiento preceptivo de un órgano u organismo de la Unión Europea o de una o varias autoridades de control de los Estados miembros conforme al RGPD, por el tiempo que medie entre la solicitud y la notificación del pronunciamiento a la AEPD.",
+      "ley": "Artículo 64.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El transcurso de los plazos de tramitación de los procedimientos de la AEPD se podrá suspender, mediante resolución motivada, cuando:",
+      "options": {
+        "a": "El afectado renuncie temporalmente al ejercicio de su reclamación",
+        "b": "Concurran circunstancias económicas adversas para la entidad inspeccionada",
+        "c": "El responsable así lo solicite verbalmente sin necesidad de motivación",
+        "d": "Resulte indispensable recabar información de un órgano jurisdiccional"
+      },
+      "correct": "d",
+      "explicacion": "El transcurso de los plazos de tramitación se podrá suspender, mediante resolución motivada, cuando resulte indispensable recabar información de un órgano jurisdiccional, dada la necesidad de contar con datos procedentes de otro orden cuya obtención escapa al control de la AEPD.",
+      "ley": "Artículo 64.6 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD inadmitirá las reclamaciones presentadas cuando:",
+      "options": {
+        "a": "No versen sobre cuestiones de protección de datos personales, carezcan manifiestamente de fundamento, sean abusivas o no aporten indicios racionales de la existencia de una infracción",
+        "b": "El reclamante sea persona jurídica, dado que solo las personas físicas pueden reclamar",
+        "c": "Hayan sido presentadas en idioma distinto del castellano, sin posibilidad de traducción",
+        "d": "El responsable cuente con sede en el extranjero, sin importar el resto de circunstancias"
+      },
+      "correct": "a",
+      "explicacion": "La AEPD inadmitirá las reclamaciones presentadas cuando no versen sobre cuestiones de protección de datos personales, carezcan manifiestamente de fundamento, sean abusivas o no aporten indicios racionales de la existencia de una infracción.",
+      "ley": "Artículo 65.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La AEPD también podrá inadmitir la reclamación cuando, previa advertencia de la Agencia, el responsable o encargado hubiera adoptado las medidas correctivas y concurra alguna de las siguientes circunstancias:",
+      "options": {
+        "a": "Que el responsable abone una indemnización económica simbólica, sin más requisito",
+        "b": "Que no se haya causado perjuicio al afectado en infracciones del artículo 74 de la LOPD, o que el derecho del afectado quede plenamente garantizado con la aplicación de las medidas",
+        "c": "Que el procedimiento se haya iniciado de oficio, en lugar de mediante reclamación",
+        "d": "Que la infracción haya sido cometida por primera vez en la trayectoria del responsable"
+      },
+      "correct": "b",
+      "explicacion": "La AEPD podrá inadmitir la reclamación cuando, previa advertencia formulada, el responsable o encargado hubiera adoptado las medidas correctivas encaminadas a poner fin al posible incumplimiento, y concurra alguna de las siguientes circunstancias: que no se haya causado perjuicio al afectado en las infracciones del artículo 74 de la LOPD, o que el derecho del afectado quede plenamente garantizado mediante la aplicación de las medidas.",
+      "ley": "Artículo 65.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Antes de resolver sobre la admisión a trámite de la reclamación, la AEPD podrá remitirla al delegado de protección de datos o al organismo de supervisión, y cuando no se hubiera designado delegado ni adhesión a mecanismos extrajudiciales, podrá remitirla al responsable, quien deberá dar respuesta en el plazo de:",
+      "options": {
+        "a": "Dos meses, equivalente al plazo de respuesta del delegado en reclamaciones",
+        "b": "Un mes",
+        "c": "Quince días hábiles, plazo más reducido que el general",
+        "d": "Tres meses, equivalente al plazo de admisión a trámite"
+      },
+      "correct": "b",
+      "explicacion": "La AEPD podrá igualmente remitir la reclamación al responsable o encargado del tratamiento cuando no se hubiera designado un delegado de protección de datos ni estuviera adherido a mecanismos de resolución extrajudicial de conflictos, en cuyo caso el responsable o encargado deberá dar respuesta a la reclamación en el plazo de un mes.",
+      "ley": "Artículo 65.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La decisión sobre la admisión o inadmisión a trámite de una reclamación deberá notificarse al reclamante en el plazo de tres meses. Si transcurrido este plazo no se produjera dicha notificación:",
+      "options": {
+        "a": "Se entenderá que prosigue la tramitación de la reclamación con arreglo a lo dispuesto en el Título VIII a partir de la fecha en que se cumpliesen los tres meses, sin perjuicio de poder archivarse posteriormente de forma expresa",
+        "b": "El procedimiento queda definitivamente caducado, sin opción a continuar la tramitación",
+        "c": "Se entenderá automáticamente desestimada la reclamación sin posibilidad de continuación",
+        "d": "Se requiere obligatoriamente la presentación de una nueva reclamación por parte del afectado"
+      },
+      "correct": "a",
+      "explicacion": "La decisión sobre la admisión o inadmisión a trámite deberá notificarse al reclamante en el plazo de tres meses. Si transcurrido este plazo no se produjera dicha notificación, se entenderá que prosigue la tramitación de la reclamación con arreglo a lo dispuesto en este título a partir de la fecha en que se cumpliesen tres meses desde su entrada en la AEPD, sin perjuicio de la facultad de archivar posteriormente y de forma expresa la reclamación.",
+      "ley": "Artículo 65.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD deberá, con carácter previo a la realización de cualquier otra actuación, examinar su competencia y determinar:",
+      "options": {
+        "a": "El idioma en que se ha presentado la reclamación inicial, sin valorar otros elementos",
+        "b": "El carácter nacional o transfronterizo, en cualquiera de sus modalidades, del procedimiento a seguir",
+        "c": "El importe económico de la posible sanción a imponer, antes de cualquier otra cuestión",
+        "d": "Solo si el afectado ha aportado prueba documental completa, sin más valoraciones"
+      },
+      "correct": "b",
+      "explicacion": "Salvo en supuestos específicos de comunicación de otras autoridades de la UE, la AEPD deberá, con carácter previo a la realización de cualquier otra actuación, incluida la admisión a trámite de una reclamación o el comienzo de actuaciones previas de investigación, examinar su competencia y determinar el carácter nacional o transfronterizo, en cualquiera de sus modalidades, del procedimiento a seguir.",
+      "ley": "Artículo 66.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Si la AEPD considera que no tiene la condición de autoridad de control principal para tramitar el procedimiento:",
+      "options": {
+        "a": "Remitirá, sin más trámite, la reclamación a la autoridad de control principal que considere competente, notificando esta circunstancia a quien hubiera formulado la reclamación",
+        "b": "Debe resolver de todos modos el fondo del asunto, sin posibilidad de remitirlo a otra autoridad",
+        "c": "Solicitará al reclamante que presente la reclamación de nuevo ante la autoridad correcta",
+        "d": "Archivará definitivamente la reclamación sin más actuación posterior"
+      },
+      "correct": "a",
+      "explicacion": "Si la AEPD considera que no tiene la condición de autoridad de control principal para la tramitación del procedimiento, remitirá, sin más trámite, la reclamación formulada a la autoridad de control principal que considere competente, a fin de que se le dé el curso oportuno, notificando esta circunstancia a quien, en su caso, hubiera formulado la reclamación.",
+      "ley": "Artículo 66.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El acuerdo por el que se resuelva la remisión de una reclamación a otra autoridad de control principal implicará:",
+      "options": {
+        "a": "La nulidad de pleno derecho de cualquier actuación previa realizada por la AEPD",
+        "b": "La sanción automática a la entidad por su mala fe al recurrir a la autoridad incompetente",
+        "c": "El archivo provisional del procedimiento, sin perjuicio de que la AEPD pueda dictar, si procede, la resolución del apartado 8 del artículo 60 del RGPD",
+        "d": "El archivo definitivo e irreversible, sin posibilidad de retomar el procedimiento en ningún caso"
+      },
+      "correct": "c",
+      "explicacion": "El acuerdo por el que se resuelva la remisión de la reclamación a otra autoridad de control principal implicará el archivo provisional del procedimiento, sin perjuicio de que por la AEPD se dicte, en caso de que así proceda, la resolución a la que se refiere el apartado 8 del artículo 60 del Reglamento (UE) 2016/679.",
+      "ley": "Artículo 66.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez admitida a trámite la reclamación si la hubiese, la AEPD podrá llevar a cabo actuaciones previas de investigación con el fin de:",
+      "options": {
+        "a": "Sancionar de inmediato cualquier indicio inicial, sin posterior trámite completo",
+        "b": "Conceder al responsable un perdón administrativo automático, sin más investigación",
+        "c": "Lograr una mejor determinación de los hechos y las circunstancias que justifican la tramitación del procedimiento",
+        "d": "Notificar directamente la sanción que se prevé imponer, sin investigación previa"
+      },
+      "correct": "c",
+      "explicacion": "Antes de la adopción del acuerdo de inicio de procedimiento, y una vez admitida a trámite la reclamación si la hubiese, la AEPD podrá llevar a cabo actuaciones previas de investigación a fin de lograr una mejor determinación de los hechos y las circunstancias que justifican la tramitación del procedimiento.",
+      "ley": "Artículo 67.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Las actuaciones previas de investigación de la AEPD no podrán tener una duración superior a:",
+      "options": {
+        "a": "Doce meses, equivalente al plazo del procedimiento sancionador pleno",
+        "b": "Seis meses, sin posibilidad de extensión adicional bajo ningún supuesto",
+        "c": "Dieciocho meses a contar desde la fecha del acuerdo de admisión a trámite o de la fecha del acuerdo de iniciación cuando la Agencia actúe por propia iniciativa",
+        "d": "Tres meses, igual al plazo de admisión a trámite de las reclamaciones"
+      },
+      "correct": "c",
+      "explicacion": "Las actuaciones previas de investigación se sometE a lo dispuesto en la sección 2.ª del capítulo I del título VII de la LOPD y no podrán tener una duración superior a dieciocho meses a contar desde la fecha del acuerdo de admisión a trámite o de la fecha del acuerdo por el que se decida su iniciación cuando la AEPD actúe por propia iniciativa.",
+      "ley": "Artículo 67.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD actuará en todo caso cuando sea precisa la investigación de tratamientos que impliquen:",
+      "options": {
+        "a": "Únicamente tratamientos realizados por organismos públicos estatales",
+        "b": "Solo tratamientos en los que el responsable sea una entidad financiera",
+        "c": "Un tráfico masivo de datos personales",
+        "d": "Exclusivamente datos relativos a menores de edad, sin extenderse a otros colectivos"
+      },
+      "correct": "c",
+      "explicacion": "La AEPD actuará en todo caso cuando sea precisa la investigación de tratamientos que implique un tráfico masivo de datos personales, lo que justifica la intervención directa de la autoridad estatal con independencia de otras circunstancias competenciales.",
+      "ley": "Artículo 67.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Corresponderá a la Presidencia de la AEPD, cuando así proceda, dictar el acuerdo de inicio de procedimiento sancionador, en el que se concretarán:",
+      "options": {
+        "a": "Exclusivamente la cuantía exacta de la sanción a imponer, sin posibilidad de variación posterior",
+        "b": "Los hechos, la identificación de la persona o entidad contra la que se dirige el procedimiento, la infracción que hubiera podido cometerse y su posible sanción",
+        "c": "Únicamente la fecha de notificación al interesado, sin más contenido sustantivo",
+        "d": "Solo el nombre del responsable, sin detallar los hechos ni la infracción concreta"
+      },
+      "correct": "b",
+      "explicacion": "Concluidas, en su caso, las actuaciones previas de investigación, corresponderá a la Presidencia de la AEPD, cuando así proceda, dictar acuerdo de inicio de procedimiento para el ejercicio de la potestad sancionadora, en que se concretarán los hechos, la identificación de la persona o entidad contra la que se dirija el procedimiento, la infracción que hubiera podido cometerse y su posible sanción.",
+      "ley": "Artículo 68.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Durante la realización de actuaciones previas de investigación o un procedimiento sancionador, la AEPD podrá acordar motivadamente medidas provisionales necesarias y proporcionadas para salvaguardar el derecho fundamental a la protección de datos, incluyendo, entre otras:",
+      "options": {
+        "a": "La destitución del consejo de administración de la entidad sometida a investigación",
+        "b": "Exclusivamente la imposición de multa preventiva equivalente a la sanción final esperada",
+        "c": "Solo el cierre permanente de la actividad de la entidad investigada, sin posibilidad de medidas más limitadas",
+        "d": "El bloqueo cautelar de los datos y la obligación inmediata de atender el derecho solicitado"
+      },
+      "correct": "d",
+      "explicacion": "Durante la realización de las actuaciones previas de investigación o iniciado un procedimiento sancionador, la AEPD podrá acordar motivadamente las medidas provisionales necesarias y proporcionadas para salvaguardar el derecho fundamental a la protección de datos, en especial las previstas en el artículo 66.1 del RGPD, el bloqueo cautelar de los datos y la obligación inmediata de atender el derecho solicitado.",
+      "ley": "Artículo 69.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_12_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando la AEPD considere que la continuación del tratamiento, comunicación o transferencia internacional de datos comportara un menoscabo grave del derecho a la protección de datos, podrá ordenar a los responsables o encargados:",
+      "options": {
+        "a": "El pago inmediato de una sanción provisional, sin más medidas cautelares adicionales",
+        "b": "La transferencia obligatoria de todos los datos a la propia Agencia para su custodia",
+        "c": "Solo la suspensión temporal de un mes, sin posibilidad de inmovilización en ningún caso",
+        "d": "El bloqueo de los datos y la cesación de su tratamiento, procediendo a su inmovilización en caso de incumplimiento de dichos mandatos"
+      },
+      "correct": "d",
+      "explicacion": "En los casos en que la AEPD considere que la continuación del tratamiento, su comunicación o transferencia internacional comportara un menoscabo grave del derecho a la protección de datos personales, podrá ordenar a los responsables o encargados el bloqueo de los datos y la cesación de su tratamiento y, en caso de incumplirse por estos dichos mandatos, proceder a su inmovilización.",
+      "ley": "Artículo 69.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

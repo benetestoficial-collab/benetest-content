@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_10_test_12_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Todos los órganos colegiados podrán constituirse, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas:",
+      "options": {
+        "a": "Tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario",
+        "b": "De forma presencial obligatoriamente cuando haya más de diez miembros",
+        "c": "Solo de forma presencial, siendo nulos los acuerdos adoptados a distancia",
+        "d": "Solo a distancia, para garantizar la máxima participación de los miembros"
+      },
+      "correct": "a",
+      "explicacion": "Todos los órganos colegiados podrán constituirse, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario. En sesiones a distancia se asegurará la identidad de los miembros, el contenido de sus manifestaciones y la interactividad en tiempo real.",
+      "ley": "Artículo 17.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Para la válida constitución de un órgano colegiado se requerirá:",
+      "options": {
+        "a": "Solo la asistencia del Presidente, siendo suficiente su presencia para la validez de los acuerdos",
+        "b": "La asistencia presencial o a distancia del Presidente y Secretario, o de quienes les suplan, y la de la mitad al menos de sus miembros",
+        "c": "Al menos dos tercios de los miembros, tanto para sesiones ordinarias como extraordinarias",
+        "d": "La presencia de todos los miembros del órgano sin excepción"
+      },
+      "correct": "b",
+      "explicacion": "Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y Secretario o en su caso de quienes les suplan, y la de la mitad al menos de sus miembros.",
+      "ley": "Artículo 17.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Un asunto no incluido en el orden del día puede ser objeto de deliberación o acuerdo cuando:",
+      "options": {
+        "a": "Asistan al menos dos tercios de los miembros y voten a favor de incluirlo",
+        "b": "El Presidente así lo decida discrecionalmente durante la sesión",
+        "c": "Asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría",
+        "d": "Lo solicite cualquier miembro del órgano antes del inicio de la sesión"
+      },
+      "correct": "c",
+      "explicacion": "No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría.",
+      "ley": "Artículo 17.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los acuerdos de los órganos colegiados se adoptarán:",
+      "options": {
+        "a": "Por unanimidad de todos los miembros en todo caso",
+        "b": "Por mayoría de dos tercios de los miembros asistentes",
+        "c": "Por el voto del Presidente en caso de empate, como sistema general de adopción",
+        "d": "Por mayoría de votos"
+      },
+      "correct": "d",
+      "explicacion": "Los acuerdos serán adoptados por mayoría de votos. Cuando se asista a distancia, los acuerdos se entenderán adoptados en el lugar donde tenga la sede el órgano colegiado y, en su defecto, donde esté ubicada la presidencia.",
+      "ley": "Artículo 17.5 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando los miembros del órgano colegiado voten en contra o se abstengan:",
+      "options": {
+        "a": "Quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos",
+        "b": "El órgano superior puede anular el voto en contra por razones de interés general",
+        "c": "Perderán su condición de miembro del órgano hasta la siguiente renovación",
+        "d": "Podrán ser sancionados disciplinariamente por no apoyar los acuerdos del órgano"
+      },
+      "correct": "a",
+      "explicacion": "Cuando los miembros del órgano voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos adoptados por el órgano colegiado.",
+      "ley": "Artículo 17.6 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El acta de cada sesión de un órgano colegiado debe especificar necesariamente:",
+      "options": {
+        "a": "Únicamente los votos a favor y en contra de cada acuerdo, sin más información",
+        "b": "El texto íntegro de todas las deliberaciones y de cada intervención de los miembros",
+        "c": "Los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo, los puntos principales de las deliberaciones, y el contenido de los acuerdos adoptados",
+        "d": "Solo los acuerdos adoptados, sin necesidad de reflejar deliberaciones ni asistentes"
+      },
+      "correct": "c",
+      "explicacion": "De cada sesión se levantará acta por el Secretario que especificará necesariamente los asistentes, el orden del día, las circunstancias del lugar y tiempo en que se celebró, los puntos principales de las deliberaciones, y el contenido de los acuerdos adoptados. La sesión podrá grabarse, y el fichero resultante puede acompañar al acta.",
+      "ley": "Artículo 18.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El acta de cada sesión de un órgano colegiado podrá aprobarse:",
+      "options": {
+        "a": "Solo mediante convocatoria expresa específica para la aprobación del acta",
+        "b": "En cualquier momento dentro de los tres meses siguientes a la sesión",
+        "c": "En la misma reunión o en la inmediata siguiente",
+        "d": "Solo en la siguiente reunión, nunca en la misma"
+      },
+      "correct": "c",
+      "explicacion": "El acta de cada sesión podrá aprobarse en la misma reunión o en la inmediata siguiente. El Secretario elaborará el acta con el visto bueno del Presidente y lo remitirá a través de medios electrónicos a los miembros, quienes podrán manifestar su conformidad o reparos, considerándose aprobada si lo hacen afirmativamente.",
+      "ley": "Artículo 18.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Son órganos colegiados en la Administración General del Estado aquellos que estén integrados por:",
+      "options": {
+        "a": "Al menos cinco personas, con funciones exclusivamente decisorias",
+        "b": "Al menos dos personas, con cualquier tipo de función administrativa",
+        "c": "Tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control, actuando integrados en la AGE o sus Organismos públicos",
+        "d": "Solo los que sean superiores jerárquicos de al menos un órgano unipersonal"
+      },
+      "correct": "c",
+      "explicacion": "Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control, y que actúen integrados en la Administración General del Estado o alguno de sus Organismos públicos.",
+      "ley": "Artículo 20.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La creación de órganos colegiados de la AGE que tengan competencias decisorias o de propuesta o emisión de informes preceptivos requiere:",
+      "options": {
+        "a": "Norma específica con publicación en el BOE, siendo necesario Real Decreto para los interministeriales cuyo Presidente tenga rango superior a Director general, u Orden ministerial conjunta o individual para los restantes",
+        "b": "Solo acuerdo del Consejo de Ministros, sin necesidad de publicación en el BOE",
+        "c": "Únicamente un acuerdo entre los Ministerios afectados, sin ningún requisito adicional",
+        "d": "Ley orgánica aprobada por las Cortes Generales, por afectar a la estructura del Estado"
+      },
+      "correct": "a",
+      "explicacion": "La creación de órganos colegiados con competencias decisorias, de propuesta o informes preceptivos o de seguimiento y control requiere norma específica publicada en el BOE. La forma de la norma es: Real Decreto para los órganos colegiados interministeriales cuyo Presidente tenga rango superior a Director general; Orden ministerial conjunta para los restantes órganos interministeriales; y Orden ministerial para los de carácter ministerial.",
+      "ley": "Artículos 22.1 y 22.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los grupos o comisiones de trabajo que no tengan competencias decisorias directas frente a terceros pueden ser creados por:",
+      "options": {
+        "a": "Por simple acuerdo entre funcionarios, sin necesidad de ninguna norma formal",
+        "b": "Únicamente mediante Ley, por tratarse de órganos de la Administración del Estado",
+        "c": "Solo por Real Decreto del Consejo de Ministros previo dictamen del Consejo de Estado",
+        "d": "Acuerdo del Consejo de Ministros o por los Ministerios interesados, y sus acuerdos no podrán tener efectos directos frente a terceros"
+      },
+      "correct": "d",
+      "explicacion": "Los órganos colegiados sin las competencias previstas en el artículo 22.1 (decisorias, de propuesta e informes preceptivos o de control) tendrán el carácter de grupos o comisiones de trabajo y podrán ser creados por Acuerdo del Consejo de Ministros o por los Ministerios interesados. Sus acuerdos no podrán tener efectos directos frente a terceros.",
+      "ley": "Artículo 22.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Son motivos de abstención para las autoridades y el personal al servicio de las Administraciones Públicas, entre otros:",
+      "options": {
+        "a": "Solo el interés personal económico, no el profesional o de otro tipo",
+        "b": "Únicamente el parentesco directo en primer grado con el interesado",
+        "c": "Haber conocido previamente del asunto en un procedimiento distinto",
+        "d": "Tener interés personal en el asunto; vínculo matrimonial o parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo con los interesados; y tener relación de servicio con persona interesada o haberle prestado servicios profesionales en los dos últimos años"
+      },
+      "correct": "d",
+      "explicacion": "Son motivos de abstención: tener interés personal en el asunto o ser administrador de sociedad interesada; vínculo matrimonial o situación de hecho asimilable y parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo con interesados o asesores; amistad íntima o enemistad manifiesta con los mismos; haber intervenido como perito o testigo; y tener relación de servicio con persona interesada o haber prestado servicios en los dos últimos años.",
+      "ley": "Artículo 23.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La actuación de autoridades y personal en que concurran motivos de abstención:",
+      "options": {
+        "a": "Solo produce la anulabilidad si el interesado la alega expresamente en el procedimiento",
+        "b": "No implicará necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido, sin perjuicio de la responsabilidad que proceda",
+        "c": "Implica siempre la nulidad de pleno derecho de los actos en que hayan intervenido",
+        "d": "Nunca produce la invalidez del acto, solo la responsabilidad disciplinaria del funcionario"
+      },
+      "correct": "b",
+      "explicacion": "La actuación de autoridades y personal al servicio de las Administraciones Públicas en los que concurran motivos de abstención no implicará, necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido. La no abstención en los casos que concurra motivo dará lugar a la responsabilidad que proceda.",
+      "ley": "Artículo 23.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La recusación en los procedimientos administrativos puede promoverse:",
+      "options": {
+        "a": "Únicamente si la abstención no fue previamente comunicada por el propio funcionario",
+        "b": "Por los interesados en cualquier momento de la tramitación del procedimiento, mediante escrito en el que se expresen la causa o causas en que se funda",
+        "c": "Solo al inicio del procedimiento, antes de que se realice ningún acto de instrucción",
+        "d": "Solo ante el propio recusado, quien decidirá si se abstiene voluntariamente"
+      },
+      "correct": "b",
+      "explicacion": "La recusación podrá promoverse por los interesados en cualquier momento de la tramitación del procedimiento. Se planteará por escrito en el que se expresará la causa o causas en que se funda.",
+      "ley": "Artículos 24.1 y 24.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Si el recusado niega la causa de recusación, el superior jerárquico deberá resolver en el plazo de:",
+      "options": {
+        "a": "Tres días, previos los informes y comprobaciones que considere oportunos",
+        "b": "Un mes, igual que el plazo general de los procedimientos",
+        "c": "Diez días hábiles, con audiencia previa al recusado",
+        "d": "Cinco días hábiles, sin posibilidad de prórroga"
+      },
+      "correct": "a",
+      "explicacion": "Si el recusado niega la causa de recusación, el superior resolverá en el plazo de tres días, previos los informes y comprobaciones que considere oportunos. En el día siguiente a la recusación, el recusado debe manifestar a su superior si se da o no en él la causa alegada.",
+      "ley": "Artículo 24.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Contra las resoluciones adoptadas en materia de recusación:",
+      "options": {
+        "a": "Cabrá recurso de alzada ante el superior jerárquico en todo caso",
+        "b": "No cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento",
+        "c": "Cabe recurso directo ante la jurisdicción contencioso-administrativa",
+        "d": "Cabrá recurso potestativo de reposición ante el mismo órgano que la resolvió"
+      },
+      "correct": "b",
+      "explicacion": "Contra las resoluciones adoptadas en materia de recusación no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.",
+      "ley": "Artículo 24.5 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las funciones del Secretario de un órgano colegiado incluyen:",
+      "options": {
+        "a": "Velar por la legalidad formal y material de las actuaciones del órgano colegiado, certificar las actuaciones y garantizar que los procedimientos y reglas de constitución y adopción de acuerdos son respetadas",
+        "b": "Solo la redacción y custodia de las actas, sin funciones de velar por la legalidad",
+        "c": "Únicamente representar al órgano ante otros organismos públicos",
+        "d": "Ejercer el voto de calidad en caso de empate, en ausencia del Presidente"
+      },
+      "correct": "a",
+      "explicacion": "Al Secretario corresponde velar por la legalidad formal y material de las actuaciones del órgano colegiado, certificar las actuaciones del mismo y garantizar que los procedimientos y reglas de constitución y adopción de acuerdos son respetadas.",
+      "ley": "Artículo 16.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En los órganos colegiados de la Administración General del Estado, la convocatoria con el orden del día debe remitirse a los miembros con una antelación mínima de:",
+      "options": {
+        "a": "Cinco días hábiles",
+        "b": "Quince días naturales",
+        "c": "Dos días",
+        "d": "Un mes natural"
+      },
+      "correct": "c",
+      "explicacion": "Los miembros del órgano colegiado deberán recibir, con una antelación mínima de dos días, la convocatoria conteniendo el orden del día de las reuniones. La información sobre los temas que figuren en el orden del día estará a disposición de los miembros en igual plazo.",
+      "ley": "Artículo 19.3.a) de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En los órganos colegiados de la AGE, la sustitución del Presidente en caso de vacante, ausencia o enfermedad se realiza por:",
+      "options": {
+        "a": "El miembro con más antigüedad en el cargo, con independencia de su rango jerárquico",
+        "b": "El Secretario del órgano, como asegurador de su funcionamiento",
+        "c": "El órgano superior jerárquico debe designar expresamente al sustituto en cada caso",
+        "d": "El Vicepresidente que corresponda y, en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por ese orden"
+      },
+      "correct": "d",
+      "explicacion": "En casos de vacante, ausencia, enfermedad u otra causa legal, el Presidente será sustituido por el Vicepresidente que corresponda y, en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por ese orden. Esta norma no aplica a los órganos colegiados con representación de intereses sociales.",
+      "ley": "Artículo 19.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En los órganos colegiados de la AGE, las autoridades y personal al servicio que sean miembros natos en virtud del cargo que desempeñan:",
+      "options": {
+        "a": "Solo pueden abstenerse si existe causa de abstención formalmente declarada",
+        "b": "No podrán abstenerse en las votaciones",
+        "c": "Pueden abstenerse libremente, igual que los demás miembros",
+        "d": "Deben abstenerse cuando tengan intereses personales en el asunto, al igual que los demás"
+      },
+      "correct": "b",
+      "explicacion": "No podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Públicas, tengan la condición de miembros natos de órganos colegiados en virtud del cargo que desempeñan.",
+      "ley": "Artículo 19.3.c) de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_12_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los órganos colegiados en los que participen organizaciones representativas de intereses sociales o compuestos por representaciones de distintas Administraciones:",
+      "options": {
+        "a": "Solo podrán crearse mediante acuerdo del Consejo de Ministros, sin ningún tipo de autonomía",
+        "b": "Siempre participarán en la estructura jerárquica de la Administración en que se integren",
+        "c": "No formarán parte de ninguna Administración, siendo entidades autónomas independientes",
+        "d": "Quedarán integrados en la Administración Pública que corresponda, aunque sin participar en la estructura jerárquica de esta, salvo que sus normas de creación, sus funciones o su propia naturaleza establezcan lo contrario"
+      },
+      "correct": "d",
+      "explicacion": "Los órganos colegiados en que participen organizaciones representativas de intereses sociales o compuestos por representaciones de distintas Administraciones Públicas quedarán integrados en la Administración Pública que corresponda, aunque sin participar en la estructura jerárquica de esta, salvo que así lo establezcan sus normas de creación, se desprenda de sus funciones o de la propia naturaleza del órgano.",
+      "ley": "Artículo 15.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    }
+  ]
+}

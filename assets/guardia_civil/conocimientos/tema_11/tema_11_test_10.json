@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_11_test_10_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La Presidencia de la AEPD estará asesorada por un Consejo Consultivo compuesto, entre otros, por:",
+      "options": {
+        "a": "Un Diputado propuesto por el Congreso, un Senador propuesto por el Senado, un representante designado por el CGPJ, y un representante de cada Comunidad Autónoma que haya creado autoridad de protección de datos propia",
+        "b": "Solo representantes de empresas tecnológicas multinacionales con sede en España",
+        "c": "Únicamente miembros del Gobierno designados por el Presidente del Gobierno",
+        "d": "Exclusivamente jueces y magistrados en ejercicio, sin participación de otros sectores"
+      },
+      "correct": "a",
+      "explicacion": "El Consejo Consultivo de la AEPD está compuesto por numerosos miembros representativos de distintos sectores, entre ellos: un Diputado propuesto por el Congreso, un Senador propuesto por el Senado, un representante designado por el Consejo General del Poder Judicial, y un representante de cada Comunidad Autónoma que haya creado una autoridad de protección de datos en su ámbito territorial.",
+      "ley": "Artículo 49.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. A los efectos de la composición del Consejo Consultivo, la condición de experto requerirá acreditar:",
+      "options": {
+        "a": "Una titulación específica en ingeniería informática, sin más requisitos",
+        "b": "Más de veinte años de experiencia laboral, sin importar el sector concreto",
+        "c": "Pertenencia obligatoria a un colegio profesional de ámbito estatal",
+        "d": "Conocimientos especializados en el Derecho y la práctica en materia de protección de datos mediante el ejercicio profesional o académico"
+      },
+      "correct": "d",
+      "explicacion": "A los efectos de formar parte del Consejo Consultivo en calidad de experto, dicha condición requerirá acreditar conocimientos especializados en el Derecho y la práctica en materia de protección de datos mediante el ejercicio profesional o académico.",
+      "ley": "Artículo 49.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los miembros del Consejo Consultivo de la AEPD serán nombrados por:",
+      "options": {
+        "a": "Orden del Ministro de la Presidencia, Justicia y Relaciones con las Cortes, publicada en el Boletín Oficial del Estado",
+        "b": "Resolución de la propia Presidencia de la AEPD, sin intervención ministerial",
+        "c": "Decreto del Consejo de Ministros, sin posibilidad de nombramiento por orden ministerial",
+        "d": "Acuerdo de cada Comunidad Autónoma para todos los miembros del Consejo"
+      },
+      "correct": "a",
+      "explicacion": "Los miembros del Consejo Consultivo serán nombrados por orden del Ministro de la Presidencia, Justicia y Relaciones con las Cortes, publicada en el Boletín Oficial del Estado.",
+      "ley": "Artículo 49.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El Consejo Consultivo se reunirá cuando así lo disponga la Presidencia de la AEPD y, en todo caso:",
+      "options": {
+        "a": "Una vez al semestre",
+        "b": "Una vez al mes, sin posibilidad de menor frecuencia",
+        "c": "Solo cuando lo solicite expresamente el Congreso de los Diputados",
+        "d": "Una vez cada dos años, coincidiendo con la renovación de sus miembros"
+      },
+      "correct": "a",
+      "explicacion": "El Consejo Consultivo se reunirá cuando así lo disponga la Presidencia de la AEPD y, en todo caso, una vez al semestre, garantizando una periodicidad mínima de funcionamiento de este órgano asesor.",
+      "ley": "Artículo 49.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las decisiones tomadas por el Consejo Consultivo de la AEPD:",
+      "options": {
+        "a": "Son siempre vinculantes para la Presidencia de la Agencia",
+        "b": "No tendrán en ningún caso carácter vinculante",
+        "c": "Requieren ratificación del Congreso de los Diputados para ser efectivas",
+        "d": "Vinculan exclusivamente en materia de sanciones económicas"
+      },
+      "correct": "b",
+      "explicacion": "Las decisiones tomadas por el Consejo Consultivo no tendrán en ningún caso carácter vinculante, lo que confirma su naturaleza de órgano puramente asesor que complementa, sin sustituir, las decisiones que corresponden a la Presidencia de la AEPD.",
+      "ley": "Artículo 49.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD desarrollará su actividad de investigación a través de:",
+      "options": {
+        "a": "Las actuaciones previstas en el Título VIII de la LOPD y de los planes de auditoría preventivas",
+        "b": "Solo inspecciones solicitadas por el Ministerio Fiscal en cada caso concreto",
+        "c": "Únicamente denuncias presentadas por terceros, sin posibilidad de actuación de oficio",
+        "d": "Exclusivamente comunicaciones recibidas de la Unión Europea sobre infracciones"
+      },
+      "correct": "a",
+      "explicacion": "La AEPD desarrollará su actividad de investigación a través de las actuaciones previstas en el Título VIII de la LOPD (procedimientos en caso de posible vulneración de la normativa de protección de datos) y de los planes de auditoría preventivas.",
+      "ley": "Artículo 51.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La actividad de investigación de la AEPD se llevará a cabo por:",
+      "options": {
+        "a": "Cualquier ciudadano voluntario que se ofrezca para colaborar con la Agencia",
+        "b": "Exclusivamente personal del cuerpo de Inspectores de Hacienda del Estado",
+        "c": "Solo empresas privadas de auditoría contratadas para cada caso específico",
+        "d": "Los funcionarios de la AEPD o por funcionarios ajenos a ella habilitados expresamente por su Presidencia"
+      },
+      "correct": "d",
+      "explicacion": "La actividad de investigación se llevará a cabo por los funcionarios de la AEPD o por funcionarios ajenos a ella habilitados expresamente por su Presidencia, garantizando así que esta función se ejerce siempre por personal con habilitación específica.",
+      "ley": "Artículo 51.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Los funcionarios que desarrollen actividades de investigación tendrán la consideración de agentes de la autoridad y estarán obligados a guardar secreto sobre las informaciones que conozcan con ocasión de dicho ejercicio:",
+      "options": {
+        "a": "Solo si así se solicita expresamente por el inspeccionado",
+        "b": "Incluso después de haber cesado en él",
+        "c": "Solo mientras permanezcan en activo en la Agencia",
+        "d": "Únicamente durante el primer año tras la finalización de la actuación de investigación"
+      },
+      "correct": "b",
+      "explicacion": "Los funcionarios que desarrollen actividades de investigación tendrán la consideración de agentes de la autoridad en el ejercicio de sus funciones, y estarán obligados a guardar secreto sobre las informaciones que conozcan con ocasión de dicho ejercicio, incluso después de haber cesado en él.",
+      "ley": "Artículo 51.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las Administraciones Públicas, incluidas las tributarias y de la Seguridad Social, y los particulares estarán obligados a proporcionar a la AEPD:",
+      "options": {
+        "a": "Información únicamente cuando exista mandamiento judicial previo en cada caso",
+        "b": "Exclusivamente datos relativos a personas jurídicas, sin extenderse a personas físicas",
+        "c": "Los datos, informes, antecedentes y justificantes necesarios para llevar a cabo su actividad de investigación",
+        "d": "Solo información sobre tratamientos automatizados, excluyendo los manuales"
+      },
+      "correct": "c",
+      "explicacion": "Las Administraciones Públicas, incluidas las tributarias y de la Seguridad Social, y los particulares estarán obligados a proporcionar a la AEPD los datos, informes, antecedentes y justificantes necesarios para llevar a cabo su actividad de investigación.",
+      "ley": "Artículo 52.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Quienes desarrollen la actividad de investigación podrán, entre otras facultades:",
+      "options": {
+        "a": "Detener provisionalmente a las personas físicas sospechosas de incumplir el RGPD",
+        "b": "Realizar inspecciones, requerir la exhibición o el envío de documentos y datos necesarios, examinarlos en el lugar en que se encuentren, obtener copia de ellos e inspeccionar equipos físicos y lógicos",
+        "c": "Anular automáticamente cualquier contrato suscrito por el responsable investigado",
+        "d": "Imponer multas sin trámite previo de audiencia ni motivación alguna"
+      },
+      "correct": "b",
+      "explicacion": "Quienes desarrollen la actividad de investigación podrán recabar las informaciones precisas para el cumplimiento de sus funciones, realizar inspecciones, requerir la exhibición o el envío de documentos y datos, examinarlos en el lugar en que se encuentren, obtener copia de ellos, inspeccionar equipos físicos y lógicos y requerir la ejecución de tratamientos y programas sujetos a investigación.",
+      "ley": "Artículo 53.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando fuese necesario el acceso por el personal de investigación al domicilio constitucionalmente protegido del inspeccionado, será preciso contar con:",
+      "options": {
+        "a": "Autorización exclusivamente del Ministerio Fiscal, sin intervención judicial",
+        "b": "El simple acuerdo de la Presidencia de la AEPD, sin más requisito adicional",
+        "c": "Solo notificación previa, sin necesidad de consentimiento ni autorización judicial",
+        "d": "El consentimiento del inspeccionado o haber obtenido la correspondiente autorización judicial"
+      },
+      "correct": "d",
+      "explicacion": "Cuando fuese necesario el acceso por el personal que desarrolla la actividad de investigación al domicilio constitucionalmente protegido del inspeccionado, será preciso contar con su consentimiento o haber obtenido la correspondiente autorización judicial, en garantía del derecho fundamental a la inviolabilidad del domicilio.",
+      "ley": "Artículo 53.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando se trate de órganos judiciales u oficinas judiciales, el ejercicio de las facultades de inspección se efectuará:",
+      "options": {
+        "a": "A través y por mediación del Consejo General del Poder Judicial",
+        "b": "Solo con autorización del Tribunal Constitucional para cada órgano judicial concreto",
+        "c": "Directamente por los funcionarios de la AEPD, sin ningún tipo de intermediación",
+        "d": "Por el Ministerio Fiscal, en sustitución de la AEPD en estos casos"
+      },
+      "correct": "a",
+      "explicacion": "Cuando se trate de órganos judiciales u oficinas judiciales el ejercicio de las facultades de inspección se efectuará a través y por mediación del Consejo General del Poder Judicial, respetando así el principio de independencia judicial.",
+      "ley": "Artículo 53.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Las actuaciones de investigación realizadas a través de sistemas digitales como videoconferencia requerirán:",
+      "options": {
+        "a": "Que el inspeccionado se encuentre fuera del territorio nacional en el momento de la actuación",
+        "b": "Autorización judicial previa específica para cada sesión de videoconferencia",
+        "c": "La conformidad del inspeccionado en relación con su uso y con la fecha y hora de su desarrollo",
+        "d": "Solo la decisión unilateral de la Agencia, sin necesidad de conformidad del inspeccionado"
+      },
+      "correct": "c",
+      "explicacion": "La utilización de sistemas digitales para las actuaciones de investigación se producirá cuando lo determine la Agencia y requerirá la conformidad del inspeccionado en relación con su uso y con la fecha y hora de su desarrollo. Estos sistemas deben permitir comunicación bidireccional y simultánea de imagen y sonido con garantías de seguridad e integridad.",
+      "ley": "Artículo 53 bis de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La Presidencia de la AEPD podrá acordar la realización de planes de auditoría preventiva, referidos a:",
+      "options": {
+        "a": "Solo entidades que hayan sido previamente sancionadas en procedimiento sancionador firme",
+        "b": "Cada uno de los responsables de tratamiento individualmente, sin posibilidad de enfoque sectorial",
+        "c": "Exclusivamente entidades del sector público, excluyendo el sector privado",
+        "d": "Los tratamientos de un sector concreto de actividad, analizando su cumplimiento del RGPD y la LOPD a partir de actividades de investigación sobre entidades del sector"
+      },
+      "correct": "d",
+      "explicacion": "La Presidencia de la AEPD podrá acordar la realización de planes de auditoría preventiva, referidos a los tratamientos de un sector concreto de actividad. Tendrán por objeto el análisis del cumplimiento del RGPD y la LOPD, a partir de la realización de actividades de investigación sobre entidades pertenecientes al sector inspeccionado o sobre los responsables objeto de la auditoría.",
+      "ley": "Artículo 54.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. A resultas de los planes de auditoría, la Presidencia de la AEPD podrá dictar directrices generales o específicas que serán:",
+      "options": {
+        "a": "Solo aplicables si el sector las acepta voluntariamente mediante código de conducta",
+        "b": "Provisionales hasta su ratificación por el Comité Europeo de Protección de Datos",
+        "c": "De obligado cumplimiento para el sector o responsable al que se refiera el plan de auditoría",
+        "d": "Meramente recomendatorias, sin ninguna obligatoriedad para el sector afectado"
+      },
+      "correct": "c",
+      "explicacion": "A resultas de los planes de auditoría, la Presidencia de la AEPD podrá dictar directrices generales o específicas para un concreto responsable o encargado de los tratamientos, precisas para asegurar la plena adaptación del sector o responsable al RGPD y a la LOPD. Las directrices serán de obligado cumplimiento para el sector o responsable al que se refiera el plan de auditoría.",
+      "ley": "Artículo 54.2 y 54.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las disposiciones que fijen los criterios a que responderá la actuación de la AEPD en la aplicación del RGPD y la LOPD se denominarán:",
+      "options": {
+        "a": "«Acuerdos Marco de Aplicación Sectorial»",
+        "b": "«Circulares de la Agencia Española de Protección de Datos»",
+        "c": "«Directrices Generales de Cumplimiento Normativo»",
+        "d": "«Resoluciones Interpretativas de Carácter Reglamentario»"
+      },
+      "correct": "b",
+      "explicacion": "La Presidencia de la AEPD podrá dictar disposiciones que fijen los criterios a que responderá la actuación de esta autoridad en la aplicación de lo dispuesto en el RGPD y la LOPD, que se denominarán «Circulares de la Agencia Española de Protección de Datos», siendo obligatorias una vez publicadas en el Boletín Oficial del Estado.",
+      "ley": "Artículo 55.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El procedimiento de elaboración de las Circulares de la AEPD se sujetará al Estatuto de la Agencia, que deberá prever:",
+      "options": {
+        "a": "Ratificación parlamentaria mediante votación en el Congreso de los Diputados",
+        "b": "Aprobación previa del Comité Europeo de Protección de Datos en todo caso",
+        "c": "Solo la firma del Presidente, sin más trámites adicionales necesarios",
+        "d": "Los informes técnicos y jurídicos que fueran necesarios y la audiencia a los interesados"
+      },
+      "correct": "d",
+      "explicacion": "La elaboración de las Circulares de la AEPD se sujetará al procedimiento establecido en el Estatuto de la Agencia Española de Protección de Datos, que deberá prever los informes técnicos y jurídicos que fueran necesarios y la audiencia a los interesados.",
+      "ley": "Artículo 55.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Corresponde a la AEPD la titularidad y el ejercicio de las funciones relacionadas con:",
+      "options": {
+        "a": "La política comercial internacional del Estado español en su conjunto",
+        "b": "La defensa nacional en materia de ciberseguridad, sin distinción de competencias",
+        "c": "La acción exterior del Estado en materia de protección de datos",
+        "d": "Las relaciones diplomáticas generales de España, sin limitación a protección de datos"
+      },
+      "correct": "c",
+      "explicacion": "Corresponde a la AEPD la titularidad y el ejercicio de las funciones relacionadas con la acción exterior del Estado en materia de protección de datos, ejerciendo así un papel representativo internacional especializado en esta materia concreta.",
+      "ley": "Artículo 56.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La AEPD es el organismo competente para la protección de las personas físicas en lo relativo al tratamiento de datos derivado de la aplicación de cualquier Convenio Internacional en el que sea parte España, conforme a:",
+      "options": {
+        "a": "El artículo 5 de la LOPD, relativo al deber de confidencialidad",
+        "b": "El artículo 68.4 del Reglamento (UE) 2016/679",
+        "c": "Exclusivamente normas de Derecho Internacional Público, sin remisión al RGPD",
+        "d": "El Tratado de Lisboa, sin mención específica en la LOPD"
+      },
+      "correct": "b",
+      "explicacion": "La AEPD es el organismo competente para la protección de las personas físicas en lo relativo al tratamiento de datos personales derivado de la aplicación de cualquier Convenio Internacional en el que sea parte el Reino de España que atribuya a una autoridad nacional de control esa competencia, conforme al artículo 68.4 del Reglamento (UE) 2016/679.",
+      "ley": "Artículo 56.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_10_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD colaborará con autoridades, instituciones, organismos y Administraciones de otros Estados para desarrollar el derecho fundamental a la protección de datos, en particular:",
+      "options": {
+        "a": "Exclusivamente con países anglosajones de tradición jurídica common law",
+        "b": "Solo en el ámbito de la Unión Europea, sin extender colaboración fuera de ella",
+        "c": "En el ámbito iberoamericano, pudiendo suscribir acuerdos internacionales administrativos y no normativos en la materia",
+        "d": "Únicamente mediante tratados internacionales ratificados por las Cortes Generales"
+      },
+      "correct": "c",
+      "explicacion": "La AEPD colaborará con autoridades, instituciones, organismos y Administraciones de otros Estados a fin de impulsar, promover y desarrollar el derecho fundamental a la protección de datos, en particular en el ámbito iberoamericano, pudiendo suscribir acuerdos internacionales administrativos y no normativos en la materia.",
+      "ley": "Artículo 56.3.c) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 8",
+  "preguntas": [
+    {
+      "id": "tema_11_test_08_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las transferencias internacionales de datos se regirán por:",
+      "options": {
+        "a": "Exclusivamente los tratados bilaterales firmados entre España y cada país de destino",
+        "b": "Únicamente el Derecho mercantil internacional, sin aplicación de normativa específica de protección de datos",
+        "c": "El Reglamento (UE) 2016/679, la LOPD y sus normas de desarrollo aprobadas por el Gobierno, y las circulares de la AEPD y autoridades autonómicas en el ámbito de sus competencias",
+        "d": "Las normas internas de cada empresa exportadora de datos, sin sujeción a normativa estatal"
+      },
+      "correct": "c",
+      "explicacion": "Las transferencias internacionales de datos se regirán por lo dispuesto en el Reglamento (UE) 2016/679, en la LOPD y sus normas de desarrollo aprobadas por el Gobierno, y en las circulares de la AEPD y de las autoridades autonómicas de protección de datos, en el ámbito de sus respectivas competencias.",
+      "ley": "Artículo 40 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD y las autoridades autonómicas podrán adoptar, conforme al artículo 46.2.c) del RGPD, cláusulas contractuales tipo para la realización de transferencias internacionales de datos, que se sometE previamente:",
+      "options": {
+        "a": "A votación de las Cortes Generales, como si se tratase de un tratado internacional",
+        "b": "Al visto bueno del país receptor de los datos, sin necesidad de dictamen europeo",
+        "c": "A la aprobación exclusiva del Consejo de Ministros español, sin intervención europea",
+        "d": "Al dictamen del Comité Europeo de Protección de Datos previsto en el artículo 64 del citado reglamento"
+      },
+      "correct": "d",
+      "explicacion": "La AEPD y las autoridades autonómicas de protección de datos podrán adoptar, conforme a lo dispuesto en el artículo 46.2.c) del RGPD, cláusulas contractuales tipo para la realización de transferencias internacionales de datos, que se sometE previamente al dictamen del Comité Europeo de Protección de Datos previsto en el artículo 64 del citado reglamento.",
+      "ley": "Artículo 41.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El procedimiento para la aprobación de normas corporativas vinculantes se iniciará a instancia de una entidad situada en España y tendrá una duración máxima de:",
+      "options": {
+        "a": "Seis meses, sin posibilidad de suspensión por trámites europeos",
+        "b": "Un año natural completo, improrrogable",
+        "c": "Tres meses, plazo idéntico al de admisión de reclamaciones",
+        "d": "Nueve meses"
+      },
+      "correct": "d",
+      "explicacion": "La AEPD y las autoridades autonómicas podrán aprobar normas corporativas vinculantes de acuerdo con el artículo 47 del RGPD. El procedimiento se iniciará a instancia de una entidad situada en España y tendrá una duración máxima de nueve meses, quedando suspendido como consecuencia de la remisión del expediente al Comité Europeo de Protección de Datos para que emita el dictamen al que se refiere el artículo 64.1.f) del RGPD.",
+      "ley": "Artículo 41.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Las transferencias internacionales de datos a países que no cuenten con decisión de adecuación aprobada por la Comisión ni se amparen en garantías del artículo 46.2 del RGPD, requerirán previa autorización de la AEPD o autoridades autonómicas, otorgable, entre otros supuestos, cuando:",
+      "options": {
+        "a": "Se trate de una transferencia esporádica de menos de cien registros de datos personales",
+        "b": "La transferencia pretenda fundamentarse en cláusulas contractuales que no correspondan a las cláusulas tipo previstas en el artículo 46.2, letras c) y d), del RGPD",
+        "c": "El responsable haya obtenido previamente el consentimiento verbal de los afectados",
+        "d": "El destinatario de los datos sea una multinacional con presencia comercial en España"
+      },
+      "correct": "b",
+      "explicacion": "Las transferencias internacionales que no cuenten con decisión de adecuación ni se amparen en garantías del artículo 46.2 del RGPD requerirán autorización previa de la AEPD, que podrá otorgarse cuando la transferencia pretenda fundamentarse en garantías adecuadas con fundamento en cláusulas contractuales que no correspondan a las cláusulas tipo previstas en el artículo 46.2, letras c) y d), del RGPD.",
+      "ley": "Artículo 42.1.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El procedimiento de autorización previa de transferencias internacionales de datos a países sin decisión de adecuación tendrá una duración máxima de:",
+      "options": {
+        "a": "Nueve meses, igual que las normas corporativas vinculantes",
+        "b": "Seis meses",
+        "c": "Tres meses, sin posibilidad de suspensión durante el dictamen europeo",
+        "d": "Un año, equivalente al plazo general del procedimiento sancionador"
+      },
+      "correct": "b",
+      "explicacion": "El procedimiento de autorización previa de las transferencias internacionales sometidas a este régimen tendrá una duración máxima de seis meses. La autorización quedará sometida a la emisión por el Comité Europeo de Protección de Datos del dictamen previsto en los artículos 64.1.e), 64.1.f) y 65.1.c) del RGPD.",
+      "ley": "Artículo 42.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La autorización previa para transferencias internacionales sometidas a régimen especial también podrá otorgarse cuando la transferencia se lleve a cabo por alguno de los responsables o encargados del artículo 77.1 de la LOPD y se funde en:",
+      "options": {
+        "a": "El mero interés comercial estratégico de la entidad pública española",
+        "b": "Cualquier acuerdo verbal alcanzado entre las autoridades de control de ambos países",
+        "c": "Disposiciones incorporadas a acuerdos internacionales no normativos con otras autoridades u organismos públicos de terceros Estados, que incorporen derechos efectivos y exigibles para los afectados, incluidos los memorandos de entendimiento",
+        "d": "Un simple compromiso unilateral del país receptor sin valor jurídico vinculante"
+      },
+      "correct": "c",
+      "explicacion": "La autorización podrá otorgarse cuando la transferencia se lleve a cabo por alguno de los responsables o encargados a los que se refiere el artículo 77.1 de la LOPD y se funde en disposiciones incorporadas a acuerdos internacionales no normativos con otras autoridades u organismos públicos de terceros Estados, que incorporen derechos efectivos y exigibles para los afectados, incluidos los memorandos de entendimiento.",
+      "ley": "Artículo 42.1.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los responsables del tratamiento deberán informar a la AEPD o, en su caso, a las autoridades autonómicas, de cualquier transferencia internacional de datos que pretendan llevar a cabo sobre la base de:",
+      "options": {
+        "a": "Su necesidad para fines relacionados con intereses legítimos imperiosos perseguidos por aquellos, junto con la concurrencia del resto de requisitos del artículo 49.1 del RGPD",
+        "b": "Una autorización previa del país de destino, sin más requisitos exigibles",
+        "c": "El simple deseo de expandir su negocio a mercados internacionales",
+        "d": "Cualquier motivo comercial, sin necesidad de justificar interés legítimo alguno"
+      },
+      "correct": "a",
+      "explicacion": "Los responsables del tratamiento deberán informar a la AEPD o, en su caso, a las autoridades autonómicas, de cualquier transferencia internacional de datos que pretendan llevar a cabo sobre la base de su necesidad para fines relacionados con intereses legítimos imperiosos perseguidos por aquellos, y la concurrencia del resto de requisitos previstos en el último párrafo del artículo 49.1 del RGPD.",
+      "ley": "Artículo 43 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando un responsable pretenda llevar a cabo una transferencia internacional fundada en intereses legítimos imperiosos, deberá facilitar la información previa a la realización de la transferencia, debiendo además:",
+      "options": {
+        "a": "Suspender la transferencia hasta que la AEPD confirme expresamente su conformidad",
+        "b": "Informar a los afectados de la transferencia y de los intereses legítimos imperiosos perseguidos",
+        "c": "Solo notificar a las autoridades del país de destino, sin necesidad de informar a los afectados",
+        "d": "Esperar autorización expresa del Comité Europeo de Protección de Datos, sin posibilidad de transferir antes"
+      },
+      "correct": "b",
+      "explicacion": "Los responsables deberán informar a la AEPD de cualquier transferencia fundada en intereses legítimos imperiosos, y asimismo informarán a los afectados de la transferencia y de los intereses legítimos imperiosos perseguidos. Esta información deberá facilitarse con carácter previo a la realización de la transferencia.",
+      "ley": "Artículo 43 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La obligación de información previa sobre transferencias basadas en intereses legítimos imperiosos no será de aplicación a:",
+      "options": {
+        "a": "Las transferencias dentro de un mismo grupo empresarial multinacional",
+        "b": "Las actividades llevadas a cabo por las autoridades públicas en el ejercicio de sus poderes públicos, de acuerdo con el artículo 49.3 del RGPD",
+        "c": "Las transferencias que afecten a más de mil registros de datos personales",
+        "d": "Las transferencias realizadas por entidades privadas, cualquiera que sea su tamaño"
+      },
+      "correct": "b",
+      "explicacion": "Lo dispuesto sobre la obligación de información previa a la autoridad de control y a los afectados no será de aplicación a las actividades llevadas a cabo por las autoridades públicas en el ejercicio de sus poderes públicos, de acuerdo con el artículo 49.3 del RGPD.",
+      "ley": "Artículo 43 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La remisión del expediente de autorización previa de transferencia internacional al Comité Europeo de Protección de Datos implicará:",
+      "options": {
+        "a": "La nulidad automática de la solicitud, debiendo presentarse de nuevo posteriormente",
+        "b": "El cese inmediato y definitivo de toda tramitación administrativa relativa a la transferencia",
+        "c": "La suspensión del procedimiento hasta que el dictamen sea notificado a la AEPD o, por conducto de la misma, a la autoridad de control competente",
+        "d": "La transferencia automática de competencias a la autoridad de control del país de destino"
+      },
+      "correct": "c",
+      "explicacion": "La autorización para transferencias internacionales sometidas a régimen especial quedará sometida a la emisión por el Comité Europeo de Protección de Datos del dictamen correspondiente. La remisión del expediente al citado comité implicará la suspensión del procedimiento hasta que el dictamen sea notificado a la AEPD o, por conducto de la misma, a la autoridad de control competente, en su caso.",
+      "ley": "Artículo 42.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En todo caso, a los tratamientos en que consista la propia transferencia internacional de datos se aplicarán las disposiciones contenidas en la normativa de protección de datos, en particular:",
+      "options": {
+        "a": "Las normas penales sobre delitos informáticos transnacionales",
+        "b": "Solo las disposiciones tributarias relacionadas con la facturación de servicios transfronterizos",
+        "c": "Exclusivamente las normas mercantiles sobre contratos internacionales",
+        "d": "Las que regulan los principios de protección de datos"
+      },
+      "correct": "d",
+      "explicacion": "En todo caso se aplicarán a los tratamientos en que consista la propia transferencia internacional las disposiciones contenidas en las normas que regulan las transferencias (RGPD, LOPD y sus normas de desarrollo), en particular las que regulan los principios de protección de datos.",
+      "ley": "Artículo 40 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las cláusulas contractuales tipo adoptadas por la AEPD o autoridades autonómicas para transferencias internacionales se fundamentan en lo dispuesto en:",
+      "options": {
+        "a": "El artículo 5 de la LOPD, relativo al deber de confidencialidad",
+        "b": "El artículo 9 del Reglamento (UE) 2016/679, relativo a categorías especiales de datos",
+        "c": "El artículo 46.2.c) del Reglamento (UE) 2016/679",
+        "d": "Exclusivamente la legislación nacional, sin fundamento en el RGPD"
+      },
+      "correct": "c",
+      "explicacion": "La AEPD y las autoridades autonómicas de protección de datos podrán adoptar, conforme a lo dispuesto en el artículo 46.2.c) del Reglamento (UE) 2016/679, cláusulas contractuales tipo para la realización de transferencias internacionales de datos.",
+      "ley": "Artículo 41.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Señale cuál de las siguientes afirmaciones sobre las transferencias internacionales de datos NO es correcta:",
+      "options": {
+        "a": "Las normas corporativas vinculantes se aprueban a instancia de una entidad situada en España con duración máxima del procedimiento de nueve meses",
+        "b": "Las cláusulas contractuales tipo se someten previamente al dictamen del Comité Europeo de Protección de Datos",
+        "c": "Las transferencias a países u organizaciones sin decisión de adecuación ni garantías del artículo 46.2 RGPD requieren autorización previa",
+        "d": "Las transferencias internacionales a países con decisión de adecuación de la Comisión Europea requieren siempre autorización adicional de la AEPD"
+      },
+      "correct": "d",
+      "explicacion": "Las transferencias internacionales a países u organizaciones que cuenten con decisión de adecuación aprobada por la Comisión Europea no requieren autorización adicional de la AEPD, ya que dicha decisión de adecuación constituye por sí misma fundamento jurídico suficiente para la transferencia conforme al artículo 45 del RGPD. La autorización previa solo es exigible cuando no exista decisión de adecuación ni se amparen en las garantías del artículo 46.2.",
+      "ley": "Artículo 42.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las circulares de la AEPD y de las autoridades autonómicas de protección de datos, en materia de transferencias internacionales, se aplicarán:",
+      "options": {
+        "a": "En el ámbito de sus respectivas competencias, complementando el régimen del RGPD, la LOPD y sus normas de desarrollo",
+        "b": "Exclusivamente cuando lo solicite expresamente el responsable interesado en transferir datos",
+        "c": "Solo con carácter orientativo, sin ninguna fuerza vinculante para los responsables",
+        "d": "Únicamente en defecto de regulación europea sobre la materia concreta"
+      },
+      "correct": "a",
+      "explicacion": "Las transferencias internacionales de datos se regirán por el Reglamento (UE) 2016/679, la LOPD y sus normas de desarrollo aprobadas por el Gobierno, y en las circulares de la AEPD y de las autoridades autonómicas de protección de datos, en el ámbito de sus respectivas competencias.",
+      "ley": "Artículo 40 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La emisión del dictamen del Comité Europeo de Protección de Datos en materia de cláusulas contractuales tipo se prevé en el artículo:",
+      "options": {
+        "a": "64 del Reglamento (UE) 2016/679",
+        "b": "82 del Reglamento (UE) 2016/679, relativo al derecho a indemnización",
+        "c": "60 del Reglamento (UE) 2016/679, relativo al procedimiento de cooperación",
+        "d": "47 del Reglamento (UE) 2016/679, relativo a normas corporativas vinculantes"
+      },
+      "correct": "a",
+      "explicacion": "La AEPD y las autoridades autonómicas podrán adoptar cláusulas contractuales tipo para transferencias internacionales, que se sometE previamente al dictamen del Comité Europeo de Protección de Datos previsto en el artículo 64 del Reglamento (UE) 2016/679.",
+      "ley": "Artículo 41.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La duración máxima del procedimiento para la aprobación de normas corporativas vinculantes (nueve meses) se computa:",
+      "options": {
+        "a": "Desde que el país de destino comunica formalmente su aceptación de las normas corporativas",
+        "b": "Desde la fecha de publicación del dictamen del Comité Europeo en el Diario Oficial de la Unión Europea",
+        "c": "Sin posibilidad de suspensión bajo ninguna circunstancia, transcurriendo de forma ininterrumpida",
+        "d": "Desde la solicitud de la entidad, quedando suspendido el plazo durante el tiempo de remisión del expediente al Comité Europeo y hasta la notificación de su dictamen"
+      },
+      "correct": "d",
+      "explicacion": "El procedimiento de aprobación de normas corporativas vinculantes se iniciará a instancia de una entidad situada en España y tendrá una duración máxima de nueve meses, quedando suspendido como consecuencia de la remisión del expediente al Comité Europeo de Protección de Datos para que emita el dictamen al que se refiere el artículo 64.1.f), y continuará tras su notificación a la AEPD o a la autoridad autonómica competente.",
+      "ley": "Artículo 41.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las normas de desarrollo en materia de transferencias internacionales de datos que complementan el RGPD y la LOPD son aprobadas por:",
+      "options": {
+        "a": "La Agencia Española de Protección de Datos mediante simple circular interna",
+        "b": "El Gobierno",
+        "c": "Exclusivamente el Parlamento Europeo, sin intervención del Gobierno español",
+        "d": "El Ministerio de Asuntos Exteriores, en exclusiva y sin participación de otros órganos"
+      },
+      "correct": "b",
+      "explicacion": "Las transferencias internacionales de datos se regirán por lo dispuesto en el Reglamento (UE) 2016/679, en la LOPD y sus normas de desarrollo aprobadas por el Gobierno, y en las circulares de la AEPD y de las autoridades autonómicas de protección de datos, en el ámbito de sus respectivas competencias.",
+      "ley": "Artículo 40 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La información a los afectados sobre la transferencia internacional fundada en intereses legítimos imperiosos y los intereses perseguidos:",
+      "options": {
+        "a": "Solo es exigible si el afectado lo solicita expresamente por escrito",
+        "b": "No es obligatoria cuando la transferencia se realice a un único país miembro del Consejo de Europa",
+        "c": "Debe facilitarse con carácter previo a la realización de la transferencia",
+        "d": "Puede facilitarse en cualquier momento, incluso años después de realizada la transferencia"
+      },
+      "correct": "c",
+      "explicacion": "Los responsables del tratamiento deberán informar a la AEPD de cualquier transferencia fundada en intereses legítimos imperiosos, y asimismo informarán a los afectados de la transferencia y de los intereses legítimos imperiosos perseguidos. Esta información deberá facilitarse con carácter previo a la realización de la transferencia.",
+      "ley": "Artículo 43 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una de las garantías que puede fundamentar una transferencia internacional sin necesidad de autorización previa específica de la AEPD es:",
+      "options": {
+        "a": "El uso de las cláusulas tipo previstas en el artículo 46.2, letras c) y d), del Reglamento (UE) 2016/679",
+        "b": "El simple acuerdo verbal entre el exportador y el importador de los datos",
+        "c": "La mera presencia comercial del importador en territorio de la Unión Europea",
+        "d": "La traducción del contrato al idioma oficial del país de destino"
+      },
+      "correct": "a",
+      "explicacion": "Las transferencias amparadas en alguna de las garantías previstas en el artículo 46.2 del RGPD, como las cláusulas tipo de las letras c) y d), no requieren autorización previa de la AEPD, a diferencia de aquellas que pretendan fundamentarse en cláusulas contractuales que no correspondan a dichas cláusulas tipo, que sí requieren dicha autorización previa.",
+      "ley": "Artículo 42.1.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_08_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los responsables o encargados a los que se refiere el artículo 77.1 de la LOPD, en relación con transferencias internacionales basadas en acuerdos internacionales no normativos, se refieren fundamentalmente a:",
+      "options": {
+        "a": "Determinadas entidades del sector público especificadas en dicho artículo de la LOPD",
+        "b": "Particulares que actúen como representantes de empresas extranjeras",
+        "c": "Exclusivamente empresas multinacionales privadas de gran tamaño",
+        "d": "Solo entidades financieras sometidas a supervisión del Banco de España"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 77.1 de la LOPD enumera determinadas entidades del sector público (Administraciones, organismos vinculados, etc.) que pueden ser objeto de un régimen específico, entre otros aspectos, en materia de autorización de transferencias internacionales basadas en acuerdos internacionales no normativos con autoridades de terceros Estados.",
+      "ley": "Artículo 42.1.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

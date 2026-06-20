@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 6",
+  "preguntas": [
+    {
+      "id": "tema_10_test_06_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo, entre otros supuestos, cuando:",
+      "options": {
+        "a": "Se trate de una resolución de un procedimiento sancionador contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición",
+        "b": "El procedimiento haya sido tramitado en formato electrónico",
+        "c": "La resolución haya sido dictada por un órgano colegiado",
+        "d": "El interesado haya presentado alegaciones durante el procedimiento"
+      },
+      "correct": "a",
+      "explicacion": "Los actos administrativos sujetos al Derecho Administrativo son inmediatamente ejecutivos, con las siguientes excepciones: suspensión de la ejecución; resoluciones de procedimientos sancionadores contra las que quepa recurso en vía administrativa, incluido el potestativo de reposición; disposición que establezca lo contrario; y necesidad de aprobación o autorización superior.",
+      "ley": "Artículo 98.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los medios de ejecución forzosa de las Administraciones Públicas son:",
+      "options": {
+        "a": "Únicamente la ejecución subsidiaria y la compulsión directa",
+        "b": "Solo el apremio sobre el patrimonio y la multa coercitiva",
+        "c": "El apremio sobre el patrimonio, la ejecución subsidiaria, la multa coercitiva y la compulsión sobre las personas",
+        "d": "El embargo preventivo, la retención de ingresos y la compulsión personal"
+      },
+      "correct": "c",
+      "explicacion": "La ejecución forzosa por las Administraciones Públicas se efectúa, respetando siempre el principio de proporcionalidad, por los siguientes medios: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. Si son varios los medios admisibles, se elegirá el menos restrictivo de la libertad individual.",
+      "ley": "Artículo 100.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La ejecución subsidiaria tiene lugar cuando:",
+      "options": {
+        "a": "Se trate de obligaciones personalísimas de hacer cuyo incumplimiento requiere resarcimiento económico",
+        "b": "Se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado, realizando las Administraciones el acto a costa del obligado",
+        "c": "Solo cuando el acto tenga un valor económico inferior a diez mil euros",
+        "d": "El obligado haya solicitado voluntariamente ser sustituido en el cumplimiento"
+      },
+      "correct": "b",
+      "explicacion": "Habrá lugar a la ejecución subsidiaria cuando se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado. En este caso, las Administraciones Públicas realizarán el acto, por sí o a través de las personas que determinen, a costa del obligado.",
+      "ley": "Artículo 102 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La multa coercitiva es:",
+      "options": {
+        "a": "Incompatible con la ejecución subsidiaria en todo caso",
+        "b": "Solo aplicable en procedimientos sancionadores como alternativa a la sanción principal",
+        "c": "Sustitutiva de la sanción correspondiente, de modo que una excluye a la otra",
+        "d": "Independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas"
+      },
+      "correct": "d",
+      "explicacion": "La multa coercitiva es independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas. Es un medio de ejecución forzosa, no una sanción, y puede imponerse de forma reiterada por lapsos de tiempo suficientes para cumplir lo ordenado en determinados supuestos.",
+      "ley": "Artículo 103.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La revisión de oficio de actos nulos requerirá, con carácter preceptivo:",
+      "options": {
+        "a": "Solo la petición de cualquier interesado sin necesidad de dictamen previo",
+        "b": "Dictamen previo del Consejo de Estado únicamente cuando lo solicite el propio interesado",
+        "c": "Aprobación por mayoría absoluta del Consejo de Ministros o equivalente autonómico",
+        "d": "Dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma"
+      },
+      "correct": "d",
+      "explicacion": "Las Administraciones Públicas pueden declarar de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere.",
+      "ley": "Artículo 106.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La declaración de lesividad de actos anulables no podrá adoptarse una vez transcurridos:",
+      "options": {
+        "a": "Cuatro años desde que se dictó el acto administrativo, exigiendo la previa audiencia de los interesados",
+        "b": "Tres meses desde que la Administración tuvo conocimiento del error del acto",
+        "c": "Dos años desde la fecha de notificación al interesado",
+        "d": "Diez años desde que se dictó el acto, con independencia de quién lo haya impugnado"
+      },
+      "correct": "a",
+      "explicacion": "La declaración de lesividad no puede adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exige la previa audiencia de cuantos aparezcan como interesados en el mismo. El procedimiento caduca si transcurren seis meses desde su iniciación sin declararse la lesividad.",
+      "ley": "Artículo 107.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
+      "options": {
+        "a": "Únicamente durante el primer año desde que se dictaron",
+        "b": "Solo si media solicitud expresa del interesado afectado",
+        "c": "Mientras no haya transcurrido el plazo de prescripción, siempre que la revocación no constituya dispensa o exención no permitida, ni sea contraria al principio de igualdad, al interés público o al ordenamiento",
+        "d": "En cualquier momento y sin limitación alguna, ya que afectan solo al interesado"
+      },
+      "correct": "c",
+      "explicacion": "Las Administraciones Públicas pueden revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+      "ley": "Artículo 109.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Contra las disposiciones administrativas de carácter general:",
+      "options": {
+        "a": "Solo cabrá el recurso extraordinario de revisión, nunca el de alzada",
+        "b": "Cabrá recurso potestativo de reposición ante el mismo órgano que las dictó",
+        "c": "No cabrá recurso en vía administrativa; los recursos contra un acto administrativo fundados únicamente en la nulidad de una disposición general podrán interponerse directamente ante el órgano que la dictó",
+        "d": "Cabrá recurso de alzada ante el superior jerárquico en todo caso"
+      },
+      "correct": "c",
+      "explicacion": "Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa. Los recursos contra un acto administrativo que se funden únicamente en la nulidad de alguna disposición de carácter general podrán interponerse directamente ante el órgano que dictó dicha disposición.",
+      "ley": "Artículo 112.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El recurso de alzada se interpone ante:",
+      "options": {
+        "a": "Cualquier órgano de la Administración que reciba el escrito, quien lo remitirá competente",
+        "b": "Solo ante el órgano que dictó el acto impugnado, sin excepción",
+        "c": "El órgano superior jerárquico del que dictó el acto, pudiendo interponerse también ante el propio órgano que dictó el acto, que deberá remitirlo al competente en diez días",
+        "d": "Exclusivamente ante el Consejo de Estado como órgano superior consultivo"
+      },
+      "correct": "c",
+      "explicacion": "El recurso de alzada puede interponerse ante el órgano superior jerárquico del que dictó el acto o ante el propio órgano que dictó el acto impugnado. En este último caso, el órgano que reciba el recurso deberá remitirlo al competente en el plazo de diez días, con su informe y copia completa y ordenada del expediente.",
+      "ley": "Artículo 121.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El plazo para la interposición del recurso de alzada, cuando el acto fuera expreso, es de:",
+      "options": {
+        "a": "Tres meses sin excepción",
+        "b": "Un mes; transcurrido dicho plazo sin haberse interpuesto, la resolución será firme a todos los efectos",
+        "c": "Quince días hábiles desde la notificación",
+        "d": "Seis meses a contar desde el dictado del acto"
+      },
+      "correct": "b",
+      "explicacion": "El plazo para interponer el recurso de alzada es de un mes si el acto fuera expreso. Transcurrido dicho plazo sin interponerse, la resolución será firme a todos los efectos. El plazo máximo para dictar y notificar la resolución del recurso de alzada es de tres meses.",
+      "ley": "Artículo 122.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El recurso potestativo de reposición:",
+      "options": {
+        "a": "Suprime la posibilidad de acudir directamente a la vía contencioso-administrativa",
+        "b": "Puede interponerse ante el mismo órgano que dictó el acto que pone fin a la vía administrativa o impugnarse directamente ante la jurisdicción contencioso-administrativa",
+        "c": "Es obligatorio como paso previo al recurso de alzada",
+        "d": "Solo puede interponerse contra actos de organismos autónomos, no de la Administración central"
+      },
+      "correct": "b",
+      "explicacion": "Los actos administrativos que pongan fin a la vía administrativa pueden ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante la jurisdicción contencioso-administrativa. No puede interponerse recurso contencioso-administrativo hasta que sea resuelto o se entienda desestimado el recurso de reposición interpuesto.",
+      "ley": "Artículo 123.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El plazo máximo para dictar y notificar la resolución del recurso potestativo de reposición es de:",
+      "options": {
+        "a": "Quince días hábiles",
+        "b": "Un mes",
+        "c": "Tres meses",
+        "d": "Seis meses"
+      },
+      "correct": "b",
+      "explicacion": "El plazo máximo para dictar y notificar la resolución del recurso potestativo de reposición es de un mes. Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso.",
+      "ley": "Artículo 124.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El recurso extraordinario de revisión procede contra actos firmes en vía administrativa, entre otros casos, cuando:",
+      "options": {
+        "a": "Se trate de actos que solo contienen errores materiales sin relevancia jurídica",
+        "b": "El interesado no hubiera sido oído durante la tramitación del procedimiento",
+        "c": "Al dictarlos se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente, o aparezcan documentos de valor esencial que evidencien el error de la resolución recurrida",
+        "d": "Hayan transcurrido menos de quince días desde que el acto adquirió firmeza"
+      },
+      "correct": "c",
+      "explicacion": "El recurso extraordinario de revisión procede contra actos firmes en vía administrativa cuando: se haya incurrido en error de hecho que resulte de los propios documentos del expediente; aparezcan documentos de valor esencial que evidencien el error; hayan influido documentos o testimonios declarados falsos por sentencia firme; o la resolución se dictara como consecuencia de prevaricación, cohecho, violencia u otra conducta punible declarada por sentencia firme.",
+      "ley": "Artículo 125.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El recurso extraordinario de revisión basado en error de hecho que resulte de los documentos del expediente debe interponerse:",
+      "options": {
+        "a": "En el plazo de tres meses desde la notificación, en todos los casos",
+        "b": "En cualquier momento, sin sujeción a plazo, por tratarse de un recurso extraordinario",
+        "c": "Dentro del plazo de un año en todos los supuestos sin distinción",
+        "d": "Dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada; en los demás casos el plazo será de tres meses"
+      },
+      "correct": "d",
+      "explicacion": "El recurso extraordinario de revisión basado en error de hecho que resulte de los propios documentos del expediente debe interponerse dentro del plazo de cuatro años siguientes a la notificación de la resolución impugnada. En los demás casos (documentos posteriores, testimonios falsos, conducta punible), el plazo es de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia quedó firme.",
+      "ley": "Artículo 125.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La interposición de cualquier recurso administrativo, como regla general:",
+      "options": {
+        "a": "No suspenderá la ejecución del acto impugnado, salvo que una disposición establezca lo contrario",
+        "b": "Suspende siempre y automáticamente la ejecución del acto recurrido",
+        "c": "Produce la suspensión únicamente si el interesado presta garantía suficiente",
+        "d": "Suspende la ejecución solo cuando el recurso se interpone por el Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "La interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado. Sin embargo, el órgano competente podrá suspender de oficio o a solicitud del recurrente cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación, o la impugnación se funde en causas de nulidad de pleno derecho.",
+      "ley": "Artículo 117.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La ejecución del acto impugnado se entenderá suspendida si transcurrido un mes desde la solicitud de suspensión en el registro electrónico:",
+      "options": {
+        "a": "El órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto",
+        "b": "El órgano resolutorio no ha emitido informe favorable a la suspensión",
+        "c": "El interesado no ha aportado las garantías exigidas",
+        "d": "Solo si el Consejo de Estado ha emitido dictamen favorable"
+      },
+      "correct": "a",
+      "explicacion": "La ejecución del acto impugnado se entenderá suspendida si, transcurrido un mes desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración competente, el órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto.",
+      "ley": "Artículo 117.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los principios de buena regulación a los que deben ajustarse las Administraciones Públicas en el ejercicio de la iniciativa legislativa y la potestad reglamentaria son:",
+      "options": {
+        "a": "Únicamente los principios de jerarquía normativa y publicidad",
+        "b": "Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia",
+        "c": "Eficiencia, rentabilidad económica y reducción del gasto",
+        "d": "Solo legalidad y eficacia administrativa"
+      },
+      "correct": "b",
+      "explicacion": "En el ejercicio de la iniciativa legislativa y la potestad reglamentaria, las Administraciones Públicas actuarán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, debiendo quedar suficientemente justificada su adecuación a dichos principios en la exposición de motivos o el preámbulo.",
+      "ley": "Artículo 129.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los reglamentos y disposiciones administrativas no podrán, entre otras prohibiciones:",
+      "options": {
+        "a": "Desarrollar disposiciones de la Unión Europea directamente aplicables",
+        "b": "Modificar el régimen de recursos administrativos previamente establecido",
+        "c": "Regular materias no previstas expresamente por ley que no afecten a derechos fundamentales",
+        "d": "Tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas de carácter público"
+      },
+      "correct": "d",
+      "explicacion": "Los reglamentos y disposiciones administrativas no pueden vulnerar la Constitución o las leyes, ni regular materias reservadas a las Cortes. Sin perjuicio de su función de desarrollo o colaboración con la ley, no pueden tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público.",
+      "ley": "Artículo 128.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las normas con rango de ley, los reglamentos y disposiciones administrativas habrán de publicarse en el diario oficial correspondiente para:",
+      "options": {
+        "a": "Entrar en vigor y producir efectos jurídicos",
+        "b": "Ser incorporadas al ordenamiento jurídico de la Unión Europea",
+        "c": "Ser remitidas al Consejo de Estado para su dictamen previo",
+        "d": "Adquirir carácter definitivo tras el período de consulta ciudadana"
+      },
+      "correct": "a",
+      "explicacion": "Las normas con rango de ley, los reglamentos y las disposiciones administrativas habrán de publicarse en el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos. Adicionalmente y de manera facultativa, las Administraciones podrán establecer otros medios de publicidad complementarios.",
+      "ley": "Artículo 131 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_06_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre el recurso extraordinario de revisión NO es correcta:",
+      "options": {
+        "a": "Procede cuando al dictar el acto se incurrió en error de hecho que resulte de los propios documentos del expediente",
+        "b": "El órgano que resuelve el recurso debe pronunciarse también sobre el fondo de la cuestión resuelta por el acto recurrido",
+        "c": "El plazo para interponerlo es de cuatro años en los casos de error de hecho y de tres meses en los demás supuestos",
+        "d": "Puede interponerse contra cualquier acto administrativo, aunque no haya adquirido firmeza en vía administrativa"
+      },
+      "correct": "d",
+      "explicacion": "El recurso extraordinario de revisión solo procede contra los actos firmes en vía administrativa, no contra actos que aún puedan ser objeto de los recursos ordinarios de alzada o reposición. Su carácter extraordinario implica que procede únicamente cuando concurren las causas tasadas previstas en el artículo 125.1.",
+      "ley": "Artículo 125.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+  ]
+}

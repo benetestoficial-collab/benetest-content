@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_10_test_10_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. ¿Cuáles son los ámbitos que conforman el sector público institucional a efectos de la Ley 39/2015?",
+      "options": {
+        "a": "Las entidades locales de más de cien mil habitantes y sus organismos dependientes",
+        "b": "Únicamente las sociedades mercantiles con participación total del Estado",
+        "c": "Organismos públicos vinculados o dependientes de las Administraciones, entidades de derecho privado vinculadas cuando ejerzan potestades administrativas, y las Universidades públicas",
+        "d": "Solo los organismos autónomos de la Administración General del Estado"
+      },
+      "correct": "c",
+      "explicacion": "El sector público institucional se integra por: los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas; las entidades de derecho privado vinculadas o dependientes, sujetas a la ley cuando ejerzan potestades administrativas; y las Universidades públicas, regidas por su normativa específica y supletoriamente por esta ley.",
+      "ley": "Artículo 2.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Un apoderamiento apud acta electrónico puede otorgarse mediante:",
+      "options": {
+        "a": "Solo mediante escritura pública notarial con firma electrónica",
+        "b": "Solo mediante comparecencia presencial ante el órgano administrativo competente",
+        "c": "Comparecencia electrónica en la correspondiente sede electrónica haciendo uso de sistemas de firma electrónica, o mediante comparecencia personal en las oficinas de asistencia en materia de registros",
+        "d": "Únicamente a través del Notario, sin posibilidad de hacerse electrónicamente"
+      },
+      "correct": "c",
+      "explicacion": "El apoderamiento apud acta se otorga mediante comparecencia electrónica en la correspondiente sede electrónica haciendo uso de los sistemas de firma electrónica previstos en la Ley, o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros.",
+      "ley": "Artículo 6.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El certificado acreditativo del silencio administrativo producido debe expedirse por el órgano competente:",
+      "options": {
+        "a": "Solo a instancia del interesado, en el plazo de un mes desde su solicitud",
+        "b": "De oficio en el plazo de quince días desde que expire el plazo máximo para resolver; el interesado también puede pedirlo en cualquier momento",
+        "c": "Solo si el silencio tiene efecto desestimatorio, no cuando tiene efecto estimatorio",
+        "d": "Siempre de oficio en el plazo de diez días desde que vence el plazo de resolución"
+      },
+      "correct": "b",
+      "explicacion": "El certificado acreditativo del silencio producido se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento. Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento, computándose el plazo desde el día siguiente a aquel en que la petición tenga entrada en el registro electrónico.",
+      "ley": "Artículo 24.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los plazos señalados por horas en la Ley 39/2015:",
+      "options": {
+        "a": "Solo pueden establecerse plazos en horas para procedimientos de urgencia",
+        "b": "Se entiende que son hábiles (todas las horas del día que formen parte de un día hábil) y no pueden tener una duración superior a veinticuatro horas, en cuyo caso deben expresarse en días",
+        "c": "Son siempre horas naturales, incluyendo las de días festivos y fines de semana",
+        "d": "Son horas hábiles de jornada laboral, de nueve a catorce horas de lunes a viernes"
+      },
+      "correct": "b",
+      "explicacion": "Cuando los plazos se señalan por horas, se entiende que estas son hábiles (todas las horas del día que formen parte de un día hábil). Los plazos expresados en horas se cuentan de hora en hora y de minuto en minuto desde la notificación o publicación, y no pueden tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.",
+      "ley": "Artículo 30.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La presentación de documentos en el registro electrónico en día inhábil se computará:",
+      "options": {
+        "a": "Como presentada en el mismo día inhábil, surtiendo plenos efectos desde ese momento",
+        "b": "No se admite ninguna presentación en día inhábil, siendo rechazada automáticamente",
+        "c": "Como realizada en el mismo momento si es antes de las doce horas, y al día siguiente en caso contrario",
+        "d": "Como realizada en la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil"
+      },
+      "correct": "d",
+      "explicacion": "A los efectos del cómputo de plazo fijado en días hábiles, la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil. Los documentos presentados en día inhábil se reputarán anteriores a los presentados el primer día hábil posterior.",
+      "ley": "Artículo 31.2.b) de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La motivación de los actos en los procedimientos selectivos y de concurrencia competitiva:",
+      "options": {
+        "a": "No es necesaria, ya que el mero resultado numérico es suficiente motivación",
+        "b": "Se realizará de conformidad con las normas que regulen sus convocatorias, debiendo quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte",
+        "c": "Solo es necesaria en los procedimientos de libre concurrencia, no en los de acceso restringido",
+        "d": "Requiere siempre dictamen previo del Consejo de Estado"
+      },
+      "correct": "b",
+      "explicacion": "La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo en todo caso quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte.",
+      "ley": "Artículo 35.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Sobre las notificaciones en papel practicadas en el domicilio del interesado, ¿cuándo se intentará de nuevo la notificación?",
+      "options": {
+        "a": "Tantas veces como sea necesario hasta que el interesado reciba la notificación",
+        "b": "Por una sola vez en una hora distinta dentro de los tres días siguientes, con un margen de diferencia de al menos tres horas entre ambos intentos",
+        "c": "Una sola vez más, al día siguiente hábil en el mismo horario",
+        "d": "Dos veces más en días distintos, sin limitación de horario"
+      },
+      "correct": "b",
+      "explicacion": "Si nadie se hace cargo de la notificación en papel, el intento se repetirá por una sola vez en una hora distinta dentro de los tres días siguientes. Si el primer intento se realizó antes de las quince horas, el segundo deberá ser después de las quince horas y viceversa, debiendo existir al menos un margen de tres horas entre ambos intentos. Si el segundo también resulta infructuoso, se procede a la notificación por edictos.",
+      "ley": "Artículo 42.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En los procedimientos iniciados a solicitud del interesado, el silencio administrativo estimatorio producirá un acto del que la Administración solo podrá dictar resolución expresa posterior:",
+      "options": {
+        "a": "Solo cuando el Consejo de Estado autorice la resolución contraria al silencio",
+        "b": "En cualquier sentido, ya que el silencio no vincula a la Administración",
+        "c": "Confirmatoria del silencio estimatorio; en los casos de desestimación, la resolución posterior al vencimiento se adoptará sin vinculación al sentido del silencio",
+        "d": "Contraria al silencio estimatorio, para evitar el enriquecimiento injusto del interesado"
+      },
+      "correct": "c",
+      "explicacion": "En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto solo puede dictarse de ser confirmatoria del mismo. En los casos de desestimación por silencio, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.",
+      "ley": "Artículo 24.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La potestad de convalidar actos anulables subsanando sus vicios administrativos:",
+      "options": {
+        "a": "Solo puede ser ejercida por el Consejo de Ministros o equivalente autonómico",
+        "b": "No existe en la Ley 39/2015, debiendo siempre anularse el acto viciado",
+        "c": "La tiene exclusivamente el órgano que dictó el acto viciado, no los superiores",
+        "d": "Corresponde a la Administración, pudiendo el órgano superior jerárquico convalidar el acto viciado por incompetencia no determinante de nulidad"
+      },
+      "correct": "d",
+      "explicacion": "La Administración puede convalidar los actos anulables, subsanando los vicios que adolezcan. Si el vicio consiste en incompetencia no determinante de nulidad, puede convalidar el órgano competente cuando sea superior jerárquico del que dictó el acto viciado. Si el vicio consiste en falta de autorización, puede convalidarse otorgando esta el órgano competente.",
+      "ley": "Artículo 52 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El contenido mínimo de los acuerdos de terminación convencional debe incluir:",
+      "options": {
+        "a": "La identificación de las partes intervinientes, el ámbito personal, funcional y territorial, y el plazo de vigencia",
+        "b": "Únicamente el plazo de vigencia y la cuantía económica si la hubiera",
+        "c": "Todos los requisitos de los contratos del sector público, por analogía",
+        "d": "Solo la identificación de las partes y el objeto del acuerdo"
+      },
+      "correct": "a",
+      "explicacion": "Los instrumentos de terminación convencional deben establecer como contenido mínimo: la identificación de las partes intervinientes, el ámbito personal, funcional y territorial del acuerdo, y el plazo de vigencia. Deberán publicarse o no según su naturaleza y las personas a las que estuvieran destinados.",
+      "ley": "Artículo 86.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los actos de concentración de trámites en el procedimiento administrativo:",
+      "options": {
+        "a": "Requieren siempre autorización previa del órgano superior jerárquico",
+        "b": "Solo pueden acordarse a solicitud expresa del interesado",
+        "c": "Permiten acordar en un solo acto todos los trámites que admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo",
+        "d": "Solo pueden aplicarse en procedimientos de urgencia declarados expresamente como tales"
+      },
+      "correct": "c",
+      "explicacion": "De acuerdo con el principio de simplificación administrativa, se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo. Al solicitar los trámites que deban cumplirse por otros órganos, debe consignarse en la comunicación el plazo legal establecido.",
+      "ley": "Artículo 72 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Cuando la resolución del procedimiento se vaya a pronunciar sobre cuestiones conexas no planteadas por los interesados, el órgano competente deberá:",
+      "options": {
+        "a": "Ponerlo de manifiesto a los interesados por un plazo no superior a quince días para que formulen alegaciones",
+        "b": "Notificar la resolución definitiva con las cuestiones conexas incluidas sin trámite previo",
+        "c": "Consultar al Consejo de Estado antes de incluirlas en la resolución",
+        "d": "Abstenerse de pronunciarse sobre dichas cuestiones, limitándose a lo pedido"
+      },
+      "correct": "a",
+      "explicacion": "Cuando en la resolución se vayan a plantear cuestiones conexas no planteadas por los interesados, el órgano competente deberá ponerlo antes de manifiesto a aquellos por un plazo no superior a quince días, para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba.",
+      "ley": "Artículo 88.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los documentos válidos emitidos electrónicamente por las Administraciones Públicas deben, entre otros requisitos:",
+      "options": {
+        "a": "Solo contener el texto en formato digital, sin requisitos adicionales",
+        "b": "Ser impresos en papel y firmados por el funcionario antes de su remisión electrónica",
+        "c": "Estar necesariamente validados por el organismo correspondiente del Ministerio de Presidencia",
+        "d": "Incorporar una referencia temporal, los metadatos mínimos exigidos, y las firmas electrónicas que correspondan según la normativa aplicable"
+      },
+      "correct": "d",
+      "explicacion": "Para ser considerados válidos, los documentos electrónicos administrativos deben contener información archivada en soporte electrónico con formato identificable, disponer de datos de identificación que permitan su individualización, incorporar una referencia temporal del momento de su emisión, incorporar los metadatos mínimos exigidos, e incorporar las firmas electrónicas que correspondan.",
+      "ley": "Artículo 26.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La suspensión del plazo por causa de solicitud de informe preceptivo a otro órgano tiene un límite máximo de:",
+      "options": {
+        "a": "No existe límite máximo, continuando la suspensión hasta la recepción del informe",
+        "b": "Tres meses; si no se recibe el informe en ese plazo, proseguirán las actuaciones",
+        "c": "Un año, sin posibilidad de extensión adicional",
+        "d": "Seis meses, con posibilidad de prórroga por otros tres"
+      },
+      "correct": "b",
+      "explicacion": "La suspensión del plazo por solicitud de informes preceptivos a un órgano de la misma o distinta Administración no puede exceder en ningún caso de tres meses. En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento.",
+      "ley": "Artículo 22.1.d) de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En los procedimientos de responsabilidad patrimonial, el acuerdo de terminación convencional debe fijar la cuantía y modo de indemnización:",
+      "options": {
+        "a": "De acuerdo con los criterios para calcularla y abonarla establecidos en el artículo 34 de la Ley de Régimen Jurídico del Sector Público",
+        "b": "Libremente entre las partes, sin sujeción a criterios legales",
+        "c": "Solo si ambas partes están de acuerdo y no existe dictamen del Consejo de Estado",
+        "d": "Conforme a los criterios de la legislación civil sobre responsabilidad extracontractual"
+      },
+      "correct": "a",
+      "explicacion": "En los casos de procedimientos de responsabilidad patrimonial, el acuerdo alcanzado entre las partes deberá fijar la cuantía y modo de indemnización de acuerdo con los criterios que para calcularla y abonarla establece el artículo 34 de la Ley de Régimen Jurídico del Sector Público.",
+      "ley": "Artículo 86.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El apremio sobre el patrimonio como medio de ejecución forzosa procede cuando:",
+      "options": {
+        "a": "En virtud de acto administrativo haya de satisfacerse cantidad líquida, siguiéndose el procedimiento de apremio previsto en la normativa reguladora",
+        "b": "El obligado se niegue a cumplir cualquier tipo de obligación impuesta por acto administrativo",
+        "c": "El órgano competente lo considere oportuno en cualquier supuesto de incumplimiento",
+        "d": "Se trate de obligaciones personalísimas de hacer que no puedan ser realizadas por terceros"
+      },
+      "correct": "a",
+      "explicacion": "El apremio sobre el patrimonio procede cuando en virtud de un acto administrativo haya de satisfacerse cantidad líquida, siguiéndose el procedimiento previsto en las normas reguladoras del procedimiento de apremio. En cualquier caso, no puede imponerse obligación pecuniaria que no esté establecida con arreglo a una norma de rango legal.",
+      "ley": "Artículo 101 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando en la tramitación de un procedimiento el interesado alega discriminación y aporta indicios fundados sobre su existencia:",
+      "options": {
+        "a": "El procedimiento se suspende hasta que el Defensor del Pueblo emita informe",
+        "b": "El interesado debe probar la discriminación de forma plena y directa",
+        "c": "La Administración debe presumir la discriminación sin necesidad de prueba",
+        "d": "Corresponde a quien se impute la situación discriminatoria aportar una justificación objetiva y razonable de las medidas adoptadas y su proporcionalidad"
+      },
+      "correct": "d",
+      "explicacion": "Cuando el interesado alegue discriminación y aporte indicios fundados sobre su existencia, corresponderá a la persona a quien se impute la situación discriminatoria la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad. El órgano administrativo puede recabar informe de los organismos competentes en materia de igualdad.",
+      "ley": "Artículo 77.3 bis de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El expediente administrativo en la Ley 39/2015 tendrá:",
+      "options": {
+        "a": "El formato que en cada caso determine el órgano competente para su tramitación",
+        "b": "Formato preferentemente en papel, pudiendo existir copia electrónica como complemento",
+        "c": "Formato electrónico, formándose mediante la agregación ordenada de documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias, con un índice numerado",
+        "d": "Formato mixto obligatorio: papel para documentos con firma original y electrónico para el resto"
+      },
+      "correct": "c",
+      "explicacion": "Los expedientes tendrán formato electrónico y se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos, así como un índice numerado de todos los documentos cuando se remitan. Deberá constar copia electrónica certificada de la resolución adoptada.",
+      "ley": "Artículo 70.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La iniciativa legislativa del Gobierno de la Nación se ejerce mediante:",
+      "options": {
+        "a": "La elaboración y aprobación de anteproyectos de ley y la ulterior remisión de los proyectos de ley a las Cortes Generales, pudiendo también aprobar reales decretos-leyes y reales decretos legislativos",
+        "b": "La publicación directa de leyes en el BOE, sin intervención de las Cortes Generales",
+        "c": "Únicamente los reales decretos-leyes en casos de urgencia, sin posibilidad de proyectos de ley ordinarios",
+        "d": "Solo la aprobación de proyectos de ley que se remiten directamente al Congreso de los Diputados"
+      },
+      "correct": "a",
+      "explicacion": "El Gobierno ejerce la iniciativa legislativa prevista en la Constitución mediante la elaboración y aprobación de anteproyectos de ley y la ulterior remisión de proyectos de ley a las Cortes Generales. También puede aprobar reales decretos-leyes y reales decretos legislativos en los términos previstos en la Constitución.",
+      "ley": "Artículo 127 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_10_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En virtud del principio de necesidad y eficacia en la buena regulación, la iniciativa normativa debe:",
+      "options": {
+        "a": "Limitar los derechos de los ciudadanos al mínimo imprescindible para conseguir el objetivo",
+        "b": "Establecer el mayor número posible de controles y requisitos para garantizar la seguridad jurídica",
+        "c": "Ajustarse solo a criterios de rentabilidad económica y eficiencia presupuestaria",
+        "d": "Estar justificada por una razón de interés general, basarse en una identificación clara de los fines perseguidos, y ser el instrumento más adecuado para garantizar su consecución"
+      },
+      "correct": "d",
+      "explicacion": "En virtud de los principios de necesidad y eficacia, la iniciativa normativa debe estar justificada por una razón de interés general, basarse en una identificación clara de los fines perseguidos y ser el instrumento más adecuado para garantizar su consecución. En virtud del principio de proporcionalidad, debe contener la regulación imprescindible para atender la necesidad.",
+      "ley": "Artículo 129.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+  ]
+}

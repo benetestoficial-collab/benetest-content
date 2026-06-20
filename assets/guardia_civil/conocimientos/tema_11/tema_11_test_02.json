@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_11_test_02_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La inexactitud de los datos personales no será imputable al responsable del tratamiento, siempre que este haya adoptado todas las medidas razonables para suprimirlos o rectificarlos sin dilación, cuando los datos inexactos:",
+      "options": {
+        "a": "Procedan de fuentes anónimas no identificables por el responsable",
+        "b": "Hayan sido corregidos voluntariamente por el propio afectado en cualquier momento",
+        "c": "Hubiesen sido obtenidos directamente del afectado, de un mediador, por portabilidad de otro responsable, o de un registro público",
+        "d": "Hayan sido tratados durante más de cinco años sin actualización"
+      },
+      "correct": "c",
+      "explicacion": "La inexactitud de los datos no será imputable al responsable, siempre que haya adoptado medidas razonables para suprimir o rectificar sin dilación, cuando los datos hubiesen sido obtenidos directamente del afectado, de un mediador o intermediario, por el ejercicio del derecho de portabilidad de otro responsable, o de un registro público.",
+      "ley": "Artículo 4.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El mediador o intermediario que recoja en nombre propio los datos de los afectados para su transmisión al responsable:",
+      "options": {
+        "a": "Solo responde si actúa con intención dolosa expresamente probada en sede judicial",
+        "b": "Queda exonerado de toda responsabilidad, que recae siempre en el responsable final del tratamiento",
+        "c": "Asumirá las responsabilidades que pudieran derivarse en el supuesto de comunicación al responsable de datos que no se correspondan con los facilitados por el afectado",
+        "d": "No tiene ninguna obligación legal específica derivada de su intervención en la cadena de tratamiento"
+      },
+      "correct": "c",
+      "explicacion": "Cuando las normas aplicables al sector establezcan la posibilidad de intervención de un mediador o intermediario que recoja en nombre propio los datos de los afectados para su transmisión al responsable, el mediador o intermediario asumirá las responsabilidades que pudieran derivarse en el supuesto de comunicación al responsable de datos que no se correspondan con los facilitados por el afectado.",
+      "ley": "Artículo 4.2.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El deber de confidencialidad establecido para los responsables y encargados del tratamiento, así como para todas las personas que intervengan en cualquier fase del mismo:",
+      "options": {
+        "a": "Se extingue automáticamente al finalizar la relación contractual o laboral con el responsable",
+        "b": "Se mantendrá aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento",
+        "c": "Solo es exigible mientras la persona ostente un cargo de responsabilidad dentro de la organización",
+        "d": "Únicamente se aplica al responsable del tratamiento, no a sus encargados ni empleados"
+      },
+      "correct": "b",
+      "explicacion": "Las obligaciones de confidencialidad se mantendrán aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento. Esta obligación general es complementaria de los deberes de secreto profesional de conformidad con la normativa aplicable.",
+      "ley": "Artículo 5.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Se entiende por consentimiento del afectado, conforme al artículo 4.11 del Reglamento (UE) 2016/679:",
+      "options": {
+        "a": "Toda manifestación de voluntad libre, específica, informada e inequívoca por la que el afectado acepta, mediante declaración o clara acción afirmativa, el tratamiento de sus datos personales",
+        "b": "Cualquier conducta que pueda interpretarse como aceptación implícita, incluido el silencio o la inacción",
+        "c": "El silencio del afectado durante el plazo de treinta días desde que recibe la información sobre el tratamiento",
+        "d": "La mera no oposición expresa al tratamiento, sin necesidad de manifestación afirmativa alguna"
+      },
+      "correct": "a",
+      "explicacion": "Se entiende por consentimiento del afectado toda manifestación de voluntad libre, específica, informada e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen.",
+      "ley": "Artículo 6.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. No podrá supeditarse la ejecución de un contrato a que el afectado consienta el tratamiento de sus datos personales para finalidades que:",
+      "options": {
+        "a": "Hayan sido previamente informadas al afectado de cualquier forma, aunque no guarden relación con el contrato",
+        "b": "Sean necesarias para el cumplimiento de obligaciones legales del responsable, aunque guarden relación con el contrato",
+        "c": "Se refieran exclusivamente a categorías especiales de datos del afectado",
+        "d": "No guarden relación con el mantenimiento, desarrollo o control de la relación contractual"
+      },
+      "correct": "d",
+      "explicacion": "No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de los datos personales para finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación contractual.",
+      "ley": "Artículo 6.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando:",
+      "options": {
+        "a": "Sea mayor de 14 años, salvo que la ley exija la asistencia de los titulares de la patria potestad o tutela para la celebración del acto o negocio jurídico en cuyo contexto se recaba el consentimiento",
+        "b": "Sea mayor de 16 años, en consonancia con la mayoría de edad sanitaria",
+        "c": "Cuente con autorización judicial previa, independientemente de su edad",
+        "d": "Sea mayor de 12 años, sin excepción posible aunque la ley exija asistencia adicional"
+      },
+      "correct": "a",
+      "explicacion": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de 14 años. Se exceptúan los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para la celebración del acto o negocio jurídico en cuyo contexto se recaba el consentimiento.",
+      "ley": "Artículo 7.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El tratamiento de los datos de los menores de 14 años, fundado en el consentimiento, solo será lícito si:",
+      "options": {
+        "a": "El menor lo solicita expresamente por escrito, aunque sus padres se opongan",
+        "b": "Lo autoriza el centro escolar al que asiste el menor",
+        "c": "El menor cuenta con doce años cumplidos y manifiesta su conformidad verbal",
+        "d": "Consta el del titular de la patria potestad o tutela, con el alcance que estos determinen"
+      },
+      "correct": "d",
+      "explicacion": "El tratamiento de los datos de los menores de 14 años, fundado en el consentimiento, solo será lícito si consta el del titular de la patria potestad o tutela, con el alcance que determinen los titulares de la patria potestad o tutela.",
+      "ley": "Artículo 7.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El tratamiento de datos personales solo podrá considerarse fundado en el cumplimiento de una obligación legal exigible al responsable cuando así lo prevea:",
+      "options": {
+        "a": "Una norma de Derecho de la Unión Europea o una norma con rango de ley, que podrá determinar las condiciones generales del tratamiento, los tipos de datos y las cesiones que procedan",
+        "b": "Una circular interna de la propia entidad responsable del tratamiento",
+        "c": "Cualquier disposición reglamentaria del organismo competente, sin necesidad de rango legal",
+        "d": "Un acuerdo voluntario entre el responsable y los representantes de los trabajadores"
+      },
+      "correct": "a",
+      "explicacion": "El tratamiento de datos personales solo podrá considerarse fundado en el cumplimiento de una obligación legal exigible al responsable cuando así lo prevea una norma de Derecho de la Unión Europea o una norma con rango de ley, que podrá determinar las condiciones generales del tratamiento, los tipos de datos objeto del mismo, así como las cesiones que procedan como consecuencia del cumplimiento de la obligación legal.",
+      "ley": "Artículo 8.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El tratamiento de datos fundado en el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable solo procederá cuando:",
+      "options": {
+        "a": "Exista consentimiento previo del afectado, aunque no haya norma de cobertura",
+        "b": "Derive de una competencia atribuida por una norma con rango de ley",
+        "c": "Lo autorice expresamente el superior jerárquico del responsable",
+        "d": "El responsable lo considere conveniente por razones de eficiencia administrativa"
+      },
+      "correct": "b",
+      "explicacion": "El tratamiento de datos personales solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable cuando derive de una competencia atribuida por una norma con rango de ley.",
+      "ley": "Artículo 8.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. A fin de evitar situaciones discriminatorias, en relación con las categorías especiales de datos:",
+      "options": {
+        "a": "El solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico",
+        "b": "El consentimiento del afectado es siempre suficiente para tratar cualquier categoría especial de datos sin más requisitos",
+        "c": "Está absolutamente prohibido en todo caso el tratamiento de estos datos, sin excepción alguna",
+        "d": "Solo se permite el tratamiento de estos datos cuando lo solicite expresamente un órgano judicial"
+      },
+      "correct": "a",
+      "explicacion": "A fin de evitar situaciones discriminatorias, el solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico. Esto no impide el tratamiento al amparo de los restantes supuestos del artículo 9.2 del RGPD.",
+      "ley": "Artículo 9.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Los tratamientos de datos contemplados en las letras g), h) e i) del artículo 9.2 del RGPD fundados en el Derecho español deberán estar amparados en:",
+      "options": {
+        "a": "Únicamente el consentimiento expreso y verbal del afectado, sin necesidad de norma legal",
+        "b": "Una simple autorización verbal del responsable del fichero correspondiente",
+        "c": "Una resolución administrativa del organismo sectorial competente, sin exigencia de rango legal",
+        "d": "Una norma con rango de ley, que podrá establecer requisitos adicionales relativos a su seguridad y confidencialidad"
+      },
+      "correct": "d",
+      "explicacion": "Los tratamientos de datos contemplados en las letras g), h) e i) del artículo 9.2 del RGPD fundados en el Derecho español deberán estar amparados en una norma con rango de ley, que podrá establecer requisitos adicionales relativos a su seguridad y confidencialidad. En particular, dicha norma podrá amparar el tratamiento de datos de salud cuando lo exija la gestión sanitaria o la ejecución de un contrato de seguro.",
+      "ley": "Artículo 9.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El tratamiento de datos personales relativos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas, para fines distintos de los de prevención, investigación, detección o enjuiciamiento de infracciones penales, solo podrá llevarse a cabo cuando:",
+      "options": {
+        "a": "El interesado lo autorice verbalmente, sin necesidad de cobertura normativa específica",
+        "b": "El responsable lo considere de interés general, sin sujeción a norma específica",
+        "c": "Se encuentre amparado en una norma de Derecho de la Unión, en la LOPD o en otras normas de rango legal",
+        "d": "Se trate de datos anonimizados sin posibilidad de identificación del afectado"
+      },
+      "correct": "c",
+      "explicacion": "El tratamiento de datos personales relativos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas, para fines distintos de los de prevención, investigación, detección o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, solo podrá llevarse a cabo cuando se encuentre amparado en una norma de Derecho de la Unión, en la LOPD o en otras normas de rango legal.",
+      "ley": "Artículo 10.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Fuera de los supuestos amparados por norma de la Unión, la LOPD u otras normas legales, los tratamientos de datos referidos a condenas e infracciones penales solo serán posibles cuando sean llevados a cabo por:",
+      "options": {
+        "a": "Cualquier ciudadano que acredite interés legítimo en el conocimiento de antecedentes penales",
+        "b": "Abogados y procuradores, y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones",
+        "c": "Empresas de selección de personal, en cualquier proceso de contratación laboral",
+        "d": "Periodistas y medios de comunicación con fines exclusivamente informativos"
+      },
+      "correct": "b",
+      "explicacion": "Fuera de los supuestos señalados en los apartados anteriores, los tratamientos de datos referidos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas, solo serán posibles cuando sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones.",
+      "ley": "Artículo 10.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El registro completo de datos referidos a condenas e infracciones penales, procedimientos y medidas cautelares conexas, podrá realizarse conforme con lo establecido en:",
+      "options": {
+        "a": "El Sistema de Información de la Seguridad Social, sin más especificaciones",
+        "b": "La regulación del Sistema de registros administrativos de apoyo a la Administración de Justicia",
+        "c": "Las normas internas de cada entidad financiera",
+        "d": "El Reglamento de Organización y Funcionamiento de la Agencia Tributaria"
+      },
+      "correct": "b",
+      "explicacion": "El registro completo de los datos referidos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas a que se refiere el artículo 10 del RGPD, podrá realizarse conforme con lo establecido en la regulación del Sistema de registros administrativos de apoyo a la Administración de Justicia.",
+      "ley": "Artículo 10.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Conforme al artículo 5.1.d) del Reglamento (UE) 2016/679, los datos personales:",
+      "options": {
+        "a": "Deben ser revisados anualmente por una entidad de certificación independiente",
+        "b": "Solo necesitan ser exactos en el momento de su recogida inicial, sin obligación posterior",
+        "c": "Deben mantenerse íntegros sin posibilidad de actualización en ningún momento",
+        "d": "Serán exactos y, si fuere necesario, actualizados"
+      },
+      "correct": "d",
+      "explicacion": "Conforme al artículo 5.1.d) del Reglamento (UE) 2016/679, los datos serán exactos y, si fuere necesario, actualizados, siendo este uno de los principios básicos que rigen el tratamiento de datos personales.",
+      "ley": "Artículo 4.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando se pretenda fundar el tratamiento de los datos en el consentimiento del afectado para una pluralidad de finalidades, será preciso que:",
+      "options": {
+        "a": "Solo se requiera el consentimiento para la finalidad principal, presumiéndose las accesorias",
+        "b": "El responsable decida unilateralmente qué finalidades requieren consentimiento expreso",
+        "c": "Conste de manera específica e inequívoca que dicho consentimiento se otorga para todas ellas",
+        "d": "Baste un consentimiento genérico que cubra implícitamente todas las finalidades futuras"
+      },
+      "correct": "c",
+      "explicacion": "Cuando se pretenda fundar el tratamiento de los datos en el consentimiento del afectado para una pluralidad de finalidades, será preciso que conste de manera específica e inequívoca que dicho consentimiento se otorga para todas ellas.",
+      "ley": "Artículo 6.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Señale cuál de las siguientes afirmaciones sobre el consentimiento de los menores de edad NO es correcta:",
+      "options": {
+        "a": "Para menores de 14 años, el tratamiento fundado en consentimiento solo es lícito si consta el de los titulares de la patria potestad",
+        "b": "Para menores mayores de 14 años, el consentimiento propio puede fundamentar el tratamiento, salvo excepciones legales",
+        "c": "Se exceptúan los supuestos en que la ley exija la asistencia de los titulares de la patria potestad para el acto jurídico concreto",
+        "d": "El consentimiento de cualquier menor, sin importar su edad, basta siempre por sí solo para legitimar el tratamiento de sus datos personales"
+      },
+      "correct": "d",
+      "explicacion": "El consentimiento del menor de 14 años no basta por sí solo: requiere el consentimiento adicional de los titulares de la patria potestad o tutela. Solo a partir de los 14 años el menor puede consentir por sí mismo, salvo que la ley exija asistencia para el acto o negocio jurídico concreto en cuyo contexto se recaba el consentimiento.",
+      "ley": "Artículo 7 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La obligación de confidencialidad de los responsables y encargados del tratamiento es complementaria de:",
+      "options": {
+        "a": "Las obligaciones fiscales del responsable, sin relación con la protección de datos",
+        "b": "Los deberes de secreto profesional de conformidad con su normativa aplicable",
+        "c": "Los deberes de información al consumidor establecidos en la legislación de defensa de los consumidores",
+        "d": "Las normas de seguridad en el trabajo, sin vinculación con la confidencialidad de datos"
+      },
+      "correct": "b",
+      "explicacion": "La obligación general de confidencialidad será complementaria de los deberes de secreto profesional de conformidad con su normativa aplicable, manteniéndose dichas obligaciones aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento.",
+      "ley": "Artículo 5.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La norma que ampare el tratamiento de datos fundado en una obligación legal podrá imponer condiciones especiales al tratamiento, tales como:",
+      "options": {
+        "a": "La exigencia de autorización judicial previa para cada operación de tratamiento",
+        "b": "Solo la obligación de notificar a la AEPD cada tratamiento individual, sin más condiciones",
+        "c": "La adopción de medidas adicionales de seguridad u otras establecidas en el capítulo IV del Reglamento (UE) 2016/679",
+        "d": "Únicamente la limitación del plazo de conservación a un máximo de un año"
+      },
+      "correct": "c",
+      "explicacion": "La norma que ampare el tratamiento de datos por obligación legal podrá determinar las condiciones generales del tratamiento y los tipos de datos, así como imponer condiciones especiales al tratamiento, tales como la adopción de medidas adicionales de seguridad u otras establecidas en el capítulo IV del Reglamento (UE) 2016/679.",
+      "ley": "Artículo 8.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_02_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El tratamiento de datos cuya inexactitud derive de haber sido obtenidos de un registro público por el responsable:",
+      "options": {
+        "a": "No será imputable al responsable, siempre que este haya adoptado las medidas razonables para que se supriman o rectifiquen sin dilación con respecto a los fines para los que se tratan",
+        "b": "Genera responsabilidad automática e ineludible del responsable, sin posibilidad de exención",
+        "c": "Solo exonera de responsabilidad si el registro público en cuestión es de titularidad estatal",
+        "d": "No genera ningún tipo de responsabilidad bajo ninguna circunstancia, sea cual sea la diligencia del responsable"
+      },
+      "correct": "a",
+      "explicacion": "La inexactitud de los datos personales obtenidos de un registro público por el responsable no será imputable a este, siempre que haya adoptado todas las medidas razonables para que se supriman o rectifiquen sin dilación, con respecto a los fines para los que se tratan.",
+      "ley": "Artículo 4.2.d) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

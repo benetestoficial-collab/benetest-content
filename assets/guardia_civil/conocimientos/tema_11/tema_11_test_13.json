@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 13",
+  "preguntas": [
+    {
+      "id": "tema_11_test_13_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Señale la respuesta INCORRECTA respecto al objeto de la LOPD:",
+      "options": {
+        "a": "Adapta el ordenamiento jurídico español al Reglamento (UE) 2016/679",
+        "b": "Garantiza los derechos digitales de la ciudadanía conforme al artículo 18.4 de la Constitución",
+        "c": "Completa las disposiciones del citado reglamento",
+        "d": "La LOPD sustituye íntegramente al Reglamento (UE) 2016/679, dejando este sin efecto en territorio español"
+      },
+      "correct": "d",
+      "explicacion": "La LOPD no sustituye al Reglamento (UE) 2016/679, sino que tiene por objeto adaptar el ordenamiento jurídico español a dicho reglamento y completar sus disposiciones, ejerciéndose el derecho fundamental a la protección de datos con arreglo a ambas normas conjuntamente, no de forma excluyente.",
+      "ley": "Artículo 1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un ciudadano consulta si la LOPD se aplica al tratamiento de datos de un fallecido para fines de archivo histórico. ¿Qué régimen resulta aplicable?",
+      "options": {
+        "a": "Solo se aplica si el fallecimiento se produjo después de la entrada en vigor de la ley orgánica",
+        "b": "La LOPD se aplica con la misma intensidad que a una persona viva, sin ninguna especialidad",
+        "c": "Por regla general la LOPD no se aplica a los tratamientos de datos de personas fallecidas, salvo el régimen específico previsto en el artículo 3 para el acceso por familiares, herederos o personas designadas",
+        "d": "Resulta de aplicación exclusivamente la normativa sobre patrimonio histórico, con exclusión total de la LOPD"
+      },
+      "correct": "c",
+      "explicacion": "La LOPD no es de aplicación a los tratamientos de datos de personas fallecidas como regla general, salvo el régimen específico del artículo 3 (acceso, rectificación o supresión por familiares, herederos o personas designadas por el fallecido). Para fines de archivo en interés público entrarían en juego, además, las especialidades de la Ley del Patrimonio Histórico Español previstas en el artículo 26.",
+      "ley": "Artículos 2.2 y 3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una entidad obtiene datos inexactos de un afectado directamente facilitados por él mismo, y los rectifica sin dilación al detectar el error. ¿Es imputable la inexactitud al responsable?",
+      "options": {
+        "a": "Sí, siempre, con independencia de la diligencia del responsable",
+        "b": "Solo es imputable si el error fue detectado por el propio afectado, no por el responsable",
+        "c": "Solo es imputable si los datos llevaban más de un año sin actualizarse",
+        "d": "No, ya que los datos fueron obtenidos directamente del afectado y el responsable adoptó medidas razonables de rectificación sin dilación"
+      },
+      "correct": "d",
+      "explicacion": "La inexactitud de los datos personales no será imputable al responsable, siempre que este haya adoptado todas las medidas razonables para que se supriman o rectifiquen sin dilación, cuando los datos inexactos hubiesen sido obtenidos por el responsable directamente del afectado.",
+      "ley": "Artículo 4.2.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un trabajador finaliza su relación laboral con una empresa que tenía acceso a datos personales en el ejercicio de sus funciones. ¿Se extingue su deber de confidencialidad?",
+      "options": {
+        "a": "Solo se mantiene durante seis meses tras la finalización de la relación laboral",
+        "b": "No, las obligaciones de confidencialidad se mantendrán aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento",
+        "c": "Solo se mantiene si así se establece expresamente en el contrato de trabajo",
+        "d": "Sí, el deber de confidencialidad se extingue automáticamente al finalizar el contrato laboral"
+      },
+      "correct": "b",
+      "explicacion": "Las obligaciones de confidencialidad establecidas para responsables, encargados y todas las personas que intervengan en el tratamiento se mantendrán aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento.",
+      "ley": "Artículo 5.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una empresa pretende condicionar la firma de un contrato a que el cliente consienta el tratamiento de sus datos con fines de prospección comercial ajenos al contrato. ¿Es esto lícito?",
+      "options": {
+        "a": "Sí, siempre que se informe expresamente al cliente en el momento de la contratación",
+        "b": "Sí, sin ninguna limitación, ya que el consentimiento contractual cubre cualquier finalidad",
+        "c": "No, no podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de datos para finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación contractual",
+        "d": "Solo es lícito si el cliente es una persona jurídica, no si es persona física"
+      },
+      "correct": "c",
+      "explicacion": "No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento de los datos personales para finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación contractual, lo que impide vincular la prospección comercial ajena al objeto del contrato como condición para su firma.",
+      "ley": "Artículo 6.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un menor de 15 años desea registrarse en una plataforma online que requiere consentimiento para el tratamiento de sus datos. ¿Puede consentir por sí mismo?",
+      "options": {
+        "a": "No, ningún menor de edad puede consentir el tratamiento de sus datos sin la intervención de sus padres",
+        "b": "Solo puede hacerlo si cuenta con autorización notarial expresa de sus representantes legales",
+        "c": "Sí, en principio puede consentir por sí mismo al ser mayor de 14 años, salvo que la ley exija la asistencia de los titulares de la patria potestad para el acto jurídico concreto en cuestión",
+        "d": "Solo puede hacerlo a partir de los 16 años, edad mínima general para cualquier consentimiento"
+      },
+      "correct": "c",
+      "explicacion": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de 14 años. Se exceptúan los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para la celebración del acto o negocio jurídico concreto en cuyo contexto se recaba el consentimiento.",
+      "ley": "Artículo 7.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una Administración Pública pretende tratar datos personales invocando el cumplimiento de una misión de interés público sin que exista norma alguna que le atribuya esa competencia. ¿Es esto conforme a la LOPD?",
+      "options": {
+        "a": "Sí, cualquier Administración Pública puede tratar datos por interés público sin necesidad de cobertura legal específica",
+        "b": "No, el tratamiento fundado en el cumplimiento de una misión de interés público o ejercicio de poderes públicos solo procede cuando derive de una competencia atribuida por una norma con rango de ley",
+        "c": "Sí, basta con que el órgano superior jerárquico lo autorice mediante orden interna",
+        "d": "Solo se requiere cobertura legal si se trata de categorías especiales de datos, no para datos comunes"
+      },
+      "correct": "b",
+      "explicacion": "El tratamiento de datos personales solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable cuando derive de una competencia atribuida por una norma con rango de ley, no bastando la mera invocación genérica del interés público.",
+      "ley": "Artículo 8.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Señale la afirmación INCORRECTA sobre las categorías especiales de datos en la LOPD:",
+      "options": {
+        "a": "Los tratamientos amparados en las letras g), h) e i) del artículo 9.2 del RGPD requieren norma con rango de ley",
+        "b": "El consentimiento del afectado siempre basta por sí solo para levantar la prohibición del tratamiento de datos sobre ideología, afiliación sindical, religión, orientación sexual o creencias",
+        "c": "Esto no impide el tratamiento de dichos datos al amparo de los restantes supuestos del artículo 9.2 del RGPD",
+        "d": "El solo consentimiento no basta para levantar la prohibición de tratamiento de datos cuya finalidad principal sea identificar ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico"
+      },
+      "correct": "b",
+      "explicacion": "A fin de evitar situaciones discriminatorias, el solo consentimiento del afectado NO basta para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico, siendo esta una excepción específica al régimen general del consentimiento.",
+      "ley": "Artículo 9.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un despacho de abogados trata datos relativos a condenas penales facilitados por su propio cliente para preparar su defensa. ¿Es lícito este tratamiento sin norma habilitante específica adicional?",
+      "options": {
+        "a": "No, siempre se requiere autorización expresa de la AEPD para tratar este tipo de datos",
+        "b": "Sí, pero únicamente si el despacho cuenta con más de cincuenta abogados en plantilla",
+        "c": "Sí, fuera de los supuestos generales, los tratamientos de datos sobre condenas e infracciones penales son posibles cuando los lleven a cabo abogados y procuradores para recoger la información facilitada por sus clientes en el ejercicio de sus funciones",
+        "d": "No, este tratamiento solo es lícito si medía sentencia judicial firme previa"
+      },
+      "correct": "c",
+      "explicacion": "Fuera de los supuestos amparados por norma de la Unión, la LOPD u otras normas legales, los tratamientos de datos referidos a condenas e infracciones penales solo serán posibles cuando sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones, sin necesidad de habilitación adicional específica para cada caso.",
+      "ley": "Artículo 10.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Quién puede ejercer las facultades de acceso, rectificación o supresión sobre datos de un fallecido cuando este lo hubiese prohibido expresamente?",
+      "options": {
+        "a": "Nadie de las personas vinculadas por razones familiares, de hecho o herederos, sin perjuicio de su derecho a acceder a los datos de carácter patrimonial del causante",
+        "b": "El Ministerio Fiscal en todo caso, sustituyendo a los familiares con plenas facultades",
+        "c": "Cualquier persona que acredite interés legítimo, sin restricción alguna por la prohibición del fallecido",
+        "d": "Solo los herederos forzosos según el Código Civil, excluyendo a otras personas vinculadas"
+      },
+      "correct": "a",
+      "explicacion": "Como excepción, las personas vinculadas al fallecido por razones familiares o de hecho, así como sus herederos, no podrán acceder a los datos del causante ni solicitar su rectificación o supresión cuando la persona fallecida lo hubiese prohibido expresamente o así lo establezca una ley. Dicha prohibición no afectará al derecho de los herederos a acceder a los datos de carácter patrimonial del causante.",
+      "ley": "Artículo 3.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una empresa obtiene datos de un afectado a través de un mediador que actúa en nombre propio para recoger información destinada al responsable. Si dichos datos resultan inexactos por error del mediador, ¿quién responde?",
+      "options": {
+        "a": "El mediador o intermediario asumirá las responsabilidades que pudieran derivarse en el supuesto de comunicación al responsable de datos que no se correspondan con los facilitados por el afectado",
+        "b": "El propio afectado, por haber facilitado datos a través de un tercero intermediario",
+        "c": "Nadie responde, al tratarse de un error meramente técnico del sistema de intermediación",
+        "d": "El responsable final siempre asume toda la responsabilidad, sin excepción alguna"
+      },
+      "correct": "a",
+      "explicacion": "Cuando las normas aplicables al sector establezcan la posibilidad de intervención de un mediador o intermediario que recoja en nombre propio los datos de los afectados para su transmisión al responsable, el mediador o intermediario asumirá las responsabilidades que pudieran derivarse en el supuesto de comunicación al responsable de datos que no se correspondan con los facilitados por el afectado.",
+      "ley": "Artículo 4.2.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. En relación con la pluralidad de finalidades del consentimiento, ¿qué requisito específico exige la LOPD?",
+      "options": {
+        "a": "Que conste de manera específica e inequívoca que dicho consentimiento se otorga para todas las finalidades concretas",
+        "b": "El consentimiento para una finalidad implica automáticamente el consentimiento para todas las demás relacionadas",
+        "c": "Solo se requiere consentimiento expreso para la finalidad considerada principal por el responsable",
+        "d": "Basta con que el consentimiento sea genérico y cubra implícitamente cualquier finalidad futura no especificada"
+      },
+      "correct": "a",
+      "explicacion": "Cuando se pretenda fundar el tratamiento de los datos en el consentimiento del afectado para una pluralidad de finalidades, será preciso que conste de manera específica e inequívoca que dicho consentimiento se otorga para todas ellas, no siendo válido un consentimiento genérico que no distinga entre las distintas finalidades.",
+      "ley": "Artículo 6.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Cuál es la edad mínima a partir de la cual un menor puede, en principio, consentir por sí solo el tratamiento de sus datos personales?",
+      "options": {
+        "a": "16 años, coincidiendo con la edad laboral mínima general",
+        "b": "18 años, mayoría de edad civil plena sin excepciones",
+        "c": "12 años, edad equivalente a la del consentimiento informado sanitario en algunos supuestos",
+        "d": "14 años"
+      },
+      "correct": "d",
+      "explicacion": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de 14 años, salvo los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para el acto o negocio jurídico concreto.",
+      "ley": "Artículo 7.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una norma de rango legal habilita el tratamiento de datos por obligación legal e impone condiciones especiales. ¿Qué tipo de condiciones puede imponer dicha norma?",
+      "options": {
+        "a": "Únicamente la obligación de pagar una tasa adicional a la AEPD por cada tratamiento",
+        "b": "La adopción de medidas adicionales de seguridad u otras establecidas en el Capítulo IV del RGPD",
+        "c": "Solo la limitación absoluta del plazo de conservación a un máximo de seis meses",
+        "d": "Solo la prohibición de ceder los datos a cualquier tercero, sin excepción posible"
+      },
+      "correct": "b",
+      "explicacion": "La norma que ampare el tratamiento de datos por obligación legal podrá determinar las condiciones generales del tratamiento, los tipos de datos y las cesiones, así como imponer condiciones especiales al tratamiento, tales como la adopción de medidas adicionales de seguridad u otras establecidas en el Capítulo IV del Reglamento (UE) 2016/679.",
+      "ley": "Artículo 8.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Qué normativa rige el registro completo de datos referidos a condenas e infracciones penales y medidas cautelares conexas?",
+      "options": {
+        "a": "La regulación del Sistema de registros administrativos de apoyo a la Administración de Justicia",
+        "b": "El Estatuto Orgánico del Ministerio Fiscal, sin más normativa adicional",
+        "c": "Exclusivamente las normas internas del Ministerio del Interior",
+        "d": "La Ley General Tributaria, por analogía con otros registros administrativos"
+      },
+      "correct": "a",
+      "explicacion": "El registro completo de los datos referidos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas a que se refiere el artículo 10 del RGPD, podrá realizarse conforme con lo establecido en la regulación del Sistema de registros administrativos de apoyo a la Administración de Justicia.",
+      "ley": "Artículo 10.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. En relación con la responsabilidad por fallecimiento de un menor o de una persona con discapacidad, señale la afirmación correcta:",
+      "options": {
+        "a": "Solo puede intervenir el Ministerio Fiscal en ambos supuestos, excluyendo a representantes legales o personas de apoyo",
+        "b": "La normativa no contempla ninguna especialidad para estos colectivos vulnerables",
+        "c": "En ambos casos, además de los representantes legales, pueden intervenir respectivamente el Ministerio Fiscal (menores) o las personas designadas para funciones de apoyo (discapacidad)",
+        "d": "En ningún caso pueden intervenir terceros distintos de los representantes legales directos"
+      },
+      "correct": "c",
+      "explicacion": "En caso de fallecimiento de menores, las facultades pueden ejercerse por sus representantes legales o, en el marco de sus competencias, por el Ministerio Fiscal. En caso de fallecimiento de personas con discapacidad, dichas facultades también podrán ejercerse por quienes hubiesen sido designados para el ejercicio de funciones de apoyo, si tales facultades se entendieran comprendidas en las medidas de apoyo prestadas.",
+      "ley": "Artículo 3.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Cuál es la finalidad principal del régimen de exactitud de datos del artículo 4 de la LOPD?",
+      "options": {
+        "a": "Eximir absolutamente de responsabilidad a cualquier responsable que alegue buena fe",
+        "b": "Obligar al responsable a verificar notarialmente la veracidad de cada dato recogido",
+        "c": "Establecer un plazo máximo de cinco años para la conservación de cualquier dato personal",
+        "d": "Delimitar cuándo la inexactitud de los datos no resulta imputable al responsable, atendiendo al origen de la información y la diligencia adoptada"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 4 de la LOPD desarrolla el principio de exactitud del artículo 5.1.d) del RGPD, delimitando los supuestos en los que la inexactitud de los datos personales no será imputable al responsable, siempre que este haya adoptado medidas razonables para rectificar o suprimir sin dilación, en atención al origen de los datos (afectado, mediador, portabilidad o registro público).",
+      "ley": "Artículo 4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Respecto a la relación entre el deber de confidencialidad de la LOPD y el secreto profesional, señale la afirmación correcta:",
+      "options": {
+        "a": "Ambos regímenes son incompatibles y excluyentes entre sí, debiendo optarse por uno u otro",
+        "b": "El secreto profesional solo se aplica a abogados, sin extensión a otros profesionales obligados por la LOPD",
+        "c": "El deber de confidencialidad de la LOPD sustituye y deja sin efecto cualquier obligación de secreto profesional preexistente",
+        "d": "La obligación general de confidencialidad de la LOPD es complementaria de los deberes de secreto profesional de conformidad con su normativa aplicable"
+      },
+      "correct": "d",
+      "explicacion": "La obligación general de confidencialidad señalada en el artículo 5 de la LOPD será complementaria de los deberes de secreto profesional de conformidad con su normativa aplicable, operando ambos regímenes de forma conjunta y reforzándose mutuamente, no de forma excluyente.",
+      "ley": "Artículo 5.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Qué se entiende por consentimiento del afectado conforme al artículo 4.11 del RGPD, según recoge la LOPD?",
+      "options": {
+        "a": "La simple presencia del afectado en un establecimiento donde se realiza el tratamiento de datos",
+        "b": "Toda manifestación de voluntad libre, específica, informada e inequívoca por la que el afectado acepta el tratamiento, mediante declaración o clara acción afirmativa",
+        "c": "Cualquier comportamiento pasivo del afectado que no implique oposición expresa",
+        "d": "El mero conocimiento por parte del afectado de la existencia de un tratamiento de datos"
+      },
+      "correct": "b",
+      "explicacion": "Se entiende por consentimiento del afectado, de conformidad con el artículo 4.11 del RGPD, toda manifestación de voluntad libre, específica, informada e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen.",
+      "ley": "Artículo 6.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_13_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una entidad sanitaria trata datos de salud para la gestión de los sistemas de asistencia sanitaria, amparándose en una norma con rango de ley. ¿Es esto conforme a la LOPD?",
+      "options": {
+        "a": "Sí, la norma con rango de ley puede amparar el tratamiento de datos de salud cuando lo exija la gestión de sistemas y servicios de asistencia sanitaria y social, pública y privada, o la ejecución de un contrato de seguro",
+        "b": "Solo es conforme si medía previa autorización judicial específica para cada paciente tratado",
+        "c": "Solo es conforme si la entidad sanitaria es exclusivamente de titularidad pública",
+        "d": "No, los datos de salud nunca pueden tratarse sin el consentimiento expreso e individualizado de cada paciente"
+      },
+      "correct": "a",
+      "explicacion": "Los tratamientos de datos de categorías especiales fundados en el Derecho español deberán estar amparados en una norma con rango de ley. En particular, dicha norma podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, pública y privada, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+      "ley": "Artículo 9.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

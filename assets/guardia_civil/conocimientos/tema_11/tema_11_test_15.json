@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 15",
+  "preguntas": [
+    {
+      "id": "tema_11_test_15_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una empresa trata los datos de contacto profesional de un empleado de un proveedor únicamente para mantener la relación comercial con la empresa proveedora. ¿Está amparado este tratamiento por una presunción de licitud?",
+      "options": {
+        "a": "Solo está amparado si el contrato mercantil principal tiene una duración superior a cinco años",
+        "b": "No, siempre se requiere consentimiento expreso e individual del empleado del proveedor",
+        "c": "Solo está amparado si el proveedor es una multinacional con presencia en varios países",
+        "d": "Sí, se presumirá amparado en el artículo 6.1.f) del RGPD si el tratamiento se refiere únicamente a datos necesarios para su localización profesional y la finalidad es mantener relaciones con la persona jurídica en la que presta servicios"
+      },
+      "correct": "d",
+      "explicacion": "Salvo prueba en contrario, se presumirá amparado en el artículo 6.1.f) del RGPD el tratamiento de datos de contacto de personas físicas que presten servicios en una persona jurídica, siempre que el tratamiento se refiera únicamente a los datos necesarios para su localización profesional y la finalidad sea únicamente mantener relaciones con la persona jurídica en la que el afectado preste sus servicios.",
+      "ley": "Artículo 19.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un acreedor incluye a un deudor en un sistema de información crediticia. El deudor había impugnado previamente la cuantía de la deuda ante un órgano judicial. ¿Es lícita la inclusión en estas circunstancias?",
+      "options": {
+        "a": "No, uno de los requisitos para presumir lícito el tratamiento es que la existencia o cuantía de la deuda no haya sido objeto de reclamación administrativa o judicial por el deudor",
+        "b": "La impugnación judicial es irrelevante a estos efectos, solo importa el consentimiento del deudor",
+        "c": "Sí, la mera impugnación judicial no impide nunca la inclusión en el sistema de información crediticia",
+        "d": "Solo es lícita si el procedimiento judicial ya ha finalizado con sentencia firme desfavorable al deudor"
+      },
+      "correct": "a",
+      "explicacion": "Se presumirá lícito el tratamiento de datos en sistemas de información crediticia cuando, entre otros requisitos, los datos se refieran a deudas ciertas, vencidas y exigibles, cuya existencia o cuantía no hubiese sido objeto de reclamación administrativa o judicial por el deudor o mediante un procedimiento alternativo de resolución de disputas vinculante.",
+      "ley": "Artículo 20.1.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una entidad acreedora notifica una deuda a un sistema de información crediticia. ¿Durante cuánto tiempo permanecerán bloqueados los datos del afectado tras la notificación?",
+      "options": {
+        "a": "Quince días naturales, sin posibilidad alguna de ejercicio de derechos durante ese plazo",
+        "b": "Noventa días, coincidiendo con el plazo trimestral de revisión de las deudas registradas",
+        "c": "Sesenta días, equivalente al plazo general de prescripción de obligaciones mercantiles menores",
+        "d": "Treinta días, plazo durante el cual el afectado puede ejercer los derechos del artículo 15 a 22 del RGPD"
+      },
+      "correct": "d",
+      "explicacion": "La entidad que mantenga el sistema de información crediticia deberá notificar al afectado la inclusión de tales datos, informándole sobre la posibilidad de ejercitar sus derechos dentro de los treinta días siguientes a la notificación de la deuda al sistema, permaneciendo bloqueados los datos durante ese plazo.",
+      "ley": "Artículo 20.1.c) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Dos empresas inician un proceso de fusión que implica comunicación previa de datos personales de clientes para garantizar la continuidad del servicio. ¿Es esto lícito conforme al artículo 21 de la LOPD?",
+      "options": {
+        "a": "Sí, se presumirán lícitos estos tratamientos, incluida su comunicación previa, siempre que sean necesarios para el buen fin de la operación y garanticen la continuidad en la prestación de los servicios",
+        "b": "Solo es lícito si ambas empresas pertenecen al mismo grupo empresarial previamente",
+        "c": "Solo es lícito tras la inscripción de la fusión en el Registro Mercantil correspondiente",
+        "d": "No, cualquier comunicación de datos en operaciones mercantiles requiere consentimiento expreso de cada cliente afectado"
+      },
+      "correct": "a",
+      "explicacion": "Salvo prueba en contrario, se presumirán lícitos los tratamientos de datos, incluida su comunicación con carácter previo, que pudieran derivarse del desarrollo de cualquier operación de modificación estructural de sociedades, siempre que los tratamientos fueran necesarios para el buen fin de la operación y garanticen la continuidad en la prestación de los servicios.",
+      "ley": "Artículo 21.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La operación mercantil entre dos empresas finalmente no se concluye tras haberse comunicado datos de clientes a la entidad cesionaria. ¿Qué debe hacer esta última con los datos recibidos?",
+      "options": {
+        "a": "Devolverlos a la entidad cedente sin proceder a su supresión bajo ninguna circunstancia",
+        "b": "Conservarlos indefinidamente por si la operación se retomase en el futuro",
+        "c": "Proceder con carácter inmediato a la supresión de los datos, sin que sea de aplicación la obligación de bloqueo prevista en la LOPD",
+        "d": "Mantener los datos bloqueados durante cinco años como en cualquier otro supuesto general"
+      },
+      "correct": "c",
+      "explicacion": "En el caso de que la operación mercantil no llegara a concluirse, la entidad cesionaria deberá proceder con carácter inmediato a la supresión de los datos, sin que sea de aplicación la obligación de bloqueo prevista en la LOPD, al no concurrir ya la finalidad que justificaba el tratamiento.",
+      "ley": "Artículo 21.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un comercio instala cámaras de videovigilancia para preservar la seguridad de personas y bienes. ¿Cómo debe cumplir el deber de información a los clientes?",
+      "options": {
+        "a": "Enviando una notificación postal a cada cliente con carácter previo a su primera visita",
+        "b": "Publicando un anuncio en prensa local cada seis meses sobre la existencia de las cámaras",
+        "c": "Solicitando el consentimiento expreso y firmado de cada cliente antes de entrar al establecimiento",
+        "d": "Mediante la colocación de un dispositivo informativo en lugar suficientemente visible identificando, al menos, la existencia del tratamiento, la identidad del responsable y la posibilidad de ejercitar sus derechos"
+      },
+      "correct": "d",
+      "explicacion": "El deber de información previsto en el artículo 12 del RGPD se entenderá cumplido mediante la colocación de un dispositivo informativo en lugar suficientemente visible identificando, al menos, la existencia del tratamiento, la identidad del responsable y la posibilidad de ejercitar los derechos del RGPD, pudiendo incluirse también un código de conexión o dirección de internet con información adicional.",
+      "ley": "Artículo 22.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Unas imágenes de videovigilancia captan un acto delictivo contra la integridad de las instalaciones de un comercio. ¿Cuál es el plazo máximo para ponerlas a disposición de la autoridad competente?",
+      "options": {
+        "a": "72 horas desde que se tuviera conocimiento de la existencia de la grabación",
+        "b": "Un mes completo, equivalente al plazo general de supresión de las imágenes",
+        "c": "24 horas, sin posibilidad de prórroga bajo ninguna circunstancia",
+        "d": "Una semana, plazo idéntico al de comunicación de brechas de seguridad"
+      },
+      "correct": "a",
+      "explicacion": "Los datos de videovigilancia serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de conservarse para acreditar la comisión de actos que atenten contra personas, bienes o instalaciones, en cuyo caso las imágenes deberán ser puestas a disposición de la autoridad competente en un plazo máximo de 72 horas desde que se tuviera conocimiento de la existencia de la grabación.",
+      "ley": "Artículo 22.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un particular instala una cámara que solo capta el interior de su propio domicilio. ¿Está este tratamiento sujeto al RGPD?",
+      "options": {
+        "a": "Solo está excluido si la vivienda es de su propiedad, no si es alquilada",
+        "b": "No, se considera excluido del ámbito de aplicación del RGPD conforme a su artículo 2.2.c), siempre que solo capte el interior de su propio domicilio",
+        "c": "Sí, todo tratamiento mediante cámaras, sin excepción, está plenamente sujeto al RGPD",
+        "d": "Solo está excluido si no existe ninguna persona conviviente en el domicilio captado"
+      },
+      "correct": "b",
+      "explicacion": "Al amparo del artículo 2.2.c) del RGPD, se considera excluido de su ámbito de aplicación el tratamiento por una persona física de imágenes que solamente capten el interior de su propio domicilio. Esta exclusión no abarca el tratamiento realizado por una entidad de seguridad privada contratada para la vigilancia del domicilio que tuviese acceso a las imágenes.",
+      "ley": "Artículo 22.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una asociación de alta representatividad crea un sistema de información para gestionar la oposición de afectados a recibir comunicaciones comerciales. ¿Qué obligación tiene dicha asociación frente a la autoridad de control?",
+      "options": {
+        "a": "No tiene ninguna obligación de comunicación, basta con la creación interna del sistema",
+        "b": "Debe comunicar a la autoridad de control competente su creación, carácter general o sectorial, y el modo en que los afectados pueden incorporarse y hacer valer sus preferencias",
+        "c": "Solo debe comunicarlo si el sistema supera los diez mil registros de afectados",
+        "d": "Solo debe informar al Ministerio de Consumo, no a la autoridad de protección de datos"
+      },
+      "correct": "b",
+      "explicacion": "Las entidades responsables de los sistemas de exclusión publicitaria comunicarán a la autoridad de control competente su creación, su carácter general o sectorial, así como el modo en que los afectados pueden incorporarse a los mismos y, en su caso, hacer valer sus preferencias. La autoridad hará pública en su sede electrónica una relación de estos sistemas.",
+      "ley": "Artículo 23.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una empresa de telemarketing pretende lanzar una campaña de mercadotecnia directa. ¿Qué obligación previa tiene respecto de los sistemas de exclusión publicitaria?",
+      "options": {
+        "a": "Solo debe consultar dichos sistemas si la campaña dura más de un mes",
+        "b": "No tiene ninguna obligación previa, basta con respetar las quejas que reciba a posteriori",
+        "c": "Debe consultar previamente los sistemas de exclusión publicitaria que pudieran afectar a su actuación, excluyendo del tratamiento los datos de afectados que hubieran manifestado su oposición",
+        "d": "Solo debe consultarlos si el destinatario es persona física, no si es persona jurídica"
+      },
+      "correct": "c",
+      "explicacion": "Quienes pretendan realizar comunicaciones de mercadotecnia directa deberán previamente consultar los sistemas de exclusión publicitaria que pudieran afectar a su actuación, excluyendo del tratamiento los datos de los afectados que hubieran manifestado su oposición o negativa al mismo, salvo que el afectado hubiera prestado su consentimiento para recibir la comunicación.",
+      "ley": "Artículo 23.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una persona informa internamente sobre presuntas irregularidades cometidas por su empresa. ¿Qué normativa protege el tratamiento de los datos del informante?",
+      "options": {
+        "a": "Solo el Código Penal, en sus disposiciones sobre denuncia de delitos",
+        "b": "Solo se protege si la información se traslada directamente a un órgano judicial",
+        "c": "Únicamente las normas internas de cumplimiento normativo de cada empresa, sin amparo legal estatal",
+        "d": "El Reglamento (UE) 2016/679, la LOPD y la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción"
+      },
+      "correct": "d",
+      "explicacion": "Serán lícitos los tratamientos de datos personales necesarios para garantizar la protección de las personas que informen sobre infracciones normativas. Dichos tratamientos se regirán por el Reglamento (UE) 2016/679, la LOPD y la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.",
+      "ley": "Artículo 24 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El Instituto Nacional de Estadística requiere datos sobre creencias religiosas para una estadística no prevista en la programación estadística legal. ¿Puede recoger estos datos sin más trámite?",
+      "options": {
+        "a": "No, los datos del artículo 9 del RGPD para fines estadísticos son de aportación estrictamente voluntaria, solo pudiendo recogerse previo consentimiento expreso de los afectados",
+        "b": "Solo puede recogerlos si la estadística se realiza con fines exclusivamente académicos",
+        "c": "Sí, cualquier organismo estadístico público puede recabar este tipo de datos sin necesidad de consentimiento",
+        "d": "Solo puede recogerlos si cuenta con autorización del Ministerio de Justicia para el caso concreto"
+      },
+      "correct": "a",
+      "explicacion": "De conformidad con el artículo 11.2 de la Ley de la Función Estadística Pública, serán de aportación estrictamente voluntaria y solo podrán recogerse previo consentimiento expreso de los afectados los datos a los que se refieren los artículos 9 y 10 del RGPD (categorías especiales y datos penales).",
+      "ley": "Artículo 25.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un archivo histórico estatal trata datos personales con fines de archivo en interés público. ¿Qué normativa, además del RGPD y la LOPD, resulta especialmente aplicable?",
+      "options": {
+        "a": "Exclusivamente normas de derecho mercantil sobre conservación documental",
+        "b": "La Ley del Patrimonio Histórico Español y el Real Decreto del Sistema Español de Archivos, así como la legislación autonómica que resulte de aplicación",
+        "c": "El Estatuto de los Trabajadores, en lo relativo a expedientes laborales históricos",
+        "d": "Únicamente normas tributarias relativas a la conservación de facturas y documentos contables"
+      },
+      "correct": "b",
+      "explicacion": "Será lícito el tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público, que se sometE al RGPD y a la LOPD con las especialidades derivadas de la Ley del Patrimonio Histórico Español, el Real Decreto del Sistema Español de Archivos, y la legislación autonómica que resulte de aplicación.",
+      "ley": "Artículo 26 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un órgano administrativo distinto al competente para la instrucción del expediente sancionador pretende tratar datos sobre las infracciones de un ciudadano. ¿Cumple esto los requisitos del artículo 27 de la LOPD?",
+      "options": {
+        "a": "Es irrelevante la competencia del órgano si actúa con buena fe y finalidad informativa",
+        "b": "Solo es válido si el órgano pertenece a la misma Administración, aunque carezca de competencia específica",
+        "c": "No, los responsables de estos tratamientos deben ser los órganos competentes para la instrucción del procedimiento sancionador, la declaración de infracciones o la imposición de sanciones",
+        "d": "Sí, cualquier órgano administrativo puede tratar estos datos sin restricción competencial"
+      },
+      "correct": "c",
+      "explicacion": "El tratamiento de datos relativos a infracciones y sanciones administrativas exigirá que los responsables de dichos tratamientos sean los órganos competentes para la instrucción del procedimiento sancionador, para la declaración de las infracciones o la imposición de las sanciones, así como que el tratamiento se limite a los datos estrictamente necesarios.",
+      "ley": "Artículo 27.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La presunción de licitud sobre datos de información crediticia no ampara los supuestos en que la entidad gestora del sistema:",
+      "options": {
+        "a": "Notifique al afectado dentro de los treinta días siguientes a la notificación de la deuda",
+        "b": "Mantenga los datos solo mientras persista el incumplimiento, con límite de cinco años",
+        "c": "Asocie la información crediticia a datos adicionales obtenidos de otras fuentes para llevar a cabo un perfilado del deudor mediante técnicas de calificación crediticia",
+        "d": "Permita la consulta únicamente a quienes mantengan relación contractual con el afectado"
+      },
+      "correct": "c",
+      "explicacion": "La presunción de licitud en sistemas de información crediticia no ampara los supuestos en que la información crediticia fuese asociada por la entidad que mantuviera el sistema a informaciones adicionales relacionadas con el deudor y obtenidas de otras fuentes, a fin de llevar a cabo un perfilado del mismo, en particular mediante técnicas de calificación crediticia.",
+      "ley": "Artículo 20.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Los empresarios individuales y profesionales liberales se benefician de la presunción de licitud sobre sus datos de contacto profesional cuando:",
+      "options": {
+        "a": "Su actividad profesional esté regulada por un colegio profesional con representación estatal",
+        "b": "Hayan otorgado consentimiento expreso para cada operación comercial concreta",
+        "c": "Los datos se refieran a ellos únicamente en dicha condición y no se traten para entablar una relación con ellos como personas físicas",
+        "d": "Estén dados de alta como autónomos desde hace más de cinco años"
+      },
+      "correct": "c",
+      "explicacion": "La misma presunción aplicable a datos de contacto de empleados de personas jurídicas operará para el tratamiento de los datos relativos a los empresarios individuales y a los profesionales liberales, cuando se refieran a ellos únicamente en dicha condición y no se traten para entablar una relación con los mismos como personas físicas.",
+      "ley": "Artículo 19.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Quiénes ostentan la condición de corresponsables del tratamiento en los sistemas de información crediticia respecto de los datos de sus deudores?",
+      "options": {
+        "a": "Solo los acreedores, quedando la entidad gestora exenta de cualquier corresponsabilidad",
+        "b": "Únicamente la entidad que gestiona técnicamente el sistema, sin implicación de los acreedores",
+        "c": "El propio deudor, en su condición de titular de los datos tratados en el sistema",
+        "d": "Las entidades que mantengan el sistema y las acreedoras, siendo de aplicación el artículo 26 del RGPD"
+      },
+      "correct": "d",
+      "explicacion": "Las entidades que mantengan el sistema de información crediticia y las acreedoras, respecto del tratamiento de los datos referidos a sus deudores, tendrán la condición de corresponsables del tratamiento de los datos, siendo de aplicación lo establecido por el artículo 26 del Reglamento (UE) 2016/679.",
+      "ley": "Artículo 20.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando un afectado hubiera ejercitado el derecho a la limitación del tratamiento impugnando su exactitud ante un sistema de información crediticia, ¿qué información se facilita a quienes consulten el sistema?",
+      "options": {
+        "a": "El sistema informará acerca de la mera existencia de dicha circunstancia, sin facilitar los datos concretos respecto de los que se hubiera ejercitado el derecho, en tanto se resuelve sobre la solicitud",
+        "b": "Se facilita toda la información sin restricción alguna, incluyendo el detalle de la impugnación",
+        "c": "Se elimina automáticamente toda referencia al deudor mientras se resuelve la impugnación",
+        "d": "No se facilita absolutamente ninguna información hasta que se resuelva definitivamente la disputa"
+      },
+      "correct": "a",
+      "explicacion": "Cuando se hubiera ejercitado ante el sistema el derecho a la limitación del tratamiento impugnando la exactitud de los datos, el sistema informará a quienes pudieran consultarlo acerca de la mera existencia de dicha circunstancia, sin facilitar los datos concretos respecto de los que se hubiera ejercitado el derecho, en tanto se resuelve sobre la solicitud del afectado.",
+      "ley": "Artículo 20.1.e) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Fuera de los supuestos amparados por consentimiento o norma legal específica, los tratamientos sobre infracciones y sanciones administrativas solo son posibles cuando los lleven a cabo:",
+      "options": {
+        "a": "Cualquier funcionario público, sin necesidad de competencia específica sobre el expediente",
+        "b": "Abogados y procuradores, con el objeto de recoger la información facilitada por sus clientes para el ejercicio de sus funciones",
+        "c": "Periodistas, en el ejercicio de su labor de información pública",
+        "d": "Empresas de selección de personal en procesos de contratación laboral"
+      },
+      "correct": "b",
+      "explicacion": "Fuera de los supuestos generales o de consentimiento/norma legal, los tratamientos de datos referidos a infracciones y sanciones administrativas solo serán posibles cuando sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones.",
+      "ley": "Artículo 27.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_15_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los organismos competentes en función estadística pública podrán denegar el ejercicio de los derechos de los artículos 15 a 22 del RGPD cuando:",
+      "options": {
+        "a": "El plazo de conservación de los datos estadísticos haya superado los diez años",
+        "b": "Los datos se encuentren amparados por las garantías del secreto estadístico previstas en la legislación estatal o autonómica",
+        "c": "El afectado no haya colaborado voluntariamente en la encuesta correspondiente",
+        "d": "La solicitud se presente fuera del plazo de campaña de recogida de datos estadísticos"
+      },
+      "correct": "b",
+      "explicacion": "Los organismos competentes para el ejercicio de la función estadística pública podrán denegar las solicitudes de ejercicio por los afectados de los derechos establecidos en los artículos 15 a 22 del RGPD cuando los datos se encuentren amparados por las garantías del secreto estadístico previstas en la legislación estatal o autonómica.",
+      "ley": "Artículo 25.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

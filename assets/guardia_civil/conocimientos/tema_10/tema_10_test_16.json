@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_10_test_16_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Delegaciones del Gobierno están adscritas orgánicamente al:",
+      "options": {
+        "a": "Ministerio de Hacienda y Administraciones Públicas",
+        "b": "Ministerio de la Presidencia",
+        "c": "Ministerio del Interior",
+        "d": "Ministerio de Asuntos Exteriores"
+      },
+      "correct": "a",
+      "explicacion": "Las Delegaciones del Gobierno están adscritas orgánicamente al Ministerio de Hacienda y Administraciones Públicas (actualmente denominado de forma diferente). Tendrán su sede en la localidad donde radique el Consejo de Gobierno de la Comunidad Autónoma, salvo que el Consejo de Ministros acuerde ubicarla en otra distinta.",
+      "ley": "Artículo 69.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En las Comunidades Autónomas uniprovinciales, las Subdelegaciones del Gobierno:",
+      "options": {
+        "a": "No pueden crearse en ningún caso, siendo siempre el Delegado quien asume sus competencias",
+        "b": "Existen en todas las capitales de las Comunidades Autónomas uniprovinciales sin excepción",
+        "c": "Siempre existen, igual que en las Comunidades pluriprovinciales",
+        "d": "No existen con carácter ordinario, aunque pueden crearse por Real Decreto cuando circunstancias como la población, el volumen de gestión o singularidades geográficas lo justifiquen"
+      },
+      "correct": "d",
+      "explicacion": "En cada provincia de las Comunidades Autónomas pluriprovinciales existirá un Subdelegado del Gobierno. En las Comunidades Autónomas uniprovinciales no existen con carácter ordinario, aunque podrán crearse por Real Decreto Subdelegaciones del Gobierno cuando circunstancias tales como la población, el volumen de gestión o sus singularidades geográficas, sociales o económicas así lo justifiquen.",
+      "ley": "Artículo 69.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los Directores Insulares de la Administración General del Estado son nombrados por:",
+      "options": {
+        "a": "El Consejo de Ministros a propuesta del Ministro de Hacienda",
+        "b": "El Subdelegado del Gobierno de la provincia correspondiente",
+        "c": "El Ministro de la Presidencia mediante Orden Ministerial",
+        "d": "El Delegado del Gobierno mediante el procedimiento de libre designación entre funcionarios del Subgrupo A1"
+      },
+      "correct": "d",
+      "explicacion": "Los Directores Insulares son nombrados por el Delegado del Gobierno mediante el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1.",
+      "ley": "Artículo 70 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los Delegados del Gobierno en las Comunidades Autónomas:",
+      "options": {
+        "a": "Son órganos directivos con rango de Secretario de Estado que dependen del Ministerio del Interior",
+        "b": "Dependen jerárquicamente del Ministerio de Hacienda tanto orgánica como funcionalmente",
+        "c": "Representan al Gobierno y al Estado con carácter exclusivo en la Comunidad Autónoma, sin ninguna representación ordinaria de los Presidentes autonómicos",
+        "d": "Representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma y son órganos directivos con rango de Subsecretario que dependen orgánicamente del Presidente del Gobierno"
+      },
+      "correct": "d",
+      "explicacion": "Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma, sin perjuicio de la representación ordinaria del Estado a través de sus respectivos Presidentes. Son órganos directivos con rango de Subsecretario que dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia.",
+      "ley": "Artículo 72.1 y 72.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los Delegados del Gobierno son nombrados y separados por:",
+      "options": {
+        "a": "Orden del Ministerio de Hacienda y Administraciones Públicas",
+        "b": "Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno",
+        "c": "Real Decreto del Presidente del Gobierno sin necesidad de acuerdo del Consejo de Ministros",
+        "d": "Real Decreto del Consejo de Ministros a propuesta del Ministro de la Presidencia"
+      },
+      "correct": "b",
+      "explicacion": "Los Delegados del Gobierno serán nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno. Su nombramiento atenderá a criterios de competencia profesional y experiencia.",
+      "ley": "Artículo 72.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En caso de ausencia, vacante o enfermedad del Delegado del Gobierno, será suplido por:",
+      "options": {
+        "a": "El Subdelegado del Gobierno que el Delegado designe y, en su defecto, el de la provincia en que tenga su sede; en Comunidades uniprovinciales sin Subdelegado, por el Secretario General",
+        "b": "El Secretario General de la Delegación del Gobierno en todo caso",
+        "c": "El Subdelegado del Gobierno de mayor antigüedad en el cargo",
+        "d": "El Ministro de Hacienda y Administraciones Públicas, al ser el Ministerio del que depende"
+      },
+      "correct": "a",
+      "explicacion": "En caso de ausencia, vacante o enfermedad del titular de la Delegación del Gobierno, será suplido por el Subdelegado del Gobierno que el Delegado designe y, en su defecto, al de la provincia en que tenga su sede. En las Comunidades Autónomas uniprovinciales en las que no exista Subdelegado, la suplencia corresponderá al Secretario General.",
+      "ley": "Artículo 72.5 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Entre las competencias de los Delegados del Gobierno en las Comunidades Autónomas, corresponde específicamente a estos:",
+      "options": {
+        "a": "Nombrar a todos los titulares de órganos territoriales de la AGE en la Comunidad Autónoma sin necesidad de informe previo",
+        "b": "Dictar normas reglamentarias de alcance autonómico para organizar los servicios estatales en el territorio",
+        "c": "Nombrar a los Subdelegados del Gobierno en las provincias de su ámbito de actuación y, en su caso, a los Directores Insulares",
+        "d": "Resolver directamente los recursos contra actos de todos los órganos estatales con sede en la Comunidad Autónoma"
+      },
+      "correct": "c",
+      "explicacion": "Entre las competencias del Delegado del Gobierno en materia de dirección y coordinación se incluye: nombrar a los Subdelegados del Gobierno en las provincias de su ámbito de actuación y, en su caso, a los Directores Insulares, y como superior jerárquico, dirigir y coordinar su actividad.",
+      "ley": "Artículo 73.1.a).2.º de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los Delegados del Gobierno en materia de seguridad ciudadana:",
+      "options": {
+        "a": "Comparten la jefatura de las Fuerzas y Cuerpos de Seguridad con el Presidente de la Comunidad Autónoma",
+        "b": "Protegen el libre ejercicio de los derechos y libertades y garantizan la seguridad ciudadana a través de los Subdelegados y de las Fuerzas y Cuerpos de Seguridad del Estado, cuya jefatura corresponde al Delegado, bajo dependencia funcional del Ministerio del Interior",
+        "c": "Solo ejercen competencias de seguridad a través de las Fuerzas Armadas destinadas en la Comunidad Autónoma",
+        "d": "Carecen de competencias en materia de seguridad ciudadana, que son exclusivas del Ministerio del Interior"
+      },
+      "correct": "b",
+      "explicacion": "Corresponde a los Delegados del Gobierno proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana, a través de los Subdelegados del Gobierno y de las Fuerzas y Cuerpos de Seguridad del Estado. La jefatura de las Fuerzas y Cuerpos de Seguridad del Estado corresponde al Delegado, quien ejerce las competencias del Estado en esta materia bajo la dependencia funcional del Ministerio del Interior.",
+      "ley": "Artículo 73.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los Subdelegados del Gobierno en las provincias tienen nivel de:",
+      "options": {
+        "a": "Director General, siendo nombrados por el Consejo de Ministros a propuesta del Ministerio de Hacienda",
+        "b": "Secretario de Estado, siendo nombrados por el Presidente del Gobierno",
+        "c": "Subdirector General, siendo nombrados por el Delegado del Gobierno mediante libre designación entre funcionarios del Subgrupo A1",
+        "d": "Subsecretario, siendo nombrados por Real Decreto del Presidente del Gobierno"
+      },
+      "correct": "c",
+      "explicacion": "En cada provincia y bajo la inmediata dependencia del Delegado del Gobierno en la respectiva Comunidad Autónoma existirá un Subdelegado del Gobierno, con nivel de Subdirector General, que será nombrado por el Delegado mediante el procedimiento de libre designación entre funcionarios de carrera del Subgrupo A1.",
+      "ley": "Artículo 74 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En las Comunidades Autónomas uniprovinciales en que no exista Subdelegado del Gobierno:",
+      "options": {
+        "a": "El Delegado del Gobierno asumirá las competencias que la ley atribuye a los Subdelegados del Gobierno en las provincias",
+        "b": "Se crea automáticamente una Subdelegación con competencias mínimas",
+        "c": "El Secretario General de la Delegación asumirá las competencias del Subdelegado",
+        "d": "El Director General de la Delegación asumirá dichas competencias"
+      },
+      "correct": "a",
+      "explicacion": "En las Comunidades Autónomas uniprovinciales en las que no exista Subdelegado, el Delegado del Gobierno asumirá las competencias que esta Ley atribuye a los Subdelegados del Gobierno en las provincias.",
+      "ley": "Artículo 74 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Entre las competencias de los Subdelegados del Gobierno en las provincias se incluye:",
+      "options": {
+        "a": "Representar al Gobierno de la Nación en la provincia con el mismo rango que el Delegado del Gobierno",
+        "b": "Resolver los recursos administrativos contra todos los actos dictados en la provincia, incluidos los de los servicios no integrados",
+        "c": "Dirigir las Fuerzas y Cuerpos de Seguridad del Estado en la provincia, dirigir y coordinar la protección civil en el ámbito provincial, y dirigir los servicios integrados de la Administración General del Estado",
+        "d": "Nombrar a los Directores Insulares de Canarias y Baleares por delegación del Delegado del Gobierno"
+      },
+      "correct": "c",
+      "explicacion": "Entre las competencias de los Subdelegados del Gobierno se incluyen: proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana, dirigiendo las Fuerzas y Cuerpos de Seguridad del Estado en la provincia; dirigir y coordinar la protección civil en el ámbito de la provincia; y dirigir, en su caso, los servicios integrados de la AGE de acuerdo con las instrucciones del Delegado y los Ministerios.",
+      "ley": "Artículo 75 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La estructura de las Delegaciones y Subdelegaciones del Gobierno se fija por:",
+      "options": {
+        "a": "Real Decreto del Presidente del Gobierno a propuesta del Ministerio competente",
+        "b": "Real Decreto del Consejo de Ministros a propuesta del Ministerio de Hacienda y Administraciones Públicas, debiendo contar en todo caso con una Secretaría General",
+        "c": "Orden Ministerial del Ministro de Hacienda y Administraciones Públicas",
+        "d": "Reglamento de organización aprobado por el propio Delegado del Gobierno"
+      },
+      "correct": "b",
+      "explicacion": "La estructura de las Delegaciones y Subdelegaciones del Gobierno se fijará por Real Decreto del Consejo de Ministros a propuesta del Ministerio de Hacienda y Administraciones Públicas, y contarán en todo caso con una Secretaría General, dependiente de los Delegados o Subdelegados del Gobierno, como órgano de gestión de los servicios comunes.",
+      "ley": "Artículo 76.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La Comisión interministerial de coordinación de la Administración periférica del Estado es un órgano colegiado adscrito al:",
+      "options": {
+        "a": "Ministerio de Hacienda y Administraciones Públicas (actualmente Ministerio de Política Territorial y Función Pública), encargado de coordinar la actuación de la Administración periférica con los distintos Departamentos ministeriales",
+        "b": "Ministerio de la Presidencia, como órgano de coordinación de toda la actividad gubernamental",
+        "c": "Consejo de Ministros directamente, sin adscripción ministerial específica",
+        "d": "Presidencia del Gobierno, por coordinar actuaciones de todos los Ministerios"
+      },
+      "correct": "a",
+      "explicacion": "La Comisión interministerial de coordinación de la Administración periférica del Estado es un órgano colegiado adscrito al Ministerio de Hacienda y Administraciones Públicas (actualmente Ministerio de Política Territorial y Función Pública). Se encarga de coordinar la actuación de la Administración periférica del Estado con los distintos Departamentos ministeriales.",
+      "ley": "Artículo 78 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La Comisión territorial de asistencia al Delegado del Gobierno en las Comunidades Autónomas pluriprovinciales:",
+      "options": {
+        "a": "Estará presidida por el Presidente de la Comunidad Autónoma e integrada por los representantes del Estado",
+        "b": "Estará presidida por el Delegado del Gobierno e integrada por los Subdelegados del Gobierno en las provincias comprendidas en su territorio",
+        "c": "Estará presidida por el Subsecretario del Ministerio de Hacienda e integrada por los Delegados del Gobierno",
+        "d": "Es presidida por el Delegado del Gobierno, siendo miembro obligatorio el Presidente de la Comunidad Autónoma"
+      },
+      "correct": "b",
+      "explicacion": "En cada una de las Comunidades Autónomas pluriprovinciales existirá una Comisión territorial de asistencia al Delegado del Gobierno, presidida por el Delegado del Gobierno en la Comunidad Autónoma e integrada por los Subdelegados del Gobierno en las provincias comprendidas en el territorio de esta.",
+      "ley": "Artículo 79.1.a) de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los Directores Insulares dependen jerárquicamente del:",
+      "options": {
+        "a": "Delegado del Gobierno en la Comunidad Autónoma o del Subdelegado del Gobierno en la provincia, cuando este cargo exista, ejerciendo las competencias atribuidas a los Subdelegados del Gobierno",
+        "b": "Director General de la Administración Periférica del Ministerio de la Presidencia",
+        "c": "Ministerio de Hacienda y Administraciones Públicas directamente, sin intermediación del Delegado",
+        "d": "Presidente de la Comunidad Autónoma de Canarias o Baleares según corresponda"
+      },
+      "correct": "a",
+      "explicacion": "Los Directores Insulares dependen jerárquicamente del Delegado del Gobierno en la Comunidad Autónoma o del Subdelegado del Gobierno en la provincia, cuando este cargo exista, y ejercen, en su ámbito territorial, las competencias atribuidas por esta Ley a los Subdelegados del Gobierno en las provincias.",
+      "ley": "Artículo 70 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El Servicio Exterior del Estado se rige en cuanto a su composición, organización, funciones, integración y personal por:",
+      "options": {
+        "a": "La Ley de Funcionarios Civiles del Estado como norma general aplicable a todo el personal",
+        "b": "El Derecho Internacional y los Tratados ratificados por España, con preferencia sobre las normas nacionales",
+        "c": "La Ley de la Acción y del Servicio Exterior del Estado y su normativa de desarrollo, y supletoriamente por la Ley 40/2015",
+        "d": "Exclusivamente la Ley 40/2015, de Régimen Jurídico del Sector Público"
+      },
+      "correct": "c",
+      "explicacion": "El Servicio Exterior del Estado se rige en todo lo concerniente a su composición, organización, funciones, integración y personal por lo dispuesto en la Ley de la Acción y del Servicio Exterior del Estado y en su normativa de desarrollo y, supletoriamente, por lo dispuesto en la Ley 40/2015.",
+      "ley": "Artículo 80 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los servicios territoriales integrados en las Delegaciones del Gobierno dependen de:",
+      "options": {
+        "a": "Del Secretario General de la Delegación del Gobierno, con plena autonomía respecto al Delegado",
+        "b": "El Delegado del Gobierno (o en su caso el Subdelegado) a través de la Secretaría General, actuando de acuerdo con las instrucciones técnicas y criterios operativos establecidos por el Ministerio competente por razón de la materia",
+        "c": "Del Delegado del Gobierno de forma directa y exclusiva, sin interferencia ministerial",
+        "d": "Exclusivamente del Ministerio del que depende el servicio, sin ninguna relación con la Delegación del Gobierno"
+      },
+      "correct": "b",
+      "explicacion": "Los servicios territoriales integrados dependerán del Delegado del Gobierno, o en su caso Subdelegado del Gobierno, a través de la Secretaría General, y actuarán de acuerdo con las instrucciones técnicas y criterios operativos establecidos por el Ministerio competente por razón de la materia.",
+      "ley": "Artículo 71.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los Delegados del Gobierno deben elevar al Gobierno un informe anual sobre el funcionamiento de los servicios públicos estatales en el ámbito autonómico, que se eleva a través de:",
+      "options": {
+        "a": "El Senado, como cámara de representación territorial del Estado",
+        "b": "El Ministerio de la Presidencia, por ser el órgano de coordinación gubernamental",
+        "c": "El Presidente del Gobierno directamente",
+        "d": "El titular del Ministerio de Hacienda y Administraciones Públicas"
+      },
+      "correct": "d",
+      "explicacion": "Los Delegados del Gobierno elevarán al Gobierno, con carácter anual, a través del titular del Ministerio de Hacienda y Administraciones Públicas, un informe sobre el funcionamiento de los servicios públicos estatales en el ámbito autonómico.",
+      "ley": "Artículo 73.1.b).4.º de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En la Comisión de asistencia al Subdelegado del Gobierno en cada provincia, la Comisión es presidida por:",
+      "options": {
+        "a": "El Delegado del Gobierno de la Comunidad Autónoma, como superior jerárquico del Subdelegado",
+        "b": "Un representante del Ministerio de Hacienda y Administraciones Públicas designado ad hoc",
+        "c": "El Secretario General de la Subdelegación, por ser el órgano de apoyo administrativo",
+        "d": "El propio Subdelegado del Gobierno, e integrada por el Secretario General y los titulares de los órganos y servicios territoriales que el Subdelegado considere oportuno"
+      },
+      "correct": "d",
+      "explicacion": "En cada Subdelegación del Gobierno existirá una Comisión de asistencia al Subdelegado del Gobierno presidida por él mismo e integrada por el Secretario General y los titulares de los órganos y servicios territoriales, tanto integrados como no integrados, que el Subdelegado del Gobierno considere oportuno.",
+      "ley": "Artículo 79.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_16_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La asistencia jurídica y las funciones de intervención y control económico financiero en las Delegaciones y Subdelegaciones del Gobierno se ejercen respectivamente por:",
+      "options": {
+        "a": "El Subsecretario del Ministerio de Hacienda y el Tribunal de Cuentas",
+        "b": "El Consejo de Estado y la Audiencia Nacional respectivamente",
+        "c": "La Abogacía del Estado y la Intervención General de la Administración del Estado",
+        "d": "La Secretaría General de la Delegación y el Ministerio de Hacienda"
+      },
+      "correct": "c",
+      "explicacion": "La asistencia jurídica y las funciones de intervención y control económico financiero en relación con las Delegaciones y Subdelegaciones del Gobierno se ejercerán por la Abogacía del Estado y la Intervención General de la Administración del Estado respectivamente, de acuerdo con su normativa específica.",
+      "ley": "Artículo 77 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    }
+  ]
+}

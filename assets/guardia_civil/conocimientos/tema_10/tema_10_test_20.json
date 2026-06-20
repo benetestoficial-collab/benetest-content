@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_10_test_20_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La Ley 39/2015 tiene por objeto regular el procedimiento administrativo común, mientras que la Ley 40/2015 regula fundamentalmente:",
+      "options": {
+        "a": "Exclusivamente el régimen de los contratos administrativos y la contratación pública",
+        "b": "Las bases del régimen jurídico de las Administraciones Públicas, el sistema de responsabilidad patrimonial y potestad sancionadora, y la organización de la Administración General del Estado",
+        "c": "Solo el procedimiento sancionador, en complemento del procedimiento general regulado en la Ley 39/2015",
+        "d": "Únicamente la organización territorial del Estado y el reparto de competencias autonómicas"
+      },
+      "correct": "b",
+      "explicacion": "Mientras la Ley 39/2015 regula el procedimiento administrativo común, la Ley 40/2015 establece y regula las bases del régimen jurídico de las Administraciones Públicas, los principios del sistema de responsabilidad patrimonial y de la potestad sancionadora, así como la organización y funcionamiento de la Administración General del Estado.",
+      "ley": "Artículo 1 de la Ley 40/2015, de Régimen Jurídico del Sector Público, en relación con el artículo 1 de la Ley 39/2015"
+    },
+    {
+      "id": "tema_10_test_20_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El silencio administrativo estimatorio en procedimientos iniciados a solicitud del interesado tiene la consideración de:",
+      "options": {
+        "a": "Mera presunción que no produce efectos hasta su certificación expresa por la Administración",
+        "b": "Resolución tácita sin efectos jurídicos hasta su comunicación formal al interesado",
+        "c": "Acto administrativo finalizador del procedimiento a todos los efectos",
+        "d": "Acto provisional sujeto a confirmación posterior por el órgano competente"
+      },
+      "correct": "c",
+      "explicacion": "La estimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento, produciendo efectos desde el vencimiento del plazo máximo sin que se haya dictado y notificado resolución expresa.",
+      "ley": "Artículo 24.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La delegación de competencias entre órganos administrativos, conforme a la Ley 40/2015, no supone:",
+      "options": {
+        "a": "Modificación alguna, ni de titularidad ni de ejercicio de la competencia delegada",
+        "b": "Más que un cambio meramente nominal sin trascendencia jurídica práctica",
+        "c": "Alteración de la titularidad de la competencia, aunque sí afecta a los elementos determinantes de su ejercicio",
+        "d": "Ningún tipo de cambio en el ejercicio de la competencia, manteniéndose todo igual que antes de delegar"
+      },
+      "correct": "c",
+      "explicacion": "La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevean.",
+      "ley": "Artículo 8.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_20_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El plazo máximo general para resolver un procedimiento administrativo, cuando la norma reguladora no establezca otro distinto, es de:",
+      "options": {
+        "a": "Un año",
+        "b": "Seis meses",
+        "c": "Un mes",
+        "d": "Tres meses"
+      },
+      "correct": "d",
+      "explicacion": "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, este será de tres meses, contándose en procedimientos de oficio desde el acuerdo de iniciación y en los iniciados a solicitud del interesado desde la entrada en el registro electrónico.",
+      "ley": "Artículo 21.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Son nulos de pleno derecho los actos administrativos, entre otros supuestos, los dictados:",
+      "options": {
+        "a": "Por órgano competente pero con un leve retraso respecto al plazo previsto",
+        "b": "Sin que el interesado haya presentado todas las alegaciones que estimara convenientes",
+        "c": "Con cualquier defecto formal de carácter secundario que no afecte al fondo del asunto",
+        "d": "Prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados"
+      },
+      "correct": "d",
+      "explicacion": "Son nulos de pleno derecho los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados, entre otras causas tasadas de nulidad.",
+      "ley": "Artículo 47.1.e) de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los Delegados del Gobierno en las Comunidades Autónomas son órganos directivos con rango de:",
+      "options": {
+        "a": "Director general",
+        "b": "Ministro sin cartera",
+        "c": "Secretario de Estado",
+        "d": "Subsecretario"
+      },
+      "correct": "d",
+      "explicacion": "Los Delegados del Gobierno son órganos directivos con rango de Subsecretario que dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia.",
+      "ley": "Artículo 72.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_20_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El recurso de alzada se interpone, cuando el acto fuera expreso, en el plazo de:",
+      "options": {
+        "a": "Dos meses",
+        "b": "Tres meses",
+        "c": "Quince días",
+        "d": "Un mes"
+      },
+      "correct": "d",
+      "explicacion": "El plazo para la interposición del recurso de alzada será de un mes si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.",
+      "ley": "Artículo 122.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La responsabilidad patrimonial de las Administraciones Públicas exige que el daño alegado sea:",
+      "options": {
+        "a": "Superior a una cuantía mínima fijada reglamentariamente para cada tipo de daño",
+        "b": "Efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas",
+        "c": "Demostrado mediante sentencia judicial previa que declare la responsabilidad",
+        "d": "Solo previsible y cuantificable de forma objetiva por peritos independientes"
+      },
+      "correct": "b",
+      "explicacion": "En todo caso, el daño alegado en un procedimiento de responsabilidad patrimonial habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas, como requisitos esenciales para que pueda generar derecho a indemnización.",
+      "ley": "Artículo 32.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_20_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El trámite de audiencia a los interesados se concede en un plazo:",
+      "options": {
+        "a": "No inferior a cinco días ni superior a diez",
+        "b": "De treinta días naturales en todo caso",
+        "c": "De veinte días hábiles improrrogables",
+        "d": "No inferior a diez días ni superior a quince"
+      },
+      "correct": "d",
+      "explicacion": "Instruidos los procedimientos e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados, concediéndoles un plazo no inferior a diez días ni superior a quince para alegar y presentar documentos.",
+      "ley": "Artículo 82.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La Comisión General de Secretarios de Estado y Subsecretarios tiene como una de sus funciones:",
+      "options": {
+        "a": "El examen de todos los asuntos que vayan a someterse a aprobación del Consejo de Ministros, salvo nombramientos, ceses y asuntos de urgencia que deban someterse directamente",
+        "b": "Adoptar decisiones vinculantes por delegación del Consejo de Ministros en asuntos de su competencia",
+        "c": "Resolver los recursos de alzada interpuestos contra resoluciones ministeriales",
+        "d": "Sustituir al Consejo de Ministros cuando este no pueda reunirse por causa de fuerza mayor"
+      },
+      "correct": "a",
+      "explicacion": "Corresponde a la Comisión General de Secretarios de Estado y Subsecretarios el examen de todos los asuntos que vayan a someterse a aprobación del Consejo de Ministros, excepto los nombramientos, ceses, ascensos de oficiales generales y aquellos que por urgencia deban sometaterse directamente al Consejo. En ningún caso puede adoptar decisiones por delegación del Gobierno.",
+      "ley": "Artículo 8.5 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_20_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las medidas provisionales adoptadas antes de la iniciación de un procedimiento administrativo deben ser confirmadas, modificadas o levantadas en el acuerdo de iniciación dentro de:",
+      "options": {
+        "a": "Diez días hábiles desde la adopción",
+        "b": "Tres meses, igual que el plazo general de resolución",
+        "c": "Quince días siguientes a su adopción",
+        "d": "Un mes desde su adopción"
+      },
+      "correct": "c",
+      "explicacion": "Las medidas provisionales adoptadas en casos de urgencia inaplazable antes de la iniciación del procedimiento deben ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, que deberá efectuarse dentro de los quince días siguientes a su adopción.",
+      "ley": "Artículo 56.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En la organización territorial de la AGE, los Directores Insulares ejercen, en su ámbito territorial:",
+      "options": {
+        "a": "Las competencias atribuidas por la Ley 40/2015 a los Subdelegados del Gobierno en las provincias",
+        "b": "Las competencias atribuidas a los Delegados del Gobierno en las Comunidades Autónomas",
+        "c": "Solo funciones de representación protocolaria, sin competencias ejecutivas",
+        "d": "Competencias propias e independientes de los Subdelegados, con rango de Director general"
+      },
+      "correct": "a",
+      "explicacion": "Los Directores Insulares dependen jerárquicamente del Delegado del Gobierno en la Comunidad Autónoma o del Subdelegado del Gobierno en la provincia, cuando este cargo exista, y ejercen, en su ámbito territorial, las competencias atribuidas por la Ley 40/2015 a los Subdelegados del Gobierno en las provincias.",
+      "ley": "Artículo 70 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_20_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La caducidad en los procedimientos iniciados a solicitud del interesado se produce cuando la paralización por causa imputable al mismo se prolonga durante:",
+      "options": {
+        "a": "Un mes desde la última actuación del interesado",
+        "b": "Seis meses sin necesidad de advertencia previa",
+        "c": "Tres meses, tras advertencia previa de la Administración",
+        "d": "Un año desde el inicio del procedimiento"
+      },
+      "correct": "c",
+      "explicacion": "Cuando se produzca la paralización del procedimiento por causa imputable al interesado, la Administración le advertirá que transcurridos tres meses se producirá la caducidad del procedimiento. Consumido este plazo sin que el particular reanude la tramitación, se acordará el archivo de las actuaciones.",
+      "ley": "Artículo 95.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Para la creación de órganos colegiados de la AGE con competencias decisorias, la norma de creación deberá revestir la forma de Real Decreto cuando se trate de:",
+      "options": {
+        "a": "Órganos colegiados ministeriales exclusivamente, sin importar el rango del Presidente",
+        "b": "Órganos colegiados interministeriales cuyo Presidente tenga rango superior al de Director general",
+        "c": "Solo los órganos colegiados que tengan competencias de seguimiento o control",
+        "d": "Cualquier órgano colegiado, sin distinción de su composición o rango del Presidente"
+      },
+      "correct": "b",
+      "explicacion": "La norma de creación de órganos colegiados con competencias decisorias, de propuesta o informes preceptivos, o de control deberá revestir la forma de Real Decreto en el caso de órganos colegiados interministeriales cuyo Presidente tenga rango superior al de Director general; Orden ministerial conjunta para los demás interministeriales; y Orden ministerial para los ministeriales.",
+      "ley": "Artículo 22.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_20_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las solicitudes de iniciación de un procedimiento administrativo que no reúnan los requisitos legales determinan que la Administración:",
+      "options": {
+        "a": "Requiera al interesado para que en plazo de diez días subsane la falta o acompañe los documentos preceptivos",
+        "b": "Imponga automáticamente una sanción por incumplimiento de los requisitos formales",
+        "c": "Traslade el expediente al órgano superior jerárquico para su resolución directa",
+        "d": "Archive directamente el expediente sin posibilidad de subsanación"
+      },
+      "correct": "a",
+      "explicacion": "Si la solicitud de iniciación no reúne los requisitos legales, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que si no lo hiciera se le tendrá por desistido de su petición.",
+      "ley": "Artículo 68.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La Conferencia de Presidentes está formada por:",
+      "options": {
+        "a": "Solo los Presidentes de las Comunidades Autónomas, sin participación estatal directa",
+        "b": "El Presidente del Gobierno, que la preside, y por los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla",
+        "c": "El Ministro de Política Territorial junto con los Consejeros autonómicos competentes",
+        "d": "El Rey, como Jefe del Estado, junto con los Presidentes autonómicos"
+      },
+      "correct": "b",
+      "explicacion": "La Conferencia de Presidentes es un órgano de cooperación multilateral entre el Gobierno de la Nación y los Gobiernos de las Comunidades Autónomas, formada por el Presidente del Gobierno, que la preside, y por los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.",
+      "ley": "Artículo 146.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_20_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El recurso extraordinario de revisión solo procede contra:",
+      "options": {
+        "a": "Resoluciones de procedimientos sancionadores exclusivamente",
+        "b": "Cualquier acto administrativo, independientemente de su firmeza",
+        "c": "Los actos firmes en vía administrativa, cuando concurra alguna de las causas tasadas previstas legalmente",
+        "d": "Las disposiciones de carácter general, nunca contra actos singulares"
+      },
+      "correct": "c",
+      "explicacion": "El recurso extraordinario de revisión solo procede contra los actos firmes en vía administrativa, cuando concurra alguna de las circunstancias tasadas: error de hecho, aparición de documentos esenciales, testimonios falsos declarados por sentencia firme, o resolución dictada por prevaricación u otra conducta punible declarada judicialmente.",
+      "ley": "Artículo 125.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La indemnización por responsabilidad patrimonial se calculará con arreglo a los criterios de valoración de:",
+      "options": {
+        "a": "La legislación fiscal, de expropiación forzosa y demás normas aplicables, ponderando las valoraciones predominantes en el mercado",
+        "b": "Exclusivamente la legislación civil sobre responsabilidad extracontractual",
+        "c": "Los baremos de tráfico, en todo tipo de daños con independencia de su naturaleza",
+        "d": "La libre estimación del órgano instructor sin criterios normativos de referencia"
+      },
+      "correct": "a",
+      "explicacion": "La indemnización se calculará con arreglo a los criterios de valoración establecidos en la legislación fiscal, de expropiación forzosa y demás normas aplicables, ponderándose las valoraciones predominantes en el mercado. En casos de muerte o lesiones corporales, puede tomarse como referencia el baremo de seguros obligatorios y Seguridad Social.",
+      "ley": "Artículo 34.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_20_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La tramitación de urgencia de un procedimiento administrativo reduce los plazos del procedimiento ordinario:",
+      "options": {
+        "a": "A un tercio de su duración original, sin excepciones",
+        "b": "A la mitad, salvo los relativos a la presentación de solicitudes y recursos",
+        "c": "Solo afecta al plazo de resolución, no a los demás trámites",
+        "d": "En un veinticinco por ciento respecto al procedimiento ordinario"
+      },
+      "correct": "b",
+      "explicacion": "Cuando razones de interés público lo aconsejen, puede acordarse la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+      "ley": "Artículo 33.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_20_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La Administración General del Estado mantendrá un directorio general de aplicaciones para su reutilización, con el fin de:",
+      "options": {
+        "a": "Prestar apoyo para la libre reutilización de aplicaciones e impulsar el desarrollo de estándares comunes en el marco de los esquemas nacionales de interoperabilidad y seguridad",
+        "b": "Controlar el gasto público en tecnología de todas las Administraciones Públicas españolas",
+        "c": "Sustituir los sistemas informáticos propios de las Comunidades Autónomas por aplicaciones únicas estatales",
+        "d": "Centralizar exclusivamente las aplicaciones de gestión presupuestaria de todas las Administraciones"
+      },
+      "correct": "a",
+      "explicacion": "La Administración General del Estado mantendrá un directorio general de aplicaciones para su reutilización, prestará apoyo para la libre reutilización de aplicaciones e impulsará el desarrollo de aplicaciones, formatos y estándares comunes en el marco de los esquemas nacionales de interoperabilidad y seguridad.",
+      "ley": "Artículo 158.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    }
+  ]
+}

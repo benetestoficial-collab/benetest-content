@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_11_test_01_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La Ley Orgánica 3/2018, de Protección de Datos Personales, tiene por objeto:",
+      "options": {
+        "a": "Sustituir íntegramente al Reglamento (UE) 2016/679 en el ordenamiento español",
+        "b": "Regular únicamente el tratamiento de datos por parte de las Administraciones Públicas",
+        "c": "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 y completar sus disposiciones, así como garantizar los derechos digitales de la ciudadanía",
+        "d": "Regular exclusivamente el régimen sancionador en materia de protección de datos, sin incidencia en los derechos digitales"
+      },
+      "correct": "c",
+      "explicacion": "La Ley Orgánica 3/2018 tiene por objeto adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 y completar sus disposiciones, ejerciéndose el derecho fundamental a la protección de datos del artículo 18.4 de la Constitución con arreglo a ambas normas, además de garantizar los derechos digitales de la ciudadanía.",
+      "ley": "Artículo 1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Lo dispuesto en los Títulos I a IX y en los artículos 89 a 94 de la LOPD se aplica a:",
+      "options": {
+        "a": "Exclusivamente a los tratamientos que impliquen transferencias internacionales de datos",
+        "b": "Solo a los tratamientos realizados por las Administraciones Públicas",
+        "c": "Únicamente a los tratamientos totalmente automatizados, excluyendo cualquier tratamiento manual",
+        "d": "Cualquier tratamiento total o parcialmente automatizado de datos personales, así como al tratamiento no automatizado de datos contenidos o destinados a ser incluidos en un fichero"
+      },
+      "correct": "d",
+      "explicacion": "Lo dispuesto en los Títulos I a IX y en los artículos 89 a 94 de la LOPD se aplica a cualquier tratamiento total o parcialmente automatizado de datos personales, así como al tratamiento no automatizado de datos personales contenidos o destinados a ser incluidos en un fichero.",
+      "ley": "Artículo 2.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La LOPD no será de aplicación, entre otros supuestos:",
+      "options": {
+        "a": "A los tratamientos realizados por las Administraciones Públicas en el ejercicio de sus competencias",
+        "b": "A los tratamientos automatizados que impliquen elaboración de perfiles",
+        "c": "A los tratamientos de datos relativos a menores de edad, que se rigen por normativa específica distinta",
+        "d": "A los tratamientos de datos de personas fallecidas, sin perjuicio de lo establecido en el artículo 3, y a los tratamientos sometidos a la normativa sobre materias clasificadas"
+      },
+      "correct": "d",
+      "explicacion": "La LOPD no será de aplicación a los tratamientos excluidos del ámbito del RGPD por su artículo 2.2, a los tratamientos de datos de personas fallecidas (sin perjuicio de lo establecido en el artículo 3), y a los tratamientos sometidos a la normativa sobre protección de materias clasificadas.",
+      "ley": "Artículo 2.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El tratamiento de datos llevado a cabo con ocasión de la tramitación por los órganos judiciales de los procesos de los que sean competentes se regirá por:",
+      "options": {
+        "a": "El Consejo General del Poder Judicial mediante reglamento propio independiente de la normativa de protección de datos",
+        "b": "La normativa específica de cada orden jurisdiccional, sin posibilidad de aplicación supletoria de la LOPD",
+        "c": "Lo dispuesto en el Reglamento (UE) 2016/679 y la LOPD, sin perjuicio de las disposiciones de la Ley Orgánica del Poder Judicial que le sean aplicables",
+        "d": "Exclusivamente la Ley Orgánica del Poder Judicial, sin aplicación del Reglamento (UE) 2016/679"
+      },
+      "correct": "c",
+      "explicacion": "El tratamiento de datos llevado a cabo con ocasión de la tramitación por los órganos judiciales de los procesos de los que sean competentes, así como el realizado dentro de la gestión de la Oficina Judicial, se regirán por lo dispuesto en el Reglamento (UE) 2016/679 y la LOPD, sin perjuicio de las disposiciones de la Ley Orgánica del Poder Judicial que le sean aplicables.",
+      "ley": "Artículo 2.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las personas vinculadas al fallecido por razones familiares o de hecho, así como sus herederos, podrán dirigirse al responsable o encargado del tratamiento para solicitar:",
+      "options": {
+        "a": "El acceso a los datos personales de aquella y, en su caso, su rectificación o supresión",
+        "b": "Solo el acceso a los datos de carácter patrimonial, nunca a otros tipos de datos",
+        "c": "Únicamente la cancelación total e inmediata de todos los datos del fallecido",
+        "d": "La indemnización por los daños morales derivados del tratamiento de los datos"
+      },
+      "correct": "a",
+      "explicacion": "Las personas vinculadas al fallecido por razones familiares o de hecho así como sus herederos podrán dirigirse al responsable o encargado del tratamiento al objeto de solicitar el acceso a los datos personales de aquella y, en su caso, su rectificación o supresión.",
+      "ley": "Artículo 3.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Las personas vinculadas al fallecido no podrán acceder a sus datos ni solicitar su rectificación o supresión cuando:",
+      "options": {
+        "a": "La persona fallecida lo hubiese prohibido expresamente o así lo establezca una ley, sin que dicha prohibición afecte al derecho de los herederos a acceder a los datos de carácter patrimonial",
+        "b": "Hayan transcurrido más de dos años desde el fallecimiento",
+        "c": "El fallecido no hubiera otorgado testamento expreso sobre sus datos personales",
+        "d": "El responsable del tratamiento lo considere inconveniente por motivos de protección de su reputación"
+      },
+      "correct": "a",
+      "explicacion": "Como excepción, las personas vinculadas al fallecido no podrán acceder a los datos del causante ni solicitar su rectificación o supresión cuando la persona fallecida lo hubiese prohibido expresamente o así lo establezca una ley. Dicha prohibición no afectará al derecho de los herederos a acceder a los datos de carácter patrimonial del causante.",
+      "ley": "Artículo 3.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Las personas o instituciones que el fallecido hubiese designado expresamente podrán solicitar el acceso a sus datos personales:",
+      "options": {
+        "a": "Sin ninguna limitación ni requisito de acreditación, bastando su mera afirmación de haber sido designados",
+        "b": "Con arreglo a las instrucciones recibidas, estableciéndose mediante real decreto los requisitos para acreditar la validez y vigencia de estos mandatos e instrucciones",
+        "c": "Solo si dichas personas son familiares directos del fallecido en primer grado",
+        "d": "Únicamente mediante autorización judicial previa, sin posibilidad de actuación directa"
+      },
+      "correct": "b",
+      "explicacion": "Las personas o instituciones a las que el fallecido hubiese designado expresamente para ello podrán también solicitar, con arreglo a las instrucciones recibidas, el acceso a los datos personales de este y, en su caso, su rectificación o supresión. Mediante real decreto se establecerán los requisitos y condiciones para acreditar la validez y vigencia de estos mandatos e instrucciones.",
+      "ley": "Artículo 3.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En caso de fallecimiento de menores, las facultades de acceso a sus datos personales podrán ejercerse también por:",
+      "options": {
+        "a": "Cualquier ciudadano que acredite interés legítimo, sin necesidad de relación familiar o representación legal",
+        "b": "Sus representantes legales o, en el marco de sus competencias, por el Ministerio Fiscal, que podrá actuar de oficio o a instancia de cualquier persona física o jurídica interesada",
+        "c": "Solo por el Ministerio Fiscal, excluyendo a los representantes legales del menor fallecido",
+        "d": "Exclusivamente por sus representantes legales, sin intervención del Ministerio Fiscal en ningún caso"
+      },
+      "correct": "b",
+      "explicacion": "En caso de fallecimiento de menores, las facultades de acceso, rectificación o supresión de sus datos podrán ejercerse también por sus representantes legales o, en el marco de sus competencias, por el Ministerio Fiscal, que podrá actuar de oficio o a instancia de cualquier persona física o jurídica interesada.",
+      "ley": "Artículo 3.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. En caso de fallecimiento de personas con discapacidad, las facultades sobre sus datos personales también podrán ejercerse por:",
+      "options": {
+        "a": "Quienes hubiesen sido designados para el ejercicio de funciones de apoyo, si tales facultades se entendieran comprendidas en las medidas de apoyo prestadas por el designado",
+        "b": "Únicamente sus tutores legales previamente nombrados por resolución judicial",
+        "c": "El Defensor del Pueblo en todo caso, como garante de los derechos de las personas vulnerables",
+        "d": "Cualquier asociación de personas con discapacidad, con independencia de su vinculación con el fallecido"
+      },
+      "correct": "a",
+      "explicacion": "En caso de fallecimiento de personas con discapacidad, estas facultades también podrán ejercerse, además de por quienes señala el párrafo anterior, por quienes hubiesen sido designados para el ejercicio de funciones de apoyo, si tales facultades se entendieran comprendidas en las medidas de apoyo prestadas por el designado.",
+      "ley": "Artículo 3.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Los tratamientos a los que no sea directamente aplicable el Reglamento (UE) 2016/679 por afectar a actividades no comprendidas en el ámbito del Derecho de la Unión Europea, se regirán por:",
+      "options": {
+        "a": "Directamente por el Reglamento (UE) 2016/679, sin posibilidad de legislación específica diferenciada",
+        "b": "Por las disposiciones del Consejo de Estado, en defecto de cualquier otra norma aplicable",
+        "c": "Exclusivamente por la legislación específica, sin posibilidad de aplicación supletoria del reglamento europeo",
+        "d": "Su legislación específica si la hubiere y, supletoriamente, por lo establecido en el citado reglamento y en la LOPD"
+      },
+      "correct": "d",
+      "explicacion": "Los tratamientos a los que no sea directamente aplicable el Reglamento (UE) 2016/679 por afectar a actividades no comprendidas en el ámbito de aplicación del Derecho de la Unión Europea se regirán por lo dispuesto en su legislación específica si la hubiere y supletoriamente por lo establecido en el citado reglamento y en la LOPD. Se encuentran en esta situación, entre otros, los tratamientos del régimen electoral general, instituciones penitenciarias y los del Registro Civil y Registros de la Propiedad y Mercantiles.",
+      "ley": "Artículo 2.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El tratamiento de datos llevado a cabo con ocasión de la tramitación por el Ministerio Fiscal de los procesos de los que sea competente se regirá por:",
+      "options": {
+        "a": "Únicamente el Estatuto Orgánico del Ministerio Fiscal, con exclusión de cualquier otra normativa",
+        "b": "El Reglamento (UE) 2016/679 y la LOPD, sin perjuicio de las disposiciones del Estatuto Orgánico del Ministerio Fiscal, la Ley Orgánica del Poder Judicial y las normas procesales aplicables",
+        "c": "Las normas internas de organización de la Fiscalía General del Estado, sin sujeción al RGPD",
+        "d": "Exclusivamente las normas procesales penales, excluyendo el régimen del Reglamento (UE) 2016/679"
+      },
+      "correct": "b",
+      "explicacion": "El tratamiento de datos llevado a cabo con ocasión de la tramitación por el Ministerio Fiscal de los procesos de los que sea competente, así como el realizado dentro de la gestión de la Oficina Fiscal, se regirán por lo dispuesto en el Reglamento (UE) 2016/679 y la LOPD, sin perjuicio de las disposiciones de la Ley reguladora del Estatuto Orgánico del Ministerio Fiscal, la Ley Orgánica del Poder Judicial y de las normas procesales que le sean aplicables.",
+      "ley": "Artículo 2.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El derecho fundamental de las personas físicas a la protección de datos personales está amparado por:",
+      "options": {
+        "a": "El artículo 18.4 de la Constitución, ejerciéndose con arreglo a lo establecido en el Reglamento (UE) 2016/679 y en la LOPD",
+        "b": "El artículo 20 de la Constitución, relativo a la libertad de expresión e información",
+        "c": "Únicamente el Reglamento (UE) 2016/679, sin fundamento constitucional específico en España",
+        "d": "El artículo 24 de la Constitución, relativo a la tutela judicial efectiva"
+      },
+      "correct": "a",
+      "explicacion": "El derecho fundamental de las personas físicas a la protección de datos personales está amparado por el artículo 18.4 de la Constitución, y se ejercerá con arreglo a lo establecido en el Reglamento (UE) 2016/679 y en la LOPD.",
+      "ley": "Artículo 1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Entre los tratamientos que se rigen por su legislación específica y supletoriamente por el Reglamento (UE) 2016/679 y la LOPD se encuentran, entre otros:",
+      "options": {
+        "a": "Los tratamientos realizados por entidades bancarias para la concesión de préstamos hipotecarios",
+        "b": "Los realizados al amparo de la legislación orgánica del régimen electoral general, los realizados en instituciones penitenciarias, y los derivados del Registro Civil, de la Propiedad y Mercantiles",
+        "c": "Los tratamientos de datos de salud realizados por centros sanitarios privados",
+        "d": "Los tratamientos realizados por las empresas de telecomunicaciones para la facturación de sus clientes"
+      },
+      "correct": "b",
+      "explicacion": "Se encuentran en la situación de tratamientos regidos por legislación específica con aplicación supletoria del Reglamento (UE) 2016/679 y la LOPD, entre otros: los tratamientos al amparo de la legislación orgánica del régimen electoral general, los realizados en el ámbito de instituciones penitenciarias, y los derivados del Registro Civil, los Registros de la Propiedad y Mercantiles.",
+      "ley": "Artículo 2.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La LOPD, además de adaptar el ordenamiento español al RGPD, tiene también por objeto:",
+      "options": {
+        "a": "Establecer el régimen jurídico aplicable a los contratos electrónicos de comercio",
+        "b": "Sustituir a la Agencia Española de Protección de Datos por un nuevo organismo regulador",
+        "c": "Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 18.4 de la Constitución",
+        "d": "Regular el régimen sancionador del Código Penal en materia de delitos informáticos"
+      },
+      "correct": "c",
+      "explicacion": "La LOPD tiene por objeto, entre otros aspectos, garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 18.4 de la Constitución, además de adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 y completar sus disposiciones.",
+      "ley": "Artículo 1.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando se ejerzan las facultades sobre los datos de una persona fallecida por sus herederos, dichas facultades comprenden, entre otras, la posibilidad de solicitar:",
+      "options": {
+        "a": "El acceso a los datos personales del fallecido y, en su caso, su rectificación o supresión",
+        "b": "La modificación de la voluntad testamentaria del fallecido en relación con sus datos digitales",
+        "c": "Exclusivamente una indemnización económica por el tratamiento de los datos del fallecido",
+        "d": "Solo la destrucción inmediata de todos los datos sin posibilidad de acceso previo"
+      },
+      "correct": "a",
+      "explicacion": "Las personas vinculadas al fallecido por razones familiares o de hecho, así como sus herederos, podrán dirigirse al responsable o encargado del tratamiento al objeto de solicitar el acceso a los datos personales de aquella y, en su caso, su rectificación o supresión.",
+      "ley": "Artículo 3.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Señale cuál de las siguientes afirmaciones sobre el ámbito de aplicación de la LOPD NO es correcta:",
+      "options": {
+        "a": "La LOPD se aplica a cualquier tratamiento total o parcialmente automatizado de datos personales",
+        "b": "La LOPD se aplica al tratamiento no automatizado de datos personales contenidos en un fichero",
+        "c": "La LOPD se aplica plenamente a los tratamientos de datos de personas fallecidas, en idénticas condiciones que a los de personas vivas",
+        "d": "La LOPD no se aplica a los tratamientos sometidos a la normativa sobre protección de materias clasificadas"
+      },
+      "correct": "c",
+      "explicacion": "La LOPD no es de aplicación a los tratamientos de datos de personas fallecidas, sin perjuicio de lo establecido en el artículo 3, que regula un régimen específico y distinto para el acceso, rectificación o supresión de datos de personas fallecidas por parte de sus familiares, herederos o personas designadas.",
+      "ley": "Artículo 2.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La gestión de la Oficina Judicial, en cuanto al tratamiento de datos personales realizado en ella, se regirá por:",
+      "options": {
+        "a": "Las normas generales de procedimiento administrativo común, en lugar del RGPD",
+        "b": "Las disposiciones específicas del Consejo General del Poder Judicial, con exclusión absoluta del RGPD",
+        "c": "El Reglamento (UE) 2016/679 y la LOPD, sin perjuicio de las disposiciones de la Ley Orgánica del Poder Judicial que le sean aplicables",
+        "d": "Exclusivamente la normativa interna de cada órgano judicial, sin sujeción a normativa estatal de protección de datos"
+      },
+      "correct": "c",
+      "explicacion": "El tratamiento de datos llevado a cabo con ocasión de la tramitación por los órganos judiciales de los procesos de los que sean competentes, así como el realizado dentro de la gestión de la Oficina Judicial, se regirán por lo dispuesto en el Reglamento (UE) 2016/679 y la LOPD, sin perjuicio de las disposiciones de la Ley Orgánica del Poder Judicial que le sean aplicables.",
+      "ley": "Artículo 2.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Las facultades de acceso, rectificación o supresión de datos de un menor fallecido pueden ser ejercidas por el Ministerio Fiscal:",
+      "options": {
+        "a": "Únicamente a instancia de los representantes legales del menor fallecido, nunca de oficio",
+        "b": "Solo cuando el menor fallecido careciera absolutamente de representantes legales conocidos",
+        "c": "Solo de oficio, sin posibilidad de actuación a instancia de parte interesada",
+        "d": "De oficio o a instancia de cualquier persona física o jurídica interesada, en el marco de sus competencias"
+      },
+      "correct": "d",
+      "explicacion": "En caso de fallecimiento de menores, las facultades sobre sus datos podrán ejercerse también por sus representantes legales o, en el marco de sus competencias, por el Ministerio Fiscal, que podrá actuar de oficio o a instancia de cualquier persona física o jurídica interesada.",
+      "ley": "Artículo 3.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El instrumento normativo mediante el cual se establecerán los requisitos para acreditar la validez de los mandatos e instrucciones del fallecido designando a personas para acceder a sus datos será:",
+      "options": {
+        "a": "Una ley orgánica específica de desarrollo",
+        "b": "Un real decreto",
+        "c": "Una orden ministerial del Ministerio de Justicia",
+        "d": "Una circular de la Agencia Española de Protección de Datos"
+      },
+      "correct": "b",
+      "explicacion": "Mediante real decreto se establecerán los requisitos y condiciones para acreditar la validez y vigencia de los mandatos e instrucciones que el fallecido hubiese dado a las personas o instituciones designadas expresamente para acceder a sus datos personales, y en su caso, el registro de los mismos.",
+      "ley": "Artículo 3.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los tratamientos excluidos del ámbito de aplicación del Reglamento general de protección de datos por su artículo 2.2:",
+      "options": {
+        "a": "Quedan sujetos en todo caso a la LOPD con carácter pleno y sin excepciones",
+        "b": "Solo afectan a los tratamientos realizados en el extranjero por entidades españolas",
+        "c": "Se rigen exclusivamente por el derecho privado, sin posibilidad de aplicación supletoria de norma alguna",
+        "d": "No serán de aplicación a la LOPD, sin perjuicio de lo dispuesto en los apartados 3 y 4 del artículo 2 de la propia ley orgánica"
+      },
+      "correct": "d",
+      "explicacion": "La LOPD no será de aplicación a los tratamientos excluidos del ámbito de aplicación del Reglamento general de protección de datos por su artículo 2.2, sin perjuicio de lo dispuesto en los apartados 3 y 4 del artículo 2 de la propia ley orgánica, que prevén regímenes específicos para determinados supuestos.",
+      "ley": "Artículo 2.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

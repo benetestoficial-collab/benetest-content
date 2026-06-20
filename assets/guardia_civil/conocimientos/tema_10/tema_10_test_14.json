@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 14",
+  "preguntas": [
+    {
+      "id": "tema_10_test_14_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La sede electrónica es aquella dirección electrónica cuya titularidad:",
+      "options": {
+        "a": "Puede corresponder a empresas privadas que presten servicios en nombre de la Administración",
+        "b": "Corresponde a una Administración Pública, o a uno o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias, disponible para los ciudadanos a través de redes de telecomunicaciones",
+        "c": "Corresponde al Ministerio de la Presidencia para el conjunto de la Administración del Estado",
+        "d": "Solo puede corresponder a la Administración General del Estado, no a otras Administraciones"
+      },
+      "correct": "b",
+      "explicacion": "La sede electrónica es aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.",
+      "ley": "Artículo 38.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El establecimiento de una sede electrónica conlleva para su titular la responsabilidad respecto de:",
+      "options": {
+        "a": "Únicamente la disponibilidad del servicio, no su veracidad o actualización",
+        "b": "La integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma",
+        "c": "Solo la integridad técnica de la sede, sin responsabilidad sobre el contenido de la información",
+        "d": "La tramitación de todos los procedimientos accesibles a través de la sede, sin excepción"
+      },
+      "correct": "b",
+      "explicacion": "El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma.",
+      "ley": "Artículo 38.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Se entiende por actuación administrativa automatizada:",
+      "options": {
+        "a": "Únicamente las resoluciones finales dictadas mediante sistemas automatizados",
+        "b": "Cualquier actuación de la Administración que utilice medios electrónicos, aunque intervenga personal",
+        "c": "Solo los actos de trámite realizados mediante algoritmos de inteligencia artificial",
+        "d": "Cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público"
+      },
+      "correct": "d",
+      "explicacion": "Se entiende por actuación administrativa automatizada cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público.",
+      "ley": "Artículo 41.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En caso de actuación administrativa automatizada deberá establecerse previamente:",
+      "options": {
+        "a": "El personal técnico que operará el sistema, sin necesidad de designar órgano responsable",
+        "b": "La autorización expresa del Consejo de Ministros para cada tipo de actuación automatizada",
+        "c": "El órgano u órganos competentes para la definición de especificaciones, programación, mantenimiento, supervisión y control de calidad del sistema de información, y el órgano responsable a efectos de impugnación",
+        "d": "Solo el responsable final del sistema, sin necesidad de especificar el órgano de impugnación"
+      },
+      "correct": "c",
+      "explicacion": "En caso de actuación administrativa automatizada deberá establecerse previamente el órgano u órganos competentes para la definición de las especificaciones, programación, mantenimiento, supervisión y control de calidad y, en su caso, auditoría del sistema de información y de su código fuente. Asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación.",
+      "ley": "Artículo 41.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los sistemas de firma electrónica que puede utilizar cada Administración Pública para la actuación administrativa automatizada son:",
+      "options": {
+        "a": "El sello electrónico basado en certificado electrónico reconocido o cualificado, y el código seguro de verificación vinculado a la Administración u órgano correspondiente",
+        "b": "Únicamente la firma manuscrita digitalizada con medios técnicos de seguridad",
+        "c": "Solo la firma electrónica personal del titular del órgano competente",
+        "d": "El certificado de la Fábrica Nacional de Moneda y Timbre como único sistema válido"
+      },
+      "correct": "a",
+      "explicacion": "En el ejercicio de la competencia en la actuación administrativa automatizada, cada Administración Pública podrá determinar los supuestos de utilización de: sello electrónico de Administración Pública, órgano, organismo público o entidad de Derecho Público, basado en certificado electrónico reconocido o cualificado; y código seguro de verificación vinculado a la Administración u órgano, que permita en todo caso la comprobación de la integridad del documento.",
+      "ley": "Artículo 42 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los documentos electrónicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberán:",
+      "options": {
+        "a": "Conservarse en soportes electrónicos, ya sea en el formato originario o en otro que asegure la identidad e integridad de la información necesaria para reproducirlo",
+        "b": "Ser validados anualmente por el órgano que los emitió para mantener su vigencia",
+        "c": "Conservarse durante solo cinco años, transcurridos los cuales pueden destruirse",
+        "d": "Imprimirse y conservarse solo en soporte papel, como garantía de autenticidad"
+      },
+      "correct": "a",
+      "explicacion": "Los documentos electrónicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberán conservarse en soportes electrónicos, ya sea en el mismo formato a partir del que se originó el documento o en otro cualquiera que asegure la identidad e integridad de la información necesaria para reproducirlo.",
+      "ley": "Artículo 46.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Son convenios los acuerdos con efectos jurídicos adoptados:",
+      "options": {
+        "a": "Únicamente por el Estado central y las Comunidades Autónomas para la coordinación de competencias",
+        "b": "Exclusivamente entre organismos públicos de la Administración General del Estado",
+        "c": "Solo entre distintas Administraciones Públicas, sin posibilidad de incluir entidades privadas",
+        "d": "Por las Administraciones Públicas, organismos públicos y entidades de derecho público o Universidades públicas entre sí o con sujetos de derecho privado para un fin común"
+      },
+      "correct": "d",
+      "explicacion": "Son convenios los acuerdos con efectos jurídicos adoptados por las Administraciones Públicas, los organismos públicos y entidades de derecho público vinculados o dependientes o las Universidades públicas entre sí o con sujetos de derecho privado para un fin común. Los protocolos generales de actuación o meras declaraciones de intención sin compromisos jurídicos concretos no son convenios.",
+      "ley": "Artículo 47.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los convenios suscritos por la Administración General del Estado o sus organismos dependientes resultarán eficaces:",
+      "options": {
+        "a": "Una vez aprobados por el Consejo de Ministros, con independencia de su publicación",
+        "b": "Una vez inscritos en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación en el plazo de cinco días hábiles desde su formalización, y publicados en el BOE en el plazo de diez días hábiles",
+        "c": "Desde el momento de su firma por todos los intervinientes, sin necesidad de inscripción ni publicación",
+        "d": "Solo tras su publicación en el BOE, sin necesidad de inscripción previa en el Registro"
+      },
+      "correct": "b",
+      "explicacion": "Los convenios suscritos por la Administración General del Estado o sus organismos vinculados o dependientes resultarán eficaces una vez inscritos, en el plazo de cinco días hábiles desde su formalización, en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación del sector público estatal. Asimismo, serán publicados en el BOE en el plazo de diez días hábiles desde su formalización.",
+      "ley": "Artículo 48.8 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los convenios se perfeccionan:",
+      "options": {
+        "a": "Solo por la aprobación del Consejo de Ministros",
+        "b": "Con la inscripción en el Registro de Convenios del Ministerio de Hacienda",
+        "c": "Por la prestación del consentimiento de las partes",
+        "d": "Únicamente con la publicación en el Boletín Oficial correspondiente"
+      },
+      "correct": "c",
+      "explicacion": "Los convenios se perfeccionan por la prestación del consentimiento de las partes. La eficacia de los convenios suscritos por la AGE requiere además la inscripción en el Registro Electrónico estatal y la publicación en el BOE en los plazos establecidos.",
+      "ley": "Artículo 48.8 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Para la suscripción de convenios de la Administración General del Estado se requiere, entre otros trámites preceptivos:",
+      "options": {
+        "a": "Solo la autorización del Consejo de Ministros en todos los casos",
+        "b": "Únicamente el informe del Consejo de Estado, sin necesidad de informe jurídico previo",
+        "c": "Informe del servicio jurídico en un plazo máximo de siete días hábiles, la autorización previa del Ministerio de Hacienda y Función Pública, y memoria justificativa de necesidad y oportunidad",
+        "d": "Solo la publicación en el BOE antes de la firma, sin ningún trámite administrativo previo"
+      },
+      "correct": "c",
+      "explicacion": "Los convenios de la AGE y sus organismos se acompañarán de: memoria justificativa de necesidad, oportunidad e impacto económico; informe del servicio jurídico en plazo de siete días hábiles; cualquier otro informe preceptivo en siete días hábiles; y autorización previa del Ministerio de Hacienda y Función Pública en siete días hábiles. Todos deben emitirse antes de perfeccionarse el convenio.",
+      "ley": "Artículo 50 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Son causas de resolución de los convenios, entre otras:",
+      "options": {
+        "a": "Únicamente el incumplimiento de obligaciones, no pudiendo resolverse de mutuo acuerdo",
+        "b": "Solo el transcurso del plazo de vigencia, sin otras causas posibles",
+        "c": "Solo la declaración de nulidad por resolución administrativa, no judicial",
+        "d": "El transcurso del plazo de vigencia sin prórroga acordada, el acuerdo unánime de todos los firmantes, el incumplimiento de obligaciones por algún firmante, y la decisión judicial de nulidad"
+      },
+      "correct": "d",
+      "explicacion": "Son causas de resolución de los convenios: el transcurso del plazo de vigencia sin prórroga acordada; el acuerdo unánime de todos los firmantes; el incumplimiento de las obligaciones y compromisos asumidos por alguno de los firmantes; la decisión judicial declaratoria de la nulidad del convenio; y cualquier otra causa prevista en el convenio o en otras leyes.",
+      "ley": "Artículo 51.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los convenios cuyos compromisos económicos superen los 600.000 euros deberán remitirse al Tribunal de Cuentas u órgano externo de fiscalización autonómica en el plazo de:",
+      "options": {
+        "a": "Seis meses, sin distinción del tipo de convenio",
+        "b": "Un mes siguiente a la firma",
+        "c": "Tres meses siguientes a su suscripción",
+        "d": "Quince días hábiles desde la publicación en el BOE"
+      },
+      "correct": "c",
+      "explicacion": "Dentro de los tres meses siguientes a la suscripción de cualquier convenio cuyos compromisos económicos asumidos superen los 600.000 euros, estos deberán remitirse electrónicamente al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma según corresponda.",
+      "ley": "Artículo 53.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los sistemas de información para el registro de datos del censo electoral, padrones municipales, datos fiscales y datos de usuarios del sistema nacional de salud:",
+      "options": {
+        "a": "Deberán ubicarse y prestarse dentro del territorio de la Unión Europea, no pudiendo transferirse a terceros países salvo decisión de adecuación de la Comisión Europea o exigencia de obligaciones internacionales",
+        "b": "Pueden ubicarse en cualquier país del mundo, sin restricción de localización",
+        "c": "Solo deben ubicarse en territorio español, no siendo suficiente otro territorio de la UE",
+        "d": "Pueden ubicarse fuera de la UE si el país de destino tiene legislación equivalente en materia de protección de datos"
+      },
+      "correct": "a",
+      "explicacion": "Los sistemas de información para la recogida, almacenamiento y gestión del censo electoral, padrones municipales, datos fiscales y datos del sistema nacional de salud deberán ubicarse y prestarse dentro del territorio de la Unión Europea. Estos datos no pueden ser objeto de transferencia a un tercer país u organización internacional, salvo decisión de adecuación de la Comisión Europea o exigencia de obligaciones internacionales.",
+      "ley": "Artículo 46 bis de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los Protocolos Generales de Actuación o instrumentos similares que comporten meras declaraciones de intención sin compromisos jurídicos concretos:",
+      "options": {
+        "a": "Son convenios solo si se publican en el Boletín Oficial correspondiente",
+        "b": "Tienen la misma naturaleza jurídica que los convenios pero se regirán por normativa específica",
+        "c": "No tienen la consideración de convenios",
+        "d": "Son convenios de carácter programático sujetos al régimen general de los convenios"
+      },
+      "correct": "c",
+      "explicacion": "No tienen la consideración de convenios los Protocolos Generales de Actuación o instrumentos similares que comporten meras declaraciones de intención de contenido general o que expresen la voluntad de las Administraciones y partes suscriptoras para actuar con un objetivo común, siempre que no supongan la formalización de compromisos jurídicos concretos y exigibles.",
+      "ley": "Artículo 47.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La suscripción de convenios deberá, entre otros objetivos:",
+      "options": {
+        "a": "Mejorar la eficiencia de la gestión pública, facilitar la utilización conjunta de medios y servicios públicos, contribuir a la realización de actividades de utilidad pública, y cumplir con la legislación de estabilidad presupuestaria y sostenibilidad financiera",
+        "b": "Solo cumplir con la legislación presupuestaria, sin objetivos de eficiencia ni utilidad pública",
+        "c": "Únicamente facilitar la coordinación entre Administraciones, sin compromisos económicos",
+        "d": "Garantizar que todos los firmantes obtengan beneficios económicos equivalentes"
+      },
+      "correct": "a",
+      "explicacion": "La suscripción de convenios deberá mejorar la eficiencia de la gestión pública, facilitar la utilización conjunta de medios y servicios públicos, contribuir a la realización de actividades de utilidad pública, y cumplir con la legislación de estabilidad presupuestaria y sostenibilidad financiera.",
+      "ley": "Artículo 48.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las sedes electrónicas de las Administraciones Públicas se crearán con sujeción a los principios de:",
+      "options": {
+        "a": "Exclusivamente los principios de accesibilidad y neutralidad tecnológica",
+        "b": "Solo legalidad y seguridad, como requisitos mínimos imprescindibles",
+        "c": "Eficiencia económica y reducción de costes como únicos criterios relevantes",
+        "d": "Transparencia, publicidad, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad"
+      },
+      "correct": "d",
+      "explicacion": "Cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de transparencia, publicidad, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad. En todo caso deberá garantizarse la identificación del órgano titular de la sede y los medios disponibles para sugerencias y quejas.",
+      "ley": "Artículo 38.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En el caso de incumplimiento de un convenio por algún firmante, para que se entienda resuelto el convenio debe producirse:",
+      "options": {
+        "a": "Resolución judicial declarando el incumplimiento, sin necesidad de trámite previo",
+        "b": "Requerimiento a la parte incumplidora con plazo para cumplir, comunicación al responsable de seguimiento y demás firmantes; si persiste el incumplimiento, notificación a los firmantes de la concurrencia de la causa de resolución",
+        "c": "Acuerdo de las demás partes sin necesidad de requerimiento previo",
+        "d": "Solo la notificación a la parte incumplidora, sin más trámites"
+      },
+      "correct": "b",
+      "explicacion": "Ante el incumplimiento, cualquiera de las partes puede notificar a la parte incumplidora un requerimiento para que cumpla en un determinado plazo, comunicándolo al responsable del mecanismo de seguimiento y demás firmantes. Si transcurrido el plazo persistiera el incumplimiento, la parte que dirigió el requerimiento notificará a los firmantes la concurrencia de la causa de resolución y se entenderá resuelto el convenio.",
+      "ley": "Artículo 51.2.c) de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los convenios no podrán tener por objeto:",
+      "options": {
+        "a": "Prestaciones propias de los contratos del sector público, incluso cuando ambas partes sean Administraciones Públicas",
+        "b": "Prestaciones propias de los contratos del sector público; en tal caso, su naturaleza y régimen se ajustará a la legislación de contratos del sector público",
+        "c": "Cualquier materia de interés común entre Administraciones, sin restricciones",
+        "d": "Actividades de fomento o subvención, que son incompatibles con la forma convencional"
+      },
+      "correct": "b",
+      "explicacion": "Los convenios no podrán tener por objeto prestaciones propias de los contratos. En tal caso, la naturaleza y régimen jurídico se ajustará a lo previsto en la legislación de contratos del sector público.",
+      "ley": "Artículo 47.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las aportaciones financieras que los firmantes de un convenio se comprometan a realizar:",
+      "options": {
+        "a": "No tienen límite máximo, pudiendo acordarse libremente entre las partes",
+        "b": "Deben ser iguales para todos los firmantes como garantía de equidad",
+        "c": "Solo pueden comprometerse aportaciones para el primer año de vigencia del convenio",
+        "d": "No podrán ser superiores a los gastos derivados de la ejecución del convenio"
+      },
+      "correct": "d",
+      "explicacion": "Las aportaciones financieras que se comprometan a realizar los firmantes de un convenio no podrán ser superiores a los gastos derivados de la ejecución del convenio. Además, los convenios que incluyan compromisos financieros deberán ser financieramente sostenibles y los firmantes deben tener capacidad para financiarlos durante la vigencia del convenio.",
+      "ley": "Artículo 48.6 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_14_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En el ámbito de la Administración General del Estado, podrán celebrar convenios en nombre de su Administración:",
+      "options": {
+        "a": "Los titulares de los Departamentos Ministeriales y los Presidentes o Directores de los organismos públicos y entidades de derecho público vinculados o dependientes",
+        "b": "Solo el Presidente del Gobierno o la persona en quien delegue expresamente",
+        "c": "Únicamente el Consejo de Ministros de forma colegiada, sin posibilidad de delegación",
+        "d": "Cualquier órgano directivo del Ministerio competente en la materia objeto del convenio"
+      },
+      "correct": "a",
+      "explicacion": "En el ámbito de la Administración General del Estado y sus organismos públicos y entidades de derecho público vinculados o dependientes, podrán celebrar convenios los titulares de los Departamentos Ministeriales y los Presidentes o Directores de las dichas entidades y organismos públicos.",
+      "ley": "Artículo 48.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    }
+  ]
+}

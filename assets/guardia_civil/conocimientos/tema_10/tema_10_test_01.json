@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_10_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 10. Derecho Administrativo. La Ley 39/2015, del Procedimiento Administrativo Común, tiene por objeto regular, entre otros aspectos:",
+      "options": {
+        "a": "Exclusivamente la organización interna de la Administración General del Estado",
+        "b": "Solo el procedimiento sancionador, sin referencia a los demás procedimientos",
+        "c": "Los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común a todas las Administraciones Públicas",
+        "d": "El régimen jurídico de los contratos del sector público"
+      },
+      "correct": "c",
+      "explicacion": "La Ley 39/2015 tiene por objeto regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad patrimonial, así como los principios a los que se ajusta la iniciativa legislativa y la potestad reglamentaria.",
+      "ley": "Artículo 1.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La Ley 39/2015 se aplica al sector público, que comprende, entre otros elementos:",
+      "options": {
+        "a": "Exclusivamente las Entidades Locales con más de cincuenta mil habitantes",
+        "b": "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades Locales y el sector público institucional",
+        "c": "Únicamente la Administración General del Estado y las Comunidades Autónomas",
+        "d": "Solo los organismos autónomos de carácter estatal"
+      },
+      "correct": "b",
+      "explicacion": "La Ley 39/2015 se aplica al sector público, que comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional.",
+      "ley": "Artículo 2.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El sector público institucional se integra, entre otros, por:",
+      "options": {
+        "a": "Únicamente los organismos autónomos estatales de carácter comercial",
+        "b": "Solo las sociedades mercantiles con participación mayoritaria del Estado",
+        "c": "Exclusivamente las fundaciones del sector público con sede en Madrid",
+        "d": "Organismos públicos vinculados o dependientes de las Administraciones Públicas, entidades de derecho privado vinculadas cuando ejerzan potestades administrativas, y las Universidades públicas"
+      },
+      "correct": "d",
+      "explicacion": "El sector público institucional se integra por: los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas; las entidades de derecho privado vinculadas o dependientes, que quedan sujetas a la ley cuando ejerzan potestades administrativas; y las Universidades públicas, regidas por su normativa específica y supletoriamente por esta ley.",
+      "ley": "Artículo 2.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Tienen la consideración de Administraciones Públicas, conforme al artículo 2, entre otros:",
+      "options": {
+        "a": "Las Corporaciones de Derecho Público en todos sus ámbitos de actuación",
+        "b": "Las entidades de derecho privado vinculadas a las Administraciones en todos los casos, sin excepción",
+        "c": "Las Universidades privadas reconocidas por el Estado",
+        "d": "Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas"
+      },
+      "correct": "d",
+      "explicacion": "Tienen la consideración de Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local, y los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.",
+      "ley": "Artículo 2.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Tendrán capacidad de obrar ante las Administraciones Públicas, entre otros:",
+      "options": {
+        "a": "Solo las personas jurídicas con un capital social superior a tres millones de euros",
+        "b": "Los menores de edad para el ejercicio y defensa de los derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin asistencia de tutor o responsable",
+        "c": "Exclusivamente los ciudadanos con nacionalidad española",
+        "d": "Únicamente las personas físicas mayores de edad con plena capacidad civil"
+      },
+      "correct": "b",
+      "explicacion": "Tienen capacidad de obrar ante las Administraciones Públicas las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles, los menores de edad para el ejercicio de sus derechos cuando el ordenamiento lo permita sin asistencia, y cuando la ley lo declare expresamente, los grupos de afectados, uniones sin personalidad jurídica y patrimonios independientes.",
+      "ley": "Artículo 3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Se consideran interesados en el procedimiento administrativo, entre otros:",
+      "options": {
+        "a": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+        "b": "Solo las personas que hayan sufrido un daño económico cuantificable",
+        "c": "Únicamente quienes hayan iniciado el procedimiento mediante solicitud formal",
+        "d": "Exclusivamente los funcionarios públicos con competencia en la materia"
+      },
+      "correct": "a",
+      "explicacion": "Se consideran interesados quienes promuevan el procedimiento como titulares de derechos o intereses legítimos, quienes sin haberlo iniciado tengan derechos que puedan resultar afectados, y aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen antes de que esta recaiga.",
+      "ley": "Artículo 4.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Para formular solicitudes, interponer recursos o renunciar a derechos en nombre de otra persona en un procedimiento administrativo:",
+      "options": {
+        "a": "Se requiere siempre escritura pública notarial, sin posibilidad de otro medio",
+        "b": "No es necesaria ninguna acreditación si el representado lo consiente verbalmente",
+        "c": "Basta con la simple declaración oral del representante ante el órgano administrativo",
+        "d": "Deberá acreditarse la representación, presumiéndose esta únicamente para los actos y gestiones de mero trámite"
+      },
+      "correct": "d",
+      "explicacion": "Para formular solicitudes, presentar declaraciones responsables, interponer recursos, desistir o renunciar a derechos en nombre de otra persona, debe acreditarse la representación. Para los actos y gestiones de mero trámite se presume dicha representación.",
+      "ley": "Artículo 5.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La falta o insuficiente acreditación de la representación en un procedimiento administrativo:",
+      "options": {
+        "a": "No impedirá que se tenga por realizado el acto, siempre que se aporte o subsane dentro del plazo de diez días que deberá conceder el órgano administrativo",
+        "b": "Producirá la suspensión automática del procedimiento durante seis meses",
+        "c": "Conllevará la nulidad inmediata e insubsanable del acto realizado",
+        "d": "Determinará la inadmisión definitiva sin posibilidad de subsanación"
+      },
+      "correct": "a",
+      "explicacion": "La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+      "ley": "Artículo 5.6 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez determinada máxima de:",
+      "options": {
+        "a": "Diez años desde el otorgamiento, sin posibilidad de prórroga",
+        "b": "Dos años, improrrogables en todo caso",
+        "c": "Tres años, prorrogables por una única vez más",
+        "d": "Cinco años a contar desde la fecha de inscripción, pudiendo el poderdante revocar o prorrogar el poder antes de dicho plazo"
+      },
+      "correct": "d",
+      "explicacion": "Los poderes inscritos en el registro electrónico de apoderamientos tienen una validez determinada máxima de cinco años a contar desde la fecha de inscripción. En cualquier momento antes de la finalización del plazo, el poderdante podrá revocar o prorrogar el poder, teniendo las prórrogas también una validez máxima de cinco años desde la inscripción.",
+      "ley": "Artículo 6.6 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones se efectuarán con:",
+      "options": {
+        "a": "Todos ellos por igual, sin posibilidad de designar representante",
+        "b": "El representante o el interesado que expresamente hayan señalado, y en su defecto, con el que figure en primer término",
+        "c": "El interesado designado por sorteo público ante notario",
+        "d": "El interesado de mayor edad, en todo caso"
+      },
+      "correct": "b",
+      "explicacion": "Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado, y en su defecto, con el que figure en primer término.",
+      "ley": "Artículo 7 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas solo requerirán a los interesados el uso obligatorio de firma para:",
+      "options": {
+        "a": "Únicamente para interponer recursos en vía administrativa",
+        "b": "Cualquier consulta o información que soliciten, aunque sea no vinculante",
+        "c": "Formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos",
+        "d": "Solo para los trámites relacionados con tributos y sanciones"
+      },
+      "correct": "c",
+      "explicacion": "Las Administraciones Públicas solo requerirán el uso obligatorio de firma para: formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. Para el resto de actuaciones basta con acreditar la identidad.",
+      "ley": "Artículo 11.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Si un interesado no dispone de medios electrónicos necesarios para identificarse o firmar electrónicamente en un procedimiento administrativo:",
+      "options": {
+        "a": "El procedimiento deberá tramitarse exclusivamente en soporte papel en su caso",
+        "b": "Quedará excluido del procedimiento hasta que adquiera los medios electrónicos necesarios",
+        "c": "Su identificación o firma podrá ser válidamente realizada por un funcionario público habilitado, si el interesado se identifica ante él y presta consentimiento expreso",
+        "d": "Podrá ser representado automáticamente por el funcionario, sin necesidad de consentimiento"
+      },
+      "correct": "c",
+      "explicacion": "Si algún interesado no dispone de los medios electrónicos necesarios, su identificación o firma electrónica en el procedimiento podrá ser válidamente realizada por un funcionario público habilitado, siendo necesario que el interesado se identifique ante el funcionario y preste su consentimiento expreso, debiendo quedar constancia de todo ello.",
+      "ley": "Artículo 12.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Entre los derechos de las personas en sus relaciones con las Administraciones Públicas, el artículo 13 reconoce:",
+      "options": {
+        "a": "El derecho a exigir que todos los procedimientos se tramiten en lengua extranjera a su elección",
+        "b": "El derecho a percibir una compensación económica por cada trámite administrativo realizado",
+        "c": "El derecho a comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico y a ser tratados con respeto y deferencia por las autoridades y empleados públicos",
+        "d": "El derecho a obtener resolución favorable en todos los procedimientos que inicien"
+      },
+      "correct": "c",
+      "explicacion": "Entre los derechos reconocidos en el artículo 13 se encuentran: comunicarse mediante el Punto de Acceso General electrónico, ser asistidos en el uso de medios electrónicos, utilizar lenguas oficiales, acceder a información pública, ser tratados con respeto y deferencia, exigir responsabilidades legalmente procedentes, usar medios de identificación y firma electrónica, y la protección de datos personales.",
+      "ley": "Artículo 13 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las personas físicas, en cuanto a su relación con las Administraciones Públicas por medios electrónicos:",
+      "options": {
+        "a": "Siempre están obligadas a relacionarse electrónicamente, sin excepción",
+        "b": "Solo pueden usar medios electrónicos si tienen más de veinticinco años",
+        "c": "Podrán elegir en todo momento si se comunican por medios electrónicos o no, salvo que estén legalmente obligadas a hacerlo",
+        "d": "Nunca pueden elegir el medio electrónico si existe la vía presencial disponible"
+      },
+      "correct": "c",
+      "explicacion": "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas a través de medios electrónicos o no, salvo que estén legalmente obligadas a relacionarse por dicha vía. El medio elegido podrá ser modificado por la persona en cualquier momento.",
+      "ley": "Artículo 14.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Están obligados en todo caso a relacionarse electrónicamente con las Administraciones Públicas, entre otros:",
+      "options": {
+        "a": "Exclusivamente los funcionarios públicos en situación de activo",
+        "b": "Las personas jurídicas, las entidades sin personalidad jurídica y quienes ejerzan actividad profesional con colegiación obligatoria en el ejercicio de dicha actividad",
+        "c": "Solo las empresas con sede social en el extranjero",
+        "d": "Únicamente las personas físicas mayores de setenta años"
+      },
+      "correct": "b",
+      "explicacion": "En todo caso están obligados a relacionarse electrónicamente con las Administraciones Públicas: las personas jurídicas, las entidades sin personalidad jurídica, quienes ejerzan actividad profesional con colegiación obligatoria en ejercicio de dicha actividad (incluidos notarios y registradores), quienes representen a un interesado obligado a relacionarse electrónicamente, y los empleados públicos para trámites de su condición.",
+      "ley": "Artículo 14.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La lengua de los procedimientos tramitados por la Administración General del Estado será:",
+      "options": {
+        "a": "El castellano, pudiendo los interesados dirigidos a órganos con sede en territorio de Comunidad Autónoma utilizar también la lengua cooficial en ella",
+        "b": "La oficial del país de residencia del interesado, con independencia de cuál sea",
+        "c": "La que elija libremente el interesado entre cualquier idioma comunitario",
+        "d": "La lengua cooficial de la Comunidad Autónoma donde se tramite, con exclusión del castellano"
+      },
+      "correct": "a",
+      "explicacion": "La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano. Los interesados que se dirijan a órganos de la AGE con sede en territorio de una Comunidad Autónoma podrán también utilizar la lengua cooficial de esa Comunidad, tramitándose el procedimiento en la lengua elegida por el interesado.",
+      "ley": "Artículo 15.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse, entre otros lugares:",
+      "options": {
+        "a": "Únicamente a través de notario, en el caso de documentos con eficacia jurídica",
+        "b": "En el registro electrónico de la Administración correspondiente, en las oficinas de Correos, en representaciones diplomáticas u oficinas consulares y en oficinas de asistencia en materia de registros",
+        "c": "Solo en el Registro General de la Administración General del Estado",
+        "d": "Exclusivamente en las oficinas centrales de cada Ministerio en Madrid"
+      },
+      "correct": "b",
+      "explicacion": "Los documentos pueden presentarse en: el registro electrónico de la Administración u Organismo al que se dirijan o en los restantes registros electrónicos del sector público, en las oficinas de Correos, en representaciones diplomáticas u oficinas consulares en el extranjero, en las oficinas de asistencia en materia de registros, y en cualquier otro que establezcan las disposiciones vigentes.",
+      "ley": "Artículo 16.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El archivo electrónico de documentos de cada Administración deberá conservarlos en un formato que garantice:",
+      "options": {
+        "a": "La autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión",
+        "b": "La disponibilidad exclusiva para el órgano que lo generó, sin acceso para otros",
+        "c": "Solo la conservación física, sin garantías de autenticidad digital",
+        "d": "Únicamente la confidencialidad, sin necesidad de garantizar su integridad"
+      },
+      "correct": "a",
+      "explicacion": "Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión, asegurándose además la posibilidad de trasladar los datos a otros formatos y soportes.",
+      "ley": "Artículo 17.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Señale cuál de las siguientes afirmaciones sobre la obligación de relacionarse electrónicamente con las Administraciones NO es correcta:",
+      "options": {
+        "a": "Las personas jurídicas están obligadas en todo caso a relacionarse electrónicamente",
+        "b": "Los empleados públicos están obligados para los trámites de su condición de empleado público",
+        "c": "Reglamentariamente pueden establecerse obligaciones adicionales para determinados colectivos de personas físicas",
+        "d": "Las personas físicas tienen siempre y en todo caso obligación de relacionarse electrónicamente con la Administración"
+      },
+      "correct": "d",
+      "explicacion": "Las personas físicas no tienen obligación general de relacionarse electrónicamente, sino que pueden elegir libremente el medio de comunicación, salvo que estén específicamente obligadas por ley o reglamento. La obligación sin excepción existe para las personas jurídicas, entidades sin personalidad jurídica, y determinados colectivos profesionales.",
+      "ley": "Artículo 14 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Corporaciones de Derecho Público, respecto de la Ley 39/2015:",
+      "options": {
+        "a": "Se rigen por su normativa específica en el ejercicio de las funciones públicas atribuidas por ley o delegadas, y supletoriamente por la Ley 39/2015",
+        "b": "Se rigen íntegramente por la Ley 39/2015, sin posibilidad de normativa específica",
+        "c": "Quedan completamente excluidas de cualquier aplicación de esta ley",
+        "d": "Solo se les aplica la ley si así lo acuerdan en sus estatutos internos"
+      },
+      "correct": "a",
+      "explicacion": "Las Corporaciones de Derecho Público se rigen por su normativa específica en el ejercicio de las funciones públicas que les hayan sido atribuidas por Ley o delegadas por una Administración Pública, aplicándose la Ley 39/2015 con carácter supletorio.",
+      "ley": "Artículo 2.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+  ]
+}

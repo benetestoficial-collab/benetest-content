@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 18",
+  "preguntas": [
+    {
+      "id": "tema_10_test_18_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Al Consejo de Ministros, como órgano colegiado del Gobierno, le corresponde, entre otras funciones:",
+      "options": {
+        "a": "Exclusivamente nombrar a los altos cargos de cada Ministerio",
+        "b": "Aprobar los proyectos de ley y su remisión a las Cortes, aprobar el Proyecto de Ley de Presupuestos, aprobar los Reales Decretos-leyes y Reales Decretos Legislativos, y declarar los estados de alarma y excepción",
+        "c": "Únicamente ejercer la potestad reglamentaria de desarrollo de las leyes ya aprobadas por las Cortes",
+        "d": "Solo aprobar los Reales Decretos-leyes, careciendo de competencia sobre los proyectos de ley ordinarios"
+      },
+      "correct": "b",
+      "explicacion": "Al Consejo de Ministros corresponde: aprobar los proyectos de ley y su remisión al Congreso o Senado; aprobar el Proyecto de Ley de Presupuestos Generales del Estado; aprobar los Reales Decretos-leyes y Reales Decretos Legislativos; acordar la negociación y firma de Tratados internacionales; declarar los estados de alarma y excepción y proponer el de sitio; aprobar reglamentos previo dictamen del Consejo de Estado; y crear, modificar y suprimir órganos directivos de los Departamentos.",
+      "ley": "Artículo 5.1 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las deliberaciones del Consejo de Ministros:",
+      "options": {
+        "a": "Solo son secretas en materia de defensa y seguridad nacional",
+        "b": "Pueden hacerse públicas si así lo decide el Presidente del Gobierno",
+        "c": "Son públicas y se difunden a través de los medios de comunicación",
+        "d": "Serán secretas"
+      },
+      "correct": "d",
+      "explicacion": "Las deliberaciones del Consejo de Ministros serán secretas. A las reuniones podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello.",
+      "ley": "Artículo 5.3 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La Comisión General de Secretarios de Estado y Subsecretarios está integrada por:",
+      "options": {
+        "a": "Solo los Subsecretarios de cada Ministerio, sin participación de los Secretarios de Estado",
+        "b": "Los Ministros y Secretarios de Estado exclusivamente",
+        "c": "El Presidente del Gobierno y todos los Vicepresidentes, además de los Ministros",
+        "d": "Los titulares de las Secretarías de Estado y los Subsecretarios de los distintos Departamentos Ministeriales, asistiendo también el Abogado General del Estado"
+      },
+      "correct": "d",
+      "explicacion": "La Comisión General de Secretarios de Estado y Subsecretarios está integrada por los titulares de las Secretarías de Estado y por los Subsecretarios de los distintos Departamentos Ministeriales. Asiste igualmente el Abogado General del Estado y aquellos altos cargos con rango de Secretario de Estado o Subsecretario convocados por el Presidente.",
+      "ley": "Artículo 8.1 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde a:",
+      "options": {
+        "a": "Un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia",
+        "b": "El Ministro de Hacienda y Función Pública en todo caso",
+        "c": "El Presidente del Gobierno en persona, sin posibilidad de delegación",
+        "d": "El Subsecretario de la Presidencia, como órgano de apoyo permanente"
+      },
+      "correct": "a",
+      "explicacion": "La Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde a un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia. En caso de ausencia, la presidencia recaerá en el Ministro que corresponda según el orden de precedencia de los Departamentos.",
+      "ley": "Artículo 8.2 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios:",
+      "options": {
+        "a": "Son públicas, a diferencia de las del Consejo de Ministros",
+        "b": "Serán reservadas, y en ningún caso la Comisión podrá adoptar decisiones o acuerdos por delegación del Gobierno",
+        "c": "Pueden ser vinculantes cuando así lo decida el Vicepresidente que la presida",
+        "d": "Solo son reservadas cuando tratan asuntos de competencia exclusiva del Consejo de Ministros"
+      },
+      "correct": "b",
+      "explicacion": "Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios serán reservadas. En ningún caso la Comisión podrá adoptar decisiones o acuerdos por delegación del Gobierno, limitándose su función al examen y análisis de asuntos que se sometan posteriormente al Consejo de Ministros.",
+      "ley": "Artículo 8.4 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El Secretariado del Gobierno, como órgano de apoyo del Consejo de Ministros y otros órganos colegiados, ejerce, entre otras, las funciones de:",
+      "options": {
+        "a": "Asistencia al Ministro-Secretario del Consejo de Ministros, remisión de convocatorias, archivo y custodia de convocatorias, órdenes del día y actas, y velar por el cumplimiento de los principios de buena regulación",
+        "b": "La dirección de la política exterior del Estado en coordinación con el Ministerio de Asuntos Exteriores",
+        "c": "Únicamente la representación protocolaria del Gobierno en actos institucionales",
+        "d": "Solo la custodia del sello oficial del Gobierno, sin más funciones administrativas"
+      },
+      "correct": "a",
+      "explicacion": "El Secretariado del Gobierno ejerce, entre otras funciones: la asistencia al Ministro-Secretario del Consejo de Ministros; la remisión de convocatorias a los órganos colegiados; la colaboración con las Secretarías Técnicas de las Comisiones Delegadas; el archivo y custodia de convocatorias, órdenes del día y actas; y velar por el cumplimiento de los principios de buena regulación y la correcta publicación de las disposiciones en el BOE.",
+      "ley": "Artículo 9.1 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El Secretariado del Gobierno se integra en la estructura orgánica de:",
+      "options": {
+        "a": "El Consejo de Estado, como órgano consultivo de apoyo",
+        "b": "El Ministerio de Hacienda y Función Pública",
+        "c": "El Ministerio de la Presidencia",
+        "d": "La Presidencia del Gobierno, sin integración en ningún Ministerio"
+      },
+      "correct": "c",
+      "explicacion": "El Secretariado del Gobierno se integra en la estructura orgánica del Ministerio de la Presidencia, tal como se prevea en el Real Decreto de estructura de ese Ministerio. El Director del Secretariado del Gobierno ejerce la secretaría adjunta de la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "ley": "Artículo 9.3 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los Gabinetes son órganos de apoyo político y técnico del Presidente del Gobierno, Vicepresidentes, Ministros y Secretarios de Estado, cuyos miembros:",
+      "options": {
+        "a": "Pueden dictar resoluciones administrativas con plenos efectos jurídicos, igual que cualquier órgano directivo",
+        "b": "Realizan tareas de confianza y asesoramiento especial, sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado",
+        "c": "Solo prestan apoyo logístico, sin participación alguna en órganos colegiados decisorios",
+        "d": "Tienen rango de Director General en todos los casos, sin necesidad de norma específica"
+      },
+      "correct": "b",
+      "explicacion": "Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la AGE, sin perjuicio de su asistencia o pertenencia a órganos colegiados que adopten decisiones administrativas. Los directores de gabinete pueden dictar actos administrativos propios de la jefatura de su unidad.",
+      "ley": "Artículo 10.1 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Para ser miembro del Gobierno se requiere:",
+      "options": {
+        "a": "Ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, no estar inhabilitado para ejercer empleo o cargo público por sentencia firme, y reunir los requisitos de idoneidad de la Ley reguladora del alto cargo",
+        "b": "Haber sido elegido diputado o senador en las últimas elecciones generales",
+        "c": "Tener nacionalidad española o de un Estado miembro de la Unión Europea",
+        "d": "Ser funcionario de carrera del Subgrupo A1, con al menos diez años de experiencia"
+      },
+      "correct": "a",
+      "explicacion": "Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme, y reunir el resto de requisitos de idoneidad previstos en la Ley reguladora del ejercicio del alto cargo de la Administración General del Estado.",
+      "ley": "Artículo 11 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los Vicepresidentes y Ministros serán nombrados y separados por:",
+      "options": {
+        "a": "El propio Presidente del Gobierno, sin intervención de la Corona",
+        "b": "El Congreso de los Diputados, mediante votación de investidura específica",
+        "c": "El Rey, a propuesta del Presidente del Gobierno",
+        "d": "El Consejo de Ministros, por mayoría de sus miembros"
+      },
+      "correct": "c",
+      "explicacion": "Los Vicepresidentes y Ministros serán nombrados y separados por el Rey, a propuesta del Presidente del Gobierno. El nombramiento conllevará el cese en el puesto que se estuviera desempeñando, salvo que el Vicepresidente designado sea un Ministro que conserve la titularidad del Departamento.",
+      "ley": "Artículo 12.2 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En el nombramiento de las personas titulares de las Vicepresidencias y Ministerios se garantizará el principio de presencia equilibrada de mujeres y hombres, de forma que cada sexo suponga como mínimo:",
+      "options": {
+        "a": "El cuarenta por ciento en su conjunto",
+        "b": "El cincuenta por ciento exacto, en estricta paridad",
+        "c": "El treinta por ciento, con posibilidad de excepciones justificadas",
+        "d": "No existe ningún porcentaje mínimo legalmente establecido para este nombramiento"
+      },
+      "correct": "a",
+      "explicacion": "En el nombramiento de las personas titulares de las Vicepresidencias y los Ministerios se garantizará el principio de presencia equilibrada de mujeres y hombres, de forma que cada uno de los sexos suponga como mínimo el cuarenta por ciento en su conjunto.",
+      "ley": "Artículo 12.2 bis de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En casos de vacante, ausencia o enfermedad del Presidente del Gobierno, sus funciones serán asumidas por:",
+      "options": {
+        "a": "El Ministro de la Presidencia, como responsable de la coordinación gubernamental",
+        "b": "El Presidente del Congreso de los Diputados, en funciones de Jefatura del Gobierno",
+        "c": "Los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y en defecto de ellos, por los Ministros según el orden de precedencia de los Departamentos",
+        "d": "El Rey, como Jefe del Estado, hasta que se nombre nuevo Presidente"
+      },
+      "correct": "c",
+      "explicacion": "En los casos de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.",
+      "ley": "Artículo 13.1 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Pueden delegar el ejercicio de competencias propias, entre otros:",
+      "options": {
+        "a": "Cualquier alto cargo en favor de cualquier funcionario, sin límites ni requisitos",
+        "b": "Solo el Presidente del Gobierno, ya que los Ministros no tienen capacidad de delegación",
+        "c": "Únicamente el Consejo de Ministros como órgano colegiado, no sus miembros individualmente",
+        "d": "El Presidente del Gobierno en favor del Vicepresidente o Vicepresidentes y de los Ministros, y los Ministros en favor de los Secretarios de Estado y Subsecretarios dependientes de ellos"
+      },
+      "correct": "d",
+      "explicacion": "Pueden delegar el ejercicio de competencias propias: el Presidente del Gobierno en favor del Vicepresidente o Vicepresidentes y de los Ministros; y los Ministros en favor de los Secretarios de Estado y Subsecretarios dependientes de ellos, de los Delegados del Gobierno en las CCAA y de los demás órganos directivos del Ministerio.",
+      "ley": "Artículo 20.1 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. No son en ningún caso delegables, entre otras, las competencias:",
+      "options": {
+        "a": "Las competencias en materia presupuestaria, que siempre pueden delegarse en los Secretarios de Estado",
+        "b": "Solo las relativas a la declaración del estado de alarma, siendo el resto siempre delegables",
+        "c": "Las competencias de los Ministros sin cartera, que son intransferibles por su propia naturaleza",
+        "d": "Las atribuidas directamente por la Constitución, las relativas al nombramiento y separación de altos cargos atribuidas al Consejo de Ministros, y las atribuidas por una ley que prohíba expresamente la delegación"
+      },
+      "correct": "d",
+      "explicacion": "No son en ningún caso delegables: las competencias atribuidas directamente por la Constitución; las relativas al nombramiento y separación de altos cargos atribuidas al Consejo de Ministros; las atribuidas a los órganos colegiados del Gobierno (salvo la delegación de funciones del Consejo de Ministros en las Comisiones Delegadas); y las atribuidas por una ley que prohíba expresamente la delegación.",
+      "ley": "Artículo 20.3 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las disposiciones de entrada en vigor de las leyes o reglamentos del Gobierno que impongan nuevas obligaciones a personas físicas o jurídicas que desempeñen una actividad económica preverán el comienzo de su vigencia:",
+      "options": {
+        "a": "Quince días después de su publicación en el BOE",
+        "b": "El primer día del mes siguiente a su publicación en todo caso",
+        "c": "El 1 de enero del año siguiente a su aprobación, sin excepciones",
+        "d": "El 2 de enero o el 1 de julio siguientes a su aprobación"
+      },
+      "correct": "d",
+      "explicacion": "Las disposiciones de entrada en vigor de leyes o reglamentos cuya aprobación o propuesta corresponda al Gobierno o sus miembros, y que impongan nuevas obligaciones a personas físicas o jurídicas en el ejercicio de su actividad económica o profesional, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación, salvo Reales Decretos-leyes o razones de transposición de directivas debidamente justificadas.",
+      "ley": "Artículo 23 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las decisiones del Consejo de Ministros que no deban adoptar la forma de Real Decreto revisten la forma de:",
+      "options": {
+        "a": "Reales Decretos Legislativos",
+        "b": "Acuerdos del Consejo de Ministros",
+        "c": "Órdenes Ministeriales conjuntas",
+        "d": "Decretos del Presidente del Gobierno"
+      },
+      "correct": "b",
+      "explicacion": "Las decisiones del Gobierno revisten distintas formas según el órgano y la naturaleza del acto: Reales Decretos Legislativos y Decretos-leyes para las normas de los artículos 82 y 86 CE; Reales Decretos del Presidente; Reales Decretos acordados en Consejo de Ministros para normas reglamentarias; Acuerdos del Consejo de Ministros para las decisiones de este órgano que no deban adoptar la forma de Real Decreto; y Órdenes Ministeriales para las disposiciones de los Ministros.",
+      "ley": "Artículo 24.1.d) de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El Gobierno aprobará anualmente un Plan Anual Normativo que contendrá:",
+      "options": {
+        "a": "Únicamente las normas presupuestarias y de carácter económico-financiero",
+        "b": "Las propuestas normativas que han sido rechazadas en años anteriores por las Cortes",
+        "c": "Las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente, identificando las normas que deban someterse a análisis de resultados de su aplicación",
+        "d": "Solo las leyes orgánicas que el Gobierno proyecte presentar a las Cortes Generales"
+      },
+      "correct": "c",
+      "explicacion": "El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente. El Plan identificará las normas que habrán de someterse a un análisis sobre los resultados de su aplicación, atendiendo al coste para la Administración o destinatarios y las cargas administrativas impuestas.",
+      "ley": "Artículo 25.1 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El Plan Anual Normativo está coordinado por:",
+      "options": {
+        "a": "El Ministerio de Hacienda, por su relación con el impacto presupuestario de las normas",
+        "b": "Las Cortes Generales, a través de la Comisión Constitucional del Congreso",
+        "c": "El Ministerio de la Presidencia, debiendo el Ministro elevar el Plan al Consejo de Ministros para su aprobación antes del 30 de abril",
+        "d": "El Consejo de Estado, como máximo órgano consultivo del Gobierno"
+      },
+      "correct": "c",
+      "explicacion": "El Plan Anual Normativo estará coordinado por el Ministerio de la Presidencia, con el objeto de asegurar la congruencia de todas las iniciativas que se tramiten y evitar sucesivas modificaciones del régimen legal en corto espacio de tiempo. El Ministro de la Presidencia elevará el Plan al Consejo de Ministros para su aprobación antes del 30 de abril.",
+      "ley": "Artículo 25.4 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El Consejo de Ministros puede avocar para sí, a propuesta del Presidente del Gobierno:",
+      "options": {
+        "a": "El conocimiento de un asunto cuya decisión corresponda a las Comisiones Delegadas del Gobierno, mediante acuerdo motivado del que se hará mención en la decisión adoptada",
+        "b": "Solo asuntos de naturaleza presupuestaria que afecten a varios Departamentos",
+        "c": "Asuntos atribuidos directamente por la Constitución a otros órganos del Estado",
+        "d": "Cualquier asunto resuelto en primera instancia por un Ministerio, sin necesidad de motivación específica"
+      },
+      "correct": "a",
+      "explicacion": "El Consejo de Ministros podrá avocar para sí, a propuesta del Presidente del Gobierno, el conocimiento de un asunto cuya decisión corresponda a las Comisiones Delegadas del Gobierno. La avocación se realizará mediante acuerdo motivado, del que se hará mención expresa en la decisión adoptada. Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que se interponga contra la decisión adoptada.",
+      "ley": "Artículo 20.4 de la Ley 50/1997, del Gobierno"
+    },
+    {
+      "id": "tema_10_test_18_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El Gobierno ejercerá la iniciativa legislativa y la potestad reglamentaria de conformidad con:",
+      "options": {
+        "a": "Exclusivamente lo dispuesto en la Constitución Española, sin remisión a otras normas",
+        "b": "Los principios y reglas establecidos en el Título VI de la Ley del Procedimiento Administrativo Común de las Administraciones Públicas y en la propia Ley del Gobierno",
+        "c": "Únicamente el procedimiento legislativo ordinario del Congreso de los Diputados",
+        "d": "Los criterios que en cada caso decida discrecionalmente el Consejo de Ministros"
+      },
+      "correct": "b",
+      "explicacion": "El Gobierno ejercerá la iniciativa legislativa y la potestad reglamentaria de conformidad con los principios y reglas establecidos en el Título VI de la Ley del Procedimiento Administrativo Común de las Administraciones Públicas y en el Título correspondiente de la Ley del Gobierno.",
+      "ley": "Artículo 22 de la Ley 50/1997, del Gobierno"
+    }
+  ]
+}

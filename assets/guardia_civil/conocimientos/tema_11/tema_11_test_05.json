@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_11_test_05_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Serán lícitos los tratamientos de datos personales necesarios para:",
+      "options": {
+        "a": "Identificar a periodistas que publiquen información crítica sobre las Administraciones Públicas",
+        "b": "Garantizar la protección de las personas que informen sobre infracciones normativas",
+        "c": "Vigilar las comunicaciones privadas de cualquier ciudadano sin causa justificada",
+        "d": "Elaborar listas negras de empleados con bajo rendimiento laboral"
+      },
+      "correct": "b",
+      "explicacion": "Serán lícitos los tratamientos de datos personales necesarios para garantizar la protección de las personas que informen sobre infracciones normativas. Dichos tratamientos se regirán por el Reglamento (UE) 2016/679, la LOPD y la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.",
+      "ley": "Artículo 24 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El tratamiento de datos personales llevado a cabo por los organismos competentes en el ejercicio de la función estadística pública se sometE a:",
+      "options": {
+        "a": "Exclusivamente la Ley de la Función Estadística Pública, sin aplicación del RGPD",
+        "b": "Las disposiciones del Instituto Nacional de Estadística con carácter excluyente",
+        "c": "Su legislación específica, así como al Reglamento (UE) 2016/679 y a la LOPD",
+        "d": "Normativa interna de cada organismo estadístico, sin coordinación entre ellos"
+      },
+      "correct": "c",
+      "explicacion": "El tratamiento de datos personales llevado a cabo por los organismos que tengan atribuidas las competencias relacionadas con el ejercicio de la función estadística pública se someterá a lo dispuesto en su legislación específica, así como en el Reglamento (UE) 2016/679 y en la LOPD.",
+      "ley": "Artículo 25.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Conforme a la Ley de la Función Estadística Pública, los datos de categorías especiales recogidos para fines estadísticos serán:",
+      "options": {
+        "a": "Recogidos solo mediante orden judicial específica para cada operación estadística",
+        "b": "De aportación obligatoria, sin necesidad de consentimiento, por interés general estadístico",
+        "c": "De aportación estrictamente voluntaria, pudiendo recogerse solo previo consentimiento expreso de los afectados",
+        "d": "Suprimidos automáticamente sin posibilidad de incluirse en ninguna estadística pública"
+      },
+      "correct": "c",
+      "explicacion": "De conformidad con lo dispuesto en el artículo 11.2 de la Ley de la Función Estadística Pública, serán de aportación estrictamente voluntaria y, en consecuencia, solo podrán recogerse previo consentimiento expreso de los afectados los datos a los que se refieren los artículos 9 y 10 del Reglamento (UE) 2016/679.",
+      "ley": "Artículo 25.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La comunicación de datos a los órganos competentes en materia estadística solo se entenderá amparada en el artículo 6.1.e) del RGPD cuando:",
+      "options": {
+        "a": "Se trate de estadísticas privadas elaboradas por empresas de consultoría",
+        "b": "Lo solicite cualquier ciudadano interesado en estudios estadísticos sectoriales",
+        "c": "El organismo estadístico autonómico lo decida sin necesidad de programación previa",
+        "d": "La estadística para la que se requiera la información venga exigida por una norma de Derecho de la Unión Europea o se encuentre incluida en los instrumentos de programación estadística legalmente previstos"
+      },
+      "correct": "d",
+      "explicacion": "La comunicación de los datos a los órganos competentes en materia estadística solo se entenderá amparada en el artículo 6.1.e) del Reglamento (UE) 2016/679 en los casos en que la estadística para la que se requiera la información venga exigida por una norma de Derecho de la Unión Europea o se encuentre incluida en los instrumentos de programación estadística legalmente previstos.",
+      "ley": "Artículo 25.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los organismos competentes para el ejercicio de la función estadística pública podrán denegar las solicitudes de ejercicio de derechos de los afectados cuando:",
+      "options": {
+        "a": "El afectado no haya pagado previamente una tasa por el ejercicio de sus derechos",
+        "b": "La solicitud se presente fuera del horario de oficina del organismo competente",
+        "c": "El afectado no aporte justificación detallada del motivo de su solicitud",
+        "d": "Los datos se encuentren amparados por las garantías del secreto estadístico previstas en la legislación estatal o autonómica"
+      },
+      "correct": "d",
+      "explicacion": "Los organismos competentes para el ejercicio de la función estadística pública podrán denegar las solicitudes de ejercicio por los afectados de los derechos establecidos en los artículos 15 a 22 del RGPD cuando los datos se encuentren amparados por las garantías del secreto estadístico previstas en la legislación estatal o autonómica.",
+      "ley": "Artículo 25.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Será lícito el tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público, que se someterá a:",
+      "options": {
+        "a": "El Reglamento (UE) 2016/679 y la LOPD, con las especialidades derivadas de la Ley del Patrimonio Histórico Español y normativa de archivos del Estado y autonómica aplicable",
+        "b": "Exclusivamente la Ley del Patrimonio Histórico Español, sin aplicación del RGPD",
+        "c": "Una normativa específica de archivos completamente independiente de la protección de datos",
+        "d": "El consentimiento expreso de todos los afectados, sin amparo legal específico"
+      },
+      "correct": "a",
+      "explicacion": "Será lícito el tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público, que se someterá a lo dispuesto en el Reglamento (UE) 2016/679 y en la LOPD con las especialidades que se derivan de la Ley del Patrimonio Histórico Español, el Real Decreto del Sistema Español de Archivos y la legislación autonómica que resulte de aplicación.",
+      "ley": "Artículo 26 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. A los efectos del artículo 86 del RGPD, el tratamiento de datos relativos a infracciones y sanciones administrativas exigirá, entre otros requisitos:",
+      "options": {
+        "a": "Que el afectado preste su consentimiento expreso para el tratamiento de los datos sancionadores",
+        "b": "Que los responsables de dichos tratamientos sean los órganos competentes para la instrucción del procedimiento sancionador, la declaración de infracciones o la imposición de sanciones",
+        "c": "Que medie autorización judicial previa para cada expediente sancionador concreto",
+        "d": "Que el responsable sea cualquier autoridad pública, sin necesidad de tener competencia específica en el procedimiento"
+      },
+      "correct": "b",
+      "explicacion": "El tratamiento de datos relativos a infracciones y sanciones administrativas, incluido el mantenimiento de registros relacionados con las mismas, exigirá: que los responsables de dichos tratamientos sean los órganos competentes para la instrucción del procedimiento sancionador, para la declaración de las infracciones o la imposición de las sanciones; y que el tratamiento se limite a los datos estrictamente necesarios para la finalidad perseguida.",
+      "ley": "Artículo 27.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando no se cumpla alguna de las condiciones para el tratamiento de datos de infracciones y sanciones administrativas previstas en el apartado 1 del artículo 27, dichos tratamientos habrán de contar con:",
+      "options": {
+        "a": "Autorización del órgano superior jerárquico del responsable, sin más requisitos adicionales",
+        "b": "Una simple notificación previa a la AEPD, sin necesidad de consentimiento ni de norma habilitante",
+        "c": "El consentimiento del interesado o estar autorizados por una norma con rango de ley, que podrá regular garantías adicionales para los derechos y libertades de los afectados",
+        "d": "Inscripción en un registro público específico de tratamientos sancionadores"
+      },
+      "correct": "c",
+      "explicacion": "Cuando no se cumpla alguna de las condiciones previstas en el apartado 1 del artículo 27, los tratamientos de datos referidos a infracciones y sanciones administrativas habrán de contar con el consentimiento del interesado o estar autorizados por una norma con rango de ley, en la que se regularán, en su caso, garantías adicionales para los derechos y libertades de los afectados.",
+      "ley": "Artículo 27.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Fuera de los supuestos amparados por las condiciones generales o por consentimiento/norma legal, los tratamientos de datos referidos a infracciones y sanciones administrativas solo serán posibles cuando:",
+      "options": {
+        "a": "El afectado haya solicitado expresamente su inclusión en listados públicos de sancionados",
+        "b": "Lo realicen empresas de selección de personal en sus procesos de contratación",
+        "c": "Se trate de tratamientos efectuados por organizaciones empresariales sectoriales",
+        "d": "Sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones"
+      },
+      "correct": "d",
+      "explicacion": "Fuera de los supuestos señalados en los apartados anteriores, los tratamientos de datos referidos a infracciones y sanciones administrativas solo serán posibles cuando sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones.",
+      "ley": "Artículo 27.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los tratamientos de datos relacionados con la protección de informantes de infracciones normativas se regirán, además de por el Reglamento (UE) 2016/679 y la LOPD, por:",
+      "options": {
+        "a": "La Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción",
+        "b": "Exclusivamente el Código Penal en sus disposiciones sobre delitos de funcionarios públicos",
+        "c": "El Estatuto de los Trabajadores, sin más regulación específica adicional",
+        "d": "La Ley de Enjuiciamiento Criminal en sus disposiciones sobre testigos protegidos"
+      },
+      "correct": "a",
+      "explicacion": "Los tratamientos de datos necesarios para garantizar la protección de las personas que informen sobre infracciones normativas se regirán por lo dispuesto en el Reglamento (UE) 2016/679, en la LOPD y en la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.",
+      "ley": "Artículo 24 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El tratamiento de datos con fines de archivo en interés público por las Administraciones Públicas debe atender, además del RGPD y la LOPD, a las especialidades derivadas de:",
+      "options": {
+        "a": "El Real Decreto por el que se establece el Sistema Español de Archivos y se regula el Sistema de Archivos de la Administración General del Estado y de sus Organismos Públicos",
+        "b": "Únicamente las normas internas de cada archivo, sin coordinación con normativa estatal",
+        "c": "El Código Civil en materia de bienes de dominio público",
+        "d": "El Estatuto de los Trabajadores, en relación con la conservación de documentos laborales"
+      },
+      "correct": "a",
+      "explicacion": "El tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público se sometE al Reglamento (UE) 2016/679 y a la LOPD con las especialidades derivadas de la Ley del Patrimonio Histórico Español y del Real Decreto por el que se establece el Sistema Español de Archivos y se regula el Sistema de Archivos de la Administración General del Estado y de sus Organismos Públicos y su régimen de acceso.",
+      "ley": "Artículo 26 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En el tratamiento de datos relativos a infracciones y sanciones administrativas, uno de los requisitos exigidos es que el tratamiento:",
+      "options": {
+        "a": "Comprenda todos los datos disponibles del expediente, sin límite alguno respecto a la finalidad",
+        "b": "Se limite a los datos estrictamente necesarios para la finalidad perseguida por el órgano competente",
+        "c": "Se extienda también a los datos de familiares directos del sancionado",
+        "d": "Incluya obligatoriamente los datos bancarios completos del expedientado"
+      },
+      "correct": "b",
+      "explicacion": "Entre los requisitos exigidos para el tratamiento de datos relativos a infracciones y sanciones administrativas se encuentra que el tratamiento se limite a los datos estrictamente necesarios para la finalidad perseguida por aquel órgano competente para la instrucción, declaración de infracciones o imposición de sanciones.",
+      "ley": "Artículo 27.1.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Señale cuál de las siguientes afirmaciones sobre la función estadística pública NO es correcta:",
+      "options": {
+        "a": "Los organismos competentes en función estadística pueden denegar el ejercicio de derechos cuando los datos estén amparados por el secreto estadístico",
+        "b": "Los datos de categorías especiales del artículo 9 del RGPD para fines estadísticos son de aportación estrictamente voluntaria",
+        "c": "La comunicación de datos para fines estadísticos requiere que la estadística venga exigida por norma de la UE o esté incluida en la programación estadística legal",
+        "d": "Todos los datos requeridos para fines estadísticos, sin distinción de categoría, deben recogerse siempre de forma obligatoria, sin posibilidad de aportación voluntaria"
+      },
+      "correct": "d",
+      "explicacion": "No todos los datos requeridos para fines estadísticos deben recogerse de forma obligatoria. Específicamente, los datos a los que se refieren los artículos 9 y 10 del RGPD (categorías especiales y datos penales) son de aportación estrictamente voluntaria, solo pudiendo recogerse previo consentimiento expreso de los afectados, conforme al artículo 11.2 de la Ley de la Función Estadística Pública.",
+      "ley": "Artículo 25.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En relación a los tratamientos de datos de infracciones y sanciones administrativas no cubiertos por las condiciones generales, la norma con rango de ley que autorice el tratamiento podrá regular:",
+      "options": {
+        "a": "Exclusivamente cuestiones de procedimiento administrativo común, sin más previsiones",
+        "b": "Sanciones penales adicionales para los infractores administrativos",
+        "c": "Garantías adicionales para los derechos y libertades de los afectados",
+        "d": "Solo el régimen de recursos administrativos contra las sanciones impuestas"
+      },
+      "correct": "c",
+      "explicacion": "Cuando los tratamientos de datos referidos a infracciones y sanciones administrativas habrán de contar con el consentimiento del interesado o estar autorizados por una norma con rango de ley, en dicha norma se regularán, en su caso, garantías adicionales para los derechos y libertades de los afectados.",
+      "ley": "Artículo 27.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los abogados y procuradores que tratan datos de infracciones y sanciones administrativas facilitados por sus clientes lo hacen lícitamente cuando:",
+      "options": {
+        "a": "Cuenten con autorización expresa de la Agencia Española de Protección de Datos para cada caso concreto",
+        "b": "Su tratamiento tenga por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones profesionales",
+        "c": "El cliente abone una tasa específica vinculada al tratamiento de los datos sancionadores",
+        "d": "El expediente sancionador esté ya cerrado y archivado por la Administración competente"
+      },
+      "correct": "b",
+      "explicacion": "Fuera de los supuestos generales, los tratamientos de datos referidos a infracciones y sanciones administrativas solo serán posibles cuando sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones, sin necesidad de autorización específica adicional para cada caso.",
+      "ley": "Artículo 27.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La legislación autonómica que resulte de aplicación al tratamiento de datos con fines de archivo en interés público por las Administraciones Públicas:",
+      "options": {
+        "a": "Carece de toda relevancia, ya que la materia es exclusivamente competencia estatal",
+        "b": "Puede establecer especialidades adicionales a las previstas en la normativa estatal de archivos y protección de datos",
+        "c": "Solo puede aplicarse en defecto absoluto de normativa estatal sobre archivos",
+        "d": "Solo es aplicable cuando expresamente lo autorice el Ministerio de Cultura"
+      },
+      "correct": "b",
+      "explicacion": "Será lícito el tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público, que se sometE al RGPD y a la LOPD con las especialidades que se derivan de la Ley del Patrimonio Histórico Español, el Real Decreto del Sistema Español de Archivos, así como la legislación autonómica que resulte de aplicación.",
+      "ley": "Artículo 26 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Señale cuál de las siguientes afirmaciones sobre el tratamiento de datos para protección de informantes de infracciones normativas NO es correcta:",
+      "options": {
+        "a": "Estos tratamientos son ilícitos por defecto, requiriendo siempre consentimiento expreso del informante",
+        "b": "Se regirán por lo dispuesto en el Reglamento (UE) 2016/679, la LOPD y la legislación específica de protección de informantes",
+        "c": "Son lícitos los tratamientos de datos personales necesarios para garantizar la protección de quienes informen sobre infracciones normativas",
+        "d": "La normativa específica de lucha contra la corrupción complementa el régimen de protección de datos para estos casos"
+      },
+      "correct": "a",
+      "explicacion": "Los tratamientos de datos necesarios para garantizar la protección de informantes son lícitos por mandato expreso de la ley, no requiriendo necesariamente el consentimiento del informante para ser legítimos, ya que su fundamento jurídico está en la propia ley orgánica y en la normativa específica de protección de denunciantes.",
+      "ley": "Artículo 24 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La determinación de quién es responsable del tratamiento de datos relativos a infracciones y sanciones administrativas exige que dicho responsable sea:",
+      "options": {
+        "a": "El órgano competente para la instrucción del procedimiento sancionador, para la declaración de las infracciones o la imposición de las sanciones",
+        "b": "El abogado de la parte denunciante en el procedimiento, en todo caso",
+        "c": "Cualquier ciudadano interesado en conocer el resultado del expediente sancionador",
+        "d": "Una entidad privada de gestión de bases de datos contratada al efecto, sin más requisitos"
+      },
+      "correct": "a",
+      "explicacion": "El tratamiento de datos relativos a infracciones y sanciones administrativas exigirá que los responsables de dichos tratamientos sean los órganos competentes para la instrucción del procedimiento sancionador, para la declaración de las infracciones o la imposición de las sanciones.",
+      "ley": "Artículo 27.1.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El secreto estadístico previsto en la legislación estatal o autonómica permite a los organismos competentes en función estadística:",
+      "options": {
+        "a": "Eximirse de la obligación general de informar sobre la existencia del tratamiento de datos",
+        "b": "Negarse a remitir cualquier información a otras Administraciones Públicas, sin excepción",
+        "c": "Denegar las solicitudes de ejercicio de derechos de los artículos 15 a 22 del RGPD cuando los datos estén amparados por dichas garantías",
+        "d": "Suprimir automáticamente todos los datos personales recogidos transcurrido un año"
+      },
+      "correct": "c",
+      "explicacion": "Los organismos competentes para el ejercicio de la función estadística pública podrán denegar las solicitudes de ejercicio por los afectados de los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 cuando los datos se encuentren amparados por las garantías del secreto estadístico previstas en la legislación estatal o autonómica.",
+      "ley": "Artículo 25.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_05_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. El mantenimiento de registros relacionados con infracciones y sanciones administrativas a los efectos del artículo 86 del RGPD:",
+      "options": {
+        "a": "Carece de cualquier regulación específica en la LOPD, aplicándose solo el RGPD",
+        "b": "Está reservado en exclusiva a la Agencia Española de Protección de Datos como único responsable posible",
+        "c": "Solo puede mantenerse de forma indefinida cuando lo solicite expresamente el afectado",
+        "d": "Está sometido a los mismos requisitos que el tratamiento general de datos sobre infracciones y sanciones: responsable competente y limitación a datos estrictamente necesarios"
+      },
+      "correct": "d",
+      "explicacion": "El tratamiento de datos relativos a infracciones y sanciones administrativas, incluido el mantenimiento de registros relacionados con las mismas, exigirá: que los responsables sean los órganos competentes para la instrucción, declaración o imposición de sanciones, y que el tratamiento se limite a los datos estrictamente necesarios para la finalidad perseguida.",
+      "ley": "Artículo 27.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

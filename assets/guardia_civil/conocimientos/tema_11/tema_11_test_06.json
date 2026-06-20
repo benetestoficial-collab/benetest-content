@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 6",
+  "preguntas": [
+    {
+      "id": "tema_11_test_06_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los responsables y encargados del tratamiento, en particular, valorarán si procede la realización de:",
+      "options": {
+        "a": "Una auditoría externa anual obligatoria certificada por ENAC, sin excepciones",
+        "b": "Un informe del Consejo de Estado previo al inicio de cualquier tratamiento de datos",
+        "c": "La evaluación de impacto en la protección de datos y la consulta previa a que se refiere la Sección 3 del Capítulo IV del RGPD",
+        "d": "Una consulta vinculante a la AEPD antes de iniciar cualquier tratamiento, sin excepción"
+      },
+      "correct": "c",
+      "explicacion": "Los responsables y encargados, teniendo en cuenta los elementos del artículo 24 y 25 del RGPD, determinarán las medidas técnicas y organizativas apropiadas para garantizar el cumplimiento del reglamento y la LOPD. En particular, valorarán si procede la evaluación de impacto en la protección de datos y la consulta previa a que se refiere la Sección 3 del Capítulo IV del RGPD.",
+      "ley": "Artículo 28.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Para la adopción de medidas técnicas y organizativas apropiadas, los responsables y encargados tendrán en cuenta los mayores riesgos que podrían producirse, entre otros supuestos, cuando:",
+      "options": {
+        "a": "Los datos hayan sido proporcionados voluntariamente por el afectado en cualquier circunstancia",
+        "b": "El tratamiento pudiera generar situaciones de discriminación, usurpación de identidad o fraude, pérdidas financieras o daño para la reputación",
+        "c": "El tratamiento se realice exclusivamente en formato papel y no electrónico",
+        "d": "El responsable cuente con menos de cincuenta empleados en su plantilla"
+      },
+      "correct": "b",
+      "explicacion": "Para la adopción de las medidas apropiadas, los responsables y encargados tendrán en cuenta los mayores riesgos que podrían producirse en supuestos como: cuando el tratamiento pudiera generar discriminación, usurpación de identidad o fraude, pérdidas financieras, daño para la reputación, pérdida de confidencialidad de datos sujetos a secreto profesional, o cualquier otro perjuicio económico, moral o social significativo para los afectados.",
+      "ley": "Artículo 28.2.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Entre los supuestos de mayor riesgo que deben considerar los responsables y encargados se incluye, entre otros:",
+      "options": {
+        "a": "Cuando el tratamiento afecte únicamente a personas mayores de sesenta y cinco años",
+        "b": "Cuando los datos hayan sido publicados previamente por el propio afectado en redes sociales",
+        "c": "Cuando el tratamiento implicase una evaluación de aspectos personales de los afectados con el fin de crear o utilizar perfiles personales, mediante el análisis o predicción de aspectos referidos a su rendimiento laboral, salud o solvencia financiera",
+        "d": "Cuando el tratamiento se realice por una entidad sin fines de lucro de pequeño tamaño"
+      },
+      "correct": "c",
+      "explicacion": "Entre los supuestos de mayor riesgo se incluye cuando el tratamiento implicase una evaluación de aspectos personales de los afectados con el fin de crear o utilizar perfiles personales, en particular mediante el análisis o la predicción de aspectos referidos a su rendimiento en el trabajo, situación económica, salud, preferencias, fiabilidad, solvencia financiera, localización o movimientos.",
+      "ley": "Artículo 28.2.d) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La determinación de las responsabilidades en supuestos de corresponsabilidad en el tratamiento, conforme al artículo 26.1 del RGPD, se realizará:",
+      "options": {
+        "a": "Siempre de forma equitativa y proporcional al cincuenta por ciento entre los corresponsables",
+        "b": "Por sorteo cuando no se pueda determinar claramente la actividad de cada corresponsable",
+        "c": "Atendiendo a las actividades que efectivamente desarrolle cada uno de los corresponsables del tratamiento",
+        "d": "Únicamente conforme al contenido literal del contrato suscrito, sin valorar las actividades efectivas"
+      },
+      "correct": "c",
+      "explicacion": "La determinación de las responsabilidades a las que se refiere el artículo 26.1 del Reglamento (UE) 2016/679 se realizará atendiendo a las actividades que efectivamente desarrolle cada uno de los corresponsables del tratamiento.",
+      "ley": "Artículo 29 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando el RGPD sea aplicable a un responsable no establecido en la Unión Europea y el tratamiento se refiera a afectados que se hallen en España, la AEPD podrá imponer al representante:",
+      "options": {
+        "a": "Solidariamente con el responsable o encargado del tratamiento, las medidas establecidas en el RGPD, sin perjuicio de la responsabilidad de este y de la acción de repetición del representante",
+        "b": "Una multa exclusiva sin posibilidad de imponer ninguna medida al responsable principal",
+        "c": "Únicamente sanciones económicas inferiores al diez por ciento de las previstas para el responsable",
+        "d": "La obligación de cesar inmediatamente toda actividad de la empresa en territorio español"
+      },
+      "correct": "a",
+      "explicacion": "Cuando el RGPD sea aplicable a un responsable o encargado no establecido en la UE y el tratamiento se refiera a afectados en España, la AEPD podrá imponer al representante, solidariamente con el responsable o encargado, las medidas del RGPD, sin perjuicio de la responsabilidad del responsable o encargado y del ejercicio por el representante de la acción de repetición frente a quien proceda.",
+      "ley": "Artículo 30.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En caso de exigencia de responsabilidad conforme al artículo 82 del RGPD, respecto de responsables, encargados y representantes:",
+      "options": {
+        "a": "Solo responde el responsable principal, quedando exentos encargados y representantes",
+        "b": "Responderán solidariamente de los daños y perjuicios causados",
+        "c": "Solo responde el representante en territorio europeo, no el responsable extracomunitario",
+        "d": "La responsabilidad se distribuye siempre por igual entre las partes, sin excepción posible"
+      },
+      "correct": "b",
+      "explicacion": "En caso de exigencia de responsabilidad en los términos previstos en el artículo 82 del Reglamento (UE) 2016/679, los responsables, encargados y representantes responderán solidariamente de los daños y perjuicios causados.",
+      "ley": "Artículo 30.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los responsables y encargados del tratamiento deberán mantener el registro de actividades de tratamiento al que se refiere el artículo 30 del RGPD, salvo que:",
+      "options": {
+        "a": "Los datos se encuentren todos anonimizados desde su recogida inicial",
+        "b": "El tratamiento se haya iniciado antes de la entrada en vigor de la LOPD",
+        "c": "Sea de aplicación la excepción prevista en su apartado 5",
+        "d": "El responsable cuente con un delegado de protección de datos designado voluntariamente"
+      },
+      "correct": "c",
+      "explicacion": "Los responsables y encargados del tratamiento o, en su caso, sus representantes deberán mantener el registro de actividades de tratamiento al que se refiere el artículo 30 del Reglamento (UE) 2016/679, salvo que sea de aplicación la excepción prevista en su apartado 5 (que exime a entidades con menos de 250 empleados en determinados supuestos).",
+      "ley": "Artículo 31.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando el responsable o el encargado del tratamiento hubieran designado un delegado de protección de datos, deberán comunicarle:",
+      "options": {
+        "a": "Las decisiones de despido de personal vinculado al área de informática",
+        "b": "Cualquier adición, modificación o exclusión en el contenido del registro de actividades de tratamiento",
+        "c": "Solo los cambios que afecten a más de mil registros de datos personales",
+        "d": "Únicamente los cambios en la dirección postal de la entidad responsable"
+      },
+      "correct": "b",
+      "explicacion": "Cuando el responsable o el encargado del tratamiento hubieran designado un delegado de protección de datos deberán comunicarle cualquier adición, modificación o exclusión en el contenido del registro de actividades de tratamiento, en consonancia con sus funciones de supervisión interna.",
+      "ley": "Artículo 31.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El responsable del tratamiento estará obligado a bloquear los datos cuando proceda a su rectificación o supresión. El bloqueo consiste en:",
+      "options": {
+        "a": "La transferencia de los datos a un tercero independiente para su custodia temporal",
+        "b": "La identificación y reserva de los datos, adoptando medidas para impedir su tratamiento, incluyendo su visualización, salvo para puesta a disposición de jueces, tribunales, Ministerio Fiscal o Administraciones competentes",
+        "c": "La encriptación con clave conocida únicamente por el afectado solicitante",
+        "d": "La eliminación física e inmediata de los datos sin posibilidad de recuperación posterior"
+      },
+      "correct": "b",
+      "explicacion": "El bloqueo de los datos consiste en la identificación y reserva de los mismos, adoptando medidas técnicas y organizativas, para impedir su tratamiento, incluyendo su visualización, excepto para la puesta a disposición de los datos a jueces y tribunales, el Ministerio Fiscal o las Administraciones Públicas competentes para la exigencia de posibles responsabilidades derivadas del tratamiento.",
+      "ley": "Artículo 32.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los datos bloqueados solo podrán mantenerse durante:",
+      "options": {
+        "a": "Un año natural, con posibilidad de prórroga automática indefinida",
+        "b": "El plazo de prescripción de las posibles responsabilidades derivadas del tratamiento, debiendo proceder a su destrucción transcurrido dicho plazo",
+        "c": "Treinta días, transcurridos los cuales deben restituirse al afectado sin más",
+        "d": "Un plazo fijo e indefinido, sin límite temporal de ningún tipo"
+      },
+      "correct": "b",
+      "explicacion": "Los datos bloqueados se conservarán solo por el plazo de prescripción de las posibles responsabilidades derivadas del tratamiento, transcurrido el cual deberá procederse a la destrucción de los datos.",
+      "ley": "Artículo 32.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando para el cumplimiento de la obligación de bloqueo, la configuración del sistema de información no permita dicho bloqueo o requiera un esfuerzo desproporcionado, se procederá a:",
+      "options": {
+        "a": "Un copiado seguro de la información de modo que conste evidencia digital que permita acreditar su autenticidad, la fecha del bloqueo y la no manipulación de los datos durante el mismo",
+        "b": "La paralización de toda la actividad de la entidad hasta resolver el problema técnico",
+        "c": "La transferencia íntegra del sistema completo a la Agencia Española de Protección de Datos",
+        "d": "La destrucción inmediata de todo el sistema de información, sin más alternativa"
+      },
+      "correct": "a",
+      "explicacion": "Cuando para el cumplimiento de la obligación de bloqueo la configuración del sistema de información no permita el bloqueo o requiera una adaptación que implique un esfuerzo desproporcionado, se procederá a un copiado seguro de la información de modo que conste evidencia digital, o de otra naturaleza, que permita acreditar la autenticidad, la fecha del bloqueo y la no manipulación de los datos durante el mismo.",
+      "ley": "Artículo 32.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La AEPD y las autoridades autonómicas podrán fijar excepciones a la obligación de bloqueo cuando:",
+      "options": {
+        "a": "Atendida la naturaleza de los datos o que se refieran a un número particularmente elevado de afectados, su conservación incluso bloqueados pudiera generar un riesgo elevado para los derechos de los afectados o implicar un coste desproporcionado",
+        "b": "El responsable así lo solicite por motivos puramente económicos, sin más justificación",
+        "c": "Hayan transcurrido más de diez años desde la creación del fichero correspondiente",
+        "d": "El afectado renuncie expresamente a sus derechos sobre los datos bloqueados"
+      },
+      "correct": "a",
+      "explicacion": "La AEPD y las autoridades autonómicas de protección de datos podrán fijar excepciones a la obligación de bloqueo en los supuestos en que, atendida la naturaleza de los datos o el hecho de que se refieran a un número particularmente elevado de afectados, su mera conservación, incluso bloqueados, pudiera generar un riesgo elevado para los derechos de los afectados, o implicar un coste desproporcionado para el responsable.",
+      "ley": "Artículo 32.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El acceso por parte de un encargado de tratamiento a los datos personales necesarios para prestar un servicio al responsable:",
+      "options": {
+        "a": "No se considerará comunicación de datos siempre que se cumpla lo establecido en el RGPD, la LOPD y sus normas de desarrollo",
+        "b": "Se considera siempre comunicación de datos, requiriendo consentimiento expreso del afectado",
+        "c": "Requiere autorización judicial previa en todos los casos, sin excepción",
+        "d": "Solo es lícito cuando el encargado del tratamiento esté establecido en territorio español"
+      },
+      "correct": "a",
+      "explicacion": "El acceso por parte de un encargado de tratamiento a los datos personales que resulten necesarios para la prestación de un servicio al responsable no se considerará comunicación de datos siempre que se cumpla lo establecido en el RGPD, la LOPD y sus normas de desarrollo.",
+      "ley": "Artículo 33.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Tendrá la consideración de responsable del tratamiento y no la de encargado quien:",
+      "options": {
+        "a": "Actúe siempre como encargado conforme al contrato suscrito, sin posibilidad de recalificación",
+        "b": "Tenga el menor volumen de datos tratados entre las partes intervinientes",
+        "c": "En su propio nombre y sin que conste que actúa por cuenta de otro, establezca relaciones con los afectados, aun cuando exista un contrato con el contenido fijado en el artículo 28.3 del RGPD",
+        "d": "Lo decida unilateralmente el responsable principal mediante simple comunicación escrita"
+      },
+      "correct": "c",
+      "explicacion": "Tendrá la consideración de responsable del tratamiento y no la de encargado quien en su propio nombre y sin que conste que actúa por cuenta de otro, establezca relaciones con los afectados aun cuando exista un contrato o acto jurídico con el contenido fijado en el artículo 28.3 del RGPD. Esta previsión no es aplicable a los encargos efectuados en el marco de la legislación de contratación del sector público.",
+      "ley": "Artículo 33.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Tendrá asimismo la consideración de responsable del tratamiento, en lugar de encargado, quien:",
+      "options": {
+        "a": "Sea contratado para prestar un servicio durante más de cinco años",
+        "b": "Tenga acceso a más de mil registros de datos personales en su gestión",
+        "c": "Trabaje en un sector regulado por normativa específica diferenciada",
+        "d": "Figurando como encargado utilizase los datos para sus propias finalidades"
+      },
+      "correct": "d",
+      "explicacion": "Tendrá asimismo la consideración de responsable del tratamiento quien, figurando como encargado, utilizase los datos para sus propias finalidades, desnaturalizando así su posición contractual de mero encargado y asumiendo las responsabilidades propias del responsable.",
+      "ley": "Artículo 33.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando finalice la prestación de los servicios del encargado, el responsable del tratamiento determinará si los datos deben ser:",
+      "options": {
+        "a": "Transferidos directamente a la Agencia Española de Protección de Datos",
+        "b": "Conservados permanentemente por el encargado, sin posibilidad de devolución",
+        "c": "Anonimizados de forma automática sin necesidad de decisión del responsable",
+        "d": "Destruidos, devueltos al responsable o entregados, en su caso, a un nuevo encargado"
+      },
+      "correct": "d",
+      "explicacion": "El responsable del tratamiento determinará si, cuando finalice la prestación de los servicios del encargado, los datos personales deben ser destruidos, devueltos al responsable o entregados, en su caso, a un nuevo encargado. No procederá la destrucción cuando exista previsión legal que obligue a su conservación.",
+      "ley": "Artículo 33.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Cuando exista una previsión legal que obligue a la conservación de los datos al finalizar la prestación de servicios del encargado, en lugar de proceder a su destrucción:",
+      "options": {
+        "a": "Solo procede su destrucción transcurridos diez años desde el fin del contrato",
+        "b": "Deben transferirse obligatoriamente a un tercer encargado designado por la AEPD",
+        "c": "Los datos quedan automáticamente en propiedad del encargado de forma permanente",
+        "d": "Los datos deberán ser devueltos al responsable, que garantizará su conservación mientras tal obligación persista"
+      },
+      "correct": "d",
+      "explicacion": "No procederá la destrucción de los datos cuando exista una previsión legal que obligue a su conservación, en cuyo caso deberán ser devueltos al responsable, que garantizará su conservación mientras tal obligación persista.",
+      "ley": "Artículo 33.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El encargado del tratamiento podrá conservar, debidamente bloqueados, los datos en tanto:",
+      "options": {
+        "a": "Exista un nuevo contrato de prestación de servicios con un tercero distinto",
+        "b": "El responsable no le notifique expresamente lo contrario, sin más límite temporal",
+        "c": "Lo permita la legislación tributaria, con independencia de la relación con el responsable",
+        "d": "Pudieran derivarse responsabilidades de su relación con el responsable del tratamiento"
+      },
+      "correct": "d",
+      "explicacion": "El encargado del tratamiento podrá conservar, debidamente bloqueados, los datos en tanto pudieran derivarse responsabilidades de su relación con el responsable del tratamiento, en una previsión análoga al régimen general de bloqueo de datos.",
+      "ley": "Artículo 33.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. En el ámbito del sector público, las competencias propias de un encargado del tratamiento pueden atribuirse a un determinado órgano de las distintas Administraciones Públicas mediante:",
+      "options": {
+        "a": "La adopción de una norma reguladora de dichas competencias, que deberá incorporar el contenido exigido por el artículo 28.3 del RGPD",
+        "b": "La firma de un contrato privado equivalente al del sector privado, sin más requisitos",
+        "c": "La autorización expresa y previa de cada uno de los afectados cuyos datos serán tratados",
+        "d": "Un mero acuerdo verbal entre los órganos implicados, sin necesidad de norma escrita"
+      },
+      "correct": "a",
+      "explicacion": "En el ámbito del sector público podrán atribuirse las competencias propias de un encargado del tratamiento a un determinado órgano de la AGE, las Comunidades Autónomas, las Entidades Locales o sus Organismos vinculados mediante la adopción de una norma reguladora de dichas competencias, que deberá incorporar el contenido exigido por el artículo 28.3 del RGPD.",
+      "ley": "Artículo 33.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_06_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Los responsables y encargados, al determinar las medidas técnicas y organizativas apropiadas para el cumplimiento del RGPD y la LOPD, deben tener en cuenta:",
+      "options": {
+        "a": "Las prácticas seguidas por la competencia, sin valorar elementos normativos propios",
+        "b": "Solo la opinión de su delegado de protección de datos, sin más criterios técnicos",
+        "c": "Exclusivamente el coste económico que supondría implementar dichas medidas",
+        "d": "Los elementos enumerados en los artículos 24 y 25 del Reglamento (UE) 2016/679"
+      },
+      "correct": "d",
+      "explicacion": "Los responsables y encargados, teniendo en cuenta los elementos enumerados en los artículos 24 y 25 del Reglamento (UE) 2016/679, determinarán las medidas técnicas y organizativas apropiadas que deben aplicar a fin de garantizar y acreditar que el tratamiento es conforme con dicho reglamento, la LOPD, sus normas de desarrollo y la legislación sectorial aplicable.",
+      "ley": "Artículo 28.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

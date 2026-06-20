@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 14",
+  "preguntas": [
+    {
+      "id": "tema_11_test_14_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una empresa recoge datos del afectado directamente y le facilita la información básica indicándole una dirección electrónica de acceso a la información ampliada. ¿Es esto conforme al deber de transparencia?",
+      "options": {
+        "a": "No, la remisión a información adicional vulnera siempre el principio de transparencia",
+        "b": "Solo es válido si la información ampliada se entrega en papel, no por medios electrónicos",
+        "c": "No, siempre debe proporcionarse toda la información completa en el mismo momento de la recogida, sin remisión posterior",
+        "d": "Sí, el responsable podrá dar cumplimiento al deber de información facilitando la información básica e indicando un medio que permita acceder de forma sencilla e inmediata a la restante información"
+      },
+      "correct": "d",
+      "explicacion": "Cuando los datos personales sean obtenidos del afectado, el responsable del tratamiento podrá dar cumplimiento al deber de información facilitando al afectado la información básica e indicándole una dirección electrónica u otro medio que permita acceder de forma sencilla e inmediata a la restante información.",
+      "ley": "Artículo 11.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una entidad pretende elaborar perfiles con los datos recogidos del propio afectado. ¿Qué obligación adicional de información tiene en este caso?",
+      "options": {
+        "a": "Solo es exigible si la elaboración del perfil se realiza con fines exclusivamente comerciales",
+        "b": "La información básica deberá comprender esta circunstancia, informando al afectado de su derecho a oponerse a decisiones individuales automatizadas que produzcan efectos jurídicos o le afecten significativamente",
+        "c": "No existe obligación adicional alguna, basta con la información básica genérica habitual",
+        "d": "Solo debe informarse si el perfil incluye categorías especiales de datos del afectado"
+      },
+      "correct": "b",
+      "explicacion": "Si los datos obtenidos del afectado fueran a ser tratados para la elaboración de perfiles, la información básica comprenderá asimismo esta circunstancia, debiendo el afectado ser informado de su derecho a oponerse a la adopción de decisiones individuales automatizadas que produzcan efectos jurídicos sobre él o le afecten significativamente de modo similar.",
+      "ley": "Artículo 11.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un afectado opta por ejercer su derecho de acceso mediante un medio distinto al designado por el responsable, sin que dicho medio sea más costoso. ¿Puede el responsable denegar la solicitud por este motivo?",
+      "options": {
+        "a": "No, el ejercicio del derecho no podrá ser denegado por el solo motivo de optar el afectado por otro medio",
+        "b": "Sí, el responsable puede denegar siempre que el afectado no use el canal oficial designado",
+        "c": "Solo puede denegarse si el afectado es persona jurídica, no si es persona física",
+        "d": "El responsable puede exigir el pago de una tasa adicional por usar un medio distinto"
+      },
+      "correct": "a",
+      "explicacion": "El responsable del tratamiento estará obligado a informar al afectado sobre los medios a su disposición para ejercer sus derechos, debiendo ser fácilmente accesibles. El ejercicio del derecho no podrá ser denegado por el solo motivo de optar el afectado por otro medio.",
+      "ley": "Artículo 12.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un encargado del tratamiento recibe solicitudes de ejercicio de derechos directamente de los afectados. ¿En qué condición puede tramitarlas?",
+      "options": {
+        "a": "Puede tramitarlas siempre, sin necesidad de previsión contractual con el responsable",
+        "b": "Solo puede tramitarlas si el afectado lo solicita expresamente por escrito al encargado",
+        "c": "Podrá tramitarlas por cuenta del responsable si así se estableciere en el contrato o acto jurídico que les vincule",
+        "d": "Nunca puede tramitarlas, ya que esta es una función exclusiva e indelegable del responsable"
+      },
+      "correct": "c",
+      "explicacion": "El encargado podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos si así se estableciere en el contrato o acto jurídico que les vincule, siendo este un requisito necesario para que el encargado pueda actuar en esta función.",
+      "ley": "Artículo 12.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un afectado solicita acceso a sus datos por segunda vez en el mismo trimestre sin causa legítima aparente. ¿Cómo califica la LOPD este ejercicio?",
+      "options": {
+        "a": "No puede considerarse repetitivo bajo ninguna circunstancia, salvo que se ejercite más de cinco veces al año",
+        "b": "Se podrá considerar repetitivo el ejercicio del derecho de acceso, ya que se da en más de una ocasión durante el plazo de seis meses, salvo causa legítima",
+        "c": "Solo se considera repetitivo si se ejercita más de tres veces en un mismo día natural",
+        "d": "La repetitividad solo se valora respecto del derecho de supresión, no del de acceso"
+      },
+      "correct": "b",
+      "explicacion": "A los efectos del artículo 12.5 del RGPD, se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima para ello, como sería el caso de la solicitud planteada en el supuesto.",
+      "ley": "Artículo 13.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un responsable facilita al afectado un sistema de acceso remoto, directo y seguro que garantiza el acceso permanente a la totalidad de sus datos. ¿Qué efecto tiene esto sobre el ejercicio del derecho de acceso?",
+      "options": {
+        "a": "Solo libera al responsable de su obligación si además entrega copia física de los datos",
+        "b": "Solo es válido si el sistema de acceso remoto se renueva semanalmente con nueva clave",
+        "c": "El derecho de acceso se entenderá otorgado, bastando la comunicación al afectado del modo de acceder a dicho sistema para tener por atendida la solicitud",
+        "d": "No tiene ningún efecto, el responsable debe siempre responder por escrito a cada solicitud individual"
+      },
+      "correct": "c",
+      "explicacion": "El derecho de acceso se entenderá otorgado si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto, directo y seguro a los datos personales que garantice, de modo permanente, el acceso a su totalidad. La comunicación del modo de acceder a dicho sistema bastará para tener por atendida la solicitud de ejercicio del derecho.",
+      "ley": "Artículo 13.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un afectado ejerce su derecho de rectificación. ¿Qué debe indicar y, en su caso, acompañar en su solicitud?",
+      "options": {
+        "a": "Debe aportar siempre informe pericial independiente que acredite la inexactitud alegada",
+        "b": "Basta con una manifestación genérica de disconformidad, sin necesidad de identificar datos concretos",
+        "c": "Solo necesita indicar su nombre y DNI, sin más concreción sobre los datos a rectificar",
+        "d": "Debe indicar a qué datos se refiere y la corrección que haya de realizarse, acompañando cuando sea preciso la documentación justificativa de la inexactitud o carácter incompleto"
+      },
+      "correct": "d",
+      "explicacion": "Al ejercer el derecho de rectificación, el afectado deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse. Deberá acompañar, cuando sea preciso, la documentación justificativa de la inexactitud o carácter incompleto de los datos objeto de tratamiento.",
+      "ley": "Artículo 14 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un afectado ejerce su derecho de oposición frente a tratamientos con fines de mercadotecnia directa, derivando ello en la supresión de sus datos. ¿Puede el responsable conservar algún dato tras dicha supresión?",
+      "options": {
+        "a": "Sí, podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros para fines de mercadotecnia directa",
+        "b": "No, debe eliminar absolutamente todos los datos sin excepción de ningún tipo",
+        "c": "Solo puede conservar los datos si el afectado lo autoriza expresamente por escrito tras la supresión",
+        "d": "Solo puede conservar datos económicos del afectado, nunca identificativos"
+      },
+      "correct": "a",
+      "explicacion": "Cuando la supresión derive del ejercicio del derecho de oposición con arreglo al artículo 21.2 del RGPD, el responsable podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros para fines de mercadotecnia directa, lo que constituye una excepción justificada al deber general de supresión total.",
+      "ley": "Artículo 15.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Tras ejercer un afectado el derecho a la limitación del tratamiento, ¿qué obligación específica recae sobre el responsable en sus sistemas de información?",
+      "options": {
+        "a": "Debe eliminar permanentemente todo registro de la existencia previa de esos datos",
+        "b": "No existe obligación específica adicional, basta con cesar el tratamiento de hecho sin más registro",
+        "c": "El hecho de que el tratamiento esté limitado debe constar claramente en los sistemas de información del responsable",
+        "d": "Debe transferir los datos limitados a un tercero independiente, sin posibilidad de conservarlos internamente"
+      },
+      "correct": "c",
+      "explicacion": "El derecho a la limitación del tratamiento se ejercerá de acuerdo con el artículo 18 del RGPD, debiendo constar claramente en los sistemas de información del responsable el hecho de que el tratamiento de los datos personales esté limitado, para evitar tratamientos contrarios a dicha limitación.",
+      "ley": "Artículo 16.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Señale cuál es la remisión normativa que efectúa la LOPD respecto del derecho a la portabilidad de los datos:",
+      "options": {
+        "a": "La LOPD regula este derecho de forma autónoma, sin remisión al RGPD",
+        "b": "Se ejercerá conforme al artículo 89 de la LOPD, relativo al tratamiento en el ámbito laboral",
+        "c": "Se ejercerá de acuerdo con lo establecido en el artículo 20 del Reglamento (UE) 2016/679",
+        "d": "Se ejercerá de acuerdo con el artículo 16 del Reglamento (UE) 2016/679, relativo a la rectificación"
+      },
+      "correct": "c",
+      "explicacion": "El derecho a la portabilidad se ejercerá de acuerdo con lo establecido en el artículo 20 del Reglamento (UE) 2016/679, que regula el derecho del afectado a recibir sus datos en un formato estructurado y a transmitirlos a otro responsable sin obstáculos por parte del responsable inicial.",
+      "ley": "Artículo 17 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un titular de la patria potestad pretende ejercitar el derecho de rectificación en nombre de su hijo de doce años. ¿Puede hacerlo conforme a la LOPD?",
+      "options": {
+        "a": "No, los menores de cualquier edad deben ejercer sus derechos personalmente, sin representación posible",
+        "b": "Sí, en cualquier caso, los titulares de la patria potestad podrán ejercitar en nombre y representación de los menores de catorce años los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros",
+        "c": "Solo puede hacerlo si el menor tiene más de diez años, no por debajo de esa edad",
+        "d": "Solo puede hacerlo con autorización judicial previa específica para cada ejercicio de derechos"
+      },
+      "correct": "b",
+      "explicacion": "En cualquier caso, los titulares de la patria potestad podrán ejercitar en nombre y representación de los menores de catorce años los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros que pudieran corresponderles en el contexto de la LOPD, sin necesidad de autorización judicial adicional.",
+      "ley": "Artículo 12.6 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un afectado solicita ejercer su derecho de acceso y el responsable trata una gran cantidad de datos relativos a él. ¿Qué puede hacer el responsable si la solicitud no especifica qué datos concretos se piden?",
+      "options": {
+        "a": "Podrá solicitarle, antes de facilitar la información, que el afectado especifique los datos o actividades de tratamiento a los que se refiere la solicitud",
+        "b": "Debe trasladar la decisión a la AEPD para que esta decida el alcance de la solicitud",
+        "c": "Debe denegar automáticamente la solicitud sin posibilidad de pedir aclaración previa",
+        "d": "Debe facilitar siempre la totalidad de los datos sin posibilidad alguna de solicitar precisión"
+      },
+      "correct": "a",
+      "explicacion": "Cuando el responsable trate una gran cantidad de datos relativos al afectado y este ejercite su derecho de acceso sin especificar si se refiere a todos o a una parte de los datos, el responsable podrá solicitarle, antes de facilitar la información, que el afectado especifique los datos o actividades de tratamiento a los que se refiere la solicitud.",
+      "ley": "Artículo 13.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Señale la afirmación INCORRECTA sobre la gratuidad de las actuaciones para atender solicitudes de ejercicio de derechos:",
+      "options": {
+        "a": "Las actuaciones del responsable para atender estas solicitudes son siempre gratuitas sin excepción alguna, ni siquiera en casos de solicitudes repetitivas o excesivas",
+        "b": "Existen excepciones previstas en los artículos 12.5 y 15.3 del RGPD y en los apartados 3 y 4 del artículo 13 de la LOPD",
+        "c": "Serán gratuitas las actuaciones llevadas a cabo por el responsable para atender solicitudes de ejercicio de derechos",
+        "d": "Cuando el afectado elija un medio distinto que suponga coste desproporcionado, asumirá el exceso de costes"
+      },
+      "correct": "a",
+      "explicacion": "Aunque la regla general es la gratuidad, existen excepciones expresamente previstas: en casos de solicitudes repetitivas (artículo 12.5 RGPD), solicitudes manifiestamente infundadas o excesivas (artículo 15.3 RGPD), y cuando el afectado elija un medio que suponga coste desproporcionado (artículo 13.4 LOPD), en cuyos casos el afectado puede asumir el exceso de costes o el responsable cobrar un canon razonable.",
+      "ley": "Artículo 12.7 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Cuando los datos personales no hubieran sido obtenidos del afectado sino de terceros, la información básica que debe facilitarse incluirá también, además de la identidad del responsable y la finalidad:",
+      "options": {
+        "a": "Solo el nombre del intermediario, sin necesidad de especificar categorías de datos ni fuentes",
+        "b": "Las categorías de datos objeto de tratamiento y las fuentes de las que procedieran los datos",
+        "c": "Únicamente la fecha exacta en que se obtuvieron los datos, sin más precisiones",
+        "d": "El precio pagado por la obtención de los datos a la fuente original"
+      },
+      "correct": "b",
+      "explicacion": "Cuando los datos personales no hubieran sido obtenidos del afectado, el responsable podrá dar cumplimiento al deber de información del artículo 14 del RGPD facilitando la información básica e indicando un medio de acceso a la información ampliada. En estos supuestos, la información básica incluirá también las categorías de datos objeto de tratamiento y las fuentes de las que procedieran los datos.",
+      "ley": "Artículo 11.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un afectado pretende ejercer derechos del Capítulo III del RGPD respecto de un tratamiento sometido a un régimen especial previsto en una ley sectorial específica. ¿Qué normativa resulta aplicable preferentemente?",
+      "options": {
+        "a": "El afectado puede elegir libremente entre aplicar el régimen general o el especial según le convenga",
+        "b": "Se requiere autorización expresa de la AEPD para poder aplicar cualquier régimen especial sectorial",
+        "c": "Siempre prevalece el régimen general del RGPD sobre cualquier regulación sectorial específica",
+        "d": "Se estará a lo dispuesto en las leyes específicas que establezcan dicho régimen especial"
+      },
+      "correct": "d",
+      "explicacion": "Cuando las leyes aplicables a determinados tratamientos establezcan un régimen especial que afecte al ejercicio de los derechos previstos en el Capítulo III del RGPD, se estará a lo dispuesto en aquellas leyes específicas, que prevalecen sobre el régimen general en su ámbito de aplicación concreto.",
+      "ley": "Artículo 12.5 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. En caso de litigio sobre si un responsable atendió correctamente una solicitud de ejercicio de derechos, ¿sobre quién recae la carga de la prueba del cumplimiento?",
+      "options": {
+        "a": "Se reparte por igual entre responsable y afectado en todo procedimiento",
+        "b": "Sobre la AEPD, que debe investigar de oficio antes de cualquier reclamación",
+        "c": "Sobre el afectado, quien debe demostrar que no fue atendido en plazo",
+        "d": "Sobre el responsable"
+      },
+      "correct": "d",
+      "explicacion": "La prueba del cumplimiento del deber de responder a la solicitud de ejercicio de sus derechos formulado por el afectado recaerá sobre el responsable, en aplicación del principio de responsabilidad activa que rige todo el sistema de protección de datos.",
+      "ley": "Artículo 12.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un afectado elige, para ejercer su derecho de acceso, un medio que implica un coste claramente desproporcionado en comparación con el medio ofrecido por el responsable. ¿Qué consecuencia tiene esto?",
+      "options": {
+        "a": "El responsable debe asumir siempre el coste, sin posibilidad de repercutirlo, aunque sea desproporcionado",
+        "b": "El responsable queda eximido por completo de atender la solicitud en cualquier plazo",
+        "c": "La solicitud será considerada excesiva, asumiendo el afectado el exceso de costes, siendo solo exigible al responsable la satisfacción del derecho sin dilaciones indebidas",
+        "d": "El afectado pierde definitivamente su derecho de acceso por haber elegido un medio inadecuado"
+      },
+      "correct": "c",
+      "explicacion": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado, la solicitud será considerada excesiva, asumiendo dicho afectado el exceso de costes que su elección comporte. En este caso, solo será exigible al responsable la satisfacción del derecho de acceso sin dilaciones indebidas, sin que ello suponga la pérdida del derecho.",
+      "ley": "Artículo 13.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. El derecho de oposición y los derechos relacionados con decisiones individuales automatizadas se ejercen respectivamente conforme a:",
+      "options": {
+        "a": "Los artículos 21 y 22 del Reglamento (UE) 2016/679",
+        "b": "El artículo 5 de la LOPD, relativo al deber de confidencialidad",
+        "c": "El artículo 18 del RGPD en ambos casos, sin distinción entre ambos derechos",
+        "d": "Los artículos 11 y 12 de la LOPD, sin remisión al texto del RGPD"
+      },
+      "correct": "a",
+      "explicacion": "El derecho de oposición, así como los derechos relacionados con las decisiones individuales automatizadas, incluida la realización de perfiles, se ejercerán de acuerdo con lo establecido, respectivamente, en los artículos 21 y 22 del Reglamento (UE) 2016/679.",
+      "ley": "Artículo 18 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Más allá del sistema de acceso remoto, ¿qué información adicional puede solicitar el interesado al responsable?",
+      "options": {
+        "a": "Solo información relativa a la identidad del delegado de protección de datos, exclusivamente",
+        "b": "Solo puede solicitar información sobre el plazo de conservación, no sobre otros extremos del artículo 15.1",
+        "c": "Ninguna información adicional, ya que el sistema de acceso remoto agota completamente el derecho",
+        "d": "La información referida a los extremos del artículo 15.1 del RGPD que no se incluyese en el sistema de acceso remoto"
+      },
+      "correct": "d",
+      "explicacion": "No obstante el sistema de acceso remoto, el interesado podrá solicitar del responsable la información referida a los extremos previstos en el artículo 15.1 del Reglamento (UE) 2016/679 que no se incluyese en dicho sistema de acceso remoto.",
+      "ley": "Artículo 13.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_14_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿A través de qué medios pueden ejercerse los derechos reconocidos en los artículos 15 a 22 del RGPD?",
+      "options": {
+        "a": "Solo mediante intervención obligatoria de un procurador colegiado",
+        "b": "Directamente o por medio de representante legal o voluntario",
+        "c": "Únicamente de forma directa, sin posibilidad de actuación a través de representante de ningún tipo",
+        "d": "Solo a través de representante legal, descartando la actuación directa del afectado"
+      },
+      "correct": "b",
+      "explicacion": "Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 podrán ejercerse directamente o por medio de representante legal o voluntario, ofreciendo así flexibilidad en las vías de actuación del afectado.",
+      "ley": "Artículo 12.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

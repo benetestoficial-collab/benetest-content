@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 11",
+  "preguntas": [
+    {
+      "id": "tema_10_test_11_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La Ley 40/2015, de Régimen Jurídico del Sector Público, tiene por objeto:",
+      "options": {
+        "a": "Establecer y regular las bases del régimen jurídico de las Administraciones Públicas, los principios del sistema de responsabilidad patrimonial y de la potestad sancionadora, y la organización y funcionamiento de la Administración General del Estado",
+        "b": "Regular exclusivamente el procedimiento administrativo común a todas las Administraciones Públicas",
+        "c": "Establecer el régimen de contratación del sector público y sus garantías económicas",
+        "d": "Regular únicamente las relaciones laborales entre las Administraciones Públicas y sus empleados"
+      },
+      "correct": "a",
+      "explicacion": "La Ley 40/2015 establece y regula las bases del régimen jurídico de las Administraciones Públicas, los principios del sistema de responsabilidad de las Administraciones Públicas y de la potestad sancionadora, así como la organización y funcionamiento de la Administración General del Estado y de su sector público institucional.",
+      "ley": "Artículo 1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas actúan de acuerdo con los principios de:",
+      "options": {
+        "a": "Concentración y centralización, como garantía de la unidad del Estado",
+        "b": "Solo eficacia y economía, sin sometimiento expreso al principio de jerarquía",
+        "c": "Exclusivamente los principios de legalidad y oportunidad administrativa",
+        "d": "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Constitución, a la Ley y al Derecho"
+      },
+      "correct": "d",
+      "explicacion": "Las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Constitución, a la Ley y al Derecho.",
+      "ley": "Artículo 3.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas, en su actuación y relaciones, deberán respetar, entre otros, los principios de:",
+      "options": {
+        "a": "Exclusivamente los de racionalización de procedimientos y economía de medios",
+        "b": "Buena fe, confianza legítima y lealtad institucional; responsabilidad por la gestión pública; y cooperación, colaboración y coordinación entre Administraciones Públicas",
+        "c": "Únicamente el principio de eficacia en el cumplimiento de los objetivos fijados",
+        "d": "Solo los de participación ciudadana y transparencia, sin obligación de cooperar entre Administraciones"
+      },
+      "correct": "b",
+      "explicacion": "Entre los principios que deben respetar las Administraciones Públicas en su actuación y relaciones se encuentran: servicio efectivo a los ciudadanos; simplicidad, claridad y proximidad; participación, objetividad y transparencia; buena fe, confianza legítima y lealtad institucional; responsabilidad por la gestión pública; eficacia, economía y eficiencia; y cooperación, colaboración y coordinación entre Administraciones.",
+      "ley": "Artículo 3.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan:",
+      "options": {
+        "a": "Funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo",
+        "b": "Cualquier tipo de función interna de la Administración, aunque no tenga efectos externos",
+        "c": "Solo funciones de carácter ejecutivo con potestad sancionadora",
+        "d": "Funciones exclusivamente presupuestarias o de control interno"
+      },
+      "correct": "a",
+      "explicacion": "Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo.",
+      "ley": "Artículo 5.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El incumplimiento de las instrucciones u órdenes de servicio:",
+      "options": {
+        "a": "Determina la anulabilidad automática del acto dictado, sin necesidad de impugnación",
+        "b": "Solo genera responsabilidad disciplinaria cuando la instrucción es vinculante por su publicación en el BOE",
+        "c": "No afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir",
+        "d": "Siempre produce la nulidad de pleno derecho de los actos dictados con infracción de la instrucción"
+      },
+      "correct": "c",
+      "explicacion": "El incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir.",
+      "ley": "Artículo 6.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La competencia administrativa es, con carácter general:",
+      "options": {
+        "a": "Transferible libremente entre órganos de la misma Administración mediante acuerdo entre ellos",
+        "b": "Atribuida con carácter provisional, pudiendo modificarse por simple orden ministerial",
+        "c": "Irrenunciable y se ejercerá por los órganos que la tengan atribuida como propia, salvo los casos de delegación o avocación, que no suponen alteración de la titularidad",
+        "d": "Renunciable cuando el órgano competente lo estime conveniente por razones de eficacia"
+      },
+      "correct": "c",
+      "explicacion": "La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en la ley. La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia.",
+      "ley": "Artículo 8.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. No pueden ser objeto de delegación de competencias:",
+      "options": {
+        "a": "Los asuntos referidos a relaciones con la Jefatura del Estado y las Cortes Generales, la adopción de disposiciones de carácter general, la resolución de recursos por el órgano que dictó el acto, y las materias así determinadas por ley",
+        "b": "Únicamente las competencias atribuidas expresamente a órganos unipersonales",
+        "c": "Solo los asuntos sancionadores, por su carácter estrictamente personalísimo",
+        "d": "Ninguna competencia puede delegarse, siendo la delegación contraria al principio de irrenunciabilidad"
+      },
+      "correct": "a",
+      "explicacion": "En ningún caso pueden ser objeto de delegación las competencias relativas a: asuntos que se refieran a relaciones con la Jefatura del Estado, la Presidencia del Gobierno, las Cortes Generales, los Presidentes de Consejos de Gobierno autonómicos y las Asambleas Legislativas; la adopción de disposiciones de carácter general; la resolución de recursos por los órganos que hayan dictado los actos recurridos; y las materias que así lo determine una norma con rango de ley.",
+      "ley": "Artículo 9.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las resoluciones administrativas adoptadas por delegación:",
+      "options": {
+        "a": "Indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante",
+        "b": "Se considerarán dictadas por el órgano delegado, que asume toda la responsabilidad",
+        "c": "Son nulas si no cuentan con autorización expresa del superior jerárquico para cada caso",
+        "d": "No necesitan indicar la circunstancia de la delegación, bastando la firma del delegado"
+      },
+      "correct": "a",
+      "explicacion": "Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante. La delegación será revocable en cualquier momento por el órgano que la haya conferido.",
+      "ley": "Artículo 9.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Salvo autorización expresa de una ley, las competencias que se ejercen por delegación:",
+      "options": {
+        "a": "Pueden subdelegarse si el órgano superior jerárquico del delegante lo aprueba",
+        "b": "Pueden delegarse libremente, siguiendo el régimen general de delegación",
+        "c": "Solo pueden ser subdelegadas con autorización del órgano delegante originario",
+        "d": "No podrán delegarse, es decir, no podrá subdelegarse la competencia delegada"
+      },
+      "correct": "d",
+      "explicacion": "Salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por delegación. Esta regla impide la subdelegación en cadena que podría desvirtuar el sistema de distribución de competencias y el control sobre su ejercicio.",
+      "ley": "Artículo 9.5 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La avocación de competencias por el órgano superior:",
+      "options": {
+        "a": "Puede ser acordada por cualquier órgano superior, incluso sin relación jerárquica con el inferior",
+        "b": "Se realizará mediante acuerdo motivado que debe notificarse a los interesados antes o simultáneamente a la resolución final, no siendo susceptible de recurso directo aunque puede impugnarse en el recurso contra la resolución del procedimiento",
+        "c": "No necesita motivación alguna por tratarse de una prerrogativa jerárquica",
+        "d": "Requiere autorización previa del Consejo de Ministros en todos los casos"
+      },
+      "correct": "b",
+      "explicacion": "La avocación se realiza mediante acuerdo motivado que debe notificarse a los interesados en el procedimiento antes o simultáneamente a la resolución final. Contra el acuerdo de avocación no cabe recurso, aunque puede impugnarse en el que se interponga contra la resolución del procedimiento.",
+      "ley": "Artículo 10.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La encomienda de gestión:",
+      "options": {
+        "a": "Supone la transferencia definitiva de la titularidad de la competencia al órgano encomendado",
+        "b": "Solo puede realizarse entre órganos de la misma Administración, nunca entre Administraciones distintas",
+        "c": "No supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo el órgano encomendante responsable de los actos jurídicos que den soporte a la actividad material encomendada",
+        "d": "Puede tener por objeto prestaciones propias de contratos del sector público cuando lo justifique la eficacia"
+      },
+      "correct": "c",
+      "explicacion": "La encomienda de gestión no supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio. El órgano o Entidad encomendante es responsable de dictar cuantos actos o resoluciones de carácter jurídico den soporte o en los que se integre la concreta actividad material encomendada.",
+      "ley": "Artículo 11.2 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La delegación de firma:",
+      "options": {
+        "a": "Solo puede hacerse a favor de órganos con competencia propia en la misma materia",
+        "b": "No altera la competencia del órgano delegante, no requiere publicación para su validez, y en los actos que se firmen por delegación debe constar esta circunstancia y la autoridad de procedencia",
+        "c": "Requiere publicación en el BOE para ser válida en todo caso",
+        "d": "Altera la titularidad de la competencia del órgano delegante"
+      },
+      "correct": "b",
+      "explicacion": "La delegación de firma no altera la competencia del órgano delegante y para su validez no será necesaria su publicación. En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.",
+      "ley": "Artículo 12 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La suplencia de los titulares de órganos administrativos:",
+      "options": {
+        "a": "Siempre debe publicarse en el BOE, el boletín autonómico o el provincial",
+        "b": "No implica alteración de la competencia, no requiere publicación para su validez, y en los actos que se dicten mediante suplencia se hará constar esta circunstancia y la identidad del titular suplido y del que ejerce la suplencia",
+        "c": "Produce la alteración temporal de la competencia a favor del suplente",
+        "d": "Solo puede producirse en casos de enfermedad, nunca por ausencia temporal o vacante"
+      },
+      "correct": "b",
+      "explicacion": "La suplencia no implica alteración de la competencia y para su validez no es necesaria su publicación. En las resoluciones y actos que se dicten mediante suplencia se hará constar esta circunstancia y se especificará el titular del órgano en cuya suplencia se adoptan y quien efectivamente está ejerciendo dicha suplencia.",
+      "ley": "Artículo 13.2 y 13.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los conflictos de atribuciones entre órganos administrativos solo pueden suscitarse entre:",
+      "options": {
+        "a": "Órganos de distintas Administraciones Públicas, en todos los supuestos",
+        "b": "Solo entre Administraciones del Estado y de las Comunidades Autónomas, no entre órganos de una misma Administración",
+        "c": "Órganos de una misma Administración no relacionados jerárquicamente, y respecto a asuntos sobre los que no haya finalizado el procedimiento administrativo",
+        "d": "Cualquier órgano, incluso entre los que guardan relación jerárquica entre sí"
+      },
+      "correct": "c",
+      "explicacion": "Los conflictos de atribuciones solo pueden suscitarse entre órganos de una misma Administración no relacionados jerárquicamente, y respecto a asuntos sobre los que no haya finalizado el procedimiento administrativo. Los órganos con relación jerárquica resuelven sus discrepancias a través de la dependencia jerárquica, no mediante conflictos formales.",
+      "ley": "Artículo 14.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas que establezcan medidas que limiten el ejercicio de derechos individuales o colectivos deberán, entre otros requisitos:",
+      "options": {
+        "a": "Aplicar el principio de proporcionalidad, elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público y justificar su adecuación para lograr los fines perseguidos",
+        "b": "Comunicarla a la Unión Europea antes de su entrada en vigor",
+        "c": "Solo publicar la medida con antelación suficiente, sin necesidad de motivar su proporcionalidad",
+        "d": "Obtener la aprobación previa del Consejo de Estado en todos los supuestos"
+      },
+      "correct": "a",
+      "explicacion": "Las Administraciones Públicas que establezcan medidas que limiten el ejercicio de derechos individuales o colectivos o exijan el cumplimiento de requisitos para el desarrollo de una actividad, deberán: aplicar el principio de proporcionalidad, elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público, justificar su adecuación para lograr los fines perseguidos, y evaluar periódicamente los efectos y resultados obtenidos.",
+      "ley": "Artículo 4.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En la Administración General del Estado, si no se designa suplente y se produce una vacante, ausencia o enfermedad del titular del órgano:",
+      "options": {
+        "a": "El puesto queda vacante hasta que se cubra por concurso o libre designación",
+        "b": "La competencia del órgano se ejercerá por quien designe el órgano administrativo inmediato superior de quien dependa",
+        "c": "La competencia se distribuye entre los restantes órganos del mismo rango jerárquico",
+        "d": "El órgano superior asume directamente las competencias sin posibilidad de delegación"
+      },
+      "correct": "b",
+      "explicacion": "Si no se designa suplente, la competencia del órgano administrativo se ejercerá por quien designe el órgano administrativo inmediato superior de quien dependa. En el ámbito de la AGE, la designación de suplente puede efectuarse en los decretos de estructura orgánica básica de los Departamentos o en el propio acto de nombramiento del titular.",
+      "ley": "Artículo 13.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La delegación de competencias entre órganos no relacionados jerárquicamente de un mismo Ministerio requiere:",
+      "options": {
+        "a": "La aprobación del Consejo de Ministros en todos los casos de órganos no jerárquicamente relacionados",
+        "b": "Solo la firma del acuerdo entre los dos órganos delegante y delegado, sin necesidad de aprobación superior",
+        "c": "Exclusivamente la publicación en el BOE como requisito de validez",
+        "d": "La aprobación previa del superior común si ambos pertenecen al mismo Ministerio, o del órgano superior de quien dependa el órgano delegado si pertenecen a Ministerios distintos"
+      },
+      "correct": "d",
+      "explicacion": "Cuando se trate de órganos no relacionados jerárquicamente del mismo Ministerio, será necesaria la aprobación previa del superior común. Si el delegante y el delegado pertenecen a diferentes Ministerios, se necesita la aprobación del órgano superior de quien dependa el órgano delegado.",
+      "ley": "Artículo 9.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La avocación de competencias solo puede ser acordada por el órgano superior respecto a órganos:",
+      "options": {
+        "a": "De cualquier rango de la misma Administración, con independencia de la relación jerárquica",
+        "b": "Solo de la misma Administración que hubieran sido designados directamente por el órgano que avoca",
+        "c": "Exclusivamente de organismos públicos vinculados, no de órganos de la Administración central",
+        "d": "Jerárquicamente dependientes, o en supuestos de delegación en órganos no dependientes jerárquicamente, en cuyo caso solo puede avocar el órgano delegante"
+      },
+      "correct": "d",
+      "explicacion": "Los órganos superiores pueden avocar para sí el conocimiento de asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes. En los supuestos de delegación en órganos no dependientes jerárquicamente, el conocimiento del asunto solo puede ser avocado por el órgano delegante.",
+      "ley": "Artículo 10.1 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La creación de un nuevo órgano administrativo exige, al menos:",
+      "options": {
+        "a": "Únicamente la publicación en el BOE de la norma de creación",
+        "b": "La previa supresión de otro órgano de rango equivalente en cualquier Administración",
+        "c": "Solo la aprobación por el Consejo de Ministros, sin más requisitos formales",
+        "d": "Determinación de su forma de integración y dependencia jerárquica, delimitación de funciones y competencias, y dotación de los créditos necesarios para su funcionamiento"
+      },
+      "correct": "d",
+      "explicacion": "La creación de cualquier órgano administrativo exige al menos: determinación de su forma de integración en la Administración Pública y su dependencia jerárquica; delimitación de sus funciones y competencias; y dotación de los créditos necesarios para su puesta en marcha y funcionamiento. Además, no podrán crearse nuevos órganos que supongan duplicación de otros ya existentes.",
+      "ley": "Artículo 5.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    },
+    {
+      "id": "tema_10_test_11_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Cada una de las Administraciones Públicas actúa para el cumplimiento de sus fines:",
+      "options": {
+        "a": "Sin personalidad jurídica propia, actuando en nombre del Estado",
+        "b": "Con tantas personalidades jurídicas como órganos la integren",
+        "c": "Con personalidad jurídica única",
+        "d": "Con personalidad jurídica dual: una pública y otra privada"
+      },
+      "correct": "c",
+      "explicacion": "Cada una de las Administraciones Públicas actúa para el cumplimiento de sus fines con personalidad jurídica única, lo que garantiza la unidad de actuación y la responsabilidad de cada Administración como entidad singular.",
+      "ley": "Artículo 3.4 de la Ley 40/2015, de Régimen Jurídico del Sector Público"
+    }
+  ]
+}

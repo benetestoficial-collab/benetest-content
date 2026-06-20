@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 9",
+  "preguntas": [
+    {
+      "id": "tema_10_test_09_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Respecto al recurso de alzada, ¿cuál de las siguientes afirmaciones es correcta?",
+      "options": {
+        "a": "Si el acto no fuera expreso, el recurso de alzada puede interponerse en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio",
+        "b": "El plazo para interponer el recurso de alzada es siempre de tres meses, sea el acto expreso o presunto",
+        "c": "El recurso de alzada interrumpe automáticamente los plazos de prescripción de las acciones de la Administración",
+        "d": "El plazo máximo para resolver el recurso de alzada es de seis meses desde su interposición"
+      },
+      "correct": "a",
+      "explicacion": "Si el acto no es expreso (silencio administrativo), el solicitante y otros posibles interesados pueden interponer recurso de alzada en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio. Si el acto es expreso, el plazo es de un mes. El plazo máximo para dictar y notificar la resolución del recurso de alzada es de tres meses.",
+      "ley": "Artículo 122.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Sobre el recurso de alzada cuando no ha recaído resolución expresa:",
+      "options": {
+        "a": "El silencio tiene efecto desestimatorio solo en procedimientos de responsabilidad patrimonial",
+        "b": "La falta de resolución expresa no produce ningún efecto jurídico respecto del recurso",
+        "c": "Se entenderá estimado por silencio en todos los casos, a favor del recurrente",
+        "d": "Se podrá entender desestimado el recurso, salvo en el supuesto del silencio estimatorio del artículo 24.1, tercer párrafo"
+      },
+      "correct": "d",
+      "explicacion": "Transcurrido el plazo de tres meses sin que recaiga resolución del recurso de alzada, se podrá entender desestimado el recurso, salvo en el supuesto previsto en el artículo 24.1, tercer párrafo (cuando el recurso de alzada se interponga contra desestimación por silencio y llegue el plazo sin resolución expresa, se entenderá estimado).",
+      "ley": "Artículo 122.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En cuanto al recurso potestativo de reposición cuando el acto no fuera expreso:",
+      "options": {
+        "a": "Solo puede interponerse una vez transcurrido el plazo general de silencio administrativo de tres meses",
+        "b": "Puede interponerse en cualquier momento a partir del día siguiente a aquel en que se produzca el acto presunto",
+        "c": "No cabe recurso de reposición cuando no existe resolución expresa del órgano",
+        "d": "El plazo es siempre de un mes desde la notificación, sea el acto expreso o presunto"
+      },
+      "correct": "b",
+      "explicacion": "Si el acto no fuera expreso, el solicitante y otros posibles interesados pueden interponer recurso de reposición en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto por silencio administrativo.",
+      "ley": "Artículo 124.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Sobre la suspensión de la ejecución de un acto al interponerse recurso, señale la correcta:",
+      "options": {
+        "a": "El órgano puede suspender la ejecución cuando la impugnación se funde en alguna de las causas de nulidad de pleno derecho del artículo 47.1",
+        "b": "Nunca puede suspenderse la ejecución de un acto durante la tramitación del recurso",
+        "c": "La suspensión solo la puede acordar un tribunal, nunca el órgano administrativo",
+        "d": "La interposición de cualquier recurso suspende siempre y automáticamente la ejecución"
+      },
+      "correct": "a",
+      "explicacion": "El órgano que resuelve el recurso puede suspender la ejecución del acto impugnado, de oficio o a solicitud del recurrente, entre otras circunstancias, cuando la impugnación se fundamente en alguna de las causas de nulidad de pleno derecho previstas en el artículo 47.1, o cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación.",
+      "ley": "Artículo 117.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de:",
+      "options": {
+        "a": "Cinco días hábiles desde la notificación, sin posibilidad de ampliación",
+        "b": "Quince días hábiles desde la recepción del requerimiento en todo caso",
+        "c": "Diez días a partir del siguiente al de la notificación del correspondiente acto, salvo que en la norma correspondiente se fije plazo distinto",
+        "d": "Un mes desde la notificación, que es el plazo general de la Ley 39/2015"
+      },
+      "correct": "c",
+      "explicacion": "Los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de diez días a partir del siguiente al de la notificación del correspondiente acto, salvo que en la norma correspondiente se fije un plazo distinto.",
+      "ley": "Artículo 73.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La declaración de lesividad no será susceptible de recurso:",
+      "options": {
+        "a": "En ningún caso ni ante ningún órgano, incluida la jurisdicción contencioso-administrativa",
+        "b": "Aunque podrá notificarse a los interesados a los meros efectos informativos; solo podrá examinarse como presupuesto procesal de admisibilidad de la acción en el proceso judicial",
+        "c": "Salvo el recurso de alzada ante el órgano de tutela de la Administración declarante",
+        "d": "Salvo que afecte a derechos fundamentales, en cuyo caso cabe recurso de amparo constitucional"
+      },
+      "correct": "b",
+      "explicacion": "La declaración de lesividad no es susceptible de recurso, aunque puede notificarse a los interesados a efectos meramente informativos. Sin perjuicio de ello, podrá examinarse como presupuesto procesal de admisibilidad de la acción en el proceso judicial contencioso-administrativo correspondiente.",
+      "ley": "Artículo 107.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La ampliación del plazo máximo de resolución y notificación puede acordarse de manera excepcional cuando:",
+      "options": {
+        "a": "El procedimiento tenga una cuantía económica superior a cien mil euros",
+        "b": "El interesado lo solicite por escrito sin necesidad de justificación alguna",
+        "c": "El órgano competente lo acuerde sin limitación, en cualquier supuesto que lo estime oportuno",
+        "d": "Se hayan agotado los medios personales y materiales disponibles, no pudiendo ser superior al establecido para la tramitación del procedimiento, y contra este acuerdo no cabrá recurso"
+      },
+      "correct": "d",
+      "explicacion": "Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles, el órgano competente puede acordar motivadamente la ampliación del plazo máximo de resolución y notificación, no pudiendo ser este superior al establecido para la tramitación del procedimiento. Contra este acuerdo no cabrá recurso.",
+      "ley": "Artículo 23.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El instructor de un procedimiento solo puede rechazar las pruebas propuestas por los interesados cuando:",
+      "options": {
+        "a": "Sean de difícil práctica y requieran más de diez días para su realización",
+        "b": "El procedimiento sea de urgencia y el instructor lo considere conveniente",
+        "c": "Las pruebas hayan sido propuestas fuera del período de prueba establecido",
+        "d": "Sean manifiestamente improcedentes o innecesarias, mediante resolución motivada"
+      },
+      "correct": "d",
+      "explicacion": "El instructor del procedimiento solo podrá rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, debiendo hacerlo mediante resolución motivada. Esta limitación garantiza el principio de contradicción y el derecho de defensa de los interesados.",
+      "ley": "Artículo 77.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En los procedimientos sancionadores, los hechos declarados probados por resoluciones judiciales penales firmes:",
+      "options": {
+        "a": "Vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que sustancien",
+        "b": "Solo vinculan si la resolución judicial penal es posterior al procedimiento sancionador",
+        "c": "No vinculan a la Administración, que puede apreciar los hechos libremente con independencia de lo resuelto en vía penal",
+        "d": "Vinculan únicamente cuando así lo acuerde expresamente el órgano instructor del procedimiento"
+      },
+      "correct": "a",
+      "explicacion": "En los procedimientos de carácter sancionador, los hechos declarados probados por resoluciones judiciales penales firmes vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien, con independencia de si la resolución penal es anterior o posterior al procedimiento administrativo sancionador.",
+      "ley": "Artículo 77.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La presunción de validez de los actos administrativos puede desvirtuarse cuando:",
+      "options": {
+        "a": "El interesado manifieste su disconformidad con el contenido del acto",
+        "b": "Se acredite que el acto incurre en alguna de las causas de nulidad o anulabilidad previstas en los artículos 47 y 48 de la Ley 39/2015",
+        "c": "El acto haya sido dictado con infracción de plazos procedimentales",
+        "d": "El acto haya sido dictado por un órgano administrativo distinto del que inició el procedimiento"
+      },
+      "correct": "b",
+      "explicacion": "Los actos administrativos se presumen válidos y producen efectos desde la fecha en que se dictan, pero esta presunción no es absoluta. Puede desvirtuarse demostrando que concurre alguna de las causas de nulidad de pleno derecho del artículo 47 o de anulabilidad del artículo 48, que pueden hacerse valer a través de los recursos administrativos y judiciales correspondientes.",
+      "ley": "Artículos 39, 47 y 48 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los interesados que no cumplan los trámites en el plazo establecido podrán ser declarados decaídos en su derecho. No obstante:",
+      "options": {
+        "a": "La Administración tiene discrecionalidad plena para admitir o no la actuación tardía",
+        "b": "Solo podrá admitirse la actuación tardía si el interesado justifica la causa de su retraso",
+        "c": "La caducidad en el trámite es definitiva e insanable en todo caso",
+        "d": "Se admitirá la actuación del interesado y producirá sus efectos legales si se produce antes o dentro del día que se notifique la resolución que tenga por transcurrido el plazo"
+      },
+      "correct": "d",
+      "explicacion": "Aunque los interesados que no cumplan los trámites en el plazo pueden ser declarados decaídos en su derecho, se admitirá la actuación del interesado y producirá sus efectos legales si se produce antes o dentro del día en que se notifique la resolución por la que se tenga por transcurrido el plazo.",
+      "ley": "Artículo 73.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. El procedimiento de revisión de oficio iniciado a solicitud de interesado, cuando el procedimiento se hubiera iniciado a solicitud de interesado y transcurrieran seis meses sin resolución:",
+      "options": {
+        "a": "La Administración deberá dictar resolución expresa en los diez días siguientes",
+        "b": "Se entenderá estimada la solicitud por silencio positivo",
+        "c": "Se producirá la caducidad automática del procedimiento",
+        "d": "Podrá entenderse la solicitud desestimada por silencio administrativo"
+      },
+      "correct": "d",
+      "explicacion": "Cuando el procedimiento de revisión de oficio se hubiera iniciado a solicitud de interesado y transcurran seis meses sin resolución, podrá entenderse la solicitud desestimada por silencio administrativo. Si el procedimiento se hubiera iniciado de oficio, el transcurso de seis meses produce la caducidad.",
+      "ley": "Artículo 106.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El despacho de los expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza, salvo que:",
+      "options": {
+        "a": "El titular de la unidad administrativa dé orden motivada en contrario, de la que quede constancia",
+        "b": "El interesado solicite urgencia justificando razones excepcionales",
+        "c": "El expediente tenga carácter económico y supere los cien mil euros",
+        "d": "El superior jerárquico lo ordene verbalmente en cualquier momento"
+      },
+      "correct": "a",
+      "explicacion": "En el despacho de expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza, salvo que el titular de la unidad administrativa dé orden motivada en contrario, de la que quede constancia. El incumplimiento da lugar a exigencia de responsabilidad disciplinaria y puede ser causa de remoción del puesto.",
+      "ley": "Artículo 71.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La condición de interesado cuando la condición deriva de una relación jurídica transmisible:",
+      "options": {
+        "a": "Requiere aprobación expresa del órgano instructor para surtir efectos",
+        "b": "No puede transmitirse bajo ningún concepto durante el procedimiento",
+        "c": "El derecho-habiente sucederá al interesado original cualquiera que sea el estado del procedimiento",
+        "d": "Solo puede transmitirse al inicio del procedimiento, no durante su tramitación"
+      },
+      "correct": "c",
+      "explicacion": "Cuando la condición de interesado derive de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición cualquiera que sea el estado del procedimiento, sin necesidad de aprobación del órgano administrativo ni limitación temporal.",
+      "ley": "Artículo 4.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas podrán rectificar en cualquier momento, de oficio o a instancia de los interesados:",
+      "options": {
+        "a": "Los errores de derecho que hubieran generado resoluciones desfavorables",
+        "b": "Solo los errores aritméticos, no los errores de hecho ni los materiales",
+        "c": "Los errores materiales, de hecho o aritméticos existentes en sus actos",
+        "d": "Únicamente los errores cometidos en los últimos cuatro años"
+      },
+      "correct": "c",
+      "explicacion": "Las Administraciones Públicas pueden rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos. Esta potestad no tiene plazo y es diferente de la revisión de oficio de actos nulos o de la declaración de lesividad.",
+      "ley": "Artículo 109.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La tramitación simplificada del procedimiento incluye entre sus trámites el de información pública:",
+      "options": {
+        "a": "Solo si el órgano instructor lo acuerda expresamente en el acuerdo de inicio",
+        "b": "No, el trámite de información pública no forma parte de los trámites previstos para la tramitación simplificada",
+        "c": "Sí, siempre que el procedimiento afecte a más de diez personas",
+        "d": "Sí, es siempre obligatorio aunque el procedimiento sea simplificado"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 96.6 enumera los trámites que constan en la tramitación simplificada: inicio, subsanación, alegaciones al inicio, trámite de audiencia solo si la resolución va a ser desfavorable, informe del servicio jurídico y del CGPJ cuando sean preceptivos, dictamen del Consejo de Estado cuando sea preceptivo, y resolución. El trámite de información pública no está incluido en esta enumeración.",
+      "ley": "Artículo 96.6 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Si cuando se tramita un procedimiento simplificado se exige un trámite no previsto en ese tipo de tramitación:",
+      "options": {
+        "a": "El procedimiento deberá tramitarse de manera ordinaria",
+        "b": "El trámite no previsto simplemente se omite, sin consecuencias",
+        "c": "Solo puede incluirse si el Consejo de Estado lo considera necesario",
+        "d": "El órgano puede incluirlo por analogía con la tramitación ordinaria"
+      },
+      "correct": "a",
+      "explicacion": "Cuando un procedimiento exija la realización de un trámite no previsto en la tramitación simplificada, deberá ser tramitado de manera ordinaria. Esto garantiza que la simplificación no suponga una reducción de las garantías procedimentales en los casos que lo requieran.",
+      "ley": "Artículo 96.7 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En procedimientos de responsabilidad patrimonial donde se inicia tramitación simplificada y el órgano aprecia inequívocamente la relación de causalidad y la cuantía:",
+      "options": {
+        "a": "Puede resolver directamente sin tramitación adicional, prescindiendo de toda audiencia",
+        "b": "Puede acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado",
+        "c": "Debe elevar el expediente al Consejo de Ministros para su resolución directa",
+        "d": "Debe continuar con la tramitación ordinaria en todo caso por tratarse de responsabilidad patrimonial"
+      },
+      "correct": "b",
+      "explicacion": "En procedimientos de responsabilidad patrimonial, si una vez iniciado el procedimiento el órgano competente considera inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y la cuantía de la indemnización, puede acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado.",
+      "ley": "Artículo 96.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas no podrán iniciar ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin que previamente:",
+      "options": {
+        "a": "Hayan transcurrido treinta días desde la notificación de la resolución que se va a ejecutar",
+        "b": "El Consejo de Estado haya emitido dictamen favorable sobre la ejecución",
+        "c": "Haya sido adoptada la resolución que sirva de fundamento jurídico a dicha actuación",
+        "d": "El interesado haya sido oído en relación con la ejecución concreta que va a practicarse"
+      },
+      "correct": "c",
+      "explicacion": "Las Administraciones Públicas no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico. El órgano que ordene un acto de ejecución material estará obligado a notificar al particular interesado la resolución que autorice la actuación.",
+      "ley": "Artículo 97 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_09_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La compulsión sobre las personas como medio de ejecución forzosa puede aplicarse:",
+      "options": {
+        "a": "Exclusivamente para las obligaciones de pago de multas y sanciones pecuniarias",
+        "b": "En cualquier supuesto de incumplimiento, cuando la ejecución subsidiaria no sea posible",
+        "c": "En los actos que impongan una obligación personalísima de no hacer o soportar, en los casos en que la ley expresamente lo autorice, y dentro siempre del respeto a la dignidad y los derechos constitucionales",
+        "d": "Solo cuando así lo ordene el Ministro del Interior en casos de seguridad pública"
+      },
+      "correct": "c",
+      "explicacion": "Los actos administrativos que impongan una obligación personalísima de no hacer o soportar pueden ejecutarse por compulsión directa sobre las personas en los casos en que la ley expresamente lo autorice, y siempre dentro del respeto debido a su dignidad y a los derechos reconocidos en la Constitución.",
+      "ley": "Artículo 104.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+  ]
+}

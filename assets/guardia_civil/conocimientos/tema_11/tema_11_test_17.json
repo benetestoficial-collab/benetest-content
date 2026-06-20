@@ -1,0 +1,307 @@
+{
+  "tema_numero": 11,
+  "tema": "Protección de Datos",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_11_test_17_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una empresa española pretende transferir datos a un país que cuenta con decisión de adecuación de la Comisión Europea. ¿Necesita autorización adicional de la AEPD?",
+      "options": {
+        "a": "No, las transferencias a países con decisión de adecuación están amparadas directamente por dicha decisión, sin necesidad de autorización adicional de la AEPD",
+        "b": "Solo si el volumen de datos transferidos supera los diez mil registros anuales",
+        "c": "Solo si la empresa receptora pertenece a un sector regulado específicamente",
+        "d": "Sí, siempre se requiere autorización previa de la AEPD para cualquier transferencia internacional"
+      },
+      "correct": "a",
+      "explicacion": "El régimen de autorización previa de la AEPD del artículo 42 de la LOPD se aplica precisamente a las transferencias a países u organizaciones que NO cuenten con decisión de adecuación aprobada por la Comisión ni se amparen en las garantías del artículo 46.2 del RGPD, por lo que existiendo decisión de adecuación no resulta necesaria dicha autorización adicional.",
+      "ley": "Artículo 42.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una multinacional con sede en España solicita la aprobación de normas corporativas vinculantes para sus transferencias intragrupo. ¿Cuál es el plazo máximo de duración de este procedimiento y qué efecto produce la remisión al Comité Europeo?",
+      "options": {
+        "a": "Seis meses, sin posibilidad de suspensión por ningún motivo durante su tramitación",
+        "b": "Doce meses, equivalente al plazo del procedimiento sancionador general",
+        "c": "Nueve meses de duración máxima, quedando el procedimiento suspendido mientras se tramita el dictamen del Comité Europeo de Protección de Datos",
+        "d": "Tres meses, plazo idéntico al de admisión a trámite de reclamaciones generales"
+      },
+      "correct": "c",
+      "explicacion": "El procedimiento de aprobación de normas corporativas vinculantes se iniciará a instancia de una entidad situada en España y tendrá una duración máxima de nueve meses, quedando suspendido como consecuencia de la remisión del expediente al Comité Europeo de Protección de Datos para que emita su dictamen, continuando tras la notificación de dicho dictamen a la AEPD.",
+      "ley": "Artículo 41.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una entidad pública española suscribe un memorando de entendimiento con un organismo público de un tercer Estado para realizar transferencias de datos, incorporando derechos efectivos y exigibles para los afectados. ¿Qué requiere esta transferencia?",
+      "options": {
+        "a": "No requiere ninguna autorización, al tratarse de un acuerdo entre entidades públicas",
+        "b": "Solo requiere notificación posterior, sin necesidad de autorización previa",
+        "c": "Autorización previa de la AEPD, conforme al artículo 42.1.b) de la LOPD relativo a entidades del artículo 77.1 que fundamenten la transferencia en acuerdos internacionales no normativos",
+        "d": "Requiere aprobación de las Cortes Generales mediante ley, como si fuera un tratado internacional"
+      },
+      "correct": "c",
+      "explicacion": "La autorización previa de la AEPD podrá otorgarse, entre otros supuestos, cuando la transferencia se lleve a cabo por alguno de los responsables o encargados del artículo 77.1 de la LOPD y se funde en disposiciones incorporadas a acuerdos internacionales no normativos con otras autoridades u organismos públicos de terceros Estados, que incorporen derechos efectivos y exigibles para los afectados, incluidos los memorandos de entendimiento.",
+      "ley": "Artículo 42.1.b) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una empresa fundamenta una transferencia internacional en sus intereses legítimos imperiosos. ¿Cuándo debe informar a la AEPD y a los afectados sobre dicha transferencia?",
+      "options": {
+        "a": "Solo es necesario informar a la AEPD, no existe obligación de informar a los afectados",
+        "b": "En cualquier momento posterior, sin plazo específico de antelación",
+        "c": "Con carácter previo a la realización de la transferencia",
+        "d": "Solo si la AEPD lo solicita expresamente con posterioridad a la transferencia"
+      },
+      "correct": "c",
+      "explicacion": "Los responsables del tratamiento deberán informar a la AEPD de cualquier transferencia fundada en intereses legítimos imperiosos, y asimismo informarán a los afectados de la transferencia y de los intereses legítimos perseguidos. Esta información deberá facilitarse con carácter previo a la realización de la transferencia.",
+      "ley": "Artículo 43 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Qué naturaleza jurídica tiene la AEPD y de qué Ministerio depende para sus relaciones con el Gobierno?",
+      "options": {
+        "a": "Es una autoridad administrativa independiente de ámbito estatal, relacionándose con el Gobierno a través del Ministerio de la Presidencia, Justicia y Relaciones de las Cortes",
+        "b": "Es un órgano consultivo sin capacidad de actuación administrativa propia",
+        "c": "Es una sociedad mercantil estatal participada al cien por cien por el Estado",
+        "d": "Es un organismo autónomo dependiente jerárquicamente del Ministerio de Justicia"
+      },
+      "correct": "a",
+      "explicacion": "La AEPD es una autoridad administrativa independiente de ámbito estatal, con personalidad jurídica y plena capacidad pública y privada, que actúa con plena independencia de los poderes públicos. Se relaciona con el Gobierno a través del Ministerio de la Presidencia, Justicia y Relaciones de las Cortes.",
+      "ley": "Artículo 44.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Tras la expiración del mandato de la Presidencia de la AEPD, ¿con cuánta antelación debe el Ministerio de la Presidencia ordenar la publicación de la convocatoria pública de candidatos?",
+      "options": {
+        "a": "Quince días antes, plazo breve que agiliza la renovación del cargo",
+        "b": "Un año antes, plazo extenso que permite preparar adecuadamente el proceso",
+        "c": "Seis meses antes, equivalente a la duración del procedimiento de apercibimiento",
+        "d": "Dos meses antes de producirse la expiración del mandato o, en caso de cese por otras causas, cuando este se haya producido"
+      },
+      "correct": "d",
+      "explicacion": "Dos meses antes de producirse la expiración del mandato o, en el resto de las causas de cese, cuando se haya producido este, el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes ordenará la publicación en el BOE de la convocatoria pública de candidatos.",
+      "ley": "Artículo 48.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Un ciudadano desea conocer si existe un delegado de protección de datos designado para una determinada empresa. ¿Dónde puede consultar esta información?",
+      "options": {
+        "a": "En la lista actualizada de delegados de protección de datos que mantienen la AEPD y las autoridades autonómicas, accesible por medios electrónicos",
+        "b": "Solo a través de un requerimiento judicial específico para cada consulta",
+        "c": "Únicamente solicitándolo por escrito a la propia empresa, sin existir registro público alguno",
+        "d": "En el Registro Mercantil correspondiente al domicilio social de la empresa"
+      },
+      "correct": "a",
+      "explicacion": "La AEPD y las autoridades autonómicas de protección de datos mantendrán, en el ámbito de sus respectivas competencias, una lista actualizada de delegados de protección de datos que será accesible por medios electrónicos, lo que permite la consulta pública de esta información.",
+      "ley": "Artículo 34.4 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un investigador de la AEPD necesita acceder al domicilio del responsable inspeccionado, que se niega a permitir la entrada. ¿Qué debe hacer el investigador?",
+      "options": {
+        "a": "Puede entrar de todos modos, al ser agente de la autoridad en el ejercicio de sus funciones",
+        "b": "Obtener la correspondiente autorización judicial, ya que sin consentimiento del inspeccionado es preciso contar con dicha autorización para acceder al domicilio constitucionalmente protegido",
+        "c": "Debe solicitar la colaboración de las Fuerzas y Cuerpos de Seguridad sin más trámite adicional",
+        "d": "Debe esperar a que el inspeccionado cambie de opinión, sin posibilidad de vía alternativa"
+      },
+      "correct": "b",
+      "explicacion": "Cuando fuese necesario el acceso por el personal que desarrolla la actividad de investigación al domicilio constitucionalmente protegido del inspeccionado, será preciso contar con su consentimiento o haber obtenido la correspondiente autorización judicial, en garantía del derecho fundamental a la inviolabilidad del domicilio reconocido constitucionalmente.",
+      "ley": "Artículo 53.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. La AEPD decide realizar un plan de auditoría preventiva sobre el sector de las telecomunicaciones. ¿Qué efecto tienen las directrices que se dicten a resultas de dicho plan?",
+      "options": {
+        "a": "Requieren ratificación previa del Comité Europeo de Protección de Datos para ser efectivas",
+        "b": "Tienen carácter meramente orientativo, sin obligatoriedad alguna para el sector afectado",
+        "c": "Solo son vinculantes si las empresas del sector las aceptan expresamente mediante código de conducta",
+        "d": "Serán de obligado cumplimiento para el sector o responsable al que se refiera el plan de auditoría"
+      },
+      "correct": "d",
+      "explicacion": "A resultas de los planes de auditoría, la Presidencia de la AEPD podrá dictar las directrices generales o específicas precisas para asegurar la plena adaptación del sector o responsable al RGPD y a la LOPD. Las directrices serán de obligado cumplimiento para el sector o responsable al que se refiera el plan de auditoría.",
+      "ley": "Artículo 54.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La AEPD pretende dictar una circular para fijar criterios de actuación en la aplicación del RGPD. ¿Cuándo resulta obligatoria dicha circular?",
+      "options": {
+        "a": "Desde su comunicación individual a cada uno de los responsables afectados",
+        "b": "Únicamente tras su aprobación expresa por el Consejo de Ministros",
+        "c": "Desde el momento mismo de su firma por la Presidencia, sin necesidad de publicación",
+        "d": "Una vez publicada en el Boletín Oficial del Estado"
+      },
+      "correct": "d",
+      "explicacion": "Las disposiciones que fijen los criterios a que responderá la actuación de la AEPD en la aplicación del RGPD y la LOPD se denominarán Circulares de la Agencia Española de Protección de Datos, siendo obligatorias una vez publicadas en el Boletín Oficial del Estado.",
+      "ley": "Artículo 55.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una Comunidad Autónoma que dispone de su propia autoridad de protección de datos pretende ejercer funciones de cooperación internacional en el ámbito iberoamericano. ¿Está habilitada legalmente para ello?",
+      "options": {
+        "a": "Sí, a las Comunidades Autónomas, a través de sus autoridades autonómicas, les compete ejercer funciones como sujetos de la acción exterior en el marco de sus competencias, conforme a la Ley 2/2014",
+        "b": "Solo pueden actuar si cuentan con autorización expresa previa del Ministerio de Asuntos Exteriores para cada acción concreta",
+        "c": "Solo está permitido respecto de países miembros de la Unión Europea, no de terceros Estados",
+        "d": "No, la acción exterior en materia de protección de datos es competencia exclusiva y excluyente de la AEPD"
+      },
+      "correct": "a",
+      "explicacion": "Corresponde a la AEPD la titularidad y ejercicio de las funciones de acción exterior del Estado en materia de protección de datos. Asimismo, a las comunidades autónomas, a través de las autoridades autonómicas de protección de datos, les compete ejercitar las funciones como sujetos de la acción exterior en el marco de sus competencias conforme a la Ley 2/2014, de la Acción y del Servicio Exterior del Estado.",
+      "ley": "Artículo 56.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un Ayuntamiento, integrante del sector público local, trata datos personales de sus vecinos. ¿Qué autoridad de control resulta competente conforme al artículo 57 de la LOPD si la Comunidad Autónoma correspondiente cuenta con autoridad propia de protección de datos?",
+      "options": {
+        "a": "El Tribunal Constitucional, por tratarse de una entidad integrante de la Administración Local",
+        "b": "Siempre la AEPD, al ser la autoridad estatal con competencia general sobre todos los Ayuntamientos",
+        "c": "El Defensor del Pueblo, en su función de supervisión de las Administraciones Públicas",
+        "d": "La autoridad autonómica de protección de datos, al tratarse de un tratamiento de una Entidad Local incluida en su ámbito territorial"
+      },
+      "correct": "d",
+      "explicacion": "Las autoridades autonómicas de protección de datos podrán ejercer las funciones y potestades del RGPD cuando se refieran a tratamientos de los que sean responsables las entidades integrantes del sector público de la correspondiente Comunidad Autónoma o de las Entidades Locales incluidas en su ámbito territorial.",
+      "ley": "Artículo 57.1.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Con qué periodicidad mínima deben celebrarse reuniones de cooperación entre la AEPD y las autoridades autonómicas de protección de datos?",
+      "options": {
+        "a": "Mensual, dada la intensa actividad regulatoria en materia de protección de datos",
+        "b": "Semestral, sin perjuicio de otras reuniones que pueda convocar la Presidencia de la AEPD por iniciativa propia o a solicitud de otra autoridad",
+        "c": "No existe periodicidad mínima legal, dependiendo enteramente de la voluntad de las partes",
+        "d": "Anual, como única periodicidad mínima exigible legalmente"
+      },
+      "correct": "b",
+      "explicacion": "La Presidencia de la AEPD convocará, por iniciativa propia o cuando lo solicite otra autoridad, a las autoridades autonómicas para contribuir a la aplicación coherente del RGPD y la LOPD. En todo caso, se celebrarán reuniones semestrales de cooperación, como mínimo legal exigible.",
+      "ley": "Artículo 58 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La AEPD requiere a una autoridad autonómica para que cese un tratamiento contrario al RGPD, sin obtener respuesta en el plazo de un mes establecido legalmente. ¿Qué puede hacer la AEPD?",
+      "options": {
+        "a": "Ejercer las acciones que procedan ante la jurisdicción contencioso-administrativa",
+        "b": "Asumir directamente la tramitación del expediente, sustituyendo a la autoridad autonómica sin más trámite",
+        "c": "Solicitar al Gobierno la disolución del organismo autonómico de protección de datos",
+        "d": "Imponer una sanción económica directa a la propia autoridad autonómica incumplidora"
+      },
+      "correct": "a",
+      "explicacion": "Si la autoridad autonómica no atendiere en plazo el requerimiento de la AEPD para que cese un tratamiento contrario al RGPD, o las medidas adoptadas no supusiesen la cesación en el tratamiento ilícito, la AEPD podrá ejercer las acciones que procedan ante la jurisdicción contencioso-administrativa.",
+      "ley": "Artículo 59 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. Una autoridad autonómica, en un procedimiento del artículo 65 del RGPD, tiene la condición de autoridad interesada no principal. ¿Qué debe hacer cuando el asunto sea remitido al Comité Europeo de Protección de Datos?",
+      "options": {
+        "a": "No tiene ninguna obligación de actuación adicional, quedando totalmente al margen del procedimiento",
+        "b": "Debe presentar un recurso de alzada ante el Tribunal Constitucional contra la remisión al Comité",
+        "c": "Informar a la AEPD, facilitándole la documentación e información necesarias para su tramitación, siendo la AEPD asistida por un representante de dicha autoridad autonómica",
+        "d": "Debe asumir directamente toda la representación ante el Comité Europeo, sin intervención de la AEPD"
+      },
+      "correct": "c",
+      "explicacion": "Las autoridades autonómicas que tengan la condición de autoridad interesada no principal en un procedimiento del artículo 65 del RGPD informarán a la AEPD cuando el asunto sea remitido al Comité Europeo de Protección de Datos, facilitándole la documentación e información necesarias, siendo la AEPD asistida por un representante de la autoridad autonómica interesada en su intervención ante el Comité.",
+      "ley": "Artículo 62.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Una entidad situada en España solicita la aprobación de cláusulas contractuales tipo para sus transferencias internacionales. ¿A qué organismo se sometE previamente el proyecto?",
+      "options": {
+        "a": "Al Consejo de Estado, en su función consultiva sobre normas administrativas generales",
+        "b": "Al Tribunal Constitucional, por afectar a un derecho fundamental constitucionalmente protegido",
+        "c": "Al dictamen del Comité Europeo de Protección de Datos previsto en el artículo 64 del RGPD",
+        "d": "Únicamente a la opinión interna del Departamento Jurídico de la propia AEPD, sin trámite externo"
+      },
+      "correct": "c",
+      "explicacion": "La AEPD y las autoridades autonómicas de protección de datos podrán adoptar, conforme al artículo 46.2.c) del RGPD, cláusulas contractuales tipo para la realización de transferencias internacionales de datos, que se sometE previamente al dictamen del Comité Europeo de Protección de Datos previsto en el artículo 64 del citado reglamento.",
+      "ley": "Artículo 41.1 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Cuáles son los actos y disposiciones de la Presidencia de la AEPD respecto de la vía administrativa, y ante qué órgano son recurribles?",
+      "options": {
+        "a": "Requieren recurso de alzada previo ante el Ministerio de la Presidencia antes de acudir a la vía judicial",
+        "b": "Ponen fin a la vía administrativa, siendo recurribles directamente ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+        "c": "No son recurribles en ningún caso, dada la independencia funcional de la AEPD",
+        "d": "Son recurribles ante los Juzgados de lo Contencioso-administrativo del domicilio del recurrente"
+      },
+      "correct": "b",
+      "explicacion": "Los actos y disposiciones dictados por la Presidencia de la AEPD ponen fin a la vía administrativa, siendo recurribles, directamente, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, sin necesidad de agotar recursos administrativos previos.",
+      "ley": "Artículo 48.6 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. Un responsable pretende fundamentar una transferencia internacional en cláusulas contractuales que no corresponden a las cláusulas tipo del artículo 46.2, letras c) y d), del RGPD. ¿Qué procedimiento debe seguir?",
+      "options": {
+        "a": "Debe esperar a obtener primero una decisión de adecuación específica para esa transferencia concreta",
+        "b": "Le basta con informar a los afectados, sin necesidad de ninguna autorización administrativa previa",
+        "c": "Puede realizar la transferencia sin más trámite, al tratarse de cláusulas contractuales libremente pactadas",
+        "d": "Solicitar la autorización previa de la AEPD o, en su caso, de las autoridades autonómicas, con una duración máxima del procedimiento de seis meses"
+      },
+      "correct": "d",
+      "explicacion": "Las transferencias que pretendan fundamentarse en cláusulas contractuales que no correspondan a las cláusulas tipo del artículo 46.2, letras c) y d), del RGPD requerirán autorización previa de la AEPD o, en su caso, de las autoridades autonómicas. El procedimiento tendrá una duración máxima de seis meses.",
+      "ley": "Artículo 42.1.a) de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 11. Protección de datos. ¿Quién aprueba el Estatuto de la AEPD y mediante qué instrumento normativo?",
+      "options": {
+        "a": "El Comité Europeo de Protección de Datos, por tratarse de una materia armonizada",
+        "b": "El Gobierno, a propuesta de la propia AEPD, mediante real decreto",
+        "c": "El Congreso de los Diputados, mediante ley ordinaria aprobada en pleno",
+        "d": "La propia AEPD de forma autónoma, sin necesidad de aprobación gubernativa"
+      },
+      "correct": "b",
+      "explicacion": "El Gobierno, a propuesta de la Agencia Española de Protección de Datos, aprobará su Estatuto mediante real decreto, lo que combina la iniciativa de la propia Agencia con la forma jurídica de aprobación gubernativa necesaria para este tipo de normas.",
+      "ley": "Artículo 45.2 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    },
+    {
+      "id": "tema_11_test_17_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 11. Protección de datos. La AEPD precisa identificar al responsable de una conducta presuntamente infractora realizada a través de un servicio de la sociedad de la información, sin poder hacerlo por otros medios. ¿Qué tipo de datos puede recabar de los prestadores de servicios?",
+      "options": {
+        "a": "El contenido íntegro de todas las comunicaciones privadas mantenidas por el usuario investigado",
+        "b": "La identificación de la dirección de protocolo de Internet desde la que se hubiera llevado a cabo la conducta, la fecha y hora, y el nombre, número de documento identificativo y dirección del usuario asociado a dicha dirección IP",
+        "c": "Los datos bancarios completos del usuario, incluyendo movimientos de cuenta de los últimos cinco años",
+        "d": "Las claves de acceso a las cuentas personales del usuario, sin limitación alguna"
+      },
+      "correct": "b",
+      "explicacion": "Cuando no haya podido realizar la identificación por otros medios, la AEPD podrá recabar de los prestadores de servicios de la sociedad de la información los datos imprescindibles para la identificación del presunto responsable, entre ellos: la identificación de la dirección de protocolo de Internet desde la que se llevó a cabo la conducta, la fecha y hora, y el nombre, número de documento identificativo y dirección del usuario al que se hubiera asignado dicha dirección IP.",
+      "ley": "Artículo 52.3 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales"
+    }
+  ]
+}

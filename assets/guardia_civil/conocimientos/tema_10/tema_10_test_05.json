@@ -1,0 +1,307 @@
+{
+  "tema_numero": 10,
+  "tema": "Derecho Administrativo",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_10_test_05_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El procedimiento administrativo, sometido al principio de celeridad, se impulsará:",
+      "options": {
+        "a": "De oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad",
+        "b": "A criterio discrecional de cada funcionario, sin sujeción a principios concretos",
+        "c": "Únicamente a instancia del interesado, que deberá instar cada acto de trámite",
+        "d": "Solo cuando el órgano superior jerárquico lo ordene expresamente"
+      },
+      "correct": "a",
+      "explicacion": "El procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad. En el despacho de expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza.",
+      "ley": "Artículo 71.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las cuestiones incidentales que se susciten en el procedimiento administrativo:",
+      "options": {
+        "a": "Serán resueltas por el órgano superior jerárquico en todos los casos",
+        "b": "No suspenderán la tramitación del mismo, salvo la recusación",
+        "c": "Solo suspenderán el procedimiento cuando así lo solicite el interesado",
+        "d": "Suspenderán siempre el procedimiento hasta su resolución definitiva"
+      },
+      "correct": "b",
+      "explicacion": "Las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones, no suspenderán la tramitación del mismo, salvo la recusación, que sí produce la suspensión hasta su resolución.",
+      "ley": "Artículo 74 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los interesados podrán aducir alegaciones y aportar documentos:",
+      "options": {
+        "a": "Solo al inicio del procedimiento, junto con la solicitud",
+        "b": "En cualquier momento del procedimiento anterior al trámite de audiencia",
+        "c": "En cualquier momento del procedimiento, incluso después del trámite de audiencia",
+        "d": "Únicamente en el trámite de audiencia, no antes ni después"
+      },
+      "correct": "b",
+      "explicacion": "Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio, que serán tenidos en cuenta por el órgano competente al redactar la correspondiente propuesta de resolución.",
+      "ley": "Artículo 76.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El período de prueba en un procedimiento administrativo tendrá un plazo:",
+      "options": {
+        "a": "De cinco días hábiles, prorrogables por otros cinco a petición de parte",
+        "b": "No superior a treinta días ni inferior a diez, pudiendo acordarse además un período extraordinario de prueba de hasta diez días adicionales a petición del interesado",
+        "c": "Indefinido hasta que se practiquen todas las pruebas propuestas",
+        "d": "No superior a quince días ni inferior a cinco en todo caso"
+      },
+      "correct": "b",
+      "explicacion": "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor acordará la apertura de un período de prueba por un plazo no superior a treinta días ni inferior a diez. Cuando lo considere necesario, el instructor, a petición de los interesados, podrá decidir la apertura de un período extraordinario de prueba de hasta diez días.",
+      "ley": "Artículo 77.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los informes en un procedimiento administrativo, salvo disposición expresa en contrario:",
+      "options": {
+        "a": "Serán preceptivos pero no vinculantes en todo caso",
+        "b": "No tienen plazo máximo de emisión, quedando a criterio del órgano emisor",
+        "c": "Serán facultativos y no vinculantes, emitiéndose en el plazo de diez días",
+        "d": "Serán siempre preceptivos y vinculantes, sin posibilidad de excepción"
+      },
+      "correct": "c",
+      "explicacion": "Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes. Se emitirán por medios electrónicos en el plazo de diez días, salvo que la disposición o los plazos del procedimiento permitan o exijan otro plazo. Si no se emite el informe en plazo pueden proseguirse las actuaciones, salvo en el caso de informes preceptivos.",
+      "ley": "Artículos 80.1 y 80.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En los procedimientos de responsabilidad patrimonial, será preceptivo solicitar dictamen del Consejo de Estado cuando las indemnizaciones reclamadas sean de cuantía igual o superior a:",
+      "options": {
+        "a": "300.000 euros, sin posibilidad de reducción por normativa autonómica",
+        "b": "100.000 euros, exclusivamente en el ámbito de la Administración General del Estado",
+        "c": "10.000 euros en cualquier caso",
+        "d": "50.000 euros, o a la que establezca la legislación autonómica, así como en los casos que disponga la Ley Orgánica del Consejo de Estado"
+      },
+      "correct": "d",
+      "explicacion": "Cuando las indemnizaciones reclamadas en un procedimiento de responsabilidad patrimonial sean de cuantía igual o superior a 50.000 euros, o a la que establezca la legislación autonómica correspondiente, así como en los casos que disponga la Ley Orgánica del Consejo de Estado, será preceptivo solicitar dictamen del Consejo de Estado o del órgano consultivo equivalente de la Comunidad Autónoma.",
+      "ley": "Artículo 81.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El trámite de audiencia a los interesados se realizará con un plazo de alegaciones de:",
+      "options": {
+        "a": "Veinte días hábiles en todo caso",
+        "b": "Treinta días naturales como máximo y quince como mínimo",
+        "c": "No inferior a cinco días ni superior a diez",
+        "d": "No inferior a diez días ni superior a quince"
+      },
+      "correct": "d",
+      "explicacion": "Instruidos los procedimientos e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados, concediéndoles un plazo no inferior a diez días ni superior a quince para alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+      "ley": "Artículo 82.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En el trámite de información pública, el plazo para formular alegaciones no podrá ser inferior a:",
+      "options": {
+        "a": "Veinte días",
+        "b": "Treinta días naturales",
+        "c": "Cinco días hábiles",
+        "d": "Diez días hábiles"
+      },
+      "correct": "a",
+      "explicacion": "En el trámite de información pública se publicará un anuncio en el diario oficial correspondiente para que cualquier persona pueda examinar el expediente o la parte acordada y formular alegaciones. El plazo para formular alegaciones no podrá ser inferior a veinte días.",
+      "ley": "Artículo 83.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las formas de poner fin al procedimiento administrativo son, entre otras:",
+      "options": {
+        "a": "La resolución, el desistimiento, la renuncia al derecho, la declaración de caducidad y la imposibilidad material de continuarlo por causas sobrevenidas",
+        "b": "La resolución y el silencio administrativo exclusivamente",
+        "c": "Solo la resolución favorable y la terminación convencional",
+        "d": "Únicamente la resolución, ya que las demás no son formas de terminación previstas en la ley"
+      },
+      "correct": "a",
+      "explicacion": "Pondrán fin al procedimiento: la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud cuando no esté prohibida por el ordenamiento, la declaración de caducidad, y la imposibilidad material de continuarlo por causas sobrevenidas (debiendo la resolución ser motivada en todo caso).",
+      "ley": "Artículo 84 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En los procedimientos sancionadores, cuando la sanción tenga únicamente carácter pecuniario y el presunto responsable reconozca su responsabilidad, se aplicarán reducciones de al menos:",
+      "options": {
+        "a": "El 50% sobre el importe, solo si no hay daños a terceros",
+        "b": "El 30%, no acumulable y sin necesidad de renunciar al recurso",
+        "c": "El 10% sobre el importe, sin posibilidad de acumulación",
+        "d": "El 20% sobre el importe de la sanción propuesta, siendo estas reducciones acumulables entre sí, condicionadas al desistimiento o renuncia de cualquier recurso en vía administrativa"
+      },
+      "correct": "d",
+      "explicacion": "En los procedimientos sancionadores con sanción exclusivamente pecuniaria, cuando el presunto responsable reconoce su responsabilidad o paga voluntariamente, el órgano competente aplicará reducciones de al menos el 20% sobre la sanción propuesta, siendo acumulables entre sí. La efectividad de estas reducciones está condicionada al desistimiento o renuncia de cualquier recurso en vía administrativa.",
+      "ley": "Artículo 85.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Antes de dictar resolución, el órgano competente podrá decidir la realización de actuaciones complementarias. El plazo para formular alegaciones tras su finalización es de:",
+      "options": {
+        "a": "Treinta días para alegaciones y un mes para practicar las actuaciones",
+        "b": "Cinco días hábiles para alegaciones y cinco días para practicarlas",
+        "c": "Siete días para formular alegaciones, debiendo practicarse las actuaciones en un plazo no superior a quince días",
+        "d": "Diez días para alegaciones, sin plazo para las actuaciones"
+      },
+      "correct": "c",
+      "explicacion": "El acuerdo de realización de actuaciones complementarias se notificará a los interesados, concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes. Las actuaciones complementarias deberán practicarse en un plazo no superior a quince días, y el plazo para resolver el procedimiento quedará suspendido hasta su terminación.",
+      "ley": "Artículo 87 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La resolución que ponga fin al procedimiento en los procedimientos tramitados a solicitud del interesado:",
+      "options": {
+        "a": "Será congruente con las peticiones formuladas por este, sin que en ningún caso pueda agravar su situación inicial",
+        "b": "No está vinculada por las peticiones del interesado, actuando la Administración con plena discrecionalidad",
+        "c": "Solo puede ser favorable o archivar el procedimiento, nunca imponer nuevas cargas",
+        "d": "Podrá agravar la situación del interesado si así lo justifica el interés público"
+      },
+      "correct": "a",
+      "explicacion": "En los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por este, sin que en ningún caso pueda agravar su situación inicial y sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento si procede.",
+      "ley": "Artículo 88.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. En ningún caso podrá la Administración abstenerse de resolver:",
+      "options": {
+        "a": "Salvo que el asunto no tenga precedentes en la jurisprudencia administrativa",
+        "b": "Cuando el plazo máximo para resolver haya vencido sin haberse dictado resolución",
+        "c": "So pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso",
+        "d": "Aunque no existan preceptos legales aplicables, debiendo crear la norma aplicable al supuesto"
+      },
+      "correct": "c",
+      "explicacion": "En ningún caso puede la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso, aunque podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento.",
+      "ley": "Artículo 88.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. La resolución sancionadora será ejecutiva cuando:",
+      "options": {
+        "a": "Hayan transcurrido tres días desde su notificación al interesado",
+        "b": "No quepa contra ella ningún recurso ordinario en vía administrativa",
+        "c": "El órgano sancionador la declare expresamente ejecutiva en el propio acto",
+        "d": "El interesado haya renunciado expresamente al derecho de recurso"
+      },
+      "correct": "b",
+      "explicacion": "La resolución sancionadora será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa. Cuando sea ejecutiva, podrá suspenderse cautelarmente si el interesado manifiesta su intención de interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa.",
+      "ley": "Artículo 90.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. El desistimiento o la renuncia de los interesados en un procedimiento administrativo:",
+      "options": {
+        "a": "No pueden producirse después de la fase de instrucción del procedimiento",
+        "b": "Requieren siempre aprobación del superior jerárquico del órgano competente",
+        "c": "Podrán hacerse por cualquier medio que permita su constancia con la firma correspondiente, aceptando la Administración de plano y declarando concluso el procedimiento, salvo que terceros interesados insten su continuación en diez días",
+        "d": "Solo pueden efectuarse mediante comparecencia personal ante el órgano administrativo"
+      },
+      "correct": "c",
+      "explicacion": "El desistimiento y la renuncia pueden hacerse por cualquier medio que permita su constancia incorporando las firmas correspondientes. La Administración los aceptará de plano y declarará concluso el procedimiento, salvo que habiéndose personado terceros interesados, insten estos su continuación en el plazo de diez días desde la notificación del desistimiento o renuncia.",
+      "ley": "Artículo 94.3 y 94.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 10. Derecho Administrativo. En los procedimientos iniciados a solicitud del interesado, la caducidad se producirá cuando:",
+      "options": {
+        "a": "El procedimiento haya estado paralizado por causa imputable al interesado durante tres meses, tras advertirle previamente, y transcurrido este plazo no reanude la tramitación",
+        "b": "El interesado no pague la tasa correspondiente en el plazo de diez días",
+        "c": "El interesado no comparezca en el trámite de audiencia",
+        "d": "Transcurra el plazo máximo para resolver sin que se haya dictado resolución expresa"
+      },
+      "correct": "a",
+      "explicacion": "En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que transcurridos tres meses se producirá la caducidad. Consumido este plazo sin que el particular reanude la tramitación, la Administración acordará el archivo de las actuaciones notificándoselo al interesado.",
+      "ley": "Artículo 95.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La caducidad del procedimiento:",
+      "options": {
+        "a": "Extingue siempre todos los plazos de prescripción y acción pendientes",
+        "b": "Genera la prescripción del derecho del interesado sin posibilidad de nuevo procedimiento",
+        "c": "Produce automáticamente la prescripción de las acciones de la Administración",
+        "d": "No producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción"
+      },
+      "correct": "d",
+      "explicacion": "La caducidad no produce por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción. Si no ha prescrito, puede iniciarse un nuevo procedimiento y pueden incorporarse los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse producido la caducidad.",
+      "ley": "Artículo 95.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. La comparecencia en el trámite de información pública:",
+      "options": {
+        "a": "Solo puede realizarse presencialmente en las oficinas del órgano instructor",
+        "b": "Impide al compareciente interponer recursos posteriores contra la resolución definitiva",
+        "c": "No otorga por sí misma la condición de interesado, aunque quienes presenten alegaciones tienen derecho a obtener una respuesta razonada",
+        "d": "Otorga automáticamente la condición de interesado en el procedimiento"
+      },
+      "correct": "c",
+      "explicacion": "La incomparecencia en el trámite de información pública no impide a los interesados interponer los recursos procedentes contra la resolución definitiva. La comparecencia no otorga por sí misma la condición de interesado, aunque quienes presenten alegaciones tienen derecho a obtener una respuesta razonada de la Administración.",
+      "ley": "Artículo 83.3 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Los documentos formalizados por los funcionarios con la condición de autoridad que recojan los hechos constatados por aquellos:",
+      "options": {
+        "a": "No tienen valor probatorio especial en el procedimiento administrativo",
+        "b": "Harán prueba de los hechos constatados salvo que se acredite lo contrario",
+        "c": "Tendrán valor de prueba plena e irrefutable en todo caso",
+        "d": "Solo tendrán valor probatorio si van acompañados de la firma del superior jerárquico"
+      },
+      "correct": "b",
+      "explicacion": "Los documentos formalizados por los funcionarios a los que se reconoce la condición de autoridad y en los que, observándose los requisitos legales, se recojan los hechos constatados por aquellos, harán prueba de estos salvo que se acredite lo contrario.",
+      "ley": "Artículo 77.5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    },
+    {
+      "id": "tema_10_test_05_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 10. Derecho Administrativo. Las Administraciones Públicas podrán celebrar acuerdos, pactos o convenios para terminar convencionalmente los procedimientos, siempre que:",
+      "options": {
+        "a": "Sean aprobados por el Consejo de Ministros en todo caso",
+        "b": "Los suscriba exclusivamente el máximo órgano de la Administración competente",
+        "c": "Se limiten a asuntos de cuantía inferior a cincuenta mil euros",
+        "d": "No sean contrarios al ordenamiento jurídico, no versen sobre materias no susceptibles de transacción, y tengan por objeto satisfacer el interés público"
+      },
+      "correct": "d",
+      "explicacion": "Las Administraciones Públicas pueden celebrar acuerdos, pactos, convenios o contratos para la terminación convencional de procedimientos, siempre que no sean contrarios al ordenamiento jurídico, no versen sobre materias no susceptibles de transacción, y tengan por objeto satisfacer el interés público que tienen encomendado.",
+      "ley": "Artículo 86.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+  ]
+}
