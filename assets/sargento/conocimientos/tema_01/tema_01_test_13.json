@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 13",
+  "preguntas": [
+    {
+      "id": "tema_01_test_13_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona, como miembro de la sociedad, tiene derecho al seguro social y a la satisfacción de los derechos económicos, sociales y culturales indispensables a su dignidad.",
+        "b": "El derecho a la seguridad social reconocido en la Declaración se limita a los trabajadores en activo, excluyendo a quienes no tienen empleo.",
+        "c": "La Declaración condiciona el derecho a la seguridad social a la previa cotización del beneficiario.",
+        "d": "Este derecho queda excluido cuando el Estado considere que sus recursos son insuficientes."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 22: toda persona, como miembro de la sociedad, tiene derecho a la seguridad social, sin las condiciones o exclusiones señaladas, mediante el esfuerzo nacional y la cooperación internacional.",
+      "ley": "Artículo 22 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_13_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Trato igual ante la ley. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todos son iguales ante la ley.",
+        "b": "La igualdad ante la ley reconocida en la Declaración admite excepciones basadas en el idioma de la persona.",
+        "c": "Todos tienen derecho a igual protección de la ley, sin distinción.",
+        "d": "Todos tienen derecho a igual protección contra toda discriminación que infrinja la Declaración."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 7: todos son iguales ante la ley, sin las excepciones señaladas por razón de idioma u otra condición.",
+      "ley": "Artículo 7 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_13_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Derecho a la intimidad de las comunicaciones (en relación con garantías procesales). Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto no exige informar a la persona detenida de las razones de su detención de forma inmediata.",
+        "b": "La notificación de la acusación a la persona detenida puede demorarse indefinidamente según el Pacto.",
+        "c": "Toda persona tendrá derecho a ser informada, en el momento de su detención, de las razones de la misma, y notificada, sin demora, de la acusación formulada contra ella.",
+        "d": "Este derecho de información solo se reconoce cuando la detención se produzca por delitos graves."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 9.2: toda persona detenida será informada, en el momento de su detención, de las razones de la misma, y notificada SIN DEMORA de la acusación formulada contra ella.",
+      "ley": "Artículo 9 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_13_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Garantías mínimas en el proceso penal: tiempo para la defensa. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona acusada tiene derecho a disponer del tiempo y de los medios adecuados para la preparación de su defensa.",
+        "b": "Toda persona acusada tiene derecho a ser juzgada sin dilaciones indebidas.",
+        "c": "Toda persona acusada tiene derecho a comunicarse con un defensor de su elección.",
+        "d": "El Pacto permite limitar el tiempo de preparación de la defensa sin ningún criterio de adecuación, a discreción exclusiva del tribunal."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 14.3.b: el tiempo y los medios para la defensa deben ser ADECUADOS, no a la discreción ilimitada del tribunal.",
+      "ley": "Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_13_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Objetivos de la enseñanza. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La educación debe orientarse hacia el pleno desarrollo de la personalidad humana y del sentido de su dignidad, y debe fortalecer el respeto por los derechos humanos y las libertades fundamentales.",
+        "b": "El Pacto reserva la finalidad de fortalecer el respeto a los derechos humanos exclusivamente a la enseñanza universitaria.",
+        "c": "La educación, conforme al Pacto, debe capacitar a todas las personas para participar efectivamente en una sociedad libre, pero no debe favorecer la comprensión entre grupos raciales, étnicos o religiosos.",
+        "d": "El Pacto no contempla ninguna finalidad concreta para la educación, dejándola a la libre determinación de cada Estado."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 13.1: la educación debe orientarse al pleno desarrollo de la personalidad y la dignidad humanas, fortalecer el respeto a los derechos humanos, y favorecer la comprensión entre grupos raciales, étnicos o religiosos.",
+      "ley": "Artículo 13 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_13_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Libertad de los padres para elegir centros educativos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes se comprometen a respetar la libertad de los padres de escoger para sus hijos escuelas distintas de las creadas por las autoridades públicas.",
+        "b": "El Pacto prohíbe a los particulares y a las personas jurídicas establecer y dirigir instituciones de enseñanza.",
+        "c": "Dichas escuelas deben ajustarse a las normas mínimas que el Estado prescriba o apruebe en materia de enseñanza.",
+        "d": "Se respeta también la libertad de los padres de hacer que sus hijos reciban educación religiosa o moral de acuerdo con sus propias convicciones."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 13.4: el Pacto SÍ reconoce la libertad de los particulares y entidades para establecer y dirigir instituciones de enseñanza, sujeta a las normas mínimas del Estado.",
+      "ley": "Artículo 13 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_13_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Origen normativo del Consejo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Resolución 60/251 fue aprobada por el Consejo de Seguridad de las Naciones Unidas.",
+        "b": "La Resolución 60/251 fue aprobada por el Consejo Económico y Social en 2006.",
+        "c": "La Resolución 60/251 fue aprobada por la Asamblea General de las Naciones Unidas el 15 de marzo de 2006.",
+        "d": "La Resolución 60/251 carece de fecha de aprobación determinada en su texto."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nLa Resolución 60/251 fue aprobada por la ASAMBLEA GENERAL de las Naciones Unidas el 15 de marzo de 2006, estableciendo el Consejo de Derechos Humanos.",
+      "ley": "Resolución 60/251 de la Asamblea General de Naciones Unidas, de 15 de marzo de 2006"
+    },
+    {
+      "id": "tema_01_test_13_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Examen de la situación de derechos humanos en países concretos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo deberá ocuparse de las situaciones de violaciones de los derechos humanos, incluidas las violaciones graves y sistemáticas, y formular recomendaciones al respecto.",
+        "b": "El Consejo podrá examinar situaciones que requieran su atención durante todo el año, en sus períodos de sesiones.",
+        "c": "El Consejo debe servir de foro para el diálogo sobre cuestiones temáticas relativas a todos los derechos humanos.",
+        "d": "El Consejo carece de toda competencia para examinar situaciones de derechos humanos en países concretos, limitándose a cuestiones temáticas generales."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 3: el Consejo SÍ deberá ocuparse de situaciones de violaciones de derechos humanos, incluso país por país, además de su labor temática general.",
+      "ley": "Párrafo 3 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_13_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Comunicaciones entre Estados Partes (artículo 21). Señale la opción CORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte podrá declarar en cualquier momento que reconoce la competencia del Comité para recibir y examinar las comunicaciones en que un Estado Parte alegue que otro Estado Parte no cumple las obligaciones de la Convención.",
+        "b": "Las comunicaciones entre Estados previstas en el artículo 21 son admisibles automáticamente para todos los Estados Partes, sin declaración alguna.",
+        "c": "El Comité está excluido de poner sus buenos oficios a disposición de los Estados interesados en estas comunicaciones.",
+        "d": "Este mecanismo de comunicaciones entre Estados sustituye y deroga el mecanismo de informes periódicos previsto en el artículo 19."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 21.1: este mecanismo requiere DECLARACIÓN EXPRESA de reconocimiento de competencia; no es automático ni deroga el mecanismo de informes periódicos, que coexiste con él.",
+      "ley": "Artículo 21 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_13_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Idiomas auténticos del texto. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Convención está redactada en árabe, chino, español, francés, inglés y ruso, siendo igualmente auténticos todos los textos.",
+        "b": "La Convención solo tiene como texto auténtico la versión en inglés, siendo las demás meras traducciones no oficiales.",
+        "c": "El Secretario General de las Naciones Unidas remitirá copia certificada de la Convención a todos los Estados.",
+        "d": "La Convención fue firmada por los representantes debidamente autorizados por sus respectivos Gobiernos."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nCláusula final: los textos en árabe, chino, español, francés, inglés y ruso son IGUALMENTE AUTÉNTICOS, sin que el inglés tenga primacía.",
+      "ley": "Cláusula final de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_13_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Aplicabilidad territorial. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Protocolo permite a los Estados federales excluir de su aplicación a determinadas unidades territoriales.",
+        "b": "El Protocolo solo se aplica al gobierno central de los Estados federales, no a sus unidades territoriales.",
+        "c": "Las disposiciones del Protocolo se aplicarán a todas las partes de los Estados federales sin limitación ni excepción alguna.",
+        "d": "El Protocolo no contiene ninguna previsión sobre su aplicación en Estados de estructura federal."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 30: las disposiciones del Protocolo se aplicarán a todas las partes de los Estados federales, SIN limitación ni excepción.",
+      "ley": "Artículo 30 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_13_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Idiomas y depósito del instrumento. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Protocolo quedará abierto a la firma de todos los Estados que hayan firmado la Convención.",
+        "b": "El Protocolo está sujeto a ratificación únicamente por los Estados que hayan ratificado o se hayan adherido a la Convención.",
+        "c": "El Protocolo quedará abierto a la adhesión de todos los Estados que hayan ratificado la Convención o se hayan adherido a ella.",
+        "d": "El Protocolo puede ser ratificado por cualquier Estado, con independencia de que sea o no parte de la Convención contra la Tortura."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículos 25 a 27: la firma, ratificación y adhesión al Protocolo están reservadas a los Estados que YA SEAN PARTE de la Convención contra la Tortura.",
+      "ley": "Artículos 25 a 27 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_13_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Procedimiento ante un Comité de tres jueces. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Un Comité podrá, por unanimidad, declarar inadmisible o archivar una demanda individual cuando tal decisión pueda tomarse sin más examen.",
+        "b": "Las decisiones de inadmisión de un Comité de tres jueces requieren la unanimidad de toda la Sección a la que pertenecen.",
+        "c": "Un Comité de tres jueces carece de competencia para declarar inadmisible una demanda individual.",
+        "d": "La decisión de un Comité de tres jueces que declare inadmisible una demanda es siempre recurrible ante la Gran Sala."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 28: un Comité de TRES jueces puede, por unanimidad, declarar inadmisible o archivar una demanda cuando pueda decidirse sin más examen; tal decisión es definitiva.",
+      "ley": "Artículo 28 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_13_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Examen contradictorio del caso. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Si el Tribunal declara admisible una demanda, podrá proseguir el examen contradictorio del caso con los representantes de las partes.",
+        "b": "El Convenio prohíbe expresamente cualquier intento de arreglo amistoso una vez declarada admisible la demanda.",
+        "c": "El Tribunal podrá, si es necesario, llevar a cabo una investigación, para lo cual los Estados interesados deben prestar toda facilidad necesaria.",
+        "d": "El Tribunal se pondrá a disposición de los interesados con el fin de llegar a un arreglo amistoso del asunto, inspirándose en el respeto a los derechos humanos."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 38 y artículo 39: el Convenio SÍ prevé y fomenta el arreglo amistoso tras la admisión de la demanda, no lo prohíbe.",
+      "ley": "Artículos 38 y 39 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_13_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Elección del Defensor del Pueblo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo es designado directamente por el Rey, a propuesta del Gobierno.",
+        "b": "El Defensor del Pueblo es elegido exclusivamente por el Congreso de los Diputados, sin intervención del Senado.",
+        "c": "El Defensor del Pueblo será elegido por las Cortes Generales para un período de cinco años, conforme a su normativa reguladora.",
+        "d": "El mandato del Defensor del Pueblo coincide siempre con la duración de la legislatura que lo elige."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nEl Defensor del Pueblo es elegido por las CORTES GENERALES (Congreso y Senado) para un período de CINCO años, no vinculado a una legislatura concreta.",
+      "ley": "Artículo 9 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_13_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Carácter de las resoluciones del Defensor del Pueblo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo no es competente para modificar o anular los actos y resoluciones de la Administración Pública.",
+        "b": "El Defensor del Pueblo puede sugerir la modificación de los criterios utilizados para la producción de los actos y resoluciones administrativas.",
+        "c": "El Defensor del Pueblo puede formular a las autoridades y funcionarios advertencias, recomendaciones, recordatorios de sus deberes legales y sugerencias.",
+        "d": "Las resoluciones del Defensor del Pueblo tienen fuerza ejecutiva directa y vinculante sobre la Administración, equiparable a una sentencia judicial."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nEl Defensor del Pueblo carece de potestad ejecutiva o anulatoria directa; sus resoluciones son de naturaleza NO VINCULANTE (advertencias, recomendaciones, sugerencias), sin la fuerza ejecutiva señalada.",
+      "ley": "Artículo 28 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_13_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la protección de la ley contra las injerencias arbitrarias o los ataques a su honra y reputación.",
+        "b": "La protección frente a ataques a la honra reconocida en la Declaración exige siempre una previa querella penal admitida a trámite.",
+        "c": "Este derecho se predica únicamente de las personas que ejerzan cargos públicos.",
+        "d": "La Declaración no contempla ninguna garantía frente a ataques a la honra o reputación de las personas."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 12: toda persona tiene derecho a la protección de la ley contra injerencias arbitrarias o ataques a su honra y reputación, sin las condiciones señaladas.",
+      "ley": "Artículo 12 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_13_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Cosa juzgada penal (non bis in idem). Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser juzgado ni sancionado por un delito por el cual haya sido ya condenado o absuelto por una sentencia firme, de conformidad con la ley y el procedimiento penal de cada país.",
+        "b": "El Pacto permite juzgar de nuevo a una persona absuelta por el mismo delito siempre que aparezcan nuevas pruebas, sin ninguna excepción reconocida al principio.",
+        "c": "Este principio forma parte de las garantías judiciales reconocidas en el Pacto en materia penal.",
+        "d": "El principio de non bis in idem reconocido en el Pacto opera dentro del mismo país, conforme a su ley y procedimiento."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 14.7: el principio non bis in idem se aplica de conformidad con la ley y el procedimiento penal de cada país, sin la excepción genérica por nuevas pruebas descrita sin matización.",
+      "ley": "Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_13_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Enseñanza secundaria y superior. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto exige la gratuidad inmediata y total de la enseñanza secundaria desde el momento de su entrada en vigor, sin progresividad alguna.",
+        "b": "La enseñanza secundaria técnica y profesional queda excluida del compromiso de generalización previsto en el Pacto.",
+        "c": "La enseñanza secundaria, en sus diferentes formas, incluso la enseñanza secundaria técnica y profesional, debe ser generalizada y hacerse accesible a todos, por cuantos medios sean apropiados, y en particular por la implantación progresiva de la enseñanza gratuita.",
+        "d": "El Pacto no contempla ningún compromiso relativo a la enseñanza secundaria."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 13.2.b: la enseñanza secundaria debe generalizarse y hacerse accesible a todos, en particular por la implantación PROGRESIVA de la enseñanza gratuita, no de forma inmediata y total.",
+      "ley": "Artículo 13 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_13_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho a la educación (en el marco del Convenio consolidado). Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal Europeo de Derechos Humanos tiene su sede en Estrasburgo.",
+        "b": "El Tribunal funciona de manera permanente.",
+        "c": "El número de Jueces que compone el Pleno del Tribunal coincide con el número de Altas Partes Contratantes del Convenio.",
+        "d": "El Tribunal Europeo de Derechos Humanos tiene su sede en Bruselas, junto a las instituciones de la Unión Europea."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 19 y disposiciones del Convenio: el Tribunal tiene su sede en ESTRASBURGO, no en Bruselas (que es sede de instituciones de la Unión Europea, organización distinta del Consejo de Europa).",
+      "ley": "Artículo 19 del Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

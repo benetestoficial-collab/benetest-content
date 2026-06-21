@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_01_test_12_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la libertad de opinión y de expresión, sin que pueda ser molestada a causa de sus opiniones.",
+        "b": "La libertad de opinión reconocida en la Declaración puede ser objeto de sanción siempre que el Estado lo considere necesario por razones de oportunidad.",
+        "c": "Este derecho no incluye la posibilidad de difundir informaciones por cualquier medio de expresión.",
+        "d": "La libertad de opinión y expresión solo se reconoce respecto de cuestiones no políticas."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 19: toda persona tiene derecho a la libertad de opinión y de expresión, sin ser molestada por sus opiniones, e incluye difundirlas sin limitación de fronteras.",
+      "ley": "Artículo 19 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_12_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Asilo y persecución. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En caso de persecución, toda persona tiene derecho a buscar asilo y a disfrutar de él en cualquier país.",
+        "b": "El derecho de asilo de la Declaración obliga a todos los Estados a concederlo automáticamente a quien lo solicite, sin posibilidad de denegación.",
+        "c": "Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos comunes.",
+        "d": "Tampoco podrá invocarse contra una acción judicial originada por actos opuestos a los propósitos y principios de las Naciones Unidas."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 14: el derecho de asilo NO implica obligación automática de concesión por parte del Estado receptor; la Declaración reconoce el derecho a buscarlo y disfrutarlo, no un derecho subjetivo incondicional a obtenerlo.",
+      "ley": "Artículo 14 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_12_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Detención y prisión preventiva. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto no fija ningún límite temporal para que la persona detenida sea llevada ante la autoridad judicial.",
+        "b": "La prisión preventiva debe ser la regla general, no la excepción, conforme al Pacto.",
+        "c": "Toda persona detenida o presa a causa de una infracción penal será llevada sin demora ante un juez u otro funcionario autorizado por la ley para ejercer funciones judiciales.",
+        "d": "El Pacto excluye el derecho a ser juzgado dentro de un plazo razonable o a ser puesto en libertad."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 9.3: toda persona detenida será llevada SIN DEMORA ante un juez; la prisión preventiva NO debe ser la regla general; tiene derecho a ser juzgada en plazo razonable o puesta en libertad.",
+      "ley": "Artículo 9 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_12_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Habeas corpus. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona que sea privada de libertad tendrá derecho a recurrir ante un tribunal, a fin de que éste decida sin demora sobre la legalidad de su prisión.",
+        "b": "El tribunal deberá ordenar la libertad de la persona privada de libertad si la prisión fuera ilegal.",
+        "c": "Toda persona que haya sido ilegalmente detenida o presa tendrá derecho efectivo a obtener reparación.",
+        "d": "El derecho a recurrir la legalidad de la detención reconocido en el Pacto solo es aplicable a las detenciones de naturaleza penal."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 9.4 y 9.5: el derecho de recurso (hábeas corpus) se aplica a CUALQUIER privación de libertad, no solo a la de naturaleza penal.",
+      "ley": "Artículo 9 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_12_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Protección contra el hambre. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Estados Partes reconocen el derecho fundamental de toda persona a estar protegida contra el hambre, adoptando medidas individualmente y mediante cooperación internacional.",
+        "b": "El Pacto considera la protección contra el hambre un derecho de segundo orden, subordinado al derecho a la vivienda.",
+        "c": "La protección contra el hambre prevista en el Pacto excluye la cooperación internacional como medio para lograrla.",
+        "d": "El Pacto no contempla la mejora de los métodos de producción, conservación y distribución de alimentos como medida de protección contra el hambre."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 11.2: los Estados reconocen el derecho FUNDAMENTAL a estar protegido contra el hambre, mediante medidas individuales y de cooperación internacional, incluida la mejora de métodos de producción y distribución de alimentos.",
+      "ley": "Artículo 11 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_12_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho de huelga y restricciones a las fuerzas armadas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Pacto reconoce el derecho de huelga, ejercido de conformidad con las leyes de cada país.",
+        "b": "El derecho de huelga reconocido en el Pacto es absoluto, sin posibilidad de regulación legal alguna por los Estados.",
+        "c": "El artículo relativo a los derechos sindicales permite imponer restricciones legales al ejercicio de estos derechos por los miembros de las fuerzas armadas, de la policía o de la administración del Estado.",
+        "d": "Nada de lo dispuesto en este artículo autorizará a los Estados Partes en el Convenio de la OIT relativo a la libertad sindical a adoptar medidas legislativas que menoscaben las garantías previstas en dicho Convenio."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 8.1.d: el derecho de huelga se ejerce DE CONFORMIDAD CON LAS LEYES de cada país, no de forma absoluta sin regulación.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_12_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Trato igualitario a todos los derechos humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo debe priorizar los derechos civiles y políticos sobre los derechos económicos, sociales y culturales.",
+        "b": "La Resolución establece una jerarquía expresa entre las distintas categorías de derechos humanos.",
+        "c": "El Consejo deberá basar su labor en los principios de universalidad, imparcialidad, objetividad y no selectividad, y ocuparse de todos los derechos humanos por igual, dando el mismo énfasis a los derechos civiles, políticos, económicos, sociales y culturales.",
+        "d": "El principio de no selectividad del Consejo se limita a la elección de sus miembros, sin extenderse al tratamiento de los derechos."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 4: el Consejo deberá ocuparse de todos los derechos humanos por igual, dando el MISMO ÉNFASIS a todas las categorías de derechos, sin jerarquía entre ellas.",
+      "ley": "Párrafo 4 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_12_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Derecho al desarrollo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo deberá promover el respeto universal por la protección de todos los derechos humanos y libertades fundamentales de todas las personas, incluido el derecho al desarrollo.",
+        "b": "El derecho al desarrollo se menciona expresamente entre los derechos cuya protección debe promover el Consejo.",
+        "c": "Esta promoción del derecho al desarrollo se enmarca en las responsabilidades generales del Consejo.",
+        "d": "El derecho al desarrollo queda expresamente excluido del mandato del Consejo de Derechos Humanos."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 2: el Consejo SÍ tiene como mandato promover el respeto universal por la protección de todos los derechos humanos, incluido el DERECHO AL DESARROLLO.",
+      "ley": "Párrafo 2 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_12_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Examen de los informes de los Estados Partes. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Cada Estado Parte presentará al Comité, por intermedio del Secretario General, un informe sobre las medidas que haya adoptado para dar efectividad a sus compromisos en virtud de la Convención, dentro del plazo de un año a partir de la entrada en vigor de la Convención para el Estado interesado.",
+        "b": "Los informes iniciales de los Estados Partes deben presentarse en el plazo de cinco años desde la entrada en vigor de la Convención para el Estado.",
+        "c": "La Convención no fija ningún plazo para la presentación del informe inicial de los Estados Partes.",
+        "d": "Los informes solo deben presentarse cuando el Comité lo solicite expresamente, sin periodicidad fija."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 19.1: el informe inicial debe presentarse en el plazo de UN AÑO a partir de la entrada en vigor de la Convención para el Estado interesado, y después cada cuatro años.",
+      "ley": "Artículo 19 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_12_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Visitas del Comité tras la investigación de oficio. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Comité podrá, con el acuerdo del Estado Parte interesado, incluir una visita a su territorio en la investigación a que se refiere el artículo 20.",
+        "b": "El Comité está obligado a hacer pública, de forma automática e inmediata, cualquier investigación de oficio que inicie, sin posibilidad de confidencialidad.",
+        "c": "Tras examinar las conclusiones del miembro o miembros designados, el Comité transmitirá éstas al Estado Parte interesado, junto con las observaciones o sugerencias que estime pertinentes.",
+        "d": "Todas las actuaciones del Comité relativas a este procedimiento de investigación de oficio serán confidenciales."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 20: todas las actuaciones de este procedimiento de investigación de oficio serán CONFIDENCIALES, sin la publicidad automática señalada.",
+      "ley": "Artículo 20 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_12_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Confidencialidad de la información recabada. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda la información que recabe el Subcomité en sus visitas debe hacerse pública de inmediato por exigencia del Protocolo.",
+        "b": "El Protocolo no contempla ningún régimen de confidencialidad para la información recabada por el Subcomité.",
+        "c": "La información reunida por el Subcomité para la Prevención en relación con una visita, su informe y sus consultas con el Estado Parte serán confidenciales.",
+        "d": "La confidencialidad de la información del Subcomité se limita exclusivamente a los datos médicos de las personas visitadas."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 16.1 y artículo 21: la información reunida por el Subcomité, su informe y sus consultas con el Estado Parte SERÁN CONFIDENCIALES, salvo lo que el propio Protocolo prevé hacer público.",
+      "ley": "Artículo 21 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_12_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Protección de datos personales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los datos personales se utilizarán únicamente cuando sea necesario para el cumplimiento del mandato del Subcomité para la Prevención.",
+        "b": "Los datos personales no se publicarán sin el consentimiento expreso de la persona a quien se refieran.",
+        "c": "Esta protección de datos personales se aplica también a los mecanismos nacionales de prevención.",
+        "d": "El Subcomité puede publicar libremente cualquier dato personal recabado en sus visitas, sin necesidad de consentimiento, cuando lo considere de interés general."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 21.1: los datos personales NO se publicarán sin el consentimiento expreso de la persona concernida, sin la excepción de interés general señalada.",
+      "ley": "Artículo 21 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_12_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Sentencias de las Salas. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La sentencia de una Sala se convertirá en definitiva cuando las partes declaren que no solicitarán la remisión del asunto ante la Gran Sala.",
+        "b": "Las sentencias de las Salas son siempre definitivas desde el momento de su dictado, sin posibilidad de remisión a la Gran Sala.",
+        "c": "La remisión a la Gran Sala depende exclusivamente de la voluntad del Tribunal, sin que las partes puedan solicitarla.",
+        "d": "El Convenio no prevé ningún mecanismo de remisión de asuntos a la Gran Sala tras una sentencia de Sala."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 44: la sentencia de Sala se vuelve definitiva cuando las partes declaran que no solicitarán la remisión a la Gran Sala, o transcurridos tres meses sin solicitud, o cuando el Colegio de la Gran Sala rechace la solicitud.",
+      "ley": "Artículo 44 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_12_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Comisionado para los Derechos Humanos del Consejo de Europa. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Comisionado para los Derechos Humanos del Consejo de Europa podrá presentar observaciones escritas e intervenir en las vistas de los casos ante una Sala o la Gran Sala.",
+        "b": "El Comisionado para los Derechos Humanos del Consejo de Europa carece de cualquier facultad de intervención en los procedimientos ante el Tribunal Europeo.",
+        "c": "La intervención del Comisionado en los procedimientos del Tribunal se realiza en su condición de tercero.",
+        "d": "El Comisionado para los Derechos Humanos puede intervenir por propia iniciativa, sin necesidad de invitación del Tribunal."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 36.3: el Comisionado para los Derechos Humanos del Consejo de Europa SÍ podrá presentar observaciones escritas e intervenir en las vistas, por propia iniciativa.",
+      "ley": "Artículo 36 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_12_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Régimen de incompatibilidades. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo puede compatibilizar su cargo con el ejercicio simultáneo de una actividad mercantil privada.",
+        "b": "El régimen de incompatibilidades del Defensor del Pueblo no es aplicable a sus Adjuntos.",
+        "c": "El Defensor del Pueblo no podrá ejercer ninguna otra actividad profesional, mercantil o laboral durante el ejercicio de su mandato.",
+        "d": "El Reglamento no contempla ningún régimen de incompatibilidades para el cargo de Defensor del Pueblo."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nEl Defensor del Pueblo NO podrá ejercer ninguna otra actividad profesional, mercantil o laboral, régimen aplicable también a sus Adjuntos.",
+      "ley": "Artículo 3 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_12_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Facultades de investigación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo podrá, en el curso de la investigación, personarse en cualquier centro de la Administración Pública para comprobar cuantos datos fueren menester.",
+        "b": "El Defensor del Pueblo puede solicitar la presencia de cualquier funcionario o autoridad para esclarecer los hechos investigados.",
+        "c": "La actuación del Defensor del Pueblo se extiende, conforme al Mecanismo Nacional de Prevención, a la visita de lugares de privación de libertad.",
+        "d": "El Defensor del Pueblo necesita autorización judicial previa para personarse en cualquier dependencia administrativa en el curso de sus investigaciones."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nEl Defensor del Pueblo NO necesita autorización judicial previa para personarse en dependencias administrativas en sus investigaciones; sus facultades derivan directamente de su Ley Orgánica reguladora.",
+      "ley": "Artículo 8 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_12_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.",
+        "b": "El derecho a sindicarse reconocido en la Declaración exige la previa autorización gubernamental para la constitución del sindicato.",
+        "c": "La Declaración excluye expresamente el derecho a fundar sindicatos del catálogo de derechos laborales.",
+        "d": "El derecho a sindicarse solo se reconoce a los trabajadores del sector público."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 23.4: toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses, sin las condiciones o exclusiones señaladas.",
+      "ley": "Artículo 23 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_12_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Trato a extranjeros respecto de la vida familiar. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Pacto reconoce a toda persona el derecho a la protección de su vida privada y familiar frente a injerencias arbitrarias o ilegales.",
+        "b": "El Pacto excluye expresamente a los extranjeros de la protección frente a injerencias arbitrarias en su vida familiar.",
+        "c": "Esta protección se predica de toda persona, sin distinción por razón de nacionalidad.",
+        "d": "El derecho a la protección de la vida familiar forma parte de las garantías generales del Pacto frente a injerencias arbitrarias."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 17: la protección frente a injerencias arbitrarias o ilegales en la vida privada y familiar se reconoce a TODA PERSONA, sin exclusión por razón de nacionalidad.",
+      "ley": "Artículo 17 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_12_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Enseñanza primaria obligatoria y gratuita. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite que la enseñanza primaria sea de pago siempre que existan becas para las familias sin recursos.",
+        "b": "La obligatoriedad de la enseñanza primaria queda excluida del Pacto, limitándose a una mera recomendación.",
+        "c": "La enseñanza primaria debe ser obligatoria y asequible a todos gratuitamente.",
+        "d": "El Pacto condiciona la gratuidad de la enseñanza primaria a la disponibilidad presupuestaria anual del Estado."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 13.2.a: la enseñanza primaria debe ser OBLIGATORIA y ASEQUIBLE A TODOS GRATUITAMENTE, sin las condiciones o excepciones señaladas.",
+      "ley": "Artículo 13 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_12_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Procedimiento de sentencia piloto y problemas estructurales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal podrá declarar inadmisible toda demanda individual cuando considere que el demandante no ha sufrido un perjuicio importante.",
+        "b": "Esta causa de inadmisión exige también que el respeto de los derechos humanos no obligue a examinar el fondo de la demanda.",
+        "c": "Además, se exige que el asunto haya sido debidamente examinado por un tribunal interno.",
+        "d": "Esta causa de inadmisión por falta de perjuicio importante es aplicable de forma automática, sin necesidad de valorar el respeto de los derechos humanos."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 35.3.b: la causa de inadmisión por falta de perjuicio importante NO es automática; exige además que el respeto de los derechos humanos no obligue a examinar el fondo y que el asunto haya sido examinado por un tribunal interno.",
+      "ley": "Artículo 35 del Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_01_test_10_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a salir de cualquier país, incluso del propio, así como a circular libremente y elegir su residencia en el territorio de un Estado.",
+        "b": "La Declaración condiciona la libre circulación dentro de un Estado a la previa autorización de la autoridad municipal.",
+        "c": "El derecho a elegir residencia reconocido en la Declaración se limita a los menores de edad.",
+        "d": "La Declaración no reconoce ningún derecho relacionado con la circulación de las personas."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículos 13.1 y 13.2: toda persona tiene derecho a circular libremente y elegir su residencia en el territorio de un Estado, y a salir de cualquier país, incluso del propio, sin las condiciones señaladas.",
+      "ley": "Artículo 13 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_10_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Comunidad internacional. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a un orden social e internacional que haga posible la plena efectividad de los derechos y libertades proclamados en la Declaración.",
+        "b": "El orden social e internacional al que se refiere la Declaración queda excluido como objeto de protección de los derechos humanos.",
+        "c": "Toda persona tiene deberes respecto a la comunidad, puesto que solo en ella puede desarrollar libre y plenamente su personalidad.",
+        "d": "Nada en la Declaración podrá interpretarse en el sentido de conferir derecho alguno al Estado, grupo o persona para emprender actividades encaminadas a la supresión de los derechos proclamados."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 28: toda persona tiene derecho a un orden social e internacional que haga posible la plena efectividad de los derechos y libertades proclamados, SIN la exclusión señalada.",
+      "ley": "Artículo 28 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_10_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Reservas al Pacto. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto fue adoptado en Ginebra en 1948, el mismo año que la Declaración Universal.",
+        "b": "El Pacto carece de fecha cierta de adopción, al tratarse de una resolución de duración indefinida desde su origen.",
+        "c": "El Pacto Internacional de Derechos Civiles y Políticos fue adoptado y abierto a la firma en Nueva York el 16 de diciembre de 1966.",
+        "d": "El Pacto fue adoptado en París en 1950, coincidiendo con el Convenio Europeo de Derechos Humanos."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nPreámbulo y fórmula final: el Pacto fue adoptado y abierto a la firma en NUEVA YORK el 16 de diciembre de 1966, entrando en vigor en 1976.",
+      "ley": "Preámbulo del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_10_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Prohibición de experimentos médicos sin consentimiento. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "b": "En particular, nadie será sometido sin su libre consentimiento a experimentos médicos o científicos.",
+        "c": "La prohibición de experimentos médicos sin consentimiento forma parte del mismo artículo que prohíbe la tortura.",
+        "d": "El Pacto permite los experimentos médicos sin consentimiento cuando exista un interés científico de relevancia internacional reconocida."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 7: nadie será sometido a torturas ni a tratos crueles; en particular, nadie será sometido SIN SU LIBRE CONSENTIMIENTO a experimentos médicos o científicos, sin la excepción señalada.",
+      "ley": "Artículo 7 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_10_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Comunicaciones individuales según el Protocolo Facultativo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Un Estado Parte en el Pacto que llegue a ser parte en el Protocolo Facultativo reconoce la competencia del Comité para recibir y considerar comunicaciones de individuos sometidos a su jurisdicción que aleguen ser víctimas de una violación de los derechos enunciados en el Pacto.",
+        "b": "El Pacto excluye expresamente cualquier posibilidad de comunicaciones individuales ante el Comité de Derechos Humanos.",
+        "c": "Las comunicaciones individuales ante el Comité solo pueden presentarse por organizaciones no gubernamentales, nunca por particulares.",
+        "d": "El reconocimiento de la competencia del Comité para comunicaciones individuales es automático para todos los Estados Partes en el Pacto, sin necesidad de instrumento adicional."
+      },
+      "correct": "a",
+      "explicacion": "Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 1: un Estado Parte en el Pacto que llegue a ser parte en el PROTOCOLO FACULTATIVO (instrumento adicional, no automático) reconoce la competencia del Comité para comunicaciones individuales.",
+      "ley": "Artículo 1 del Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_10_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Niveles mínimos esenciales y progresividad. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Cada uno de los Estados Partes se compromete a adoptar medidas para lograr progresivamente la plena efectividad de los derechos reconocidos en el Pacto.",
+        "b": "El compromiso de progresividad permite a los Estados posponer indefinidamente cualquier medida concreta, sin obligación de avance.",
+        "c": "Dichas medidas se adoptarán por todos los medios apropiados, incluyendo en particular la adopción de medidas legislativas.",
+        "d": "El Pacto exige que estas medidas se adopten hasta el máximo de los recursos de que disponga cada Estado."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 2.1: el carácter progresivo NO equivale a inacción; los Estados deben adoptar medidas concretas y deliberadas, hasta el máximo de los recursos disponibles, sin poder posponerlas indefinidamente.",
+      "ley": "Artículo 2 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_10_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Carácter del examen periódico universal respecto a otros mecanismos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El examen periódico universal tiene carácter unilateral, sin participación del Estado examinado en el proceso.",
+        "b": "El examen periódico universal sustituye por completo a los órganos de tratados en materia de derechos humanos.",
+        "c": "El mecanismo de examen periódico universal será un mecanismo cooperativo, basado en un diálogo interactivo, con la plena participación del país examinado.",
+        "d": "El examen periódico universal carece de cualquier mecanismo de seguimiento de sus conclusiones."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 5.e: el examen periódico universal será un mecanismo cooperativo, basado en un diálogo interactivo, con la plena participación del país examinado, complementando (no sustituyendo) la labor de los órganos de tratados.",
+      "ley": "Párrafo 5 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_10_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Preámbulo: fundamentos del Consejo de Derechos Humanos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Resolución se basa en los propósitos y principios consagrados en la Carta de las Naciones Unidas, incluida la promoción y el estímulo del respeto de los derechos humanos.",
+        "b": "La Resolución reafirma que los derechos humanos, el estado de derecho y la democracia están vinculados entre sí y se refuerzan mutuamente.",
+        "c": "La Resolución reafirma que la democracia, el desarrollo y el respeto de los derechos humanos son interdependientes y se refuerzan mutuamente.",
+        "d": "La Resolución desvincula expresamente los conceptos de derechos humanos, estado de derecho y democracia, considerándolos ámbitos no relacionados."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPreámbulo: la Resolución reafirma expresamente que los derechos humanos, el estado de derecho y la democracia están VINCULADOS entre sí y se refuerzan mutuamente, así como su interdependencia con el desarrollo.",
+      "ley": "Preámbulo de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_10_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Extradición sin tratado previo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Si un Estado Parte que no subordine la extradición a la existencia de un tratado recibe una solicitud de extradición por delitos de tortura, reconocerá tales delitos como casos de extradición entre él y el Estado requirente.",
+        "b": "Un Estado que no exija tratado previo para extraditar queda exento de cualquier obligación respecto de los delitos de tortura.",
+        "c": "La Convención solo permite la extradición por delitos de tortura entre Estados que ya mantengan un tratado bilateral vigente.",
+        "d": "La extradición por delitos de tortura queda excluida cuando no exista tratado bilateral previo entre los Estados implicados."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 8.3: los Estados que no subordinen la extradición a la existencia de un tratado reconocerán los delitos de tortura como casos de extradición entre ellos, sin las exclusiones señaladas.",
+      "ley": "Artículo 8 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_10_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Solución de controversias entre Estados Partes. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Las controversias entre dos o más Estados Partes sobre la interpretación o aplicación de la Convención que no puedan resolverse mediante negociación se someterán a arbitraje a petición de uno de ellos.",
+        "b": "La Convención no contempla ningún mecanismo de solución de controversias entre Estados Partes sobre su interpretación o aplicación.",
+        "c": "Si en el plazo de seis meses no se llega a un acuerdo sobre la organización del arbitraje, cualquiera de las partes podrá someter la controversia a la Corte Internacional de Justicia.",
+        "d": "Todo Estado podrá declarar, al firmar o ratificar la Convención, que no se considera obligado por esta disposición sobre arbitraje y Corte Internacional de Justicia."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 30: SÍ se contempla un mecanismo de solución de controversias (negociación, arbitraje, Corte Internacional de Justicia), respecto del cual los Estados pueden formular una reserva expresa.",
+      "ley": "Artículo 30 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_10_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Denuncia del Protocolo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Protocolo no contempla ningún procedimiento de denuncia por parte de los Estados.",
+        "b": "La denuncia del Protocolo, una vez formulada, produce efectos inmediatos y libera al Estado de cualquier obligación pendiente, incluso anterior a la denuncia.",
+        "c": "Todo Estado Parte podrá denunciar el Protocolo en cualquier momento mediante notificación escrita dirigida al Secretario General de las Naciones Unidas.",
+        "d": "Solo el Subcomité para la Prevención puede iniciar el procedimiento de denuncia del Protocolo respecto de un Estado."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 28: todo Estado Parte podrá denunciar el Protocolo mediante notificación escrita al Secretario General; la denuncia no exime al Estado de las obligaciones que le incumban respecto de cualquier acto ocurrido antes de la fecha de efecto.",
+      "ley": "Artículo 28 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_10_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Enmiendas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte podrá proponer una enmienda al Protocolo y presentarla al Secretario General de las Naciones Unidas.",
+        "b": "El Secretario General comunicará toda enmienda propuesta a los Estados Partes, pidiéndoles que notifiquen si desean que se convoque una conferencia de Estados Partes.",
+        "c": "Las enmiendas aprobadas entrarán en vigor cuando hayan sido aceptadas por dos tercios de los Estados Partes.",
+        "d": "Las enmiendas al Protocolo entran en vigor automáticamente para todos los Estados Partes desde su sola aprobación por la conferencia, sin necesidad de aceptación posterior."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 33: las enmiendas entrarán en vigor cuando hayan sido ACEPTADAS por una mayoría de dos tercios de los Estados Partes, no de forma automática por la sola aprobación de la conferencia.",
+      "ley": "Artículo 33 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_10_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Limitación del uso de restricciones a los derechos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona privada de libertad mediante detención o internamiento tiene derecho a presentar un recurso ante un tribunal, a fin de que se pronuncie en breve plazo sobre la legalidad de su privación de libertad.",
+        "b": "El derecho a recurrir la legalidad de la detención reconocido en el Convenio puede ejercitarse únicamente una vez finalizada la privación de libertad.",
+        "c": "El Convenio no exige que el pronunciamiento sobre la legalidad de la detención se produzca en un plazo determinado.",
+        "d": "Este derecho de recurso solo se reconoce en los procesos penales, no en los internamientos de naturaleza civil o administrativa."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 5.4: toda persona privada de libertad tiene derecho a presentar un recurso ante un tribunal para que se pronuncie EN BREVE PLAZO sobre la legalidad de su privación de libertad, durante la propia privación, sin limitarlo a procesos penales.",
+      "ley": "Artículo 5 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_10_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho a indemnización en caso de detención ilegal. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona víctima de detención o internamiento en condiciones contrarias a las disposiciones del artículo 5 tendrá derecho a una indemnización.",
+        "b": "El Convenio condiciona el derecho a indemnización por detención ilegal a que el Estado haya actuado con dolo o mala fe específicamente acreditados.",
+        "c": "Este derecho a indemnización se reconoce expresamente como consecuencia de una privación de libertad contraria al Convenio.",
+        "d": "El derecho a indemnización por detención ilegal forma parte de las garantías del Convenio relativas a la libertad y seguridad."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 5.5: el derecho a indemnización surge del solo hecho de que la detención o internamiento haya sido contrario al artículo 5, sin exigir prueba específica de dolo o mala fe del Estado.",
+      "ley": "Artículo 5 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_10_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Incompatibilidades del Defensor del Pueblo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo puede ejercer simultáneamente un cargo de diputado o senador, siempre que renuncie a su acta tras el nombramiento.",
+        "b": "El Reglamento no contempla ninguna causa de incompatibilidad para el ejercicio del cargo de Defensor del Pueblo.",
+        "c": "El cargo de Defensor del Pueblo es incompatible con todo mandato representativo, con todo cargo político o actividad de propaganda política.",
+        "d": "La incompatibilidad del cargo de Defensor del Pueblo se limita exclusivamente a actividades empresariales, sin alcanzar a cargos políticos."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nEl cargo de Defensor del Pueblo es INCOMPATIBLE con todo mandato representativo, cargo político o actividad de propaganda política, entre otras incompatibilidades.",
+      "ley": "Artículo 3 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_10_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Duración del mandato. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo será designado por un período de cinco años.",
+        "b": "El Defensor del Pueblo cesará, entre otras causas, por renuncia, por expiración del plazo de su nombramiento o por fallecimiento.",
+        "c": "El Defensor del Pueblo podrá ser reelegido para el cargo, conforme al régimen previsto en su normativa reguladora.",
+        "d": "El Reglamento fija el mandato del Defensor del Pueblo en un período indefinido, vinculado a la legislatura de las Cortes Generales que lo eligió."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nEl mandato del Defensor del Pueblo es de CINCO años, no indefinido ni vinculado a una legislatura concreta.",
+      "ley": "Artículo 9 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_10_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Nivel de vida adecuado. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios.",
+        "b": "Este derecho de la Declaración se limita a la alimentación, sin extenderse a la vivienda ni a la asistencia médica.",
+        "c": "La Declaración condiciona el derecho a un nivel de vida adecuado a la previa existencia de un empleo remunerado.",
+        "d": "El derecho a la seguridad en caso de desempleo, enfermedad o invalidez queda excluido de este artículo."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 25.1: toda persona tiene derecho a un nivel de vida adecuado (salud, bienestar, alimentación, vestido, vivienda, asistencia médica, servicios sociales) y a seguridad en caso de desempleo, enfermedad, invalidez, viudez, vejez u otros casos de pérdida de medios de subsistencia.",
+      "ley": "Artículo 25 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_10_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Libre determinación de los pueblos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todos los pueblos tienen el derecho de libre determinación.",
+        "b": "El derecho de libre determinación reconocido en el Pacto se predica exclusivamente de los Estados, no de los pueblos.",
+        "c": "En virtud de ese derecho, los pueblos establecen libremente su condición política y proveen asimismo a su desarrollo económico, social y cultural.",
+        "d": "Los Estados Partes promoverán el ejercicio del derecho de libre determinación y respetarán este derecho de conformidad con la Carta de las Naciones Unidas."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 1: el derecho de libre determinación corresponde a los PUEBLOS, no exclusivamente a los Estados ya constituidos.",
+      "ley": "Artículo 1 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_10_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Prohibición de la tortura. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Convenio admite excepciones a la prohibición de tortura en supuestos de estado de excepción debidamente proclamado.",
+        "b": "La prohibición de tratos inhumanos o degradantes del Convenio se limita al ámbito penitenciario.",
+        "c": "Nadie podrá ser sometido a tortura ni a penas o tratos inhumanos o degradantes.",
+        "d": "Esta prohibición solo opera respecto de actos cometidos por agentes de la autoridad, no de particulares."
+      },
+      "correct": "c",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 3: nadie podrá ser sometido a tortura ni a penas o tratos inhumanos o degradantes; es uno de los derechos NO derogables ni siquiera en caso de guerra o peligro público (artículo 15.2).",
+      "ley": "Artículo 3 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_10_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Principio de extraditar o juzgar. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Estado Parte en cuyo territorio sea hallado el presunto autor de un delito de tortura, si no procede a su extradición, someterá el caso a sus autoridades competentes a efectos de enjuiciamiento.",
+        "b": "Dichas autoridades tomarán su decisión del mismo modo que en el caso de cualquier delito de carácter grave, según la legislación de ese Estado.",
+        "c": "Este principio se aplica cuando el Estado del artículo 5 no haya formulado una solicitud de extradición o ésta haya sido rechazada.",
+        "d": "La Convención permite que el Estado donde se halle el presunto autor no haga absolutamente nada si decide no extraditarlo."
+      },
+      "correct": "d",
+      "explicacion": "Convención contra la Tortura.\nArtículo 7.1: si el Estado NO concede la extradición, está obligado a SOMETER EL CASO a sus propias autoridades para su enjuiciamiento (principio aut dedere aut judicare), sin poder permanecer inactivo.",
+      "ley": "Artículo 7 de la Convención contra la Tortura"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_01_test_20_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de religión, derecho que incluye la libertad de cambiar de religión o de creencia.",
+        "b": "La libertad de manifestar la propia religión reconocida en la Declaración solo puede ejercerse en privado, nunca públicamente.",
+        "c": "La Declaración condiciona la libertad religiosa a la pertenencia a una confesión registrada oficialmente.",
+        "d": "Este derecho excluye expresamente la libertad de cambiar de religión."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 18: toda persona tiene derecho a la libertad de pensamiento, conciencia y religión, que incluye la libertad de cambiar de religión o creencia, y de manifestarla individual o colectivamente, en público o en privado.",
+      "ley": "Artículo 18 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_20_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Trabajo igual, salario igual. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.",
+        "b": "La Declaración permite diferencias salariales por razón de sexo cuando estén justificadas por la tradición del sector de actividad.",
+        "c": "Este derecho forma parte del catálogo de derechos relativos al trabajo reconocidos en la Declaración.",
+        "d": "La igualdad salarial reconocida en la Declaración se complementa con el derecho a una remuneración equitativa y satisfactoria."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 23.2: el derecho a igual salario por trabajo igual se reconoce SIN discriminación alguna, sin las excepciones por tradición sectorial señaladas.",
+      "ley": "Artículo 23 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_20_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Identidad y registro del niño. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto deja a la libre voluntad de los padres el momento de inscribir al niño tras su nacimiento, sin exigencia de inmediatez.",
+        "b": "El derecho del niño a tener un nombre queda excluido de las garantías reconocidas en el Pacto.",
+        "c": "Todo niño será inscrito inmediatamente después de su nacimiento y deberá tener un nombre.",
+        "d": "La inscripción del nacimiento prevista en el Pacto solo es exigible en los Estados que dispongan de registro civil electrónico."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 24.2: todo niño será inscrito INMEDIATAMENTE después de su nacimiento y deberá tener un nombre, sin las condiciones, exclusiones o ausencia de inmediatez señaladas.",
+      "ley": "Artículo 24 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_20_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Comité de Derechos Humanos: sede y reuniones. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Comité de Derechos Humanos celebrará normalmente sus reuniones en la Sede de las Naciones Unidas o en la Oficina de las Naciones Unidas en Ginebra.",
+        "b": "El Comité se reunirá normalmente durante un período no superior a tres semanas en cada uno de sus períodos de sesiones.",
+        "c": "El Comité celebrará normalmente sus reuniones al menos una vez al año.",
+        "d": "El Comité de Derechos Humanos solo puede reunirse en la sede del Tribunal Internacional de Justicia en La Haya."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 37: el Comité se reúne normalmente en la Sede de Naciones Unidas o en GINEBRA, no en La Haya.",
+      "ley": "Artículo 37 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_20_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Comentarios generales del Consejo Económico y Social sobre la situación internacional. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Estados Partes y los organismos especializados interesados podrán presentar al Consejo Económico y Social observaciones sobre toda recomendación de carácter general hecha en virtud del Pacto o toda referencia a tal recomendación general que figure en un informe.",
+        "b": "El Pacto excluye cualquier posibilidad de que los Estados Partes formulen observaciones sobre las recomendaciones generales del Consejo Económico y Social.",
+        "c": "Las observaciones de los Estados Partes sobre recomendaciones generales deben presentarse directamente a la Asamblea General, sin pasar por el Consejo Económico y Social.",
+        "d": "Solo los organismos especializados, nunca los Estados Partes, pueden presentar observaciones sobre las recomendaciones generales del Pacto."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 19: tanto los ESTADOS PARTES como los organismos especializados pueden presentar observaciones al Consejo Económico y Social sobre recomendaciones generales, sin las exclusiones señaladas.",
+      "ley": "Artículo 19 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_20_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Enmiendas al Pacto. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte podrá proponer una enmienda y depositarla en poder del Secretario General de las Naciones Unidas.",
+        "b": "Las enmiendas al Pacto entran en vigor de forma automática para todos los Estados Partes desde su sola aprobación por la Asamblea General, sin necesidad de aceptación por los Estados.",
+        "c": "El Secretario General comunicará toda enmienda propuesta a los Estados Partes, pidiéndoles que notifiquen si desean que se convoque una conferencia de Estados Partes para examinarla y someterla a votación.",
+        "d": "Las enmiendas entrarán en vigor cuando hayan sido aprobadas por la Asamblea General de las Naciones Unidas y aceptadas por una mayoría de dos tercios de los Estados Partes."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 29: las enmiendas requieren APROBACIÓN de la Asamblea General Y ACEPTACIÓN de dos tercios de los Estados Partes, sin la automaticidad descrita.",
+      "ley": "Artículo 29 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_20_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Composición regional concreta del Consejo (distribución por grupos). Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Resolución no asigna ningún número concreto de puestos a los grupos regionales, dejándolo a la libre negociación anual entre los Estados.",
+        "b": "Todos los grupos regionales de Naciones Unidas reciben exactamente el mismo número de puestos en el Consejo, sin distinción alguna.",
+        "c": "La distribución de los cuarenta y siete puestos del Consejo entre los grupos regionales de Naciones Unidas se especifica en la propia Resolución, asignando un número determinado de puestos a cada grupo regional.",
+        "d": "La distribución de puestos por grupos regionales prevista en la Resolución es puramente orientativa y no vinculante."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 7: la Resolución SÍ especifica el número de puestos asignado a cada grupo regional (Estados de África: 13; Estados de Asia: 13; Europa Oriental: 6; América Latina y el Caribe: 8; Europa Occidental y otros Estados: 7), de forma VINCULANTE.",
+      "ley": "Párrafo 7 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_20_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Decisión final sobre la fecha de disolución de la Comisión de Derechos Humanos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Resolución recomienda al Consejo Económico y Social que pida a la Comisión de Derechos Humanos que concluya su labor en su 62º período de sesiones.",
+        "b": "La disolución de la Comisión de Derechos Humanos se fijó para el 16 de junio de 2006.",
+        "c": "Esta disolución se enmarca en el proceso de sustitución de la Comisión por el nuevo Consejo de Derechos Humanos.",
+        "d": "La Comisión de Derechos Humanos continúa existiendo en la actualidad de forma paralela al Consejo, sin haber sido nunca disuelta."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 13: la Comisión de Derechos Humanos SÍ fue disuelta el 16 de junio de 2006, en sustitución por el nuevo Consejo, sin la pervivencia paralela señalada.",
+      "ley": "Párrafo 13 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_20_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Competencia universal y obligación de actuar. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las disposiciones de la Convención no afectarán a la extradición ni a la asistencia judicial mutua en materia penal en la medida en que esas materias se rijan por tratados de extradición y de asistencia judicial mutua más favorables para las personas o para la cooperación internacional en la lucha contra la tortura.",
+        "b": "La Convención deroga cualquier tratado de extradición o asistencia judicial mutua que sea más favorable para la persona afectada.",
+        "c": "La Convención exige aplicar siempre sus propias disposiciones, aunque exista un tratado más favorable entre los Estados implicados.",
+        "d": "La Convención excluye expresamente la posibilidad de tratados de asistencia judicial mutua entre Estados Partes en materia de tortura."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 9.2: las disposiciones de la Convención NO afectan a tratados MÁS FAVORABLES de extradición o asistencia judicial mutua; no los deroga ni exige aplicar siempre la propia Convención en detrimento de un tratado más favorable.",
+      "ley": "Artículo 9 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_20_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Carácter de las obligaciones frente a la situación de excepción o conflicto armado. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En ningún caso podrán invocarse circunstancias excepcionales tales como estado de guerra o amenaza de guerra como justificación de la tortura.",
+        "b": "La Convención permite excepcionalmente la tortura en situaciones de conflicto armado internacional declarado conforme al derecho internacional humanitario.",
+        "c": "Tampoco podrá invocarse la inestabilidad política interna como justificación de la tortura.",
+        "d": "Ninguna otra emergencia pública, cualquiera que sea su naturaleza, podrá invocarse como justificación de la tortura conforme a la Convención."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 2.2: en NINGÚN CASO, incluido el conflicto armado, podrán invocarse circunstancias excepcionales como justificación de la tortura; es una prohibición absoluta sin la excepción señalada.",
+      "ley": "Artículo 2 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_20_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Confidencialidad y excepciones a la publicación de información. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Subcomité está obligado a mantener la confidencialidad de su informe incluso si el Estado Parte hace pública una parte sustancial del mismo.",
+        "b": "La publicación parcial del informe por el Estado Parte impide cualquier actuación posterior del Subcomité respecto de la confidencialidad del documento.",
+        "c": "Si el Estado Parte hace pública una parte del informe del Subcomité, éste podrá publicar el informe en su totalidad o en parte.",
+        "d": "El Protocolo no contempla ninguna excepción a la confidencialidad del informe del Subcomité ante una publicación parcial por parte del Estado."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 16.2: si el Estado hace pública una parte del informe, el Subcomité PODRÁ publicarlo en su totalidad o en parte, como excepción a la confidencialidad general.",
+      "ley": "Artículo 16 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_20_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Solicitud de declaración pública por el propio Comité contra la Tortura. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Si el Estado Parte se niega a cooperar con el Subcomité para la Prevención conforme a los artículos 12 y 14, o se niega a tomar medidas para mejorar la situación de conformidad con las recomendaciones del Subcomité, el Comité contra la Tortura podrá, a petición del Subcomité, decidir hacer una declaración pública o publicar el informe del Subcomité.",
+        "b": "Esta decisión del Comité contra la Tortura requiere la petición previa del propio Subcomité para la Prevención.",
+        "c": "Esta facultad constituye un mecanismo de presión institucional frente a la falta de cooperación del Estado.",
+        "d": "El Comité contra la Tortura carece de cualquier facultad para hacer pública información ante la falta de cooperación de un Estado con el Subcomité."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 16.4: el Comité contra la Tortura SÍ puede, a petición del Subcomité, hacer una declaración pública o publicar el informe ante la falta de cooperación de un Estado, sin la carencia de facultad señalada.",
+      "ley": "Artículo 16 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_20_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Posibilidad de adopción de Protocolos adicionales relativos a derechos no contemplados originalmente. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las Altas Partes Contratantes podrán firmar Protocolos adicionales al Convenio que amplíen la lista de derechos y libertades protegidos, sin que ello implique la modificación del texto original del Convenio.",
+        "b": "Cualquier Protocolo adicional al Convenio modifica automáticamente y deroga el texto original del Convenio de 1950.",
+        "c": "Los Protocolos adicionales al Convenio Europeo de Derechos Humanos son obligatorios para todas las Altas Partes Contratantes desde su sola adopción, sin necesidad de ratificación individual.",
+        "d": "El Convenio Europeo de Derechos Humanos no admite ningún tipo de Protocolo adicional desde su adopción en 1950."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos y sus Protocolos adicionales.\nLos Protocolos adicionales AMPLÍAN el catálogo de derechos SIN derogar el texto original, y requieren RATIFICACIÓN INDIVIDUAL por cada Alta Parte para resultarle vinculantes, sin la automaticidad o imposibilidad señaladas.",
+      "ley": "Protocolos adicionales al Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_20_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Cláusula de no perjuicio respecto de competencias del Consejo de Europa. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Ninguna disposición del Convenio se interpretará en el sentido de limitar o perjudicar las facultades reconocidas al Comité de Ministros por el Estatuto del Consejo de Europa.",
+        "b": "El Convenio deroga expresamente todas las facultades institucionales generales del Comité de Ministros previstas en el Estatuto del Consejo de Europa.",
+        "c": "Esta cláusula busca preservar las competencias institucionales generales del Consejo de Europa frente al sistema específico del Convenio.",
+        "d": "La preservación de estas facultades es compatible con las funciones específicas de supervisión de sentencias atribuidas al Comité de Ministros por el propio Convenio."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 54: el Convenio NO deroga las facultades generales del Comité de Ministros conforme al Estatuto del Consejo de Europa; las preserva expresamente.",
+      "ley": "Artículo 54 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_20_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Disposición final sobre entrada en vigor del propio Reglamento. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Reglamento de Organización y Funcionamiento del Defensor del Pueblo fue aprobado directamente por el Gobierno mediante real decreto.",
+        "b": "El Reglamento de Organización y Funcionamiento del Defensor del Pueblo carece de fecha de aprobación, al ser de duración indeterminada desde su origen sin acto formal de aprobación.",
+        "c": "El Reglamento de Organización y Funcionamiento del Defensor del Pueblo fue aprobado por las Mesas del Congreso de los Diputados y del Senado, en su reunión conjunta de 6 de abril de 1983, a propuesta del Defensor del Pueblo.",
+        "d": "El Reglamento fue aprobado por el Tribunal Constitucional a propuesta de las Cortes Generales."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nFue aprobado por las MESAS DEL CONGRESO Y DEL SENADO, en reunión conjunta de 6 de abril de 1983, A PROPUESTA DEL DEFENSOR DEL PUEBLO, sin las alternativas señaladas.",
+      "ley": "Disposición final del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, de 6 de abril de 1983"
+    },
+    {
+      "id": "tema_01_test_20_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Estructura general del Reglamento. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Reglamento de Organización y Funcionamiento del Defensor del Pueblo regula, entre otras materias, las Disposiciones Generales y la organización del propio Defensor del Pueblo.",
+        "b": "El Reglamento regula también la organización y funciones del Consejo Asesor del Mecanismo Nacional de Prevención de la Tortura.",
+        "c": "El Reglamento regula igualmente las funciones del Secretario General de la Institución.",
+        "d": "El Reglamento de Organización y Funcionamiento del Defensor del Pueblo regula con carácter exhaustivo el procedimiento de tramitación de quejas, remitiéndose en este punto exclusivamente a sí mismo y no a la Ley Orgánica 3/1981."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nEl procedimiento de tramitación de quejas se regula PRINCIPALMENTE en la Ley Orgánica 3/1981 reguladora del Defensor del Pueblo, no de forma exhaustiva y autónoma en este Reglamento, que se ocupa fundamentalmente de la organización interna y el Mecanismo Nacional de Prevención.",
+      "ley": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_20_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad.",
+        "b": "La Declaración considera que el individuo se desarrolla plenamente con independencia total de la comunidad a la que pertenece.",
+        "c": "Los deberes hacia la comunidad mencionados en la Declaración se limitan al ámbito estrictamente fiscal.",
+        "d": "La Declaración no reconoce ningún deber del individuo hacia la comunidad."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 29.1: toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad, sin las exclusiones o limitaciones señaladas.",
+      "ley": "Artículo 29 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_20_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Protección de minorías y no asimilación forzosa. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En los Estados en que existan minorías étnicas, religiosas o lingüísticas, no se negará a las personas que pertenezcan a dichas minorías el derecho a tener su propia vida cultural.",
+        "b": "El Pacto permite a los Estados imponer la asimilación cultural forzosa de las minorías étnicas como política legítima de cohesión nacional.",
+        "c": "Tampoco se les negará el derecho a profesar y practicar su propia religión.",
+        "d": "Tampoco se les negará el derecho a emplear su propio idioma, en común con los demás miembros de su grupo."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 27: el Pacto NO permite la asimilación cultural forzosa; protege el derecho de las minorías a su propia vida cultural, religión e idioma.",
+      "ley": "Artículo 27 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_20_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Cláusula de salvaguarda general de derechos preexistentes. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite restringir derechos preexistentes en la legislación interna cuando éstos no estén reconocidos expresamente en su propio texto.",
+        "b": "Esta cláusula de salvaguarda se aplica solo a los derechos reconocidos por costumbre, no a los reconocidos por ley o reglamento.",
+        "c": "No podrá admitirse restricción o menoscabo de ninguno de los derechos humanos fundamentales reconocidos o vigentes en un país en virtud de leyes, convenciones, reglamentos o costumbres, a pretexto de que el Pacto no los reconoce o los reconoce en menor grado.",
+        "d": "El Pacto no contiene ninguna cláusula de salvaguarda respecto de derechos reconocidos por la legislación interna de los Estados."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 5.2: no podrá restringirse ningún derecho fundamental reconocido por leyes, convenciones, reglamentos O COSTUMBRES, a pretexto de que el Pacto no lo reconoce o lo reconoce en menor grado, sin las limitaciones señaladas.",
+      "ley": "Artículo 5 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_20_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Firma y ratificación del texto original de 1950. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Convenio fue firmado por los representantes de los Gobiernos signatarios, debidamente autorizados al efecto.",
+        "b": "El Convenio será ratificado y los instrumentos de ratificación se depositarán en poder del Secretario General del Consejo de Europa.",
+        "c": "El Convenio entrará en vigor después del depósito de diez instrumentos de ratificación.",
+        "d": "El Convenio Europeo de Derechos Humanos no requirió ratificación alguna por parte de los Estados signatarios para su entrada en vigor."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nCláusula final (artículo 59 en su versión original): el Convenio SÍ requirió ratificación, depositándose los instrumentos en poder del Secretario General del Consejo de Europa, entrando en vigor tras el depósito de DIEZ ratificaciones.",
+      "ley": "Cláusula final del Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

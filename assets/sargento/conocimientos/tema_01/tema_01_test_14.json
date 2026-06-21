@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 14",
+  "preguntas": [
+    {
+      "id": "tema_01_test_14_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.",
+        "b": "La libertad de reunión reconocida en la Declaración exige siempre autorización administrativa previa.",
+        "c": "Este derecho excluye las reuniones de carácter político.",
+        "d": "La Declaración no reconoce ningún derecho de asociación pacífica."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 20.1: toda persona tiene derecho a la libertad de reunión y de asociación pacíficas, sin las condiciones o exclusiones señaladas.",
+      "ley": "Artículo 20 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_14_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Trabajo y remuneración. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria.",
+        "b": "La Declaración condiciona el derecho a una remuneración digna a que el trabajador carezca de cargas familiares.",
+        "c": "Dicha remuneración debe asegurar al trabajador y a su familia una existencia conforme a la dignidad humana.",
+        "d": "Esta remuneración debe completarse, en caso necesario, por cualesquiera otros medios de protección social."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 23.3: la remuneración equitativa debe asegurar al trabajador y A SU FAMILIA una existencia digna, sin la condición de carecer de cargas familiares.",
+      "ley": "Artículo 23 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_14_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Restricciones a la libertad de expresión. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La libertad de expresión reconocida en el Pacto es absoluta y no admite restricción legal alguna.",
+        "b": "El Pacto excluye la protección de la reputación de terceros como motivo legítimo de restricción a la libertad de expresión.",
+        "c": "El ejercicio de la libertad de expresión podrá estar sujeto a restricciones fijadas por la ley y necesarias para asegurar el respeto a los derechos o a la reputación de los demás, o la protección de la seguridad nacional, el orden público, la salud o la moral públicas.",
+        "d": "Las restricciones a la libertad de expresión pueden imponerse sin necesidad de previsión legal, por simple decisión gubernativa."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 19.3: las restricciones deben estar FIJADAS POR LA LEY y ser necesarias para los fines enumerados, sin las exclusiones o ausencia de previsión legal señaladas.",
+      "ley": "Artículo 19 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_14_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Trato a las personas privadas de libertad: separación de procesados y condenados. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los menores procesados estarán separados de los adultos y deberán ser llevados ante los tribunales de justicia con la mayor celeridad posible para su enjuiciamiento.",
+        "b": "Los procesados estarán separados de los condenados, salvo en circunstancias excepcionales.",
+        "c": "Los procesados serán sometidos a un tratamiento distinto, adecuado a su condición de personas no condenadas.",
+        "d": "El Pacto permite que los menores procesados compartan instalaciones con adultos condenados cuando no exista disponibilidad de espacio separado."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 10.2: los menores procesados estarán SEPARADOS de los adultos, sin la excepción por falta de disponibilidad de espacio descrita.",
+      "ley": "Artículo 10 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_14_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Salarios y condiciones de existencia dignas. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La remuneración mínima debe proporcionar a todos los trabajadores condiciones de existencia dignas para ellos y sus familias.",
+        "b": "El Pacto condiciona la remuneración digna exclusivamente a los trabajadores sin cargas familiares.",
+        "c": "El Pacto no exige que la remuneración mínima asegure condiciones de existencia dignas para la familia del trabajador.",
+        "d": "La remuneración mínima prevista en el Pacto se limita a los trabajadores del sector público."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 7.a.ii: la remuneración mínima debe asegurar condiciones de existencia dignas para los trabajadores y SUS FAMILIAS, sin las exclusiones señaladas.",
+      "ley": "Artículo 7 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_14_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Protección de las madres trabajadoras. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Se debe conceder especial protección a las madres durante un período de tiempo razonable antes y después del parto.",
+        "b": "El Pacto deja a la libre voluntad del empleador conceder o no licencia remunerada a las madres trabajadoras antes y después del parto.",
+        "c": "Durante dicho período, a las madres que trabajen se les debe conceder licencia con remuneración o con prestaciones adecuadas de seguridad social.",
+        "d": "Esta protección especial a la maternidad forma parte de las medidas de protección a la familia previstas en el Pacto."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 10.2: la licencia con remuneración o prestaciones adecuadas a las madres trabajadoras es una OBLIGACIÓN derivada del Pacto, no una decisión discrecional del empleador.",
+      "ley": "Artículo 10 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_14_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Difusión y promoción de los derechos humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo podrá imponer programas de asistencia técnica a los Estados sin necesidad de su consentimiento.",
+        "b": "La promoción de la educación en derechos humanos no forma parte de las funciones del Consejo conforme a la Resolución.",
+        "c": "El Consejo deberá promover la educación y el aprendizaje en materia de derechos humanos, así como la prestación de servicios de asesoramiento, asistencia técnica y fomento de la capacidad, en consulta y con el consentimiento de los Estados Miembros interesados.",
+        "d": "El Consejo carece de competencia para prestar asesoramiento técnico a los Estados Miembros."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 5.a: el Consejo promoverá la educación y prestará asistencia técnica EN CONSULTA Y CON EL CONSENTIMIENTO de los Estados interesados, sin poder imponerla unilateralmente.",
+      "ley": "Párrafo 5 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_14_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Diálogo y cooperación frente a la confrontación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los métodos de trabajo del Consejo deberán basarse en los principios de transparencia y orientación a los resultados.",
+        "b": "Los métodos de trabajo deben posibilitar un diálogo genuino entre los Estados.",
+        "c": "Los métodos del Consejo buscan superar el enfoque de confrontación que caracterizó a la antigua Comisión de Derechos Humanos.",
+        "d": "La Resolución 60/251 fomenta expresamente el enfoque de confrontación entre Estados como método de trabajo preferente del Consejo."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 12 y preámbulo: la Resolución busca SUPERAR el enfoque de confrontación, no fomentarlo, mediante diálogo genuino y cooperación.",
+      "ley": "Párrafo 12 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_14_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Garantía de no represalias contra denunciantes. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Se tomarán medidas para asegurar que quien presente la queja y los testigos estén protegidos contra malos tratos o intimidación como consecuencia de la queja presentada o del testimonio prestado.",
+        "b": "La Convención no contempla ninguna protección para los testigos en los procedimientos relativos a denuncias de tortura.",
+        "c": "La protección frente a represalias prevista en la Convención se limita al denunciante, sin extenderse a los testigos.",
+        "d": "Esta protección frente a represalias solo opera cuando la queja resulte finalmente probada."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 13: se protegerá tanto al denunciante COMO A LOS TESTIGOS, con independencia del resultado final de la investigación.",
+      "ley": "Artículo 13 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_14_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Modificación de la composición del Comité. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los miembros del Comité contra la Tortura serán elegidos por un período de cuatro años.",
+        "b": "El Comité contra la Tortura está compuesto por dieciocho miembros, en paralelo con el Comité de Derechos Humanos.",
+        "c": "Los miembros del Comité podrán ser reelegidos si se presenta de nuevo su candidatura.",
+        "d": "El mandato de cinco de los miembros elegidos en la primera elección expirará al cabo de dos años."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 17.1: el Comité contra la Tortura está compuesto por DIEZ expertos, no dieciocho (cifra que corresponde al Comité de Derechos Humanos del PIDCP).",
+      "ley": "Artículo 17 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_14_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Adopción del Protocolo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Protocolo Facultativo fue adoptado por el Consejo de Derechos Humanos en 2006, al mismo tiempo que su Resolución fundacional.",
+        "b": "El Protocolo Facultativo fue adoptado por el Comité contra la Tortura, sin intervención de la Asamblea General.",
+        "c": "El Protocolo Facultativo a la Convención contra la Tortura fue adoptado por la Asamblea General de las Naciones Unidas el 18 de diciembre de 2002.",
+        "d": "El Protocolo Facultativo carece de fecha de adopción precisa, al tratarse de un instrumento de duración indeterminada desde su origen."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nEl Protocolo fue adoptado por la ASAMBLEA GENERAL de las Naciones Unidas el 18 de diciembre de 2002, entrando en vigor en 2006.",
+      "ley": "Protocolo Facultativo a la Convención contra la Tortura, adoptado el 18 de diciembre de 2002"
+    },
+    {
+      "id": "tema_01_test_14_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Recursos económicos suficientes para el mecanismo nacional. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes se comprometen a destinar los recursos necesarios para el funcionamiento de los mecanismos nacionales de prevención de la tortura.",
+        "b": "Al establecer los mecanismos nacionales de prevención, los Estados Partes tendrán debidamente en cuenta los principios relativos al estatuto de las instituciones nacionales de derechos humanos.",
+        "c": "La falta de recursos suficientes para el mecanismo nacional no exime al Estado Parte de su obligación de establecerlo y mantenerlo operativo.",
+        "d": "El Protocolo permite a los Estados Partes posponer indefinidamente el establecimiento del mecanismo nacional de prevención por falta de recursos, sin plazo límite."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 17 y artículo 18.3: los Estados Partes deben destinar recursos suficientes; el aplazamiento del cumplimiento de obligaciones del Protocolo está limitado a un PLAZO MÁXIMO (artículo 24), no es indefinido.",
+      "ley": "Artículo 18 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_14_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho a un doble grado de jurisdicción en materia penal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Convenio reconoce, en su sistema de protocolos adicionales, el derecho de toda persona declarada culpable de una infracción penal por un tribunal a que su declaración de culpabilidad o condena sea examinada por un órgano jurisdiccional superior.",
+        "b": "El Convenio Europeo en su articulado original (Títulos I y II) regula expresamente y sin remisión a protocolos el derecho a un doble grado de jurisdicción penal.",
+        "c": "El derecho a un doble grado de jurisdicción penal queda excluido de cualquier instrumento del sistema del Convenio.",
+        "d": "Este derecho se reconoce únicamente respecto de las penas privativas de libertad superiores a diez años."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos y sus Protocolos adicionales.\nEl derecho a un doble grado de jurisdicción penal se recoge en el PROTOCOLO Nº 7 al Convenio, no en el articulado original de los Títulos I y II, sin las limitaciones señaladas.",
+      "ley": "Protocolo nº 7 al Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_14_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Deliberaciones del Tribunal. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Las deliberaciones del Tribunal en Sala o Gran Sala serán secretas.",
+        "b": "Las deliberaciones del Tribunal son públicas, pudiendo asistir a ellas cualquier parte interesada en el procedimiento.",
+        "c": "Toda sentencia deberá ser motivada.",
+        "d": "Si la sentencia no expresa en todo o en parte la opinión unánime de los Jueces, cualquiera de ellos tendrá derecho a unir a la misma su opinión separada."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 45: las deliberaciones del Tribunal son SECRETAS, no públicas; las sentencias deben motivarse, con posibilidad de opiniones separadas.",
+      "ley": "Artículo 45 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_14_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Ámbito de actuación del Defensor del Pueblo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo carece de competencia respecto de cualquier Administración distinta de la Administración General del Estado.",
+        "b": "La competencia del Defensor del Pueblo se extiende exclusivamente a la Administración Local.",
+        "c": "El Defensor del Pueblo extiende su competencia a la actividad de los órganos dependientes de la Administración General del Estado y de las Comunidades Autónomas en los términos establecidos por sus respectivos Estatutos.",
+        "d": "El Defensor del Pueblo no puede investigar la actuación de organismos públicos vinculados o dependientes de las Administraciones Públicas."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nEl Defensor del Pueblo SÍ extiende su competencia a la Administración General del Estado y a las Comunidades Autónomas, en los términos de sus Estatutos, así como a organismos dependientes.",
+      "ley": "Artículo 1 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_14_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Plazo de presentación de quejas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Las quejas podrán presentarse por toda persona natural o jurídica que tenga interés legítimo, sin restricción de nacionalidad, residencia, sexo, minoría de edad, incapacidad legal o internamiento en un centro penitenciario.",
+        "b": "Las quejas deben presentarse en el plazo de un año, contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma.",
+        "c": "La presentación de una queja ante el Defensor del Pueblo no interrumpe los plazos para el ejercicio de las acciones o recursos administrativos o judiciales.",
+        "d": "El plazo para presentar una queja ante el Defensor del Pueblo es de diez años desde que se produjeron los hechos, con independencia del conocimiento de los mismos por el interesado."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nEl plazo para presentar una queja es de UN AÑO desde el conocimiento de los hechos, no de diez años desde su producción.",
+      "ley": "Artículo 15 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_14_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas.",
+        "b": "El derecho al descanso reconocido en la Declaración se limita a los trabajadores del sector público.",
+        "c": "La Declaración no contempla ninguna limitación a la duración de la jornada laboral.",
+        "d": "Las vacaciones periódicas previstas en la Declaración pueden ser, conforme a su texto, sin remuneración alguna."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 24: toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas PAGADAS, sin las exclusiones o condiciones señaladas.",
+      "ley": "Artículo 24 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_14_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Trato a los extranjeros conforme al Pacto en general. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Cada uno de los Estados Partes se compromete a respetar y a garantizar a todos los individuos que se encuentren en su territorio y estén sujetos a su jurisdicción los derechos reconocidos en el Pacto, sin distinción alguna.",
+        "b": "El Pacto permite a los Estados Partes excluir de su garantía a los extranjeros que se encuentren legalmente en su territorio.",
+        "c": "Entre los motivos de distinción prohibidos por el Pacto figuran la raza, el color, el sexo, el idioma, la religión y el origen nacional o social.",
+        "d": "Los Estados Partes se comprometen a garantizar estos derechos sin distinción por posición económica, nacimiento o cualquier otra condición social."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 2.1: el compromiso de respetar y garantizar los derechos del Pacto se extiende a TODOS LOS INDIVIDUOS en el territorio del Estado, sin excluir a los extranjeros.",
+      "ley": "Artículo 2 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_14_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Cláusula de salvaguarda de derechos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto deroga automáticamente las disposiciones de la Carta de las Naciones Unidas que regulan estas materias.",
+        "b": "El Pacto no contiene ninguna cláusula de salvaguarda respecto de otros instrumentos del sistema de Naciones Unidas.",
+        "c": "Ninguna disposición del Pacto podrá ser interpretada en menoscabo de las disposiciones de la Carta de las Naciones Unidas y de las constituciones de los organismos especializados que definen las atribuciones de los diversos órganos en materia de derechos económicos, sociales y culturales.",
+        "d": "Las constituciones de los organismos especializados quedan subordinadas en todo caso al Pacto."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 24: el Pacto NO deroga ni subordina las disposiciones de la Carta de las Naciones Unidas ni las constituciones de los organismos especializados, sin la jerarquía señalada.",
+      "ley": "Artículo 24 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_14_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Funcionamiento del Comité de Ministros respecto de las sentencias. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La sentencia definitiva del Tribunal será transmitida al Comité de Ministros, que velará por su ejecución.",
+        "b": "Si el Comité de Ministros considera que la supervisión de la ejecución de una sentencia definitiva se ve dificultada por un problema de interpretación, podrá someter la cuestión al Tribunal para que se pronuncie.",
+        "c": "El Comité de Ministros podrá iniciar ante el Tribunal un procedimiento por incumplimiento si una Alta Parte se niega a acatar una sentencia definitiva.",
+        "d": "El Comité de Ministros carece de cualquier competencia de supervisión sobre la ejecución de las sentencias del Tribunal, que corresponde en exclusiva a cada Estado."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 46: el Comité de Ministros SÍ tiene competencia de supervisión sobre la ejecución de las sentencias, incluyendo mecanismos de interpretación e incumplimiento.",
+      "ley": "Artículo 46 del Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

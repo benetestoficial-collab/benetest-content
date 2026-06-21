@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 6",
+  "preguntas": [
+    {
+      "id": "tema_01_test_06_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene todos los derechos y libertades proclamados en la Declaración, sin distinción alguna de raza, color, sexo, idioma, religión u otra condición.",
+        "b": "Los derechos de la Declaración solo se reconocen a los nacionales de los Estados miembros de Naciones Unidas.",
+        "c": "La Declaración permite distinciones basadas en la posición política del territorio de origen de la persona.",
+        "d": "El disfrute de los derechos de la Declaración exige reciprocidad por parte del Estado de origen del individuo."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 2: toda persona tiene todos los derechos y libertades proclamados en la Declaración, sin distinción alguna, incluida la basada en la condición política, jurídica o internacional del país o territorio de su origen.",
+      "ley": "Artículo 2 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_06_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Derecho al trabajo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.",
+        "b": "El derecho a una remuneración equitativa y satisfactoria queda condicionado a la afiliación sindical previa del trabajador.",
+        "c": "Toda persona tiene derecho a igual salario por trabajo igual, sin discriminación alguna.",
+        "d": "Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 23: el derecho a una remuneración equitativa y satisfactoria que asegure una existencia conforme a la dignidad humana NO está condicionado a la afiliación sindical.",
+      "ley": "Artículo 23 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_06_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Educación. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La instrucción elemental conforme a la Declaración es facultativa, no obligatoria.",
+        "b": "Los padres carecen de derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos.",
+        "c": "La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales.",
+        "d": "La educación superior debe ser igualmente gratuita y obligatoria que la elemental, según la Declaración."
+      },
+      "correct": "c",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 26: la instrucción elemental será OBLIGATORIA; la educación tendrá por objeto el pleno desarrollo de la personalidad y el fortalecimiento del respeto a los derechos humanos; los padres tendrán derecho preferente a escoger el tipo de educación de sus hijos.",
+      "ley": "Artículo 26 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_06_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Igualdad ante los tribunales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todas las personas son iguales ante los tribunales y cortes de justicia.",
+        "b": "Toda persona tiene derecho a ser oída públicamente y con las debidas garantías por un tribunal competente, independiente e imparcial.",
+        "c": "La prensa y el público podrán ser excluidos de la totalidad o parte de los juicios por consideraciones de moral, orden público o seguridad nacional.",
+        "d": "Toda sentencia en materia penal o contenciosa deberá hacerse pública sin excepción alguna, incluso cuando esté en juego el interés de menores."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 14.1: toda sentencia será pública, EXCEPTO cuando el interés de menores exija lo contrario o se trate de cuestiones matrimoniales o de tutela de menores.",
+      "ley": "Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_06_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Prohibición de la prisión por deudas. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Nadie será encarcelado por el solo hecho de no poder cumplir una obligación contractual.",
+        "b": "El Pacto permite la prisión por deudas cuando el deudor actúe de mala fe.",
+        "c": "La prohibición de prisión por deudas no se aplica a las obligaciones de naturaleza mercantil.",
+        "d": "El incumplimiento de cualquier obligación, contractual o no, puede dar lugar a prisión conforme al Pacto."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 11: nadie será encarcelado por el solo hecho de no poder cumplir una obligación CONTRACTUAL, sin excepciones por mala fe o naturaleza mercantil.",
+      "ley": "Artículo 11 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_06_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Protección de la familia. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto considera a la familia un elemento accesorio cuya protección queda a la libre discreción del Estado.",
+        "b": "La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.",
+        "c": "El derecho a contraer matrimonio según el Pacto no exige el libre y pleno consentimiento de los contrayentes.",
+        "d": "El Pacto no reconoce ningún derecho relacionado con la protección de la familia."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 23.1 y 23.3: la familia es el elemento natural y fundamental de la sociedad; el matrimonio requiere el libre y pleno consentimiento de los contrayentes.",
+      "ley": "Artículo 23 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_06_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho a fundar sindicatos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a fundar sindicatos y a afiliarse al de su elección, con sujeción únicamente a los estatutos de la organización.",
+        "b": "Los sindicatos tienen derecho a funcionar sin obstáculos y sin otras limitaciones que las previstas por la ley.",
+        "c": "El artículo permite que el Estado impida la fundación de sindicatos sin necesidad de ley alguna, por simple decisión administrativa.",
+        "d": "Las restricciones legales a los sindicatos solo se justifican en interés de la seguridad nacional, el orden público o los derechos de terceros."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 8: el derecho de fundar sindicatos sólo puede restringirse mediante LEY, en interés de la seguridad nacional, el orden público o los derechos de terceros, nunca por mera decisión administrativa.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_06_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Participación en la vida cultural. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El derecho a participar en la vida cultural queda excluido del catálogo de derechos del Pacto.",
+        "b": "El Pacto reconoce este derecho exclusivamente a los nacionales del Estado, no a los residentes extranjeros.",
+        "c": "El reconocimiento de este derecho está condicionado a la previa obtención de una autorización administrativa.",
+        "d": "Los Estados Partes reconocen el derecho de toda persona a participar en la vida cultural."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 15.1.a: los Estados Partes reconocen el derecho de toda persona a participar en la vida cultural, sin las condiciones o exclusiones señaladas.",
+      "ley": "Artículo 15 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_06_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Elección de los miembros del Consejo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La composición del Consejo se basará en una distribución geográfica equitativa de los puestos entre los grupos regionales.",
+        "b": "La distribución de puestos del Consejo se realiza exclusivamente según el criterio de población de cada Estado.",
+        "c": "La Resolución no establece ningún criterio de distribución geográfica para la composición del Consejo.",
+        "d": "Los puestos del Consejo se asignan por orden alfabético de los Estados Miembros de Naciones Unidas."
+      },
+      "correct": "a",
+      "explicacion": "Resolución 60/251.\nPárrafo 7: los puestos se distribuirán sobre la base de una distribución geográfica equitativa entre los grupos regionales.",
+      "ley": "Párrafo 7 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_06_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Consideraciones para la elección de los miembros. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Al elegir a los miembros del Consejo, los Estados Miembros deberán tener en cuenta la contribución de los candidatos a la promoción y protección de los derechos humanos.",
+        "b": "Ningún criterio relativo a derechos humanos puede considerarse al elegir a los miembros del Consejo, bastando el reparto regional.",
+        "c": "Los Estados Miembros deberán tener en cuenta los compromisos voluntarios pertinentes que hayan hecho los candidatos al respecto.",
+        "d": "La Resolución exige a los Estados candidatos asumir compromisos voluntarios en materia de derechos humanos."
+      },
+      "correct": "b",
+      "explicacion": "Resolución 60/251.\nPárrafo 8: al elegir a los miembros, los Estados SÍ deberán tener en cuenta la contribución de los candidatos a la promoción y protección de los derechos humanos y sus compromisos voluntarios al respecto, además del criterio de reparto regional.",
+      "ley": "Párrafo 8 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_06_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Ámbito territorial de aplicación. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las obligaciones de la Convención solo se aplican al territorio metropolitano del Estado Parte, no a otros territorios bajo su jurisdicción.",
+        "b": "La Convención excluye expresamente las medidas administrativas como instrumento válido para impedir la tortura.",
+        "c": "Todo Estado Parte tomará medidas legislativas, administrativas, judiciales o de otra índole eficaces para impedir los actos de tortura en todo territorio bajo su jurisdicción.",
+        "d": "Las medidas para impedir la tortura quedan a la libre voluntad de cada Estado, sin que la Convención imponga obligación alguna."
+      },
+      "correct": "c",
+      "explicacion": "Convención contra la Tortura.\nArtículo 2.1: todo Estado Parte tomará medidas legislativas, administrativas, judiciales o de otra índole eficaces para impedir los actos de tortura en TODO territorio bajo su jurisdicción.",
+      "ley": "Artículo 2 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_06_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Formación del personal médico. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La prohibición de la tortura debe incluirse en las normas o instrucciones que se publiquen en relación con los deberes del personal médico.",
+        "b": "Todo Estado Parte examinará sistemáticamente las normas e instrucciones relativas a los métodos de interrogatorio para evitar todo caso de tortura.",
+        "c": "Todo Estado Parte examinará igualmente las disposiciones para la custodia y tratamiento de personas detenidas.",
+        "d": "La formación sobre prohibición de la tortura queda excluida del personal médico, limitándose al personal exclusivamente policial."
+      },
+      "correct": "d",
+      "explicacion": "Convención contra la Tortura.\nArtículo 10.1: la formación SÍ incluye al personal médico, además del civil o militar encargado de la aplicación de la ley.",
+      "ley": "Artículo 10 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_06_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Composición del Subcomité. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Subcomité para la Prevención estará compuesto de expertos independientes e imparciales, elegidos en función de su utilidad práctica y de su moralidad.",
+        "b": "Los miembros del Subcomité para la Prevención serán designados directamente por el Secretario General sin elección entre los Estados Partes.",
+        "c": "Los miembros del Subcomité actuarán en representación del Estado que los presentó como candidatos.",
+        "d": "El Subcomité estará compuesto exclusivamente por juristas, excluyendo cualquier otro perfil profesional."
+      },
+      "correct": "a",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 5.2: los miembros del Subcomité serán elegidos por los Estados Partes en función de su utilidad práctica y moralidad, actuando a título personal, con independencia e imparcialidad, sin representar a ningún Estado.",
+      "ley": "Artículo 5 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_06_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Programa de visitas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Subcomité para la Prevención establecerá, en primer lugar por sorteo, un programa de visitas periódicas a los Estados Partes.",
+        "b": "El programa de visitas del Subcomité es vinculante y no puede modificarse bajo ninguna circunstancia tras su sorteo inicial.",
+        "c": "Tras las visitas, el Subcomité comunicará sus observaciones y recomendaciones a los Estados Partes y, si procede, al mecanismo nacional de prevención.",
+        "d": "El Subcomité podrá realizar una visita de seguimiento tras la visita periódica, si lo considera oportuno."
+      },
+      "correct": "b",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 13: el programa de visitas, una vez establecido, podrá ser MODIFICADO por el Subcomité tras consultar con los Estados Partes; no es absolutamente inmutable.",
+      "ley": "Artículo 13 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_06_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Libertad y seguridad. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El derecho a la libertad reconocido en el Convenio es absoluto y no admite ninguna privación de libertad, ni siquiera tras una condena por un tribunal competente.",
+        "b": "El Convenio no exige que la privación de libertad se ajuste a un procedimiento legalmente establecido.",
+        "c": "Toda persona tiene derecho a la libertad y a la seguridad; nadie puede ser privado de su libertad salvo en los casos previstos en el Convenio y con arreglo al procedimiento establecido por la ley.",
+        "d": "La detención preventiva está excluida en todo caso del ámbito de aplicación de este artículo."
+      },
+      "correct": "c",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 5.1: toda persona tiene derecho a la libertad y a la seguridad; nadie puede ser privado de su libertad salvo en los casos taxativamente previstos (entre ellos, tras condena por tribunal competente, o detención preventiva) y con arreglo al procedimiento legal.",
+      "ley": "Artículo 5 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_06_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Libertad de expresión. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la libertad de expresión, que comprende la libertad de opinión y de recibir o comunicar informaciones o ideas sin injerencia de autoridades públicas.",
+        "b": "El ejercicio de estas libertades puede someterse a restricciones previstas por la ley y necesarias en una sociedad democrática.",
+        "c": "El artículo no impide que los Estados sometan a las empresas de radiodifusión, cinematografía o televisión a un régimen de autorización previa.",
+        "d": "La libertad de expresión reconocida en el Convenio impide cualquier régimen de autorización previa para empresas de radiodifusión."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 10.1: el propio precepto permite EXPRESAMENTE que los Estados sometan a las empresas de radiodifusión, cinematografía o televisión a un régimen de autorización previa.",
+      "ley": "Artículo 10 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_06_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Prohibición de abuso de derecho. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Ninguna de las disposiciones del Convenio podrá ser interpretada en el sentido de implicar para un Estado, grupo o individuo un derecho a dedicarse a una actividad o a realizar un acto tendente a la destrucción de los derechos reconocidos en el Convenio.",
+        "b": "El Convenio permite invocar sus propias disposiciones para justificar actos dirigidos a destruir los derechos que reconoce.",
+        "c": "La prohibición de abuso de derecho del Convenio solo se aplica a los Estados, no a individuos ni grupos.",
+        "d": "El Convenio no contiene ninguna cláusula relativa al abuso de derecho."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 17: ninguna disposición del Convenio podrá interpretarse en el sentido de implicar un derecho a destruir los derechos y libertades reconocidos, para Estados, grupos O INDIVIDUOS.",
+      "ley": "Artículo 17 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_06_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Adjuntos del Defensor del Pueblo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo estará auxiliado por dos Adjuntos en los que podrá delegar sus funciones.",
+        "b": "Los Adjuntos del Defensor del Pueblo carecen de cualquier intervención en las funciones del Mecanismo Nacional de Prevención de la Tortura.",
+        "c": "Los Adjuntos sustituirán al Defensor del Pueblo, por su orden, en los supuestos de imposibilidad temporal o de cese.",
+        "d": "El nombramiento y separación de los Adjuntos corresponde al Defensor del Pueblo, oídas las Cámaras."
+      },
+      "correct": "b",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 4 y artículo 19: los Adjuntos SÍ intervienen en el Mecanismo Nacional de Prevención, integrando el Consejo Asesor como miembros natos.",
+      "ley": "Artículos 4 y 19 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_06_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La igualdad en dignidad y derechos proclamada en la Declaración solo se reconoce a partir de la mayoría de edad.",
+        "b": "La Declaración condiciona la dignidad humana al reconocimiento previo por parte del Estado de nacimiento.",
+        "c": "Todos los seres humanos nacen libres e iguales en dignidad y derechos.",
+        "d": "Los seres humanos nacen con dignidad y derechos desiguales, que se equiparan progresivamente según la Declaración."
+      },
+      "correct": "c",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 1: todos los seres humanos nacen libres e iguales en dignidad y derechos, dotados de razón y conciencia, sin condicionamiento alguno por edad o reconocimiento estatal.",
+      "ley": "Artículo 1 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_06_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Junta de Coordinación y Régimen Interior. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Junta de Coordinación y Régimen Interior está compuesta exclusivamente por personal funcionario ajeno a la dirección de la Institución.",
+        "b": "La Junta de Coordinación y Régimen Interior carece de competencias sobre el anteproyecto de presupuesto de la Institución.",
+        "c": "La presidencia de la Junta de Coordinación corresponde por rotación anual a cada uno de los Adjuntos.",
+        "d": "La Junta de Coordinación y Régimen Interior estará integrada por el Defensor del Pueblo, que la presidirá, y por los Adjuntos."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 6: la Junta de Coordinación y Régimen Interior está integrada por el Defensor del Pueblo, que la PRESIDE, y por los Adjuntos, entre cuyas competencias figura conocer el anteproyecto de presupuesto.",
+      "ley": "Artículo 6 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    }
+  ]
+}

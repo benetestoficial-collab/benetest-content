@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_01_test_04_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Trabajo forzado y esclavitud. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La esclavitud y la trata de esclavos están prohibidas en todas sus formas.",
+        "b": "La esclavitud queda permitida cuando derive de una condena penal firme.",
+        "c": "La trata de esclavos sólo está prohibida entre Estados que hayan ratificado la Declaración.",
+        "d": "La prohibición de la esclavitud admite excepciones por razones económicas."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 4: nadie estará sometido a esclavitud ni a servidumbre; la esclavitud y la trata de esclavos están prohibidas en todas sus formas, sin excepciones.",
+      "ley": "Artículo 4 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_04_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Libertad de pensamiento, conciencia y religión. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de religión.",
+        "b": "La libertad de manifestar la religión o las convicciones no puede limitarse bajo ninguna circunstancia.",
+        "c": "Este derecho incluye la libertad de cambiar de religión o de convicciones.",
+        "d": "La libertad de manifestar la religión puede ejercerse individual o colectivamente, en público o en privado."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 18: la libertad de manifestar la religión o las creencias SÍ puede ser objeto de las restricciones legales propias de una sociedad democrática (orden público, salud, moral, derechos de terceros), no es absoluta.",
+      "ley": "Artículo 18 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_04_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Participación política. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El derecho de acceso a las funciones públicas del propio país puede reservarse a quienes pertenezcan a un determinado partido.",
+        "b": "El voto secreto es incompatible con la celebración de elecciones auténticas según la Declaración.",
+        "c": "La voluntad del pueblo es la base de la autoridad del poder público y se expresará mediante elecciones auténticas y periódicas por sufragio universal e igual.",
+        "d": "El derecho a participar en el gobierno del país sólo puede ejercerse de forma directa, nunca por representantes."
+      },
+      "correct": "c",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 21.3: la voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal e igual y por voto secreto u otro procedimiento equivalente.",
+      "ley": "Artículo 21 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_04_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Libre determinación de los pueblos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todos los pueblos tienen el derecho de libre determinación.",
+        "b": "En virtud de este derecho, los pueblos establecen libremente su condición política y proveen a su desarrollo económico, social y cultural.",
+        "c": "En ningún caso podrá privarse a un pueblo de sus propios medios de subsistencia.",
+        "d": "Todos los pueblos pueden disponer libremente de sus riquezas y recursos naturales sin ninguna limitación derivada del derecho internacional."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 1.2: la libre disposición de riquezas y recursos naturales se ejerce SIN PERJUICIO de las obligaciones derivadas de la cooperación económica internacional y del derecho internacional, no sin límite alguno.",
+      "ley": "Artículo 1 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_04_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Trato a personas privadas de libertad. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona privada de libertad será tratada humanamente y con el respeto debido a la dignidad inherente al ser humano.",
+        "b": "Los procesados podrán recibir el mismo tratamiento que los condenados sin distinción alguna.",
+        "c": "El régimen penitenciario carece de finalidad de reforma o readaptación social del penado.",
+        "d": "Los menores delincuentes podrán recibir el mismo tratamiento que los adultos cuando la gravedad del delito lo justifique."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 10: toda persona privada de libertad será tratada humanamente; los procesados estarán separados de los condenados; el régimen penitenciario tendrá como finalidad esencial la reforma y readaptación social; los menores estarán separados de los adultos.",
+      "ley": "Artículo 10 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_04_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Libertad de circulación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona que se halle legalmente en el territorio de un Estado tendrá derecho a circular libremente por él y a escoger su residencia.",
+        "b": "Las restricciones a la libertad de circulación podrán imponerse libremente por el Estado sin necesidad de previsión legal.",
+        "c": "Toda persona tendrá derecho a salir libremente de cualquier país, incluso del propio.",
+        "d": "Nadie podrá ser arbitrariamente privado del derecho a entrar en su propio país."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 12.3: las restricciones a la libertad de circulación deben hallarse PREVISTAS EN LA LEY y ser necesarias para proteger la seguridad nacional, el orden público, la salud o la moral públicas o los derechos y libertades de terceros.",
+      "ley": "Artículo 12 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_04_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Limitaciones a los derechos reconocidos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Estado podrá limitar libremente estos derechos por razones de oportunidad política, sin necesidad de ley.",
+        "b": "Las limitaciones a estos derechos pueden perseguir cualquier finalidad que el Estado considere conveniente.",
+        "c": "El Estado podrá someter los derechos del Pacto únicamente a limitaciones determinadas por ley y compatibles con la naturaleza de esos derechos, con el exclusivo objeto de promover el bienestar general en una sociedad democrática.",
+        "d": "El Pacto no contempla la posibilidad de limitar el ejercicio de los derechos que reconoce."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 4: el Estado podrá someter estos derechos únicamente a limitaciones determinadas por ley, sólo en la medida compatible con su naturaleza y con el exclusivo objeto de promover el bienestar general en una sociedad democrática.",
+      "ley": "Artículo 4 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_04_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho a la salud. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Entre las medidas para asegurar la plena efectividad del derecho a la salud figura la reducción de la mortinatalidad y de la mortalidad infantil.",
+        "b": "Entre dichas medidas figura el mejoramiento de la higiene del trabajo y del medio ambiente.",
+        "c": "Entre dichas medidas figura la prevención y el tratamiento de las enfermedades epidémicas, endémicas y profesionales.",
+        "d": "El derecho al disfrute del más alto nivel posible de salud física y mental queda excluido del Pacto."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 12.1: los Estados Partes SÍ reconocen el derecho de toda persona al disfrute del más alto nivel posible de salud física y mental; el apartado 2 detalla las medidas a adoptar.",
+      "ley": "Artículo 12 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_04_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Funciones del Consejo de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo promoverá la educación y el aprendizaje sobre los derechos humanos, así como la prestación de asesoramiento y asistencia técnica.",
+        "b": "El Consejo carece de competencia para servir de foro de diálogo sobre cuestiones temáticas de derechos humanos.",
+        "c": "El Consejo no podrá formular recomendaciones a la Asamblea General para el desarrollo del derecho internacional en materia de derechos humanos.",
+        "d": "El Consejo presentará un informe a la Asamblea General únicamente cada cinco años."
+      },
+      "correct": "a",
+      "explicacion": "Resolución 60/251.\nPárrafo 5.a: el Consejo promoverá la educación y el aprendizaje sobre los derechos humanos, así como la prestación de asesoramiento y asistencia técnica y el fomento de la capacidad.\nPárrafo 5.j: presentará un informe ANUAL a la Asamblea General.",
+      "ley": "Párrafo 5 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_04_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Métodos de trabajo del Consejo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los métodos de trabajo del Consejo deberán ser transparentes, justos e imparciales.",
+        "b": "Los métodos de trabajo del Consejo son secretos y no admiten interacción con procedimientos y mecanismos especiales.",
+        "c": "Los métodos de trabajo deberán posibilitar un diálogo genuino y estar orientados a los resultados.",
+        "d": "Los métodos de trabajo deberán permitir debates ulteriores de seguimiento de las recomendaciones y su cumplimiento."
+      },
+      "correct": "b",
+      "explicacion": "Resolución 60/251.\nPárrafo 12: los métodos de trabajo del Consejo deberán ser transparentes, justos e imparciales y posibilitar un diálogo genuino, estar orientados a los resultados, permitir debates ulteriores y permitir una interacción sustantiva con procedimientos y mecanismos especiales.",
+      "ley": "Párrafo 12 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_04_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Obligación de impedir la tortura. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La tortura puede justificarse cuando exista una amenaza grave de guerra declarada por el Estado.",
+        "b": "Una orden de un funcionario superior podrá invocarse como justificación de la tortura.",
+        "c": "En ningún caso podrán invocarse circunstancias excepcionales tales como estado de guerra o inestabilidad política interna como justificación de la tortura.",
+        "d": "La inestabilidad política interna constituye causa legítima de exención de responsabilidad por torturas cometidas durante la misma."
+      },
+      "correct": "c",
+      "explicacion": "Convención contra la Tortura.\nArtículo 2.2 y 2.3: en ningún caso podrán invocarse circunstancias excepcionales como justificación de la tortura, ni tampoco una orden de un funcionario superior o de una autoridad pública.",
+      "ley": "Artículo 2 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_04_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Tipificación penal de la tortura. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte velará por que todos los actos de tortura constituyan delitos conforme a su legislación penal.",
+        "b": "Lo mismo se aplicará a la tentativa de cometer tortura y a todo acto de complicidad o participación en ella.",
+        "c": "Todo Estado Parte castigará estos delitos con penas adecuadas que tengan en cuenta su gravedad.",
+        "d": "La tentativa de tortura queda excluida de cualquier consecuencia penal conforme a la Convención."
+      },
+      "correct": "d",
+      "explicacion": "Convención contra la Tortura.\nArtículo 4: todo Estado Parte velará por que todos los actos de tortura constituyan delitos, lo mismo que la TENTATIVA de cometerla y la complicidad o participación, castigándose con penas adecuadas a su gravedad.",
+      "ley": "Artículo 4 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_04_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Auxilio judicial mutuo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Estados Partes se prestarán todo el auxilio posible en lo que respecta a cualquier procedimiento penal relativo a los delitos de tortura, incluido el suministro de pruebas que obren en su poder.",
+        "b": "Los Estados Partes no están obligados a prestarse ningún tipo de auxilio judicial en materia de tortura.",
+        "c": "El auxilio judicial mutuo sólo opera cuando ambos Estados comparten el mismo sistema jurídico.",
+        "d": "El suministro de pruebas entre Estados queda excluido expresamente por la Convención."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 9.1: los Estados Partes se prestarán todo el auxilio posible respecto de cualquier procedimiento penal relativo a los delitos del artículo 4, incluido el suministro de todas las pruebas necesarias que obren en su poder.",
+      "ley": "Artículo 9 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_04_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Establecimiento del Subcomité para la Prevención. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Subcomité para la Prevención realizará su labor en el marco de la Carta de las Naciones Unidas y se guiará por los propósitos y principios enunciados en ella.",
+        "b": "El Subcomité para la Prevención depende jerárquicamente y recibe instrucciones directas del Comité contra la Tortura en cada una de sus actuaciones.",
+        "c": "El Subcomité para la Prevención y los Estados Partes cooperarán en la aplicación del Protocolo.",
+        "d": "El Subcomité para la Prevención se guiará también por las normas de Naciones Unidas relativas al trato de las personas privadas de libertad."
+      },
+      "correct": "b",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 2.1: se establece como un Subcomité DEL Comité contra la Tortura, pero el Protocolo no prevé que reciba instrucciones del Comité en cada actuación; actúa conforme a su propio mandato (artículo 11) con independencia funcional.",
+      "ley": "Artículo 2 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_04_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Designación de candidatos al Subcomité. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Cada Estado Parte únicamente podrá designar un candidato, sin excepción.",
+        "b": "Los candidatos no necesitan tener la nacionalidad de un Estado Parte en el Protocolo.",
+        "c": "Cada Estado Parte podrá designar hasta dos candidatos que posean las calificaciones exigidas, presentando información detallada sobre ellas.",
+        "d": "Un Estado Parte puede proponer la candidatura de un nacional de otro Estado sin necesidad de su consentimiento."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 6.1 y 6.2: cada Estado Parte podrá designar hasta DOS candidatos, que deberán tener la nacionalidad de un Estado Parte; para proponer a un nacional de otro Estado se requiere su consentimiento previo.",
+      "ley": "Artículo 6 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_04_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Sustitución de un miembro del Subcomité. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Si un miembro del Subcomité muere, renuncia o no puede desempeñar sus funciones, el Estado Parte que presentó su candidatura podrá proponer a otra persona que reúna los requisitos.",
+        "b": "La propuesta de sustitución queda sujeta a la aprobación de la mayoría de los Estados Partes.",
+        "c": "Dicha aprobación se considerará otorgada salvo que la mitad o más de los Estados Partes respondan negativamente dentro de un plazo de seis semanas.",
+        "d": "La sustitución de un miembro del Subcomité no requiere ninguna forma de aprobación por parte de los demás Estados Partes."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 8: la propuesta de sustitución SÍ está sujeta a la aprobación de la mayoría de los Estados Partes, considerándose otorgada salvo respuesta negativa de la mitad o más en seis semanas.",
+      "ley": "Artículo 8 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_04_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho a la vida. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La muerte no se considerará infligida con infracción del Convenio cuando se produzca como consecuencia de un recurso a la fuerza absolutamente necesario para defender a una persona de una agresión ilegítima.",
+        "b": "El derecho a la vida reconocido en el Convenio carece de cualquier excepción relativa al uso de la fuerza.",
+        "c": "La muerte causada al detener conforme a derecho a una persona constituye siempre una infracción del Convenio.",
+        "d": "El Convenio no contempla ninguna excepción para reprimir una revuelta o insurrección."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 2.2: la muerte no se considerará infligida con infracción del artículo cuando resulte de un recurso a la fuerza absolutamente necesario en defensa de una persona, para detener conforme a derecho o para reprimir una revuelta o insurrección.",
+      "ley": "Artículo 2 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_04_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho a un proceso equitativo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona acusada de una infracción se presume inocente hasta que su culpabilidad haya sido legalmente declarada.",
+        "b": "El acceso a la sala de audiencia no podrá ser nunca restringido, ni siquiera para proteger la vida privada de las partes o de menores.",
+        "c": "Todo acusado tiene derecho a ser informado, en el más breve plazo y en una lengua que comprenda, de la naturaleza y causa de la acusación.",
+        "d": "Todo acusado tiene derecho a disponer del tiempo y de las facilidades necesarias para la preparación de su defensa."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 6.1: el acceso a la sala de audiencia SÍ puede ser prohibido a la prensa y al público en interés de la moralidad, el orden público, la seguridad nacional, los menores o la vida privada de las partes, en las condiciones previstas.",
+      "ley": "Artículo 6 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_04_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Inviolabilidad del Defensor del Pueblo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo podrá ser detenido en cualquier circunstancia, sin necesidad de flagrante delito, mientras permanezca en el ejercicio de sus funciones.",
+        "b": "La decisión sobre la inculpación, prisión, procesamiento y juicio del Defensor del Pueblo corresponde a cualquier Juzgado de Instrucción competente por razón del territorio.",
+        "c": "El Defensor del Pueblo gozará de inviolabilidad y no podrá ser detenido, expedientado, multado, perseguido o juzgado en razón a las opiniones que formule o los actos que realice en el ejercicio de su cargo.",
+        "d": "Las reglas de inviolabilidad del Defensor del Pueblo no resultan aplicables a sus Adjuntos."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 2: el Defensor del Pueblo goza de inviolabilidad por sus opiniones y actos en el ejercicio del cargo; fuera de ello sólo podrá ser detenido en caso de flagrante delito, correspondiendo la decisión sobre inculpación, prisión, procesamiento y juicio a la Sala de lo Penal del Tribunal Supremo; estas reglas son aplicables también a los Adjuntos.",
+      "ley": "Artículo 2 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_04_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Competencias del Defensor del Pueblo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Corresponde al Defensor del Pueblo representar a la Institución.",
+        "b": "Corresponde al Defensor del Pueblo mantener relación directa con el Tribunal Constitucional y con el Consejo General del Poder Judicial.",
+        "c": "Corresponde al Defensor del Pueblo, en cuanto Mecanismo Nacional de Prevención, designar al Presidente del Consejo Asesor de entre sus Adjuntos.",
+        "d": "Corresponde al Defensor del Pueblo aprobar, sin sujeción a directriz alguna de las Mesas del Congreso y del Senado, el presupuesto definitivo de la Institución."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 8.k: el Defensor del Pueblo aprueba el proyecto de presupuesto DE ACUERDO CON LAS DIRECTRICES GENERALES fijadas por las Mesas del Congreso y del Senado, que son quienes lo aprueban definitivamente.",
+      "ley": "Artículo 8 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    }
+  ]
+}

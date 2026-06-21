@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 7",
+  "preguntas": [
+    {
+      "id": "tema_01_test_07_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado.",
+        "b": "El derecho a circular libremente reconocido en la Declaración no incluye el derecho a elegir residencia.",
+        "c": "Este derecho solo se reconoce a los nacionales del Estado, nunca a los residentes extranjeros legales.",
+        "d": "La Declaración no contempla derecho alguno de circulación dentro del territorio de un Estado."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 13.1: toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado.",
+      "ley": "Artículo 13 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_07_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Libertad de expresión. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo individuo tiene derecho a la libertad de opinión y de expresión.",
+        "b": "El derecho de difundir informaciones reconocido en la Declaración se limita al territorio del Estado de residencia del individuo.",
+        "c": "Este derecho incluye el de no ser molestado a causa de las propias opiniones.",
+        "d": "Este derecho incluye el de investigar y recibir informaciones y opiniones por cualquier medio de expresión."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 19: el derecho incluye difundir informaciones y opiniones SIN LIMITACIÓN DE FRONTERAS, por cualquier medio de expresión.",
+      "ley": "Artículo 19 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_07_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Suspensión de obligaciones. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite la suspensión, en cualquier circunstancia, del derecho a la vida y de la prohibición de la tortura.",
+        "b": "La suspensión de obligaciones del Pacto no exige proclamación oficial alguna del estado de excepción.",
+        "c": "En situaciones excepcionales que pongan en peligro la vida de la nación, los Estados Partes podrán adoptar disposiciones que suspendan las obligaciones del Pacto, en la medida estrictamente limitada a las exigencias de la situación.",
+        "d": "Cualquier Estado Parte que suspenda obligaciones del Pacto queda exento de informar a los demás Estados Partes."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 4: la suspensión exige proclamación oficial; no se autoriza ninguna suspensión de los artículos 6 (vida), 7 (tortura) y otros; el Estado debe informar a los demás Estados Partes por medio del Secretario General.",
+      "ley": "Artículo 4 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_07_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Derecho de reunión pacífica. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Se reconoce el derecho de reunión pacífica.",
+        "b": "El ejercicio de este derecho solo podrá estar sujeto a las restricciones previstas por la ley y necesarias en una sociedad democrática.",
+        "c": "Entre las finalidades que justifican restringir este derecho figuran la seguridad nacional, la seguridad o el orden públicos, la salud o la moral públicas.",
+        "d": "El derecho de reunión pacífica reconocido en el Pacto no admite ninguna restricción, sea cual sea su finalidad."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 21: el derecho de reunión pacífica SÍ admite restricciones previstas por la ley y necesarias en una sociedad democrática, por las finalidades enumeradas.",
+      "ley": "Artículo 21 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_07_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Protección de la vida privada del niño en el proceso penal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "En el procedimiento aplicable a los menores de edad a efectos penales, se tendrá en cuenta su edad y la importancia de estimular su readaptación social.",
+        "b": "El procedimiento penal aplicable a menores debe ser idéntico en publicidad al de los adultos, sin ninguna consideración especial.",
+        "c": "El Pacto no contempla ninguna previsión específica sobre el procedimiento penal aplicable a menores.",
+        "d": "La readaptación social del menor es un objetivo ajeno a las garantías procesales reconocidas en el Pacto."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 14.4: en el procedimiento aplicable a menores de edad a efectos penales se tendrá en cuenta esta circunstancia y la importancia de estimular su readaptación social.",
+      "ley": "Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_07_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Cooperación internacional. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes reconocen la importancia esencial de la cooperación internacional basada en el libre consentimiento para la efectividad de los derechos del Pacto.",
+        "b": "El Pacto prohíbe expresamente cualquier forma de cooperación o asistencia internacional para garantizar estos derechos.",
+        "c": "Los Estados Partes se comprometen a adoptar medidas, tanto por separado como mediante asistencia y cooperación internacional, para lograr la plena efectividad de los derechos reconocidos.",
+        "d": "Cada Estado Parte se compromete a adoptar medidas hasta el máximo de los recursos de que disponga."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 2.1: el Pacto reconoce expresamente la importancia de la cooperación y asistencia internacional, no la prohíbe.",
+      "ley": "Artículo 2 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_07_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. No discriminación. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite a los Estados Partes excluir a los extranjeros residentes de la garantía de no discriminación.",
+        "b": "La cláusula de no discriminación del Pacto se limita a los derechos laborales, sin extenderse a los demás derechos reconocidos.",
+        "c": "Los Estados Partes se comprometen a garantizar el ejercicio de los derechos del Pacto sin discriminación alguna por motivos de raza, color, sexo, idioma, religión u otra condición.",
+        "d": "El Pacto no contiene ninguna cláusula general de no discriminación."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 2.2: los Estados Partes se comprometen a garantizar el ejercicio de los derechos enunciados en el Pacto sin discriminación alguna, sin las exclusiones señaladas.",
+      "ley": "Artículo 2 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_07_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Comités Asesores y procedimientos especiales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo suprimió de forma automática todos los procedimientos especiales heredados de la Comisión de Derechos Humanos.",
+        "b": "Los procedimientos especiales heredados de la Comisión quedaron congelados sin posibilidad de revisión por el Consejo.",
+        "c": "La Resolución no contempla ninguna previsión sobre los mecanismos heredados de la Comisión de Derechos Humanos.",
+        "d": "El Consejo asumirá, examinará y, cuando sea necesario, perfeccionará y racionalizará todos los mandatos, mecanismos, funciones y atribuciones de la Comisión de Derechos Humanos para mantener un sistema de procedimientos especiales."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 6: el Consejo asumirá, examinará y, cuando sea necesario, perfeccionará y racionalizará todos los mandatos, mecanismos, funciones y atribuciones de la Comisión de Derechos Humanos para mantener un sistema de procedimientos especiales.",
+      "ley": "Párrafo 6 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_07_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Estatus de la sociedad civil. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La participación de organizaciones no gubernamentales queda excluida de forma absoluta en el nuevo Consejo de Derechos Humanos.",
+        "b": "Las disposiciones para la participación de observadores, incluidos Estados que no sean miembros del Consejo, las organizaciones no gubernamentales, se basarán en las disposiciones aplicadas por la Comisión de Derechos Humanos.",
+        "c": "La Resolución garantiza la participación más eficaz posible de observadores y su contribución sustantiva a la labor del Consejo.",
+        "d": "Se asegurará la máxima flexibilidad para la organización de los trabajos del Consejo a este respecto."
+      },
+      "correct": "a",
+      "explicacion": "Resolución 60/251.\nPárrafo 11: las ONG SÍ pueden participar como observadoras, basándose en las disposiciones y prácticas aplicadas por la Comisión, con la mayor participación y flexibilidad posibles.",
+      "ley": "Párrafo 11 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_07_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Cooperación con organismos intergubernamentales regionales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Convención deroga automáticamente cualquier disposición de protección más amplia prevista en otros tratados.",
+        "b": "Nada de lo dispuesto en la Convención afectará a ninguna disposición más amplia contenida en otro instrumento internacional o legislación nacional.",
+        "c": "La Convención prohíbe a los Estados Partes mantener legislación interna más protectora que la propia Convención.",
+        "d": "La Convención solo permite la aplicación de instrumentos internacionales posteriores a su entrada en vigor."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 1.2: la definición de tortura del artículo 1 se entenderá sin perjuicio de cualquier instrumento internacional o legislación nacional que contenga o pueda contener disposiciones de mayor alcance.",
+      "ley": "Artículo 1 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_07_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Composición del Comité contra la Tortura. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los miembros del Comité serán elegidos por los Estados Partes en votación secreta, de una lista de personas designadas por ellos.",
+        "b": "Se tendrá en cuenta una distribución geográfica equitativa y la utilidad de la participación de personas con experiencia jurídica.",
+        "c": "Los miembros del Comité serán designados directamente por el Secretario General, sin intervención de los Estados Partes.",
+        "d": "Los miembros del Comité contra la Tortura serán elegidos por un mandato de cuatro años, con posibilidad de reelección."
+      },
+      "correct": "c",
+      "explicacion": "Convención contra la Tortura.\nArtículo 17: los miembros del Comité SON ELEGIDOS POR LOS ESTADOS PARTES en votación secreta, no designados por el Secretario General.",
+      "ley": "Artículo 17 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_07_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Relación con otros mecanismos internacionales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Protocolo deroga automáticamente cualquier otro mecanismo regional de visitas a lugares de detención existente.",
+        "b": "El Protocolo impide a los Estados Partes participar en mecanismos regionales de prevención de la tortura.",
+        "c": "El Protocolo exige que los Estados Partes opten exclusivamente por el Subcomité, renunciando a otros mecanismos.",
+        "d": "Las disposiciones del Protocolo no afectarán a las obligaciones de los Estados Partes en virtud de otros instrumentos internacionales o regionales que prevean un sistema de visitas a los lugares de detención."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 4 (en relación con el artículo 31): el Protocolo no afecta a las obligaciones derivadas de otros instrumentos internacionales o regionales que prevean sistemas de visitas, sin exclusión ni derogación.",
+      "ley": "Artículo 31 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_07_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Composición mínima del mecanismo nacional de prevención. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes pueden integrar el mecanismo nacional de prevención exclusivamente con personal designado libremente por el Ministerio del Interior, sin garantía de independencia.",
+        "b": "Los Estados Partes garantizarán la independencia funcional de los mecanismos nacionales de prevención.",
+        "c": "Los Estados Partes garantizarán también la independencia de su personal.",
+        "d": "Los Estados Partes tendrán en cuenta los principios relativos al estatuto de las instituciones nacionales de promoción y protección de los derechos humanos."
+      },
+      "correct": "a",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 18.1: los Estados Partes garantizarán la independencia FUNCIONAL del mecanismo nacional de prevención y de su personal, no su dependencia de un ministerio sin garantías.",
+      "ley": "Artículo 18 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_07_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho al respeto a la vida privada y familiar. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Convenio prohíbe en todo caso cualquier injerencia de una autoridad pública en el ejercicio de este derecho, sin excepción posible.",
+        "b": "Toda persona tiene derecho al respeto de su vida privada y familiar, de su domicilio y de su correspondencia.",
+        "c": "El derecho al respeto de la vida privada reconocido en el Convenio no incluye la correspondencia.",
+        "d": "Este derecho solo protege el domicilio, no la vida familiar."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 8.1 y 8.2: toda persona tiene derecho al respeto de su vida privada y familiar, domicilio y correspondencia; la injerencia de autoridad pública SÍ puede estar justificada en los casos previstos por el apartado 2.",
+      "ley": "Artículo 8 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_07_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho a un recurso efectivo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona cuyos derechos y libertades reconocidos en el Convenio hayan sido violados tiene derecho a un recurso efectivo ante una autoridad nacional.",
+        "b": "Este derecho se reconoce incluso si la violación hubiera sido cometida por personas que actúen en el ejercicio de sus funciones oficiales.",
+        "c": "El derecho a un recurso efectivo del Convenio sólo opera tras agotar previamente la vía del Tribunal Europeo de Derechos Humanos.",
+        "d": "El derecho a un recurso efectivo se reconoce aunque la violación no provenga de una autoridad pública."
+      },
+      "correct": "c",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 13: el recurso efectivo debe existir ante una autoridad NACIONAL, precisamente como vía previa, no posterior, al Tribunal Europeo.",
+      "ley": "Artículo 13 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_07_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Restricciones a la actividad política de los extranjeros. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Convenio prohíbe expresamente cualquier restricción a la actividad política de los extranjeros.",
+        "b": "Esta posible restricción solo se contempla respecto del artículo 11, no de los artículos 10 y 14.",
+        "c": "El Convenio exige reciprocidad expresa para poder restringir la actividad política de los extranjeros.",
+        "d": "Ninguna de las disposiciones de los artículos 10, 11 y 14 podrá ser interpretada en el sentido de prohibir a las Altas Partes Contratantes imponer restricciones a la actividad política de los extranjeros."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 16: ninguna de las disposiciones de los artículos 10, 11 y 14 podrá interpretarse como impeditiva de restricciones a la actividad política de los extranjeros.",
+      "ley": "Artículo 16 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_07_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Estructura de la Institución. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La estructura interna de la Institución en Áreas y Secciones viene fijada de forma cerrada e inmodificable por el propio Reglamento, sin intervención del Defensor del Pueblo.",
+        "b": "La Institución del Defensor del Pueblo se estructura en Áreas, que podrán dividirse en Secciones.",
+        "c": "Al frente de cada Área habrá un Coordinador o Coordinadora.",
+        "d": "La organización en Áreas y Secciones corresponde aprobarla al Defensor del Pueblo, oída la Junta de Coordinación y Régimen Interior."
+      },
+      "correct": "a",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 5: la estructura en Áreas y Secciones la aprueba el DEFENSOR DEL PUEBLO, oída la Junta de Coordinación, no viene fijada de forma cerrada por el Reglamento.",
+      "ley": "Artículo 5 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_07_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Secretaría General. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Secretaría General de la Institución depende orgánicamente del Ministerio de la Presidencia.",
+        "b": "Bajo la autoridad del Defensor del Pueblo, existirá una Secretaría General de la que dependerán los servicios de la Institución.",
+        "c": "La Secretaría General carece de cualquier función de gobierno del personal de la Institución.",
+        "d": "La existencia de la Secretaría General es facultativa y queda a la libre decisión de las Cortes Generales en cada legislatura."
+      },
+      "correct": "b",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 7 y artículo 23: bajo la autoridad del Defensor del Pueblo existe una Secretaría General de la que dependen los servicios de la Institución, con funciones de gobierno del personal.",
+      "ley": "Artículos 7 y 23 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_07_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Libertad de asociación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.",
+        "b": "Nadie podrá ser obligado a pertenecer a una asociación.",
+        "c": "La libertad de asociación reconocida en la Declaración se limita a fines exclusivamente políticos.",
+        "d": "El derecho de reunión pacífica forma parte de las libertades proclamadas en este artículo."
+      },
+      "correct": "c",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 20: toda persona tiene derecho a la libertad de reunión y de asociación pacíficas, SIN limitación a fines políticos; nadie podrá ser obligado a pertenecer a una asociación.",
+      "ley": "Artículo 20 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_07_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Derecho a contraer matrimonio. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto exige el consentimiento de los padres como condición indispensable para la validez de cualquier matrimonio.",
+        "b": "Los Estados Partes tomarán las medidas apropiadas para asegurar la igualdad de derechos y responsabilidades en cuanto al matrimonio durante éste y en caso de disolución, sin que el Pacto lo exija expresamente.",
+        "c": "El Pacto no contempla ninguna disposición relativa a la disolución del matrimonio.",
+        "d": "Se reconoce el derecho del hombre y de la mujer a partir de la edad núbil a contraer matrimonio y a fundar una familia."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 23.2 y 23.4: se reconoce el derecho a contraer matrimonio a partir de la edad núbil; el Pacto SÍ exige tomar medidas para asegurar la igualdad de derechos durante el matrimonio y en caso de disolución.",
+      "ley": "Artículo 23 del Pacto Internacional de Derechos Civiles y Políticos"
+    }
+  ]
+}

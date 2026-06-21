@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_01_test_03_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Asilo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "En caso de persecución, toda persona tiene derecho a buscar asilo y a disfrutar de él en cualquier país.",
+        "b": "El derecho de asilo podrá invocarse frente a una acción judicial originada por delitos comunes.",
+        "c": "El derecho de asilo reconocido en la Declaración es ilimitado, incluso ante actos opuestos a los principios de las Naciones Unidas.",
+        "d": "El derecho de asilo sólo podrá ejercitarse en el país de origen del perseguido."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 14.\n1. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en cualquier país.\n2. Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas.",
+      "ley": "Artículo 14 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_03_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Nacionalidad. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a una nacionalidad.",
+        "b": "A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad, salvo que medie sentencia penal firme.",
+        "c": "A nadie se privará arbitrariamente de su nacionalidad.",
+        "d": "A nadie se privará arbitrariamente del derecho a cambiar de nacionalidad."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 15.\n1. Toda persona tiene derecho a una nacionalidad.\n2. A nadie se privará ARBITRARIAMENTE de su nacionalidad ni del derecho a cambiar de nacionalidad. El precepto no contempla la excepción de sentencia penal firme.",
+      "ley": "Artículo 15 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_03_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Propiedad. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El derecho a la propiedad reconocido en la Declaración es exclusivamente individual, sin proyección colectiva.",
+        "b": "La Declaración permite la privación de la propiedad sin necesidad de causa que la justifique.",
+        "c": "Toda persona tiene derecho a la propiedad, individual y colectivamente, y nadie será privado arbitrariamente de su propiedad.",
+        "d": "El derecho de propiedad queda excluido del catálogo de derechos reconocidos por la Declaración."
+      },
+      "correct": "c",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 17.\n1. Toda persona tiene derecho a la propiedad, individual y colectivamente.\n2. Nadie será privado arbitrariamente de su propiedad.",
+      "ley": "Artículo 17 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_03_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho a la seguridad social. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El derecho a la seguridad social queda excluido del ámbito de aplicación del Pacto.",
+        "b": "El Pacto condiciona el reconocimiento de la seguridad social a la previa existencia de un seguro privado.",
+        "c": "El derecho a la seguridad social sólo se reconoce a los trabajadores con contrato indefinido.",
+        "d": "Los Estados Partes reconocen el derecho de toda persona a la seguridad social, incluso al seguro social."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 9: los Estados Partes en el presente Pacto reconocen el derecho de toda persona a la seguridad social, incluso al seguro social.",
+      "ley": "Artículo 9 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_03_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Protección a la familia y a la infancia. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El matrimonio puede contraerse sin el libre consentimiento de los futuros cónyuges cuando concurra autorización familiar.",
+        "b": "Se debe conceder a la familia la más amplia protección y asistencia posibles, especialmente para su constitución.",
+        "c": "Se debe conceder especial protección a las madres durante un período razonable antes y después del parto.",
+        "d": "Se deben adoptar medidas especiales de protección y asistencia en favor de todos los niños y adolescentes, sin discriminación alguna por razón de filiación."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 10.1: el matrimonio debe contraerse con el LIBRE CONSENTIMIENTO de los futuros cónyuges, sin excepción por autorización familiar.",
+      "ley": "Artículo 10 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_03_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho a un nivel de vida adecuado. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El derecho a un nivel de vida adecuado se limita a la alimentación, excluyendo vestido y vivienda.",
+        "b": "Los Estados Partes reconocen el derecho de toda persona a un nivel de vida adecuado que le asegure, así como a su familia, alimentación, vestido y vivienda adecuados.",
+        "c": "El Pacto no contempla la cooperación internacional como medio para garantizar este derecho.",
+        "d": "El derecho a estar protegido contra el hambre queda fuera del ámbito de este artículo."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 11.1 y 11.2: reconoce el derecho a un nivel de vida adecuado (alimentación, vestido y vivienda) y el derecho fundamental a estar protegido contra el hambre, mediante medidas individuales y de cooperación internacional.",
+      "ley": "Artículo 11 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_03_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Examen periódico universal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El examen periódico universal sólo se aplica a los Estados que no sean miembros del Consejo.",
+        "b": "El examen periódico universal sustituye y deroga la labor de los órganos creados en virtud de tratados.",
+        "c": "El Consejo realizará un examen periódico universal, basado en información objetiva y fidedigna, sobre el cumplimiento por cada Estado de sus obligaciones en materia de derechos humanos.",
+        "d": "El examen periódico universal tiene carácter sancionador y conlleva la suspensión automática de derechos."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 5.e: el Consejo realizará un examen periódico universal, basado en información objetiva y fidedigna, sobre el cumplimiento por cada Estado de sus obligaciones y compromisos en materia de derechos humanos; dicho mecanismo COMPLEMENTARÁ Y NO DUPLICARÁ la labor de los órganos creados en virtud de tratados.",
+      "ley": "Párrafo 5.e) de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_03_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Suspensión de derechos de un miembro del Consejo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La suspensión de un miembro del Consejo corresponde en exclusiva al Secretario General de las Naciones Unidas.",
+        "b": "La suspensión de derechos requiere unanimidad de todos los miembros de la Asamblea General.",
+        "c": "Ningún miembro del Consejo de Derechos Humanos puede ser suspendido bajo ninguna circunstancia.",
+        "d": "La Asamblea General, por mayoría de dos tercios de los miembros presentes y votantes, podrá suspender los derechos inherentes a formar parte del Consejo a todo miembro que cometa violaciones graves y sistemáticas de los derechos humanos."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 8: la Asamblea General, por mayoría de dos tercios de los miembros presentes y votantes, podrá suspender los derechos inherentes a formar parte del Consejo de todo miembro de éste que cometa violaciones graves y sistemáticas de los derechos humanos.",
+      "ley": "Párrafo 8 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_03_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Disolución de la Comisión de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Se recomienda que el Consejo Económico y Social pida a la Comisión de Derechos Humanos que concluya sus trabajos en su 62º período de sesiones y disuelva la Comisión el 16 de junio de 2006.",
+        "b": "La Comisión de Derechos Humanos continuó funcionando de forma paralela e indefinida al nuevo Consejo.",
+        "c": "La disolución de la Comisión de Derechos Humanos quedó condicionada a una nueva votación de la Asamblea General en 2010.",
+        "d": "La Comisión de Derechos Humanos fue absorbida íntegramente por el Tribunal Europeo de Derechos Humanos."
+      },
+      "correct": "a",
+      "explicacion": "Resolución 60/251.\nPárrafo 13: recomienda que el Consejo Económico y Social pida a la Comisión de Derechos Humanos que concluya sus trabajos en su 62º período de sesiones y que disuelva la Comisión el 16 de junio de 2006.",
+      "ley": "Párrafo 13 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_03_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Investigación y queja. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El derecho a presentar una queja por tortura queda reservado a los nacionales del Estado Parte denunciado.",
+        "b": "Todo Estado Parte velará por que toda persona que alegue haber sido sometida a tortura tenga derecho a presentar una queja y a que su caso sea pronta e imparcialmente examinado.",
+        "c": "Los testigos de una queja por tortura no gozan de ninguna protección frente a represalias.",
+        "d": "El Estado Parte sólo está obligado a investigar la queja si ésta es ratificada judicialmente con carácter previo."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 13: todo Estado Parte velará por que toda persona que alegue haber sido sometida a tortura tenga derecho a presentar una queja y a que su caso sea pronta e imparcialmente examinado; se tomarán medidas para proteger al denunciante y a los testigos contra malos tratos o intimidación.",
+      "ley": "Artículo 13 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_03_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Reparación a las víctimas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte velará por que su legislación garantice a la víctima de un acto de tortura la reparación y el derecho a una indemnización justa y adecuada.",
+        "b": "La reparación a la víctima incluirá, en lo posible, los medios para su rehabilitación más completa posible.",
+        "c": "En caso de muerte de la víctima como resultado de un acto de tortura, las personas a su cargo carecerán de todo derecho a indemnización.",
+        "d": "Lo dispuesto sobre reparación no afectará a cualquier derecho de la víctima a indemnización que pueda existir con arreglo a las leyes nacionales."
+      },
+      "correct": "c",
+      "explicacion": "Convención contra la Tortura.\nArtículo 14.1: en caso de muerte de la víctima como resultado de un acto de tortura, LAS PERSONAS A SU CARGO TENDRÁN DERECHO A INDEMNIZACIÓN.",
+      "ley": "Artículo 14 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_03_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Extradición. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los delitos de tortura quedan excluidos de los tratados de extradición por su especial gravedad.",
+        "b": "Un Estado Parte que subordine la extradición a la existencia de un tratado no podrá nunca conceder la extradición por delitos de tortura.",
+        "c": "La Convención impide expresamente que se invoque como base jurídica para la extradición entre Estados sin tratado previo.",
+        "d": "Los delitos de tortura se considerarán incluidos entre los delitos que dan lugar a extradición en todo tratado de extradición celebrado entre Estados Partes."
+      },
+      "correct": "d",
+      "explicacion": "Convención contra la Tortura.\nArtículo 8.1 y 8.2: los delitos de tortura se considerarán incluidos entre los delitos que dan lugar a extradición; el Estado que subordine la extradición a un tratado podrá considerar la propia Convención como base jurídica necesaria para conceder la extradición.",
+      "ley": "Artículo 8 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_03_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Facultades del Subcomité para la Prevención. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Estados Partes se comprometen a dar al Subcomité para la Prevención acceso sin restricciones a toda la información sobre el número de personas privadas de libertad y su emplazamiento.",
+        "b": "El acceso del Subcomité a los lugares de detención queda condicionado a la autorización previa de un juez nacional en cada visita.",
+        "c": "El Subcomité para la Prevención únicamente puede entrevistarse con personas privadas de libertad en presencia de un funcionario del Estado.",
+        "d": "Los Estados Parte pueden negar al Subcomité el acceso a cualquier lugar de detención sin necesidad de justificar la negativa."
+      },
+      "correct": "a",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 14.1: los Estados Partes se comprometen a dar al Subcomité acceso sin restricciones a la información sobre el número de personas privadas de libertad, su emplazamiento, su trato, y posibilidad de entrevistarse con ellas SIN TESTIGOS.",
+      "ley": "Artículo 14 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_03_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Protección frente a represalias. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Ninguna autoridad ordenará, aplicará, permitirá o tolerará sanción alguna contra una persona por haber comunicado información al Subcomité, sea ésta verdadera o falsa.",
+        "b": "Una autoridad o funcionario podrá aplicar una sanción contra una persona u organización que haya comunicado información al Subcomité para la Prevención, si dicha información resulta ser falsa.",
+        "c": "Ninguna persona u organización sufrirá perjuicios de ningún tipo por haber comunicado información al Subcomité para la Prevención.",
+        "d": "La protección frente a represalias se extiende también a quienes comuniquen información a los mecanismos nacionales de prevención."
+      },
+      "correct": "b",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 15: ninguna autoridad o funcionario ordenará, aplicará, permitirá o tolerará sanción alguna contra una persona u organización por haber comunicado al Subcomité cualquier información, YA SEA VERDADERA O FALSA.",
+      "ley": "Artículo 15 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_03_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Declaración de aplazamiento. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El aplazamiento de obligaciones previsto en el Protocolo tiene carácter indefinido una vez declarado.",
+        "b": "El Protocolo no admite ningún tipo de aplazamiento en el cumplimiento de las obligaciones que establece.",
+        "c": "Una vez ratificado el Protocolo, los Estados Partes podrán hacer una declaración para aplazar el cumplimiento de sus obligaciones relativas a las partes III o IV, por un período máximo de tres años.",
+        "d": "El aplazamiento sólo puede solicitarse antes de la ratificación del Protocolo, nunca después."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 24.1 y 24.2: una vez ratificado el Protocolo, los Estados Partes podrán declarar el aplazamiento del cumplimiento de sus obligaciones de la parte III o IV, por un período máximo de tres años, prorrogable por otros dos previa consulta con el Subcomité.",
+      "ley": "Artículo 24 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_03_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Pleno del Tribunal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pleno del Tribunal carece de competencia para aprobar su propio reglamento.",
+        "b": "El Presidente del Tribunal es designado directamente por el Comité de Ministros del Consejo de Europa.",
+        "c": "Las Salas del Tribunal se constituyen por un período indefinido, sin posibilidad de modificación.",
+        "d": "El Tribunal, reunido en pleno, elegirá por un período de tres años a su Presidente y a uno o dos Vicepresidentes, que serán reelegibles."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 25: el Tribunal, reunido en pleno, elegirá por un período de tres años a su Presidente y a uno o dos Vicepresidentes, reelegibles; constituirá Salas por un período determinado; y aprobará su propio reglamento.",
+      "ley": "Artículo 25 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_03_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Satisfacción equitativa. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal concederá automáticamente una indemnización económica fija en todos los casos en que declare la violación del Convenio.",
+        "b": "Si el Tribunal declara que ha habido violación del Convenio y el derecho interno sólo permite reparar de manera imperfecta las consecuencias, el Tribunal concederá, si procede, una satisfacción equitativa.",
+        "c": "La sentencia de la Gran Sala será definitiva.",
+        "d": "Las sentencias, así como las resoluciones de admisibilidad o inadmisibilidad, serán motivadas."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 41: el Tribunal concederá una satisfacción equitativa a la parte perjudicada SI PROCEDE, en función de cada caso; no existe una indemnización fija ni automática.",
+      "ley": "Artículo 41 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_03_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Fuerza obligatoria de las sentencias. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las sentencias del Tribunal tienen carácter meramente orientativo y no generan obligación de cumplimiento para los Estados.",
+        "b": "Las Altas Partes Contratantes se comprometen a acatar las sentencias definitivas del Tribunal en los litigios en que sean partes.",
+        "c": "El Comité de Ministros carece de competencia para supervisar la ejecución de las sentencias del Tribunal.",
+        "d": "Las sentencias definitivas del Tribunal sólo vinculan al Estado demandado si éste las acepta expresamente con posterioridad."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 46.1 y 46.2: las Altas Partes Contratantes se comprometen a acatar las sentencias definitivas del Tribunal en los litigios en que sean Partes; la sentencia definitiva será transmitida al Comité de Ministros, que velará por su ejecución.",
+      "ley": "Artículo 46 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_03_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Responsabilidad del Defensor del Pueblo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo es responsable de su gestión ante el Gobierno, que podrá removerlo libremente.",
+        "b": "El Defensor del Pueblo responde de su gestión ante el Tribunal Constitucional con carácter exclusivo.",
+        "c": "El Defensor del Pueblo únicamente es responsable de su gestión ante las Cortes Generales.",
+        "d": "El Defensor del Pueblo no rinde cuentas de su gestión ante ningún órgano del Estado."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 3.1: el Defensor del Pueblo únicamente es responsable de su gestión ante las Cortes Generales.",
+      "ley": "Artículo 3 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_03_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Secretario General. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Corresponde al Secretario General el gobierno y régimen disciplinario de todo el personal no atribuido específicamente a otros órganos.",
+        "b": "Corresponde al Secretario General preparar y elevar a la Junta de Coordinación y Régimen Interior el anteproyecto de Presupuesto.",
+        "c": "Corresponde al Secretario General redactar las actas y notificar los acuerdos de la Junta de Coordinación y Régimen Interior.",
+        "d": "Corresponde al Secretario General convocar, por iniciativa propia y sin necesidad de indicación del Presidente, el Consejo Asesor del Mecanismo Nacional de Prevención."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 23.1.g: el Secretario General convocará el Consejo Asesor del Mecanismo Nacional de Prevención POR INDICACIÓN DEL PRESIDENTE, no por iniciativa propia.",
+      "ley": "Artículo 23 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    }
+  ]
+}

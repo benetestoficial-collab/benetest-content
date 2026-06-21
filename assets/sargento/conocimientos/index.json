@@ -1,8 +1,109 @@
 {
   "temas": {
     "tema_01": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_02": {
       "tests": [],

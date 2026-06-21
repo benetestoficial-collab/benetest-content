@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_01_test_05_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Igualdad ante la ley. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley.",
+        "b": "La igualdad ante la ley reconocida en la Declaración admite distinciones basadas en el origen social del individuo.",
+        "c": "El derecho a igual protección contra la discriminación sólo opera cuando ésta proceda de una autoridad pública.",
+        "d": "La Declaración no contempla protección alguna contra la provocación a la discriminación."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 7: todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley; todos tienen derecho a igual protección contra toda discriminación que infrinja la Declaración y contra toda provocación a tal discriminación.",
+      "ley": "Artículo 7 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_05_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Garantías penales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser condenado por una acción u omisión que, en el momento de cometerse, no constituyera delito según el Derecho nacional o internacional.",
+        "b": "La Declaración permite la aplicación retroactiva de la ley penal cuando el nuevo tipo delictivo sea más beneficioso para el procesado en cualquier circunstancia, incluso para crear el delito.",
+        "c": "No podrá imponerse una pena más grave que la aplicable en el momento en que la infracción fue cometida.",
+        "d": "Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad conforme a la ley."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 11: consagra la presunción de inocencia y el principio de legalidad penal (nadie será condenado por hechos no delictivos en el momento de su comisión, ni con pena más grave que la entonces aplicable), sin la excepción retroactiva descrita.",
+      "ley": "Artículo 11 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_05_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Vida privada y correspondencia. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Declaración permite injerencias en la correspondencia siempre que el remitente sea funcionario público.",
+        "b": "El derecho a la protección de la honra y reputación queda excluido cuando la persona ejerza un cargo representativo.",
+        "c": "Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o reputación.",
+        "d": "La protección frente a injerencias arbitrarias solo alcanza al domicilio, no a la correspondencia."
+      },
+      "correct": "c",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 12: nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación, con derecho a la protección de la ley frente a ello.",
+      "ley": "Artículo 12 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_05_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Reconocimiento de la personalidad jurídica. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo ser humano tiene derecho en todas partes al reconocimiento de su personalidad jurídica.",
+        "b": "Nadie será objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia.",
+        "c": "Toda persona tiene derecho a la protección de la ley contra esas injerencias o ataques.",
+        "d": "El reconocimiento de la personalidad jurídica conforme al Pacto sólo se otorga a los nacionales del Estado de residencia."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 16: todo ser humano tiene derecho EN TODAS PARTES al reconocimiento de su personalidad jurídica, sin distinción de nacionalidad.",
+      "ley": "Artículo 16 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_05_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Expulsión de extranjeros. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El extranjero que se halle legalmente en el territorio de un Estado Parte sólo podrá ser expulsado en cumplimiento de una decisión adoptada conforme a la ley.",
+        "b": "El extranjero expulsado carece, conforme al Pacto, de cualquier posibilidad de exponer las razones que se opongan a su expulsión.",
+        "c": "La expulsión de extranjeros queda excluida de cualquier control conforme al Pacto cuando medien razones de seguridad nacional.",
+        "d": "El Pacto no exige que la expulsión se adopte conforme a una decisión legal, bastando una orden verbal de la autoridad competente."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 13: el extranjero legalmente presente sólo podrá ser expulsado en cumplimiento de una decisión adoptada conforme a la ley, permitiéndosele exponer razones en contra y revisión del caso, salvo razones imperiosas de seguridad nacional que limiten estas garantías.",
+      "ley": "Artículo 13 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_05_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Derechos del niño. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo niño tiene derecho, sin discriminación alguna, a las medidas de protección que su condición de menor requiere.",
+        "b": "Las medidas de protección al niño previstas en el Pacto sólo corresponden a la familia, sin intervención de la sociedad ni del Estado.",
+        "c": "Todo niño será inscrito inmediatamente después de su nacimiento y deberá tener un nombre.",
+        "d": "Todo niño tiene derecho a adquirir una nacionalidad."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 24.1: las medidas de protección que la condición de menor requiere corresponden tanto a la familia como a la SOCIEDAD y al ESTADO.",
+      "ley": "Artículo 24 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_05_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Igualdad de género en el goce de derechos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite que los Estados reconozcan estos derechos en mayor medida a los hombres por razones de tradición cultural.",
+        "b": "La igualdad de género prevista en el Pacto sólo se aplica a los derechos laborales, no a los educativos o sanitarios.",
+        "c": "Los Estados Partes se comprometen a asegurar a hombres y mujeres igual título a gozar de todos los derechos económicos, sociales y culturales enunciados en el Pacto.",
+        "d": "El Pacto no contiene ninguna disposición específica sobre igualdad entre hombres y mujeres."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 3: los Estados Partes se comprometen a asegurar a los hombres y a las mujeres igual título a gozar de TODOS los derechos económicos, sociales y culturales enunciados en el Pacto, sin limitación por materia.",
+      "ley": "Artículo 3 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_05_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Libertad para la investigación científica. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes reconocen el derecho de toda persona a gozar de los beneficios del progreso científico y de sus aplicaciones.",
+        "b": "Los Estados Partes se comprometen a respetar la indispensable libertad para la investigación científica y la actividad creadora.",
+        "c": "Los Estados Partes reconocen los beneficios que derivan del fomento de la cooperación internacional en cuestiones científicas y culturales.",
+        "d": "El Pacto faculta a los Estados a restringir la investigación científica sin ninguna referencia a la libertad de creación o investigación."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 15: el Pacto reconoce el derecho a participar en la vida cultural, gozar del progreso científico, y obliga a los Estados a RESPETAR la libertad indispensable para la investigación científica y la actividad creadora.",
+      "ley": "Artículo 15 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_05_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Naturaleza del Consejo de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo de Derechos Humanos se estableció como órgano subsidiario de la Asamblea General, con sede en Ginebra, en sustitución de la Comisión de Derechos Humanos.",
+        "b": "El Consejo de Derechos Humanos es un órgano principal de Naciones Unidas, al mismo nivel que la Asamblea General.",
+        "c": "El Consejo de Derechos Humanos tiene su sede permanente en Nueva York.",
+        "d": "El Consejo de Derechos Humanos mantuvo plena continuidad institucional con la antigua Comisión, sin sustituirla."
+      },
+      "correct": "a",
+      "explicacion": "Resolución 60/251.\nPárrafo 1: la Asamblea General decide establecer el Consejo de Derechos Humanos, con sede en GINEBRA, en sustitución de la Comisión de Derechos Humanos, como órgano SUBSIDIARIO de la Asamblea General.",
+      "ley": "Párrafo 1 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_05_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Responsabilidades del Consejo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo será responsable de promover el respeto universal por la protección de todos los derechos humanos y libertades fundamentales de todas las personas.",
+        "b": "El Consejo carece de toda competencia para formular recomendaciones ante violaciones de derechos humanos.",
+        "c": "El Consejo deberá ocuparse de las situaciones en que se violen los derechos humanos, incluidas las violaciones graves y sistemáticas.",
+        "d": "El Consejo deberá promover la coordinación eficaz y la incorporación de los derechos humanos en la actividad general del sistema de Naciones Unidas."
+      },
+      "correct": "b",
+      "explicacion": "Resolución 60/251.\nPárrafo 3: el Consejo deberá ocuparse de las situaciones en que se violen los derechos humanos y HACER RECOMENDACIONES al respecto.",
+      "ley": "Párrafo 3 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_05_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Investigación pronta e imparcial. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La investigación de presuntos actos de tortura sólo procede cuando exista una sentencia penal previa que los acredite.",
+        "b": "Los Estados Parte pueden eximirse de investigar actos de tortura cuando el presunto autor sea un alto cargo.",
+        "c": "Todo Estado Parte velará por que, siempre que haya motivos razonables para creer que se ha cometido un acto de tortura, las autoridades competentes procedan a una investigación pronta e imparcial.",
+        "d": "La Convención no impone ningún estándar de prontitud o imparcialidad en la investigación de la tortura."
+      },
+      "correct": "c",
+      "explicacion": "Convención contra la Tortura.\nArtículo 12: todo Estado Parte velará por que, siempre que haya motivos razonables para creer que se ha cometido un acto de tortura en su jurisdicción, las autoridades competentes procedan a una investigación PRONTA E IMPARCIAL.",
+      "ley": "Artículo 12 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_05_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Informes anuales del Comité. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Comité presentará un informe anual sobre sus actividades a los Estados Partes y a la Asamblea General de las Naciones Unidas.",
+        "b": "Los informes de los Estados Partes serán examinados por el Comité, que podrá formular comentarios generales.",
+        "c": "El Estado Parte podrá responder al Comité con las observaciones que desee formular sobre dichos comentarios.",
+        "d": "El Comité tiene vedado, en cualquier circunstancia, incluir comentarios sobre los informes estatales en su informe anual."
+      },
+      "correct": "d",
+      "explicacion": "Convención contra la Tortura.\nArtículo 19.4 y artículo 24: el Comité PODRÁ incluir, a su discreción, los comentarios formulados sobre los informes estatales en su informe anual; éste se presenta a los Estados Partes y a la Asamblea General.",
+      "ley": "Artículos 19 y 24 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_05_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Quórum y decisiones del Subcomité. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La mitad más uno de los miembros del Subcomité para la Prevención constituirán quórum, y las decisiones se tomarán por mayoría de votos de los miembros presentes.",
+        "b": "El quórum del Subcomité se fija en dos tercios de sus miembros, igual que en el Comité contra la Tortura.",
+        "c": "Las decisiones del Subcomité requieren unanimidad de todos sus miembros, presentes o no.",
+        "d": "Las sesiones del Subcomité para la Prevención son públicas por regla general."
+      },
+      "correct": "a",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 10.2: la mitad más uno de los miembros constituirán quórum; las decisiones se tomarán por mayoría de votos de los miembros presentes; las sesiones serán PRIVADAS.",
+      "ley": "Artículo 10 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_05_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Mandato de los miembros del Subcomité. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los miembros del Subcomité para la Prevención serán elegidos por un mandato de cuatro años.",
+        "b": "Los miembros del Subcomité podrán ser reelegidos de forma indefinida sin límite de mandatos.",
+        "c": "Podrán ser reelegidos una vez si se presenta de nuevo su candidatura.",
+        "d": "El mandato de la mitad de los miembros elegidos en la primera elección expirará al cabo de dos años, designados por sorteo."
+      },
+      "correct": "b",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 9: el mandato es de CUATRO años, con posibilidad de reelección UNA SOLA VEZ, no de forma indefinida.",
+      "ley": "Artículo 9 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_05_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Comunicación de recomendaciones. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las recomendaciones del Subcomité deben hacerse siempre públicas de manera inmediata, sin posibilidad de confidencialidad.",
+        "b": "El Subcomité está obligado a publicar íntegramente su informe aunque el Estado Parte no lo solicite ni lo haga público.",
+        "c": "El Subcomité para la Prevención comunicará sus recomendaciones y observaciones con carácter confidencial al Estado Parte y, si fuera oportuno, al mecanismo nacional de prevención.",
+        "d": "Las recomendaciones del Subcomité no pueden dirigirse en ningún caso al mecanismo nacional de prevención."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 16.1 y 16.2: las recomendaciones se comunican CON CARÁCTER CONFIDENCIAL; el Subcomité publicará su informe junto con las observaciones del Estado SIEMPRE QUE EL ESTADO LE PIDA QUE LO HAGA, o si el propio Estado hace pública una parte.",
+      "ley": "Artículo 16 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_05_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Libertad de reunión y de asociación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la libertad de reunión pacífica y a la libertad de asociación, incluido el derecho de fundar sindicatos.",
+        "b": "El ejercicio de estos derechos puede ser objeto de restricciones previstas por la ley y necesarias en una sociedad democrática.",
+        "c": "El artículo permite imponer restricciones legítimas a estos derechos para los miembros de las Fuerzas Armadas, la Policía o la Administración del Estado.",
+        "d": "Estos derechos no admiten restricción alguna respecto de los miembros de las Fuerzas Armadas o de la Policía."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 11.2: el propio precepto NO PROHÍBE que se impongan restricciones legítimas a estos derechos para los miembros de las Fuerzas Armadas, de la Policía o de la Administración del Estado.",
+      "ley": "Artículo 11 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_05_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho a contraer matrimonio. Señale la opción CORRECTA:",
+      "options": {
+        "a": "A partir de la edad núbil, el hombre y la mujer tienen derecho a casarse y a fundar una familia según las leyes nacionales que rijan el ejercicio de este derecho.",
+        "b": "El derecho a contraer matrimonio reconocido en el Convenio es absoluto y no admite ninguna regulación por la legislación nacional.",
+        "c": "El Convenio fija en dieciocho años la edad mínima uniforme para contraer matrimonio en todos los Estados Parte.",
+        "d": "El derecho a fundar una familia queda excluido del ámbito de este artículo."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 12: a partir de la edad núbil, el hombre y la mujer tienen derecho a casarse y a fundar una familia SEGÚN LAS LEYES NACIONALES que rijan el ejercicio de este derecho, sin fijar una edad uniforme.",
+      "ley": "Artículo 12 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_05_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Prohibición de discriminación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El goce de los derechos y libertades reconocidos en el Convenio ha de ser asegurado sin distinción por razón de sexo, raza, color, lengua o religión.",
+        "b": "El Convenio admite la discriminación por razón de fortuna cuando esté justificada por motivos económicos del Estado.",
+        "c": "El goce de estos derechos debe asegurarse también sin distinción por opiniones políticas, origen nacional o social, fortuna o nacimiento.",
+        "d": "La prohibición de discriminación del Convenio se extiende a la pertenencia a una minoría nacional."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 14: el goce de los derechos y libertades reconocidos en el Convenio ha de asegurarse SIN distinción alguna por los motivos enumerados (sexo, raza, color, lengua, religión, opiniones, origen, fortuna, nacimiento u otra situación), sin excepción por motivos económicos.",
+      "ley": "Artículo 14 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_05_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Cese del Defensor del Pueblo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "En caso de cese del Defensor del Pueblo, sus funciones serán asumidas de forma automática por el Presidente del Congreso de los Diputados.",
+        "b": "El cese del Defensor del Pueblo deja vacante la institución hasta la celebración de nuevas elecciones, sin sustitución interina.",
+        "c": "En caso de cese del Defensor del Pueblo, desempeñarán sus funciones interinamente y en su propio orden los Adjuntos.",
+        "d": "El Reglamento no prevé ningún mecanismo de sustitución interina del Defensor del Pueblo."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 9.2: en los supuestos de cese, desempeñarán las funciones del Defensor del Pueblo, INTERINAMENTE Y EN SU PROPIO ORDEN, los Adjuntos.",
+      "ley": "Artículo 9 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_05_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Informe anual. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El informe anual que el Defensor del Pueblo debe dar a las Cortes Generales será sometido previamente a la Comisión Mixta de relaciones con el Defensor del Pueblo.",
+        "b": "El Defensor del Pueblo podrá presentar informes extraordinarios a las Diputaciones Permanentes cuando la gravedad o urgencia de los hechos lo aconseje.",
+        "c": "El Defensor del Pueblo elaborará informes específicos sobre su actividad como Mecanismo Nacional de Prevención, que se elevarán también al Subcomité para la Prevención de la Tortura.",
+        "d": "El informe anual del Defensor del Pueblo se entrega directamente al Gobierno, sin intervención alguna de las Cortes Generales."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 11: el informe anual se da a las CORTES GENERALES, previo paso por la Comisión Mixta; no se contempla entrega directa y exclusiva al Gobierno.",
+      "ley": "Artículo 11 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    }
+  ]
+}

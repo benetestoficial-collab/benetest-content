@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_01_test_01_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad civil.",
+        "b": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.",
+        "c": "Nadie estará sometido a esclavitud ni a servidumbre; la esclavitud y la trata de esclavos están prohibidas en todas sus formas.",
+        "d": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 6: Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad JURÍDICA (no \"civil\").\nArtículos 3, 4 y 5: recogen correctamente el resto de derechos citados.",
+      "ley": "Artículo 6 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_01_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Matrimonio y familia. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El matrimonio podrá contraerse sin necesidad de consentimiento de los futuros esposos cuando medie causa justificada.",
+        "b": "Los hombres y las mujeres, a partir de la edad núbil, tienen derecho a casarse y fundar una familia, sin restricción alguna por motivos de raza, nacionalidad o religión.",
+        "c": "La familia es un elemento accesorio de la sociedad sujeto a la protección discrecional del Estado.",
+        "d": "El derecho a fundar una familia corresponde exclusivamente a las personas mayores de veintiún años."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 16.\n1. Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por motivos de raza, nacionalidad o religión, a casarse y fundar una familia.\n2. Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.\n3. La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.",
+      "ley": "Artículo 16 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_01_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Derecho al descanso. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho al descanso y al disfrute del tiempo libre.",
+        "b": "Toda persona tiene derecho a una limitación razonable de la duración del trabajo.",
+        "c": "El derecho al descanso únicamente ampara a los trabajadores por cuenta ajena con contrato indefinido.",
+        "d": "Toda persona tiene derecho a vacaciones periódicas pagadas."
+      },
+      "correct": "c",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 24: Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas, sin que el precepto distinga por tipo de contrato.",
+      "ley": "Artículo 24 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_01_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Deberes para con la comunidad. Señale la opción CORRECTA:",
+      "options": {
+        "a": "En el ejercicio de sus derechos, toda persona estará sujeta únicamente a las limitaciones que el propio interesado considere oportunas.",
+        "b": "Estos derechos y libertades podrán ejercerse en oposición a los propósitos y principios de las Naciones Unidas cuando exista causa justificada.",
+        "c": "Las limitaciones al ejercicio de derechos deben ser establecidas exclusivamente por las autoridades administrativas competentes.",
+        "d": "Toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad."
+      },
+      "correct": "d",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 29.\n1. Toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad.\n2. Las limitaciones deben estar establecidas por la LEY.\n3. Estos derechos y libertades no podrán, EN NINGÚN CASO, ser ejercidos en oposición a los propósitos y principios de las Naciones Unidas.",
+      "ley": "Artículo 29 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_01_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser arbitrariamente detenido, preso ni desterrado.",
+        "b": "Toda persona podrá ser detenida arbitrariamente cuando concurran razones de seguridad nacional.",
+        "c": "El destierro únicamente está prohibido cuando se imponga sin juicio previo.",
+        "d": "La prohibición de detención arbitraria admite excepciones en estado de excepción declarado."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 9: Nadie podrá ser arbitrariamente detenido, preso ni desterrado. El precepto no contempla excepciones.",
+      "ley": "Artículo 9 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_01_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Derecho a la vida. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El derecho a la vida es inherente a la persona humana y estará protegido por la ley.",
+        "b": "Se podrá imponer la pena de muerte a mujeres en estado de gravidez cuando el delito sea de extrema gravedad.",
+        "c": "En los países que no hayan abolido la pena capital, ésta sólo podrá imponerse por los delitos más graves.",
+        "d": "Toda persona condenada a muerte tendrá derecho a solicitar el indulto o la conmutación de la pena."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 6.5: No se impondrá la pena de muerte por delitos cometidos por personas de menos de dieciocho años de edad, NI SE LA APLICARÁ A LAS MUJERES EN ESTADO DE GRAVIDEZ, sin excepción por gravedad del delito.",
+      "ley": "Artículo 6 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_01_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Prohibición de la esclavitud y el trabajo forzoso. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El servicio militar obligatorio se considera trabajo forzoso a los efectos del Pacto.",
+        "b": "Los trabajos exigidos a una persona presa en virtud de decisión judicial se consideran trabajo forzoso prohibido.",
+        "c": "Nadie estará sometido a esclavitud, y la esclavitud y la trata de esclavos estarán prohibidas en todas sus formas.",
+        "d": "La servidumbre queda permitida cuando derive de una relación contractual libremente asumida."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 8.1: Nadie estará sometido a esclavitud. La esclavitud y la trata de esclavos estarán prohibidas en todas sus formas.\nArtículo 8.3.c: el servicio militar y los trabajos exigidos a presos en virtud de decisión judicial NO se consideran trabajo forzoso.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_01_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Garantías procesales mínimas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona acusada de un delito tiene derecho a hallarse presente en el proceso y a defenderse personalmente o mediante defensor de su elección.",
+        "b": "Toda persona acusada tiene derecho a ser asistida gratuitamente por un intérprete si no comprende el idioma del tribunal.",
+        "c": "Toda persona acusada tiene derecho a interrogar o hacer interrogar a los testigos de cargo.",
+        "d": "Toda persona acusada puede ser obligada a declarar contra sí misma cuando así lo exija el interés de la justicia."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 14.3.g: toda persona acusada tiene derecho A NO SER OBLIGADA a declarar contra sí misma ni a confesarse culpable, sin excepción alguna.",
+      "ley": "Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_01_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda propaganda en favor de la guerra estará prohibida por la ley.",
+        "b": "La apología del odio nacional, racial o religioso sólo estará prohibida cuando derive en actos de violencia consumados.",
+        "c": "La propaganda en favor de la guerra es lícita cuando se realice con fines defensivos declarados por el Estado.",
+        "d": "La prohibición de apología del odio no alcanza a la incitación a la discriminación, sino únicamente a la violencia."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 20.\n1. Toda propaganda en favor de la guerra estará prohibida por la ley.\n2. Toda apología del odio nacional, racial o religioso que constituya incitación a la discriminación, la hostilidad o la violencia estará prohibida por la ley.",
+      "ley": "Artículo 20 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_01_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Minorías étnicas, religiosas o lingüísticas. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las minorías étnicas carecen de derechos colectivos diferenciados conforme al Pacto.",
+        "b": "En los Estados en que existan minorías étnicas, religiosas o lingüísticas, no se negará a sus miembros el derecho a tener su propia vida cultural, profesar su religión y emplear su propio idioma.",
+        "c": "El derecho a emplear el propio idioma de una minoría queda condicionado a la autorización previa del Estado.",
+        "d": "El Pacto excluye expresamente a las minorías lingüísticas de su ámbito de protección."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 27: en los Estados en que existan minorías étnicas, religiosas o lingüísticas, no se negará a las personas que pertenezcan a dichas minorías el derecho que les corresponde, en común con los demás miembros de su grupo, a tener su propia vida cultural, a profesar y practicar su propia religión y a emplear su propio idioma.",
+      "ley": "Artículo 27 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_01_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Condiciones de trabajo equitativas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Debe asegurarse a las mujeres condiciones de trabajo no inferiores a las de los hombres, con salario igual por trabajo igual.",
+        "b": "Debe garantizarse la seguridad y la higiene en el trabajo.",
+        "c": "La promoción dentro del trabajo a la categoría superior podrá basarse en consideraciones distintas al tiempo de servicio y la capacidad, cuando el empleador lo estime conveniente.",
+        "d": "Debe asegurarse el descanso, el disfrute del tiempo libre y las vacaciones periódicas pagadas."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 7.c: igual oportunidad para todos de ser promovidos, dentro de su trabajo, a la categoría superior que les corresponda, SIN MÁS CONSIDERACIONES que los factores de tiempo de servicio y capacidad.",
+      "ley": "Artículo 7 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derechos sindicales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El derecho de huelga reconocido en el Pacto es absoluto y no admite restricción legal alguna.",
+        "b": "Los sindicatos no podrán fundar federaciones o confederaciones internacionales bajo ningún supuesto.",
+        "c": "El artículo permite a los Estados restringir libremente el ejercicio de estos derechos sin necesidad de ley previa.",
+        "d": "Se reconoce el derecho de huelga, ejercido de conformidad con las leyes de cada país."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 8.1.d: se reconoce el derecho de huelga, ejercido de conformidad con las leyes de cada país.\nArtículo 8.1.b: los sindicatos tienen derecho a fundar federaciones o confederaciones internacionales.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_01_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho a la educación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La enseñanza superior debe hacerse accesible a todos exclusivamente sobre la base de la capacidad económica de cada familia.",
+        "b": "La enseñanza primaria debe ser obligatoria y asequible a todos gratuitamente.",
+        "c": "La enseñanza secundaria, técnica y profesional debe generalizarse y hacerse accesible a todos.",
+        "d": "Debe fomentarse la educación fundamental para quienes no hayan recibido o terminado el ciclo de instrucción primaria."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 13.2.c: la enseñanza superior debe hacerse accesible a todos sobre la base de la CAPACIDAD de cada uno, no de la capacidad económica.",
+      "ley": "Artículo 13 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_01_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251 de la Asamblea General de Naciones Unidas, Consejo de Derechos Humanos. La labor del Consejo estará guiada por una serie de principios. Señale el principio INCORRECTO:",
+      "options": {
+        "a": "Universalidad.",
+        "b": "Confidencialidad.",
+        "c": "Imparcialidad.",
+        "d": "No selectividad."
+      },
+      "correct": "b",
+      "explicacion": "Resolución 60/251.\nPárrafo 4: la labor del Consejo estará guiada por los principios de universalidad, imparcialidad, objetividad y no selectividad, diálogo internacional constructivo y cooperación. La confidencialidad no figura entre ellos (sí es, en cambio, uno de los principios del Subcomité para la Prevención de la Tortura).",
+      "ley": "Párrafo 4 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_01_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Composición del Consejo de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo estará integrado por veinticinco Estados Miembros designados por el Secretario General.",
+        "b": "Los miembros del Consejo desempeñarán sus funciones durante un período de cinco años.",
+        "c": "El Consejo estará integrado por cuarenta y siete Estados Miembros elegidos de forma directa e individual en votación secreta.",
+        "d": "Los miembros del Consejo podrán optar a la reelección inmediata de forma indefinida."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 7: el Consejo estará integrado por cuarenta y siete Estados Miembros, elegidos de forma directa e individual en votación secreta por la mayoría de los miembros de la Asamblea General; desempeñarán sus funciones durante un período de TRES años y no podrán optar a la reelección inmediata después de dos períodos consecutivos.",
+      "ley": "Párrafo 7 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_01_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Sesiones del Consejo de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo celebrará un único período de sesiones anual de duración indefinida.",
+        "b": "Los períodos extraordinarios de sesiones requieren el apoyo de dos tercios de los miembros del Consejo.",
+        "c": "El Consejo sólo podrá reunirse por convocatoria expresa de la Asamblea General.",
+        "d": "El Consejo celebrará como mínimo tres períodos de sesiones por año, con una duración total no inferior a diez semanas."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 10: el Consejo se reunirá periódicamente a lo largo del año y celebrará como mínimo tres períodos de sesiones por año, con una duración total no inferior a diez semanas, pudiendo celebrar períodos extraordinarios a solicitud de un miembro con el apoyo de un TERCIO de los miembros.",
+      "ley": "Párrafo 10 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_01_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura y otros tratos o penas crueles, inhumanos o degradantes. Definición de tortura. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Se considerarán torturas, en todo caso, los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas.",
+        "b": "Se entiende por tortura todo acto por el cual se inflija intencionadamente a una persona dolores o sufrimientos graves, físicos o mentales.",
+        "c": "Los dolores o sufrimientos deben ser infligidos por un funcionario público u otra persona en el ejercicio de funciones públicas, a instigación suya o con su consentimiento.",
+        "d": "La definición de tortura se entiende sin perjuicio de cualquier instrumento internacional o legislación nacional de mayor alcance."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 1.1: NO SE CONSIDERARÁN TORTURAS los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas, o que sean inherentes o incidentales a éstas.",
+      "ley": "Artículo 1 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Principio de no devolución. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La existencia de un cuadro persistente de violaciones de derechos humanos en el Estado receptor es irrelevante a efectos de valorar el riesgo de tortura.",
+        "b": "Ningún Estado Parte procederá a la expulsión, devolución o extradición de una persona a otro Estado cuando haya razones fundadas para creer que estaría en peligro de ser sometida a tortura.",
+        "c": "El principio de no devolución sólo se aplica a los procedimientos de extradición, no a la expulsión administrativa.",
+        "d": "Las autoridades no están obligadas a valorar las circunstancias del Estado de destino antes de la expulsión."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 3.1: ningún Estado Parte procederá a la expulsión, devolución o extradición de una persona a otro Estado cuando haya razones fundadas para creer que estaría en peligro de ser sometida a tortura.\nArtículo 3.2: para determinar esas razones se tendrá en cuenta la existencia de un cuadro persistente de violaciones manifiestas de los derechos humanos.",
+      "ley": "Artículo 3 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_01_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derogación en caso de estado de urgencia. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En caso de guerra o de otro peligro público que amenace la vida de la nación, las Altas Partes podrán adoptar medidas que deroguen las obligaciones del Convenio en la medida estricta exigida por la situación.",
+        "b": "Toda Alta Parte que ejerza el derecho de derogación deberá informar al Secretario General del Consejo de Europa de las medidas tomadas.",
+        "c": "La derogación autoriza en todo caso la suspensión del artículo 3, relativo a la prohibición de la tortura.",
+        "d": "La derogación no autoriza ninguna suspensión del artículo 2, salvo para el caso de muertes resultantes de actos lícitos de guerra."
+      },
+      "correct": "c",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 15.2: la disposición de derogación no autoriza ninguna derogación al artículo 2 (salvo actos lícitos de guerra) ni a los artículos 3, 4 (párrafo 1) y 7. El artículo 3 (prohibición de la tortura) es, por tanto, NO derogable.",
+      "ley": "Artículo 15 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Formaciones del Tribunal Europeo de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Tribunal únicamente podrá actuar constituido en Gran Sala, cualquiera que sea el asunto.",
+        "b": "Los Comités estarán compuestos por cinco jueces como regla general.",
+        "c": "La Gran Sala estará compuesta por veintiún jueces.",
+        "d": "El Tribunal actuará en formación de juez único, en Comités de tres jueces, en Salas de siete jueces y en una Gran Sala de diecisiete jueces."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 26.1: el Tribunal actuará en formación de juez único, en Comités compuestos por TRES jueces, en Salas de SIETE jueces y en una Gran Sala de DIECISIETE jueces.",
+      "ley": "Artículo 26 del Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

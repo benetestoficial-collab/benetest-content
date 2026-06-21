@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_01_test_17_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Todos los seres humanos nacen libres e iguales en dignidad y derechos, dotados de razón y conciencia, y deben comportarse fraternalmente los unos con los otros.",
+        "b": "La Declaración condiciona la igualdad en dignidad y derechos al reconocimiento de la mayoría de edad civil.",
+        "c": "La igualdad proclamada en la Declaración admite distinciones por razón de capacidad económica del individuo.",
+        "d": "La Declaración no menciona ningún deber de comportamiento entre los seres humanos."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 1: todos los seres humanos nacen libres e iguales en dignidad y derechos, dotados de razón y conciencia, debiendo comportarse fraternalmente los unos con los otros, sin las condiciones o exclusiones señaladas.",
+      "ley": "Artículo 1 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_17_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Protección judicial efectiva. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes contra actos que violen sus derechos fundamentales.",
+        "b": "El derecho a un recurso efectivo reconocido en la Declaración solo opera frente a actos de particulares, nunca frente a actos de las autoridades públicas.",
+        "c": "Estos derechos fundamentales son los reconocidos por la Constitución o por la ley.",
+        "d": "Este derecho a un recurso efectivo se predica frente a actos que violen los derechos fundamentales reconocidos a la persona."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 8: el recurso efectivo opera frente a actos que violen los derechos fundamentales, SIN la limitación a actos de particulares descrita (incluye, por tanto, actos de autoridades públicas).",
+      "ley": "Artículo 8 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_17_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Derecho a la vida y prevención de la muerte arbitraria. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite la privación arbitraria de la vida cuando concurran razones de urgencia policial no especificadas legalmente.",
+        "b": "El derecho a la vida reconocido en el Pacto no exige protección legal alguna, bastando su mera proclamación.",
+        "c": "El derecho a la vida es inherente a la persona humana, está protegido por la ley y nadie podrá ser privado de la vida arbitrariamente.",
+        "d": "El Pacto excluye cualquier referencia a la prohibición de privación arbitraria de la vida."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 6.1: el derecho a la vida es inherente a la persona, está protegido por la LEY, y nadie podrá ser privado de la vida ARBITRARIAMENTE, sin las excepciones o ausencias de protección señaladas.",
+      "ley": "Artículo 6 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_17_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Trato igualitario y no discriminación en el goce de derechos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todas las personas son iguales ante la ley y tienen derecho sin discriminación a igual protección de la ley.",
+        "b": "La ley prohibirá toda discriminación y garantizará a todas las personas protección igual y efectiva contra cualquier discriminación.",
+        "c": "Entre los motivos prohibidos de discriminación el Pacto cita expresamente la raza, el color, el sexo, el idioma, la religión y el origen nacional o social.",
+        "d": "El Pacto permite la discriminación por razón de nacimiento siempre que esté prevista por una ley formal aprobada por el parlamento."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 26: la ley prohibirá TODA discriminación, incluida la basada en el nacimiento, sin las excepciones por previsión legal formal señaladas.",
+      "ley": "Artículo 26 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_17_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho a fundar y afiliarse a sindicatos: requisitos del propio sindicato. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a fundar sindicatos y a afiliarse al de su elección, con sujeción únicamente a los estatutos de la organización correspondiente.",
+        "b": "El derecho a afiliarse a un sindicato exige siempre la autorización previa del empleador.",
+        "c": "El Pacto exige la afiliación obligatoria a un único sindicato oficial reconocido por el Estado.",
+        "d": "El Pacto no contempla ningún requisito ni condición para el derecho a fundar o afiliarse a sindicatos."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 8.1.a: el derecho de afiliación está sujeto ÚNICAMENTE a los estatutos de la organización, sin las exigencias de autorización del empleador o afiliación única descritas.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_17_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Compatibilidad con otros instrumentos internacionales sobre derechos sindicales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Nada de lo dispuesto en el artículo relativo a derechos sindicales autorizará a los Estados Partes en el Convenio de la Organización Internacional del Trabajo de 1948 a adoptar medidas legislativas que menoscaben las garantías previstas en dicho Convenio.",
+        "b": "El Pacto deroga expresamente el Convenio de la Organización Internacional del Trabajo de 1948 sobre libertad sindical, sustituyéndolo en su totalidad.",
+        "c": "Esta cláusula de salvaguarda se refiere específicamente al Convenio relativo a la libertad sindical y a la protección del derecho de sindicación.",
+        "d": "La cláusula de salvaguarda impide que el propio Pacto se invoque para menoscabar las garantías sindicales de otros instrumentos internacionales más protectores."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 8.3: el Pacto NO deroga el Convenio de la OIT de 1948, sino que establece una cláusula de salvaguarda en su favor.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_17_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Atención a la situación de los derechos humanos de grupos vulnerables. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo carece de competencia para hacer seguimiento de los compromisos derivados de las cumbres y conferencias de Naciones Unidas.",
+        "b": "El seguimiento de los compromisos en materia de derechos humanos corresponde en exclusiva al Secretario General de las Naciones Unidas.",
+        "c": "El Consejo deberá promover la plena aplicación de las obligaciones en materia de derechos humanos contraídas por los Estados y el seguimiento de los objetivos y compromisos relacionados con la promoción y protección de los derechos humanos emanados de las conferencias y cumbres de Naciones Unidas.",
+        "d": "La promoción de la aplicación de obligaciones en derechos humanos por los Estados no forma parte de las funciones del Consejo conforme a la Resolución."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 5.f: el Consejo SÍ promoverá la plena aplicación de obligaciones de derechos humanos y el seguimiento de objetivos de conferencias y cumbres de Naciones Unidas, sin las exclusiones señaladas.",
+      "ley": "Párrafo 5 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_17_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Mecanismo de asesoramiento de expertos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo deberá contribuir, mediante el diálogo y la cooperación, a prevenir las violaciones de los derechos humanos y responder con prontitud a las emergencias en la materia.",
+        "b": "El Consejo asumirá el papel y las responsabilidades de la Comisión de Derechos Humanos en relación con la labor de la Oficina del Alto Comisionado para los Derechos Humanos.",
+        "c": "El Consejo deberá promover, como una de sus principales funciones, el respeto universal por la protección de los derechos humanos para todas las personas.",
+        "d": "El Consejo de Derechos Humanos carece de cualquier vínculo institucional con la Oficina del Alto Comisionado para los Derechos Humanos."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 5.b: el Consejo SÍ asume el papel y responsabilidades de la antigua Comisión en relación con la labor de la Oficina del Alto Comisionado para los Derechos Humanos, sin la ausencia de vínculo señalada.",
+      "ley": "Párrafo 5 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_17_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Modificación de jurisdicción cuando la víctima sea nacional del Estado. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte podrá también instituir su jurisdicción sobre los delitos de tortura cuando la víctima sea nacional de ese Estado, si tal Estado lo considera apropiado.",
+        "b": "La jurisdicción por nacionalidad de la víctima es obligatoria para todos los Estados Partes, sin margen de apreciación.",
+        "c": "La Convención excluye expresamente la nacionalidad de la víctima como criterio de jurisdicción.",
+        "d": "Solo la nacionalidad del presunto delincuente, nunca la de la víctima, puede fundamentar la jurisdicción de un Estado Parte sobre delitos de tortura."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 5.1.c: la jurisdicción por nacionalidad de la víctima es FACULTATIVA («si tal Estado lo considera apropiado»), no obligatoria ni excluida.",
+      "ley": "Artículo 5 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_17_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Aplicación de normas más favorables en materia de extradición. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los delitos de tortura se considerarán incluidos entre los delitos que dan lugar a extradición en todo tratado de extradición celebrado entre Estados Partes.",
+        "b": "La Convención prohíbe a los Estados Partes celebrar nuevos tratados de extradición que incluyan los delitos de tortura, exigiendo aplicar exclusivamente la propia Convención.",
+        "c": "Los Estados Partes se comprometen a incluir dichos delitos como casos de extradición en todo tratado de extradición que celebren entre sí en el futuro.",
+        "d": "Un Estado que no subordine la extradición a la existencia de un tratado podrá considerar la Convención como la base jurídica necesaria para la extradición referente a estos delitos."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 8: la Convención NO prohíbe nuevos tratados de extradición; al contrario, los Estados se comprometen a incluir estos delitos en los que celebren en el futuro.",
+      "ley": "Artículo 8 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_17_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Sistema de visitas como complemento del sistema de informes. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Protocolo sustituye íntegramente el sistema de informes de la Convención por el sistema de visitas, derogando el artículo 19 de la Convención.",
+        "b": "El sistema de visitas del Protocolo es incompatible con el régimen de informes periódicos de la Convención, debiendo los Estados optar por uno u otro.",
+        "c": "El sistema de visitas periódicas del Subcomité para la Prevención se basa en un enfoque de cooperación y diálogo continuo con los Estados Partes, más que en la mera presentación de informes.",
+        "d": "El Protocolo no contempla ningún elemento de cooperación o diálogo con los Estados Partes en su sistema de visitas."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nPreámbulo y artículo 1: el sistema de visitas SE BASA EN COOPERACIÓN Y DIÁLOGO, complementando (no derogando ni siendo incompatible con) el sistema de informes de la Convención.",
+      "ley": "Preámbulo del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_17_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Modificación de la composición del Subcomité por aumento de ratificaciones. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Subcomité para la Prevención estará compuesto, en un primer momento, de diez miembros.",
+        "b": "Tras la quincuagésima ratificación o adhesión al Protocolo, el número de miembros del Subcomité aumentará a veinticinco.",
+        "c": "Este aumento de composición busca adecuar la capacidad del Subcomité al incremento de Estados Partes obligados por el Protocolo.",
+        "d": "El número de miembros del Subcomité permanece fijo en diez durante toda la vigencia del Protocolo, sin posibilidad de aumento."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 5.1: el número de miembros SÍ aumenta a VEINTICINCO tras la quincuagésima ratificación o adhesión, sin permanecer fijo en diez.",
+      "ley": "Artículo 5 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Solicitudes de opinión consultiva al Tribunal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Tribunal podrá emitir opiniones consultivas, a solicitud del Comité de Ministros, acerca de cuestiones jurídicas relativas a la interpretación del Convenio y de sus Protocolos.",
+        "b": "Las opiniones consultivas del Tribunal pueden ser solicitadas por cualquier particular que tenga interés en la cuestión planteada.",
+        "c": "Las opiniones consultivas del Tribunal pueden referirse a cuestiones relacionadas con el contenido o la extensión de los derechos y libertades definidos en el Título I, sin ninguna excepción ni límite.",
+        "d": "El Convenio no contempla ningún mecanismo de opinión consultiva del Tribunal."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 47: las opiniones consultivas se solicitan por el COMITÉ DE MINISTROS (no por particulares) y no pueden referirse a cuestiones relacionadas con el contenido o extensión de los derechos del Título I y sus Protocolos, ni a cuestiones que el Tribunal o el Comité pudieran conocer en un procedimiento contencioso.",
+      "ley": "Artículo 47 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_17_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Estatuto, privilegios e inmunidades de los Jueces. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Durante el ejercicio de sus funciones, los Jueces gozarán de los privilegios e inmunidades previstos en el artículo 40 del Estatuto del Consejo de Europa y en los acuerdos concluidos en virtud del mismo.",
+        "b": "Los Jueces del Tribunal Europeo carecen de cualquier privilegio o inmunidad durante el ejercicio de sus funciones, estando sometidos al régimen ordinario de cualquier ciudadano del Estado donde residan.",
+        "c": "Los Jueces del Tribunal Europeo no pueden ejercer ninguna actividad incompatible con las exigencias de independencia, imparcialidad o disponibilidad propias de su cargo.",
+        "d": "Las cuestiones derivadas de la aplicación de este régimen de incompatibilidades serán resueltas por el propio Tribunal."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 21: los Jueces SÍ gozan de los privilegios e inmunidades del artículo 40 del Estatuto del Consejo de Europa, sin la ausencia de privilegios descrita.",
+      "ley": "Artículo 21 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_17_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Funciones de informe del Secretario General respecto al presupuesto. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La preparación del anteproyecto de presupuesto de la Institución corresponde en exclusiva a las Mesas del Congreso y del Senado, sin intervención del Secretario General.",
+        "b": "El Secretario General carece de cualquier función relacionada con la gestión económica o presupuestaria de la Institución.",
+        "c": "Corresponde al Secretario General preparar y elevar a la Junta de Coordinación y Régimen Interior el anteproyecto de presupuesto de la Institución para su posterior tramitación.",
+        "d": "El anteproyecto de presupuesto de la Institución lo elabora directamente cada uno de los Adjuntos del Defensor del Pueblo, de forma individual."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 23.1.f: corresponde al SECRETARIO GENERAL preparar y elevar a la Junta de Coordinación y Régimen Interior el anteproyecto de presupuesto, sin las exclusiones señaladas.",
+      "ley": "Artículo 23 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_17_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Régimen disciplinario del personal. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Corresponde al Secretario General el gobierno y régimen disciplinario de todo el personal de la Institución no atribuido específicamente a otros órganos.",
+        "b": "El régimen disciplinario del personal de la Institución se ejerce con sujeción al Estatuto de personal propio de la Institución.",
+        "c": "El ejercicio del régimen disciplinario por el Secretario General es compatible con las competencias generales de dirección del Defensor del Pueblo sobre la Institución.",
+        "d": "El régimen disciplinario del personal de la Institución corresponde en exclusiva y de forma directa al Defensor del Pueblo, sin que el Secretario General tenga ninguna competencia al respecto."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 23.1.b: el gobierno y régimen disciplinario del personal corresponde al SECRETARIO GENERAL (para el personal no atribuido a otros órganos), no en exclusiva y de forma directa al Defensor del Pueblo.",
+      "ley": "Artículo 23 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_17_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a una nacionalidad.",
+        "b": "La Declaración no reconoce el derecho a una nacionalidad como derecho humano.",
+        "c": "El derecho a una nacionalidad reconocido en la Declaración se predica solo de los menores de edad.",
+        "d": "La Declaración condiciona el derecho a una nacionalidad a la residencia legal en el territorio del Estado."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 15.1: toda persona tiene derecho a una nacionalidad, sin las condiciones o limitaciones señaladas.",
+      "ley": "Artículo 15 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_17_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Reconocimiento de la personalidad jurídica y disfrute de derechos por extranjeros legales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El extranjero que se halle legalmente en el territorio de un Estado Parte solo podrá ser expulsado en cumplimiento de una decisión adoptada conforme a la ley.",
+        "b": "El Pacto exige siempre la intervención de un tribunal internacional para revisar cualquier decisión de expulsión de un extranjero, sin que baste la autoridad nacional competente.",
+        "c": "Salvo que razones imperiosas de seguridad nacional se opongan a ello, se permitirá a dicho extranjero exponer las razones contra su expulsión.",
+        "d": "Se permitirá igualmente que el caso sea sometido a revisión ante la autoridad competente, haciéndose representar con tal fin."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 13: la revisión del caso se realiza ante la AUTORIDAD COMPETENTE (nacional), sin exigir intervención de un tribunal internacional.",
+      "ley": "Artículo 13 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_17_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Trabajo y dignidad humana. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite el trabajo forzoso siempre que se enmarque en un programa estatal de desarrollo económico.",
+        "b": "El derecho al trabajo reconocido en el Pacto no incluye la libre elección del mismo por parte del trabajador.",
+        "c": "El derecho a trabajar comprende el derecho de toda persona a tener la oportunidad de ganarse la vida mediante un trabajo libremente escogido o aceptado.",
+        "d": "El Pacto considera el trabajo una obligación impuesta por el Estado, no un derecho de la persona."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 6.1: el derecho al trabajo comprende el derecho a tener la oportunidad de ganarse la vida mediante un trabajo LIBREMENTE ESCOGIDO O ACEPTADO, sin las exclusiones o imposiciones señaladas.",
+      "ley": "Artículo 6 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_17_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Composición de la Gran Sala. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Gran Sala estará compuesta por diecisiete jueces.",
+        "b": "Formarán parte de la Gran Sala, de oficio, el Presidente y los Vicepresidentes del Tribunal, así como los Presidentes de Sección.",
+        "c": "Cuando un asunto sea remitido a la Gran Sala, ningún Juez de la Sala que dictó la sentencia podrá formar parte de ella, salvo el Presidente de la Sala y el Juez que participó en nombre del Estado interesado.",
+        "d": "La composición de la Gran Sala es idéntica en todos los asuntos, sin que la nacionalidad de las partes tenga ninguna relevancia en su formación."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 26 y reglamento del Tribunal: el Juez elegido respecto del Estado interesado SÍ forma parte de la Gran Sala, lo que demuestra que la nacionalidad de las partes SÍ es relevante para su composición.",
+      "ley": "Artículo 26 del Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

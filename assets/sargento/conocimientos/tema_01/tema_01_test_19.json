@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_01_test_19_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la seguridad de su persona, sin que ello implique necesariamente la presencia continua de fuerzas de seguridad.",
+        "b": "El derecho a la seguridad de la persona reconocido en la Declaración excluye el derecho a la vida y a la libertad del mismo artículo.",
+        "c": "La Declaración reconoce el derecho a la seguridad de la persona únicamente en el ámbito laboral.",
+        "d": "Este derecho queda excluido para las personas privadas de libertad conforme a la ley."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 3: todo individuo tiene derecho a la vida, a la libertad y a la SEGURIDAD de su persona, derechos que se reconocen conjuntamente en el mismo artículo, sin las exclusiones señaladas.",
+      "ley": "Artículo 3 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_19_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Limitaciones legítimas al ejercicio de derechos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley.",
+        "b": "La Declaración permite que el Estado establezca limitaciones a los derechos sin necesidad de ley, basándose en la mera conveniencia política del momento.",
+        "c": "Estas limitaciones tienen como única finalidad asegurar el reconocimiento y el respeto de los derechos y libertades de los demás.",
+        "d": "Las limitaciones también pueden perseguir satisfacer las justas exigencias del orden público y del bienestar general en una sociedad democrática."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 29.2: las limitaciones deben estar ESTABLECIDAS POR LA LEY, sin la posibilidad de limitación por mera conveniencia política sin base legal.",
+      "ley": "Artículo 29 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_19_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Restricciones a la libertad de circulación: criterios admisibles. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite restringir la libertad de circulación por cualquier motivo que el Estado considere oportuno, sin necesidad de previsión legal.",
+        "b": "Las restricciones a la libertad de circulación previstas en el Pacto no necesitan ser compatibles con los demás derechos reconocidos en el propio Pacto.",
+        "c": "Las restricciones a la libertad de circulación deberán estar previstas por la ley y ser necesarias para proteger la seguridad nacional, el orden público, la salud o la moral públicas, o los derechos y libertades de terceros, y ser compatibles con los demás derechos reconocidos en el Pacto.",
+        "d": "El Pacto excluye la protección de la moral pública como motivo legítimo de restricción a la libertad de circulación."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 12.3: las restricciones deben estar PREVISTAS POR LA LEY, ser necesarias por los motivos tasados, y ser COMPATIBLES con los demás derechos del Pacto, sin las ausencias de requisitos señaladas.",
+      "ley": "Artículo 12 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_19_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Igualdad de derechos y responsabilidades de los esposos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes tomarán las medidas apropiadas para asegurar la igualdad de derechos y de responsabilidades de ambos esposos en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.",
+        "b": "En caso de disolución, se adoptarán disposiciones que aseguren la protección necesaria a los hijos.",
+        "c": "Esta igualdad de derechos y responsabilidades forma parte de las garantías del Pacto relativas a la protección de la familia.",
+        "d": "El Pacto reconoce esta igualdad de derechos y responsabilidades de los esposos únicamente durante la vigencia del matrimonio, no en caso de su disolución."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 23.4: la igualdad de derechos y responsabilidades se reconoce en cuanto al matrimonio, DURANTE el matrimonio Y EN CASO DE DISOLUCIÓN, sin la limitación temporal señalada.",
+      "ley": "Artículo 23 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_19_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Plena efectividad del derecho a la educación. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Estados Partes que en el momento de hacerse partes del Pacto no hayan podido instituir la enseñanza primaria obligatoria y gratuita se comprometen a elaborar y adoptar un plan detallado de acción para la implantación progresiva de tal enseñanza.",
+        "b": "Los Estados Partes que no hayan instituido la enseñanza primaria obligatoria y gratuita quedan exentos de cualquier obligación al respecto si así lo justifican por razones presupuestarias.",
+        "c": "El Pacto exige la implantación inmediata de la enseñanza primaria obligatoria y gratuita, sin posibilidad de plan progresivo alguno.",
+        "d": "El plan de acción para la implantación de la enseñanza primaria gratuita previsto en el Pacto no tiene plazo determinado para su elaboración."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 14: los Estados que no hayan instituido la enseñanza primaria gratuita se comprometen a elaborar un plan DETALLADO de acción dentro de un plazo de DOS AÑOS, sin las exenciones, exigencias de inmediatez o ausencia de plazo señaladas.",
+      "ley": "Artículo 14 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_19_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Cláusula general de interpretación y disposiciones más favorables. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Ninguna disposición del Pacto podrá ser interpretada en el sentido de reconocer derecho alguno a un Estado, grupo o individuo para emprender actividades o realizar actos encaminados a la destrucción de cualquiera de los derechos o libertades reconocidos en el Pacto.",
+        "b": "El Pacto permite invocar sus propias disposiciones para justificar la limitación de derechos en mayor medida de la prevista expresamente en el propio Pacto.",
+        "c": "Esta cláusula de prohibición de abuso de derecho es similar a la prevista en otros instrumentos internacionales de derechos humanos.",
+        "d": "La prohibición de abuso de derecho se predica tanto de los Estados como de los grupos e individuos."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 5.1: el Pacto NO permite invocar sus disposiciones para limitar derechos en mayor medida de la prevista en él mismo; existe una cláusula de prohibición de abuso de derecho similar a la del PIDCP y el CEDH.",
+      "ley": "Artículo 5 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_19_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Conformación de las decisiones del Consejo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Resolución no establece ningún principio general que oriente la labor o las decisiones del Consejo.",
+        "b": "Los principios de transparencia y equidad del Consejo solo se aplican a las decisiones relativas a su composición, no a su funcionamiento.",
+        "c": "La Resolución dispone que la labor del Consejo se guíe por los principios de transparencia, equidad e imparcialidad, en consonancia con los principios generales enunciados para el propio Consejo.",
+        "d": "La Resolución permite al Consejo actuar discrecionalmente sin sujeción a ningún principio rector."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafos 4 y 12: la labor del Consejo SÍ se guía por principios generales (universalidad, imparcialidad, objetividad, no selectividad) y por métodos de trabajo transparentes, justos e imparciales, sin las ausencias de principios señaladas.",
+      "ley": "Párrafos 4 y 12 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_19_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Periodicidad y duración mínima de los períodos de sesiones del Consejo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo celebrará como mínimo tres períodos de sesiones por año, incluido un período de sesiones principal.",
+        "b": "La duración total de los períodos de sesiones anuales del Consejo no será inferior a diez semanas.",
+        "c": "El Consejo podrá celebrar, si es necesario, períodos extraordinarios de sesiones a petición de un miembro del Consejo con el apoyo de un tercio de los miembros.",
+        "d": "La Resolución limita a un máximo de dos el número de períodos de sesiones que el Consejo puede celebrar al año, sin posibilidad de sesiones extraordinarias."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 10: el Consejo celebra como MÍNIMO TRES períodos de sesiones al año (no un máximo de dos), pudiendo además celebrar sesiones extraordinarias.",
+      "ley": "Párrafo 10 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_19_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Sustitución de miembros del Comité contra la Tortura en caso de vacante. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Si un miembro del Comité contra la Tortura muere o renuncia, el Estado Parte que presentó su candidatura designará entre sus propios nacionales a otro experto para el resto del mandato.",
+        "b": "La vacante producida por muerte o renuncia de un miembro del Comité queda sin cubrir hasta la siguiente elección general de todos los miembros.",
+        "c": "La sustitución de un miembro del Comité por vacante requiere la convocatoria de una nueva conferencia de todos los Estados Partes.",
+        "d": "La Convención no contempla ningún mecanismo de sustitución de miembros del Comité en caso de vacante."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 17.7: en caso de vacante por muerte o renuncia, el Estado Parte que propuso al miembro DESIGNARÁ a otro experto entre sus nacionales para el resto del mandato, sin las alternativas señaladas.",
+      "ley": "Artículo 17 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_19_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Gastos de los miembros del Comité. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes serán responsables de los gastos en que se incurra por la celebración de reuniones de los Estados Partes y del Comité.",
+        "b": "Los miembros del Comité contra la Tortura sufragan personalmente, sin ninguna compensación, todos los gastos derivados del ejercicio de sus funciones.",
+        "c": "Las Naciones Unidas sufragarán los gastos de los miembros del Comité por sus actividades en relación con la Convención.",
+        "d": "Esto incluye el pago de sus gastos de viaje y dietas conforme a las condiciones que decida la Asamblea General."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 18.5: las Naciones Unidas SUFRAGAN los gastos de los miembros del Comité (viaje y dietas), no son sufragados personalmente sin compensación por los propios miembros.",
+      "ley": "Artículo 18 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_19_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Capacitación del personal de los lugares de detención. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Subcomité para la Prevención carece de cualquier función de asesoramiento hacia los mecanismos nacionales de prevención.",
+        "b": "La asistencia del Subcomité a los mecanismos nacionales de prevención está prohibida expresamente por el Protocolo.",
+        "c": "El Subcomité para la Prevención podrá ofrecer asesoramiento y asistencia a los mecanismos nacionales de prevención para evaluar las necesidades y las medidas destinadas a fortalecer la protección de personas privadas de libertad.",
+        "d": "El asesoramiento del Subcomité a los mecanismos nacionales solo puede prestarse mediante visita física al país, nunca por otros medios."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 11.b.ii: el Subcomité SÍ puede ofrecer asesoramiento y asistencia a los mecanismos nacionales de prevención, sin las prohibiciones o limitaciones de medios señaladas.",
+      "ley": "Artículo 11 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_19_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Cooperación del Subcomité con otros órganos de derechos humanos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Subcomité para la Prevención, con el fin de promover la aplicación del Protocolo, podrá cooperar con los órganos y mecanismos de las Naciones Unidas, así como con organizaciones internacionales, regionales y nacionales.",
+        "b": "Esta cooperación incluye, en particular, a las instituciones nacionales de derechos humanos competentes en materia de prevención de la tortura.",
+        "c": "El Subcomité podrá cooperar también con organizaciones no gubernamentales activas en este ámbito.",
+        "d": "El Protocolo prohíbe expresamente cualquier cooperación del Subcomité con organizaciones no gubernamentales o con instituciones nacionales de derechos humanos."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 11.b.v: el Subcomité SÍ puede cooperar con instituciones nacionales de derechos humanos y organizaciones no gubernamentales, sin la prohibición señalada.",
+      "ley": "Artículo 11 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_19_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Funcionarios del Tribunal y de su Secretaría. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Tribunal dispondrá de una Secretaría cuyas funciones y organización se fijarán en el reglamento del Tribunal.",
+        "b": "La Secretaría del Tribunal depende orgánicamente del Comité de Ministros, no del propio Tribunal.",
+        "c": "El Convenio no contempla la existencia de ninguna Secretaría para el funcionamiento del Tribunal.",
+        "d": "Las funciones de la Secretaría del Tribunal se fijan exclusivamente por el Comisionado para los Derechos Humanos del Consejo de Europa."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 24: el Tribunal dispone de una SECRETARÍA cuyas funciones y organización se fijan en su REGLAMENTO, dependiente del propio Tribunal, sin las alternativas señaladas.",
+      "ley": "Artículo 24 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_19_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Funciones del Ponente del Tribunal. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal contará con la asistencia de Ponentes que ejercerán sus funciones bajo la autoridad del Presidente del Tribunal.",
+        "b": "Los Ponentes del Tribunal Europeo ostentan facultades decisorias equivalentes a las de los propios Jueces del Tribunal en la resolución de los asuntos.",
+        "c": "Los Ponentes forman parte de la Secretaría del Tribunal.",
+        "d": "La función de los Ponentes es de asistencia técnica y procesal al Tribunal en el examen de los asuntos."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 24.2: los Ponentes ejercen funciones de asistencia bajo la autoridad del Presidente del Tribunal, SIN ostentar facultades decisorias equivalentes a las de los Jueces.",
+      "ley": "Artículo 24 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_19_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Asistencia de expertos al Mecanismo Nacional de Prevención. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Mecanismo Nacional de Prevención debe ejercer sus funciones exclusivamente con el personal funcionario de plantilla de la Institución, sin posibilidad de asesoramiento externo.",
+        "b": "El Reglamento prohíbe expresamente la participación de expertos ajenos a la Institución en las visitas del Mecanismo Nacional de Prevención.",
+        "c": "El Defensor del Pueblo, en su condición de Mecanismo Nacional de Prevención, podrá contar con el asesoramiento de expertos externos para el desarrollo de sus funciones de visita e inspección.",
+        "d": "La asistencia de expertos al Mecanismo Nacional de Prevención requiere, en todo caso, la autorización previa del Ministerio del Interior."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 19 y concordantes: el Mecanismo Nacional de Prevención SÍ puede contar con el asesoramiento de expertos externos, sin las prohibiciones, exclusividades o autorizaciones ministeriales señaladas.",
+      "ley": "Artículo 19 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_19_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Convocatoria de las sesiones del Consejo Asesor. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo Asesor del Mecanismo Nacional de Prevención se reunirá, al menos, dos veces al año, en sesión ordinaria.",
+        "b": "El Consejo Asesor podrá reunirse también en sesión extraordinaria cuando así lo decida su Presidente.",
+        "c": "La convocatoria de las sesiones del Consejo Asesor corresponde al Secretario General, por indicación del Presidente del Consejo.",
+        "d": "El Consejo Asesor del Mecanismo Nacional de Prevención no puede reunirse más de dos veces al año bajo ninguna circunstancia."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 21: el Consejo Asesor se reúne, AL MENOS, dos veces al año, pudiendo celebrar también sesiones EXTRAORDINARIAS adicionales, sin el límite máximo absoluto señalado.",
+      "ley": "Artículo 21 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_19_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la protección de la ley contra toda discriminación que infrinja la Declaración y contra toda provocación a tal discriminación.",
+        "b": "La protección contra la discriminación reconocida en la Declaración exige una previa sentencia firme que declare la existencia de discriminación.",
+        "c": "Esta protección se limita a la discriminación cometida por autoridades públicas, sin alcanzar a particulares.",
+        "d": "La Declaración no contempla ninguna protección frente a la provocación a la discriminación."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 7: todos tienen derecho a igual protección contra toda discriminación que infrinja la Declaración y contra toda PROVOCACIÓN a tal discriminación, sin las condiciones o limitaciones señaladas.",
+      "ley": "Artículo 7 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_19_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Garantía de intérprete en el proceso penal. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona acusada de un delito tiene derecho a ser asistida gratuitamente por un intérprete, si no comprende o no habla el idioma empleado en el tribunal.",
+        "b": "El Pacto permite repercutir al acusado, tras la sentencia condenatoria, el coste de la asistencia de intérprete recibida durante el proceso.",
+        "c": "Este derecho forma parte de las garantías mínimas reconocidas a toda persona acusada de un delito conforme al Pacto.",
+        "d": "La asistencia de intérprete prevista en el Pacto es gratuita para el acusado que no comprenda el idioma del tribunal."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 14.3.f: la asistencia de intérprete es GRATUITA, sin que el Pacto autorice repercutir su coste al acusado tras una condena.",
+      "ley": "Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_19_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Reconocimiento del derecho a fundar y afiliarse a sindicatos a nivel internacional. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite limitar el funcionamiento de los sindicatos sin necesidad de previsión legal alguna, por decisión administrativa directa.",
+        "b": "El derecho de los sindicatos a funcionar sin obstáculos queda excluido de la protección del Pacto.",
+        "c": "Los sindicatos tienen derecho a funcionar sin obstáculos y sin otras limitaciones que las que prescriba la ley y que sean necesarias en una sociedad democrática en interés de la seguridad nacional o del orden público.",
+        "d": "Las limitaciones al funcionamiento sindical previstas en el Pacto pueden fundarse en cualquier motivo, sin exigencia de necesidad en una sociedad democrática."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 8.1.c: las limitaciones al funcionamiento de los sindicatos deben estar PRESCRITAS POR LA LEY y ser NECESARIAS en una sociedad democrática, sin las ausencias de requisitos señaladas.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_19_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Posibilidad de adhesión de la Unión Europea al sistema del Convenio. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Convenio Europeo de Derechos Humanos es un instrumento del Consejo de Europa, organización distinta de la Unión Europea.",
+        "b": "La Unión Europea ha manifestado en el marco de sus Tratados la intención de adherirse al Convenio Europeo de Derechos Humanos.",
+        "c": "La adhesión de la Unión Europea al Convenio requeriría, conforme al sistema del Convenio, las modificaciones institucionales pertinentes.",
+        "d": "La Unión Europea es, a fecha actual de referencia del temario, Parte Contratante de pleno derecho del Convenio Europeo de Derechos Humanos en igualdad de condiciones que los Estados."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos y Tratado de la Unión Europea.\nLa Unión Europea NO es, a la fecha de referencia, Parte Contratante de pleno derecho del Convenio, pese a la previsión de adhesión contenida en sus propios Tratados.",
+      "ley": "Convenio Europeo de Derechos Humanos y artículo 6 del Tratado de la Unión Europea"
+    }
+  ]
+}

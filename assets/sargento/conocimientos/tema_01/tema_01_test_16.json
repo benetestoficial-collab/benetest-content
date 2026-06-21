@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_01_test_16_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "b": "La Declaración permite tratos degradantes cuando estén previstos como sanción disciplinaria en un reglamento penitenciario.",
+        "c": "Esta prohibición admite excepciones en el ámbito militar.",
+        "d": "La prohibición de tratos crueles solo protege a las personas privadas de libertad."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 5: nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes, sin las excepciones señaladas por ámbito militar, disciplinario o situación de privación de libertad.",
+      "ley": "Artículo 5 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_16_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Derecho a circular y elegir residencia. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado.",
+        "b": "El derecho a elegir residencia reconocido en la Declaración exige autorización previa de la autoridad municipal del lugar de destino.",
+        "c": "Toda persona tiene derecho a salir de cualquier país, incluso del propio.",
+        "d": "Toda persona tiene derecho a regresar a su país."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 13: estos derechos de circulación NO exigen la autorización previa descrita.",
+      "ley": "Artículo 13 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_16_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Igualdad de derechos entre hombre y mujer. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto admite que los Estados reconozcan estos derechos en mayor medida a los hombres por razones de tradición.",
+        "b": "La igualdad entre hombre y mujer prevista en el Pacto se limita a los derechos políticos, excluyendo los civiles.",
+        "c": "Los Estados Partes se comprometen a garantizar a hombres y mujeres la igualdad en el goce de todos los derechos civiles y políticos enunciados en el Pacto.",
+        "d": "El Pacto no contiene ninguna disposición específica sobre la igualdad de género."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 3: los Estados Partes se comprometen a garantizar a hombres y mujeres la igualdad en el goce de TODOS los derechos civiles y políticos enunciados en el Pacto, sin las exclusiones señaladas.",
+      "ley": "Artículo 3 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_16_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Vigencia y depósito del instrumento. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Pacto está sujeto a ratificación, depositándose los instrumentos de ratificación en poder del Secretario General de las Naciones Unidas.",
+        "b": "El Pacto entrará en vigor transcurridos tres meses a partir de la fecha en que haya sido depositado el trigésimo quinto instrumento de ratificación o adhesión.",
+        "c": "Para cada Estado que ratifique el Pacto después de su entrada en vigor, éste entrará en vigor transcurridos tres meses a partir de la fecha en que tal Estado haya depositado su instrumento.",
+        "d": "El Pacto entró en vigor el mismo día de su adopción por la Asamblea General, sin exigir ningún número mínimo de ratificaciones."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 49: el Pacto entró en vigor tras el depósito del TRIGÉSIMO QUINTO instrumento de ratificación, no el mismo día de su adopción.",
+      "ley": "Artículo 49 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_16_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Entrada en vigor. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto entrará en vigor transcurridos tres meses a partir de la fecha en que haya sido depositado el trigésimo quinto instrumento de ratificación o de adhesión en poder del Secretario General de las Naciones Unidas.",
+        "b": "El Pacto entró en vigor automáticamente el mismo día de su adopción en 1966.",
+        "c": "El número de ratificaciones exigido para la entrada en vigor del Pacto es de sesenta Estados.",
+        "d": "El Pacto Internacional de Derechos Económicos, Sociales y Culturales no precisa de ratificación, bastando la firma."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 27: el Pacto entró en vigor tras el depósito del TRIGÉSIMO QUINTO instrumento de ratificación o adhesión, no automáticamente ni con el número o régimen señalados.",
+      "ley": "Artículo 27 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_16_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Restricciones admisibles a derechos económicos en países en desarrollo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los países en desarrollo podrán determinar en qué medida garantizarán los derechos económicos reconocidos en el Pacto a personas que no sean nacionales suyos.",
+        "b": "Esta facultad de los países en desarrollo se extiende también a los derechos civiles y políticos reconocidos en el Pacto Internacional de Derechos Civiles y Políticos.",
+        "c": "Esta facultad se reconoce teniendo debidamente en cuenta los derechos humanos y la economía nacional de dichos países.",
+        "d": "Esta posibilidad constituye una excepción específica prevista por el propio Pacto para los países en desarrollo."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 2.3: esta facultad se limita a los derechos ECONÓMICOS del propio Pacto, sin extenderse a los derechos civiles y políticos del otro Pacto.",
+      "ley": "Artículo 2 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_16_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Composición regional del Consejo (grupos regionales). Señale la opción CORRECTA:",
+      "options": {
+        "a": "La distribución de puestos del Consejo no atiende a ningún criterio de agrupación regional de los Estados Miembros.",
+        "b": "La Resolución sustituye los grupos regionales tradicionales de Naciones Unidas por un sistema de cuotas lingüísticas.",
+        "c": "Los puestos del Consejo se distribuirán entre los grupos regionales de Estados de Naciones Unidas, sobre la base de una distribución geográfica equitativa.",
+        "d": "La distribución geográfica equitativa prevista en la Resolución solo es aplicable a la elección del Presidente del Consejo."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 7: los puestos del Consejo se distribuyen entre los GRUPOS REGIONALES de Naciones Unidas sobre la base de una distribución geográfica equitativa, no mediante los criterios alternativos señalados.",
+      "ley": "Párrafo 7 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_16_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Cooperación de los Estados examinados con el Consejo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Al elegir a los miembros del Consejo, los Estados Miembros deberán tener en cuenta la disposición de los candidatos a cooperar con el Consejo.",
+        "b": "Se deberá tener en cuenta también la cooperación de los candidatos con los procedimientos especiales y mecanismos del Consejo.",
+        "c": "Los miembros del Consejo deben mantener los más altos estándares en la promoción y protección de los derechos humanos y cooperar plenamente con el Consejo.",
+        "d": "La Resolución exime expresamente a los miembros del Consejo de cualquier estándar de cooperación, una vez elegidos."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 9: los miembros del Consejo deben SOSTENER los más altos estándares y cooperar plenamente, sin la exención señalada una vez elegidos.",
+      "ley": "Párrafo 9 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_16_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Aplicabilidad a otros tratos crueles, inhumanos o degradantes en relación con la formación. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las disposiciones de la Convención relativas a la formación del personal y al examen sistemático de las normas de interrogatorio se aplican también, mutatis mutandis, a otros tratos o penas crueles, inhumanos o degradantes.",
+        "b": "Las obligaciones de formación y examen sistemático de normas previstas en la Convención se limitan estrictamente a la tortura en sentido propio, sin extensión a otros tratos.",
+        "c": "La Convención excluye cualquier mención a otros tratos crueles, inhumanos o degradantes distintos de la tortura.",
+        "d": "Las obligaciones del artículo 16 son idénticas a las del artículo 1, sin matiz alguno respecto del concepto de tortura."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 16.1: las obligaciones de los artículos 10, 11, 12 y 13 (formación, examen sistemático, investigación, queja) SÍ se aplican, mutatis mutandis, a otros tratos crueles, inhumanos o degradantes.",
+      "ley": "Artículo 16 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_16_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Cómputo de los plazos para la entrada en vigor de enmiendas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda enmienda adoptada por mayoría de dos tercios de los Estados Partes presentes y votantes entrará en vigor cuando haya sido aceptada por dos tercios de los Estados Partes en la Convención.",
+        "b": "Las enmiendas a la Convención entran en vigor de forma automática para todos los Estados Partes tan pronto como son adoptadas por la conferencia, sin requerir aceptación posterior.",
+        "c": "El Secretario General convocará una conferencia de Estados Partes si al menos un tercio de ellos se declara a favor de tal conferencia.",
+        "d": "Las enmiendas a la Convención deben depositarse en poder del Secretario General de las Naciones Unidas."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 29: las enmiendas entran en vigor cuando son ACEPTADAS por dos tercios de los Estados Partes, no de forma automática por su sola adopción en conferencia.",
+      "ley": "Artículo 29 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_16_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Suspensión temporal de visitas por el Subcomité. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Un Estado Parte puede oponerse a cualquier visita del Subcomité sin necesidad de invocar ninguna razón concreta.",
+        "b": "La oposición a una visita del Subcomité, una vez formulada, impide definitivamente cualquier visita posterior a ese mismo lugar.",
+        "c": "El Estado Parte podrá oponerse a una visita del Subcomité para la Prevención a un lugar de detención determinado, por razones urgentes y apremiantes de defensa nacional, seguridad pública, catástrofes naturales o disturbios graves en el lugar a visitar, que impidan temporalmente la realización de la visita.",
+        "d": "El Protocolo no contempla la posibilidad de que un Estado se oponga a una visita del Subcomité bajo ninguna circunstancia."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 14.2: la oposición a una visita solo puede formularse por razones URGENTES Y APREMIANTES tasadas (defensa nacional, seguridad pública, catástrofes, disturbios graves), de forma TEMPORAL, no definitiva ni sin motivo.",
+      "ley": "Artículo 14 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_16_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Difusión del Protocolo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes se comprometen a difundir y dar efectividad al Protocolo en sus respectivos territorios.",
+        "b": "Esta obligación de difusión forma parte de las obligaciones generales asumidas por los Estados Partes en virtud del Protocolo.",
+        "c": "La difusión del Protocolo entre la sociedad civil y los profesionales relacionados con la privación de libertad favorece el conocimiento del mecanismo de prevención.",
+        "d": "El Protocolo no impone a los Estados Partes ninguna obligación relativa a su difusión o conocimiento público."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 22 y concordantes: los Estados Partes SÍ se comprometen a difundir y dar efectividad al Protocolo, sin la ausencia de obligación señalada.",
+      "ley": "Artículo 22 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_16_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Carácter subsidiario del sistema europeo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Tribunal Europeo de Derechos Humanos no podrá conocer de un asunto sino después de agotar las vías de recurso internas, según los principios de derecho internacional generalmente reconocidos.",
+        "b": "El Tribunal Europeo de Derechos Humanos actúa como un tribunal de primera instancia, sin necesidad de agotar recursos internos previos.",
+        "c": "El agotamiento de los recursos internos es un requisito facultativo que el demandante puede omitir si lo justifica adecuadamente.",
+        "d": "El Convenio no exige ningún tipo de agotamiento previo de vías internas para acudir al Tribunal Europeo."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 35.1: el Tribunal solo puede conocer de un asunto DESPUÉS de agotar las vías de recurso internas, conforme a los principios de derecho internacional generalmente reconocidos; no es de primera instancia ni el requisito es facultativo.",
+      "ley": "Artículo 35 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_16_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Medidas provisionales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal, o en su caso el Presidente de la Sección correspondiente, podrá indicar a las partes cualquier medida provisional que se estime debe ser adoptada en interés de las partes o del correcto desarrollo del procedimiento.",
+        "b": "Las medidas provisionales adoptadas por el Tribunal Europeo carecen de cualquier fuerza vinculante para los Estados, siendo meras recomendaciones sin consecuencia jurídica.",
+        "c": "Las medidas provisionales del Tribunal se rigen por el reglamento del propio Tribunal.",
+        "d": "Las medidas provisionales pueden adoptarse, entre otros supuestos, ante un riesgo grave e irreparable para la vida o integridad de una persona."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos (Reglamento del Tribunal, artículo 39, y jurisprudencia del propio Tribunal).\nLas medidas provisionales SON VINCULANTES para los Estados, no meras recomendaciones sin consecuencia jurídica, conforme a la jurisprudencia consolidada del Tribunal.",
+      "ley": "Artículo 39 del Reglamento del Tribunal Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_16_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Concepto de Mecanismo Nacional de Prevención. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Mecanismo Nacional de Prevención solo puede visitar centros de detención previa autorización judicial expresa para cada visita.",
+        "b": "Las visitas del Mecanismo Nacional de Prevención deben anunciarse con un mínimo de quince días de antelación al centro a visitar.",
+        "c": "El Defensor del Pueblo, en su condición de Mecanismo Nacional de Prevención de la Tortura, realiza visitas periódicas y sin previo aviso a los lugares donde se encuentren personas privadas de libertad.",
+        "d": "El Defensor del Pueblo, como Mecanismo Nacional de Prevención, carece de la facultad de realizar visitas a centros de detención."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con el Protocolo Facultativo a la Convención contra la Tortura.\nEl Mecanismo Nacional de Prevención realiza visitas PERIÓDICAS Y SIN PREVIO AVISO, sin las restricciones de autorización judicial o anuncio previo señaladas.",
+      "ley": "Artículo 19 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con el Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_16_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Composición del Consejo Asesor (miembros natos y vocales). Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo Asesor del Mecanismo Nacional de Prevención estará integrado por los Adjuntos del Defensor del Pueblo, como miembros natos.",
+        "b": "El Consejo Asesor estará integrado, además, por un máximo de diez Vocales, expertos de reconocido prestigio en el ámbito de actuación del Mecanismo Nacional de Prevención.",
+        "c": "El Presidente del Consejo Asesor será designado por el Defensor del Pueblo de entre sus Adjuntos.",
+        "d": "Los Vocales del Consejo Asesor son designados directamente por el Ministerio del Interior, sin intervención del Defensor del Pueblo."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 19 y artículo 20: los Vocales son designados por el DEFENSOR DEL PUEBLO, no por el Ministerio del Interior.",
+      "ley": "Artículo 20 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_16_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la propiedad, individual y colectivamente, y nadie será privado arbitrariamente de su propiedad.",
+        "b": "El derecho de propiedad reconocido en la Declaración es exclusivamente colectivo, sin proyección individual.",
+        "c": "La Declaración permite la privación de la propiedad sin necesidad de causa justificada.",
+        "d": "El derecho de propiedad queda excluido del catálogo de derechos de la Declaración."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 17: toda persona tiene derecho a la propiedad, individual Y colectivamente; nadie será privado arbitrariamente de su propiedad.",
+      "ley": "Artículo 17 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_16_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Trato humano a personas privadas de libertad: finalidad del régimen penitenciario. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El régimen penitenciario consistirá en un tratamiento cuya finalidad esencial será la reforma y la readaptación social de los penados.",
+        "b": "El Pacto considera la finalidad punitiva como el único objetivo legítimo del régimen penitenciario, excluyendo cualquier finalidad de reforma o readaptación.",
+        "c": "Los menores delincuentes estarán separados de los adultos y serán sometidos a un tratamiento adecuado a su edad y condición jurídica.",
+        "d": "Toda persona privada de libertad será tratada humanamente y con el respeto debido a la dignidad inherente al ser humano."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 10.3: la finalidad ESENCIAL del régimen penitenciario es la reforma y readaptación social, no la mera finalidad punitiva excluyente descrita.",
+      "ley": "Artículo 10 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_16_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho de huelga y miembros de la administración del Estado. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto prohíbe expresamente cualquier restricción a los derechos sindicales de los miembros de la administración del Estado.",
+        "b": "Las restricciones a los derechos sindicales de funcionarios y militares previstas en el Pacto requieren siempre autorización judicial previa caso por caso.",
+        "c": "El artículo relativo a los derechos sindicales del Pacto no impide sometan a restricciones legales el ejercicio de tales derechos a los miembros de las fuerzas armadas, de la policía o de la administración del Estado.",
+        "d": "El Pacto no contempla ninguna previsión específica sobre los derechos sindicales de funcionarios, policías o militares."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 8.2: el propio artículo NO IMPIDE que se impongan restricciones legales a estos derechos para fuerzas armadas, policía o administración del Estado, sin la exigencia de autorización judicial caso por caso señalada.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_16_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derechos garantizados en relación con elecciones libres (en el sistema de Protocolos). Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El sistema del Convenio incorpora, mediante Protocolo adicional, el compromiso de las Altas Partes de organizar elecciones libres con escrutinio secreto.",
+        "b": "Este compromiso se enmarca dentro de las condiciones que garanticen la libre expresión de la opinión del pueblo en la elección del cuerpo legislativo.",
+        "c": "Dicho compromiso forma parte del Protocolo adicional nº 1 al Convenio, no del articulado original de los Títulos I y II.",
+        "d": "El derecho a elecciones libres está expresamente regulado en el Título I del Convenio Europeo de Derechos Humanos, sin necesidad de Protocolo adicional alguno."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos y Protocolo adicional nº 1.\nEl compromiso de organizar elecciones libres figura en el PROTOCOLO ADICIONAL Nº 1 (artículo 3), no en el articulado original de los Títulos I y II del Convenio.",
+      "ley": "Artículo 3 del Protocolo adicional nº 1 al Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

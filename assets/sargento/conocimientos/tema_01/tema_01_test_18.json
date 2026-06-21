@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 18",
+  "preguntas": [
+    {
+      "id": "tema_01_test_18_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.",
+        "b": "La Declaración reconoce la participación en la vida cultural exclusivamente a quienes posean una titulación académica.",
+        "c": "El derecho a gozar de las artes reconocido en la Declaración se predica solo de los artistas profesionales.",
+        "d": "La Declaración no contempla ningún derecho relacionado con el progreso científico."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 27.1: toda persona tiene derecho a tomar parte libremente en la vida cultural, gozar de las artes y participar en el progreso científico y sus beneficios, sin las restricciones señaladas.",
+      "ley": "Artículo 27 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_18_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Protección de los intereses morales y materiales del autor. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la protección de los intereses morales y materiales que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora.",
+        "b": "La Declaración condiciona la protección de los derechos de autor a que la obra haya sido publicada en el extranjero.",
+        "c": "Este derecho forma parte del mismo artículo que reconoce el derecho a participar en la vida cultural.",
+        "d": "La protección de los intereses morales y materiales del autor se reconoce sin necesidad de registro previo de la obra ante un organismo internacional."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 27.2: la protección de los intereses morales y materiales del autor NO está condicionada a la publicación en el extranjero ni a registro internacional previo.",
+      "ley": "Artículo 27 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_18_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Suspensión de obligaciones: notificación a otros Estados Partes. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La suspensión de obligaciones del Pacto no genera ninguna obligación de notificación a los demás Estados Partes.",
+        "b": "La notificación de la suspensión solo debe realizarse si la duración prevista de la misma supera un año.",
+        "c": "El Estado Parte que haga uso del derecho de suspensión deberá informar inmediatamente a los demás Estados Partes, por intermedio del Secretario General de las Naciones Unidas, de las disposiciones cuya aplicación haya suspendido y de los motivos que hayan suscitado la suspensión.",
+        "d": "La notificación de la suspensión se realiza directamente entre los Estados Partes, sin intermediación del Secretario General."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 4.3: el Estado debe informar INMEDIATAMENTE a los demás Estados Partes, POR INTERMEDIO del Secretario General, sin las condiciones o ausencia de obligación señaladas.",
+      "ley": "Artículo 4 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_18_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Comunicación de la cesación de la suspensión. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Se hará una nueva comunicación, por el mismo conducto, en la fecha en que se haya dado por terminada tal suspensión.",
+        "b": "Esta comunicación de cesación forma parte del mismo mecanismo de notificación previsto para el inicio de la suspensión.",
+        "c": "El conducto previsto para esta comunicación es el Secretario General de las Naciones Unidas.",
+        "d": "El Pacto no exige ninguna comunicación cuando cese la suspensión de obligaciones, considerándose tácitamente reanudada la plena vigencia del Pacto."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 4.3: el Pacto SÍ exige una nueva comunicación cuando cese la suspensión, sin que opere una reanudación meramente tácita.",
+      "ley": "Artículo 4 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_18_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Función del Consejo Económico y Social respecto a recomendaciones generales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo Económico y Social podrá señalar a la atención de otros órganos de las Naciones Unidas, sus órganos subsidiarios y los organismos especializados interesados, toda cuestión suscitada en los informes que pueda servirles de ayuda para que se pronuncien sobre la prestación de asistencia técnica.",
+        "b": "El Consejo Económico y Social carece de cualquier facultad respecto de la asistencia técnica relacionada con los derechos del Pacto.",
+        "c": "El Consejo Económico y Social solo puede examinar los informes de los Estados Partes sin comunicarlos a ningún otro órgano de Naciones Unidas.",
+        "d": "La función del Consejo Económico y Social respecto de los informes se limita a su mero archivo documental."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 22: el Consejo Económico y Social SÍ puede señalar cuestiones a otros órganos para fines de asistencia técnica, sin las limitaciones o carencia de facultades señaladas.",
+      "ley": "Artículo 22 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_18_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Informes especiales de los organismos especializados. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los organismos especializados podrán presentar informes relativos a la aplicación de las disposiciones del Pacto que correspondan al ámbito de sus actividades.",
+        "b": "El Pacto prohíbe expresamente cualquier colaboración con organismos especializados de Naciones Unidas en materia de informes.",
+        "c": "El Consejo Económico y Social podrá invitar a estos organismos a informar sobre los progresos realizados en cuanto al cumplimiento de las disposiciones del Pacto que entren en el marco de sus actividades.",
+        "d": "Esta colaboración con organismos especializados se enmarca en el sistema general de informes del Pacto."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 18: el Pacto SÍ prevé expresamente la colaboración con organismos especializados en materia de informes, sin la prohibición señalada.",
+      "ley": "Artículo 18 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_18_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Aprobación y formato del informe anual del Consejo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo presentará su informe únicamente al Consejo Económico y Social, sin que la Asamblea General intervenga en su examen.",
+        "b": "El informe anual del Consejo tiene carácter quinquenal, no anual, conforme a la Resolución 60/251.",
+        "c": "El Consejo presentará un informe anual a la Asamblea General sobre su labor.",
+        "d": "La Resolución no contempla ninguna obligación de informe del Consejo hacia la Asamblea General."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 5.j: el Consejo presentará un informe ANUAL a la Asamblea General sobre su labor, sin las alternativas señaladas.",
+      "ley": "Párrafo 5 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_18_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Mandato general respecto al sistema de Naciones Unidas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo deberá promover la coordinación eficaz y la incorporación de los derechos humanos en la actividad general del sistema de las Naciones Unidas.",
+        "b": "Esta función de coordinación forma parte de las responsabilidades generales asignadas al Consejo por la Resolución.",
+        "c": "El Consejo trabaja en este ámbito en estrecha relación con otros órganos y organismos del sistema de Naciones Unidas.",
+        "d": "El Consejo de Derechos Humanos actúa de forma completamente aislada del resto del sistema de Naciones Unidas, sin ninguna función de coordinación con otros órganos."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 3: el Consejo SÍ deberá promover la coordinación eficaz y la incorporación de los derechos humanos en el sistema de Naciones Unidas, sin el aislamiento señalado.",
+      "ley": "Párrafo 3 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_18_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Protección de denunciantes y testigos frente a represalias administrativas. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Se tomarán medidas para asegurar que quien presente una queja por tortura esté protegido contra todo malo trato o intimidación como consecuencia de la queja presentada.",
+        "b": "La protección frente a represalias prevista en la Convención solo opera mientras dure el proceso penal, no después de su conclusión.",
+        "c": "La Convención exime a las autoridades de cualquier obligación de proteger al denunciante de tortura frente a represalias.",
+        "d": "Esta protección frente a represalias se limita a las denuncias que resulten finalmente probadas en sentencia firme."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 13: la protección frente a represalias se predica de la presentación de la queja en sí, sin las limitaciones temporales o condicionadas al resultado final señaladas.",
+      "ley": "Artículo 13 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_18_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Procedimiento ante el Comité respecto de comunicaciones individuales: agotamiento de recursos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Comité no examinará ninguna comunicación de una persona sin haberse cerciorado de que se han agotado todos los recursos de la jurisdicción interna de que se pueda disponer.",
+        "b": "El requisito de agotamiento de recursos internos se aplica de forma absoluta y sin excepción alguna en el procedimiento de comunicaciones individuales de la Convención.",
+        "c": "No se aplicará esta norma cuando la tramitación de los recursos internos se prolongue injustificadamente o no sea probable que mejore la situación de la víctima.",
+        "d": "El Comité considerará inadmisibles las comunicaciones anónimas o que constituyan un abuso del derecho a presentarlas."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 22.5.b: el requisito de agotamiento de recursos internos admite EXCEPCIONES (tramitación injustificadamente prolongada, o improbabilidad de mejora de la situación de la víctima), no es absoluto.",
+      "ley": "Artículo 22 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_18_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Régimen de mayoría para la entrada en vigor de enmiendas al propio Protocolo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las enmiendas al Protocolo se adoptan y entran en vigor por unanimidad de todos los Estados Partes, sin posibilidad de mayoría cualificada.",
+        "b": "El Protocolo no contempla ningún procedimiento de enmienda de su propio texto.",
+        "c": "Toda enmienda adoptada por mayoría de dos tercios de los Estados Partes presentes y votantes en una conferencia será sometida por el Secretario General a todos los Estados Partes para su aceptación.",
+        "d": "Las enmiendas al Protocolo pueden ser adoptadas directamente por el Subcomité para la Prevención, sin intervención de los Estados Partes."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 33: las enmiendas se adoptan por MAYORÍA DE DOS TERCIOS de los Estados Partes presentes y votantes en conferencia, no por unanimidad ni por el Subcomité.",
+      "ley": "Artículo 33 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_18_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Idiomas auténticos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Protocolo está redactado en árabe, chino, español, francés, inglés y ruso, siendo igualmente auténticos todos los textos.",
+        "b": "El original del Protocolo se depositará en poder del Secretario General de las Naciones Unidas.",
+        "c": "El Secretario General remitirá copias certificadas del Protocolo a todos los Estados.",
+        "d": "El Protocolo Facultativo solo tiene como texto auténtico la versión en francés, siendo las demás meras traducciones."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nCláusula final: los textos en árabe, chino, español, francés, inglés y ruso son IGUALMENTE AUTÉNTICOS, sin que el francés tenga primacía.",
+      "ley": "Cláusula final del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_18_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Notificación de sentencias y resoluciones. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las sentencias, así como las resoluciones de admisibilidad o inadmisibilidad de las demandas, serán motivadas.",
+        "b": "Las resoluciones de inadmisibilidad de una demanda no requieren motivación alguna, a diferencia de las sentencias sobre el fondo.",
+        "c": "El Convenio permite dictar sentencias sin motivación cuando el asunto se considere de escasa relevancia jurídica.",
+        "d": "Solo las sentencias de la Gran Sala requieren motivación, no así las de las Salas ordinarias."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 45.1: tanto las SENTENCIAS como las resoluciones de ADMISIBILIDAD O INADMISIBILIDAD serán motivadas, sin las excepciones señaladas.",
+      "ley": "Artículo 45 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_18_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Garantía de los derechos ya reconocidos en el ordenamiento interno. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Ninguna de las disposiciones del Convenio se interpretará en el sentido de limitar o perjudicar los derechos humanos y libertades fundamentales que puedan ser reconocidos conforme a las leyes de cualquier Alta Parte Contratante.",
+        "b": "El Convenio Europeo de Derechos Humanos prevalece siempre sobre cualquier norma interna más protectora de los derechos humanos de los Estados Parte.",
+        "c": "Esta cláusula de salvaguarda se extiende también a los derechos reconocidos en cualquier otro Convenio en que la Alta Parte sea parte.",
+        "d": "El Convenio establece así un estándar mínimo de protección, sin perjuicio de estándares nacionales o internacionales más favorables."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 53: el Convenio NO prevalece sobre normas internas o internacionales MÁS PROTECTORAS; establece un estándar mínimo, sin perjuicio de estándares más favorables.",
+      "ley": "Artículo 53 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_18_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Relación entre el Defensor del Pueblo y el Mecanismo Nacional de Prevención en la organización interna. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Mecanismo Nacional de Prevención constituye una entidad jurídica independiente y separada de la Institución del Defensor del Pueblo, con personalidad jurídica propia.",
+        "b": "El Mecanismo Nacional de Prevención depende orgánicamente del Ministerio del Interior, no del Defensor del Pueblo.",
+        "c": "El ejercicio de las funciones del Mecanismo Nacional de Prevención se integra dentro de la estructura general de la Institución del Defensor del Pueblo, sin constituir un órgano separado e independiente de ésta.",
+        "d": "El Reglamento no contempla ninguna integración orgánica entre el Defensor del Pueblo y el Mecanismo Nacional de Prevención."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 1.2: el Defensor del Pueblo EJERCE las funciones de Mecanismo Nacional de Prevención DENTRO de su propia estructura institucional, sin constituir una entidad separada con personalidad jurídica propia ni depender del Ministerio del Interior.",
+      "ley": "Artículo 1 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_18_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Naturaleza confidencial de determinadas actuaciones del Mecanismo Nacional de Prevención. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Las actuaciones del Mecanismo Nacional de Prevención en el curso de sus visitas pueden incluir entrevistas confidenciales con personas privadas de libertad.",
+        "b": "El Consejo Asesor del Mecanismo Nacional de Prevención evacúa informes que pueden tener un carácter reservado en función de su contenido.",
+        "c": "La confidencialidad de determinadas actuaciones del Mecanismo Nacional de Prevención es compatible con la elaboración de informes públicos de carácter general.",
+        "d": "Todas las actuaciones del Mecanismo Nacional de Prevención, sin excepción alguna, deben ser necesariamente públicas desde el momento en que se producen."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con el Protocolo Facultativo a la Convención contra la Tortura.\nNo todas las actuaciones del Mecanismo Nacional de Prevención son necesariamente públicas desde su producción; algunas (entrevistas, determinados informes) pueden tener carácter confidencial o reservado.",
+      "ley": "Artículo 22 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con el Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_18_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser arbitrariamente privado de su nacionalidad ni del derecho a cambiar de nacionalidad.",
+        "b": "La privación de la nacionalidad reconocida en la Declaración solo se prohíbe cuando sea decretada por un tribunal extranjero.",
+        "c": "La Declaración permite privar de la nacionalidad a quien adquiera una segunda nacionalidad sin autorización previa.",
+        "d": "El derecho a cambiar de nacionalidad queda excluido de la protección frente a privaciones arbitrarias."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 15.2: a nadie se privará ARBITRARIAMENTE de su nacionalidad ni del derecho a cambiarla, sin las condiciones o exclusiones señaladas.",
+      "ley": "Artículo 15 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_18_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Garantías del detenido respecto de la prisión preventiva y comparecencia. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona detenida o presa a causa de una infracción penal tendrá derecho a ser juzgada dentro de un plazo razonable o a ser puesta en libertad.",
+        "b": "El Pacto exige que toda persona detenida permanezca en prisión preventiva durante toda la duración del proceso, sin posibilidad de libertad provisional bajo ninguna garantía.",
+        "c": "La libertad podrá estar subordinada a garantías que asegure la comparecencia del acusado en el juicio.",
+        "d": "La prisión preventiva de las personas que hayan de ser juzgadas no debe ser la regla general."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 9.3: la prisión preventiva NO debe ser la regla general; la libertad puede subordinarse a garantías, sin la exigencia absoluta de mantenimiento en prisión descrita.",
+      "ley": "Artículo 9 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_18_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Disfrute de los derechos del Pacto por parte de los extranjeros en países en desarrollo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Esta facultad de los países en desarrollo se aplica también a los nacionales del propio Estado, no solo a los extranjeros.",
+        "b": "El Pacto excluye expresamente cualquier distinción basada en la nacionalidad para el disfrute de sus derechos.",
+        "c": "Los países en desarrollo podrán determinar, teniendo debidamente en cuenta los derechos humanos y su economía nacional, en qué medida garantizarán los derechos económicos reconocidos en el Pacto a personas que no sean nacionales suyos.",
+        "d": "Esta facultad de los países en desarrollo es extensible, sin limitación, a cualquier categoría de derechos del Pacto, incluidos los derechos sindicales fundamentales."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 2.3: esta facultad se predica de las personas que NO SEAN NACIONALES del país en desarrollo (extranjeros), no de sus propios nacionales, y no es ilimitada respecto de cualquier categoría de derechos.",
+      "ley": "Artículo 2 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_18_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Cláusula de exclusión de reclamaciones interestatales abusivas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal podrá conocer de un asunto entre dos o más Altas Partes Contratantes relativo a la interpretación o aplicación del Convenio.",
+        "b": "Las demandas interestatales no están sujetas, conforme al Convenio, al mismo régimen de inadmisibilidad por falta de agotamiento de recursos internos que las demandas individuales en todos los supuestos.",
+        "c": "El Convenio distingue expresamente entre demandas interestatales y demandas individuales en su sistema de admisibilidad.",
+        "d": "El Convenio Europeo de Derechos Humanos no admite en ningún caso demandas presentadas por un Estado contra otro Estado."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 33: el Convenio SÍ admite demandas interestatales (de un Estado contra otro), distinguiéndolas de las demandas individuales del artículo 34.",
+      "ley": "Artículo 33 del Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

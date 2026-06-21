@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 11",
+  "preguntas": [
+    {
+      "id": "tema_01_test_11_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser arbitrariamente privado de su nacionalidad ni del derecho a cambiarla.",
+        "b": "El derecho a una nacionalidad reconocido en la Declaración no impide la privación arbitraria de la misma.",
+        "c": "La Declaración prohíbe cambiar de nacionalidad bajo cualquier circunstancia.",
+        "d": "El derecho a la nacionalidad queda excluido del catálogo de derechos de la Declaración."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 15: toda persona tiene derecho a una nacionalidad; a nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.",
+      "ley": "Artículo 15 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_11_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Esclavitud y servidumbre. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Nadie estará sometido a esclavitud ni a servidumbre.",
+        "b": "La servidumbre queda permitida cuando se imponga como consecuencia de una deuda contraída voluntariamente.",
+        "c": "La esclavitud y la trata de esclavos están prohibidas en todas sus formas.",
+        "d": "Esta prohibición forma parte de los derechos a la vida, libertad y seguridad de la persona regulados en artículos próximos de la Declaración."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 4: nadie estará sometido a esclavitud ni a servidumbre, sin las excepciones señaladas por deudas contraídas voluntariamente.",
+      "ley": "Artículo 4 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_11_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Recurso de revisión en caso de condena a muerte. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto excluye expresamente cualquier posibilidad de indulto o conmutación para los condenados a muerte.",
+        "b": "La amnistía, el indulto o la conmutación de la pena de muerte solo pueden concederse en países que hayan abolido dicha pena.",
+        "c": "Toda persona condenada a muerte tendrá derecho a solicitar el indulto o la conmutación de la pena.",
+        "d": "El derecho a solicitar indulto o conmutación queda reservado a los delitos de tortura."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 6.4: toda persona condenada a muerte tendrá derecho a solicitar el indulto o la conmutación de la pena; la amnistía, el indulto o la conmutación podrán ser concedidos en todos los casos.",
+      "ley": "Artículo 6 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_11_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Derecho de las personas extranjeras a ser oídas antes de su expulsión. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El extranjero podrá exponer las razones que lo asistan en contra de su expulsión.",
+        "b": "El caso del extranjero podrá ser sometido a revisión ante la autoridad competente.",
+        "c": "El extranjero tiene derecho a hacerse representar ante la autoridad competente a efectos de la revisión de su caso.",
+        "d": "Estos derechos procesales del extranjero se reconocen sin excepción alguna, incluso cuando razones imperiosas de seguridad nacional se opongan a ello."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 13: estos derechos procesales del extranjero SÍ admiten excepción cuando razones imperiosas de seguridad nacional se opongan a ello.",
+      "ley": "Artículo 13 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_11_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Asistencia y protección a la familia. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Se debe conceder a la familia, que es el elemento natural y fundamental de la sociedad, la más amplia protección y asistencia posibles, especialmente para su constitución y mientras sea responsable del cuidado de los hijos.",
+        "b": "El Pacto considera a la familia un elemento secundario frente a otras formas de organización social.",
+        "c": "La protección a la familia prevista en el Pacto se limita al momento de su constitución, sin extenderse al cuidado de los hijos.",
+        "d": "El Pacto no reconoce ninguna obligación estatal de asistencia a la familia."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 10.1: se debe conceder a la familia la más amplia protección y asistencia posibles, especialmente para su constitución y mientras sea responsable del cuidado de los hijos a su cargo.",
+      "ley": "Artículo 10 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_11_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Protección especial a la infancia y la juventud. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Se deben adoptar medidas especiales de protección y asistencia en favor de todos los niños y adolescentes, sin discriminación alguna por razón de filiación o cualquier otra condición.",
+        "b": "El Pacto permite el empleo de niños en trabajos peligrosos para su vida siempre que medie el consentimiento de los padres.",
+        "c": "Se debe proteger a los niños y adolescentes contra la explotación económica y social.",
+        "d": "Su empleo en trabajos nocivos para su moral y salud, o en los cuales peligre su vida, debe ser sancionado por la ley."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 10.3: el Pacto NO admite el empleo de niños en trabajos peligrosos para su vida o moral, ni siquiera con consentimiento de los padres; deben fijarse límites de edad para el trabajo remunerado.",
+      "ley": "Artículo 10 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_11_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Carácter complementario del examen periódico universal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El examen periódico universal solo se aplicará a los Estados que hayan sido objeto de denuncias previas ante el Consejo.",
+        "b": "El examen periódico universal otorga un trato diferenciado a los Estados miembros del Consejo frente a los que no lo son.",
+        "c": "El examen periódico universal se basará en información objetiva y fidedigna, sobre el cumplimiento de cada Estado de sus obligaciones y compromisos en materia de derechos humanos, de manera que se garantice la universalidad del examen y la igualdad de trato respecto de todos los Estados.",
+        "d": "El examen periódico universal carece de cualquier criterio de universalidad en su aplicación."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 5.e: el examen periódico universal garantiza la UNIVERSALIDAD del examen y la IGUALDAD DE TRATO respecto de todos los Estados, sin las exclusiones o distinciones señaladas.",
+      "ley": "Párrafo 5 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_11_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Calendario de reuniones del Consejo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El primer período de sesiones del Consejo se celebrará dentro del mes siguiente a la aprobación de la Resolución.",
+        "b": "A partir de entonces el Consejo celebrará sus períodos de sesiones de conformidad con el calendario que establezca en su primera reunión.",
+        "c": "El Consejo podrá celebrar, además de sus períodos ordinarios, sesiones extraordinarias cuando sea necesario.",
+        "d": "El calendario de reuniones del Consejo es fijado de forma definitiva e inmodificable por la propia Resolución 60/251, sin margen de decisión del Consejo."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafos 9 y 10: el calendario de reuniones lo establece el propio CONSEJO en su primera reunión, conforme a las pautas generales de la Resolución, no de forma cerrada por ésta.",
+      "ley": "Párrafo 10 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_11_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Garantías frente a declaraciones obtenidas bajo tortura. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte se asegurará de que ninguna declaración que se demuestre haber sido hecha como resultado de tortura pueda ser invocada como prueba en ningún procedimiento, salvo en contra de una persona acusada de tortura como prueba de que se formuló la declaración.",
+        "b": "Las declaraciones obtenidas bajo tortura podrán invocarse como prueba válida en cualquier procedimiento, sin excepción.",
+        "c": "La Convención permite el uso como prueba de las declaraciones obtenidas bajo tortura cuando exista urgencia procesal.",
+        "d": "El Estado Parte queda exento de cualquier obligación respecto de las declaraciones obtenidas mediante tortura."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 15: ninguna declaración obtenida bajo tortura podrá invocarse como prueba en ningún procedimiento, SALVO en contra de la persona acusada de tortura, para demostrar que se formuló tal declaración.",
+      "ley": "Artículo 15 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_11_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Adopción y firma. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Convención contra la Tortura fue adoptada por la Asamblea General de las Naciones Unidas mediante la Resolución 39/46, de 10 de diciembre de 1984.",
+        "b": "La Convención contra la Tortura fue adoptada por el Consejo de Seguridad de las Naciones Unidas, no por la Asamblea General.",
+        "c": "La Convención quedó abierta a la firma de todos los Estados el mismo día de su adopción.",
+        "d": "España es Estado Parte de la Convención contra la Tortura."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nLa Convención fue adoptada por la ASAMBLEA GENERAL (Resolución 39/46), no por el Consejo de Seguridad, el 10 de diciembre de 1984.",
+      "ley": "Resolución 39/46 de la Asamblea General de Naciones Unidas, de 10 de diciembre de 1984"
+    },
+    {
+      "id": "tema_01_test_11_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Informes anuales del Subcomité para la Prevención. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Subcomité para la Prevención carece de obligación de presentar informe alguno sobre su actividad.",
+        "b": "El informe anual del Subcomité es confidencial y no puede hacerse público en ninguna circunstancia.",
+        "c": "El Subcomité para la Prevención presentará un informe público anual sobre sus actividades al Comité contra la Tortura.",
+        "d": "El informe anual del Subcomité se presenta directamente a cada uno de los Estados Partes individualmente, no a ningún órgano colegiado."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 16.3: el Subcomité para la Prevención presentará un informe PÚBLICO ANUAL sobre sus actividades al Comité contra la Tortura.",
+      "ley": "Artículo 16 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_11_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Costes de aplicación del Protocolo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Cada Estado Parte sufragará los gastos en que se incurra al aplicar el Protocolo por lo que respecta a su mecanismo nacional de prevención.",
+        "b": "Las Naciones Unidas sufragarán los gastos que ocasionen a los miembros del Subcomité para la Prevención sus actividades conforme al Protocolo.",
+        "c": "Las Naciones Unidas proporcionarán el personal y los servicios necesarios para el desempeño eficaz de las funciones del Subcomité.",
+        "d": "Las Naciones Unidas asumen también la financiación directa de los mecanismos nacionales de prevención de cada Estado Parte, sustituyendo la obligación estatal."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 17 y artículo 25: el Estado financia SU PROPIO mecanismo nacional; Naciones Unidas financia las actividades del Subcomité, no sustituye la financiación estatal del mecanismo nacional.",
+      "ley": "Artículo 25 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_11_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Adopción del Convenio. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Convenio Europeo de Derechos Humanos fue elaborado en el marco del Consejo de Europa.",
+        "b": "El Convenio Europeo de Derechos Humanos fue elaborado en el marco de la Unión Europea.",
+        "c": "El Convenio Europeo de Derechos Humanos fue elaborado en el marco de la Organización para la Seguridad y la Cooperación en Europa.",
+        "d": "El Convenio Europeo de Derechos Humanos carece de vinculación institucional con ningún organismo europeo."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nPreámbulo: el Convenio fue elaborado en el marco del CONSEJO DE EUROPA, organización distinta de la Unión Europea.",
+      "ley": "Preámbulo del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_11_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho de propiedad y bienes (en relación con la jurisdicción del Tribunal). Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal Europeo de Derechos Humanos conocerá de todas las cuestiones relativas a la interpretación y aplicación del Convenio y de sus Protocolos.",
+        "b": "La competencia del Tribunal sobre su propia jurisdicción corresponde decidirla, en caso de duda, al Comité de Ministros del Consejo de Europa.",
+        "c": "La jurisdicción del Tribunal se extiende a todos los asuntos que le sean sometidos en las condiciones previstas por los artículos 33, 34, 46 y 47.",
+        "d": "En caso de impugnarse la competencia del Tribunal, éste decide sobre su propia competencia."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 32: en caso de impugnación de su competencia, es el propio TRIBUNAL quien decide, no el Comité de Ministros.",
+      "ley": "Artículo 32 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_11_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Funciones de los Adjuntos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Adjuntos actúan con total independencia del Defensor del Pueblo, sin sujeción a sus directrices.",
+        "b": "Los Adjuntos solo pueden ejercer funciones de mera representación protocolaria, sin contenido sustantivo alguno.",
+        "c": "Los Adjuntos ejercerán las funciones que el Defensor del Pueblo les confiera y le sustituirán, por su orden, en los supuestos de imposibilidad temporal o cese.",
+        "d": "El nombramiento de los Adjuntos corresponde directamente a las Cortes Generales, sin intervención del Defensor del Pueblo."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 4: los Adjuntos ejercen las funciones que el Defensor del Pueblo les confiera y le sustituyen, por su orden, en caso de imposibilidad temporal o cese; son nombrados y separados por el propio Defensor del Pueblo, oídas las Cámaras.",
+      "ley": "Artículo 4 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_11_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Deber de colaboración de los poderes públicos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todos los poderes públicos están obligados a auxiliar al Defensor del Pueblo en sus investigaciones e inspecciones.",
+        "b": "La entidad o persona requerida por el Defensor del Pueblo deberá responder en el plazo que se le señale.",
+        "c": "La negativa o negligencia de un funcionario o entidad en el cumplimiento de sus obligaciones con el Defensor del Pueblo puede dar lugar a que éste lo destaque en su informe.",
+        "d": "Los poderes públicos pueden negarse a colaborar con el Defensor del Pueblo invocando el secreto de las deliberaciones internas de cualquier órgano administrativo, sin ninguna excepción aplicable."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nLa colaboración con el Defensor del Pueblo es OBLIGATORIA con carácter preferente y urgente; las excepciones al deber de colaboración están tasadas (no genéricas para cualquier deliberación interna).",
+      "ley": "Artículo 8 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_11_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad, conforme a la ley y en juicio público con todas las garantías necesarias para su defensa.",
+        "b": "La presunción de inocencia reconocida en la Declaración solo opera tras dictarse sentencia firme.",
+        "c": "El acusado carece, conforme a la Declaración, de garantías procesales mínimas para su defensa.",
+        "d": "La Declaración exige juicio público solo cuando el acusado lo solicite expresamente, siendo privado por defecto."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 11.1: toda persona acusada tiene derecho a la presunción de inocencia mientras no se pruebe su culpabilidad, en juicio público con todas las garantías necesarias para su defensa, sin las condiciones señaladas.",
+      "ley": "Artículo 11 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_11_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Prohibición de propaganda en favor de la guerra. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda propaganda en favor de la guerra estará prohibida por la ley.",
+        "b": "El Pacto permite la propaganda en favor de la guerra cuando se enmarque en una campaña electoral debidamente registrada.",
+        "c": "Toda apología del odio nacional, racial o religioso que constituya incitación a la discriminación, la hostilidad o la violencia estará prohibida por la ley.",
+        "d": "Estas prohibiciones forman parte de las disposiciones del Pacto relativas a la libertad de expresión y sus límites."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 20: la prohibición de la propaganda de guerra es absoluta, sin la excepción electoral señalada.",
+      "ley": "Artículo 20 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_11_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Condiciones de trabajo equitativas y satisfactorias. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto no exige que la remuneración garantice una existencia digna para el trabajador y su familia.",
+        "b": "El derecho a condiciones equitativas de trabajo se limita a la remuneración, sin alcanzar a la seguridad e higiene.",
+        "c": "Los Estados Partes reconocen el derecho de toda persona al goce de condiciones de trabajo equitativas y satisfactorias que le aseguren, en especial, una remuneración que proporcione como mínimo un salario equitativo e igual por trabajo de igual valor.",
+        "d": "El Pacto excluye la posibilidad de ascenso en el empleo como parte de las condiciones equitativas de trabajo."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 7: condiciones de trabajo equitativas que incluyen remuneración mínima equitativa, existencia digna, seguridad e higiene y posibilidad de ascenso, sin las exclusiones señaladas.",
+      "ley": "Artículo 7 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_11_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Composición de las Salas y Comités. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Las Salas constituidas para el examen de los asuntos que les sean sometidos comprenderán al Juez elegido por el Estado parte interesado.",
+        "b": "Si dicho Juez no estuviere en condiciones de actuar, podrá ser sustituido por otra persona designada conforme al reglamento del Tribunal.",
+        "c": "Formarán también parte de la Sala, en su caso, el Presidente de la Sección o un Juez de dicha Sección.",
+        "d": "La composición de las Salas es totalmente ajena a la nacionalidad de las partes en el litigio, prohibiéndose expresamente la participación de un Juez del Estado demandado."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 26.4: las Salas SÍ comprenderán, de oficio, al Juez elegido por el Estado parte interesado (o un sustituto), sin la prohibición señalada.",
+      "ley": "Artículo 26 del Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

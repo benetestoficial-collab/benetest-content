@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_01_test_02_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Comité de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Comité de Derechos Humanos se compondrá de dieciocho miembros, que ejercerán sus funciones a título personal.",
+        "b": "El Comité de Derechos Humanos se compondrá de diez miembros designados por el Secretario General.",
+        "c": "Los miembros del Comité representan a su Estado de nacionalidad y votan conforme a sus instrucciones.",
+        "d": "El Comité podrá comprender más de un nacional de un mismo Estado, sin límite alguno."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 28: se establecerá un Comité de Derechos Humanos compuesto de dieciocho miembros, elegidos y que ejercerán sus funciones a título personal.\nArtículo 31.1: el Comité no podrá comprender más de un nacional de un mismo Estado.",
+      "ley": "Artículo 28 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_02_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Mandato de los miembros del Comité de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los miembros del Comité se elegirán por un período de nueve años, sin posibilidad de reelección.",
+        "b": "Los miembros del Comité se elegirán por cuatro años y podrán ser reelegidos si se presenta de nuevo su candidatura.",
+        "c": "El mandato de los miembros del Comité es indefinido salvo renuncia o fallecimiento.",
+        "d": "Los miembros del Comité se elegirán por dos años, renovables anualmente."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 32.1: los miembros del Comité se elegirán por cuatro años. Podrán ser reelegidos si se presenta de nuevo su candidatura.",
+      "ley": "Artículo 32 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_02_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Comunicaciones entre Estados. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Las disposiciones sobre comunicaciones entre Estados entrarán en vigor cuando diez Estados Partes hayan hecho la declaración de reconocimiento de competencia.",
+        "b": "El Comité conocerá del asunto después de haberse cerciorado de que se han agotado todos los recursos de la jurisdicción interna.",
+        "c": "El Comité admitirá cualquier comunicación de un Estado Parte aunque éste no haya reconocido previamente la competencia del Comité.",
+        "d": "El Comité pondrá sus buenos oficios a disposición de los Estados Partes interesados a fin de llegar a una solución amistosa."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 41.1: las comunicaciones sólo se podrán admitir y examinar si son presentadas por un Estado Parte que haya hecho una declaración reconociendo la competencia del Comité; éste NO admitirá ninguna comunicación relativa a un Estado que no haya hecho tal declaración.",
+      "ley": "Artículo 41 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_02_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Jurisdicción de los Estados Parte. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte dispondrá lo necesario para instituir su jurisdicción cuando el presunto delincuente sea nacional de ese Estado.",
+        "b": "Todo Estado Parte dispondrá lo necesario para instituir su jurisdicción cuando la víctima sea nacional de ese Estado y éste lo considere apropiado.",
+        "c": "Todo Estado Parte tomará las medidas necesarias para establecer su jurisdicción cuando el presunto delincuente se halle en su territorio y no conceda la extradición.",
+        "d": "Todo Estado Parte dispondrá lo necesario para instituir su jurisdicción sólo cuando el delito se haya cometido en su propio territorio."
+      },
+      "correct": "d",
+      "explicacion": "Convención contra la Tortura.\nArtículo 5.1: la jurisdicción se instituye no solo por el lugar de comisión, sino también cuando el presunto delincuente sea nacional del Estado o la víctima lo sea y el Estado lo considere apropiado (letras a, b y c).",
+      "ley": "Artículo 5 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_02_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Comité contra la Tortura. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Comité contra la Tortura estará compuesto de diez expertos de gran integridad moral y reconocida competencia en materia de derechos humanos.",
+        "b": "El Comité contra la Tortura estará compuesto de dieciocho expertos elegidos por la Asamblea General.",
+        "c": "Los miembros del Comité contra la Tortura representan a sus Estados y votan según instrucciones recibidas.",
+        "d": "El Comité contra la Tortura se reunirá únicamente cuando lo solicite expresamente el Secretario General."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 17.1: se constituirá un Comité contra la Tortura compuesto de DIEZ expertos de gran integridad moral y reconocida competencia en materia de derechos humanos, que ejercerán sus funciones a título personal.",
+      "ley": "Artículo 17 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_02_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Educación e información. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La obligación de formación sobre prohibición de la tortura sólo alcanza al personal médico, no al policial o militar.",
+        "b": "Todo Estado Parte velará por que se incluyan una educación e información completas sobre la prohibición de la tortura en la formación del personal encargado de la aplicación de la ley.",
+        "c": "Los Estados Parte quedan exentos de incluir la prohibición de la tortura en las normas internas sobre deberes del personal.",
+        "d": "La formación sobre prohibición de la tortura es facultativa para los Estados que no hayan reconocido la competencia del Comité."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 10.1: todo Estado Parte velará por que se incluyan una educación e información completas sobre la prohibición de la tortura en la formación profesional del personal encargado de la aplicación de la ley, sea éste civil o militar, del personal médico, de los funcionarios públicos y otras personas que puedan participar en la custodia, interrogatorio o tratamiento de personas detenidas.",
+      "ley": "Artículo 10 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_02_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Comunicaciones individuales (artículo 22). Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Comité considerará inadmisible toda comunicación anónima o que constituya un abuso del derecho de presentarlas.",
+        "b": "El Comité no examinará ninguna comunicación de una persona sin cerciorarse de que ha agotado los recursos de la jurisdicción interna disponibles.",
+        "c": "El Comité examinará una comunicación individual aunque la misma cuestión esté siendo examinada simultáneamente según otro procedimiento de investigación internacional.",
+        "d": "El Comité celebrará sus sesiones a puerta cerrada cuando examine las comunicaciones previstas en este artículo."
+      },
+      "correct": "c",
+      "explicacion": "Convención contra la Tortura.\nArtículo 22.5.a: el Comité NO examinará ninguna comunicación de una persona a menos que se haya cerciorado de que la misma cuestión no ha sido, ni está siendo, examinada según otro procedimiento de investigación o solución internacional.",
+      "ley": "Artículo 22 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_02_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Otros tratos o penas crueles, inhumanos o degradantes. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Convención únicamente regula la tortura en sentido estricto, sin extender ninguna obligación a otros tratos crueles, inhumanos o degradantes.",
+        "b": "Las obligaciones de educación, examen sistemático e investigación previstas para la tortura no resultan aplicables a estos otros tratos.",
+        "c": "Esta obligación sólo opera cuando el acto sea cometido por un particular sin relación alguna con la función pública.",
+        "d": "Todo Estado Parte se comprometerá a prohibir en cualquier territorio bajo su jurisdicción otros actos que constituyan tratos o penas crueles, inhumanos o degradantes que no lleguen a ser tortura, cometidos por un funcionario público."
+      },
+      "correct": "d",
+      "explicacion": "Convención contra la Tortura.\nArtículo 16.1: todo Estado Parte se comprometerá a prohibir otros actos que constituyan tratos o penas crueles, inhumanos o degradantes que no lleguen a ser tortura, cuando sean cometidos por un funcionario público u otra persona en ejercicio de funciones oficiales; se aplicarán, en particular, las obligaciones de los artículos 10, 11, 12 y 13.",
+      "ley": "Artículo 16 de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes"
+    },
+    {
+      "id": "tema_01_test_02_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Objeto del Protocolo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El objetivo del Protocolo es establecer un sistema de visitas periódicas a cargo de órganos internacionales y nacionales independientes a los lugares en que se encuentren personas privadas de libertad.",
+        "b": "El objetivo del Protocolo es sustituir al Comité contra la Tortura por un órgano exclusivamente nacional.",
+        "c": "El Protocolo se limita a regular el procedimiento de comunicaciones individuales ante el Comité contra la Tortura.",
+        "d": "El Protocolo tiene por único objeto la abolición de la pena de muerte en los Estados Parte."
+      },
+      "correct": "a",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 1: el objetivo del presente Protocolo es establecer un sistema de visitas periódicas a cargo de órganos internacionales y nacionales independientes a los lugares en que se encuentren personas privadas de su libertad, con el fin de prevenir la tortura.",
+      "ley": "Artículo 1 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_02_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Subcomité para la Prevención. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Subcomité para la Prevención de la Tortura estará compuesto de diez miembros, número que aumentará a veinticinco tras la quincuagésima ratificación.",
+        "b": "El Subcomité para la Prevención se guiará por los principios de publicidad, mayoría simple, no selectividad y objetividad.",
+        "c": "Los miembros del Subcomité para la Prevención ejercerán sus funciones a título personal, con independencia e imparcialidad.",
+        "d": "El Subcomité no podrá tener dos miembros de la misma nacionalidad."
+      },
+      "correct": "b",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 2.3: el Subcomité para la Prevención se guiará por los principios de CONFIDENCIALIDAD, imparcialidad, no selectividad, universalidad y objetividad (no de publicidad ni mayoría simple).",
+      "ley": "Artículo 2 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_02_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Mecanismo nacional de prevención. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La creación de un mecanismo nacional de prevención es potestativa y queda a la entera discreción de cada Estado.",
+        "b": "Los mecanismos nacionales de prevención dependen jerárquicamente del Subcomité para la Prevención de Naciones Unidas.",
+        "c": "Cada Estado Parte establecerá, designará o mantendrá, a nivel nacional, uno o varios órganos de visitas para la prevención de la tortura.",
+        "d": "El mecanismo nacional de prevención sólo puede ser creado por ley orgánica, nunca designado entre instituciones ya existentes."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 3: cada Estado Parte establecerá, designará o mantendrá, a nivel nacional, uno o varios órganos de visitas para la prevención de la tortura y otros tratos o penas crueles, inhumanos o degradantes (mecanismo nacional de prevención).",
+      "ley": "Artículo 3 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_02_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Facultades de los mecanismos nacionales de prevención. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Examinar periódicamente el trato de las personas privadas de libertad en lugares de detención.",
+        "b": "Hacer recomendaciones a las autoridades competentes para mejorar el trato y las condiciones de las personas privadas de libertad.",
+        "c": "Mantener contactos con el Subcomité para la Prevención, enviarle información y reunirse con él.",
+        "d": "Los mecanismos nacionales de prevención carecen de facultad para formular propuestas u observaciones sobre proyectos de ley en la materia."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 19.c: los mecanismos nacionales de prevención SÍ tienen como facultad mínima hacer propuestas y observaciones acerca de la legislación vigente o de los proyectos de ley en la materia.",
+      "ley": "Artículo 19 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_02_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Visitas del Subcomité para la Prevención. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las visitas serán realizadas por dos miembros como mínimo del Subcomité para la Prevención, que podrán ir acompañados de expertos.",
+        "b": "Las visitas únicamente podrán ser realizadas por un solo miembro del Subcomité, sin acompañamiento alguno.",
+        "c": "El Estado visitado no podrá oponerse en ningún caso a la inclusión de un experto concreto en la visita.",
+        "d": "Sólo podrá oponerse a una visita por razones de coste económico de su organización."
+      },
+      "correct": "a",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 13.3: las visitas serán realizadas por DOS miembros como mínimo del Subcomité para la Prevención, que podrán ir acompañados de expertos; el Estado podrá oponerse a un experto concreto, no por razones económicas sino conforme al procedimiento previsto.",
+      "ley": "Artículo 13 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_02_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Composición del Tribunal Europeo de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Tribunal se compondrá de un número fijo de veintisiete Jueces, independientemente del número de Altas Partes.",
+        "b": "El Tribunal se compondrá de un número de Jueces igual al de las Altas Partes Contratantes.",
+        "c": "Podrá haber dos Jueces de la misma Alta Parte Contratante si ambos reúnen los requisitos exigidos.",
+        "d": "Los Jueces del Tribunal son designados directamente por el Comité de Ministros sin intervención de la Asamblea Parlamentaria."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 20: el Tribunal se compondrá de un número de Jueces igual al de las Altas Partes Contratantes.\nArtículo 22: los Jueces serán elegidos por la Asamblea Parlamentaria.",
+      "ley": "Artículos 20 y 22 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_02_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Mandato de los Jueces. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Jueces serán elegidos por un período de nueve años y no serán reelegibles.",
+        "b": "Los Jueces permanecerán en sus funciones hasta su sustitución, continuando con los asuntos que tengan ya asignados.",
+        "c": "Los Jueces serán elegidos por un período de seis años, con posibilidad de una única reelección.",
+        "d": "Un Juez sólo podrá ser relevado de sus funciones si los demás Jueces decidan, por mayoría de dos tercios, que ha dejado de reunir las condiciones requeridas."
+      },
+      "correct": "c",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 23.1: los Jueces serán elegidos por un período de NUEVE años. NO serán reelegibles.",
+      "ley": "Artículo 23 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_02_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Demandas individuales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las demandas individuales únicamente podrán ser presentadas por Estados, nunca por particulares.",
+        "b": "Las organizaciones no gubernamentales carecen de legitimación para presentar demandas ante el Tribunal.",
+        "c": "El Tribunal exige que el demandante individual cuente con representación diplomática de su Estado de origen.",
+        "d": "El Tribunal podrá conocer de una demanda presentada por cualquier persona física, organización no gubernamental o grupo de particulares que se considere víctima de una violación del Convenio."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 34: el Tribunal podrá conocer de una demanda presentada por cualquier persona física, organización no gubernamental o grupo de particulares que se considere víctima de una violación de los derechos reconocidos en el Convenio.",
+      "ley": "Artículo 34 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_02_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Condiciones de admisibilidad de las demandas individuales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal admitirá las demandas anónimas siempre que el demandante acredite haber agotado los recursos internos.",
+        "b": "Al Tribunal no podrá recurrirse sino después de agotar las vías de recurso internas, en el plazo de cuatro meses desde la resolución interna definitiva.",
+        "c": "El Tribunal declarará inadmisible la demanda si es incompatible con las disposiciones del Convenio, manifiestamente mal fundada o abusiva.",
+        "d": "El Tribunal podrá declarar inadmisible la demanda si el demandante no ha sufrido un perjuicio importante."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 35.2.a: el Tribunal NO admitirá ninguna demanda individual cuando sea ANÓNIMA, sin que el agotamiento de recursos internos subsane este defecto.",
+      "ley": "Artículo 35 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_02_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Disposiciones generales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo carece de competencias en materia de prevención de la tortura, que corresponden en exclusiva al Ministerio del Interior.",
+        "b": "El Defensor del Pueblo ejercerá las funciones de Mecanismo Nacional de Prevención de la Tortura previstas en el Protocolo facultativo de la Convención contra la Tortura.",
+        "c": "El Defensor del Pueblo estará sujeto a mandato imperativo de las Cortes Generales en el ejercicio de sus funciones.",
+        "d": "El Defensor del Pueblo recibirá instrucciones del Gobierno para la supervisión de la actividad de la Administración."
+      },
+      "correct": "b",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 1.\n2. El Defensor del Pueblo ejercerá las funciones de Mecanismo Nacional de Prevención de la Tortura, previstas en el Protocolo facultativo de la Convención contra la tortura.\n3. El Defensor del Pueblo no estará sujeto a mandato imperativo alguno ni recibirá instrucciones de ninguna autoridad.",
+      "ley": "Artículo 1 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_02_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Consejo Asesor del Mecanismo Nacional de Prevención de la Tortura. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo Asesor estará integrado exclusivamente por el Defensor del Pueblo y el Secretario General.",
+        "b": "Los Vocales del Consejo Asesor serán designados para un período de seis años, renovables por tercios.",
+        "c": "El Consejo Asesor estará integrado por los Adjuntos del Defensor del Pueblo, como miembros natos, además de por un máximo de diez Vocales.",
+        "d": "El Consejo Asesor del Mecanismo Nacional de Prevención se reunirá, al menos, cuatro veces al año."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 19.2: el Consejo Asesor estará integrado por los Adjuntos del Defensor del Pueblo, como miembros natos, además de por un máximo de 10 Vocales.\nArtículo 20.1: los Vocales serán designados para un período de CUATRO años, renovándose por mitades cada dos.\nArtículo 21.1: el Consejo se reunirá, al menos, DOS veces al año.",
+      "ley": "Artículos 19, 20 y 21 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_02_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Funciones del Consejo Asesor del Mecanismo Nacional de Prevención. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Realizar propuestas sobre visitas a lugares donde se hallen personas privadas de libertad.",
+        "b": "Evacuar los informes que el Defensor del Pueblo le solicite sobre la normativa de relevancia para la situación de las personas privadas de libertad.",
+        "c": "Proponer programas de formación y cursos de especialización en materia de prevención de la tortura.",
+        "d": "Será función del Consejo Asesor resolver con carácter ejecutivo las quejas individuales presentadas por personas privadas de libertad."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 22: las funciones del Consejo Asesor son de propuesta, informe y seguimiento (visitas, normativa, formación, seguimiento de informes); no incluyen la resolución ejecutiva de quejas individuales, que corresponde al Defensor del Pueblo y sus Adjuntos conforme al artículo 12.",
+      "ley": "Artículo 22 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 15",
+  "preguntas": [
+    {
+      "id": "tema_01_test_15_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.",
+        "b": "La Declaración considera a la familia una institución de naturaleza meramente contractual, sin protección especial del Estado.",
+        "c": "El matrimonio reconocido en la Declaración no exige el consentimiento de ambos contrayentes.",
+        "d": "La Declaración excluye a la familia de su catálogo de derechos protegidos."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 16.3: la familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado, sin las exclusiones señaladas.",
+      "ley": "Artículo 16 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_15_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Igualdad de derechos en el matrimonio. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los hombres y las mujeres tienen iguales derechos en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.",
+        "b": "La Declaración reconoce iguales derechos en el matrimonio a hombres y mujeres, salvo en lo relativo a su disolución, ámbito reservado por la Declaración exclusivamente al marido.",
+        "c": "El matrimonio solo puede contraerse mediante libre y pleno consentimiento de los futuros esposos.",
+        "d": "Hombres y mujeres a partir de la edad núbil tienen derecho a casarse y fundar una familia, sin restricción por motivos de raza, nacionalidad o religión."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 16.1: los hombres y las mujeres tienen IGUALES derechos en cuanto al matrimonio, DURANTE el matrimonio y en caso de DISOLUCIÓN del mismo, sin la reserva señalada a favor del marido.",
+      "ley": "Artículo 16 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_15_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Composición y elección del Comité de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los miembros del Comité de Derechos Humanos son designados directamente por el Secretario General de las Naciones Unidas.",
+        "b": "La elección de los miembros del Comité se realiza por votación pública en sesión plenaria de la Asamblea General.",
+        "c": "Los miembros del Comité de Derechos Humanos serán elegidos en votación secreta de una lista de personas que reúnan las condiciones previstas, propuestas por los Estados Partes.",
+        "d": "Cada Estado Parte puede proponer un número ilimitado de candidatos al Comité de Derechos Humanos."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 30: los miembros del Comité son elegidos en VOTACIÓN SECRETA de una lista de personas propuestas por los Estados Partes, cada uno de los cuales puede proponer HASTA DOS candidatos.",
+      "ley": "Artículo 30 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_15_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Informes de los Estados Partes al Comité. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes se comprometen a presentar informes sobre las disposiciones que hayan adoptado y que den efecto a los derechos reconocidos en el Pacto.",
+        "b": "El Comité estudiará los informes presentados por los Estados Partes y transmitirá los que estime convenientes al Consejo Económico y Social.",
+        "c": "El Comité podrá transmitir a los organismos especializados los informes de los Estados Partes que sean de su competencia.",
+        "d": "Los informes de los Estados Partes al Comité de Derechos Humanos son optativos, sin que el Pacto imponga ninguna obligación de presentarlos."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 40: la presentación de informes es una OBLIGACIÓN de los Estados Partes, no una opción voluntaria.",
+      "ley": "Artículo 40 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_15_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Aplicación progresiva y medidas legislativas. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Estados Partes del Pacto se comprometen a garantizar el ejercicio de los derechos que en él se enuncian sin discriminación alguna por motivos de raza, color, sexo, idioma, religión, opinión política o de otra índole.",
+        "b": "El Pacto permite a los Estados Partes excluir de su garantía a determinados grupos por motivos de opinión política.",
+        "c": "La cláusula de no discriminación del Pacto opera únicamente respecto del derecho al trabajo, no de los demás derechos reconocidos.",
+        "d": "El Pacto no contempla ninguna cláusula general de no discriminación en el ejercicio de los derechos que reconoce."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 2.2: los Estados Partes garantizan el ejercicio de los derechos del Pacto SIN DISCRIMINACIÓN alguna, incluida la basada en opinión política, sin las exclusiones señaladas.",
+      "ley": "Artículo 2 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_15_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Examen de los informes por el Consejo Económico y Social. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes se comprometen a presentar informes sobre las medidas que hayan adoptado y los progresos realizados con el fin de asegurar el respeto a los derechos reconocidos en el Pacto.",
+        "b": "Los informes previstos en el Pacto deben presentarse de una sola vez, sin posibilidad de un programa de presentación por etapas.",
+        "c": "Estos informes se presentarán por etapas, con arreglo al programa que establezca el Consejo Económico y Social.",
+        "d": "El Consejo Económico y Social podrá transmitir a la Comisión de Derechos Humanos los informes para su estudio y recomendación general."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 17: los informes se presentan POR ETAPAS, con arreglo al programa que establezca el Consejo Económico y Social, no de una sola vez.",
+      "ley": "Artículo 17 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_15_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Examen de la labor del Consejo a los cinco años. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Resolución no prevé ningún mecanismo de revisión futura del funcionamiento del Consejo.",
+        "b": "El examen de la labor del Consejo a los cinco años corresponde realizarlo al propio Consejo, sin intervención de la Asamblea General.",
+        "c": "La Asamblea General decide examinar la labor y el funcionamiento del Consejo cinco años después de su creación, e informar al respecto a la Asamblea General.",
+        "d": "El plazo de revisión del funcionamiento del Consejo previsto en la Resolución es de diez años, no de cinco."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 16: la Asamblea General decide examinar la labor y el funcionamiento del Consejo CINCO años después de su creación.",
+      "ley": "Párrafo 16 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_15_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Sustitución de la Comisión de Derechos Humanos por el Consejo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Resolución decide establecer el Consejo de Derechos Humanos en sustitución de la Comisión de Derechos Humanos.",
+        "b": "La Comisión de Derechos Humanos fue un órgano subsidiario del Consejo Económico y Social.",
+        "c": "El Consejo de Derechos Humanos, a diferencia de la Comisión, es un órgano subsidiario de la Asamblea General.",
+        "d": "La sustitución de la Comisión por el Consejo no implicó ningún cambio en el órgano de Naciones Unidas del que dependía orgánicamente."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 1: la sustitución SÍ implicó un cambio orgánico: la antigua Comisión dependía del Consejo Económico y Social, mientras que el nuevo Consejo es órgano subsidiario de la ASAMBLEA GENERAL.",
+      "ley": "Párrafo 1 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_15_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Aplicación sin perjuicio de otros instrumentos sobre extradición o expulsión. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las disposiciones de todos los tratados y arreglos de extradición concertados entre Estados Partes con respecto a los delitos de tortura quedan modificadas entre los Estados Partes en la medida en que sean incompatibles con la Convención.",
+        "b": "La Convención deja sin efecto cualquier tratado de extradición previo entre Estados Partes, sustituyéndolo íntegramente.",
+        "c": "La Convención no afecta en absoluto a los tratados de extradición previos entre los Estados Partes.",
+        "d": "La modificación de los tratados de extradición previos solo se produce si ambos Estados lo acuerdan expresamente caso por caso."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 8.1: los tratados de extradición previos quedan MODIFICADOS entre los Estados Partes en la medida en que sean incompatibles con la Convención, sin necesidad de acuerdo expreso caso por caso ni sustitución íntegra.",
+      "ley": "Artículo 8 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_15_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Enmiendas a la Convención. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte podrá proponer una enmienda y depositarla en poder del Secretario General de las Naciones Unidas.",
+        "b": "Las enmiendas aprobadas por la conferencia de Estados Partes obligan automáticamente a todos los Estados Partes, incluso a los que no las hayan aceptado.",
+        "c": "El Secretario General comunicará las enmiendas propuestas a los Estados Partes, pidiéndoles que notifiquen si desean una conferencia para examinarlas y someterlas a votación.",
+        "d": "Las enmiendas aprobadas por la conferencia entrarán en vigor cuando hayan sido aceptadas por dos tercios de los Estados Partes."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 29: las enmiendas obligan únicamente a los Estados Partes que las hayan ACEPTADO; los demás siguen obligados por la Convención y las enmiendas anteriores que hayan aceptado.",
+      "ley": "Artículo 29 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_15_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Reservas al Protocolo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Protocolo admite reservas siempre que no afecten a las disposiciones relativas al Subcomité para la Prevención.",
+        "b": "Las reservas al Protocolo solo están permitidas respecto del mecanismo nacional de prevención.",
+        "c": "No se admitirán reservas al Protocolo Facultativo a la Convención contra la Tortura.",
+        "d": "El Protocolo no contiene ninguna disposición específica sobre reservas, aplicándose el régimen general de tratados."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 30: NO SE ADMITIRÁN reservas al Protocolo, sin las excepciones señaladas.",
+      "ley": "Artículo 30 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_15_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Entrada en vigor. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Protocolo entrará en vigor el trigésimo día a partir de la fecha en que haya sido depositado el vigésimo instrumento de ratificación o adhesión en poder del Secretario General.",
+        "b": "Para cada Estado que ratifique el Protocolo después de su entrada en vigor, éste entrará en vigor el trigésimo día a partir de la fecha en que ese Estado haya depositado su instrumento.",
+        "c": "El número de ratificaciones exigido para la entrada en vigor del Protocolo es el mismo que el exigido para la propia Convención contra la Tortura.",
+        "d": "El Protocolo entró en vigor automáticamente el mismo día que la Convención contra la Tortura, sin necesidad de ratificaciones propias."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 28: el Protocolo, como instrumento independiente, requiere SUS PROPIAS ratificaciones (vigésimo instrumento) para entrar en vigor, sin vincularse automáticamente a la entrada en vigor de la Convención.",
+      "ley": "Artículo 28 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_15_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Notificación de denuncias entre Estados. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda Alta Parte Contratante podrá denunciar el Convenio una vez transcurrido un plazo de cinco años a partir de la fecha de entrada en vigor del Convenio en lo que le concierne, y mediante un preaviso de seis meses dado al Secretario General del Consejo de Europa.",
+        "b": "El Convenio no admite la denuncia por ninguna Alta Parte Contratante en ningún momento.",
+        "c": "La denuncia del Convenio puede realizarse en cualquier momento, sin plazo mínimo ni preaviso alguno.",
+        "d": "La denuncia exime a la Alta Parte denunciante de cualquier obligación respecto de actos anteriores a la fecha de efecto de la denuncia."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 58: la denuncia exige un plazo mínimo de CINCO años desde la entrada en vigor y un preaviso de SEIS meses; no exime de las obligaciones por actos anteriores a la fecha de efecto.",
+      "ley": "Artículo 58 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_15_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Ámbito de aplicación territorial. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Cualquier Estado podrá declarar, en el momento de la ratificación o en cualquier otro momento posterior, que el Convenio se aplicará a todos los territorios o a algunos de ellos cuyos intereses internacionales asuma.",
+        "b": "El Convenio Europeo de Derechos Humanos se aplica automáticamente, sin declaración alguna, a todos los territorios cuyos intereses internacionales asuma cualquier Alta Parte Contratante.",
+        "c": "El Convenio podrá aplicarse a dichos territorios teniendo en cuenta las necesidades locales.",
+        "d": "Las disposiciones de este artículo permiten una aplicación territorial diferenciada del Convenio en función de las necesidades locales."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 56: la aplicación territorial del Convenio a territorios cuyos intereses internacionales asuma un Estado requiere DECLARACIÓN EXPRESA, no es automática.",
+      "ley": "Artículo 56 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_15_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Comisión Mixta Congreso-Senado de relaciones con el Defensor del Pueblo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las relaciones entre el Defensor del Pueblo y las Cortes Generales se canalizan exclusivamente a través del Pleno del Congreso de los Diputados, sin Comisión específica.",
+        "b": "La Comisión Mixta de relaciones con el Defensor del Pueblo carece de cualquier función respecto del informe anual de la Institución.",
+        "c": "Existe una Comisión Mixta Congreso-Senado para las relaciones con el Defensor del Pueblo, ante la cual éste da cuenta de su gestión anual.",
+        "d": "El Reglamento no prevé ningún cauce institucional específico de relación entre el Defensor del Pueblo y las Cortes Generales."
+      },
+      "correct": "c",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nExiste una COMISIÓN MIXTA Congreso-Senado de relaciones con el Defensor del Pueblo, ante la que éste presenta su informe anual.",
+      "ley": "Artículo 11 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_15_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Carácter gratuito de la intervención del Defensor del Pueblo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Todas las actuaciones que se sigan ante el Defensor del Pueblo serán gratuitas para el interesado.",
+        "b": "No será preceptiva la intervención de Abogado ni de Procurador para comparecer ante el Defensor del Pueblo.",
+        "c": "La gratuidad de las actuaciones ante el Defensor del Pueblo constituye una garantía de accesibilidad a la Institución.",
+        "d": "Para presentar una queja ante el Defensor del Pueblo es preceptiva la intervención de Abogado, debiendo el interesado sufragar sus honorarios."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo (en relación con la Ley Orgánica 3/1981).\nLas actuaciones ante el Defensor del Pueblo son GRATUITAS y NO requieren Abogado ni Procurador, sin la exigencia y coste descritos.",
+      "ley": "Artículo 15 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo, en relación con la Ley Orgánica 3/1981"
+    },
+    {
+      "id": "tema_01_test_15_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la educación, que será gratuita al menos en lo concerniente a la instrucción elemental y fundamental.",
+        "b": "La Declaración considera la educación superior como gratuita y obligatoria en igual medida que la elemental.",
+        "c": "La instrucción técnica y profesional reconocida en la Declaración debe ser exclusivamente de pago.",
+        "d": "El acceso a los estudios superiores reconocido en la Declaración no atiende al mérito."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 26.1: la educación será gratuita, al menos en lo concerniente a la instrucción elemental y fundamental; la instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los MÉRITOS respectivos.",
+      "ley": "Artículo 26 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_15_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Cláusula federal. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En los Estados federales, el gobierno federal de un Estado Parte en el Pacto es responsable del cumplimiento de todas las disposiciones del Pacto.",
+        "b": "El Pacto exime a los Estados federales de cualquier responsabilidad por el cumplimiento del Pacto en las entidades que los componen.",
+        "c": "Las disposiciones pertinentes del Pacto se harán extensivas a las unidades que componen los Estados federales.",
+        "d": "El gobierno federal informará a las autoridades competentes de las entidades constituyentes acerca de las disposiciones del Pacto, con miras a la adopción de las medidas oportunas."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 50: las disposiciones del Pacto son aplicables a TODAS las partes de los Estados federales, sin la exención de responsabilidad señalada.",
+      "ley": "Artículo 50 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_15_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Cláusula federal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite a los Estados federales excluir de su aplicación a determinadas unidades territoriales que lo compongan.",
+        "b": "La aplicación del Pacto en Estados federales queda condicionada a la previa armonización legislativa entre todas sus unidades.",
+        "c": "Las disposiciones del Pacto serán aplicables, sin limitación ni excepción alguna, a todas las unidades que componen los Estados federales.",
+        "d": "El Pacto no contiene ninguna previsión específica sobre su aplicación en Estados de estructura federal."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 28: las disposiciones del Pacto serán aplicables, SIN LIMITACIÓN NI EXCEPCIÓN ALGUNA, a todas las unidades que componen los Estados federales.",
+      "ley": "Artículo 28 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_15_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Protección de la propiedad (Protocolo adicional nº 1, en relación con el sistema del Convenio). Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El sistema del Convenio Europeo se completa con una serie de Protocolos adicionales que amplían el catálogo de derechos protegidos más allá de los Títulos I y II del texto original.",
+        "b": "Algunos de estos Protocolos son de ratificación facultativa para las Altas Partes Contratantes.",
+        "c": "Los Protocolos adicionales al Convenio pueden incorporar derechos no contemplados originalmente, como la abolición de la pena de muerte.",
+        "d": "Ningún Protocolo adicional al Convenio Europeo de Derechos Humanos puede ampliar el catálogo de derechos protegidos respecto del texto original de 1950."
+      },
+      "correct": "d",
+      "explicacion": "Convenio Europeo de Derechos Humanos y Protocolos adicionales.\nLos Protocolos SÍ amplían el catálogo de derechos protegidos respecto del texto original (por ejemplo, Protocolo nº 6 y nº 13 sobre abolición de la pena de muerte), sin la limitación señalada.",
+      "ley": "Protocolos adicionales al Convenio Europeo de Derechos Humanos"
+    }
+  ]
+}

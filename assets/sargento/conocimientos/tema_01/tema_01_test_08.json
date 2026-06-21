@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Derechos Humanos",
+  "test": "Test 8",
+  "preguntas": [
+    {
+      "id": "tema_01_test_08_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "b": "La prohibición de tratos crueles admite excepciones cuando el detenido haya cometido delitos graves.",
+        "c": "Esta prohibición solo protege a los nacionales del Estado donde se produzca el trato.",
+        "d": "La Declaración condiciona esta prohibición a la previa declaración de un estado de excepción."
+      },
+      "correct": "a",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 5: nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes, sin excepción por la gravedad del delito ni por la nacionalidad de la persona.",
+      "ley": "Artículo 5 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_08_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Declaración Universal de Derechos Humanos. Derecho de petición y participación. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a tomar parte en el gobierno de su país, directamente o por medio de representantes libremente escogidos.",
+        "b": "El derecho a tomar parte en el gobierno reconocido en la Declaración solo puede ejercerse mediante representantes, nunca de forma directa.",
+        "c": "Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas de su país.",
+        "d": "Estos derechos forman parte del catálogo de derechos políticos reconocidos en la Declaración."
+      },
+      "correct": "b",
+      "explicacion": "Declaración Universal de Derechos Humanos.\nArtículo 21.1: el derecho a tomar parte en el gobierno puede ejercerse DIRECTAMENTE o por medio de representantes, sin que se excluya la participación directa.",
+      "ley": "Artículo 21 de la Declaración Universal de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_08_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Sufragio. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto permite restringir el sufragio por motivos de opinión política sin que ello se considere una restricción indebida.",
+        "b": "El derecho a votar reconocido en el Pacto no exige que el voto sea secreto.",
+        "c": "Todos los ciudadanos gozarán, sin restricciones indebidas, del derecho a votar y ser elegidos en elecciones periódicas, auténticas, realizadas por sufragio universal e igual y por voto secreto.",
+        "d": "El Pacto no establece ninguna periodicidad para la celebración de elecciones."
+      },
+      "correct": "c",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 25: todos los ciudadanos gozarán, SIN RESTRICCIONES INDEBIDAS, del derecho a votar y ser elegidos en elecciones periódicas y auténticas, por sufragio universal e igual y por voto secreto.",
+      "ley": "Artículo 25 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_08_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Civiles y Políticos. Comité de Derechos Humanos: requisitos de los miembros. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los miembros del Comité deberán ser personas de gran integridad moral, con reconocida competencia en materia de derechos humanos.",
+        "b": "Se tendrá en cuenta la utilidad de la participación de algunas personas que tengan experiencia jurídica.",
+        "c": "Los miembros del Comité serán elegidos entre los nacionales de los Estados Partes en el Pacto.",
+        "d": "El Comité podrá estar compuesto por personas que no sean nacionales de ningún Estado Parte en el Pacto."
+      },
+      "correct": "d",
+      "explicacion": "Pacto Internacional de Derechos Civiles y Políticos.\nArtículo 28.2: los miembros del Comité serán elegidos entre NACIONALES DE LOS ESTADOS PARTES en el Pacto.",
+      "ley": "Artículo 28 del Pacto Internacional de Derechos Civiles y Políticos"
+    },
+    {
+      "id": "tema_01_test_08_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Niveles de vida y mejora continua. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Estados Partes reconocen el derecho de toda persona a una mejora continua de las condiciones de existencia.",
+        "b": "El Pacto reconoce el derecho a un nivel de vida adecuado, pero no contempla su mejora progresiva en el tiempo.",
+        "c": "Este derecho queda limitado a la vivienda, excluyendo la alimentación y el vestido.",
+        "d": "El Pacto condiciona el reconocimiento de este derecho a la previa erradicación completa del hambre en el Estado."
+      },
+      "correct": "a",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 11.1: los Estados Partes reconocen el derecho de toda persona a un nivel de vida adecuado y a una MEJORA CONTINUA de las condiciones de existencia.",
+      "ley": "Artículo 11 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_08_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Informes de los Estados Partes. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Estados Partes se comprometen a presentar informes sobre las medidas adoptadas y los progresos realizados con el fin de asegurar el respeto a los derechos reconocidos en el Pacto.",
+        "b": "Los informes previstos en el Pacto son confidenciales y no pueden transmitirse a ningún organismo especializado de Naciones Unidas.",
+        "c": "Dichos informes se presentarán al Secretario General de las Naciones Unidas, quien transmitirá copias al Consejo Económico y Social.",
+        "d": "El Secretario General también transmitirá a los organismos especializados las partes de los informes que les correspondan."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 16: los informes se presentan al Secretario General, que los transmite al Consejo Económico y Social y, en lo pertinente, a los organismos especializados; no son confidenciales en ese sentido.",
+      "ley": "Artículo 16 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_08_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Reglamento y prácticas del Consejo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Consejo carece de cualquier reglamento o práctica de referencia y opera sin reglas preestablecidas.",
+        "b": "El reglamento del Consejo de Derechos Humanos es idéntico, sin matización alguna, al de la Asamblea General en sesión plenaria.",
+        "c": "El Consejo aplicará, en lo que proceda, el reglamento aprobado para las comisiones orgánicas del Consejo Económico y Social, así como las prácticas observadas por la Comisión de Derechos Humanos.",
+        "d": "La Resolución prohíbe expresamente al Consejo seguir ninguna práctica heredada de la Comisión de Derechos Humanos."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 9: el Consejo aplicará, en lo que proceda, el reglamento aprobado para las comisiones orgánicas del Consejo Económico y Social, salvo decisión en contrario de la Asamblea, así como las prácticas observadas por la Comisión de Derechos Humanos.",
+      "ley": "Párrafo 9 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_08_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Decisión sobre nuevos mandatos. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Decide que el Consejo asuma todos los mandatos, mecanismos, funciones y atribuciones de la Comisión de Derechos Humanos.",
+        "b": "Decide que el primer período de sesiones del Consejo se celebrara en junio de 2006.",
+        "c": "Decide examinar la labor y el funcionamiento del Consejo cinco años después de su creación.",
+        "d": "Decide que el Consejo celebre su primer examen periódico universal antes de que finalice su primer año de funcionamiento, sin excepción posible."
+      },
+      "correct": "d",
+      "explicacion": "Resolución 60/251.\nPárrafo 16: la Resolución no impone un examen periódico universal dentro del primer año; remite su desarrollo a un mecanismo a definir, y prevé revisar la labor del Consejo a los CINCO años de su creación.",
+      "ley": "Párrafos 15 y 16 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_08_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Detención del presunto delincuente. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Todo Estado Parte en cuyo territorio se encuentre la persona de la que se supone ha cometido un delito de tortura procederá a su detención o tomará otras medidas legales para asegurar su presencia, tras examinar la información disponible.",
+        "b": "La Convención excluye cualquier medida cautelar sobre el presunto autor de un delito de tortura mientras no exista sentencia firme.",
+        "c": "El Estado Parte solo puede actuar contra el presunto delincuente si éste es nacional del propio Estado.",
+        "d": "La Convención no prevé ninguna obligación de los Estados Partes respecto del presunto delincuente hallado en su territorio."
+      },
+      "correct": "a",
+      "explicacion": "Convención contra la Tortura.\nArtículo 6.1: todo Estado Parte en cuyo territorio se encuentre el presunto delincuente procederá a su detención o tomará otras medidas legales para asegurar su presencia, tras examinar la información disponible.",
+      "ley": "Artículo 6 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_08_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convención contra la Tortura. Procedimiento de investigación de oficio del Comité. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Si el Comité recibe información fiable que parezca indicar de forma fundamentada que se practica sistemáticamente la tortura en el territorio de un Estado Parte, podrá invitarlo a cooperar en el examen de la información.",
+        "b": "El procedimiento de investigación de oficio del Comité es de aplicación automática y obligatoria para todos los Estados Partes, sin posibilidad de exclusión.",
+        "c": "El Comité podrá designar a uno o varios de sus miembros para que realicen una investigación confidencial e informen urgentemente.",
+        "d": "Dicha investigación podrá incluir una visita al territorio del Estado afectado, con su acuerdo."
+      },
+      "correct": "b",
+      "explicacion": "Convención contra la Tortura.\nArtículo 28: cada Estado Parte podrá, al ratificar la Convención, declarar que NO RECONOCE la competencia del Comité prevista en el artículo 20 (investigación de oficio), por lo que no es de aplicación automática para todos.",
+      "ley": "Artículos 20 y 28 de la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_08_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Datos a proporcionar por el Estado sobre el mecanismo nacional. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los informes de los mecanismos nacionales de prevención tienen carácter secreto y no pueden difundirse bajo ninguna circunstancia.",
+        "b": "El Protocolo no exige a los Estados Partes ninguna actuación respecto de los informes de sus mecanismos nacionales.",
+        "c": "Los Estados Partes se comprometen a publicar y difundir los informes anuales de los mecanismos nacionales de prevención.",
+        "d": "La difusión de los informes del mecanismo nacional queda a la libre discreción de cada Estado, sin compromiso alguno."
+      },
+      "correct": "c",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 23: los Estados Partes SE COMPROMETEN a publicar y difundir los informes anuales de los mecanismos nacionales de prevención.",
+      "ley": "Artículo 23 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_08_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Protocolo Facultativo a la Convención contra la Tortura. Fondo Especial. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Se establecerá un Fondo Especial de conformidad con los procedimientos pertinentes de la Asamblea General, que se administrará con arreglo al reglamento financiero y la reglamentación financiera de Naciones Unidas.",
+        "b": "Los recursos del Fondo Especial podrán utilizarse para ayudar a financiar la aplicación de las recomendaciones del Subcomité tras una visita.",
+        "c": "También podrán utilizarse para financiar programas de educación de los mecanismos nacionales de prevención.",
+        "d": "El Fondo Especial previsto en el Protocolo se nutre exclusivamente de cuotas obligatorias de los Estados Partes, sin admitir contribuciones voluntarias."
+      },
+      "correct": "d",
+      "explicacion": "Protocolo Facultativo a la Convención contra la Tortura.\nArtículo 26: el Fondo Especial se nutre de CONTRIBUCIONES VOLUNTARIAS de gobiernos, organizaciones y otras entidades privadas o públicas, no de cuotas obligatorias.",
+      "ley": "Artículo 26 del Protocolo Facultativo a la Convención contra la Tortura"
+    },
+    {
+      "id": "tema_01_test_08_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Prohibición de la esclavitud y del trabajo forzado. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser sometido a esclavitud ni a servidumbre.",
+        "b": "El Convenio admite la esclavitud cuando derive de una relación contractual libremente asumida por ambas partes.",
+        "c": "La prohibición de trabajo forzado del Convenio no incluye la prohibición de la servidumbre.",
+        "d": "Esta prohibición solo se aplica a los nacionales de las Altas Partes Contratantes."
+      },
+      "correct": "a",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 4.1: nadie podrá ser sometido a esclavitud ni a servidumbre, sin las excepciones o limitaciones señaladas.",
+      "ley": "Artículo 4 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_08_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. No hay pena sin ley. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Nadie podrá ser condenado por una acción u omisión que, en el momento en que haya sido cometida, no constituya una infracción según el derecho nacional o internacional.",
+        "b": "El principio de legalidad penal del Convenio admite la aplicación retroactiva de cualquier ley penal, sin excepción, cuando el Estado lo considere de interés general.",
+        "c": "Tampoco podrá imponerse una pena más grave que la aplicable en el momento en que la infracción haya sido cometida.",
+        "d": "Este artículo no impedirá el juicio y el castigo de una persona culpable de una acción u omisión que, en el momento de cometerse, fuera delictiva según los principios generales del derecho reconocidos por las naciones civilizadas."
+      },
+      "correct": "b",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nArtículo 7: consagra el principio de legalidad penal (nulla poena sine lege) sin la excepción retroactiva genérica descrita; solo se exceptúan los delitos conforme a los principios generales del derecho reconocidos por las naciones civilizadas.",
+      "ley": "Artículo 7 del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_08_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1. Derechos Humanos. Convenio Europeo de Derechos Humanos. Derecho a la libertad de circulación (Protocolo aparte aludido en el temario como parte del Convenio consolidado). Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Convenio Europeo de Derechos Humanos fue adoptado en Estrasburgo en 1959.",
+        "b": "El Convenio Europeo de Derechos Humanos carece de fecha de adopción determinada.",
+        "c": "El Convenio Europeo de Derechos Humanos fue adoptado en Roma el 4 de noviembre de 1950.",
+        "d": "El Convenio Europeo de Derechos Humanos fue adoptado en 1948, el mismo año que la Declaración Universal."
+      },
+      "correct": "c",
+      "explicacion": "Convenio Europeo de Derechos Humanos.\nPreámbulo y fecha de adopción: el Convenio fue firmado en ROMA el 4 de noviembre de 1950, entrando en vigor en 1953.",
+      "ley": "Preámbulo del Convenio Europeo de Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_08_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Naturaleza de la Institución. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo es el Alto Comisionado de las Cortes Generales designado para la defensa de los derechos comprendidos en el Título I de la Constitución.",
+        "b": "El Defensor del Pueblo supervisa la actividad de la Administración, dando cuenta a las Cortes Generales.",
+        "c": "El Defensor del Pueblo ejerce sus funciones con plena autonomía, sin estar sujeto a mandato imperativo.",
+        "d": "El Defensor del Pueblo forma parte de la estructura orgánica del Poder Judicial, bajo la dependencia del Tribunal Supremo."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 1: el Defensor del Pueblo es el Alto Comisionado de las CORTES GENERALES, no del Poder Judicial, para la defensa de los derechos del Título I CE, con autonomía y sin mandato imperativo.",
+      "ley": "Artículo 1 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_08_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Personal de la Institución. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El personal al servicio de la Institución del Defensor del Pueblo se regirá por un Estatuto propio, aprobado por las Mesas del Congreso y del Senado.",
+        "b": "El personal de la Institución se rige, sin ninguna especialidad, por el Estatuto Básico del Empleado Público de forma directa.",
+        "c": "La Institución carece de potestad para elaborar un Estatuto propio de personal.",
+        "d": "El Estatuto de personal de la Institución lo aprueba directamente el Gobierno mediante real decreto."
+      },
+      "correct": "a",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 10: el personal al servicio de la Institución se rige por un ESTATUTO PROPIO, aprobado por las Mesas del Congreso y del Senado a propuesta del Defensor del Pueblo.",
+      "ley": "Artículo 10 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    },
+    {
+      "id": "tema_01_test_08_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Pacto Internacional de Derechos Económicos, Sociales y Culturales. Derecho a fundar federaciones sindicales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Pacto prohíbe a los sindicatos nacionales afiliarse a organizaciones sindicales internacionales.",
+        "b": "Los sindicatos tienen derecho a fundar federaciones o confederaciones nacionales y éstas a fundar organizaciones sindicales internacionales o a afiliarse a las mismas.",
+        "c": "El derecho de fundar federaciones sindicales se limita al ámbito estrictamente nacional, sin proyección internacional.",
+        "d": "Las federaciones sindicales solo pueden constituirse con autorización previa de la organización internacional del trabajo correspondiente."
+      },
+      "correct": "b",
+      "explicacion": "Pacto Internacional de Derechos Económicos, Sociales y Culturales.\nArtículo 8.1.b: los sindicatos tienen derecho a fundar federaciones o confederaciones nacionales y éstas a fundar organizaciones sindicales internacionales o a afiliarse a las mismas, sin las restricciones señaladas.",
+      "ley": "Artículo 8 del Pacto Internacional de Derechos Económicos, Sociales y Culturales"
+    },
+    {
+      "id": "tema_01_test_08_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1. Derechos Humanos. Resolución 60/251. Carácter del Consejo en su relación con otros órganos de Naciones Unidas. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Consejo trabajará en estrecha cooperación en la esfera de los derechos humanos con los gobiernos, las organizaciones regionales, las instituciones nacionales de derechos humanos y la sociedad civil.",
+        "b": "El Consejo deberá contribuir, mediante el diálogo y la cooperación, a prevenir las violaciones de los derechos humanos.",
+        "c": "El Consejo tiene expresamente vedada cualquier forma de diálogo o cooperación con instituciones nacionales de derechos humanos.",
+        "d": "El Consejo deberá responder con prontitud a las situaciones de emergencia en materia de derechos humanos."
+      },
+      "correct": "c",
+      "explicacion": "Resolución 60/251.\nPárrafo 4 y párrafo 5: el Consejo SÍ trabajará en estrecha cooperación con instituciones nacionales de derechos humanos, gobiernos y sociedad civil, contribuyendo a prevenir violaciones y responder a emergencias.",
+      "ley": "Párrafo 5 de la Resolución 60/251 de la Asamblea General de Naciones Unidas"
+    },
+    {
+      "id": "tema_01_test_08_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1. Derechos Humanos. Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Sede de la Institución. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Defensor del Pueblo solo puede actuar dentro de la sede de la Institución en Madrid, sin desplazarse a otros territorios.",
+        "b": "La sede del Defensor del Pueblo es itinerante y cambia de comunidad autónoma cada legislatura.",
+        "c": "El Reglamento no determina ninguna sede para la Institución del Defensor del Pueblo.",
+        "d": "El Defensor del Pueblo tiene su sede en Madrid, si bien podrá constituirse en cualquier parte del territorio nacional para el mejor cumplimiento de sus funciones."
+      },
+      "correct": "d",
+      "explicacion": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo.\nArtículo 1.4 (Disposiciones Generales): el Defensor del Pueblo tiene su sede en MADRID, pudiendo constituirse en cualquier parte del territorio nacional para el mejor cumplimiento de sus funciones.",
+      "ley": "Artículo 1 del Reglamento de Organización y Funcionamiento del Defensor del Pueblo"
+    }
+  ]
+}
