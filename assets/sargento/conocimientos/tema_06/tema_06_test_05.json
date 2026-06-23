@@ -1,0 +1,307 @@
+{
+  "tema_numero": 6,
+  "tema": "Tema 6 - Poder Judicial",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_06_test_05_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 101 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El mandato de los Jueces de Paz dura diez años improrrogables",
+        "b": "Los Jueces de Paz son nombrados directamente por el Ministerio de Justicia sin intervención municipal",
+        "c": "Si el Ayuntamiento no propone candidato, el cargo queda vacante indefinidamente sin que nadie pueda designarlo",
+        "d": "Los Jueces de Paz son elegidos por el Pleno del Ayuntamiento con el voto favorable de la mayoría absoluta de sus miembros"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 101 LOPJ regula el nombramiento de los Jueces de Paz y sus sustitutos por un periodo de cuatro años, mediante designación de la Sala de Gobierno del Tribunal Superior de Justicia sobre la persona elegida por el Pleno del Ayuntamiento por mayoría absoluta; si el Ayuntamiento no propone en tres meses, la propia Sala de Gobierno procede a la designación.",
+      "ley": "Art. 101 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 99 y 100 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Jueces de Paz conocen en el orden civil y penal de los asuntos que la ley les atribuya",
+        "b": "Los Jueces de Paz carecen de cualquier competencia penal, por mínima que sea",
+        "c": "En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción habrá un Juzgado de Paz",
+        "d": "Los Jueces de Paz cumplen también funciones de Registro Civil"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 99 y 100 LOPJ disponen que existirá un Juzgado de Paz en cada municipio que no cuente con Juzgado de Primera Instancia e Instrucción, con jurisdicción en el término municipal, conociendo sus titulares en el orden civil y penal de los asuntos que la ley les atribuya y desempeñando también funciones de Registro Civil.",
+      "ley": "Arts. 99 y 100 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 398 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "No existe obligación de comunicar la detención de un Juez a ningún órgano judicial superior",
+        "b": "Cualquier autoridad gubernativa puede ordenar la detención de un Juez sin intervención judicial",
+        "c": "Los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito",
+        "d": "La detención de Jueces y Magistrados está completamente prohibida en cualquier circunstancia"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 398 LOPJ, dentro de la inmunidad judicial, dispone que los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito, debiendo en este último caso entregarse al detenido al Juez de Instrucción más próximo y comunicarse de inmediato al Presidente del Tribunal o Audiencia de quien dependa.",
+      "ley": "Art. 398 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 80 y 81 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Cuando el escaso número de asuntos lo aconseje, la plantilla puede constar de uno a dos Magistrados incluido el Presidente",
+        "b": "Las Audiencias Provinciales se componen, como mínimo, de un Presidente y dos o más Magistrados",
+        "c": "Pueden crearse Secciones de la Audiencia Provincial fuera de la capital de la provincia",
+        "d": "Las Audiencias Provinciales tienen siempre su sede en la capital del Estado"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 80 y 81 LOPJ disponen que las Audiencias Provinciales tienen sede en la capital de provincia, pudiendo crear Secciones fuera de ella, y se componen de un Presidente y dos o más Magistrados, salvo que el escaso número de asuntos aconseje una plantilla reducida de uno o dos Magistrados, incluido el Presidente.",
+      "ley": "Arts. 80 y 81 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 61 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Esta Sala conoce de los incidentes de recusación del Presidente del Tribunal Supremo",
+        "b": "Esta Sala conoce de los recursos de revisión contra sentencias dictadas en única instancia por la Sala de lo Contencioso-Administrativo",
+        "c": "La declaración de ilegalidad y disolución de partidos políticos corresponde al Tribunal Constitucional y no a esta Sala",
+        "d": "La Sala especial del artículo 61 está formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada Sala"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 61 LOPJ regula una Sala especial, integrada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una, que conoce de recursos de revisión contra la Sala de lo Contencioso-Administrativo, de incidentes de recusación de altos cargos del Tribunal y de los procesos de ilegalización de partidos políticos, conforme a la Ley Orgánica 6/2002.",
+      "ley": "Art. 61 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 74 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Contencioso-Administrativo del TSJ conoce en segunda instancia de apelaciones contra sentencias de los Juzgados de lo Contencioso-Administrativo",
+        "b": "Esta Sala carece de competencia sobre disposiciones generales de las Entidades locales",
+        "c": "La Sala de lo Contencioso-Administrativo del TSJ conoce, en única instancia, de recursos contra actos de Entidades locales y de la Comunidad Autónoma",
+        "d": "La Sala de lo Contencioso-Administrativo del TSJ conoce de recursos contra disposiciones generales emanadas de las Comunidades Autónomas"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 74 LOPJ atribuye a la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia el conocimiento en única instancia de recursos contra actos de Entidades locales, de la Administración autonómica y contra disposiciones generales de ambas, así como las apelaciones en segunda instancia frente a los Juzgados de lo Contencioso-Administrativo.",
+      "ley": "Art. 74 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 82 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Audiencias Provinciales carecen de competencia sobre recursos de los Juzgados de Vigilancia Penitenciaria en todo caso",
+        "b": "Las Audiencias Provinciales conocen de recursos contra resoluciones de los Juzgados de Vigilancia Penitenciaria, salvo competencia de la Audiencia Nacional",
+        "c": "Las Audiencias Provinciales no pueden conocer de recursos contra Juzgados de Menores bajo ninguna circunstancia",
+        "d": "Las cuestiones de competencia penal entre Juzgados de distintas provincias las resuelve siempre la Audiencia Provincial de Madrid"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 82 LOPJ atribuye a las Audiencias Provinciales, en el orden penal, el conocimiento de causas por delito no atribuidas a otros órganos, recursos contra Juzgados de Instrucción, de lo Penal, de Vigilancia Penitenciaria y de Menores de la provincia, y cuestiones de competencia civil y penal entre Juzgados de la provincia sin superior común.",
+      "ley": "Art. 82 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 54 y 55 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Sala Primera del Tribunal Supremo es la de lo Penal",
+        "b": "El Tribunal Supremo está integrado por cuatro Salas únicamente",
+        "c": "La Sala Primera del Tribunal Supremo es la de lo Civil",
+        "d": "La Sala de lo Militar del Tribunal Supremo se rige en exclusiva por la LOPJ, sin legislación específica propia"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 54 y 55 LOPJ regulan la composición del Tribunal Supremo (Presidente, Presidentes de Sala y Magistrados) y sus cinco Salas: Primera (Civil), Segunda (Penal), Tercera (Contencioso-Administrativo), Cuarta (Social) y Quinta (Militar, con legislación específica y aplicación supletoria de la LOPJ).",
+      "ley": "Arts. 54 y 55 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 101 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Jueces de Paz y sus sustitutos son nombrados para un periodo de cuatro años por la Sala de Gobierno del Tribunal Superior de Justicia",
+        "b": "Si el Ayuntamiento no efectúa la propuesta en tres meses, la Sala de Gobierno del TSJ designa al Juez de Paz",
+        "c": "El nombramiento recae en las personas elegidas por el respectivo Ayuntamiento",
+        "d": "El mandato de los Jueces de Paz dura diez años improrrogables"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 101 LOPJ regula el nombramiento de los Jueces de Paz y sus sustitutos por un periodo de cuatro años, mediante designación de la Sala de Gobierno del Tribunal Superior de Justicia sobre la persona elegida por el Pleno del Ayuntamiento por mayoría absoluta; si el Ayuntamiento no propone en tres meses, la propia Sala de Gobierno procede a la designación.",
+      "ley": "Art. 101 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 53 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Tribunal Supremo tiene su sede en la villa de Madrid",
+        "b": "El Tribunal Supremo es superior incluso al Tribunal Constitucional en materia de garantías constitucionales",
+        "c": "El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, salvo en materia de garantías constitucionales",
+        "d": "El Tribunal Supremo tiene jurisdicción en toda España"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 53 LOPJ define al Tribunal Supremo, con sede en Madrid, como órgano jurisdiccional superior en todos los órdenes (salvo en materia de garantías constitucionales, reservada al Tribunal Constitucional), con jurisdicción en toda España y título exclusivo de Supremo.",
+      "ley": "Art. 53 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 550 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Esta garantía de no remoción cede si medió decisión o autorización del Juez o Fiscal competente",
+        "b": "La garantía de no remoción del artículo 550 LOPJ se aplica a cualquier funcionario público, no solo a los de Policía Judicial",
+        "c": "La autorización para remover a un agente de Policía Judicial en investigación corresponde siempre al Ministerio del Interior, nunca al Juez o Fiscal",
+        "d": "Los mandos policiales pueden remover libremente, sin ninguna autorización judicial, a un agente de Policía Judicial en plena investigación"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 550 LOPJ protege a los funcionarios de Policía Judicial encomendados de una actuación o investigación concreta frente a su remoción o apartamiento hasta que ésta finalice, salvo que medie decisión o autorización del Juez o Fiscal competente que dirige la investigación.",
+      "ley": "Art. 550 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 75 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Social del TSJ conoce de recursos contra resoluciones de los Juzgados de lo Social de la Comunidad Autónoma",
+        "b": "La Sala de lo Social del TSJ conoce en única instancia de procesos sobre controversias de ámbito superior a un Juzgado de lo Social y no superior a la Comunidad Autónoma",
+        "c": "La Sala de lo Social del TSJ conoce de las cuestiones de competencia entre Juzgados de lo Social de la Comunidad Autónoma",
+        "d": "Las cuestiones de competencia entre Juzgados de lo Social siempre las resuelve el Tribunal Supremo"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 75 LOPJ atribuye a la Sala de lo Social del Tribunal Superior de Justicia el conocimiento, en única instancia, de controversias laborales de ámbito superior a un Juzgado de lo Social y no superior al de la Comunidad Autónoma, de los recursos contra los Juzgados de lo Social de la Comunidad y de las cuestiones de competencia entre ellos.",
+      "ley": "Art. 75 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 54 y 55 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Sala Primera del Tribunal Supremo es la de lo Penal",
+        "b": "La Sala de lo Militar del Tribunal Supremo se rige en exclusiva por la LOPJ, sin legislación específica propia",
+        "c": "El Tribunal Supremo carece de Sala de lo Contencioso-Administrativo",
+        "d": "El Tribunal Supremo está integrado por cinco Salas"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 54 y 55 LOPJ regulan la composición del Tribunal Supremo (Presidente, Presidentes de Sala y Magistrados) y sus cinco Salas: Primera (Civil), Segunda (Penal), Tercera (Contencioso-Administrativo), Cuarta (Social) y Quinta (Militar, con legislación específica y aplicación supletoria de la LOPJ).",
+      "ley": "Arts. 54 y 55 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 78 y 79 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El número de Magistrados de un Tribunal Superior de Justicia nunca puede reducirse por ley",
+        "b": "Solo el Consejo General del Poder Judicial puede crear estas Salas excepcionales, sin necesidad de previsión legal",
+        "c": "La Ley de Planta puede reducir el número de Magistrados de un Tribunal Superior de Justicia cuando el número de asuntos lo justifique",
+        "d": "Las Salas con jurisdicción limitada a una provincia están prohibidas en todo caso por la LOPJ"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 78 y 79 LOPJ permiten, excepcionalmente, crear Salas de lo Contencioso-Administrativo o de lo Social con jurisdicción limitada a una o varias provincias de la Comunidad Autónoma, formadas como mínimo por su Presidente, y habilitan a la Ley de Planta para reducir el número de Magistrados de un Tribunal Superior de Justicia cuando el volumen de asuntos lo justifique.",
+      "ley": "Arts. 78 y 79 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 66 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional conoce en única instancia de recursos contra disposiciones de Ministros y Secretarios de Estado",
+        "b": "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional conoce en exclusiva de la casación civil",
+        "c": "Esta Sala resuelve los recursos de apelación penal contra Juzgados de Instrucción provinciales",
+        "d": "Los recursos contra resoluciones del Tribunal Económico-Administrativo Central en materia de tributos cedidos corresponden siempre a esta Sala"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 66 LOPJ atribuye a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional, entre otras materias, recursos contra disposiciones de Ministros y Secretarios de Estado, contra actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo y cuestiones de competencia entre Juzgados Centrales de lo Contencioso-Administrativo.",
+      "ley": "Art. 66 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 64 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Audiencia Nacional está integrada por la Sala de lo Penal",
+        "b": "La Audiencia Nacional está integrada por una Sala de lo Civil",
+        "c": "La Audiencia Nacional carece de Sala de Apelación",
+        "d": "La Audiencia Nacional solo tiene Sala de lo Penal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 64 LOPJ enumera las Salas de la Audiencia Nacional: de Apelación, de lo Penal, de lo Contencioso-Administrativo y de lo Social; no existe Sala de lo Civil al carecer de competencias en ese orden jurisdiccional, y pueden crearse Secciones cuando el volumen de asuntos lo aconseje.",
+      "ley": "Art. 64 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 541 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Ministerio Fiscal carece de cualquier función de defensa del interés público",
+        "b": "El Ministerio Fiscal procura ante los Tribunales la satisfacción del interés social",
+        "c": "El Ministerio Fiscal forma parte orgánicamente del Poder Judicial como un órgano jurisdiccional más",
+        "d": "El Estatuto Orgánico del Ministerio Fiscal fue derogado por la actual LOPJ"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 541 LOPJ encomienda al Ministerio Fiscal promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público, velar por la independencia de los Tribunales y procurar la satisfacción del interés social, rigiéndose por su propio Estatuto Orgánico sin integrar orgánicamente el Poder Judicial.",
+      "ley": "Art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 541 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Ministerio Fiscal vela por la independencia de los Tribunales",
+        "b": "El Ministerio Fiscal se rige por lo que disponga su Estatuto Orgánico",
+        "c": "El Ministerio Fiscal forma parte orgánicamente del Poder Judicial como un órgano jurisdiccional más",
+        "d": "El Ministerio Fiscal procura ante los Tribunales la satisfacción del interés social"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 541 LOPJ encomienda al Ministerio Fiscal promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público, velar por la independencia de los Tribunales y procurar la satisfacción del interés social, rigiéndose por su propio Estatuto Orgánico sin integrar orgánicamente el Poder Judicial.",
+      "ley": "Art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 67, 68 y 69 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Social de la Audiencia Nacional resuelve causas penales por terrorismo",
+        "b": "Una Sala formada por el Presidente de la Audiencia Nacional, los Presidentes de Sala y los Magistrados más antiguo y más moderno conoce de los incidentes de recusación del Presidente",
+        "c": "La Sala de lo Social de la Audiencia Nacional conoce en única instancia de impugnación de convenios colectivos de ámbito superior a una Comunidad Autónoma",
+        "d": "La Sala de lo Social de la Audiencia Nacional conoce de conflictos colectivos con efectos en ámbito superior a una Comunidad Autónoma"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 67 a 69 LOPJ regulan la Sala de lo Social de la Audiencia Nacional (convenios colectivos y conflictos colectivos de ámbito superior a una Comunidad Autónoma) y el régimen de recusaciones, correspondiendo las de Magistrados a cada Sala y las del Presidente o de varios Magistrados a una Sala especial formada por el Presidente, los Presidentes de Sala y los Magistrados más antiguo y más moderno.",
+      "ley": "Arts. 67, 68 y 69 LOPJ"
+    },
+    {
+      "id": "tema_06_test_05_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 99 y 100 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Jueces de Paz cumplen también funciones de Registro Civil",
+        "b": "Los Jueces de Paz carecen de cualquier competencia penal, por mínima que sea",
+        "c": "La jurisdicción del Juzgado de Paz se extiende a toda la provincia",
+        "d": "Existe un Juzgado de Paz en todos los municipios, incluso donde ya hay Juzgado de Primera Instancia e Instrucción"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 99 y 100 LOPJ disponen que existirá un Juzgado de Paz en cada municipio que no cuente con Juzgado de Primera Instancia e Instrucción, con jurisdicción en el término municipal, conociendo sus titulares en el orden civil y penal de los asuntos que la ley les atribuya y desempeñando también funciones de Registro Civil.",
+      "ley": "Arts. 99 y 100 LOPJ"
+    }
+  ]
+}

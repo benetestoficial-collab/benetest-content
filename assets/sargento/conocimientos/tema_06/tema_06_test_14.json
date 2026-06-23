@@ -1,0 +1,307 @@
+{
+  "tema_numero": 6,
+  "tema": "Tema 6 - Poder Judicial",
+  "test": "Test 14",
+  "preguntas": [
+    {
+      "id": "tema_06_test_14_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 84 y 85 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "En cada partido habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital de aquél",
+        "b": "Los recursos contra los Juzgados de Paz los resuelve siempre la Audiencia Provincial directamente",
+        "c": "Los Juzgados de Primera Instancia carecen de competencia sobre actos de jurisdicción voluntaria",
+        "d": "Cada partido judicial puede tener, como máximo, un único Juzgado de Primera Instancia e Instrucción"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 84 y 85 LOPJ establecen que en cada partido judicial habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital del partido, que conocen en primera instancia de los asuntos civiles no atribuidos a otros órganos, de la jurisdicción voluntaria y de los recursos contra los Juzgados de Paz del partido.",
+      "ley": "Arts. 84 y 85 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 62 y 63 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Presidente de la Audiencia Nacional tiene la consideración de Presidente de Sala del Tribunal Supremo",
+        "b": "La Audiencia Nacional tiene su sede en la villa de Madrid",
+        "c": "Cada Sala de la Audiencia Nacional tiene un Presidente nato distinto sin relación con el Presidente del Tribunal",
+        "d": "El Presidente de la Audiencia Nacional es el Presidente nato de todas sus Salas"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 62 y 63 LOPJ establecen que la Audiencia Nacional, con sede en Madrid, tiene jurisdicción en toda España, y que su Presidente, que ostenta la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas las Salas de la Audiencia Nacional.",
+      "ley": "Arts. 62 y 63 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 57 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Penal del Tribunal Supremo conoce de los recursos de casación en materia laboral",
+        "b": "La Sala de lo Penal del Tribunal Supremo instruye y enjuicia causas contra Diputados y Senadores",
+        "c": "La Sala de lo Penal del Tribunal Supremo conoce de los recursos de casación, revisión y otros extraordinarios en materia penal",
+        "d": "En las causas contra aforados se designa un instructor que no formará parte de la Sala para enjuiciarlas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 57 LOPJ atribuye a la Sala de lo Penal del Tribunal Supremo los recursos extraordinarios en materia penal y la instrucción y enjuiciamiento de causas contra aforados (Diputados, Senadores, Fiscal General del Estado, Magistrados de la Audiencia Nacional o de Tribunales Superiores de Justicia, entre otros), designándose un instructor que queda excluido de la Sala enjuiciadora.",
+      "ley": "Art. 57 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 73 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Esta Sala resuelve los conflictos de jurisdicción entre el Poder Judicial y la Administración militar",
+        "b": "Como Sala de lo Civil, conoce del recurso de casación fundado en infracción de derecho civil foral o especial propio de la Comunidad Autónoma",
+        "c": "Carece de competencia para instruir causas penales contra Jueces de la Comunidad Autónoma",
+        "d": "Como Sala de lo Civil, conoce de cualquier recurso de casación en materia civil, sin necesidad de que se funde en derecho foral propio"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 73 LOPJ atribuye a la Sala de lo Civil y Penal del Tribunal Superior de Justicia, en su vertiente civil, el recurso de casación fundado en infracción de derecho civil foral o especial propio, y en su vertiente penal, la instrucción y fallo de causas contra Jueces, Magistrados y Fiscales por delitos cometidos en el ejercicio de su cargo en la Comunidad, además de apelaciones contra Audiencias Provinciales y cuestiones de competencia civil sin superior común.",
+      "ley": "Art. 73 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 78 y 79 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El número de Magistrados de un Tribunal Superior de Justicia nunca puede reducirse por ley",
+        "b": "La Ley de Planta puede reducir el número de Magistrados de un Tribunal Superior de Justicia cuando el número de asuntos lo justifique",
+        "c": "Solo el Consejo General del Poder Judicial puede crear estas Salas excepcionales, sin necesidad de previsión legal",
+        "d": "Estas Salas excepcionales deben tener siempre, como mínimo, tres Magistrados de carrera distintos del Presidente"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 78 y 79 LOPJ permiten, excepcionalmente, crear Salas de lo Contencioso-Administrativo o de lo Social con jurisdicción limitada a una o varias provincias de la Comunidad Autónoma, formadas como mínimo por su Presidente, y habilitan a la Ley de Planta para reducir el número de Magistrados de un Tribunal Superior de Justicia cuando el volumen de asuntos lo justifique.",
+      "ley": "Arts. 78 y 79 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 62 y 63 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Presidente de la Audiencia Nacional es el Presidente nato de todas sus Salas",
+        "b": "Cada Sala de la Audiencia Nacional tiene un Presidente nato distinto sin relación con el Presidente del Tribunal",
+        "c": "El Presidente de la Audiencia Nacional tiene la consideración de Presidente de Sala del Tribunal Supremo",
+        "d": "La Audiencia Nacional tiene jurisdicción en toda España"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 62 y 63 LOPJ establecen que la Audiencia Nacional, con sede en Madrid, tiene jurisdicción en toda España, y que su Presidente, que ostenta la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas las Salas de la Audiencia Nacional.",
+      "ley": "Arts. 62 y 63 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 89 bis LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Juzgados de lo Penal se encargan exclusivamente de la instrucción, nunca del enjuiciamiento",
+        "b": "Los Juzgados de lo Penal solo pueden existir en la capital del Estado",
+        "c": "Los Juzgados de lo Penal carecen de competencia para enjuiciar ningún tipo de delito",
+        "d": "Los Juzgados de lo Penal enjuician las causas por delito que la ley determine"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 89 bis LOPJ prevé uno o varios Juzgados de lo Penal con sede en la capital de cada provincia, que enjuician las causas por delito que la ley determine, pudiendo su jurisdicción extenderse a uno o varios partidos judiciales de la misma provincia conforme a la legislación de planta y demarcación.",
+      "ley": "Art. 89 bis LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 84 y 85 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Juzgados de Primera Instancia conocen de los recursos contra resoluciones de los Juzgados de Paz del partido",
+        "b": "En cada partido habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital de aquél",
+        "c": "Los Juzgados de Primera Instancia conocen en primera instancia de los juicios civiles no atribuidos a otros Juzgados o Tribunales",
+        "d": "Los Juzgados de Primera Instancia e Instrucción tienen siempre su sede en la capital de la Comunidad Autónoma"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 84 y 85 LOPJ establecen que en cada partido judicial habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital del partido, que conocen en primera instancia de los asuntos civiles no atribuidos a otros órganos, de la jurisdicción voluntaria y de los recursos contra los Juzgados de Paz del partido.",
+      "ley": "Arts. 84 y 85 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 541 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público",
+        "b": "El Estatuto Orgánico del Ministerio Fiscal fue derogado por la actual LOPJ",
+        "c": "El Ministerio Fiscal se rige por lo que disponga su Estatuto Orgánico",
+        "d": "El Ministerio Fiscal procura ante los Tribunales la satisfacción del interés social"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 541 LOPJ encomienda al Ministerio Fiscal promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público, velar por la independencia de los Tribunales y procurar la satisfacción del interés social, rigiéndose por su propio Estatuto Orgánico sin integrar orgánicamente el Poder Judicial.",
+      "ley": "Art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 64 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Secciones de las Salas de la Audiencia Nacional están prohibidas por la ley",
+        "b": "La Audiencia Nacional está integrada por la Sala de lo Contencioso-Administrativo",
+        "c": "La Audiencia Nacional carece de Sala de Apelación",
+        "d": "La Audiencia Nacional está integrada por una Sala de lo Civil"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 64 LOPJ enumera las Salas de la Audiencia Nacional: de Apelación, de lo Penal, de lo Contencioso-Administrativo y de lo Social; no existe Sala de lo Civil al carecer de competencias en ese orden jurisdiccional, y pueden crearse Secciones cuando el volumen de asuntos lo aconseje.",
+      "ley": "Art. 64 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 53 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Ningún otro órgano jurisdiccional podrá tener el título de Supremo",
+        "b": "El Tribunal Superior de Justicia de Madrid puede ostentar también el título de Supremo",
+        "c": "El Tribunal Supremo es superior incluso al Tribunal Constitucional en materia de garantías constitucionales",
+        "d": "El Tribunal Supremo tiene su sede en Barcelona"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 53 LOPJ define al Tribunal Supremo, con sede en Madrid, como órgano jurisdiccional superior en todos los órdenes (salvo en materia de garantías constitucionales, reservada al Tribunal Constitucional), con jurisdicción en toda España y título exclusivo de Supremo.",
+      "ley": "Art. 53 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 89 bis LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Juzgados de lo Penal solo pueden existir en la capital del Estado",
+        "b": "Los Juzgados de lo Penal se encargan exclusivamente de la instrucción, nunca del enjuiciamiento",
+        "c": "La jurisdicción de los Juzgados de lo Penal nunca puede extenderse más allá de un único municipio",
+        "d": "Los Juzgados de lo Penal enjuician las causas por delito que la ley determine"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 89 bis LOPJ prevé uno o varios Juzgados de lo Penal con sede en la capital de cada provincia, que enjuician las causas por delito que la ley determine, pudiendo su jurisdicción extenderse a uno o varios partidos judiciales de la misma provincia conforme a la legislación de planta y demarcación.",
+      "ley": "Art. 89 bis LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 549 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Corresponde a estas unidades el auxilio a la autoridad judicial y fiscal en actuaciones fuera de su sede que requieran presencia policial",
+        "b": "Corresponde a las unidades de Policía Judicial la averiguación de los responsables y circunstancias de los hechos delictivos y la detención de los primeros",
+        "c": "Corresponde a estas unidades garantizar el cumplimiento de las órdenes y resoluciones de la autoridad judicial o fiscal",
+        "d": "Las unidades de Policía Judicial solo pueden auxiliar a la autoridad judicial dentro de la propia sede del Juzgado"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 549 LOPJ enumera las funciones específicas de las unidades de Policía Judicial: averiguación de responsables y circunstancias del delito y detención de los primeros, auxilio a la autoridad judicial y fiscal fuera de su sede, ejecución material de actuaciones coercitivas ordenadas judicial o fiscalmente, y garantía del cumplimiento de órdenes y resoluciones judiciales o fiscales, sin que pueda encomendárseles otra actuación ajena a esta función.",
+      "ley": "Art. 549 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 541 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Ministerio Fiscal carece de cualquier función de defensa del interés público",
+        "b": "El Ministerio Fiscal vela por la independencia de los Tribunales",
+        "c": "El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público",
+        "d": "El Ministerio Fiscal procura ante los Tribunales la satisfacción del interés social"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 541 LOPJ encomienda al Ministerio Fiscal promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público, velar por la independencia de los Tribunales y procurar la satisfacción del interés social, rigiéndose por su propio Estatuto Orgánico sin integrar orgánicamente el Poder Judicial.",
+      "ley": "Art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 541 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Ministerio Fiscal depende jerárquicamente del Consejo General del Poder Judicial",
+        "b": "El Estatuto Orgánico del Ministerio Fiscal fue derogado por la actual LOPJ",
+        "c": "El Ministerio Fiscal vela por la independencia de los Tribunales",
+        "d": "El Ministerio Fiscal forma parte orgánicamente del Poder Judicial como un órgano jurisdiccional más"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 541 LOPJ encomienda al Ministerio Fiscal promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público, velar por la independencia de los Tribunales y procurar la satisfacción del interés social, rigiéndose por su propio Estatuto Orgánico sin integrar orgánicamente el Poder Judicial.",
+      "ley": "Art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 62 y 63 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Presidente de la Audiencia Nacional tiene la consideración de Presidente de Sala del Tribunal Supremo",
+        "b": "La Audiencia Nacional tiene su sede en la villa de Madrid",
+        "c": "El Presidente de la Audiencia Nacional es el Presidente nato de todas sus Salas",
+        "d": "La Audiencia Nacional tiene jurisdicción limitada a la provincia de Madrid"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 62 y 63 LOPJ establecen que la Audiencia Nacional, con sede en Madrid, tiene jurisdicción en toda España, y que su Presidente, que ostenta la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas las Salas de la Audiencia Nacional.",
+      "ley": "Arts. 62 y 63 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 543 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La representación procesal corresponde indistintamente a cualquier persona designada informalmente por la parte",
+        "b": "Los Procuradores no pueden realizar nunca actos de comunicación procesal",
+        "c": "Corresponde exclusivamente a los Procuradores la representación de las partes en todo tipo de procesos, salvo que la ley autorice otra cosa",
+        "d": "Los Procuradores tienen reservada en exclusiva la dirección jurídica y defensa técnica de las partes"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 543 LOPJ reserva a los Procuradores, salvo excepción legal, la representación de las partes en todo tipo de procesos, permitiéndoles realizar los actos de comunicación procesal que la ley les autorice y admitiendo su sustitución por otro Procurador en el ejercicio de su profesión.",
+      "ley": "Art. 543 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 80 y 81 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Pueden crearse Secciones de la Audiencia Provincial fuera de la capital de la provincia",
+        "b": "Cuando el escaso número de asuntos lo aconseje, la plantilla puede constar de uno a dos Magistrados incluido el Presidente",
+        "c": "El número de Magistrados de una Audiencia Provincial es siempre fijo e idéntico en toda España",
+        "d": "Las Audiencias Provinciales tienen su sede en la capital de la provincia, de la que toman su nombre"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 80 y 81 LOPJ disponen que las Audiencias Provinciales tienen sede en la capital de provincia, pudiendo crear Secciones fuera de ella, y se componen de un Presidente y dos o más Magistrados, salvo que el escaso número de asuntos aconseje una plantilla reducida de uno o dos Magistrados, incluido el Presidente.",
+      "ley": "Arts. 80 y 81 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 73 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Como Sala de lo Civil, conoce de cualquier recurso de casación en materia civil, sin necesidad de que se funde en derecho foral propio",
+        "b": "Conoce de los recursos de apelación contra resoluciones dictadas en primera instancia por las Audiencias Provinciales",
+        "c": "Conoce de las cuestiones de competencia entre órganos del orden civil con sede en la Comunidad Autónoma sin otro superior común",
+        "d": "Como Sala de lo Penal, instruye y falla causas contra Jueces, Magistrados y miembros del Ministerio Fiscal por delitos cometidos en el ejercicio de su cargo en la Comunidad Autónoma"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 73 LOPJ atribuye a la Sala de lo Civil y Penal del Tribunal Superior de Justicia, en su vertiente civil, el recurso de casación fundado en infracción de derecho civil foral o especial propio, y en su vertiente penal, la instrucción y fallo de causas contra Jueces, Magistrados y Fiscales por delitos cometidos en el ejercicio de su cargo en la Comunidad, además de apelaciones contra Audiencias Provinciales y cuestiones de competencia civil sin superior común.",
+      "ley": "Art. 73 LOPJ"
+    },
+    {
+      "id": "tema_06_test_14_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 80 y 81 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Está prohibido crear Secciones de la Audiencia Provincial fuera de la capital de provincia",
+        "b": "Las Audiencias Provinciales tienen siempre su sede en la capital del Estado",
+        "c": "Las Audiencias Provinciales se componen, como mínimo, de un Presidente y dos o más Magistrados",
+        "d": "Las Audiencias Provinciales se componen, en todo caso, de un único Magistrado sin Presidente"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 80 y 81 LOPJ disponen que las Audiencias Provinciales tienen sede en la capital de provincia, pudiendo crear Secciones fuera de ella, y se componen de un Presidente y dos o más Magistrados, salvo que el escaso número de asuntos aconseje una plantilla reducida de uno o dos Magistrados, incluido el Presidente.",
+      "ley": "Arts. 80 y 81 LOPJ"
+    }
+  ]
+}

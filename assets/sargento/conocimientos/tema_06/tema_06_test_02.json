@@ -1,0 +1,307 @@
+{
+  "tema_numero": 6,
+  "tema": "Poder Judicial",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_06_test_02_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sala de Apelación de la Audiencia Nacional. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Sala de Apelación de la Audiencia Nacional conocerá de los recursos de apelación previstos en las leyes contra resoluciones dictadas por la Sala de lo Penal de la Audiencia Nacional.",
+        "b": "La Sala de Apelación de la Audiencia Nacional carece de competencia para conocer de recursos contra resoluciones de la Sala de lo Penal.",
+        "c": "Los recursos de apelación contra resoluciones de la Sala de lo Penal de la Audiencia Nacional se resuelven directamente por el Tribunal Supremo.",
+        "d": "La Audiencia Nacional no dispone de ninguna Sala específica de apelación."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 64 bis: la Sala de Apelación de la Audiencia Nacional conoce de los recursos de apelación previstos en las leyes contra resoluciones dictadas por la Sala de lo Penal en primera instancia.",
+      "ley": "Artículo 64 bis de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sala de lo Penal de la Audiencia Nacional. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Penal de la Audiencia Nacional conocerá del enjuiciamiento de las causas por delitos que las leyes le atribuyan en razón de su especial trascendencia o gravedad.",
+        "b": "La competencia de la Sala de lo Penal de la Audiencia Nacional para delitos de terrorismo y similares es meramente facultativa para el Estado, pudiendo asignarse libremente a cualquier Audiencia Provincial.",
+        "c": "La Sala de lo Penal de la Audiencia Nacional conoce, entre otros, de los delitos contra el titular de la Corona y de los delitos de terrorismo.",
+        "d": "Existen Juzgados Centrales de Instrucción que instruyen las causas cuyo enjuiciamiento corresponde a la Sala de lo Penal de la Audiencia Nacional."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 65: la competencia de la Sala de lo Penal de la Audiencia Nacional para los delitos enumerados (terrorismo, contra la Corona, etc.) es LEGAL Y TASADA, no facultativa ni transferible libremente a otra Audiencia.",
+      "ley": "Artículo 65 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sala de lo Social de la Audiencia Nacional. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Sala de lo Social de la Audiencia Nacional carece de competencia en materia de conflictos colectivos.",
+        "b": "La competencia de la Sala de lo Social de la Audiencia Nacional se limita a los conflictos individuales de trabajo.",
+        "c": "La Sala de lo Social de la Audiencia Nacional conocerá en primera instancia de los procesos especiales de despido colectivo y otros que la ley le atribuya, cuando extiendan sus efectos a un ámbito superior al de una Comunidad Autónoma.",
+        "d": "La Audiencia Nacional no dispone de Sala de lo Social."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 67: la Sala de lo Social de la Audiencia Nacional conoce de procesos (despido colectivo, conflictos colectivos, etc.) cuando sus efectos se extiendan a un ámbito territorial superior al de una Comunidad Autónoma.",
+      "ley": "Artículo 67 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Composición de las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Civil y Penal del Tribunal Superior de Justicia actuará como Sala de lo Civil en unos casos y como Sala de lo Penal en otros.",
+        "b": "Esta Sala conocerá, en el orden penal, de la instrucción y enjuiciamiento de causas penales contra Jueces, Magistrados y miembros del Ministerio Fiscal por delitos cometidos en el ejercicio de su cargo en el territorio de la Comunidad Autónoma.",
+        "c": "Esta Sala conocerá también, en el orden civil, de los recursos de casación y revisión basados en infracción de normas de Derecho civil propio de la Comunidad Autónoma.",
+        "d": "La Sala de lo Civil y Penal del Tribunal Superior de Justicia carece de cualquier competencia penal, limitándose exclusivamente al orden civil."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 73: la Sala de lo Civil y Penal del TSJ actúa como Sala CIVIL en unos casos y como Sala PENAL en otros (instrucción y enjuiciamiento de Jueces, Magistrados y Fiscales por delitos en el ejercicio del cargo, entre otras competencias penales).",
+      "ley": "Artículo 73 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia conocerá en única o primera instancia de los recursos que se promuevan en relación con los actos de las Administraciones Públicas de la Comunidad Autónoma.",
+        "b": "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia carece de competencia sobre actos de la Administración Local.",
+        "c": "Esta Sala solo puede conocer de recursos contra actos de la Administración General del Estado, nunca de la autonómica.",
+        "d": "La competencia de esta Sala se extiende únicamente a la materia tributaria, excluyendo el resto del Derecho administrativo."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 74: la Sala de lo Contencioso-Administrativo del TSJ SÍ conoce de los actos de las Administraciones Públicas de la Comunidad Autónoma y de la Administración Local de su territorio, sin las exclusiones señaladas.",
+      "ley": "Artículo 74 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sala de lo Social del Tribunal Superior de Justicia. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Social del Tribunal Superior de Justicia conocerá en primera instancia de los procesos sobre las materias propias del orden social que la ley establezca.",
+        "b": "La Sala de lo Social del Tribunal Superior de Justicia carece de competencia para conocer de recursos de suplicación.",
+        "c": "Conocerá también de los recursos establecidos por la ley contra resoluciones dictadas por los órganos del orden social con sede en la Comunidad Autónoma.",
+        "d": "Conocerá de las cuestiones de competencia que se planteen entre órganos del orden social con sede en la Comunidad Autónoma que no tengan otro superior común."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 75: la Sala de lo Social del TSJ SÍ conoce de los recursos de suplicación, entre los recursos establecidos por la ley contra resoluciones de órganos del orden social de su territorio.",
+      "ley": "Artículo 75 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Audiencias Provinciales: competencia civil. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las Audiencias Provinciales carecen de competencia civil, limitándose exclusivamente al orden penal.",
+        "b": "Los recursos civiles contra resoluciones de Juzgados de Primera Instancia se resuelven directamente por el Tribunal Superior de Justicia, sin intervención de la Audiencia Provincial.",
+        "c": "Las Audiencias Provinciales conocerán, en el orden civil, de los recursos que establezca la ley contra resoluciones dictadas en primera instancia por los Juzgados de su territorio.",
+        "d": "La competencia civil de las Audiencias Provinciales se limita a los procesos de familia, excluyendo otras materias civiles."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 82.1: las Audiencias Provinciales SÍ conocen, en el orden CIVIL, de los recursos contra resoluciones dictadas en primera instancia por los Juzgados de su territorio, sin las exclusiones señaladas.",
+      "ley": "Artículo 82 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Audiencias Provinciales: competencia penal. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Las Audiencias Provinciales conocerán, en el orden penal, de las causas por delito, a excepción de las que la ley atribuya al conocimiento de otros Tribunales.",
+        "b": "Las Audiencias Provinciales conocerán de los recursos que establezca la ley contra resoluciones dictadas en primera instancia por los Juzgados de lo Penal de su territorio.",
+        "c": "Las Audiencias Provinciales conocerán de las cuestiones de competencia entre Juzgados de su territorio que no tengan otro superior común.",
+        "d": "Las Audiencias Provinciales carecen de cualquier competencia para conocer de recursos en el orden penal, limitándose al enjuiciamiento en primera instancia."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 82.1 y 82.2: las Audiencias Provinciales SÍ conocen de recursos contra resoluciones de los Juzgados de lo Penal de su territorio, además del enjuiciamiento en primera instancia de causas por delito.",
+      "ley": "Artículo 82 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Secciones de las Audiencias Provinciales fuera de la capital. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Cuando el volumen de litigios lo justifique, podrán crearse Secciones de la Audiencia Provincial fuera de la capital de la provincia, fijándose su sede, competencia y ámbito territorial.",
+        "b": "Las Secciones de la Audiencia Provincial solo pueden crearse en la capital de la provincia, nunca fuera de ella.",
+        "c": "La creación de Secciones fuera de la capital de la provincia exige siempre la previa creación de una nueva provincia.",
+        "d": "Las Secciones de la Audiencia Provincial fuera de la capital carecen de competencia penal, limitándose al orden civil."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 81: podrán crearse Secciones de la Audiencia Provincial FUERA de la capital de la provincia cuando el volumen de litigios lo justifique, fijando su sede, competencia y ámbito territorial, sin las limitaciones señaladas.",
+      "ley": "Artículo 81 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sustitución del Juez de Paz. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En cada municipio donde exista Juzgado de Paz habrá también un sustituto del Juez de Paz, elegido de la misma forma.",
+        "b": "El Juez de Paz no precisa de ningún sustituto, al tratarse de un cargo de carácter permanente sin posibilidad de vacante.",
+        "c": "El Juez de Paz y su sustituto serán nombrados por la Sala de Gobierno del Tribunal Superior de Justicia correspondiente.",
+        "d": "El mandato del Juez de Paz tiene una duración determinada por la ley, siendo posible su reelección."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 101: SÍ existe un SUSTITUTO del Juez de Paz, elegido de la misma forma, precisamente para los casos de vacante, ausencia o enfermedad.",
+      "ley": "Artículo 101 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Inmunidad judicial: entrada y registro. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El domicilio de los Jueces y Magistrados goza de una inmunidad absoluta frente a cualquier entrada o registro, incluso en caso de delito flagrante.",
+        "b": "La entrada y registro en el domicilio de un Juez o Magistrado requiere siempre autorización previa del Consejo General del Poder Judicial.",
+        "c": "No podrá procederse a la entrada y registro en el domicilio de un Juez o Magistrado sino en los mismos casos y con las mismas garantías establecidas para los particulares, salvo lo que excepcionalmente pueda disponerse en supuestos de delito flagrante.",
+        "d": "La inmunidad judicial no contempla ninguna previsión específica sobre la entrada y registro en el domicilio de Jueces y Magistrados."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 399: la entrada y registro en el domicilio de Jueces y Magistrados se rige por las mismas garantías que para los particulares, sin inmunidad absoluta ni necesidad de autorización del CGPJ.",
+      "ley": "Artículo 399 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Inmunidad judicial: detención de Magistrados del Tribunal Supremo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Cuando se trate de Magistrados del Tribunal Supremo, se dará cuenta inmediata de su detención al Presidente del Tribunal Supremo.",
+        "b": "La inmunidad judicial busca proteger la independencia del Juez frente a injerencias o presiones indebidas en el ejercicio de sus funciones.",
+        "c": "La inmunidad judicial no impide la detención por orden de Juez competente o en caso de flagrante delito.",
+        "d": "La inmunidad judicial otorga a los Jueces y Magistrados una inmunidad penal absoluta, similar a la de los Diputados y Senadores, que les exime de responsabilidad penal."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 398: la inmunidad judicial NO es una inmunidad penal absoluta como la parlamentaria; los Jueces SÍ pueden ser detenidos por orden judicial o flagrante delito, y responden penalmente por sus actos conforme a las normas generales.",
+      "ley": "Artículo 398 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Procuradores. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Corresponde exclusivamente a los Procuradores la representación de las partes en todo tipo de procesos, salvo cuando la ley autorice otra cosa.",
+        "b": "Los Procuradores tienen encomendada la dirección técnica y defensa jurídica de las partes, función reservada exclusivamente a ellos.",
+        "c": "La representación procesal de las partes corresponde indistintamente a Procuradores y Graduados Sociales en todo tipo de procesos.",
+        "d": "Los Procuradores no pueden realizar actos de comunicación a las partes del proceso bajo ninguna circunstancia."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 543: corresponde EXCLUSIVAMENTE a los Procuradores la representación de las partes en todo tipo de procesos (salvo excepción legal); podrán realizar actos de comunicación que la ley les autorice.",
+      "ley": "Artículo 543 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sustitución de Procuradores. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En el ejercicio de su profesión, los Procuradores podrán ser sustituidos por otro Procurador.",
+        "b": "La sustitución de un Procurador por otro Procurador o por oficial habilitado está expresamente prohibida por la Ley Orgánica del Poder Judicial.",
+        "c": "Los Procuradores también podrán ser sustituidos por oficial habilitado, en los actos y forma que se determine reglamentariamente.",
+        "d": "La posibilidad de sustitución busca facilitar la continuidad de la representación procesal ante eventualidades del Procurador titular."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 543 (en relación con el régimen de sustitución de Procuradores): la sustitución SÍ está permitida, tanto por otro Procurador como, reglamentariamente, por oficial habilitado.",
+      "ley": "Artículo 543 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Graduados Sociales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Graduados Sociales carecen de cualquier intervención en los procedimientos laborales conforme a la Ley Orgánica del Poder Judicial.",
+        "b": "La intervención del Graduado Social en procedimientos laborales sustituye en todo caso a la del Abogado, que queda excluido de dicho ámbito.",
+        "c": "En los procedimientos laborales y de Seguridad Social, la representación técnica podrá ser ostentada por un Graduado Social, conforme a su ordenamiento jurídico profesional.",
+        "d": "Los Graduados Sociales solo pueden intervenir en procedimientos civiles, no en los laborales o de Seguridad Social."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 545 (en relación con el artículo 546): en los procedimientos laborales y de Seguridad Social, la representación técnica PODRÁ ser ostentada por un Graduado Social, sin excluir la intervención de Abogado ni limitarse a procedimientos civiles.",
+      "ley": "Artículo 546 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Colegiación obligatoria de Abogados, Procuradores y Graduados Sociales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La colegiación de los Abogados, Procuradores y Graduados Sociales será obligatoria para actuar ante los Juzgados y Tribunales en los términos previstos en la Ley y en la legislación general sobre colegios profesionales.",
+        "b": "Quedan exceptuados de la colegiación obligatoria quienes actúen al servicio de las Administraciones Públicas o entidades públicas por razón de dependencia funcionarial o laboral.",
+        "c": "Las partes podrán designar libremente a sus representantes y defensores entre los Procuradores y Abogados que reúnan los requisitos exigidos por las leyes, salvo que la ley disponga otra cosa.",
+        "d": "La colegiación de Abogados, Procuradores y Graduados Sociales es meramente voluntaria, sin que la Ley Orgánica del Poder Judicial la exija para actuar ante los Tribunales."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 545.1: la colegiación SÍ es OBLIGATORIA para actuar ante Juzgados y Tribunales (salvo la excepción por dependencia funcionarial o laboral con la Administración), no es meramente voluntaria.",
+      "ley": "Artículo 545 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Función de la Policía Judicial. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La función de la Policía Judicial comprende el auxilio a los juzgados y tribunales y al Ministerio Fiscal en la averiguación de los delitos y en el descubrimiento y aseguramiento de los delincuentes.",
+        "b": "La función de la Policía Judicial se limita al auxilio al Ministerio Fiscal, sin extenderse a los juzgados y tribunales.",
+        "c": "Esta función solo compete a los miembros de las Fuerzas y Cuerpos de Seguridad que dependan del Gobierno central, excluyendo a los de las comunidades autónomas o entes locales.",
+        "d": "La función de la Policía Judicial es ajena a la averiguación de los delitos, centrándose exclusivamente en el aseguramiento de los delincuentes ya identificados."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 547: la función de la Policía Judicial comprende el auxilio a juzgados, tribunales Y Ministerio Fiscal en la averiguación de delitos y aseguramiento de delincuentes, competiendo a TODOS los miembros de las Fuerzas y Cuerpos de Seguridad (estatales, autonómicos o locales) cuando sean requeridos.",
+      "ley": "Artículo 547 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Unidades de Policía Judicial. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Se establecerán unidades de Policía Judicial que dependerán funcionalmente de las autoridades judiciales y del Ministerio Fiscal en el desempeño de las actuaciones que aquéllas les encomienden.",
+        "b": "Las unidades de Policía Judicial dependen orgánica y funcionalmente, en exclusiva, del Ministerio del Interior, sin ninguna dependencia funcional de jueces o fiscales.",
+        "c": "Entre las funciones de estas unidades figura el auxilio a la autoridad judicial y fiscal en actuaciones que deba realizar fuera de su sede y requieran presencia policial.",
+        "d": "A los miembros de estas unidades no podrán encomendárseles actuaciones que no sean propias de la Policía Judicial o derivadas de las mismas."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 548: las unidades de Policía Judicial dependerán FUNCIONALMENTE de las autoridades judiciales y del Ministerio Fiscal en el desempeño de las actuaciones encomendadas, sin la dependencia exclusiva del Ministerio del Interior descrita.",
+      "ley": "Artículo 548 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Dirección de la Policía Judicial en funciones de investigación penal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Policía Judicial actúa en sus funciones de investigación penal con plena autonomía respecto de jueces y fiscales.",
+        "b": "La dirección de la investigación penal por la Policía Judicial corresponde en exclusiva al Ministerio del Interior.",
+        "c": "En las funciones de investigación penal, la Policía Judicial actuará bajo la dirección de los juzgados y tribunales y del Ministerio Fiscal.",
+        "d": "La Ley Orgánica del Poder Judicial no establece ninguna relación de dirección entre la autoridad judicial y la Policía Judicial."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 549.1: en las funciones de investigación penal, la Policía Judicial actuará BAJO LA DIRECCIÓN de los juzgados y tribunales y del Ministerio Fiscal, sin la autonomía o dirección exclusiva del Ministerio del Interior señaladas.",
+      "ley": "Artículo 549 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_02_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Remoción de funcionarios de Policía Judicial de una investigación concreta. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los funcionarios de Policía Judicial a quienes se hubiera encomendado una actuación o investigación concreta no podrán ser removidos o apartados hasta que finalice la misma.",
+        "b": "Tampoco podrán ser removidos hasta que finalice, en todo caso, la fase del procedimiento judicial que originó la investigación.",
+        "c": "La remoción de estos funcionarios sí podrá producirse por decisión o con la autorización del juez o fiscal competente.",
+        "d": "Los funcionarios de Policía Judicial encomendados de una investigación concreta pueden ser libremente removidos por sus mandos policiales sin necesidad de autorización judicial o fiscal."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 549.2: la remoción de estos funcionarios SOLO puede producirse por decisión o con AUTORIZACIÓN del juez o fiscal competente, no libremente por sus mandos policiales.",
+      "ley": "Artículo 549 de la Ley Orgánica del Poder Judicial"
+    }
+  ]
+}

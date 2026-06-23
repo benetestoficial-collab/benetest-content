@@ -1,0 +1,307 @@
+{
+  "tema_numero": 6,
+  "tema": "Poder Judicial",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_06_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Tribunal Supremo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Tribunal Supremo, con sede en la villa de Madrid, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales.",
+        "b": "El Tribunal Supremo tiene su sede en Barcelona, por ser la ciudad con mayor litigiosidad del Estado.",
+        "c": "El Tribunal Supremo es superior en todos los órdenes, incluida la materia de garantías constitucionales.",
+        "d": "Pueden existir otros tribunales con el título de Supremo en determinadas Comunidades Autónomas."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 53: el Tribunal Supremo, con sede en la villa de MADRID, es el órgano jurisdiccional superior en todos los órdenes, SALVO en materia de garantías constitucionales (que corresponde al Tribunal Constitucional); tiene jurisdicción en toda España y ningún otro tribunal podrá tener el título de Supremo.",
+      "ley": "Artículo 53 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Composición del Tribunal Supremo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal Supremo se compondrá de su Presidente, los Presidentes de Sala y los Magistrados que determine la Ley.",
+        "b": "La composición del Tribunal Supremo es fija e invariable, sin que la Ley pueda determinar el número de Magistrados.",
+        "c": "El Tribunal Supremo podrá articularse en Secciones dentro de cada una de sus Salas.",
+        "d": "El Presidente del Tribunal Supremo lo es también del Consejo General del Poder Judicial."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 54: el Tribunal Supremo se compone de su Presidente, los Presidentes de Sala y los Magistrados que determine LA LEY para cada Sala o Sección, sin que la composición sea fija e inmodificable.",
+      "ley": "Artículo 54 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Salas del Tribunal Supremo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Tribunal Supremo solo tiene cuatro Salas, al no existir Sala de lo Militar.",
+        "b": "La Sala de lo Militar del Tribunal Supremo se rige exclusivamente por la Ley Orgánica del Poder Judicial, sin legislación específica propia.",
+        "c": "El Tribunal Supremo estará integrado por cinco Salas: Civil, Penal, Contencioso-Administrativo, Social y Militar.",
+        "d": "El Tribunal Supremo carece de una Sala dedicada al orden contencioso-administrativo."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 55: el Tribunal Supremo está integrado por CINCO Salas (Primera: Civil; Segunda: Penal; Tercera: Contencioso-Administrativo; Cuarta: Social; Quinta: Militar, que se rige por su legislación específica y, supletoriamente, por la LOPJ).",
+      "ley": "Artículo 55 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Competencias de la Sala de lo Civil del Tribunal Supremo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Civil conocerá de los recursos de casación, revisión y otros extraordinarios en materia civil que establezca la ley.",
+        "b": "La Sala de lo Civil conocerá, en primera y única instancia, de las demandas de responsabilidad civil por hechos realizados en el ejercicio de su cargo contra las más altas autoridades del Estado.",
+        "c": "La Sala de lo Civil conocerá de las demandas de responsabilidad civil contra Magistrados de la Audiencia Nacional o de los Tribunales Superiores de Justicia por hechos realizados en el ejercicio de sus cargos.",
+        "d": "La Sala de lo Civil del Tribunal Supremo carece de competencia para conocer de recursos de casación en materia civil, función reservada a los Tribunales Superiores de Justicia."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 56: la Sala de lo Civil SÍ conoce de los recursos de casación, revisión y otros extraordinarios en materia civil, además de las demandas de responsabilidad civil señaladas.",
+      "ley": "Artículo 56 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Competencias de la Sala de lo Penal del Tribunal Supremo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Sala de lo Penal conocerá de la instrucción y enjuiciamiento de las causas contra el Presidente del Gobierno, los Presidentes del Congreso y del Senado, y el Presidente del Tribunal Supremo y del Consejo General del Poder Judicial, entre otras altas autoridades.",
+        "b": "La Sala de lo Penal carece de competencia para instruir causas contra Diputados o Senadores.",
+        "c": "La instrucción de las causas contra altas autoridades del Estado corresponde a la Sala de lo Contencioso-Administrativo, no a la de lo Penal.",
+        "d": "La Sala de lo Penal del Tribunal Supremo no conoce de recursos de casación en materia penal."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 57.1: la Sala de lo Penal conoce de recursos de casación, revisión y otros extraordinarios en materia penal, y de la instrucción y enjuiciamiento de causas contra altas autoridades del Estado (Presidente del Gobierno, Presidentes de las Cámaras, Presidente del TS y del CGPJ, Diputados, Senadores, etc.).",
+      "ley": "Artículo 57 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sala de lo Contencioso-Administrativo del Tribunal Supremo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo carece de competencia para conocer de recursos de casación.",
+        "b": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo conocerá, en única instancia, de los recursos contra actos y disposiciones de los órganos que la ley establezca.",
+        "c": "Los recursos contencioso-administrativos contra disposiciones generales del Gobierno se atribuyen en exclusiva a los Tribunales Superiores de Justicia.",
+        "d": "Esta Sala solo puede conocer de asuntos en segunda instancia, nunca en única instancia."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 58: la Sala de lo Contencioso-Administrativo conoce, EN ÚNICA INSTANCIA, de los recursos contra actos y disposiciones de determinados órganos, así como de los recursos de casación y revisión que establezca la ley.",
+      "ley": "Artículo 58 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Sala de lo Social del Tribunal Supremo. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Social del Tribunal Supremo conocerá de los recursos de casación y revisión en materias propias de este orden jurisdiccional.",
+        "b": "La Sala de lo Social conocerá también de otros recursos extraordinarios que establezca la ley en este orden.",
+        "c": "La Sala de lo Social del Tribunal Supremo solo puede conocer de asuntos laborales originados en la Comunidad de Madrid.",
+        "d": "La competencia de la Sala de lo Social se extiende a toda España, sin limitación territorial."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 59: la Sala de lo Social conoce de recursos de casación, revisión y otros extraordinarios en materia social/laboral, con competencia en TODA ESPAÑA, sin la limitación territorial descrita.",
+      "ley": "Artículo 59 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Recusación de Magistrados del Tribunal Supremo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Las recusaciones contra Magistrados del Tribunal Supremo se resuelven siempre por el Tribunal Constitucional.",
+        "b": "Los Magistrados recusados continúan formando parte de la Sala mientras se resuelve la recusación, sin ser apartados.",
+        "c": "Las cuestiones de competencia entre órganos del mismo orden jurisdiccional sin superior común no son resueltas por las Salas del Tribunal Supremo.",
+        "d": "Cada una de las Salas del Tribunal Supremo conocerá de las recusaciones que se interpusieren contra los Magistrados que las compongan."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 60: cada Sala del Tribunal Supremo conoce de las recusaciones contra sus propios Magistrados (que NO forman parte de la Sala mientras se resuelve) y de las cuestiones de competencia entre órganos del mismo orden sin superior común.",
+      "ley": "Artículo 60 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Nombramiento del Presidente del Tribunal Supremo. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+        "b": "El Presidente del Tribunal Supremo es elegido directamente por las Cortes Generales en sesión conjunta.",
+        "c": "El nombramiento del Presidente del Tribunal Supremo corresponde al Gobierno, oído el Consejo General del Poder Judicial.",
+        "d": "El Presidente del Tribunal Supremo es designado por sorteo entre los Presidentes de Sala."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial, en relación con el artículo 123 de la Constitución.\nEl Presidente del Tribunal Supremo es nombrado por el REY, a PROPUESTA DEL CONSEJO GENERAL DEL PODER JUDICIAL (por mayoría de tres quintos), sin las alternativas señaladas.",
+      "ley": "Artículo 123 de la Constitución, en relación con el artículo 107 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Audiencia Nacional. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Audiencia Nacional tiene su sede en Madrid y jurisdicción en toda España.",
+        "b": "La Audiencia Nacional carece de Sala de lo Contencioso-Administrativo, al estar dicha competencia reservada en exclusiva al Tribunal Supremo.",
+        "c": "La Audiencia Nacional es un órgano jurisdiccional especializado por razón de la materia, no un tribunal ordinario de apelación general.",
+        "d": "La Audiencia Nacional conoce, entre otras materias, de determinados delitos de especial trascendencia o gravedad atribuidos por la ley."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 64 y siguientes: la Audiencia Nacional SÍ tiene Sala de lo Contencioso-Administrativo, además de las Salas de Apelación, Penal y Social.",
+      "ley": "Artículo 64 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Composición de la Audiencia Nacional. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Audiencia Nacional carece de Presidente propio, siendo presidida por el Presidente del Tribunal Supremo.",
+        "b": "La composición de la Audiencia Nacional es idéntica en número de Magistrados a la del Tribunal Supremo.",
+        "c": "La Audiencia Nacional se compone de su Presidente, los Presidentes de Sala y los Magistrados que determine la ley para cada una de sus Salas y Secciones.",
+        "d": "La Audiencia Nacional no puede dividir sus Salas en Secciones."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 63: la Audiencia Nacional se compone de su PROPIO Presidente, los Presidentes de Sala y los Magistrados que determine la ley para cada Sala y, en su caso, Sección.",
+      "ley": "Artículo 63 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Tribunales Superiores de Justicia. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "El Tribunal Superior de Justicia culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma.",
+        "b": "El Tribunal Superior de Justicia tomará el nombre de la Comunidad Autónoma correspondiente.",
+        "c": "Las resoluciones dictadas por el Tribunal Superior de Justicia podrán ser recurridas en los casos y formas que las leyes procesales establezcan.",
+        "d": "El Tribunal Superior de Justicia carece de Sala de lo Civil y Penal, al corresponder dichos órdenes en exclusiva a la Audiencia Provincial."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 72: el Tribunal Superior de Justicia SÍ comprende, entre otras, una Sala de lo Civil y Penal, además de las de lo Contencioso-Administrativo y de lo Social.",
+      "ley": "Artículo 72 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Salas del Tribunal Superior de Justicia. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Tribunal Superior de Justicia comprenderá las Salas de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social.",
+        "b": "El Tribunal Superior de Justicia solo tiene una Sala única, sin especialización por órdenes jurisdiccionales.",
+        "c": "La Sala de lo Social del Tribunal Superior de Justicia fue suprimida por la reforma de 2015, integrándose en la Sala de lo Civil y Penal.",
+        "d": "El Tribunal Superior de Justicia carece de Sala de lo Contencioso-Administrativo."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 72.1: el Tribunal Superior de Justicia comprenderá las Salas de lo CIVIL Y PENAL, de lo CONTENCIOSO-ADMINISTRATIVO y de lo SOCIAL, sin las exclusiones o supresiones señaladas.",
+      "ley": "Artículo 72 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Audiencias Provinciales. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "La Audiencia Provincial tendrá su sede en la capital de la provincia, de la que tomará su nombre, y extenderá su jurisdicción a toda ella.",
+        "b": "La Audiencia Provincial carece de competencia para conocer de recursos contra resoluciones dictadas por los Juzgados de su territorio.",
+        "c": "Podrán crearse Secciones de la Audiencia Provincial fuera de la capital de la provincia.",
+        "d": "La Audiencia Provincial estará formada por un Presidente y dos o más Magistrados."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 82: la Audiencia Provincial SÍ conoce de los recursos establecidos por la ley contra resoluciones dictadas por los Juzgados de su territorio, además de en primera instancia de determinadas causas penales.",
+      "ley": "Artículo 82 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Composición de las Audiencias Provinciales. Señale la opción CORRECTA:",
+      "options": {
+        "a": "La Audiencia Provincial estará formada exclusivamente por un Juez único, sin Magistrados adicionales.",
+        "b": "Las Secciones de la Audiencia Provincial no pueden tener una composición diferente a la de la Sala matriz.",
+        "c": "La Audiencia Provincial estará formada por un Presidente y dos o más Magistrados, pudiendo dividirse en Secciones que actuarán con la misma composición.",
+        "d": "El número de Magistrados de la Audiencia Provincial es fijo en toda España, sin posibilidad de variación territorial."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 80: la Audiencia Provincial se forma por un Presidente y DOS O MÁS Magistrados; podrá dividirse en Secciones, que tendrán la misma composición y funciones que la Audiencia, sin las limitaciones o rigidez señaladas.",
+      "ley": "Artículo 80 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Juzgados de Paz. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción habrá un Juzgado de Paz.",
+        "b": "El Juez de Paz será elegido por el Pleno del Ayuntamiento, en la forma que determine la ley.",
+        "c": "El cargo de Juez de Paz es honorífico y compatible, en principio, con el ejercicio de otra actividad profesional ajena a la judicatura.",
+        "d": "El Juez de Paz forma parte de la Carrera Judicial en idénticas condiciones que los Jueces de Primera Instancia e Instrucción."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 101 y concordantes: el Juez de Paz NO forma parte de la Carrera Judicial; es un cargo honorífico, elegido por el Pleno del Ayuntamiento, compatible con otras actividades.",
+      "ley": "Artículo 101 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Competencias de los Juzgados de Paz. Señale la opción CORRECTA:",
+      "options": {
+        "a": "Los Juzgados de Paz conocerán en el orden civil y en el orden penal de aquellas competencias que expresamente les atribuyan las leyes.",
+        "b": "Los Juzgados de Paz tienen competencia general e ilimitada en todos los órdenes jurisdiccionales.",
+        "c": "Los Juzgados de Paz pueden conocer de recursos de apelación contra sentencias de los Juzgados de Primera Instancia.",
+        "d": "Los Juzgados de Paz carecen de cualquier competencia en el orden penal."
+      },
+      "correct": "a",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 100: los Juzgados de Paz conocerán, en el orden CIVIL y en el orden PENAL, de aquellas competencias que EXPRESAMENTE les atribuyan las leyes, sin competencia general ni para conocer de apelaciones.",
+      "ley": "Artículo 100 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Inmunidad judicial. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Los Jueces y Magistrados no podrán ser detenidos sino por orden de Juez competente o en caso de flagrante delito.",
+        "b": "Los Jueces y Magistrados pueden ser detenidos libremente por cualquier autoridad administrativa sin necesidad de orden judicial ni flagrancia.",
+        "c": "En este último caso se dará cuenta inmediata al Presidente del Tribunal Superior de Justicia o al Presidente del Tribunal Supremo, según los casos.",
+        "d": "La inmunidad judicial forma parte de las garantías de independencia judicial reguladas en la Ley Orgánica del Poder Judicial."
+      },
+      "correct": "b",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 398: los Jueces y Magistrados NO podrán ser detenidos sino por orden de Juez competente o en caso de FLAGRANTE DELITO, dándose cuenta inmediata al Presidente del Tribunal correspondiente.",
+      "ley": "Artículo 398 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Ministerio Fiscal. Señale la opción CORRECTA:",
+      "options": {
+        "a": "El Ministerio Fiscal solo puede actuar a instancia de parte, careciendo de iniciativa propia.",
+        "b": "El Ministerio Fiscal no tiene encomendada ninguna función de velar por la independencia de los Tribunales.",
+        "c": "El Ministerio Fiscal, sin perjuicio de las funciones encomendadas a otros órganos, tiene por misión promover la acción de la Justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley.",
+        "d": "El Ministerio Fiscal se rige exclusivamente por la Ley Orgánica del Poder Judicial, sin Estatuto Orgánico propio."
+      },
+      "correct": "c",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 541: el Ministerio Fiscal promueve la acción de la Justicia de OFICIO O A PETICIÓN de los interesados, vela por la independencia de los Tribunales y procura la satisfacción del interés social, rigiéndose por su propio ESTATUTO ORGÁNICO.",
+      "ley": "Artículo 541 de la Ley Orgánica del Poder Judicial"
+    },
+    {
+      "id": "tema_06_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6. Poder Judicial. Ley Orgánica del Poder Judicial. Abogados. Señale la opción INCORRECTA:",
+      "options": {
+        "a": "Corresponde en exclusiva la denominación y función de abogado al licenciado en Derecho que ejerza profesionalmente la dirección y defensa de las partes en toda clase de procesos.",
+        "b": "Los abogados, en su actuación ante juzgados y tribunales, son libres e independientes y se sujetarán al principio de buena fe.",
+        "c": "Los abogados deben guardar secreto de los hechos o noticias de que conozcan por razón de su actuación profesional.",
+        "d": "Los abogados pueden ser obligados a declarar sobre los hechos de los que tengan conocimiento por razón de su actuación profesional, sin excepción alguna por secreto profesional."
+      },
+      "correct": "d",
+      "explicacion": "Ley Orgánica del Poder Judicial.\nArtículo 542: los abogados deben guardar secreto profesional y NO PODRÁN SER OBLIGADOS a declarar sobre los hechos de que conozcan por razón de su actuación profesional.",
+      "ley": "Artículo 542 de la Ley Orgánica del Poder Judicial"
+    }
+  ]
+}

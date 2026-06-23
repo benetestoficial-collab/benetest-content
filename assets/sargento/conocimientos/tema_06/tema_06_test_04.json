@@ -1,0 +1,307 @@
+{
+  "tema_numero": 6,
+  "tema": "Tema 6 - Poder Judicial",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_06_test_04_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 89 bis LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La jurisdicción de los Juzgados de lo Penal nunca puede extenderse más allá de un único municipio",
+        "b": "Pueden establecerse Juzgados de lo Penal cuya jurisdicción se extienda a uno o varios partidos de la misma provincia",
+        "c": "Los Juzgados de lo Penal enjuician las causas por delito que la ley determine",
+        "d": "En cada provincia, con sede en su capital, habrá uno o varios Juzgados de lo Penal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 89 bis LOPJ prevé uno o varios Juzgados de lo Penal con sede en la capital de cada provincia, que enjuician las causas por delito que la ley determine, pudiendo su jurisdicción extenderse a uno o varios partidos judiciales de la misma provincia conforme a la legislación de planta y demarcación.",
+      "ley": "Art. 89 bis LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 76 y 77 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Esta Sala especial carece de competencia sobre recusaciones de Presidentes de Audiencias Provinciales",
+        "b": "Las recusaciones contra el Presidente del TSJ las resuelve siempre el Tribunal Supremo",
+        "c": "Cada Sala del Tribunal Superior de Justicia conoce de las recusaciones contra sus propios Magistrados, salvo que corresponda a la Sala especial",
+        "d": "Las recusaciones de Magistrados del TSJ se resuelven siempre por sorteo entre todos los Magistrados de España"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 76 y 77 LOPJ atribuyen a cada Sala del Tribunal Superior de Justicia las recusaciones de sus Magistrados, salvo cuando corresponda a una Sala especial integrada por el Presidente del TSJ, los Presidentes de Sala y el Magistrado más moderno de cada una, que conoce de las recusaciones del Presidente, de Presidentes de Sala o de Audiencias Provinciales y de varios Magistrados de una misma Sala o Sección.",
+      "ley": "Arts. 76 y 77 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 101 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Si el Ayuntamiento no propone candidato, el cargo queda vacante indefinidamente sin que nadie pueda designarlo",
+        "b": "Los Jueces de Paz son nombrados directamente por el Ministerio de Justicia sin intervención municipal",
+        "c": "El mandato de los Jueces de Paz dura diez años improrrogables",
+        "d": "Los Jueces de Paz y sus sustitutos son nombrados para un periodo de cuatro años por la Sala de Gobierno del Tribunal Superior de Justicia"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 101 LOPJ regula el nombramiento de los Jueces de Paz y sus sustitutos por un periodo de cuatro años, mediante designación de la Sala de Gobierno del Tribunal Superior de Justicia sobre la persona elegida por el Pleno del Ayuntamiento por mayoría absoluta; si el Ayuntamiento no propone en tres meses, la propia Sala de Gobierno procede a la designación.",
+      "ley": "Art. 101 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 102 y 103 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Jueces de Paz deben pertenecer obligatoriamente a la Carrera Judicial",
+        "b": "Los Jueces de Paz ejercen su función con carácter siempre gratuito, sin retribución alguna",
+        "c": "El cargo de Juez de Paz solo puede recaer en funcionarios públicos en activo",
+        "d": "Para ser Juez de Paz no se exige la titulación de Licenciado o Graduado en Derecho"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 102 y 103 LOPJ no exigen para ser Juez de Paz la titulación en Derecho exigida a Jueces de carrera, y prevén que los Jueces de Paz sean retribuidos conforme al sistema y la cuantía legalmente establecidos, sin pertenecer a la Carrera Judicial.",
+      "ley": "Arts. 102 y 103 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 547 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los miembros de las Fuerzas y Cuerpos de Seguridad solo prestan auxilio judicial si dependen del Gobierno central",
+        "b": "La función genérica de Policía Judicial no requiere requerimiento previo de autoridad judicial o fiscal",
+        "c": "El auxilio a Juzgados y Tribunales en la averiguación de delitos corresponde en exclusiva al Ministerio Fiscal",
+        "d": "La función genérica se presta dentro del ámbito de las respectivas competencias, dependan del Gobierno central, autonómico o local"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 547 LOPJ atribuye la función genérica de Policía Judicial -auxilio a Juzgados, Tribunales y Ministerio Fiscal en la averiguación de los delitos- a todos los miembros de las Fuerzas y Cuerpos de Seguridad cuando son requeridos para prestarla, dentro del ámbito de sus competencias, sin distinción de su dependencia central, autonómica o local.",
+      "ley": "Art. 547 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 99 y 100 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Jueces de Paz carecen de cualquier competencia penal, por mínima que sea",
+        "b": "Los Jueces de Paz conocen en el orden civil y penal de los asuntos que la ley les atribuya",
+        "c": "En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción habrá un Juzgado de Paz",
+        "d": "El Juzgado de Paz tiene jurisdicción dentro del término municipal correspondiente"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 99 y 100 LOPJ disponen que existirá un Juzgado de Paz en cada municipio que no cuente con Juzgado de Primera Instancia e Instrucción, con jurisdicción en el término municipal, conociendo sus titulares en el orden civil y penal de los asuntos que la ley les atribuya y desempeñando también funciones de Registro Civil.",
+      "ley": "Arts. 99 y 100 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 73 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Como Sala de lo Civil, conoce del recurso de casación fundado en infracción de derecho civil foral o especial propio de la Comunidad Autónoma",
+        "b": "Como Sala de lo Penal, instruye y falla causas contra Jueces, Magistrados y miembros del Ministerio Fiscal por delitos cometidos en el ejercicio de su cargo en la Comunidad Autónoma",
+        "c": "Carece de competencia para instruir causas penales contra Jueces de la Comunidad Autónoma",
+        "d": "Conoce de las cuestiones de competencia entre órganos del orden civil con sede en la Comunidad Autónoma sin otro superior común"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 73 LOPJ atribuye a la Sala de lo Civil y Penal del Tribunal Superior de Justicia, en su vertiente civil, el recurso de casación fundado en infracción de derecho civil foral o especial propio, y en su vertiente penal, la instrucción y fallo de causas contra Jueces, Magistrados y Fiscales por delitos cometidos en el ejercicio de su cargo en la Comunidad, además de apelaciones contra Audiencias Provinciales y cuestiones de competencia civil sin superior común.",
+      "ley": "Art. 73 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 544 a 546 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El juramento o promesa de acatamiento a la Constitución es opcional para Abogados y Procuradores",
+        "b": "Es obligación de los poderes públicos garantizar la defensa y la asistencia de Abogado en los términos constitucionales y legales",
+        "c": "Los poderes públicos no tienen obligación alguna de garantizar la asistencia letrada",
+        "d": "Las partes nunca pueden elegir libremente a su Abogado, que les es siempre asignado de oficio"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 544 a 546 LOPJ exigen a Abogados, Procuradores y Graduados Sociales el juramento o promesa de acatamiento a la Constitución y, con carácter general, la colegiación obligatoria para actuar ante Juzgados y Tribunales, reconocen la libre designación de representante y defensor por las partes salvo previsión legal en contrario, y obligan a los poderes públicos a garantizar la defensa y asistencia letrada.",
+      "ley": "Arts. 544 a 546 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 76 y 77 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las recusaciones contra el Presidente del TSJ las resuelve siempre el Tribunal Supremo",
+        "b": "Esta Sala especial carece de competencia sobre recusaciones de Presidentes de Audiencias Provinciales",
+        "c": "El Magistrado recusado puede formar parte de la Sala que decide sobre su propia recusación",
+        "d": "Cada Sala del Tribunal Superior de Justicia conoce de las recusaciones contra sus propios Magistrados, salvo que corresponda a la Sala especial"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 76 y 77 LOPJ atribuyen a cada Sala del Tribunal Superior de Justicia las recusaciones de sus Magistrados, salvo cuando corresponda a una Sala especial integrada por el Presidente del TSJ, los Presidentes de Sala y el Magistrado más moderno de cada una, que conoce de las recusaciones del Presidente, de Presidentes de Sala o de Audiencias Provinciales y de varios Magistrados de una misma Sala o Sección.",
+      "ley": "Arts. 76 y 77 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 53 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Tribunal Supremo tiene su sede en Barcelona",
+        "b": "El Tribunal Supremo es superior incluso al Tribunal Constitucional en materia de garantías constitucionales",
+        "c": "La jurisdicción del Tribunal Supremo se limita a la Comunidad de Madrid",
+        "d": "El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, salvo en materia de garantías constitucionales"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 53 LOPJ define al Tribunal Supremo, con sede en Madrid, como órgano jurisdiccional superior en todos los órdenes (salvo en materia de garantías constitucionales, reservada al Tribunal Constitucional), con jurisdicción en toda España y título exclusivo de Supremo.",
+      "ley": "Art. 53 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 548 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las unidades de Policía Judicial dependen orgánicamente del Ministerio del Interior",
+        "b": "Las unidades de Policía Judicial dependen orgánicamente del Consejo General del Poder Judicial",
+        "c": "Las unidades de Policía Judicial carecen de cualquier dependencia funcional respecto de Jueces y Fiscales",
+        "d": "La dependencia funcional de la Policía Judicial respecto de la autoridad judicial es solo una recomendación sin carácter vinculante"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 548 LOPJ configura la doble dependencia de las unidades de Policía Judicial: orgánica respecto del Ministerio del Interior, y funcional respecto de los Jueces, Tribunales y Ministerio Fiscal en las concretas investigaciones que dirigen.",
+      "ley": "Art. 548 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 66 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Esta Sala resuelve los recursos de apelación penal contra Juzgados de Instrucción provinciales",
+        "b": "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional conoce de recursos contra actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo",
+        "c": "Esta Sala carece de competencia sobre actos de Ministros y Secretarios de Estado",
+        "d": "Los recursos contra resoluciones del Tribunal Económico-Administrativo Central en materia de tributos cedidos corresponden siempre a esta Sala"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 66 LOPJ atribuye a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional, entre otras materias, recursos contra disposiciones de Ministros y Secretarios de Estado, contra actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo y cuestiones de competencia entre Juzgados Centrales de lo Contencioso-Administrativo.",
+      "ley": "Art. 66 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 62 y 63 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Cada Sala de la Audiencia Nacional tiene un Presidente nato distinto sin relación con el Presidente del Tribunal",
+        "b": "La Audiencia Nacional tiene jurisdicción en toda España",
+        "c": "La Audiencia Nacional depende jerárquicamente de los Tribunales Superiores de Justicia",
+        "d": "El Presidente de la Audiencia Nacional carece de cualquier consideración equiparable al Tribunal Supremo"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 62 y 63 LOPJ establecen que la Audiencia Nacional, con sede en Madrid, tiene jurisdicción en toda España, y que su Presidente, que ostenta la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas las Salas de la Audiencia Nacional.",
+      "ley": "Arts. 62 y 63 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 57 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Penal del Tribunal Supremo instruye y enjuicia causas contra Diputados y Senadores",
+        "b": "El instructor designado en causas contra aforados también forma parte de la Sala que enjuicia la causa",
+        "c": "En las causas contra aforados se designa un instructor que no formará parte de la Sala para enjuiciarlas",
+        "d": "La Sala de lo Penal del Tribunal Supremo conoce de los recursos de casación, revisión y otros extraordinarios en materia penal"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 57 LOPJ atribuye a la Sala de lo Penal del Tribunal Supremo los recursos extraordinarios en materia penal y la instrucción y enjuiciamiento de causas contra aforados (Diputados, Senadores, Fiscal General del Estado, Magistrados de la Audiencia Nacional o de Tribunales Superiores de Justicia, entre otros), designándose un instructor que queda excluido de la Sala enjuiciadora.",
+      "ley": "Art. 57 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 398 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "En caso de flagrante delito se tomarán las medidas de aseguramiento indispensables y se entregará al detenido al Juez de Instrucción más próximo",
+        "b": "De toda detención se dará cuenta, por el medio más rápido, al Presidente del Tribunal o Audiencia de quien dependa el detenido",
+        "c": "En caso de flagrante delito, el detenido debe ser entregado siempre al Ministerio del Interior y no a la autoridad judicial",
+        "d": "Los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 398 LOPJ, dentro de la inmunidad judicial, dispone que los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito, debiendo en este último caso entregarse al detenido al Juez de Instrucción más próximo y comunicarse de inmediato al Presidente del Tribunal o Audiencia de quien dependa.",
+      "ley": "Art. 398 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 82 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Audiencias Provinciales carecen de competencia sobre recursos de los Juzgados de Vigilancia Penitenciaria en todo caso",
+        "b": "Las Audiencias Provinciales no pueden conocer de recursos contra Juzgados de Menores bajo ninguna circunstancia",
+        "c": "Las Audiencias Provinciales conocen de recursos contra resoluciones de los Juzgados de Menores con sede en la provincia",
+        "d": "Las Audiencias Provinciales conocen en exclusiva de las causas contra aforados del Tribunal Supremo"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 82 LOPJ atribuye a las Audiencias Provinciales, en el orden penal, el conocimiento de causas por delito no atribuidas a otros órganos, recursos contra Juzgados de Instrucción, de lo Penal, de Vigilancia Penitenciaria y de Menores de la provincia, y cuestiones de competencia civil y penal entre Juzgados de la provincia sin superior común.",
+      "ley": "Art. 82 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 86 y 87 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La instrucción penal corresponde siempre a la Audiencia Provincial y no a los Juzgados de Instrucción",
+        "b": "El Registro Civil está a cargo de los Jueces de Primera Instancia y, por delegación, de los de Paz",
+        "c": "El Registro Civil está a cargo en exclusiva del Ministerio Fiscal",
+        "d": "Los Jueces de Paz nunca pueden tener delegada ninguna función de Registro Civil"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 86 y 87 LOPJ encomiendan el Registro Civil a los Jueces de Primera Instancia, con posible delegación en los de Paz, y atribuyen a los Juzgados de Instrucción la instrucción de las causas penales cuyo enjuiciamiento corresponda a las Audiencias Provinciales o a los Juzgados de lo Penal.",
+      "ley": "Arts. 86 y 87 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 544 a 546 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Abogados, Procuradores y Graduados Sociales prestarán juramento o promesa de acatamiento a la Constitución antes de iniciar su ejercicio profesional",
+        "b": "Los poderes públicos no tienen obligación alguna de garantizar la asistencia letrada",
+        "c": "La colegiación de Abogados y Procuradores es siempre voluntaria, sin excepción",
+        "d": "El juramento o promesa de acatamiento a la Constitución es opcional para Abogados y Procuradores"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 544 a 546 LOPJ exigen a Abogados, Procuradores y Graduados Sociales el juramento o promesa de acatamiento a la Constitución y, con carácter general, la colegiación obligatoria para actuar ante Juzgados y Tribunales, reconocen la libre designación de representante y defensor por las partes salvo previsión legal en contrario, y obligan a los poderes públicos a garantizar la defensa y asistencia letrada.",
+      "ley": "Arts. 544 a 546 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 70 a 72 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Tribunal Superior de Justicia toma el nombre de la Comunidad Autónoma y extiende su jurisdicción al ámbito de ésta",
+        "b": "El Presidente del Tribunal Superior de Justicia tiene la consideración de Magistrado del Tribunal Supremo mientras desempeñe el cargo",
+        "c": "El Tribunal Superior de Justicia carece de Sala de lo Contencioso-Administrativo",
+        "d": "El Tribunal Superior de Justicia culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 70 a 72 LOPJ establecen que el Tribunal Superior de Justicia culmina la organización judicial en el ámbito de la Comunidad Autónoma cuyo nombre toma, sin perjuicio de la jurisdicción del Tribunal Supremo, y está integrado por las Salas de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social, presidido por quien también preside la Sala de lo Civil y Penal con consideración de Magistrado del Tribunal Supremo.",
+      "ley": "Arts. 70 a 72 LOPJ"
+    },
+    {
+      "id": "tema_06_test_04_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 542 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Abogados se sujetan al principio de buena fe y gozan de los derechos inherentes a la dignidad de su función",
+        "b": "Los Abogados carecen de cualquier garantía de libertad de expresión en el ejercicio de la defensa",
+        "c": "La función de Abogado puede ser ejercida por cualquier persona sin titulación jurídica",
+        "d": "Solo los Procuradores pueden dirigir y defender jurídicamente a las partes en un proceso"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 542 LOPJ reserva en exclusiva al licenciado en Derecho la denominación y función de Abogado para la dirección y defensa de las partes o el asesoramiento jurídico, reconociendo su libertad e independencia, sujeción a la buena fe y amparo en su libertad de expresión y defensa.",
+      "ley": "Art. 542 LOPJ"
+    }
+  ]
+}

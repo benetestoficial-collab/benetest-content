@@ -1,0 +1,307 @@
+{
+  "tema_numero": 6,
+  "tema": "Tema 6 - Poder Judicial",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_06_test_03_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre la sede y el carácter del Tribunal Supremo según el artículo 53 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Tribunal Supremo tiene su sede en Barcelona por ser la mayor ciudad judicial",
+        "b": "El Tribunal Supremo comparte con los Tribunales Superiores de Justicia el título de Supremo",
+        "c": "La jurisdicción del Tribunal Supremo se limita al territorio de la Comunidad de Madrid",
+        "d": "El Tribunal Supremo tiene su sede en la villa de Madrid y jurisdicción en toda España"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 53 LOPJ establece que el Tribunal Supremo, con sede en la villa de Madrid, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales, con jurisdicción en toda España, y que ningún otro órgano podrá tener el título de Supremo.",
+      "ley": "Art. 53 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre la composición por Salas del Tribunal Supremo. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala Quinta del Tribunal Supremo conoce del orden social",
+        "b": "La Sala Segunda del Tribunal Supremo conoce del orden penal",
+        "c": "La Sala Cuarta del Tribunal Supremo conoce del orden social",
+        "d": "La Sala Primera del Tribunal Supremo conoce del orden civil"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 55 LOPJ enumera las cinco Salas del Tribunal Supremo: Primera (Civil), Segunda (Penal), Tercera (Contencioso-Administrativo), Cuarta (Social) y Quinta (Militar, regida por su legislación específica y, supletoriamente, por la LOPJ).",
+      "ley": "Art. 55 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre las competencias de la Sala de lo Civil del Tribunal Supremo. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Resuelve los conflictos de jurisdicción entre la Administración y los Tribunales",
+        "b": "Conoce en exclusiva de los recursos de amparo frente a vulneraciones de derechos fundamentales",
+        "c": "Es competente para instruir y enjuiciar causas penales contra Diputados y Senadores",
+        "d": "Conoce de los recursos de casación, revisión y otros extraordinarios en materia civil que establezca la ley"
+      },
+      "correct": "d",
+      "explicacion": "Conforme al artículo 56 LOPJ, la Sala de lo Civil del Tribunal Supremo conoce de los recursos de casación, revisión y otros extraordinarios en materia civil que establezca la ley, así como de determinadas demandas de responsabilidad civil contra altos cargos por hechos realizados en el ejercicio de su función.",
+      "ley": "Art. 56 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre la instrucción y enjuiciamiento de causas contra aforados en la Sala de lo Penal del Tribunal Supremo. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Penal del Tribunal Supremo instruye y enjuicia las causas contra el Fiscal General del Estado",
+        "b": "En estas causas, el instructor designado de entre los miembros de la Sala forma parte de ella para enjuiciarlas",
+        "c": "La Sala de lo Penal del Tribunal Supremo instruye y enjuicia las causas contra Magistrados de la Audiencia Nacional",
+        "d": "La Sala de lo Penal del Tribunal Supremo instruye y enjuicia las causas contra Diputados y Senadores"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 57 LOPJ atribuye a la Sala de lo Penal del Tribunal Supremo la instrucción y enjuiciamiento de causas contra Diputados, Senadores, el Fiscal General del Estado, Magistrados de la Audiencia Nacional y de los Tribunales Superiores de Justicia, entre otros aforados; en estos casos se designa un instructor de entre los miembros de la Sala que no formará parte de la misma para enjuiciar la causa.",
+      "ley": "Art. 57 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre las competencias de la Sala de lo Contencioso-Administrativo del Tribunal Supremo. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Conoce exclusivamente de procedimientos disciplinarios contra Letrados de la Administración de Justicia",
+        "b": "Es la única competente para conocer de los recursos de casación en materia civil",
+        "c": "Conoce en única instancia de los recursos contencioso-administrativos contra actos del Consejo de Ministros",
+        "d": "Conoce de las causas penales contra el Presidente del Gobierno"
+      },
+      "correct": "c",
+      "explicacion": "Según el artículo 58 LOPJ, la Sala de lo Contencioso-Administrativo del Tribunal Supremo conoce en única instancia de los recursos contencioso-administrativos contra actos y disposiciones del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y del Consejo General del Poder Judicial, así como de los recursos de casación y revisión en los términos legales.",
+      "ley": "Art. 58 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre la Sala especial del artículo 61 LOPJ, formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y los Magistrados más antiguo y más moderno de cada una. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Conoce de los procesos de declaración de ilegalidad y disolución de partidos políticos",
+        "b": "Conoce de los incidentes de recusación del Presidente del Tribunal Supremo",
+        "c": "Conoce de los recursos de revisión contra sentencias dictadas en única instancia por la Sala de lo Contencioso-Administrativo",
+        "d": "Esta Sala está formada exclusivamente por el Presidente del Tribunal Supremo y el Fiscal General del Estado"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 61 LOPJ regula una Sala especial integrada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas, que conoce, entre otras materias, de recursos de revisión contra sentencias de la Sala de lo Contencioso-Administrativo, de incidentes de recusación del Presidente y de los procesos de declaración de ilegalidad y disolución de partidos políticos.",
+      "ley": "Art. 61 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre la sede y jurisdicción de la Audiencia Nacional. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Audiencia Nacional tiene jurisdicción limitada a la Comunidad de Madrid",
+        "b": "El Presidente de la Audiencia Nacional carece de la consideración de Presidente de Sala del Tribunal Supremo",
+        "c": "La Audiencia Nacional, con sede en Madrid, tiene jurisdicción en toda España",
+        "d": "La Audiencia Nacional depende jerárquicamente de los Tribunales Superiores de Justicia"
+      },
+      "correct": "c",
+      "explicacion": "Conforme a los artículos 62 y 63 LOPJ, la Audiencia Nacional, con sede en la villa de Madrid, tiene jurisdicción en toda España; su Presidente tiene la consideración de Presidente de Sala del Tribunal Supremo y es el Presidente nato de todas sus Salas.",
+      "ley": "Arts. 62 y 63 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre las Salas que integran la Audiencia Nacional. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Audiencia Nacional está integrada por una Sala de lo Civil",
+        "b": "La Audiencia Nacional está integrada por una Sala de Apelación",
+        "c": "La Audiencia Nacional está integrada por una Sala de lo Social",
+        "d": "La Audiencia Nacional está integrada por una Sala de lo Penal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 64 LOPJ establece que la Audiencia Nacional está integrada por las Salas de Apelación, de lo Penal, de lo Contencioso-Administrativo y de lo Social; no existe en ella una Sala de lo Civil, al carecer de competencias en dicho orden jurisdiccional.",
+      "ley": "Art. 64 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre las competencias de la Sala de lo Penal de la Audiencia Nacional. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Es competente para resolver los recursos de amparo constitucional",
+        "b": "Sustituye a los Tribunales Superiores de Justicia en todas las causas civiles con elemento internacional",
+        "c": "Conoce de las causas por delitos de falsificación de moneda y delitos monetarios cuando lo determina la ley",
+        "d": "Conoce en exclusiva de los delitos leves cometidos en cualquier parte de España"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 65 LOPJ atribuye a la Sala de lo Penal de la Audiencia Nacional, entre otras materias, el enjuiciamiento de causas por delitos contra el titular de la Corona, falsificación de moneda y delitos monetarios, tráfico de drogas cometido por bandas organizadas con efectos en varias Audiencias, y delitos cometidos fuera del territorio nacional cuando corresponda a los Tribunales españoles.",
+      "ley": "Art. 65 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre las competencias de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Conoce de cuestiones de competencia entre los Juzgados Centrales de lo Contencioso-Administrativo",
+        "b": "Conoce de recursos contra actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo",
+        "c": "Conoce en exclusiva de los recursos de casación civil contra sentencias de Audiencias Provinciales",
+        "d": "Conoce en única instancia de recursos contra disposiciones de Ministros y Secretarios de Estado"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 66 LOPJ atribuye a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional el conocimiento, entre otros asuntos, de recursos contra disposiciones de Ministros y Secretarios de Estado, contra actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo y de cuestiones de competencia entre Juzgados Centrales de lo Contencioso-Administrativo; carece de competencia en materia de casación civil.",
+      "ley": "Art. 66 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre el Tribunal Superior de Justicia y sus Salas. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Tribunal Superior de Justicia tiene jurisdicción en toda España al igual que el Tribunal Supremo",
+        "b": "El Tribunal Superior de Justicia culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma",
+        "c": "El Tribunal Superior de Justicia carece de Sala de lo Social",
+        "d": "El Tribunal Superior de Justicia sustituye al Tribunal Supremo en todas sus funciones"
+      },
+      "correct": "b",
+      "explicacion": "Conforme a los artículos 70 a 72 LOPJ, el Tribunal Superior de Justicia culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, y está integrado por las Salas de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social.",
+      "ley": "Arts. 70 a 72 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre la Sala de lo Civil y Penal del Tribunal Superior de Justicia. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Como Sala de lo Penal, instruye y falla causas contra Jueces y Magistrados por delitos cometidos en el ejercicio de su cargo en la Comunidad Autónoma",
+        "b": "Conoce de los recursos de apelación contra resoluciones dictadas en primera instancia por las Audiencias Provinciales",
+        "c": "Esta Sala carece de competencia para conocer de demandas de responsabilidad civil contra miembros del Consejo de Gobierno autonómico",
+        "d": "Como Sala de lo Civil, conoce del recurso de casación fundado en infracción de derecho civil foral propio"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 73 LOPJ atribuye a la Sala de lo Civil y Penal del Tribunal Superior de Justicia, además de las funciones reseñadas, el conocimiento en única instancia de las demandas de responsabilidad civil por hechos cometidos en el ejercicio de su cargo contra el Presidente y miembros del Consejo de Gobierno de la Comunidad Autónoma, cuando esa atribución no corresponda al Tribunal Supremo.",
+      "ley": "Art. 73 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre las competencias de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Conoce en exclusiva de los procesos de declaración de ilegalidad de partidos políticos",
+        "b": "Resuelve los conflictos de jurisdicción entre el Tribunal Constitucional y el Poder Judicial",
+        "c": "Sustituye a la Sala de lo Penal de la Audiencia Nacional en todas sus competencias",
+        "d": "Conoce, en única instancia, de recursos contra disposiciones generales emanadas de las Comunidades Autónomas"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 74 LOPJ atribuye a la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia el conocimiento, en única instancia, de los recursos frente a actos de Entidades locales y de las Administraciones de las Comunidades Autónomas, y frente a disposiciones generales emanadas de estas últimas, entre otras materias.",
+      "ley": "Art. 74 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre la composición y sede de las Audiencias Provinciales. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las Audiencias Provinciales solo pueden tener una única Sección en toda España",
+        "b": "Pueden crearse Secciones de la Audiencia Provincial fuera de la capital de la provincia",
+        "c": "Las Audiencias Provinciales tienen su sede en la capital de la provincia, de la que toman su nombre",
+        "d": "Se componen, como mínimo, de un Presidente y dos o más Magistrados"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 80 y 81 LOPJ disponen que las Audiencias Provinciales tienen su sede en la capital de provincia, pudiendo crearse Secciones fuera de ella, y se componen de un Presidente y dos o más Magistrados, pudiendo articularse en varias Secciones de igual composición.",
+      "ley": "Arts. 80 y 81 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre las competencias penales de las Audiencias Provinciales. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Conocen en exclusiva de los delitos cometidos por aforados del Tribunal Supremo",
+        "b": "Conocen de las causas por delito salvo las que la ley atribuye a los Juzgados de lo Penal u otros Tribunales",
+        "c": "Carecen de competencia para conocer de recursos contra resoluciones de los Juzgados de Menores",
+        "d": "No pueden conocer de cuestiones de competencia en materia penal entre Juzgados de la provincia"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 82 LOPJ atribuye a las Audiencias Provinciales, en el orden penal, el conocimiento de las causas por delito salvo las atribuidas a los Juzgados de lo Penal u otros Tribunales, así como de los recursos contra resoluciones de los Juzgados de Instrucción, de Vigilancia Penitenciaria y de Menores, y de las cuestiones de competencia penal entre Juzgados de la provincia sin otro superior común.",
+      "ley": "Art. 82 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre la detención de Jueces y Magistrados en servicio activo. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "En caso de flagrante delito se tomarán las medidas de aseguramiento indispensables y se entregará al detenido al Juez de Instrucción más próximo",
+        "b": "De toda detención se dará cuenta, por el medio más rápido, al Presidente del Tribunal o Audiencia de quien dependa",
+        "c": "Solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito",
+        "d": "La detención de un Juez o Magistrado puede ser ordenada directamente por cualquier autoridad gubernativa sin intervención judicial"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 398 LOPJ, dentro del Capítulo de la inmunidad judicial, dispone que los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito, debiendo darse cuenta inmediata de la detención al Presidente del Tribunal o Audiencia de quien dependan, sin que quepa una orden de detención de naturaleza meramente gubernativa.",
+      "ley": "Art. 398 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre la relación entre las autoridades civiles o militares y los Jueces y Magistrados. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las autoridades civiles y militares se abstendrán de intimar a los Jueces y Magistrados y de citarlos para que comparezcan ante ellas",
+        "b": "Las autoridades militares tienen potestad disciplinaria directa sobre los Jueces civiles",
+        "c": "Las autoridades civiles pueden citar libremente a los Jueces a su despacho para cualquier diligencia",
+        "d": "Los Jueces y Magistrados pueden excusarse siempre de declarar en causa penal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 399 LOPJ establece que las autoridades civiles y militares se abstendrán de intimar a los Jueces y Magistrados y de citarlos para que comparezcan a su presencia; cuando necesiten datos o declaraciones no referidos a su cargo, deberán solicitarlos por escrito o recibirlos en el despacho oficial del Juez, previo aviso.",
+      "ley": "Art. 399 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre la misión del Ministerio Fiscal según el artículo 541 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Vela por la independencia de los Tribunales y procura ante ellos la satisfacción del interés social",
+        "b": "Forma parte orgánicamente del Poder Judicial como un órgano jurisdiccional más",
+        "c": "Tiene por misión promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público",
+        "d": "Se rige por lo que disponga su Estatuto Orgánico"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 541 LOPJ encomienda al Ministerio Fiscal promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público tutelado por la ley, velar por la independencia de los Tribunales y procurar la satisfacción del interés social, rigiéndose por su Estatuto Orgánico; el Ministerio Fiscal no ejerce potestad jurisdiccional ni integra el Poder Judicial en sentido orgánico.",
+      "ley": "Art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre las funciones de Abogados y Procuradores. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Corresponde exclusivamente a los Procuradores la representación de las partes en todo tipo de procesos, salvo que la ley autorice otra cosa",
+        "b": "La colegiación de Abogados y Procuradores es siempre voluntaria",
+        "c": "Los Abogados solo pueden actuar ante los Juzgados de Paz",
+        "d": "Los Procuradores tienen reservada en exclusiva la dirección y defensa jurídica de las partes"
+      },
+      "correct": "a",
+      "explicacion": "Según los artículos 542 y 543 LOPJ, corresponde al Abogado la dirección y defensa de las partes en toda clase de procesos, mientras que la representación de las partes corresponde exclusivamente a los Procuradores, salvo que la ley autorice otra cosa; la colegiación es, con carácter general, obligatoria para actuar ante Juzgados y Tribunales.",
+      "ley": "Arts. 542 y 543 LOPJ"
+    },
+    {
+      "id": "tema_06_test_03_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre la función genérica y las funciones específicas de la Policía Judicial. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La función genérica de auxilio a Juzgados, Tribunales y Ministerio Fiscal compete a todos los miembros de las Fuerzas y Cuerpos de Seguridad cuando fueren requeridos",
+        "b": "La Policía Judicial depende exclusivamente del Ministerio Fiscal, sin relación orgánica alguna con el Ministerio del Interior",
+        "c": "Entre las funciones específicas está la averiguación de los responsables y circunstancias de los hechos delictivos y la detención de los primeros",
+        "d": "Entre las funciones específicas está el auxilio a la autoridad judicial y fiscal en actuaciones fuera de su sede que requieran presencia policial"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 547 y 549 LOPJ distinguen una función genérica de auxilio a los Juzgados, Tribunales y Ministerio Fiscal, que compete a todos los miembros de las Fuerzas y Cuerpos de Seguridad cuando son requeridos, de las funciones específicas de las unidades de Policía Judicial, como la averiguación de responsables y circunstancias del delito o el auxilio fuera de su sede; orgánicamente dependen del Ministerio del Interior, y funcionalmente de Jueces, Tribunales y Fiscalía.",
+      "ley": "Arts. 547 y 549 LOPJ"
+    }
+  ]
+}

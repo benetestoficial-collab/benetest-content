@@ -122,8 +122,109 @@
       "total_preguntas": 0
     },
     "tema_06": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_07": {
       "tests": [],

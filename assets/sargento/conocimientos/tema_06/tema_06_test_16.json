@@ -1,0 +1,307 @@
+{
+  "tema_numero": 6,
+  "tema": "Tema 6 - Poder Judicial",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_06_test_16_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 543 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Procuradores no pueden realizar nunca actos de comunicación procesal",
+        "b": "En el ejercicio de su profesión, los Procuradores pueden ser sustituidos por otro Procurador",
+        "c": "Los Procuradores tienen reservada en exclusiva la dirección jurídica y defensa técnica de las partes",
+        "d": "Un Procurador no puede ser sustituido por otro Procurador bajo ninguna circunstancia"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 543 LOPJ reserva a los Procuradores, salvo excepción legal, la representación de las partes en todo tipo de procesos, permitiéndoles realizar los actos de comunicación procesal que la ley les autorice y admitiendo su sustitución por otro Procurador en el ejercicio de su profesión.",
+      "ley": "Art. 543 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 65 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Sala de lo Penal de la Audiencia Nacional conoce de delitos de falsificación de moneda y delitos monetarios",
+        "b": "La Sala de lo Penal de la Audiencia Nacional carece de competencia sobre delitos de falsificación de moneda",
+        "c": "La Sala de lo Penal de la Audiencia Nacional conoce en exclusiva de los delitos leves cometidos en cualquier parte de España",
+        "d": "La Sala de lo Penal de la Audiencia Nacional resuelve los recursos de amparo constitucional"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 65 LOPJ atribuye a la Sala de lo Penal de la Audiencia Nacional el enjuiciamiento de delitos contra la Corona y altos organismos, falsificación de moneda y delitos monetarios, tráfico de drogas por bandas organizadas con efectos en varias Audiencias, y delitos cometidos fuera de España cuando corresponda a la jurisdicción española.",
+      "ley": "Art. 65 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 57 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Sala de lo Penal del Tribunal Supremo instruye y enjuicia causas contra Diputados y Senadores",
+        "b": "La instrucción de causas contra aforados corresponde siempre al Juez Decano del lugar de residencia",
+        "c": "La Sala de lo Penal del Tribunal Supremo carece de competencia para enjuiciar a Magistrados de un Tribunal Superior de Justicia",
+        "d": "La Sala de lo Penal del Tribunal Supremo conoce de los recursos de casación en materia laboral"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 57 LOPJ atribuye a la Sala de lo Penal del Tribunal Supremo los recursos extraordinarios en materia penal y la instrucción y enjuiciamiento de causas contra aforados (Diputados, Senadores, Fiscal General del Estado, Magistrados de la Audiencia Nacional o de Tribunales Superiores de Justicia, entre otros), designándose un instructor que queda excluido de la Sala enjuiciadora.",
+      "ley": "Art. 57 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 62 y 63 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Audiencia Nacional depende jerárquicamente de los Tribunales Superiores de Justicia",
+        "b": "La Audiencia Nacional tiene jurisdicción limitada a la provincia de Madrid",
+        "c": "Cada Sala de la Audiencia Nacional tiene un Presidente nato distinto sin relación con el Presidente del Tribunal",
+        "d": "El Presidente de la Audiencia Nacional es el Presidente nato de todas sus Salas"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 62 y 63 LOPJ establecen que la Audiencia Nacional, con sede en Madrid, tiene jurisdicción en toda España, y que su Presidente, que ostenta la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas las Salas de la Audiencia Nacional.",
+      "ley": "Arts. 62 y 63 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 400 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La autoridad judicial inferior nunca puede acudir al despacho del Juez o Magistrado para recibirle declaración",
+        "b": "La declaración de un Juez en causa penal debe prestarse siempre públicamente en sede policial",
+        "c": "Un Juez puede negarse siempre a declarar en cualquier causa penal, sin excepción",
+        "d": "Si la autoridad judicial que ha de recibir la declaración es de categoría inferior, acudirá al despacho oficial del Juez o Magistrado, previo aviso, señalando día y hora"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 400 LOPJ establece que el Juez o Magistrado no podrá excusarse de declarar cuando sea necesario en la instrucción de una causa penal y ello pueda hacerse legalmente, previéndose que si la autoridad judicial receptora es de categoría inferior, acuda a su despacho oficial, previo aviso, señalando día y hora.",
+      "ley": "Art. 400 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 70 a 72 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Tribunal Superior de Justicia tiene jurisdicción en toda España, igual que el Tribunal Supremo",
+        "b": "El Presidente del Tribunal Superior de Justicia tiene la consideración de Magistrado del Tribunal Supremo mientras desempeñe el cargo",
+        "c": "El Tribunal Superior de Justicia sustituye íntegramente al Tribunal Supremo en todas sus funciones",
+        "d": "El Presidente del Tribunal Superior de Justicia nunca tiene consideración equiparable a Magistrado del Tribunal Supremo"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 70 a 72 LOPJ establecen que el Tribunal Superior de Justicia culmina la organización judicial en el ámbito de la Comunidad Autónoma cuyo nombre toma, sin perjuicio de la jurisdicción del Tribunal Supremo, y está integrado por las Salas de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social, presidido por quien también preside la Sala de lo Civil y Penal con consideración de Magistrado del Tribunal Supremo.",
+      "ley": "Arts. 70 a 72 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 54 y 55 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Sala Primera del Tribunal Supremo es la de lo Penal",
+        "b": "La Sala de lo Militar del Tribunal Supremo se rige en exclusiva por la LOPJ, sin legislación específica propia",
+        "c": "La Sala Quinta del Tribunal Supremo es la de lo Militar, regida supletoriamente por la LOPJ",
+        "d": "El Tribunal Supremo carece de Sala de lo Contencioso-Administrativo"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 54 y 55 LOPJ regulan la composición del Tribunal Supremo (Presidente, Presidentes de Sala y Magistrados) y sus cinco Salas: Primera (Civil), Segunda (Penal), Tercera (Contencioso-Administrativo), Cuarta (Social) y Quinta (Militar, con legislación específica y aplicación supletoria de la LOPJ).",
+      "ley": "Arts. 54 y 55 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 84 y 85 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Juzgados de Primera Instancia conocen de los recursos contra resoluciones de los Juzgados de Paz del partido",
+        "b": "Los Juzgados de Primera Instancia conocen en primera instancia de los juicios civiles no atribuidos a otros Juzgados o Tribunales",
+        "c": "En cada partido habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital de aquél",
+        "d": "Cada partido judicial puede tener, como máximo, un único Juzgado de Primera Instancia e Instrucción"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 84 y 85 LOPJ establecen que en cada partido judicial habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital del partido, que conocen en primera instancia de los asuntos civiles no atribuidos a otros órganos, de la jurisdicción voluntaria y de los recursos contra los Juzgados de Paz del partido.",
+      "ley": "Arts. 84 y 85 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 82 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Audiencias Provinciales conocen en exclusiva de las causas contra aforados del Tribunal Supremo",
+        "b": "Las Audiencias Provinciales conocen, en el orden penal, de las causas por delito salvo las atribuidas a los Juzgados de lo Penal u otros Tribunales",
+        "c": "Las cuestiones de competencia penal entre Juzgados de distintas provincias las resuelve siempre la Audiencia Provincial de Madrid",
+        "d": "Las Audiencias Provinciales no pueden conocer de recursos contra Juzgados de Menores bajo ninguna circunstancia"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 82 LOPJ atribuye a las Audiencias Provinciales, en el orden penal, el conocimiento de causas por delito no atribuidas a otros órganos, recursos contra Juzgados de Instrucción, de lo Penal, de Vigilancia Penitenciaria y de Menores de la provincia, y cuestiones de competencia civil y penal entre Juzgados de la provincia sin superior común.",
+      "ley": "Art. 82 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 86 y 87 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Juzgados de Instrucción conocen, en el orden penal, de la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales o a los Juzgados de lo Penal",
+        "b": "El Registro Civil está a cargo en exclusiva del Ministerio Fiscal",
+        "c": "Los Juzgados de Instrucción tienen vedada cualquier intervención en causas penales",
+        "d": "La instrucción penal corresponde siempre a la Audiencia Provincial y no a los Juzgados de Instrucción"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 86 y 87 LOPJ encomiendan el Registro Civil a los Jueces de Primera Instancia, con posible delegación en los de Paz, y atribuyen a los Juzgados de Instrucción la instrucción de las causas penales cuyo enjuiciamiento corresponda a las Audiencias Provinciales o a los Juzgados de lo Penal.",
+      "ley": "Arts. 86 y 87 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 54 y 55 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Tribunal Supremo está integrado por cuatro Salas únicamente",
+        "b": "La Sala Primera del Tribunal Supremo es la de lo Penal",
+        "c": "La Sala Quinta del Tribunal Supremo es la de lo Militar, regida supletoriamente por la LOPJ",
+        "d": "La Sala de lo Militar del Tribunal Supremo se rige en exclusiva por la LOPJ, sin legislación específica propia"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 54 y 55 LOPJ regulan la composición del Tribunal Supremo (Presidente, Presidentes de Sala y Magistrados) y sus cinco Salas: Primera (Civil), Segunda (Penal), Tercera (Contencioso-Administrativo), Cuarta (Social) y Quinta (Militar, con legislación específica y aplicación supletoria de la LOPJ).",
+      "ley": "Arts. 54 y 55 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 82 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las Audiencias Provinciales conocen de cuestiones de competencia en materia civil y penal entre Juzgados de la provincia sin otro superior común",
+        "b": "Las Audiencias Provinciales conocen de recursos contra resoluciones de los Juzgados de Vigilancia Penitenciaria, salvo competencia de la Audiencia Nacional",
+        "c": "Las Audiencias Provinciales conocen, en el orden penal, de las causas por delito salvo las atribuidas a los Juzgados de lo Penal u otros Tribunales",
+        "d": "Las Audiencias Provinciales conocen en exclusiva de las causas contra aforados del Tribunal Supremo"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 82 LOPJ atribuye a las Audiencias Provinciales, en el orden penal, el conocimiento de causas por delito no atribuidas a otros órganos, recursos contra Juzgados de Instrucción, de lo Penal, de Vigilancia Penitenciaria y de Menores de la provincia, y cuestiones de competencia civil y penal entre Juzgados de la provincia sin superior común.",
+      "ley": "Art. 82 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 59 y 60 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Cada Sala del Tribunal Supremo conoce de las recusaciones contra los Magistrados que la componen",
+        "b": "Las recusaciones contra Magistrados del Tribunal Supremo las resuelve siempre el Consejo General del Poder Judicial",
+        "c": "La Sala de lo Social del Tribunal Supremo conoce de los recursos de casación en materia penal",
+        "d": "El Magistrado recusado debe formar parte de la Sala que decide sobre su propia recusación"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 59 y 60 LOPJ atribuyen a la Sala de lo Social del Tribunal Supremo los recursos de casación y revisión propios de ese orden, y a cada Sala del Tribunal Supremo el conocimiento de las recusaciones de sus propios Magistrados y de las cuestiones de competencia entre órganos del mismo orden sin superior común, quedando excluido de la Sala el Magistrado recusado.",
+      "ley": "Arts. 59 y 60 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 548 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las unidades de Policía Judicial dependen exclusivamente del Ministerio de Justicia",
+        "b": "Las unidades de Policía Judicial carecen de cualquier dependencia funcional respecto de Jueces y Fiscales",
+        "c": "Las unidades de Policía Judicial dependen funcionalmente de los Jueces, Tribunales y del Ministerio Fiscal en las investigaciones concretas que se les encomienden",
+        "d": "Las unidades de Policía Judicial dependen orgánicamente del Consejo General del Poder Judicial"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 548 LOPJ configura la doble dependencia de las unidades de Policía Judicial: orgánica respecto del Ministerio del Interior, y funcional respecto de los Jueces, Tribunales y Ministerio Fiscal en las concretas investigaciones que dirigen.",
+      "ley": "Art. 548 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 74 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Esta Sala carece de competencia sobre disposiciones generales de las Entidades locales",
+        "b": "Las apelaciones contra Juzgados de lo Contencioso-Administrativo corresponden siempre al Tribunal Supremo",
+        "c": "La Sala de lo Contencioso-Administrativo del TSJ conoce de recursos contra disposiciones generales emanadas de las Comunidades Autónomas",
+        "d": "Esta Sala conoce de las causas penales contra el Presidente del Gobierno autonómico"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 74 LOPJ atribuye a la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia el conocimiento en única instancia de recursos contra actos de Entidades locales, de la Administración autonómica y contra disposiciones generales de ambas, así como las apelaciones en segunda instancia frente a los Juzgados de lo Contencioso-Administrativo.",
+      "ley": "Art. 74 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 58 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo conoce en única instancia de recursos contra actos del Consejo de Ministros",
+        "b": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo resuelve los recursos de casación civil",
+        "c": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo conoce de recursos contra actos del Consejo General del Poder Judicial",
+        "d": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo conoce de los recursos de casación y revisión en los términos legales"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 58 LOPJ atribuye a la Sala de lo Contencioso-Administrativo del Tribunal Supremo el conocimiento en única instancia de los recursos contra actos del Consejo de Ministros, de sus Comisiones Delegadas y del Consejo General del Poder Judicial, además de los recursos de casación y revisión que establezca la ley.",
+      "ley": "Art. 58 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 89 bis LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La jurisdicción de los Juzgados de lo Penal nunca puede extenderse más allá de un único municipio",
+        "b": "Los Juzgados de lo Penal se encargan exclusivamente de la instrucción, nunca del enjuiciamiento",
+        "c": "Los Juzgados de lo Penal solo pueden existir en la capital del Estado",
+        "d": "En cada provincia, con sede en su capital, habrá uno o varios Juzgados de lo Penal"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 89 bis LOPJ prevé uno o varios Juzgados de lo Penal con sede en la capital de cada provincia, que enjuician las causas por delito que la ley determine, pudiendo su jurisdicción extenderse a uno o varios partidos judiciales de la misma provincia conforme a la legislación de planta y demarcación.",
+      "ley": "Art. 89 bis LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 101 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Jueces de Paz son nombrados directamente por el Ministerio de Justicia sin intervención municipal",
+        "b": "Si el Ayuntamiento no propone candidato, el cargo queda vacante indefinidamente sin que nadie pueda designarlo",
+        "c": "Si el Ayuntamiento no efectúa la propuesta en tres meses, la Sala de Gobierno del TSJ designa al Juez de Paz",
+        "d": "El mandato de los Jueces de Paz dura diez años improrrogables"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 101 LOPJ regula el nombramiento de los Jueces de Paz y sus sustitutos por un periodo de cuatro años, mediante designación de la Sala de Gobierno del Tribunal Superior de Justicia sobre la persona elegida por el Pleno del Ayuntamiento por mayoría absoluta; si el Ayuntamiento no propone en tres meses, la propia Sala de Gobierno procede a la designación.",
+      "ley": "Art. 101 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 54 y 55 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Tribunal Supremo se compone de su Presidente, los Presidentes de Sala y los Magistrados que determine la ley",
+        "b": "El Tribunal Supremo está integrado por cuatro Salas únicamente",
+        "c": "El Tribunal Supremo carece de Sala de lo Contencioso-Administrativo",
+        "d": "La Sala Primera del Tribunal Supremo es la de lo Penal"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 54 y 55 LOPJ regulan la composición del Tribunal Supremo (Presidente, Presidentes de Sala y Magistrados) y sus cinco Salas: Primera (Civil), Segunda (Penal), Tercera (Contencioso-Administrativo), Cuarta (Social) y Quinta (Militar, con legislación específica y aplicación supletoria de la LOPJ).",
+      "ley": "Arts. 54 y 55 LOPJ"
+    },
+    {
+      "id": "tema_06_test_16_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 549 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las unidades de Policía Judicial carecen de competencia para practicar ninguna detención",
+        "b": "Corresponde a estas unidades el auxilio a la autoridad judicial y fiscal en actuaciones fuera de su sede que requieran presencia policial",
+        "c": "Las unidades de Policía Judicial pueden encomendarse cualquier actuación administrativa ajena a la función de Policía Judicial",
+        "d": "Las unidades de Policía Judicial solo pueden auxiliar a la autoridad judicial dentro de la propia sede del Juzgado"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 549 LOPJ enumera las funciones específicas de las unidades de Policía Judicial: averiguación de responsables y circunstancias del delito y detención de los primeros, auxilio a la autoridad judicial y fiscal fuera de su sede, ejecución material de actuaciones coercitivas ordenadas judicial o fiscalmente, y garantía del cumplimiento de órdenes y resoluciones judiciales o fiscales, sin que pueda encomendárseles otra actuación ajena a esta función.",
+      "ley": "Art. 549 LOPJ"
+    }
+  ]
+}
