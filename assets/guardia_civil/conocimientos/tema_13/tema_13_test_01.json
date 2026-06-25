@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_13_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 1 de la Ley Orgánica 4/2015, la salvaguarda de la seguridad ciudadana, como bien jurídico de carácter colectivo, es función de:",
+      "options": {
+        "a": "El Ministerio del Interior y las comunidades autónomas",
+        "b": "Las Fuerzas y Cuerpos de Seguridad exclusivamente",
+        "c": "El Estado, con sujeción a la Constitución y a las Leyes",
+        "d": "Los ayuntamientos en su respectivo término municipal"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 1 califica la seguridad ciudadana como requisito indispensable para el ejercicio de los derechos fundamentales y las libertades públicas, atribuyendo su salvaguarda al Estado, siempre sujeto a la Constitución y a las Leyes.",
+      "ley": "LO 4/2015, art. 1"
+    },
+    {
+      "id": "tema_13_test_01_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el ámbito de aplicación de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Las disposiciones de la Ley son aplicables en todo el territorio nacional",
+        "b": "Quedan fuera de su ámbito las prescripciones de buen orden de espectáculos mediante acción administrativa ordinaria",
+        "c": "La Ley sustituye íntegramente a los regímenes de seguridad aérea, marítima y ferroviaria",
+        "d": "Quedan salvaguardadas las disposiciones sobre los estados de alarma, excepción y sitio"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 2 establece que la Ley se aplica sin menoscabo de los regímenes legales que regulan ámbitos concretos como la seguridad aérea, marítima, ferroviaria, vial o en los transportes; no los sustituye, sino que coexiste con ellos.",
+      "ley": "LO 4/2015, art. 2"
+    },
+    {
+      "id": "tema_13_test_01_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Entre los fines de la LO 4/2015 enumerados en su artículo 3, se incluye expresamente:",
+      "options": {
+        "a": "La protección de las personas y bienes, con especial atención a los menores y a las personas con discapacidad necesitadas de especial protección",
+        "b": "La promoción exclusiva del turismo en zonas de gran afluencia",
+        "c": "La gestión directa de los servicios de emergencia sanitaria",
+        "d": "La regulación del régimen electoral general"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 3 incluye entre los fines de la Ley la protección de las personas y bienes, prestando especial atención a los menores y a las personas con discapacidad que necesiten especial protección.",
+      "ley": "LO 4/2015, art. 3"
+    },
+    {
+      "id": "tema_13_test_01_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: las disposiciones de los capítulos III y V de la LO 4/2015 deberán interpretarse y aplicarse del modo más favorable a la plena efectividad de los derechos fundamentales, singularmente de los derechos de reunión y manifestación, las libertades de expresión e información, la libertad sindical y el derecho de ______.",
+      "options": {
+        "a": "Petición",
+        "b": "Propiedad",
+        "c": "Asociación",
+        "d": "Huelga"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 4.1 menciona expresamente, entre los derechos a los que debe darse la interpretación más favorable, el derecho de huelga, junto al de reunión y manifestación, las libertades de expresión e información y la libertad sindical.",
+      "ley": "LO 4/2015, art. 4"
+    },
+    {
+      "id": "tema_13_test_01_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. La actuación de los miembros de las Fuerzas y Cuerpos de Seguridad, conforme al artículo 4.2 de la LO 4/2015, está sujeta a los principios básicos de actuación regulados en:",
+      "options": {
+        "a": "El artículo 30 de la Ley 5/2014 de Seguridad Privada",
+        "b": "El artículo 104 de la Constitución Española",
+        "c": "El Código de Conducta Europeo de Policía",
+        "d": "El artículo 5 de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad"
+      },
+      "correct": "d",
+      "explicacion": "El precepto remite expresamente a los principios básicos de actuación de los miembros de las Fuerzas y Cuerpos de Seguridad regulados en el artículo 5 de su Ley Orgánica reguladora.",
+      "ley": "LO 4/2015, art. 4"
+    },
+    {
+      "id": "tema_13_test_01_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes personas NO figura entre las autoridades y órganos competentes en materia de seguridad ciudadana en el ámbito de la Administración General del Estado, según el artículo 5.2 de la LO 4/2015:",
+      "options": {
+        "a": "El Ministro del Interior",
+        "b": "El Secretario de Estado de Seguridad",
+        "c": "Los Subdelegados del Gobierno en las provincias",
+        "d": "Los Presidentes de las Diputaciones Provinciales"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 5.2 enumera como autoridades y órganos competentes al Ministro del Interior, al Secretario de Estado de Seguridad, a los titulares de órganos directivos del Ministerio del Interior, a los Delegados del Gobierno y a los Subdelegados del Gobierno y Directores Insulares, sin incluir a los Presidentes de Diputaciones Provinciales.",
+      "ley": "LO 4/2015, art. 5"
+    },
+    {
+      "id": "tema_13_test_01_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Las administraciones públicas con competencias en materia de seguridad ciudadana, según el artículo 6 de la LO 4/2015, se regirán en sus relaciones por los principios de:",
+      "options": {
+        "a": "Cooperación y lealtad institucional",
+        "b": "Subsidiariedad y autonomía plena",
+        "c": "Reciprocidad económica",
+        "d": "Jerarquía exclusiva estatal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 6 establece que las administraciones públicas con competencias en la materia se regirán, en sus relaciones, por los principios de cooperación y lealtad institucional, facilitándose la información necesaria.",
+      "ley": "LO 4/2015, art. 6"
+    },
+    {
+      "id": "tema_13_test_01_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el deber de colaboración regulado en el artículo 7 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Las autoridades y funcionarios públicos deben colaborar con las autoridades y órganos competentes en seguridad ciudadana",
+        "b": "Las empresas de seguridad privada tienen un especial deber de auxiliar a las Fuerzas y Cuerpos de Seguridad",
+        "c": "Los particulares nunca pueden ser requeridos para prestar ayuda en casos de calamidad pública",
+        "d": "Quienes sufran daños por colaborar en casos de catástrofe serán indemnizados de acuerdo con las leyes"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 7.2 prevé precisamente que las autoridades y los miembros de las Fuerzas y Cuerpos de Seguridad podrán recabar de los particulares su ayuda y colaboración, especialmente en casos de grave calamidad pública o catástrofe extraordinaria, siempre que no implique riesgo personal para ellos.",
+      "ley": "LO 4/2015, art. 7"
+    },
+    {
+      "id": "tema_13_test_01_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 8 de la LO 4/2015, el Documento Nacional de Identidad es:",
+      "options": {
+        "a": "Uno de los varios documentos con igual valor probatorio que el pasaporte para acreditar la identidad",
+        "b": "Un documento privado expedido por las comunidades autónomas",
+        "c": "Un documento público y oficial, único con suficiente valor por sí solo para acreditar la identidad y los datos personales de su titular",
+        "d": "Un documento de uso exclusivo para mayores de dieciocho años"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 8.1 califica el Documento Nacional de Identidad como documento público y oficial, siendo el único con suficiente valor por sí solo para la acreditación, a todos los efectos, de la identidad y los datos personales de su titular.",
+      "ley": "LO 4/2015, art. 8"
+    },
+    {
+      "id": "tema_13_test_01_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 8.2 de la LO 4/2015, los datos personales que figuren en el Documento Nacional de Identidad, en ningún caso, podrán ser relativos a:",
+      "options": {
+        "a": "El nombre y los apellidos del titular",
+        "b": "La raza, etnia, religión, creencias, ideología, discapacidad u orientación sexual",
+        "c": "La fecha de nacimiento del titular",
+        "d": "El número de identificación fiscal"
+      },
+      "correct": "b",
+      "explicacion": "El precepto excluye expresamente que los datos personales del documento puedan referirse a la raza, etnia, religión, creencias, opinión, ideología, discapacidad, orientación o identidad sexual, o afiliación política o sindical.",
+      "ley": "LO 4/2015, art. 8"
+    },
+    {
+      "id": "tema_13_test_01_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: el Documento Nacional de Identidad es obligatorio a partir de los ______ años.",
+      "options": {
+        "a": "Doce",
+        "b": "Catorce",
+        "c": "Dieciséis",
+        "d": "Dieciocho"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 9.1 establece que el Documento Nacional de Identidad es obligatorio a partir de los catorce años, debiendo su titular mantenerlo en vigor y custodiarlo con la debida diligencia.",
+      "ley": "LO 4/2015, art. 9"
+    },
+    {
+      "id": "tema_13_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 9.2 de la LO 4/2015, la sustracción o extravío del Documento Nacional de Identidad deberá comunicarse:",
+      "options": {
+        "a": "Tan pronto como sea posible a la comisaría de Policía o puesto de las Fuerzas y Cuerpos de Seguridad más próximo",
+        "b": "Exclusivamente ante notario público",
+        "c": "En el plazo máximo de seis meses al Registro Civil",
+        "d": "Únicamente a través de la sede electrónica del Ministerio de Justicia"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 9.2 impone la obligación de dar cuenta de la sustracción o extravío del documento tan pronto como sea posible a la comisaría de Policía o puesto de las Fuerzas y Cuerpos de Seguridad más próximo.",
+      "ley": "LO 4/2015, art. 9"
+    },
+    {
+      "id": "tema_13_test_01_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. La competencia para la dirección, organización y gestión de todos los aspectos referentes a la confección y expedición del Documento Nacional de Identidad corresponde, según el artículo 10 de la LO 4/2015, a:",
+      "options": {
+        "a": "La Dirección General de la Guardia Civil",
+        "b": "El Ministerio del Interior, ejercida a través de la Dirección General de la Policía",
+        "c": "Las Delegaciones del Gobierno en las comunidades autónomas",
+        "d": "El Instituto Nacional de Estadística"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 10 atribuye la competencia exclusiva al Ministerio del Interior, que la ejerce a través de la Dirección General de la Policía, a la que corresponde también la custodia de los archivos relacionados con el documento.",
+      "ley": "LO 4/2015, art. 10"
+    },
+    {
+      "id": "tema_13_test_01_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 11 de la LO 4/2015, el pasaporte español es un documento público, personal, individual e intransferible que, salvo prueba en contrario, acredita:",
+      "options": {
+        "a": "La situación económica del titular",
+        "b": "La identidad y nacionalidad de los ciudadanos españoles fuera de España",
+        "c": "La capacidad jurídica plena del titular en todo caso",
+        "d": "El domicilio fiscal del titular"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 11.1 define el pasaporte como documento que acredita, salvo prueba en contrario, la identidad y nacionalidad de los ciudadanos españoles fuera de España, y dentro del territorio nacional las mismas circunstancias de los no residentes.",
+      "ley": "LO 4/2015, art. 11"
+    },
+    {
+      "id": "tema_13_test_01_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes circunstancias NO exceptúa el derecho a la expedición del pasaporte conforme al artículo 11.2 de la LO 4/2015:",
+      "options": {
+        "a": "Haber sido condenado a penas o medidas de seguridad privativas de libertad no extinguidas",
+        "b": "Tener una sanción administrativa firme en materia de tráfico",
+        "c": "Tener acordada por el órgano judicial competente la retirada del pasaporte",
+        "d": "Tener impuesta una medida de libertad vigilada con prohibición de abandonar el territorio nacional"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 11.2 únicamente contempla como excepciones al derecho a la expedición del pasaporte las condenas privativas de libertad no extinguidas, la retirada acordada judicialmente, la libertad vigilada con prohibición de salida y la prohibición judicial de salida o expedición a menores o personas con capacidad modificada judicialmente; una sanción administrativa de tráfico no se encuentra entre ellas.",
+      "ley": "LO 4/2015, art. 11"
+    },
+    {
+      "id": "tema_13_test_01_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 1 de la LO 4/2015, esta Ley tiene por objeto la regulación de un conjunto de actuaciones orientadas a la tutela de la seguridad ciudadana mediante:",
+      "options": {
+        "a": "El control de las importaciones y exportaciones",
+        "b": "La supervisión exclusiva del tráfico rodado",
+        "c": "La protección de personas y bienes y el mantenimiento de la tranquilidad de los ciudadanos",
+        "d": "La gestión del patrimonio histórico nacional"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 1.2 señala que la Ley regula un conjunto plural y diversificado de actuaciones orientadas a la tutela de la seguridad ciudadana, mediante la protección de personas y bienes y el mantenimiento de la tranquilidad de los ciudadanos.",
+      "ley": "LO 4/2015, art. 1"
+    },
+    {
+      "id": "tema_13_test_01_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Entre los principios a los que se sujeta el ejercicio de las potestades reconocidas a las autoridades competentes en materia de seguridad ciudadana, según el artículo 4.1 de la LO 4/2015, NO se incluye:",
+      "options": {
+        "a": "Legalidad",
+        "b": "Proporcionalidad",
+        "c": "Oportunidad",
+        "d": "Gratuidad"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 4.1 cita los principios de legalidad, igualdad de trato y no discriminación, oportunidad, proporcionalidad, eficacia, eficiencia y responsabilidad, sometiéndose al control administrativo y jurisdiccional; la gratuidad no figura entre ellos.",
+      "ley": "LO 4/2015, art. 4"
+    },
+    {
+      "id": "tema_13_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 12 de la LO 4/2015, la competencia para la expedición del pasaporte en el extranjero corresponde a:",
+      "options": {
+        "a": "Las Representaciones Diplomáticas y Consulares de España",
+        "b": "Las embajadas de terceros países acreditados",
+        "c": "Los organismos internacionales de la Unión Europea",
+        "d": "La Dirección General de la Guardia Civil"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 12.1 atribuye la competencia para la expedición del pasaporte en territorio nacional a la Dirección General de la Policía y, en el extranjero, a las Representaciones Diplomáticas y Consulares de España.",
+      "ley": "LO 4/2015, art. 12"
+    },
+    {
+      "id": "tema_13_test_01_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 13 de la LO 4/2015, los extranjeros que se encuentren en territorio español tienen el derecho y la obligación de:",
+      "options": {
+        "a": "Conservar y portar consigo la documentación que acredite su identidad y su situación regular en España",
+        "b": "Renunciar a su documentación de origen al entrar en territorio español",
+        "c": "Tramitar el Documento Nacional de Identidad en el plazo de un mes",
+        "d": "Depositar su documentación en la comisaría de su localidad de residencia"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 13.1 reconoce a los extranjeros el derecho y la obligación de conservar y portar consigo la documentación expedida por las autoridades de su país de origen, así como la que acredite su situación regular en España.",
+      "ley": "LO 4/2015, art. 13"
+    },
+    {
+      "id": "tema_13_test_01_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la documentación de los extranjeros, conforme al artículo 13 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Pueden ser privados de su documentación de origen en el curso de investigaciones judiciales de carácter penal",
+        "b": "Están obligados a exhibir su documentación cuando sean requeridos por las autoridades, por el tiempo imprescindible para la comprobación",
+        "c": "Pueden demostrar su identidad por cualquier otro medio si no llevan consigo la documentación",
+        "d": "No pueden ser privados de su documentación de origen en ningún caso, ni siquiera por orden judicial"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 13.2 establece que los extranjeros no podrán ser privados de su documentación de origen salvo en el curso de investigaciones judiciales de carácter penal, por lo que sí existe esa excepción.",
+      "ley": "LO 4/2015, art. 13"
+    }
+  ]
+}

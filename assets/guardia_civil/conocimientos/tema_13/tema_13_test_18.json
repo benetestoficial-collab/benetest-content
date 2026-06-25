@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 18",
+  "preguntas": [
+    {
+      "id": "tema_13_test_18_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 3.3 de la Ley 5/2014, el régimen sancionador y las facultades de inspección se aplican también a quienes presten servicios de seguridad privada:",
+      "options": {
+        "a": "Sin estar autorizados, habilitados o acreditados para el ejercicio legal de los mismos",
+        "b": "Únicamente si han sido denunciados previamente por un competidor",
+        "c": "Solo cuando el servicio se preste en territorio de otra comunidad autónoma",
+        "d": "Exclusivamente si causan un daño económico superior a mil euros"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 3.3 de la Ley 5/2014 extiende el régimen sancionador y la inspección a quienes operen sin autorización, declaración responsable, habilitación o acreditación.",
+      "ley": "Ley 5/2014, art. 3"
+    },
+    {
+      "id": "tema_13_test_18_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 38.1 de la LO 4/2015, las infracciones muy graves prescriben a los ______ años de haberse cometido.",
+      "options": {
+        "a": "Uno",
+        "b": "Dos",
+        "c": "Tres",
+        "d": "Cuatro"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 38.1 de la LO 4/2015 fija en dos años el plazo de prescripción de las infracciones muy graves.",
+      "ley": "LO 4/2015, art. 38"
+    },
+    {
+      "id": "tema_13_test_18_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las sanciones accesorias del artículo 39.2 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Incluyen la retirada de armas y licencias correspondientes",
+        "b": "Incluyen el comiso de los bienes, medios o instrumentos empleados en la infracción, salvo terceros de buena fe",
+        "c": "Incluyen la suspensión temporal de licencias hasta seis meses para infracciones graves",
+        "d": "Estas sanciones accesorias se imponen siempre de forma automática junto a toda multa, sin valorar la naturaleza de los hechos"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 39.2 de la LO 4/2015 prevé que la multa podrá llevar aparejada alguna de estas sanciones accesorias atendiendo a la naturaleza de los hechos, sin que su imposición sea automática en todo caso.",
+      "ley": "LO 4/2015, art. 39"
+    },
+    {
+      "id": "tema_13_test_18_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 19.1 de la Ley 5/2014, las empresas de seguridad privada deben constituir un aval o seguro de caución para atender exclusivamente:",
+      "options": {
+        "a": "Las indemnizaciones laborales a su personal",
+        "b": "Las deudas comerciales con sus proveedores",
+        "c": "Las responsabilidades administrativas por infracciones a la normativa de seguridad privada",
+        "d": "Los impuestos municipales del ejercicio"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 19.1.f) de la Ley 5/2014 destina este aval o seguro de caución exclusivamente a las responsabilidades administrativas derivadas de infracciones a la normativa de seguridad privada.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_18_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la prescripción de sanciones, conforme al artículo 40 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Las sanciones por infracciones leves prescriben al año",
+        "b": "Las sanciones por infracciones graves prescriben a los dos años",
+        "c": "Las sanciones por infracciones muy graves prescriben a los tres años",
+        "d": "El cómputo se inicia el mismo día de comisión de la infracción, no de la firmeza de la sanción"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 40.1 de la LO 4/2015 computa el plazo desde el día siguiente a aquel en que la resolución sancionadora adquiera firmeza en vía administrativa, no desde la comisión de la infracción.",
+      "ley": "LO 4/2015, art. 40"
+    },
+    {
+      "id": "tema_13_test_18_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 22.2 de la Ley 5/2014, los representantes legales de empresas de seguridad no pueden haber sido administradores de una empresa declarada en concurso culpable en los ______ años anteriores.",
+      "options": {
+        "a": "Cinco",
+        "b": "Ocho",
+        "c": "Diez",
+        "d": "Quince"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 22.2.e) de la Ley 5/2014 fija en diez años el periodo en que no se puede haber sido administrador de una empresa declarada en concurso calificado como culpable.",
+      "ley": "Ley 5/2014, art. 22"
+    },
+    {
+      "id": "tema_13_test_18_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 45.1 de la LO 4/2015, no podrán sancionarse los hechos ya sancionados penal o administrativamente cuando se aprecie identidad de:",
+      "options": {
+        "a": "Fecha de comisión únicamente",
+        "b": "Lugar exclusivamente",
+        "c": "Sujeto, hecho y fundamento",
+        "d": "Órgano sancionador exclusivamente"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 45.1 de la LO 4/2015 exige identidad de sujeto, hecho y fundamento para aplicar el principio non bis in idem.",
+      "ley": "LO 4/2015, art. 45"
+    },
+    {
+      "id": "tema_13_test_18_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los requisitos para la habilitación profesional, conforme al artículo 28 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Se exige no haber sido sancionado en los dos años anteriores por infracción grave en materia de seguridad privada",
+        "b": "Se exige no haber sido sancionado en los cuatro años anteriores por infracción muy grave en materia de seguridad privada",
+        "c": "Se exige no haber sido separado del servicio en Fuerzas y Cuerpos de Seguridad en los dos años anteriores",
+        "d": "El plazo de carencia de sanciones administrativas es indiferente y no se exige en ningún caso"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 28.1.f) de la Ley 5/2014 exige expresamente no haber sido sancionado en los plazos señalados por infracción grave o muy grave en materia de seguridad privada.",
+      "ley": "Ley 5/2014, art. 28"
+    },
+    {
+      "id": "tema_13_test_18_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 54.1 de la LO 4/2015, el interesado dispone de un plazo de ______ días para el pago voluntario con reducción de la multa, o para alegar.",
+      "options": {
+        "a": "Diez",
+        "b": "Quince",
+        "c": "Veinte",
+        "d": "Treinta"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 54.1 de la LO 4/2015 concede un plazo de quince días para el pago voluntario con reducción o para formular alegaciones.",
+      "ley": "LO 4/2015, art. 54"
+    },
+    {
+      "id": "tema_13_test_18_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 33.2 de la LO 4/2015, las infracciones solo se sancionarán con multa en grado máximo cuando los hechos revistan:",
+      "options": {
+        "a": "Especial gravedad, atendiendo al número y entidad de las circunstancias concurrentes",
+        "b": "Cualquier mínima irregularidad documental",
+        "c": "Repercusión mediática significativa",
+        "d": "Reconocimiento expreso de culpabilidad por el infractor"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 33.2 de la LO 4/2015 reserva el grado máximo a los supuestos de especial gravedad, valorando el número y entidad de las circunstancias concurrentes.",
+      "ley": "LO 4/2015, art. 33"
+    },
+    {
+      "id": "tema_13_test_18_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las infracciones administrativas de la Ley 5/2014 y la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Ambas leyes prevén un sistema de sanciones graduadas en muy graves, graves y leves o sus equivalentes",
+        "b": "Ambas leyes contemplan medidas provisionales previas al procedimiento sancionador en supuestos de urgencia",
+        "c": "Ambas leyes prevén la posibilidad de imponer sanciones accesorias junto a la multa principal",
+        "d": "Ambas leyes regulan exactamente el mismo catálogo de infracciones sin ninguna diferencia material"
+      },
+      "correct": "d",
+      "explicacion": "Cada ley tipifica un catálogo de infracciones propio y diferenciado, adaptado a su objeto regulado: seguridad ciudadana en un caso y seguridad privada en el otro, por lo que no son catálogos idénticos.",
+      "ley": "LO 4/2015 y Ley 5/2014, régimen sancionador"
+    },
+    {
+      "id": "tema_13_test_18_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 49.3 de la LO 4/2015, la duración de las medidas de carácter provisional no podrá exceder, salvo acuerdo motivado, de la ______ del plazo previsto para la sanción correspondiente.",
+      "options": {
+        "a": "Cuarta parte",
+        "b": "Mitad",
+        "c": "Totalidad",
+        "d": "Tercera parte"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 49.3 de la LO 4/2015 limita esta duración a la mitad del plazo previsto para la sanción correspondiente, salvo acuerdo motivado en contrario.",
+      "ley": "LO 4/2015, art. 49"
+    },
+    {
+      "id": "tema_13_test_18_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 55.3 de la Ley 5/2014, la duración de las medidas provisionales anteriores al procedimiento sancionador en materia de seguridad privada no podrá exceder de:",
+      "options": {
+        "a": "Seis meses",
+        "b": "Un mes",
+        "c": "Un año",
+        "d": "Tres meses"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 55.3 de la Ley 5/2014 fija en seis meses el máximo de duración de estas medidas provisionales.",
+      "ley": "Ley 5/2014, art. 55"
+    },
+    {
+      "id": "tema_13_test_18_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la caducidad del procedimiento, conforme al artículo 50 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "El procedimiento caduca transcurrido un año desde su incoación sin notificación de la resolución",
+        "b": "La resolución que declare la caducidad pondrá fin al procedimiento",
+        "c": "La administración puede incoar un nuevo procedimiento mientras no haya prescrito la infracción",
+        "d": "Los procedimientos caducados interrumpen el plazo de prescripción de la infracción"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 50.2 de la LO 4/2015 establece expresamente que los procedimientos caducados no interrumpirán el plazo de prescripción.",
+      "ley": "LO 4/2015, art. 50"
+    },
+    {
+      "id": "tema_13_test_18_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 19.1 de la Ley 5/2014, las empresas de seguridad privada no podrán haber sido condenadas por intromisión ilegítima en el derecho al honor, intimidad o propia imagen en los ______ años anteriores a la solicitud.",
+      "options": {
+        "a": "Tres",
+        "b": "Cinco",
+        "c": "Dos",
+        "d": "Diez"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 19.1.h) de la Ley 5/2014 fija en cinco años el periodo de carencia para este tipo de condenas.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_18_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 53.4 de la LO 4/2015, cuando las sanciones hayan sido impuestas por la Administración General del Estado, los órganos y procedimientos de recaudación ejecutiva serán los establecidos en:",
+      "options": {
+        "a": "La Ley de Enjuiciamiento Civil",
+        "b": "El Código Civil",
+        "c": "El Reglamento General de Recaudación",
+        "d": "El Estatuto de los Trabajadores"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 53.4 de la LO 4/2015 remite al Reglamento General de Recaudación para estos supuestos cuando la sanción provenga de la Administración General del Estado.",
+      "ley": "LO 4/2015, art. 53"
+    },
+    {
+      "id": "tema_13_test_18_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las actuaciones previas al procedimiento sancionador, conforme al artículo 48 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Pueden realizarse con anterioridad a la incoación del procedimiento para determinar si concurren circunstancias que la justifiquen",
+        "b": "Se incorporan al procedimiento sancionador una vez incoado este",
+        "c": "Su práctica interrumpe automáticamente el plazo de prescripción de la infracción",
+        "d": "Pueden desarrollarse sin intervención del presunto responsable si fuera indispensable para la investigación"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 48.3 de la LO 4/2015 aclara que la práctica de actuaciones previas no interrumpe la prescripción de las infracciones.",
+      "ley": "LO 4/2015, art. 48"
+    },
+    {
+      "id": "tema_13_test_18_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 54.2 de la LO 4/2015, el procedimiento sancionador abreviado no será de aplicación a las infracciones ______.",
+      "options": {
+        "a": "Leves",
+        "b": "Muy graves",
+        "c": "Graves de primera comisión",
+        "d": "Cometidas por menores"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 54.2 de la LO 4/2015 excluye expresamente las infracciones muy graves del procedimiento sancionador abreviado.",
+      "ley": "LO 4/2015, art. 54"
+    },
+    {
+      "id": "tema_13_test_18_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 39.2 de la Ley 5/2014, los servicios de seguridad privada uniformados portarán los medios de defensa reglamentarios, que no incluirán armas de fuego salvo en los servicios contemplados en:",
+      "options": {
+        "a": "El artículo 40 y los que reglamentariamente se determinen",
+        "b": "Cualquier servicio nocturno sin excepción",
+        "c": "Los servicios prestados en territorio insular",
+        "d": "Los servicios de duración superior a doce horas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 39.3 de la Ley 5/2014 remite al artículo 40 y a lo que reglamentariamente se determine para los servicios que sí pueden prestarse con armas de fuego.",
+      "ley": "Ley 5/2014, art. 39"
+    },
+    {
+      "id": "tema_13_test_18_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 42.1 de la LO 4/2015, si la reposición a su estado originario no fuera posible, procederá la ______ por los daños y perjuicios causados.",
+      "options": {
+        "a": "Indemnización",
+        "b": "Condonación",
+        "c": "Amnistía administrativa",
+        "d": "Compensación fiscal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 42.1 de la LO 4/2015 prevé la indemnización por daños y perjuicios cuando la reposición al estado originario no resulte posible.",
+      "ley": "LO 4/2015, art. 42"
+    }
+  ]
+}

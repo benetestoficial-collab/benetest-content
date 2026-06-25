@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 7",
+  "preguntas": [
+    {
+      "id": "tema_12_test_07_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las mujeres extranjeras víctimas de violencia de género tienen garantizados los derechos de la Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género:",
+      "options": {
+        "a": "Cualquiera que sea su situación administrativa",
+        "b": "Exclusivamente si son nacionales de un país de la Unión Europea",
+        "c": "Únicamente si cuentan con autorización de residencia de larga duración",
+        "d": "Solo si han denunciado los hechos en su país de origen previamente"
+      },
+      "correct": "a",
+      "explicacion": "Las mujeres extranjeras, cualquiera que sea su situación administrativa, tienen garantizados los derechos reconocidos en la Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género en caso de ser víctimas de violencia de género, y en la ley de garantía integral de la libertad sexual en caso de violencias sexuales.",
+      "ley": "Artículo 31 bis.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Si al denunciarse una situación de violencia de género se pone de manifiesto la situación irregular de la víctima:",
+      "options": {
+        "a": "Se mantiene el procedimiento sancionador en paralelo al proceso penal sin suspensión alguna",
+        "b": "No se incoará expediente sancionador por la infracción del artículo 53.1.a) y se suspenderá el que se hubiera incoado o la ejecución de expulsión",
+        "c": "Se procederá de inmediato a su expulsión, con independencia del resultado de la denuncia",
+        "d": "Pierde automáticamente cualquier derecho a presentar la denuncia ante las autoridades"
+      },
+      "correct": "b",
+      "explicacion": "Si al denunciarse una situación de violencia de género o sexual contra una mujer extranjera se pusiera de manifiesto su situación irregular, no se incoará el expediente sancionador por infracción del artículo 53.1.a), y se suspenderá el expediente que se hubiera incoado con anterioridad a la denuncia, o la ejecución de las órdenes de expulsión o devolución acordadas.",
+      "ley": "Artículo 31 bis.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La mujer extranjera víctima de violencia de género podrá solicitar una autorización de residencia y trabajo por circunstancias excepcionales:",
+      "options": {
+        "a": "Solo si previamente ha residido en España de forma legal durante al menos un año",
+        "b": "A partir del momento en que se hubiera dictado orden de protección a su favor o, en su defecto, informe del Ministerio Fiscal indicando indicios de violencia de género o sexual",
+        "c": "Únicamente si aporta testigos presenciales de los hechos denunciados",
+        "d": "Solo tras la finalización completa del proceso penal con sentencia condenatoria firme"
+      },
+      "correct": "b",
+      "explicacion": "La mujer extranjera podrá solicitar una autorización de residencia y trabajo por circunstancias excepcionales a partir del momento en que se hubiera dictado una orden de protección a su favor o, en su defecto, informe del Ministerio Fiscal que indique la existencia de indicios de violencia de género o sexual, sin resolverse dicha autorización hasta que concluya el procedimiento penal.",
+      "ley": "Artículo 31 bis.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Mientras se resuelve definitivamente la autorización por circunstancias excepcionales de una mujer víctima de violencia de género, la autoridad competente:",
+      "options": {
+        "a": "Concederá una autorización provisional de residencia y trabajo, que concluirá cuando se conceda o deniegue definitivamente la autorización por circunstancias excepcionales",
+        "b": "Debe denegar de plano cualquier solicitud presentada antes de la sentencia firme",
+        "c": "Solo puede emitir un certificado de residencia válido por cuarenta y ocho horas",
+        "d": "No puede otorgar ningún tipo de documentación hasta que finalice el procedimiento penal completo"
+      },
+      "correct": "a",
+      "explicacion": "La autoridad competente para otorgar la autorización por circunstancias excepcionales concederá una autorización provisional de residencia y trabajo a favor de la mujer extranjera, que concluirá en el momento en que se concedan o denieguen definitivamente las autorizaciones por circunstancias excepcionales.",
+      "ley": "Artículo 31 bis.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Si el procedimiento penal concluyera con sentencia condenatoria o resolución de la que se deduzca que hubo violencia de género o sexual, incluido el archivo por paradero desconocido del investigado o sobreseimiento por su expulsión:",
+      "options": {
+        "a": "Solo se concede la autorización si la víctima aporta nueva denuncia adicional",
+        "b": "Se archiva definitivamente cualquier expediente sin posibilidad de obtener autorización alguna",
+        "c": "Se notificará a la interesada la concesión de las autorizaciones solicitadas, o se le informará de su posible concesión si no las hubiera solicitado",
+        "d": "Se requiere obligatoriamente nuevo informe del Ministerio Fiscal posterior a la sentencia"
+      },
+      "correct": "c",
+      "explicacion": "Cuando el procedimiento penal concluyera con sentencia condenatoria o resolución de la que se deduzca que la mujer ha sido víctima de violencia de género o sexual, incluido el archivo por paradero desconocido del investigado o el sobreseimiento provisional por su expulsión, se notificará a la interesada la concesión de las autorizaciones solicitadas, o se le informará de la posibilidad de concederlas si no las hubiera solicitado.",
+      "ley": "Artículo 31 bis.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Podrá ser autorizado, en régimen de estancia, el extranjero que tenga como fin único o principal, entre otras actividades:",
+      "options": {
+        "a": "Ejercer cualquier actividad económica lucrativa por cuenta propia sin restricción de tipo de actividad",
+        "b": "Desempeñar funciones de representación diplomática de su país de origen",
+        "c": "Cursar o ampliar estudios, realizar investigación o formación, participar en intercambio de alumnos, prácticas no laborales o servicios de voluntariado",
+        "d": "Realizar tareas domésticas remuneradas en cualquier domicilio familiar español"
+      },
+      "correct": "c",
+      "explicacion": "Podrá ser autorizado, en régimen de estancia, el extranjero que tenga como fin único o principal cursar o ampliar estudios, realizar actividades de investigación o formación, participar en programas de intercambio de alumnos, realizar prácticas no laborales o realizar servicios de voluntariado, todas ellas de carácter no laboral.",
+      "ley": "Artículo 33.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La vigencia de la autorización por estudios coincidirá con la duración del curso para el que esté matriculado el extranjero, prorrogándose con un límite, en cada prórroga, de:",
+      "options": {
+        "a": "3 meses, idéntico al plazo general de la situación de estancia ordinaria",
+        "b": "6 meses fijos, sin posibilidad de adaptación al tipo concreto de actividad formativa",
+        "c": "1 año, en los términos y períodos de cada actividad conforme a su legislación específica",
+        "d": "2 años, equiparándose siempre a la duración total de cualquier titulación universitaria"
+      },
+      "correct": "c",
+      "explicacion": "La autorización se prorrogará con el límite de 1 año en cada prórroga en los términos y con los periodos de cada actividad de conformidad con su legislación específica, siempre que el titular demuestre que sigue reuniendo las condiciones de la autorización inicial y cumple los requisitos exigidos.",
+      "ley": "Artículo 33.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros admitidos con fines de estudio, prácticas no laborales o voluntariado podrán ser autorizados a ejercer una actividad retribuida por cuenta propia o ajena:",
+      "options": {
+        "a": "Sin ninguna limitación temporal ni de compatibilidad con la actividad formativa principal",
+        "b": "Únicamente tras finalizar por completo el programa formativo o curso académico",
+        "c": "En la medida en que ello no limite la prosecución de los estudios o actividad asimilada, en los términos reglamentarios",
+        "d": "Solo si la actividad retribuida se desarrolla fuera del territorio español"
+      },
+      "correct": "c",
+      "explicacion": "Los extranjeros admitidos con fines de estudio, prácticas no laborales o voluntariado podrán ser autorizados para ejercer una actividad retribuida por cuenta propia o ajena, en la medida en que ello no limite la prosecución de los estudios o actividad asimilada, en los términos que reglamentariamente se determinen.",
+      "ley": "Artículo 33.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Todo extranjero admitido como estudiante en otro Estado miembro de la Unión Europea que solicite cursar parte de sus estudios o completarlos en España:",
+      "options": {
+        "a": "Solo puede solicitarlo si ha agotado completamente sus estudios en el Estado miembro de origen",
+        "b": "Podrá solicitar y obtener una autorización de estancia por estudios, si reúne los requisitos reglamentarios, sin ser exigible el visado",
+        "c": "Necesita visado en todo caso, sin excepción alguna por su condición previa de estudiante comunitario",
+        "d": "Debe iniciar siempre el procedimiento desde su país de origen, sin posibilidad de tramitación dentro de la UE"
+      },
+      "correct": "b",
+      "explicacion": "Todo extranjero admitido en calidad de estudiante en otro Estado miembro de la Unión Europea, que solicite cursar parte de sus estudios ya iniciados o completarlos en España, podrá solicitar una autorización de estancia por estudios y obtenerla, si reúne los requisitos reglamentarios, no siendo exigible el visado.",
+      "ley": "Artículo 33.7 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros que cursen en España estudios de formación sanitaria especializada se sometE al régimen de estancia previsto en el artículo 33, salvo que:",
+      "options": {
+        "a": "Sean nacionales de un país con tratado bilateral específico en materia sanitaria",
+        "b": "Cuenten con más de cinco años de experiencia profesional acreditada previa",
+        "c": "El programa formativo dure menos de seis meses, en cuyo caso se exime de todo régimen",
+        "d": "Ya contaran con autorización de residencia previa al inicio de los estudios, en cuyo caso podrán continuar en dicha situación"
+      },
+      "correct": "d",
+      "explicacion": "Se someten al régimen de estancia previsto en el artículo 33 los extranjeros que cursen en España estudios de formación sanitaria especializada de acuerdo con la Ley de profesiones sanitarias, salvo que ya contaran con una autorización de residencia previamente al inicio de los mismos, en cuyo caso podrán continuar en dicha situación.",
+      "ley": "Artículo 33.8 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El Ministro del Interior reconocerá la condición de apátrida a los extranjeros que, manifestando carecer de nacionalidad, reúnan los requisitos de:",
+      "options": {
+        "a": "Cualquier resolución unilateral de las Naciones Unidas sobre desplazados forzosos",
+        "b": "El Convenio de Schengen, en su regulación sobre listas de personas no admisibles",
+        "c": "La normativa interna española sin remisión a ningún convenio internacional",
+        "d": "La Convención sobre el Estatuto de Apátridas hecha en Nueva York el 28 de septiembre de 1954"
+      },
+      "correct": "d",
+      "explicacion": "El Ministro del Interior reconocerá la condición de apátrida a los extranjeros que manifestando que carecen de nacionalidad reúnen los requisitos previstos en la Convención sobre el Estatuto de Apátridas hecha en Nueva York el 28 de septiembre de 1954, expidiéndoles la documentación prevista en dicha Convención.",
+      "ley": "Artículo 34.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Un extranjero indocumentado que acredita no poder ser documentado por ningún país y desea ser documentado por España podrá obtener un documento identificativo cuando concurran razones excepcionales de:",
+      "options": {
+        "a": "Índole humanitaria, interés público o cumplimiento de compromisos adquiridos por España, verificada la información pertinente",
+        "b": "Mera conveniencia personal del solicitante, sin necesidad de justificación adicional",
+        "c": "Disponibilidad presupuestaria suficiente en la Oficina de Extranjería competente",
+        "d": "Acreditación de vínculos familiares con cualquier ciudadano de un país de la Unión Europea"
+      },
+      "correct": "a",
+      "explicacion": "El extranjero que acredite no poder ser documentado por autoridades de ningún país, y desee ser documentado por España, podrá obtener un documento identificativo, una vez verificada la información pertinente y siempre que concurran y se acrediten razones excepcionales de índole humanitaria, interés público o cumplimiento de compromisos adquiridos por España.",
+      "ley": "Artículo 34.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En todo caso, se denegará la documentación de indocumentado solicitada cuando el peticionario:",
+      "options": {
+        "a": "Haya residido en España de forma legal durante más de cinco años continuados",
+        "b": "Cuente con familiares de nacionalidad española en primer grado de consanguinidad",
+        "c": "Acredite haber cursado estudios universitarios en territorio español",
+        "d": "Esté incurso en alguno de los supuestos del artículo 26 (prohibición de entrada), o se haya dictado contra él una orden de expulsión"
+      },
+      "correct": "d",
+      "explicacion": "En todo caso, se denegará la documentación solicitada por el indocumentado cuando el peticionario esté incurso en alguno de los supuestos del artículo 26 (prohibición de entrada en España), o se haya dictado contra él una orden de expulsión.",
+      "ley": "Artículo 34.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La resolución favorable sobre la petición de asilo en España supondrá el reconocimiento de la condición de refugiado, lo que conlleva:",
+      "options": {
+        "a": "Únicamente el derecho a permanecer en territorio español sin posibilidad de ejercer ninguna actividad económica",
+        "b": "La obtención automática e inmediata de la nacionalidad española sin trámite adicional",
+        "c": "La pérdida automática de la nacionalidad de origen del solicitante",
+        "d": "El derecho a residir en España y desarrollar actividades laborales, profesionales y mercantiles, así como la no devolución ni expulsión conforme al artículo 33 de la Convención de Ginebra"
+      },
+      "correct": "d",
+      "explicacion": "La resolución favorable sobre la petición de asilo supondrá el reconocimiento de la condición de refugiado, que tendrá derecho a residir en España y desarrollar actividades laborales, profesionales y mercantiles conforme a la Ley reguladora del derecho de asilo, suponiendo además su no devolución ni expulsión en los términos del artículo 33 de la Convención de Ginebra de 1951.",
+      "ley": "Artículo 34.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El estatuto de apátrida comportará:",
+      "options": {
+        "a": "El régimen específico que reglamentariamente se determine",
+        "b": "La automática equiparación al estatuto de refugiado sin diferencias",
+        "c": "Exactamente el mismo régimen que la nacionalidad española de origen",
+        "d": "Únicamente derechos de carácter sanitario, sin alcance documental ni de residencia"
+      },
+      "correct": "a",
+      "explicacion": "El estatuto de apátrida comportará el régimen específico que reglamentariamente se determine, sin que la LO 4/2000 detalle exhaustivamente su contenido, remitiendo a desarrollo posterior la concreción de su régimen jurídico.",
+      "ley": "Artículo 34.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La realización de trabajo en una familia para compensar la estancia y manutención mientras se mejoran conocimientos lingüísticos o profesionales se regula conforme a:",
+      "options": {
+        "a": "El régimen sancionador previsto para el trabajo no declarado",
+        "b": "Únicamente la legislación civil sobre contratos de prestación de servicios",
+        "c": "Los acuerdos internacionales sobre colocación «au pair»",
+        "d": "El Estatuto de los Trabajadores, en su régimen general de contratación"
+      },
+      "correct": "c",
+      "explicacion": "La realización de trabajo en una familia para compensar la estancia y mantenimiento en la misma, mientras se mejoran los conocimientos lingüísticos o profesionales, se regulará de acuerdo con lo dispuesto en los acuerdos internacionales sobre colocación «au pair».",
+      "ley": "Artículo 33.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las autoridades españolas facilitarán la entrada y permanencia en España, en los términos reglamentariamente establecidos, de los estudiantes extranjeros que participen en:",
+      "options": {
+        "a": "Programas de la Unión Europea destinados a favorecer la movilidad con destino a la Unión o en la misma",
+        "b": "Cualquier programa privado de intercambio sin relación con instituciones de la Unión Europea",
+        "c": "Programas exclusivamente bilaterales acordados entre universidades de un solo país tercero",
+        "d": "Iniciativas particulares sin reconocimiento oficial por organismo educativo alguno"
+      },
+      "correct": "a",
+      "explicacion": "Se facilitará la entrada y permanencia en España, en los términos establecidos reglamentariamente, de los estudiantes extranjeros que participen en programas de la Unión Europea destinados a favorecer la movilidad con destino a la Unión o en la misma.",
+      "ley": "Artículo 33.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En el momento de presentar la solicitud de autorización por circunstancias excepcionales, la mujer víctima de violencia de género también podrá solicitar, por sí misma o por representante, autorización a favor de:",
+      "options": {
+        "a": "Únicamente sus padres ascendientes, sin extensión a los hijos menores",
+        "b": "Sus hijos menores de edad o con discapacidad a su cargo, e incluso autorización de residencia y trabajo si fueran mayores de 16 años y estuvieran en España al denunciar",
+        "c": "Exclusivamente otros familiares mayores de 65 años a su cargo",
+        "d": "Solo terceros sin vínculo familiar directo que aporten testimonio sobre los hechos"
+      },
+      "correct": "b",
+      "explicacion": "En el momento de presentación de la solicitud, o en cualquier momento posterior del proceso penal, la mujer extranjera podrá solicitar autorización de residencia por circunstancias excepcionales a favor de sus hijos menores de edad o con discapacidad que no puedan proveer a sus necesidades, o autorización de residencia y trabajo si fueran mayores de 16 años y se encontraran en España al momento de la denuncia.",
+      "ley": "Artículo 31 bis.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Si del procedimiento penal concluido no pudiera deducirse la situación de violencia de género o sexual alegada por la víctima:",
+      "options": {
+        "a": "La extranjera queda exenta de cualquier consecuencia administrativa por haber presentado la denuncia",
+        "b": "Se incoará el expediente administrativo sancionador por infracción del artículo 53.1.a) o se continuará el que se hubiera suspendido inicialmente",
+        "c": "Se inicia un nuevo proceso penal de oficio contra la denunciante por presunta falsedad",
+        "d": "Se concede automáticamente la autorización solicitada, con independencia del resultado penal"
+      },
+      "correct": "b",
+      "explicacion": "Si del procedimiento penal concluido no pudiera deducirse la situación de violencia de género o sexual, se incoará el expediente administrativo sancionador por infracción del artículo 53.1.a) o se continuará, en el supuesto de que se hubiera suspendido inicialmente con motivo de la denuncia.",
+      "ley": "Artículo 31 bis.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_07_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando el extranjero se proponga estudiar más de un curso académico en estudios superiores, la vigencia de la autorización:",
+      "options": {
+        "a": "Es indefinida desde la primera concesión, sin necesidad de comprobación posterior de requisitos",
+        "b": "Se limita siempre a un único curso académico, requiriendo nueva solicitud anual completa",
+        "c": "Depende exclusivamente de la decisión discrecional del centro educativo, sin intervención administrativa",
+        "d": "Coincidirá con la duración oficial de los estudios, en las condiciones reglamentarias, incluyendo el mantenimiento y comprobación de los requisitos"
+      },
+      "correct": "d",
+      "explicacion": "En el caso de los estudios superiores, cuando el solicitante vaya a estudiar más de un curso académico, la vigencia de la autorización coincidirá con la duración oficial de los estudios en las condiciones reglamentarias, que incluirán el mantenimiento y comprobación de los requisitos que dieron lugar al otorgamiento de la autorización.",
+      "ley": "Artículo 33.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

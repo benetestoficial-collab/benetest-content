@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_13_test_16_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 12 de la Ley 5/2014, corresponde a la Dirección General de la Guardia Civil el control de:",
+      "options": {
+        "a": "Las academias de detectives privados",
+        "b": "Los guardas rurales y sus especialidades",
+        "c": "Los centros de formación universitaria",
+        "d": "Las compañías de seguros que operan en el sector"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 12.2 de la Ley 5/2014 atribuye a la Dirección General de la Guardia Civil el control de los guardas rurales y sus especialidades.",
+      "ley": "Ley 5/2014, art. 12"
+    },
+    {
+      "id": "tema_13_test_16_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 5.2 de la LO 4/2015, los Delegados del Gobierno son autoridades competentes en materia de seguridad ciudadana en el ámbito de la ______.",
+      "options": {
+        "a": "Administración local exclusivamente",
+        "b": "Administración General del Estado",
+        "c": "Unión Europea",
+        "d": "Administración de Justicia"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 5.2 de la LO 4/2015 enumera a los Delegados del Gobierno entre las autoridades competentes en el ámbito de la Administración General del Estado.",
+      "ley": "LO 4/2015, art. 5"
+    },
+    {
+      "id": "tema_13_test_16_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las competencias de las comunidades autónomas, conforme al artículo 13 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Pueden autorizar empresas de seguridad privada domiciliadas en su territorio con actuación limitada al mismo",
+        "b": "Pueden inspeccionar y sancionar actividades de seguridad privada realizadas en su territorio",
+        "c": "Pueden coordinar los servicios de seguridad privada con la policía autonómica y local",
+        "d": "Tienen competencia exclusiva y excluyente sobre toda empresa de seguridad que opere en territorio nacional"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 13.1 de la Ley 5/2014 limita la competencia autonómica a las empresas domiciliadas en su territorio y con actuación restringida al mismo, sin alcance exclusivo sobre todo el territorio nacional.",
+      "ley": "Ley 5/2014, art. 13"
+    },
+    {
+      "id": "tema_13_test_16_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 32 de la LO 4/2015, los alcaldes podrán imponer sanciones cuando las infracciones se cometan en espacios públicos municipales o afecten a bienes de titularidad local, siempre que:",
+      "options": {
+        "a": "El infractor sea residente en el municipio",
+        "b": "Lo apruebe previamente el pleno municipal por mayoría absoluta",
+        "c": "Ostenten competencia sobre la materia de acuerdo con la legislación específica",
+        "d": "La sanción no supere los cien euros"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 32.3 de la LO 4/2015 condiciona esta competencia municipal a que el alcalde ostente competencia sobre la materia conforme a la legislación específica.",
+      "ley": "LO 4/2015, art. 32"
+    },
+    {
+      "id": "tema_13_test_16_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 27.3 de la Ley 5/2014, la habilitación de todo el personal de seguridad privada corresponde a la Dirección General de la Policía, excepto la de los ______ y sus especialidades.",
+      "options": {
+        "a": "Vigilantes de seguridad",
+        "b": "Guardas rurales",
+        "c": "Escoltas privados",
+        "d": "Jefes de seguridad"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 27.3 de la Ley 5/2014 reserva a la Dirección General de la Guardia Civil la habilitación de los guardas rurales y sus especialidades.",
+      "ley": "Ley 5/2014, art. 27"
+    },
+    {
+      "id": "tema_13_test_16_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los órganos competentes en materia sancionadora, conforme al artículo 32 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "El Ministro del Interior sanciona las infracciones muy graves en grado máximo",
+        "b": "El Secretario de Estado de Seguridad sanciona las infracciones muy graves en grado medio y mínimo",
+        "c": "Las comunidades autónomas nunca pueden imponer sanciones aunque tengan competencias en seguridad ciudadana",
+        "d": "Los Delegados del Gobierno sancionan las infracciones graves y leves"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 32.2 de la LO 4/2015 reconoce competencia sancionadora a las autoridades de las comunidades autónomas en el ámbito de sus competencias en materia de seguridad ciudadana.",
+      "ley": "LO 4/2015, art. 32"
+    },
+    {
+      "id": "tema_13_test_16_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 16 de la Ley 5/2014, las comisiones mixtas de seguridad privada se constituyen con el carácter de:",
+      "options": {
+        "a": "Órganos jurisdiccionales de primera instancia",
+        "b": "Tribunales arbitrales con potestad ejecutiva",
+        "c": "Órganos consultivos y de colaboración entre administraciones y representantes del sector",
+        "d": "Entidades de certificación de calidad"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 16.2 de la Ley 5/2014 califica a estas comisiones como órganos consultivos y de colaboración entre administraciones públicas y representantes del sector.",
+      "ley": "Ley 5/2014, art. 16"
+    },
+    {
+      "id": "tema_13_test_16_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 10 de la LO 4/2015, la competencia para la dirección, organización y gestión del Documento Nacional de Identidad corresponde al Ministerio del Interior, ejercida a través de la ______.",
+      "options": {
+        "a": "Dirección General de la Guardia Civil",
+        "b": "Dirección General de la Policía",
+        "c": "Secretaría de Estado de Seguridad directamente",
+        "d": "Subsecretaría del Ministerio del Interior"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 10 de la LO 4/2015 atribuye esta competencia al Ministerio del Interior, ejercida a través de la Dirección General de la Policía.",
+      "ley": "LO 4/2015, art. 10"
+    },
+    {
+      "id": "tema_13_test_16_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las competencias de la Administración General del Estado, conforme al artículo 12 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Corresponde la habilitación e inhabilitación del personal de seguridad privada",
+        "b": "Corresponde la autorización de servicios de seguridad que se presten en ámbito superior a una comunidad autónoma",
+        "c": "Corresponde la coordinación de los servicios de seguridad e investigación privadas con las Fuerzas y Cuerpos de Seguridad del Estado",
+        "d": "Corresponde en exclusiva, sin excepción alguna, la inspección de toda empresa de seguridad privada del territorio nacional"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 12.1 de la Ley 5/2014 reconoce competencias autonómicas de inspección y sanción sobre las empresas domiciliadas en su territorio, por lo que la competencia estatal no es exclusiva sin excepción.",
+      "ley": "Ley 5/2014, art. 12"
+    },
+    {
+      "id": "tema_13_test_16_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 53 de la Ley 5/2014, corresponde a las Fuerzas y Cuerpos de Seguridad competentes el ejercicio de las funciones de control de las empresas y despachos de detectives, cumpliendo:",
+      "options": {
+        "a": "Las órdenes e instrucciones que se impartan por los órganos de los artículos 12 y 13",
+        "b": "Las directrices de las asociaciones empresariales del sector",
+        "c": "Los acuerdos sindicales sectoriales vigentes",
+        "d": "Las recomendaciones no vinculantes de organismos internacionales"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 53.1 de la Ley 5/2014 vincula estas funciones de control al cumplimiento de las órdenes e instrucciones de los órganos competentes señalados en los artículos 12 y 13.",
+      "ley": "Ley 5/2014, art. 53"
+    },
+    {
+      "id": "tema_13_test_16_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 54.6 de la Ley 5/2014, las inspecciones relativas a los centros y cursos de formación de guardas rurales serán realizadas por la ______.",
+      "options": {
+        "a": "Agencia Tributaria",
+        "b": "Inspección de Trabajo",
+        "c": "Guardia Civil",
+        "d": "Dirección General de Tráfico"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 54.6 de la Ley 5/2014 atribuye a la Guardia Civil las inspecciones sobre guardas rurales y sus centros y cursos de formación específicos.",
+      "ley": "Ley 5/2014, art. 54"
+    },
+    {
+      "id": "tema_13_test_16_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el órgano competente en materia de control de armas, conforme al artículo 28 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Corresponde al Gobierno la regulación de fabricación, circulación y tenencia de armas",
+        "b": "La intervención de armas y explosivos corresponde al Ministerio del Interior",
+        "c": "Esta intervención se ejerce a través de la Dirección General de la Guardia Civil",
+        "d": "La regulación sobre explosivos y cartuchería corresponde exclusivamente a las comunidades autónomas"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 28.1 de la LO 4/2015 atribuye al Gobierno, no a las comunidades autónomas, la regulación de los requisitos sobre explosivos, cartuchería y artículos pirotécnicos.",
+      "ley": "LO 4/2015, art. 28"
+    },
+    {
+      "id": "tema_13_test_16_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 51 de la LO 4/2015, contra la resolución que ponga fin a la vía administrativa, en el ámbito estatal, podrá interponerse:",
+      "options": {
+        "a": "Recurso contencioso-administrativo",
+        "b": "Recurso de súplica ante el Consejo de Ministros",
+        "c": "Recurso de amparo directo sin trámites previos",
+        "d": "Recurso de casación ante la Audiencia Provincial"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 51 de la LO 4/2015 habilita el recurso contencioso-administrativo contra la resolución que agote la vía administrativa.",
+      "ley": "LO 4/2015, art. 51"
+    },
+    {
+      "id": "tema_13_test_16_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 26.1 de la Ley 5/2014, para habilitarse como guarda de caza o guardapesca marítimo será necesario haberlo hecho previamente como ______.",
+      "options": {
+        "a": "Guarda rural",
+        "b": "Vigilante de seguridad",
+        "c": "Escolta privado",
+        "d": "Jefe de seguridad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 26.2 de la Ley 5/2014 exige haber obtenido previamente la habilitación de guarda rural para acceder a las especialidades de caza o pesca marítima.",
+      "ley": "Ley 5/2014, art. 26"
+    },
+    {
+      "id": "tema_13_test_16_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el Registro Nacional de Seguridad Privada, conforme al artículo 11 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "En él se inscriben de oficio las empresas de seguridad y los despachos de detectives, una vez concedidas las autorizaciones",
+        "b": "También se inscriben las sanciones impuestas en materia de seguridad privada",
+        "c": "Las comunidades autónomas con competencia deben comunicar al Registro Nacional sus inscripciones y modificaciones",
+        "d": "El Registro Nacional sustituye y deja sin efecto a todos los registros autonómicos existentes"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 11.2 de la Ley 5/2014 mantiene la existencia de registros autonómicos propios, sin que el Registro Nacional los sustituya, articulándose mecanismos de coordinación entre ambos.",
+      "ley": "Ley 5/2014, art. 11"
+    },
+    {
+      "id": "tema_13_test_16_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 5 de la LO 4/2015, los Subdelegados del Gobierno son considerados autoridades u órganos competentes en materia de:",
+      "options": {
+        "a": "Política exterior",
+        "b": "Seguridad ciudadana en el ámbito provincial",
+        "c": "Defensa nacional",
+        "d": "Justicia gratuita"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 5.2 de la LO 4/2015 incluye a los Subdelegados del Gobierno entre las autoridades competentes en materia de seguridad ciudadana.",
+      "ley": "LO 4/2015, art. 5"
+    },
+    {
+      "id": "tema_13_test_16_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 13.2 de la Ley 5/2014, las comunidades autónomas con competencia ejecutiva en seguridad privada pueden denunciar ante las autoridades competentes las infracciones cometidas por empresas que no tengan su ______ en la propia comunidad.",
+      "options": {
+        "a": "Domicilio",
+        "b": "Plantilla completa",
+        "c": "Capital social",
+        "d": "Sede fiscal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 13.2 de la Ley 5/2014 habilita esta denuncia respecto de empresas cuyo domicilio no se encuentre en la comunidad autónoma con competencia ejecutiva.",
+      "ley": "Ley 5/2014, art. 13"
+    },
+    {
+      "id": "tema_13_test_16_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las competencias en materia de pasaporte, conforme a los artículos 11 y 12 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "El pasaporte se expide en territorio nacional por la Dirección General de la Policía",
+        "b": "En el extranjero, la competencia corresponde a las Representaciones Diplomáticas y Consulares",
+        "c": "El pasaporte acredita, salvo prueba en contrario, la identidad y nacionalidad de los ciudadanos españoles fuera de España",
+        "d": "Cualquier delegación de Hacienda puede expedir pasaportes en supuestos de urgencia"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 12.1 de la LO 4/2015 no atribuye competencia alguna a las delegaciones de Hacienda para la expedición de pasaportes, que corresponde a la Dirección General de la Policía o a las representaciones diplomáticas.",
+      "ley": "LO 4/2015, art. 12"
+    },
+    {
+      "id": "tema_13_test_16_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 36.1 de la Ley 5/2014, los usuarios de seguridad privada deben situar al frente de la seguridad integral de la entidad a un director de seguridad cuando:",
+      "options": {
+        "a": "Así lo exija la normativa de desarrollo por la dimensión de su servicio de seguridad",
+        "b": "El usuario lo decida libremente sin ninguna condición",
+        "c": "La entidad supere los quinientos empleados, sin excepción",
+        "d": "Se trate de una sociedad cotizada en bolsa"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 36.2 de la Ley 5/2014 exige esta designación cuando lo determine la normativa de desarrollo, una decisión gubernativa o una disposición especial, en función de la dimensión del servicio de seguridad.",
+      "ley": "Ley 5/2014, art. 36"
+    },
+    {
+      "id": "tema_13_test_16_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 24 de la LO 4/2015, en los casos de reuniones y manifestaciones, las Fuerzas y Cuerpos de Seguridad colaborarán mutuamente en los términos previstos en su ______.",
+      "options": {
+        "a": "Reglamento interno de cada cuerpo",
+        "b": "Convenio sindical específico",
+        "c": "Ley orgánica reguladora",
+        "d": "Protocolo de actuación local"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 24 de la LO 4/2015 remite a la Ley Orgánica reguladora de las Fuerzas y Cuerpos de Seguridad para articular esta colaboración mutua.",
+      "ley": "LO 4/2015, art. 24"
+    }
+  ]
+}

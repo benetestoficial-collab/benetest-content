@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 9",
+  "preguntas": [
+    {
+      "id": "tema_13_test_09_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 34.1 de la Ley 5/2014, los guardas rurales ejercerán funciones de vigilancia y protección de personas y bienes en:",
+      "options": {
+        "a": "Centros comerciales de gran superficie",
+        "b": "Polígonos industriales urbanos exclusivamente",
+        "c": "Fincas rústicas e instalaciones agrícolas, industriales o comerciales ubicadas en ellas",
+        "d": "Aeropuertos y puertos comerciales"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 34.1 circunscribe la función de los guardas rurales a las fincas rústicas y a las instalaciones agrícolas, industriales o comerciales situadas en ellas.",
+      "ley": "Ley 5/2014, art. 34"
+    },
+    {
+      "id": "tema_13_test_09_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 34.4 de la Ley 5/2014, los guardas de caza y guardapescas marítimos podrán proceder a la retirada u ocupación de piezas cobradas y medios de caza o pesca cuando:",
+      "options": {
+        "a": "Lo decida discrecionalmente el guarda sin necesidad de causa concreta",
+        "b": "El titular de la finca lo solicite por motivos económicos",
+        "c": "Se trate de objetos de gran valor económico sin relación con infracción alguna",
+        "d": "Hubieran sido utilizados para cometer una infracción, entregándolos a las Fuerzas y Cuerpos de Seguridad"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 34.4 condiciona esta facultad a que los objetos hayan sido utilizados para cometer una infracción, debiendo entregarse de inmediato a las Fuerzas y Cuerpos de Seguridad.",
+      "ley": "Ley 5/2014, art. 34"
+    },
+    {
+      "id": "tema_13_test_09_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 35.1 de la Ley 5/2014, corresponde a los jefes de seguridad, en el ámbito de la empresa en cuya plantilla están integrados:",
+      "options": {
+        "a": "La fijación de los precios de los servicios contratados",
+        "b": "La representación legal de la empresa ante terceros",
+        "c": "El análisis de situaciones de riesgo y la planificación de las actuaciones precisas para los servicios de seguridad privada",
+        "d": "La contratación y despido del personal administrativo"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 35.1 atribuye a los jefes de seguridad el análisis de situaciones de riesgo y la planificación y programación de las actuaciones necesarias para los servicios de seguridad privada.",
+      "ley": "Ley 5/2014, art. 35"
+    },
+    {
+      "id": "tema_13_test_09_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 35.2 de la Ley 5/2014, la existencia de jefe de seguridad en las empresas de seguridad privada será obligatoria siempre que estas se dediquen a determinadas actividades del artículo 5.1, en función de:",
+      "options": {
+        "a": "Las actividades que desarrollen, siendo obligatoria para algunas de ellas conforme se determine",
+        "b": "El volumen de facturación anual de la empresa exclusivamente",
+        "c": "El número de socios fundadores de la empresa",
+        "d": "La antigüedad de la empresa en el mercado"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 35.2 vincula la obligatoriedad del jefe de seguridad a la dedicación de la empresa a determinadas actividades de seguridad privada previstas en el artículo 5.1.",
+      "ley": "Ley 5/2014, art. 35"
+    },
+    {
+      "id": "tema_13_test_09_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 35.1 de la Ley 5/2014, entre las funciones de los jefes de seguridad se incluye la responsabilidad sobre:",
+      "options": {
+        "a": "La gestión de las nóminas del personal de seguridad",
+        "b": "La custodia y el traslado de armas de titularidad de la empresa a la que pertenezca",
+        "c": "La firma de los contratos comerciales de la empresa",
+        "d": "La auditoría financiera anual de la empresa"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 35.1 atribuye a los jefes de seguridad la responsabilidad sobre la custodia y el traslado de las armas de titularidad de la empresa, conforme a la normativa de armas.",
+      "ley": "Ley 5/2014, art. 35"
+    },
+    {
+      "id": "tema_13_test_09_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 36.1 de la Ley 5/2014, corresponde a los directores de seguridad, en relación con la empresa o entidad en la que prestan sus servicios:",
+      "options": {
+        "a": "La representación de la empresa ante la Agencia Tributaria",
+        "b": "La fijación del precio de venta de los productos de la empresa",
+        "c": "La identificación, análisis y evaluación de situaciones de riesgo que afecten a la vida, integridad de las personas y al patrimonio",
+        "d": "La negociación colectiva con los sindicatos del sector"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 36.1 encomienda a los directores de seguridad la identificación, análisis y evaluación de situaciones de riesgo para la vida, integridad de las personas y el patrimonio.",
+      "ley": "Ley 5/2014, art. 36"
+    },
+    {
+      "id": "tema_13_test_09_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 36.3 de la Ley 5/2014, en las empresas de seguridad, el director de seguridad podrá:",
+      "options": {
+        "a": "Compatibilizar sus funciones con las de jefe de seguridad",
+        "b": "Ejercer simultáneamente funciones de vigilante de seguridad uniformado",
+        "c": "Asumir funciones de detective privado en la misma empresa",
+        "d": "Sustituir al representante legal de la empresa sin necesidad de apoderamiento"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 36.3 permite expresamente que, en las empresas de seguridad, el director de seguridad compatibilice sus funciones con las de jefe de seguridad.",
+      "ley": "Ley 5/2014, art. 36"
+    },
+    {
+      "id": "tema_13_test_09_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 37.1 de la Ley 5/2014, los detectives privados se encargan de la ejecución personal de los servicios de investigación privada mediante:",
+      "options": {
+        "a": "La instrucción de diligencias penales por delegación judicial",
+        "b": "La realización de averiguaciones en relación con personas, hechos y conductas privadas",
+        "c": "La emisión de informes periciales vinculantes ante los tribunales",
+        "d": "La supervisión de los servicios de vigilancia de terceras empresas"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 37.1 define la función de los detectives privados como la realización de averiguaciones sobre personas, hechos y conductas privadas.",
+      "ley": "Ley 5/2014, art. 37"
+    },
+    {
+      "id": "tema_13_test_09_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 37.3 de la Ley 5/2014, el ejercicio de las funciones de detective privado:",
+      "options": {
+        "a": "Puede compatibilizarse libremente con la función de director de seguridad",
+        "b": "No será compatible con las funciones del resto del personal de seguridad privada ni con funciones al servicio de cualquier administración pública",
+        "c": "Puede ejercerse simultáneamente con la de vigilante de seguridad en la misma empresa",
+        "d": "Es compatible con cargos públicos de elección popular sin restricción alguna"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 37.3 establece la incompatibilidad de las funciones de detective privado con las del resto del personal de seguridad privada y con funciones al servicio de cualquier administración pública.",
+      "ley": "Ley 5/2014, art. 37"
+    },
+    {
+      "id": "tema_13_test_09_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 37.4 de la Ley 5/2014, los detectives privados no podrán investigar:",
+      "options": {
+        "a": "Fraudes en el ámbito de seguros privados",
+        "b": "Incumplimientos contractuales civiles",
+        "c": "Delitos perseguibles de oficio",
+        "d": "Conductas de competencia desleal entre empresas"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 37.4 prohíbe a los detectives investigar delitos perseguibles de oficio, debiendo denunciarlos inmediatamente si llegan a su conocimiento.",
+      "ley": "Ley 5/2014, art. 37"
+    },
+    {
+      "id": "tema_13_test_09_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 38.2 de la Ley 5/2014, los servicios de seguridad privada se prestarán únicamente por:",
+      "options": {
+        "a": "Entidades públicas y privadas indistintamente",
+        "b": "Cualquier empresa con seguro de responsabilidad civil suscrito",
+        "c": "Profesionales autónomos sin necesidad de habilitación específica",
+        "d": "Empresas de seguridad privada, despachos de detectives y personal de seguridad privada"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 38.2 reserva la prestación de servicios de seguridad privada exclusivamente a empresas de seguridad, despachos de detectives y personal de seguridad privada.",
+      "ley": "Ley 5/2014, art. 38"
+    },
+    {
+      "id": "tema_13_test_09_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 38.6 de la Ley 5/2014, los guardas rurales podrán desarrollar sus funciones:",
+      "options": {
+        "a": "Sin necesidad de constituir o estar integrados en empresas de seguridad, prestando servicios directamente a los titulares de bienes",
+        "b": "Únicamente integrados en una empresa de seguridad privada con jefe de seguridad propio",
+        "c": "Solo bajo contrato administrativo con una comunidad autónoma",
+        "d": "Exclusivamente como funcionarios públicos de la administración local"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 38.6 permite a los guardas rurales prestar servicios directamente a los titulares de bienes, sin necesidad de integrarse en una empresa de seguridad.",
+      "ley": "Ley 5/2014, art. 38"
+    },
+    {
+      "id": "tema_13_test_09_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 39.2 de la Ley 5/2014, el personal de seguridad privada uniformado prestará sus servicios portando medios de defensa reglamentarios que:",
+      "options": {
+        "a": "Incluirán siempre armas de fuego cortas",
+        "b": "No incluirán armas de fuego",
+        "c": "Se limitarán a un bastón extensible homologado",
+        "d": "Quedan a libre elección del propio vigilante"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 39.2 excluye expresamente las armas de fuego de los medios de defensa reglamentarios del personal uniformado, salvo en los servicios específicos que las requieran conforme a otros preceptos.",
+      "ley": "Ley 5/2014, art. 39"
+    },
+    {
+      "id": "tema_13_test_09_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 39.1 de la Ley 5/2014, los vehículos, uniformes y distintivos del personal de seguridad privada:",
+      "options": {
+        "a": "No podrán inducir a confusión con los de las Fuerzas y Cuerpos de Seguridad ni con los de las Fuerzas Armadas",
+        "b": "Deben ser idénticos en diseño a los de la Policía Nacional para facilitar la disuasión",
+        "c": "Pueden incorporar libremente escudos oficiales del Estado",
+        "d": "No están sometidos a ninguna regulación específica"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 39.1 prohíbe que los vehículos, uniformes y distintivos del personal de seguridad privada puedan inducir a confusión con los de las Fuerzas y Cuerpos de Seguridad o las Fuerzas Armadas.",
+      "ley": "Ley 5/2014, art. 39"
+    },
+    {
+      "id": "tema_13_test_09_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 40.1 de la Ley 5/2014, se prestarán con armas de fuego, entre otros, los servicios de vigilancia y protección de:",
+      "options": {
+        "a": "Cualquier comercio minorista sin distinción de actividad",
+        "b": "El almacenamiento, recuento, clasificación y transporte de dinero, valores y objetos valiosos",
+        "c": "Las oficinas de atención al público de organismos públicos sin riesgo específico",
+        "d": "Los aparcamientos de uso residencial"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 40.1 incluye expresamente entre los servicios con armas de fuego la vigilancia y protección del almacenamiento, recuento, clasificación y transporte de dinero, valores y objetos valiosos.",
+      "ley": "Ley 5/2014, art. 40"
+    },
+    {
+      "id": "tema_13_test_09_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 40.3 de la Ley 5/2014, el personal de seguridad privada solo podrá portar el arma de fuego:",
+      "options": {
+        "a": "Solo si lo autoriza expresamente el cliente para cada turno",
+        "b": "En cualquier momento, dentro o fuera de servicio",
+        "c": "Únicamente en horario nocturno",
+        "d": "Cuando esté de servicio"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 40.3 limita la portación del arma de fuego a los momentos en que el personal se encuentre efectivamente de servicio.",
+      "ley": "Ley 5/2014, art. 40"
+    },
+    {
+      "id": "tema_13_test_09_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 41.1 de la Ley 5/2014, los servicios de vigilancia y protección podrán prestarse fuera de los inmuebles protegidos, sin necesidad de autorización previa, en supuestos como:",
+      "options": {
+        "a": "La vigilancia de eventos deportivos de gran aforo sin comunicación previa",
+        "b": "La vigilancia permanente de polígonos industriales sin coordinación policial",
+        "c": "La retirada y reposición de fondos en cajeros automáticos",
+        "d": "La vigilancia perimetral de centros penitenciarios"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 41.1 permite, sin autorización previa, la retirada y reposición de fondos en cajeros automáticos y su vigilancia durante esas operaciones, a diferencia de otros servicios que sí requieren autorización u orden de las Fuerzas y Cuerpos de Seguridad.",
+      "ley": "Ley 5/2014, art. 41"
+    },
+    {
+      "id": "tema_13_test_09_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 42.1 de la Ley 5/2014, cuando los servicios de videovigilancia tengan por finalidad prevenir infracciones y evitar daños, deberán ser prestados necesariamente por:",
+      "options": {
+        "a": "El propio titular del establecimiento sin necesidad de personal habilitado",
+        "b": "Cualquier empleado de la empresa designado por el gerente",
+        "c": "Personal técnico informático sin habilitación específica",
+        "d": "Vigilantes de seguridad o, en su caso, guardas rurales"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 42.1 reserva la prestación de estos servicios de videovigilancia, cuando tienen finalidad preventiva, a vigilantes de seguridad o, en su caso, guardas rurales.",
+      "ley": "Ley 5/2014, art. 42"
+    },
+    {
+      "id": "tema_13_test_09_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 43.2 de la Ley 5/2014, en la prestación de servicios de protección personal, los escoltas privados no podrán realizar identificaciones, restricciones de circulación o detenciones, salvo en caso de:",
+      "options": {
+        "a": "Cualquier alteración del orden público ajena a la persona protegida",
+        "b": "Simple sospecha sin indicios concretos",
+        "c": "Solicitud verbal de la persona protegida sin más justificación",
+        "d": "Flagrante delito relacionado con el objeto de su protección"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 43.2 limita esta posibilidad excepcional al supuesto de flagrante delito relacionado con el objeto de la protección encomendada.",
+      "ley": "Ley 5/2014, art. 43"
+    },
+    {
+      "id": "tema_13_test_09_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 44.1 de la Ley 5/2014, los servicios de depósito de seguridad referidos a la actividad del artículo 5.1.c) estarán a cargo de:",
+      "options": {
+        "a": "Vigilantes de seguridad",
+        "b": "Vigilantes de explosivos exclusivamente",
+        "c": "Guardas rurales en todo caso",
+        "d": "Personal administrativo de la empresa"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 44.1 atribuye los servicios de depósito de seguridad referidos a objetos de valor a los vigilantes de seguridad, reservando a los vigilantes de explosivos los depósitos de sustancias peligrosas conforme al apartado 2.",
+      "ley": "Ley 5/2014, art. 44"
+    }
+  ]
+}

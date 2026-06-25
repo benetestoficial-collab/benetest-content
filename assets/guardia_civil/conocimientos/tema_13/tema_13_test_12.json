@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_13_test_12_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 1 de la LO 4/2015, la salvaguarda de la seguridad ciudadana es función de:",
+      "options": {
+        "a": "El Estado, con sujeción a la Constitución y a las Leyes",
+        "b": "Las empresas de seguridad privada exclusivamente",
+        "c": "Los ayuntamientos de forma exclusiva",
+        "d": "Las Cortes Generales mediante ley anual"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 1 de la LO 4/2015 atribuye al Estado la salvaguarda de la seguridad ciudadana, con sujeción a la Constitución y a las Leyes.",
+      "ley": "LO 4/2015, art. 1"
+    },
+    {
+      "id": "tema_13_test_12_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el registro corporal externo, conforme al artículo 20 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Debe practicarse, salvo urgencia por riesgo grave e inminente, por un agente del mismo sexo que la persona registrada",
+        "b": "Si exige dejar a la vista partes del cuerpo cubiertas por ropa, se realizará en lugar reservado y fuera de la vista de terceros",
+        "c": "Puede llevarse a cabo contra la voluntad del afectado adoptando medidas de compulsión indispensables",
+        "d": "Requiere siempre la presencia de un familiar o allegado de la persona registrada"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 20 de la LO 4/2015 no exige en ningún caso la presencia de un familiar o allegado, centrándose en garantías de proporcionalidad, injerencia mínima y respeto a la intimidad.",
+      "ley": "LO 4/2015, art. 20"
+    },
+    {
+      "id": "tema_13_test_12_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 5 de la Ley 5/2014, los despachos de detectives podrán prestar, con carácter exclusivo y excluyente, servicios sobre:",
+      "options": {
+        "a": "La investigación privada en relación con personas, hechos o delitos solo perseguibles a instancia de parte",
+        "b": "El depósito y custodia de joyas y metales preciosos",
+        "c": "La instalación de sistemas de videovigilancia",
+        "d": "El transporte de fondos y valores"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5.2 de la Ley 5/2014 reserva en exclusiva a los despachos de detectives la investigación privada de personas, hechos o delitos perseguibles solo a instancia de parte.",
+      "ley": "Ley 5/2014, art. 5"
+    },
+    {
+      "id": "tema_13_test_12_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 50.1 de la LO 4/2015, el procedimiento sancionador caducará transcurrido ______ desde su incoación sin que se haya notificado la resolución.",
+      "options": {
+        "a": "Un año",
+        "b": "Seis meses",
+        "c": "Dos años",
+        "d": "Tres meses"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 50.1 de la LO 4/2015 fija en un año el plazo de caducidad del procedimiento sancionador desde su incoación.",
+      "ley": "LO 4/2015, art. 50"
+    },
+    {
+      "id": "tema_13_test_12_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los principios rectores de la seguridad privada, conforme al artículo 8 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Las empresas de seguridad privada no podrán intervenir ni interferir en la celebración de reuniones y manifestaciones",
+        "b": "No podrán ejercer ningún tipo de control sobre opiniones políticas, sindicales o religiosas",
+        "c": "Pueden comunicar libremente a terceros la información sobre sus clientes si lo consideran oportuno",
+        "d": "Colaborarán con las Fuerzas y Cuerpos de Seguridad con sujeción a lo que estas dispongan en la ejecución material de sus actividades"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 8.4 de la Ley 5/2014 prohíbe comunicar a terceros la información sobre clientes, salvo a autoridades judiciales y policiales, sin que exista libertad para hacerlo a discreción del prestador.",
+      "ley": "Ley 5/2014, art. 8"
+    },
+    {
+      "id": "tema_13_test_12_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 36 de la LO 4/2015, constituye infracción grave la desobediencia o resistencia a la autoridad cuando no sea constitutiva de delito, así como:",
+      "options": {
+        "a": "La negativa a identificarse o la alegación de datos falsos en los procesos de identificación",
+        "b": "El simple silencio ante una pregunta retórica de un agente",
+        "c": "La falta de saludo protocolario a un agente",
+        "d": "La ausencia de respuesta a encuestas administrativas voluntarias"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 36.6 de la LO 4/2015 incluye, junto a la desobediencia o resistencia, la negativa a identificarse o la alegación de datos falsos en los procesos de identificación.",
+      "ley": "LO 4/2015, art. 36"
+    },
+    {
+      "id": "tema_13_test_12_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 22.2 de la Ley 5/2014, los representantes legales de las empresas de seguridad privada deben carecer de antecedentes penales por delitos ______.",
+      "options": {
+        "a": "Leves de cualquier naturaleza",
+        "b": "De tráfico",
+        "c": "Dolosos",
+        "d": "Cometidos en el extranjero exclusivamente"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 22.2 de la Ley 5/2014 exige a los representantes legales carecer de antecedentes penales por delitos dolosos.",
+      "ley": "Ley 5/2014, art. 22"
+    },
+    {
+      "id": "tema_13_test_12_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el control administrativo de armas, conforme al artículo 28 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Corresponde al Gobierno la regulación de los requisitos de fabricación, circulación y tenencia de armas",
+        "b": "La intervención de armas y explosivos corresponde al Ministerio del Interior, ejercida por la Dirección General de la Guardia Civil",
+        "c": "Las inspecciones en espacios de fabricación pueden realizarse en cualquier momento",
+        "d": "Las empresas fabricantes de armas están exentas de toda inspección si cuentan con certificación ISO"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 28.2 de la LO 4/2015 habilita inspecciones en cualquier momento sin prever exención alguna por certificaciones de calidad privadas.",
+      "ley": "LO 4/2015, art. 28"
+    },
+    {
+      "id": "tema_13_test_12_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 19 de la Ley 5/2014, las empresas de seguridad privada deben acreditar, entre otros requisitos, no haber sido condenadas mediante sentencia firme por delitos contra:",
+      "options": {
+        "a": "El medio ambiente en cualquier grado",
+        "b": "La propiedad intelectual exclusivamente",
+        "c": "La Hacienda Pública o la Seguridad Social",
+        "d": "El orden público en sentido amplio"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 19.1.g) de la Ley 5/2014 exige no haber sido condenado por delitos de insolvencia punible, contra la Hacienda Pública o contra la Seguridad Social, entre otros.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_12_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 33.2 de la LO 4/2015, las multas correspondientes a infracciones muy graves y graves se dividen en ______ tramos de igual extensión.",
+      "options": {
+        "a": "Dos",
+        "b": "Tres",
+        "c": "Cuatro",
+        "d": "Cinco"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 33.2 de la LO 4/2015 divide las multas en tres tramos de igual extensión: mínimo, medio y máximo.",
+      "ley": "LO 4/2015, art. 33"
+    },
+    {
+      "id": "tema_13_test_12_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las actividades excluidas del ámbito de la Ley 5/2014, conforme a su artículo 7, NO es correcta:",
+      "options": {
+        "a": "No están sujetas a la Ley las actuaciones de autoprotección sin contraprestación a terceros",
+        "b": "Queda fuera del ámbito de la Ley la obtención por uno mismo de información libre de fuentes de acceso público",
+        "c": "Las empresas pueden utilizar a sus empleados para funciones de autoprotección reservadas a seguridad privada sin limitación",
+        "d": "La autoprotección debe estar dirigida a la protección del propio entorno personal o patrimonial"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 7.1 de la Ley 5/2014 prohíbe expresamente que las empresas utilicen a sus empleados para el desarrollo de funciones reservadas al personal de seguridad privada, sin excepción por tratarse de autoprotección.",
+      "ley": "Ley 5/2014, art. 7"
+    },
+    {
+      "id": "tema_13_test_12_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 18 de la LO 4/2015, los agentes podrán proceder a la ocupación temporal de objetos, instrumentos o medios de agresión, incluso de armas con licencia, cuando:",
+      "options": {
+        "a": "Se estime necesario para prevenir la comisión de un delito o exista peligro para la seguridad de personas o bienes",
+        "b": "El propietario lo solicite voluntariamente sin causa concreta",
+        "c": "Haya transcurrido más de un año desde la expedición de la licencia",
+        "d": "El arma supere un valor económico determinado"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 18.2 de la LO 4/2015 habilita esta ocupación temporal cuando se estime necesario prevenir un delito o exista peligro para personas o bienes.",
+      "ley": "LO 4/2015, art. 18"
+    },
+    {
+      "id": "tema_13_test_12_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 39.2 de la Ley 5/2014, el personal de seguridad privada uniformado portará medios de defensa reglamentarios que no incluirán ______.",
+      "options": {
+        "a": "Distintivos del cargo",
+        "b": "Armas de fuego",
+        "c": "Tarjeta de identidad profesional",
+        "d": "Uniforme reglamentario"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 39.2 de la Ley 5/2014 excluye expresamente las armas de fuego de los medios de defensa reglamentarios del personal uniformado, salvo los servicios específicos previstos en otros artículos.",
+      "ley": "Ley 5/2014, art. 39"
+    },
+    {
+      "id": "tema_13_test_12_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las normas concursales del artículo 31 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "El precepto especial se aplica con preferencia al general",
+        "b": "El precepto más amplio o complejo absorbe el que sancione las infracciones consumidas en aquel",
+        "c": "Cuando un solo hecho constituya dos infracciones, se sancionará por la de mayor sanción",
+        "d": "Las infracciones concurrentes se sancionan siempre de forma acumulativa, sin excepción"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 31.2 de la LO 4/2015 establece que, en caso de concurso, se sanciona conforme a la infracción de mayor sanción, no de forma acumulativa.",
+      "ley": "LO 4/2015, art. 31"
+    },
+    {
+      "id": "tema_13_test_12_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 12 de la Ley 5/2014, corresponde a la Dirección General de la Policía:",
+      "options": {
+        "a": "La fijación de las tarifas de los servicios de seguridad privada",
+        "b": "El control de las empresas, entidades y servicios privados de seguridad, vigilancia e investigación, de su personal, medios y actuaciones",
+        "c": "La aprobación de los presupuestos anuales de las empresas de seguridad",
+        "d": "La designación de los jefes de seguridad de cada empresa"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 12.2 de la Ley 5/2014 atribuye a la Dirección General de la Policía el control de las empresas, entidades y servicios privados de seguridad, vigilancia e investigación.",
+      "ley": "Ley 5/2014, art. 12"
+    },
+    {
+      "id": "tema_13_test_12_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 47.2 de la LO 4/2015, las medidas provisionales adoptadas por los agentes con carácter previo a la incoación del procedimiento deberán ratificarse en el acuerdo de incoación en el plazo máximo de ______ días.",
+      "options": {
+        "a": "Diez",
+        "b": "Quince",
+        "c": "Veinte",
+        "d": "Treinta"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 47.2 de la LO 4/2015 fija en quince días el plazo máximo para ratificar, modificar o revocar estas medidas provisionales urgentes.",
+      "ley": "LO 4/2015, art. 47"
+    },
+    {
+      "id": "tema_13_test_12_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los jefes de seguridad, conforme al artículo 35 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Son responsables de la custodia y traslado de armas de titularidad de la empresa a la que pertenezcan",
+        "b": "Su existencia es obligatoria cuando la empresa se dedique a determinadas actividades del artículo 5.1",
+        "c": "Pueden delegar el ejercicio de sus funciones en los términos que reglamentariamente se disponga",
+        "d": "Tienen vedada cualquier participación en la coordinación con las Fuerzas y Cuerpos de Seguridad"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 35.1 de la Ley 5/2014 encomienda a los jefes de seguridad garantizar la colaboración de los servicios de seguridad con las correspondientes dependencias de las Fuerzas y Cuerpos de Seguridad.",
+      "ley": "Ley 5/2014, art. 35"
+    },
+    {
+      "id": "tema_13_test_12_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 25 de la LO 4/2015, quedan sujetas a obligaciones de registro documental actividades como el hospedaje, el transporte de personas y:",
+      "options": {
+        "a": "La venta de prensa diaria",
+        "b": "La compraventa de joyas y metales, sean preciosos o no",
+        "c": "La restauración de bajo coste",
+        "d": "El alquiler de bicicletas urbanas"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 25.1 de la LO 4/2015 incluye expresamente la compraventa de joyas y metales, sean preciosos o no, entre las actividades sujetas a registro documental.",
+      "ley": "LO 4/2015, art. 25"
+    },
+    {
+      "id": "tema_13_test_12_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 51.6 de la Ley 5/2014, los órganos competentes podrán eximir de la implantación de medidas de seguridad obligatorias cuando las circunstancias las hicieren ______.",
+      "options": {
+        "a": "Incompatibles con el diseño arquitectónico",
+        "b": "Excesivamente costosas para el titular",
+        "c": "Innecesarias o improcedentes",
+        "d": "Contrarias a la normativa medioambiental"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 51.6 de la Ley 5/2014 permite esta exención únicamente cuando las circunstancias concretas hagan innecesarias o improcedentes las medidas de seguridad obligatorias.",
+      "ley": "Ley 5/2014, art. 51"
+    },
+    {
+      "id": "tema_13_test_12_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el carácter subsidiario del procedimiento sancionador, conforme al artículo 45 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "No podrán sancionarse hechos ya sancionados penal o administrativamente cuando exista identidad de sujeto, hecho y fundamento",
+        "b": "El órgano administrativo pasará el tanto de culpa a la autoridad judicial cuando los hechos pudieran ser delito",
+        "c": "El plazo de prescripción queda interrumpido mientras dura la pendencia del proceso penal",
+        "d": "El órgano administrativo puede dictar resolución sancionadora aunque esté pendiente sentencia penal firme sobre los mismos hechos"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 45.2 de la LO 4/2015 obliga al órgano administrativo a abstenerse de continuar el procedimiento sancionador mientras no concluya la vía penal sobre los mismos hechos.",
+      "ley": "LO 4/2015, art. 45"
+    }
+  ]
+}

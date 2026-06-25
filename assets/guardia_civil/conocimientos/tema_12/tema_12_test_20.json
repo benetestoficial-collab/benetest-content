@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_12_test_20_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Señale la respuesta INCORRECTA sobre el ámbito de aplicación de la LO 4/2000:",
+      "options": {
+        "a": "Se aplica en idénticos términos a los nacionales de Estados miembros de la Unión Europea que al resto de extranjeros, sin distinción alguna",
+        "b": "A los nacionales comunitarios se les aplica la LO 4/2000 solo en lo que les resulte más favorable",
+        "c": "Quedan excluidos del ámbito los agentes diplomáticos exentos conforme al Derecho internacional",
+        "d": "Se consideran extranjeros, a sus efectos, quienes carezcan de la nacionalidad española"
+      },
+      "correct": "a",
+      "explicacion": "Los nacionales de los Estados miembros de la Unión Europea se rigen por las normas del régimen comunitario, aplicándoseles la LO 4/2000 únicamente en aquellos aspectos que pudieran resultarles más favorables, por lo que no se aplica en idénticos términos que al resto de extranjeros.",
+      "ley": "Artículo 1.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El derecho a la reagrupación familiar exige que el reagrupante haya obtenido la renovación de su autorización de residencia inicial, salvo en el caso de:",
+      "options": {
+        "a": "El cónyuge, que en todo caso puede reagruparse desde el momento de la primera autorización de residencia",
+        "b": "Los hijos menores de edad, que pueden ser reagrupados sin ningún tipo de excepción ni requisito adicional",
+        "c": "Los ascendientes en primer grado mayores de 65 años, que solo podrán reagruparse tras la residencia de larga duración",
+        "d": "La pareja de hecho, equiparada plenamente al cónyuge desde la primera solicitud de residencia"
+      },
+      "correct": "c",
+      "explicacion": "Los extranjeros podrán ejercer el derecho a la reagrupación familiar cuando hayan obtenido la renovación de su autorización inicial, con excepción de los ascendientes en primer grado mayores de 65 años, que solo podrán ser reagrupados a partir del momento en que el reagrupante adquiera la residencia de larga duración.",
+      "ley": "Artículo 18.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Señale la respuesta INCORRECTA sobre la residencia de larga duración:",
+      "options": {
+        "a": "Se extingue automáticamente cuando el residente cumple 70 años de edad, con independencia de otras circunstancias",
+        "b": "Se extingue por ausencia del territorio de la Unión Europea durante 12 meses consecutivos",
+        "c": "Autoriza a residir y trabajar en España indefinidamente, en las mismas condiciones que los españoles",
+        "d": "Se adquiere tras 5 años de residencia temporal continuada, computándose periodos en otros Estados de la UE"
+      },
+      "correct": "a",
+      "explicacion": "La LO 4/2000 no contempla la edad del residente como causa de extinción de la residencia de larga duración. Las causas de extinción son la obtención fraudulenta, la orden de expulsión, la ausencia de 12 meses consecutivos de la UE, la adquisición en otro Estado miembro, o el cese de la protección internacional que la fundamentó.",
+      "ley": "Artículo 32.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Para la concesión inicial de la autorización de residencia y trabajo por cuenta ajena se tendrá en cuenta:",
+      "options": {
+        "a": "La situación nacional de empleo, plasmada en el Catálogo de Ocupaciones de Difícil Cobertura",
+        "b": "Solo si el trabajador acredita haber residido previamente en cualquier país de la Unión Europea",
+        "c": "Únicamente el criterio personal y discrecional del empleador solicitante de la autorización",
+        "d": "Exclusivamente la nacionalidad concreta del trabajador, descartando cualquier otro factor económico"
+      },
+      "correct": "a",
+      "explicacion": "Para la concesión inicial de la autorización de residencia y trabajo por cuenta ajena se tendrá en cuenta la situación nacional de empleo, determinada por el Servicio Público de Empleo Estatal y plasmada en el Catálogo de Ocupaciones de Difícil Cobertura.",
+      "ley": "Artículo 38.1 y 38.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Señale la respuesta INCORRECTA sobre las infracciones administrativas de la LO 4/2000:",
+      "options": {
+        "a": "La comisión de una tercera infracción leve, con dos sanciones previas de igual naturaleza en un año, es infracción grave",
+        "b": "Contratar trabajadores extranjeros sin autorización previa es infracción muy grave por cada trabajador ocupado",
+        "c": "Las infracciones se clasifican en leves, graves y muy graves",
+        "d": "Encontrarse irregularmente en España sin haber solicitado la renovación es siempre infracción leve, nunca grave"
+      },
+      "correct": "d",
+      "explicacion": "Encontrarse irregularmente en España por no haber obtenido la prórroga de estancia o carecer de autorización de residencia, sin haber solicitado su renovación, constituye infracción GRAVE, no leve, conforme al artículo 53.1.a) de la LO 4/2000.",
+      "ley": "Artículo 53.1.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En ningún caso podrán imponerse conjuntamente las sanciones de:",
+      "options": {
+        "a": "Decomiso y multa, que resultan plenamente compatibles conforme al régimen sancionador vigente",
+        "b": "Internamiento y medidas cautelares, que pueden adoptarse de forma simultánea durante la instrucción",
+        "c": "Multa y clausura del establecimiento, que sí pueden coexistir en determinados supuestos legales",
+        "d": "Expulsión y multa"
+      },
+      "correct": "d",
+      "explicacion": "En ningún caso podrán imponerse conjuntamente las sanciones de expulsión y multa, debiendo la autoridad competente optar por una de ellas en función del principio de proporcionalidad, a diferencia de otras combinaciones sancionadoras que sí resultan compatibles entre sí.",
+      "ley": "Artículo 57.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La duración máxima del internamiento de un extranjero, incoado el expediente que pueda proponer la expulsión, es de:",
+      "options": {
+        "a": "90 días, plazo idéntico al de restablecimiento y reflexión para víctimas de trata de seres humanos",
+        "b": "60 días",
+        "c": "120 días, equiparándose en duración al plazo de prescripción de las infracciones graves",
+        "d": "30 días, prorrogable indefinidamente mientras se tramite el expediente sancionador correspondiente"
+      },
+      "correct": "b",
+      "explicacion": "El internamiento se mantendrá por el tiempo imprescindible para los fines del expediente, siendo su duración máxima de 60 días, sin que pueda acordarse un nuevo internamiento por cualquiera de las causas previstas en un mismo expediente.",
+      "ley": "Artículo 62.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La resolución de expulsión tramitada mediante el procedimiento ordinario incluirá un plazo de cumplimiento voluntario que oscilará entre:",
+      "options": {
+        "a": "Siete y treinta días",
+        "b": "Tres y diez días, plazo idéntico al previsto para alegaciones en el procedimiento preferente",
+        "c": "Quince días fijos, sin posibilidad de prórroga atendiendo a circunstancias personales o familiares",
+        "d": "Uno y seis meses, según la gravedad concreta de la infracción cometida por el extranjero afectado"
+      },
+      "correct": "a",
+      "explicacion": "La resolución de expulsión tramitada mediante procedimiento ordinario incluirá un plazo de cumplimiento voluntario para que el interesado abandone el territorio nacional, cuya duración oscilará entre siete y treinta días desde la notificación, pudiendo prorrogarse según las circunstancias del caso.",
+      "ley": "Artículo 63 bis.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Señale la respuesta INCORRECTA sobre el procedimiento preferente de expulsión:",
+      "options": {
+        "a": "Iniciado el expediente, el interesado dispone de 48 horas para alegar lo que considere adecuado",
+        "b": "La ejecución de la orden de expulsión en estos supuestos se efectuará de forma inmediata",
+        "c": "En todos los supuestos de procedimiento preferente cabe la concesión de un período de salida voluntaria de al menos siete días",
+        "d": "Se aplica, entre otros casos, a la participación en actividades contrarias a la seguridad nacional"
+      },
+      "correct": "c",
+      "explicacion": "En los supuestos de procedimiento preferente por irregularidad documental con riesgo de incomparecencia, dificultad de la expulsión o riesgo para el orden público o seguridad, expresamente NO cabrá la concesión del período de salida voluntaria, contrariamente a lo afirmado en esta opción.",
+      "ley": "Artículo 63.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El RD 240/2007 regula las condiciones para el ejercicio de los derechos de entrada, salida, libre circulación, estancia, residencia y trabajo en España de:",
+      "options": {
+        "a": "Únicamente los nacionales de países con tratado bilateral específico de reciprocidad con España",
+        "b": "Solo los estudiantes universitarios extranjeros matriculados en centros oficiales españoles",
+        "c": "Cualquier extranjero extracomunitario que acredite vínculo laboral previo con una empresa española",
+        "d": "Los ciudadanos de Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo"
+      },
+      "correct": "d",
+      "explicacion": "El RD 240/2007 regula las condiciones para el ejercicio de los derechos de entrada, salida, libre circulación, estancia, residencia, residencia permanente y trabajo en España de los ciudadanos de otros Estados miembros de la Unión Europea y de los restantes Estados parte en el Acuerdo sobre el EEE.",
+      "ley": "Artículo 1.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_20_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Señale la respuesta INCORRECTA sobre el derecho de residencia de los ciudadanos comunitarios por más de tres meses:",
+      "options": {
+        "a": "El familiar que acompaña al ciudadano de la Unión también goza de este derecho si aquel cumple los requisitos",
+        "b": "Quien dispone de recursos suficientes para sí y su familia debe, además, no contar con seguro de enfermedad para acreditar este derecho",
+        "c": "El estudiante matriculado en centro reconocido también puede acreditar este derecho con seguro y recursos suficientes",
+        "d": "El trabajador por cuenta ajena o propia en España tiene derecho de residencia superior a tres meses"
+      },
+      "correct": "b",
+      "explicacion": "Quien dispone de recursos suficientes para sí y su familia debe disponer, además, de un seguro de enfermedad que cubra todos los riesgos en España, requiriéndose ambos elementos conjuntamente, no siendo cierto que deba carecer de dicho seguro como afirma esta opción.",
+      "ley": "Artículo 7.1.b) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_20_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los nacionales de un Estado miembro de la UE deben solicitar su inscripción en el Registro Central de Extranjeros en el plazo de:",
+      "options": {
+        "a": "1 mes, plazo idéntico al previsto en el régimen general para la tarjeta de identidad de extranjero",
+        "b": "6 meses, doble del previsto para la inscripción de los familiares acompañantes",
+        "c": "3 meses desde la fecha de entrada en España",
+        "d": "15 días, plazo notablemente más breve que el aplicable a los familiares no comunitarios"
+      },
+      "correct": "c",
+      "explicacion": "Los nacionales de un Estado miembro de la UE o del EEE estarán obligados a solicitar personalmente su inscripción en el Registro Central de Extranjeros en el plazo de 3 meses desde la entrada en España, plazo idéntico al previsto para la tarjeta de residencia de familiar.",
+      "ley": "Artículo 7.5 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_20_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Son titulares del derecho a residir con carácter permanente quienes hayan residido legalmente en España durante un período continuado de:",
+      "options": {
+        "a": "5 años",
+        "b": "10 años, equivalente al plazo de protección reforzada frente a expulsión por motivos imperiosos de seguridad",
+        "c": "2 años, equivalente al máximo de ausencia que determina la pérdida del derecho permanente",
+        "d": "3 años, coincidiendo con el plazo mínimo exigido en determinados supuestos de jubilación anticipada"
+      },
+      "correct": "a",
+      "explicacion": "Son titulares del derecho a residir con carácter permanente los ciudadanos comunitarios y sus familiares que hayan residido legalmente en España durante un período continuado de 5 años, sin sujeción a las condiciones del Capítulo III del real decreto.",
+      "ley": "Artículo 10.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_20_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos comunitarios que hayan adquirido la residencia permanente si existen:",
+      "options": {
+        "a": "Razones de mera conveniencia económica para la Administración competente",
+        "b": "Cualquier infracción administrativa, sin distinción de su gravedad concreta",
+        "c": "Antecedentes penales previos, considerados por sí solos como causa suficiente",
+        "d": "Motivos graves de orden público o seguridad pública"
+      },
+      "correct": "d",
+      "explicacion": "Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos comunitarios que hayan adquirido el derecho de residencia permanente si existen motivos graves de orden público o seguridad pública, debiendo además valorarse múltiples circunstancias personales y familiares.",
+      "ley": "Artículo 15.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_20_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Señale la respuesta INCORRECTA sobre las medidas por razones de orden público, seguridad y salud pública del RD 240/2007:",
+      "options": {
+        "a": "Cuando se funden en orden público o seguridad pública, deben basarse exclusivamente en la conducta personal del afectado",
+        "b": "Pueden adoptarse siempre con fines económicos cuando concurra una situación de crisis presupuestaria del Estado",
+        "c": "Deben adoptarse con arreglo a la legislación reguladora del orden público y la seguridad pública vigente",
+        "d": "Pueden ser revocadas de oficio o a instancia de parte cuando dejen de subsistir las razones que las motivaron"
+      },
+      "correct": "b",
+      "explicacion": "Las medidas por razones de orden público, seguridad o salud pública expresamente NO podrán ser adoptadas con fines económicos, conforme establece el propio real decreto, contrariamente a lo afirmado en esta opción incorrecta.",
+      "ley": "Artículo 15.5.c) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_20_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El extranjero que sea víctima de tráfico ilícito de seres humanos y colabore con las autoridades denunciando a los autores, conforme a la LO 4/2000:",
+      "options": {
+        "a": "Debe ser expulsado en todo caso, sin que la colaboración prestada tenga efecto alguno sobre su situación",
+        "b": "Pierde automáticamente cualquier posibilidad de protección, al haberse encontrado en situación irregular",
+        "c": "Podrá quedar exento de responsabilidad administrativa y no ser expulsado",
+        "d": "Solo queda exento si acredita haber residido legalmente en España con anterioridad a los hechos denunciados"
+      },
+      "correct": "c",
+      "explicacion": "El extranjero irregular que sea víctima, perjudicado o testigo de tráfico ilícito de seres humanos, inmigración ilegal o explotación, podrá quedar exento de responsabilidad administrativa y no será expulsado si denuncia a los autores o coopera y colabora con las autoridades competentes.",
+      "ley": "Artículo 59.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El período de restablecimiento y reflexión para víctimas de trata de seres humanos tendrá una duración de, al menos:",
+      "options": {
+        "a": "60 días, plazo idéntico al de duración máxima del internamiento en centros de extranjeros",
+        "b": "90 días",
+        "c": "30 días, equivalente al retraso máximo admisible en la solicitud de renovación sin sanción",
+        "d": "180 días, doble del plazo previsto para el resto de supuestos de circunstancias excepcionales"
+      },
+      "correct": "b",
+      "explicacion": "El período de restablecimiento y reflexión para víctimas de trata de seres humanos tendrá una duración de, al menos, noventa días, suficiente para que la víctima pueda decidir si desea cooperar con las autoridades en la investigación y, en su caso, en el procedimiento penal.",
+      "ley": "Artículo 59 bis.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los lugares de internamiento para extranjeros, conforme a la LO 4/2000:",
+      "options": {
+        "a": "Solo pueden ubicarse en instalaciones aeroportuarias o portuarias, sin otra alternativa posible",
+        "b": "Se equiparán completamente a un centro penitenciario ordinario en cuanto a régimen y disciplina interna",
+        "c": "No tendrán carácter penitenciario, estando dotados de servicios sociales, jurídicos, culturales y sanitarios",
+        "d": "Carecen de cualquier tipo de servicio adicional más allá de la mera custodia física del internado"
+      },
+      "correct": "c",
+      "explicacion": "Los lugares de internamiento para extranjeros no tendrán carácter penitenciario, y estarán dotados de servicios sociales, jurídicos, culturales y sanitarios, estando los internados privados únicamente del derecho ambulatorio.",
+      "ley": "Artículo 60.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Señale la respuesta INCORRECTA sobre los menores extranjeros no acompañados conforme al artículo 35 de la LO 4/2000:",
+      "options": {
+        "a": "Se considerará regular la residencia de los menores tutelados en España por una Administración Pública",
+        "b": "La concesión de autorización de residencia no impide la ulterior repatriación si favorece el interés superior del menor",
+        "c": "A los mayores de 16 y menores de 18 se les reconoce capacidad para actuar en el procedimiento de repatriación",
+        "d": "La ausencia de autorización de residencia impide siempre el reconocimiento de cualquier derecho derivado de su condición de menor"
+      },
+      "correct": "d",
+      "explicacion": "La ausencia de autorización de residencia NO impedirá el reconocimiento y disfrute de todos los derechos que correspondan al menor por su condición de tal, contrariamente a lo afirmado en esta opción, que invierte el sentido protector de la norma.",
+      "ley": "Artículo 35.7 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_20_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La Comisión Laboral Tripartita de Inmigración es el órgano colegiado adscrito al Ministerio competente en materia de inmigración, integrado por:",
+      "options": {
+        "a": "Exclusivamente funcionarios de carrera de la Administración General del Estado en materia laboral",
+        "b": "Las organizaciones sindicales y empresariales más representativas",
+        "c": "Únicamente representantes designados directamente por cada Comunidad Autónoma del territorio nacional",
+        "d": "Solo organizaciones no gubernamentales especializadas en la defensa de los derechos de los inmigrantes"
+      },
+      "correct": "b",
+      "explicacion": "La Comisión Laboral Tripartita de Inmigración es el órgano colegiado adscrito al Ministerio competente en materia de inmigración, del que forman parte las organizaciones sindicales y empresariales más representativas, siendo consultada en aspectos clave de la gestión de flujos migratorios laborales.",
+      "ley": "Artículo 72.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

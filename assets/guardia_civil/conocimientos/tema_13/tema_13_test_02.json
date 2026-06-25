@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_13_test_02_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 14 de la LO 4/2015, las autoridades competentes podrán dictar órdenes y prohibiciones y disponer actuaciones policiales estrictamente necesarias mediante:",
+      "options": {
+        "a": "Bando municipal exclusivamente",
+        "b": "Comunicación verbal sin necesidad de constancia",
+        "c": "Decreto del Consejo de Ministros",
+        "d": "Resolución debidamente motivada"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 14 exige que las órdenes, prohibiciones y actuaciones policiales necesarias para los fines de la Ley se dicten mediante resolución debidamente motivada.",
+      "ley": "LO 4/2015, art. 14"
+    },
+    {
+      "id": "tema_13_test_02_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 15.2 de la LO 4/2015, será causa legítima suficiente para la entrada en domicilio sin consentimiento ni autorización judicial:",
+      "options": {
+        "a": "La sospecha fundada de que en su interior se cometen infracciones administrativas leves",
+        "b": "La necesidad de evitar daños inminentes y graves a personas y cosas en supuestos de catástrofe, calamidad o ruina inminente",
+        "c": "La denuncia anónima de actividades molestas para los vecinos",
+        "d": "La falta de empadronamiento del ocupante del domicilio"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 15.2 establece como causa legítima suficiente la necesidad de evitar daños inminentes y graves a las personas y a las cosas en supuestos de catástrofe, calamidad, ruina inminente u otros de extrema y urgente necesidad.",
+      "ley": "LO 4/2015, art. 15"
+    },
+    {
+      "id": "tema_13_test_02_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Para la entrada de las Fuerzas y Cuerpos de Seguridad en edificios ocupados por organismos oficiales o entidades públicas, el artículo 15.3 de la LO 4/2015 dispone que:",
+      "options": {
+        "a": "Solo podrá realizarse en horario laboral",
+        "b": "Será siempre necesaria una orden judicial previa",
+        "c": "No será preciso el consentimiento de la autoridad o funcionario que los tuviere a su cargo",
+        "d": "Requerirá la presencia de un secretario judicial"
+      },
+      "correct": "c",
+      "explicacion": "El precepto exime del requisito de consentimiento de la autoridad o funcionario a cargo del edificio para la entrada en organismos oficiales o entidades públicas.",
+      "ley": "LO 4/2015, art. 15"
+    },
+    {
+      "id": "tema_13_test_02_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: cuando no sea posible la identificación de una persona, los agentes podrán requerir que les acompañen a las dependencias policiales más próximas a los solos efectos de identificación, sin que ello pueda superar las ______ horas.",
+      "options": {
+        "a": "Tres",
+        "b": "Seis",
+        "c": "Doce",
+        "d": "Veinticuatro"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 16.2 limita el traslado a dependencias policiales a los solos efectos de identificación al tiempo estrictamente necesario, que en ningún caso podrá superar las seis horas.",
+      "ley": "LO 4/2015, art. 16"
+    },
+    {
+      "id": "tema_13_test_02_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el libro-registro de diligencias de identificación regulado en el artículo 16.3 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Solo se practicarán en él asientos relacionados con la seguridad ciudadana",
+        "b": "Sus datos solo podrán comunicarse a la autoridad judicial competente y al Ministerio Fiscal",
+        "c": "El órgano competente remitirá al Ministerio Fiscal un extracto mensual de las diligencias practicadas",
+        "d": "Los asientos del libro-registro se cancelarán de oficio al año de su práctica"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 16.3 establece que los asientos del libro-registro se cancelarán de oficio a los tres años, y no al año, que es el plazo erróneo planteado en el enunciado.",
+      "ley": "LO 4/2015, art. 16"
+    },
+    {
+      "id": "tema_13_test_02_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. A las personas desplazadas a dependencias policiales a efectos de identificación, según el artículo 16.4 de la LO 4/2015, se les deberá expedir a su salida:",
+      "options": {
+        "a": "Un certificado de antecedentes penales",
+        "b": "Una citación judicial para el día siguiente",
+        "c": "Un volante acreditativo del tiempo de permanencia, la causa y la identidad de los agentes actuantes",
+        "d": "Una copia íntegra del atestado policial"
+      },
+      "correct": "c",
+      "explicacion": "El precepto obliga a expedir, a la salida de las dependencias, un volante que acredite el tiempo de permanencia, la causa de la diligencia y la identidad de los agentes que la practicaron.",
+      "ley": "LO 4/2015, art. 16"
+    },
+    {
+      "id": "tema_13_test_02_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 17.1 de la LO 4/2015, los agentes de las Fuerzas y Cuerpos de Seguridad podrán limitar o restringir la circulación o permanencia en vías o lugares públicos y establecer zonas de seguridad en supuestos de:",
+      "options": {
+        "a": "Alteración de la seguridad ciudadana o de la pacífica convivencia, o indicios racionales de que pueda producirse",
+        "b": "Cualquier afluencia masiva de personas con fines comerciales",
+        "c": "Celebración de actos religiosos al aire libre",
+        "d": "Obras de mantenimiento del mobiliario urbano"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 17.1 habilita esta restricción cuando exista alteración de la seguridad ciudadana o de la pacífica convivencia, o indicios racionales de que pueda producirse dicha alteración.",
+      "ley": "LO 4/2015, art. 17"
+    },
+    {
+      "id": "tema_13_test_02_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 17.2 de la LO 4/2015, los controles en vías, lugares o establecimientos públicos para la prevención de delitos de especial gravedad podrán incluir, siempre que resulte indispensable:",
+      "options": {
+        "a": "La identificación de personas, el registro de vehículos o el control superficial de efectos personales",
+        "b": "La intervención de correspondencia postal sin autorización judicial",
+        "c": "El acceso a las cuentas bancarias de los presentes",
+        "d": "La interceptación de comunicaciones telefónicas"
+      },
+      "correct": "a",
+      "explicacion": "El precepto circunscribe estos controles a la identificación de personas que se encuentren en el lugar, al registro de vehículos o al control superficial de efectos personales.",
+      "ley": "LO 4/2015, art. 17"
+    },
+    {
+      "id": "tema_13_test_02_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. El artículo 18.1 de la LO 4/2015 habilita a los agentes de la autoridad a practicar comprobaciones en personas, bienes y vehículos para impedir que se porten o utilicen ilegalmente en lugares públicos:",
+      "options": {
+        "a": "Armas, explosivos, sustancias peligrosas u otros objetos que generen riesgo grave para las personas",
+        "b": "Material de oficina sin justificante de compra",
+        "c": "Animales domésticos sin correa",
+        "d": "Bicicletas sin matrícula identificativa"
+      },
+      "correct": "a",
+      "explicacion": "El precepto se refiere a la portación o utilización ilegal de armas, explosivos, sustancias peligrosas u otros objetos o medios que generen un riesgo potencialmente grave para las personas.",
+      "ley": "LO 4/2015, art. 18"
+    },
+    {
+      "id": "tema_13_test_02_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las diligencias de identificación, registro y comprobación reguladas en el artículo 19 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "No están sujetas a las mismas formalidades que la detención",
+        "b": "La aprehensión de efectos procedentes de un delito se hará constar en acta firmada por el interesado",
+        "c": "Si el interesado se niega a firmar el acta, esta queda automáticamente sin validez",
+        "d": "El acta gozará de presunción de veracidad de los hechos consignados, salvo prueba en contrario"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 19.2 prevé que, si el interesado se niega a firmar el acta, simplemente se dejará constancia expresa de su negativa, sin que ello determine la invalidez del documento.",
+      "ley": "LO 4/2015, art. 19"
+    },
+    {
+      "id": "tema_13_test_02_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 20.2 de la LO 4/2015, salvo situación de urgencia por riesgo grave e inminente, el primer requisito establecido es que el registro corporal externo se realice por:",
+      "options": {
+        "a": "Un agente de mayor graduación presente en el lugar",
+        "b": "Un agente del mismo sexo que la persona sobre la que se practique la diligencia",
+        "c": "Dos agentes indistintamente de su sexo",
+        "d": "Personal sanitario acompañante"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 20.2 exige, salvo urgencia por riesgo grave e inminente para los agentes, que el registro corporal externo lo realice un agente del mismo sexo que la persona registrada.",
+      "ley": "LO 4/2015, art. 20"
+    },
+    {
+      "id": "tema_13_test_02_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los registros corporales externos del artículo 20 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Pueden llevarse a cabo contra la voluntad del afectado adoptando medidas de compulsión indispensables",
+        "b": "Si exigen dejar a la vista partes del cuerpo normalmente cubiertas por ropa, se efectuarán en lugar reservado y fuera de la vista de terceros",
+        "c": "Deben respetar el principio de injerencia mínima y causar el menor perjuicio a la intimidad y dignidad de la persona",
+        "d": "Requieren en todo caso autorización judicial previa, sin excepción alguna"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 20 no condiciona estos registros a una autorización judicial previa; los agentes pueden practicarlos directamente cuando existan indicios racionales, respetando los principios de proporcionalidad e injerencia mínima.",
+      "ley": "LO 4/2015, art. 20"
+    },
+    {
+      "id": "tema_13_test_02_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Entre las medidas de seguridad extraordinarias que pueden acordar las autoridades competentes conforme al artículo 21 de la LO 4/2015 se encuentra:",
+      "options": {
+        "a": "La suspensión de las licencias municipales de obras",
+        "b": "La expropiación forzosa de inmuebles colindantes",
+        "c": "El cierre o desalojo de locales o establecimientos",
+        "d": "La intervención judicial de la empresa titular del local"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 21 incluye entre las medidas de seguridad extraordinarias el cierre o desalojo de locales o establecimientos, la prohibición del paso, la evacuación de inmuebles o espacios públicos y el depósito de explosivos u otras sustancias peligrosas.",
+      "ley": "LO 4/2015, art. 21"
+    },
+    {
+      "id": "tema_13_test_02_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 21 de la LO 4/2015, las medidas de seguridad extraordinarias podrán adoptarse por los agentes de la autoridad si la urgencia de la situación lo hiciera imprescindible, incluso:",
+      "options": {
+        "a": "Mediante acuerdo plenario del ayuntamiento afectado",
+        "b": "Solo tras autorización judicial escrita",
+        "c": "Solo con conformidad previa del Ministerio Fiscal",
+        "d": "Mediante órdenes verbales"
+      },
+      "correct": "d",
+      "explicacion": "El precepto permite que, ante la urgencia de la situación, dichas medidas se adopten incluso mediante órdenes verbales por parte de los agentes de la autoridad.",
+      "ley": "LO 4/2015, art. 21"
+    },
+    {
+      "id": "tema_13_test_02_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. El uso de videocámaras fijas o móviles por la autoridad gubernativa y las Fuerzas y Cuerpos de Seguridad, regulado en el artículo 22 de la LO 4/2015, debe ajustarse a:",
+      "options": {
+        "a": "La legislación vigente en la materia, tratándose de cámaras legalmente autorizadas",
+        "b": "Un acuerdo previo con las asociaciones de vecinos del lugar",
+        "c": "La disponibilidad presupuestaria del ejercicio en curso",
+        "d": "El criterio exclusivo del operador de la cámara"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 22 supedita la grabación de personas, lugares u objetos mediante videocámaras legalmente autorizadas al cumplimiento de la legislación vigente en la materia.",
+      "ley": "LO 4/2015, art. 22"
+    },
+    {
+      "id": "tema_13_test_02_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 23.2 de la LO 4/2015, la disolución de reuniones y manifestaciones constituye:",
+      "options": {
+        "a": "La primera medida a adoptar ante cualquier incidencia",
+        "b": "El último recurso, dentro de medidas graduales y proporcionadas",
+        "c": "Una facultad exclusiva del delegado del Gobierno",
+        "d": "Una medida automática transcurrida una hora desde su inicio"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 23.2 exige que las medidas de intervención sean graduales y proporcionadas, constituyendo la disolución de reuniones y manifestaciones el último recurso.",
+      "ley": "LO 4/2015, art. 23"
+    },
+    {
+      "id": "tema_13_test_02_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las reuniones y manifestaciones, conforme al artículo 23.3 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Las unidades actuantes deben avisar de las medidas de intervención a las personas afectadas antes de adoptarlas",
+        "b": "El aviso podrá hacerse de forma verbal si la urgencia de la situación lo hiciera imprescindible",
+        "c": "Si la alteración se produce con armas o artefactos explosivos, las Fuerzas y Cuerpos de Seguridad podrán actuar sin previo aviso",
+        "d": "El aviso previo es un requisito absoluto que no admite excepción alguna"
+      },
+      "correct": "d",
+      "explicacion": "El propio artículo 23.3 exceptúa el requisito de aviso previo cuando la alteración de la seguridad ciudadana se produzca con armas, artefactos explosivos u objetos contundentes o de cualquier otro modo peligrosos.",
+      "ley": "LO 4/2015, art. 23"
+    },
+    {
+      "id": "tema_13_test_02_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 23.1 de la LO 4/2015, las autoridades podrán acordar la disolución de manifestaciones en los supuestos previstos en:",
+      "options": {
+        "a": "El artículo 5 de la Ley Orgánica reguladora del derecho de reunión",
+        "b": "El artículo 21 de la Constitución Española exclusivamente",
+        "c": "El Reglamento de la Cámara de Diputados",
+        "d": "La normativa municipal de tráfico"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 23.1 remite a los supuestos previstos en el artículo 5 de la Ley Orgánica reguladora del derecho de reunión para acordar la disolución de reuniones y manifestaciones.",
+      "ley": "LO 4/2015, art. 23"
+    },
+    {
+      "id": "tema_13_test_02_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. El artículo 24 de la LO 4/2015 dispone que, en los casos de reuniones y manifestaciones, las Fuerzas y Cuerpos de Seguridad colaborarán mutuamente en los términos previstos en:",
+      "options": {
+        "a": "Los convenios bilaterales con otros Estados",
+        "b": "Los reglamentos municipales de policía",
+        "c": "Su Ley orgánica reguladora",
+        "d": "La normativa europea de cooperación policial"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 24 remite expresamente a la Ley Orgánica reguladora de las Fuerzas y Cuerpos de Seguridad para articular dicha colaboración mutua.",
+      "ley": "LO 4/2015, art. 24"
+    },
+    {
+      "id": "tema_13_test_02_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: durante los controles preventivos de identificación en vías o establecimientos públicos del artículo 17.2 de la LO 4/2015, podrá proceder al registro de vehículos y al control ______ de efectos personales.",
+      "options": {
+        "a": "Exhaustivo",
+        "b": "Superficial",
+        "c": "Judicial",
+        "d": "Notarial"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 17.2 limita esta facultad al control superficial de los efectos personales, sin habilitar un registro exhaustivo en el marco de estos controles preventivos.",
+      "ley": "LO 4/2015, art. 17"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_12_test_05_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El extranjero que pretenda entrar en España deberá hacerlo:",
+      "options": {
+        "a": "Por los puestos habilitados al efecto, provisto de pasaporte o documento de viaje válido y sin estar sujeto a prohibiciones expresas",
+        "b": "Por cualquier punto del territorio, sin necesidad de control en frontera si viaja en avión privado",
+        "c": "Únicamente acompañado de un ciudadano español que se responsabilice de su estancia",
+        "d": "Solo si previamente ha residido en un país de la Unión Europea durante un año"
+      },
+      "correct": "a",
+      "explicacion": "El extranjero que pretenda entrar en España deberá hacerlo por los puestos habilitados al efecto, hallarse provisto del pasaporte o documento de viaje que acredite su identidad, válido conforme a convenios internacionales, y no estar sujeto a prohibiciones expresas, debiendo además acreditar medios de vida suficientes.",
+      "ley": "Artículo 25.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Salvo en los supuestos exceptuados por convenios internacionales o normativa de la Unión Europea, para entrar en España será preciso, además de los demás requisitos:",
+      "options": {
+        "a": "Un visado, que no será exigible si el extranjero está provisto de tarjeta de identidad de extranjero o, excepcionalmente, autorización de regreso",
+        "b": "Un contrato de trabajo firmado previamente en consulado, sin excepción posible",
+        "c": "Una declaración jurada de no haber sido condenado nunca en su país de origen",
+        "d": "Un seguro médico privado con cobertura mínima de un año completo"
+      },
+      "correct": "a",
+      "explicacion": "Salvo en los casos exceptuados por convenios internacionales suscritos por España o normativa de la Unión Europea, será preciso, además, un visado, que no será exigible cuando el extranjero esté provisto de tarjeta de identidad de extranjero o, excepcionalmente, de autorización de regreso.",
+      "ley": "Artículo 25.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Lo dispuesto en los apartados generales sobre requisitos de entrada no será de aplicación a:",
+      "options": {
+        "a": "Los menores de edad que viajen acompañados de un familiar mayor de edad",
+        "b": "Los extranjeros que solicitan acogerse al derecho de asilo en el momento de su entrada en España, cuya concesión sigue su normativa específica",
+        "c": "Los nacionales de cualquier país miembro de la Organización Mundial del Comercio",
+        "d": "Los extranjeros que viajen exclusivamente por motivos turísticos de corta duración"
+      },
+      "correct": "b",
+      "explicacion": "Lo dispuesto en los párrafos anteriores sobre requisitos generales de entrada no será de aplicación a los extranjeros que soliciten acogerse al derecho de asilo en el momento de su entrada en España, cuya concesión se regirá por lo dispuesto en su normativa específica.",
+      "ley": "Artículo 25.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Se podrá autorizar la entrada en España de extranjeros que no reúnan los requisitos generales cuando existan:",
+      "options": {
+        "a": "Solicitudes verbales de un familiar residente legal en territorio español",
+        "b": "Cartas de invitación emitidas por cualquier particular residente en la Unión Europea",
+        "c": "Razones excepcionales de índole humanitaria, interés público o cumplimiento de compromisos adquiridos por España",
+        "d": "Recomendaciones genéricas de organizaciones internacionales sin compromiso concreto de España"
+      },
+      "correct": "c",
+      "explicacion": "Se podrá autorizar la entrada en España de los extranjeros que no reúnan los requisitos establecidos con carácter general cuando existan razones excepcionales de índole humanitaria, interés público o cumplimiento de compromisos adquiridos por España, entregándose en estos casos la documentación reglamentariamente establecida.",
+      "ley": "Artículo 25.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El visado de estancia habilita para una estancia ininterrumpida o estancias sucesivas cuya duración total no exceda de:",
+      "options": {
+        "a": "6 meses por año natural completo, computado de enero a diciembre",
+        "b": "3 meses por semestre a partir de la fecha de la primera entrada",
+        "c": "9 meses consecutivos sin interrupción, en cualquier período de doce meses",
+        "d": "1 mes por trimestre, renovable indefinidamente sin más requisito"
+      },
+      "correct": "b",
+      "explicacion": "El visado de estancia habilita para una estancia ininterrumpida o estancias sucesivas por un período o suma de períodos cuya duración total no exceda de 3 meses por semestre a partir de la fecha de la primera entrada.",
+      "ley": "Artículo 25 bis de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El visado de residencia y trabajo habilita para la entrada y estancia por un período máximo de tres meses y para el inicio de la actividad laboral autorizada, debiendo en ese plazo:",
+      "options": {
+        "a": "Domiciliar sus ahorros en una entidad bancaria española de forma indefinida",
+        "b": "Producirse el alta del trabajador en la Seguridad Social, que dota de eficacia a la autorización de residencia y trabajo",
+        "c": "Acreditar conocimiento del idioma español mediante examen oficial homologado",
+        "d": "Obtener previamente la nacionalidad española por residencia, como requisito previo al alta laboral"
+      },
+      "correct": "b",
+      "explicacion": "El visado de residencia y trabajo habilita para la entrada y estancia por un período máximo de tres meses y para el comienzo, en ese plazo, de la actividad laboral o profesional autorizada. En este tiempo deberá producirse el alta del trabajador en la Seguridad Social, que dotará de eficacia a la autorización; si no se produce, el extranjero deberá salir del territorio, incurriendo en infracción en caso contrario.",
+      "ley": "Artículo 25 bis de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El visado de residencia y trabajo de temporada habilita para trabajar por cuenta ajena:",
+      "options": {
+        "a": "Solo durante un máximo de tres meses al año, prorrogable excepcionalmente",
+        "b": "Hasta nueve meses en un período de doce meses consecutivos",
+        "c": "Hasta seis meses, coincidiendo con la campaña agrícola del sector correspondiente",
+        "d": "Sin límite de duración, mientras persista la relación laboral concreta"
+      },
+      "correct": "b",
+      "explicacion": "El visado de residencia y trabajo de temporada habilita para trabajar por cuenta ajena hasta nueve meses en un período de doce meses consecutivos, diferenciándose así del visado de residencia y trabajo ordinario.",
+      "ley": "Artículo 25 bis de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El visado de tránsito habilita para:",
+      "options": {
+        "a": "Residir de forma indefinida sin ejercer ninguna actividad laboral",
+        "b": "Realizar estudios universitarios de grado o posgrado en territorio español",
+        "c": "Trabajar por cuenta propia durante un máximo de tres meses",
+        "d": "Transitar por la zona de tránsito internacional de un aeropuerto español o atravesar el territorio español"
+      },
+      "correct": "d",
+      "explicacion": "El visado de tránsito habilita a transitar por la zona de tránsito internacional de un aeropuerto español o a atravesar el territorio español. No será exigible en casos de tránsito por repatriación o alejamiento solicitado por un Estado miembro de la UE o tercer Estado con acuerdo internacional aplicable.",
+      "ley": "Artículo 25 bis de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. No podrán entrar en España, ni obtener visado a tal fin, los extranjeros que hayan sido expulsados:",
+      "options": {
+        "a": "Salvo que acrediten haber abonado una fianza específica fijada reglamentariamente",
+        "b": "Solo si la expulsión se acordó por sentencia penal firme, no si fue resolución administrativa",
+        "c": "Mientras dure la prohibición de entrada, así como aquellos a quienes esté prohibida por otra causa legal o convenio internacional",
+        "d": "Únicamente durante el primer año tras la expulsión, sin posibilidad de prohibición más extensa"
+      },
+      "correct": "c",
+      "explicacion": "No podrán entrar en España, ni obtener un visado a tal fin, los extranjeros que hayan sido expulsados, mientras dure la prohibición de entrada, así como aquellos que la tengan prohibida por otra causa legalmente establecida o en virtud de convenios internacionales en los que sea parte España.",
+      "ley": "Artículo 26 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. A los extranjeros que no cumplan los requisitos de entrada, la denegación les será notificada:",
+      "options": {
+        "a": "Mediante resolución motivada, con información de recursos, plazo, autoridad competente, y derecho a asistencia letrada e intérprete desde el control fronterizo",
+        "b": "Verbalmente por el agente de control fronterizo, sin necesidad de constancia escrita",
+        "c": "Solo por escrito si el extranjero lo solicita expresamente en el momento del control",
+        "d": "Mediante notificación postal enviada al domicilio declarado en su país de origen"
+      },
+      "correct": "a",
+      "explicacion": "A los extranjeros que no cumplan los requisitos establecidos para la entrada les será denegada mediante resolución motivada, con información sobre los recursos que puedan interponer, plazo, autoridad competente, y derecho a asistencia letrada, que podrá ser de oficio, y de intérprete, que comenzará en el momento mismo del control fronterizo.",
+      "ley": "Artículo 26 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El visado se solicitará y expedirá, con carácter general:",
+      "options": {
+        "a": "En las Misiones Diplomáticas y Oficinas Consulares de España, salvo supuestos excepcionales o de representación con otro Estado miembro",
+        "b": "Exclusivamente en territorio español, en cualquier comisaría de policía habilitada al efecto",
+        "c": "Mediante plataforma electrónica accesible desde cualquier país sin intervención consular",
+        "d": "Solo en la sede central del Ministerio del Interior en Madrid"
+      },
+      "correct": "a",
+      "explicacion": "El visado se solicitará y expedirá en las Misiones Diplomáticas y Oficinas Consulares de España, salvo en los supuestos excepcionales que se contemplen reglamentariamente o cuando España haya acordado su representación con otro Estado miembro de la Unión Europea en materia de visados de tránsito o estancia.",
+      "ley": "Artículo 27 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El ejercicio de la potestad de otorgamiento o denegación de visados se orientará al cumplimiento de:",
+      "options": {
+        "a": "Exclusivamente el criterio de reciprocidad estricta con el país de origen del solicitante",
+        "b": "Los fines de la política exterior de España y otras políticas públicas españolas o de la Unión Europea, como inmigración, política económica y seguridad ciudadana",
+        "c": "La opinión pública mayoritaria expresada en encuestas de ámbito nacional",
+        "d": "Únicamente criterios económicos de rentabilidad turística del país solicitante"
+      },
+      "correct": "b",
+      "explicacion": "El ejercicio de la potestad de otorgamiento o denegación de visados se sujetará a los compromisos internacionales vigentes y se orientará al cumplimiento de los fines de la política exterior del Reino de España y de otras políticas públicas, como la política de inmigración, la económica y la de seguridad ciudadana.",
+      "ley": "Artículo 27 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La denegación de visado deberá ser motivada cuando se trate de visados de residencia para reagrupación familiar, visados de trabajo por cuenta ajena, de estancia o de tránsito, mientras que:",
+      "options": {
+        "a": "Nunca se exige motivación, cualquiera que sea el tipo de visado solicitado",
+        "b": "Solo se exige motivación cuando la denegación se base en la lista de personas no admisibles",
+        "c": "La motivación es siempre obligatoria para cualquier tipo de visado, sin distinción alguna",
+        "d": "En el resto de tipos de visado no enumerados expresamente, la motivación no resulta exigible con el mismo alcance"
+      },
+      "correct": "d",
+      "explicacion": "La denegación de visado deberá ser motivada cuando se trate de visados de residencia para reagrupación familiar, visados para el trabajo por cuenta ajena, visados de estancia y visados de tránsito, lo que implica un régimen reforzado de motivación para estos supuestos específicos frente a otros tipos de visado.",
+      "ley": "Artículo 27 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Si la denegación de visado se debe a que el solicitante está incluido en la lista de personas no admisibles del Convenio de Schengen, esta circunstancia:",
+      "options": {
+        "a": "Solo se notifica si el interesado presenta previamente recurso administrativo",
+        "b": "Nunca se comunica al interesado, por razones de seguridad y confidencialidad del registro",
+        "c": "Se le comunicará así, de conformidad con las normas establecidas por dicho Convenio",
+        "d": "Se sustituye siempre por una motivación genérica sin referencia al Convenio de Schengen"
+      },
+      "correct": "c",
+      "explicacion": "Si la denegación se debe a que el solicitante del visado está incluido en la lista de personas no admisibles prevista en el Convenio de aplicación del Acuerdo de Schengen de 14 de junio de 1990, se le comunicará así de conformidad con las normas establecidas por dicho Convenio.",
+      "ley": "Artículo 27 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las salidas del territorio español podrán realizarse:",
+      "options": {
+        "a": "Solo con autorización expresa de la autoridad consular del país de destino",
+        "b": "Únicamente desde los aeropuertos internacionales de Madrid y Barcelona",
+        "c": "Previa comunicación con quince días de antelación a la oficina de extranjería",
+        "d": "Libremente, excepto en los casos previstos en el Código Penal y en la propia LO 4/2000"
+      },
+      "correct": "d",
+      "explicacion": "Las salidas del territorio español podrán realizarse libremente, excepto en los casos previstos en el Código Penal y en la LO 4/2000, pudiendo registrarse la salida de extranjeros no comunitarios a efectos de control de su período de permanencia legal.",
+      "ley": "Artículo 28.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El Ministro del Interior podrá prohibir excepcionalmente la salida del territorio español por razones de:",
+      "options": {
+        "a": "Conveniencia económica general apreciada discrecionalmente por cada Delegación de Gobierno",
+        "b": "Solicitud expresa de cualquier otro Estado miembro de la Unión Europea sin más trámite",
+        "c": "Seguridad nacional o de salud pública, instruyéndose y resolviéndose el expediente siempre con carácter individual",
+        "d": "Mera sospecha policial sin necesidad de expediente individualizado alguno"
+      },
+      "correct": "c",
+      "explicacion": "Excepcionalmente, el Ministro del Interior podrá prohibir la salida del territorio español por razones de seguridad nacional o de salud pública. La instrucción y resolución de los expedientes de prohibición tendrá siempre carácter individual, lo que excluye medidas de alcance colectivo o genérico.",
+      "ley": "Artículo 28.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La salida del territorio español será obligatoria, entre otros supuestos, cuando se produzca:",
+      "options": {
+        "a": "La simple finalización de un contrato laboral temporal, sin perjuicio de la vigencia de la autorización de residencia",
+        "b": "El cambio de domicilio del extranjero dentro del territorio nacional sin comunicación previa",
+        "c": "La solicitud voluntaria de cambio de situación administrativa, sin resolución denegatoria firme",
+        "d": "Denegación administrativa de las solicitudes para continuar en territorio español, o falta de autorización para encontrarse en España"
+      },
+      "correct": "d",
+      "explicacion": "La salida será obligatoria, entre otros supuestos, en caso de denegación administrativa de las solicitudes formuladas por el extranjero para continuar permaneciendo en territorio español, o por falta de autorización para encontrarse en España, además de los supuestos de expulsión judicial o administrativa y de incumplimiento de programas de retorno voluntario.",
+      "ley": "Artículo 28.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La entrada en territorio nacional de los extranjeros a los que no resulte aplicable el régimen comunitario podrá ser registrada por las autoridades españolas:",
+      "options": {
+        "a": "A los efectos de control de su período de permanencia legal en España, conforme a la normativa de protección de datos",
+        "b": "Solo si el extranjero presta su consentimiento expreso para dicho registro",
+        "c": "Exclusivamente en frontera terrestre, no en aeropuertos ni puertos marítimos",
+        "d": "Únicamente con fines estadísticos generales, sin posibilidad de utilización para control individual"
+      },
+      "correct": "a",
+      "explicacion": "La entrada en territorio nacional de los extranjeros a los que no les sea de aplicación el régimen comunitario podrá ser registrada por las autoridades españolas a los efectos de control de su período de permanencia legal en España, de conformidad con la normativa de protección de datos de carácter personal.",
+      "ley": "Artículo 25.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La concesión del visado habilitará al extranjero, una vez efectuada la entrada en territorio español, a permanecer en España en la situación para la que hubiese sido expedido:",
+      "options": {
+        "a": "Solo si el visado fue expedido por una Misión Diplomática y no por una Oficina Consular",
+        "b": "Eliminando cualquier obligación documental adicional posterior a la entrada",
+        "c": "Sin posibilidad de modificación de su situación administrativa durante la vigencia del visado",
+        "d": "Sin perjuicio de la obligatoriedad de obtener, en su caso, la tarjeta de identidad de extranjero"
+      },
+      "correct": "d",
+      "explicacion": "La concesión del visado habilitará al extranjero para presentarse en un puesto fronterizo español y solicitar su entrada, y una vez efectuada esta, a permanecer en España en la situación para la que hubiese sido expedido, sin perjuicio de la obligatoriedad de obtener, en su caso, la tarjeta de identidad de extranjero.",
+      "ley": "Artículo 27 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_05_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El visado de residencia, a diferencia del visado de residencia y trabajo, habilita:",
+      "options": {
+        "a": "Exclusivamente para realizar estudios universitarios de grado",
+        "b": "Solo para trabajar por cuenta propia, nunca por cuenta ajena",
+        "c": "Para residir sin ejercer actividad laboral o profesional",
+        "d": "Para residir y trabajar simultáneamente sin límite temporal alguno"
+      },
+      "correct": "c",
+      "explicacion": "El visado de residencia habilita para residir sin ejercer actividad laboral o profesional, a diferencia del visado de residencia y trabajo, que habilita además para iniciar la actividad laboral o profesional previamente autorizada dentro del plazo de tres meses.",
+      "ley": "Artículo 25 bis de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

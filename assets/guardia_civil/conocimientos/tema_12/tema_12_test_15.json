@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 15",
+  "preguntas": [
+    {
+      "id": "tema_12_test_15_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El Juez resolverá sobre el ingreso en centro de internamiento mediante auto motivado, previa audiencia del interesado y:",
+      "options": {
+        "a": "Únicamente del abogado de oficio designado, sin intervención del Ministerio Fiscal",
+        "b": "Del cónsul del país de origen, sin necesidad de audiencia adicional alguna",
+        "c": "Del Ministerio Fiscal",
+        "d": "De la entidad de protección de menores, sin distinción de la edad del afectado"
+      },
+      "correct": "c",
+      "explicacion": "El Juez, previa audiencia del interesado y del Ministerio Fiscal, resolverá mediante auto motivado sobre el ingreso del extranjero en un centro de internamiento, tomando en consideración las circunstancias concurrentes conforme al principio de proporcionalidad.",
+      "ley": "Artículo 62.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Para resolver sobre el internamiento, el Juez tomará en consideración, entre otras circunstancias:",
+      "options": {
+        "a": "Solo la opinión del centro de internamiento sobre la disponibilidad de plazas en ese momento",
+        "b": "Únicamente la nacionalidad concreta del extranjero, sin valoración de ningún otro factor adicional",
+        "c": "El riesgo de incomparecencia por carecer de domicilio o documentación, y las actuaciones tendentes a dificultar o evitar la expulsión",
+        "d": "Exclusivamente el idioma que hable el extranjero, descartando cualquier otra circunstancia personal"
+      },
+      "correct": "c",
+      "explicacion": "El Juez tomará en consideración las circunstancias concurrentes y, en especial, el riesgo de incomparecencia por carecer de domicilio o documentación identificativa, las actuaciones del extranjero tendentes a dificultar o evitar la expulsión, y la existencia de condenas o sanciones previas.",
+      "ley": "Artículo 62.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El internamiento se mantendrá por el tiempo imprescindible para los fines del expediente, siendo su duración máxima de:",
+      "options": {
+        "a": "30 días, plazo idéntico al previsto para el procedimiento ordinario de extranjería",
+        "b": "90 días, coincidiendo con el período de reflexión de víctimas de trata",
+        "c": "120 días, equivalente al doble del plazo general aplicable a otros procedimientos",
+        "d": "60 días"
+      },
+      "correct": "d",
+      "explicacion": "El internamiento se mantendrá por el tiempo imprescindible para los fines del expediente, siendo su duración máxima de 60 días, sin que pueda acordarse un nuevo internamiento por cualquiera de las causas previstas en un mismo expediente.",
+      "ley": "Artículo 62.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando hayan dejado de cumplirse las condiciones que motivaron el internamiento, el extranjero:",
+      "options": {
+        "a": "Será puesto inmediatamente en libertad por la autoridad administrativa que lo tenga a su cargo, comunicándolo al Juez que autorizó el internamiento",
+        "b": "Permanece internado hasta que finalice por completo la tramitación del expediente sancionador correspondiente",
+        "c": "Solo puede ser liberado mediante un nuevo auto judicial expreso solicitado previamente por su abogado",
+        "d": "Continúa internado salvo que el Ministerio Fiscal solicite expresamente su puesta en libertad inmediata"
+      },
+      "correct": "a",
+      "explicacion": "Cuando hayan dejado de cumplirse las condiciones que motivaron el internamiento, el extranjero será puesto inmediatamente en libertad por la autoridad administrativa que lo tenga a su cargo, poniéndolo en conocimiento del Juez que autorizó su internamiento.",
+      "ley": "Artículo 62.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. No podrá acordarse el ingreso de menores en los centros de internamiento, sin perjuicio de:",
+      "options": {
+        "a": "Lo que disponga cada centro de internamiento en su reglamento interno particular",
+        "b": "La posibilidad de que cada Comunidad Autónoma decida discrecionalmente sobre esta cuestión",
+        "c": "La posibilidad general de internar a cualquier menor que supere los catorce años de edad",
+        "d": "Lo previsto en el artículo 62 bis 1.i), relativo al derecho de tener en compañía a sus hijos menores con informe favorable del Ministerio Fiscal"
+      },
+      "correct": "d",
+      "explicacion": "No podrá acordarse el ingreso de menores en los centros de internamiento, sin perjuicio de lo previsto en el artículo 62 bis 1.i), que reconoce el derecho del internado a tener en su compañía a sus hijos menores siempre que el Ministerio Fiscal informe favorablemente tal medida.",
+      "ley": "Artículo 62.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El Juez competente para autorizar y dejar sin efecto el internamiento será:",
+      "options": {
+        "a": "El Juez de lo Contencioso-Administrativo del domicilio habitual del extranjero",
+        "b": "El Juez de Instrucción del lugar donde se practique la detención",
+        "c": "El Juez Central de Instrucción de la Audiencia Nacional, sin excepción territorial alguna",
+        "d": "Siempre el Juez de Instrucción del lugar de nacimiento del extranjero afectado"
+      },
+      "correct": "b",
+      "explicacion": "El Juez competente para autorizar y, en su caso, dejar sin efecto el internamiento será el Juez de Instrucción del lugar donde se practique la detención, mientras que el control de la estancia en el centro corresponde al Juez de Instrucción del lugar donde esté ubicado.",
+      "ley": "Artículo 62.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los centros de internamiento de extranjeros son establecimientos públicos cuyo ingreso y estancia tiene finalidad:",
+      "options": {
+        "a": "Punitiva y retributiva, equiparándose plenamente al cumplimiento de una pena privativa de libertad",
+        "b": "Exclusivamente sanitaria, limitándose a la observación médica del extranjero internado",
+        "c": "Estrictamente educativa, orientada a la formación profesional del extranjero durante su estancia",
+        "d": "Preventiva y cautelar, salvaguardando los derechos y libertades reconocidos sin más limitaciones que las de su libertad ambulatoria"
+      },
+      "correct": "d",
+      "explicacion": "Los centros de internamiento de extranjeros son establecimientos públicos de carácter no penitenciario; el ingreso y estancia en los mismos tendrá únicamente finalidad preventiva y cautelar, salvaguardando los derechos reconocidos sin más limitaciones que las de su libertad ambulatoria.",
+      "ley": "Artículo 62 bis.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Entre los derechos del extranjero internado figura el de comunicar inmediatamente su ingreso en el centro a:",
+      "options": {
+        "a": "Exclusivamente al director del centro, sin posibilidad de comunicación adicional a terceros",
+        "b": "Únicamente a su empleador en caso de tener relación laboral en vigor en el momento del internamiento",
+        "c": "La persona que designe en España y a su abogado, así como a la oficina consular del país del que es nacional",
+        "d": "Solo a las autoridades policiales de su país de origen, sin extensión a otras personas"
+      },
+      "correct": "c",
+      "explicacion": "El extranjero internado tiene derecho a que se comunique inmediatamente a la persona que designe en España y a su abogado el ingreso en el centro, así como a la oficina consular del país del que es nacional.",
+      "ley": "Artículo 62 bis.1.e) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El extranjero internado tiene derecho a ser asistido de intérprete si no comprende o no habla castellano:",
+      "options": {
+        "a": "Solo en los procedimientos judiciales, no en las comunicaciones internas del propio centro",
+        "b": "Exclusivamente si el idioma del extranjero está reconocido como oficial en algún Estado de la UE",
+        "c": "De forma gratuita, si careciese de medios económicos",
+        "d": "Únicamente si así lo aprueba previamente el director del centro de forma discrecional"
+      },
+      "correct": "c",
+      "explicacion": "El extranjero internado tiene derecho a ser asistido de intérprete si no comprende o no habla castellano y de forma gratuita, si careciese de medios económicos, garantizándose así su comprensión efectiva de las actuaciones que le afecten.",
+      "ley": "Artículo 62 bis.1.h) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El extranjero internado tiene derecho a tener en su compañía a sus hijos menores, siempre que:",
+      "options": {
+        "a": "El Ministerio Fiscal informe favorablemente tal medida",
+        "b": "El propio menor manifieste expresamente su deseo de acompañar al progenitor internado",
+        "c": "Exista plaza disponible específica habilitada para menores en el centro correspondiente",
+        "d": "El director del centro lo autorice de forma automática, sin más trámite adicional"
+      },
+      "correct": "a",
+      "explicacion": "El extranjero internado tiene derecho a tener en su compañía a sus hijos menores, siempre que el Ministerio Fiscal informe favorablemente tal medida, constituyendo esta la excepción a la regla general que prohíbe el ingreso de menores en los centros de internamiento.",
+      "ley": "Artículo 62 bis.1.i) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las organizaciones constituidas legalmente en España para la defensa de los inmigrantes y los organismos internacionales pertinentes:",
+      "options": {
+        "a": "Únicamente pueden comunicarse por escrito con la dirección del centro, sin posibilidad de visita presencial",
+        "b": "Podrán visitar los centros de internamiento, desarrollándose reglamentariamente las condiciones de dichas visitas",
+        "c": "Tienen vetado el acceso a estos centros, salvo autorización judicial individualizada para cada visita concreta",
+        "d": "Solo pueden acceder previa invitación expresa del propio extranjero internado interesado en recibirlas"
+      },
+      "correct": "b",
+      "explicacion": "Las organizaciones constituidas legalmente en España para la defensa de los inmigrantes y los organismos internacionales pertinentes podrán visitar los centros de internamiento, desarrollándose reglamentariamente las condiciones de dichas visitas.",
+      "ley": "Artículo 62 bis.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Entre los deberes del extranjero internado figura el de mantener una actividad cívica correcta, absteniéndose de:",
+      "options": {
+        "a": "Solicitar asistencia médica sanitaria salvo en supuestos estrictamente vinculados a urgencia vital",
+        "b": "Proferir insultos o amenazas, o de promover o intervenir en agresiones, peleas, desórdenes y demás actos que alteren la convivencia",
+        "c": "Comunicarse con su abogado fuera del horario general del centro, aunque concurra urgencia justificada",
+        "d": "Recibir cualquier tipo de visita de familiares durante el horario establecido en el centro correspondiente"
+      },
+      "correct": "b",
+      "explicacion": "El extranjero internado está obligado a mantener una actividad cívica correcta y de respeto con funcionarios, visitantes y otros internados, absteniéndose de proferir insultos o amenazas, o de promover o intervenir en agresiones, peleas, desórdenes y demás actos que alteren la convivencia.",
+      "ley": "Artículo 62 ter.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El extranjero internado estará obligado a someterse a reconocimiento médico:",
+      "options": {
+        "a": "A la entrada y salida del centro, así como cuando lo disponga el director por razones de salud colectiva apreciadas por el servicio médico",
+        "b": "Exclusivamente si presenta síntomas visibles de enfermedad apreciados a simple vista por cualquier funcionario",
+        "c": "Únicamente si así lo solicita expresamente por escrito el propio interesado en cualquier momento de su estancia",
+        "d": "Solo una vez al mes, con independencia de cualquier circunstancia sanitaria sobrevenida durante el internamiento"
+      },
+      "correct": "a",
+      "explicacion": "El extranjero internado estará obligado a someterse a reconocimiento médico a la entrada y salida del centro, así como en aquellos casos en que, por razones de salud colectiva apreciadas por el servicio médico, y a petición de este, lo disponga el director del centro.",
+      "ley": "Artículo 62 ter.e) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros recibirán a su ingreso en el centro información escrita sobre sus derechos y obligaciones, normas de funcionamiento y medios para formular peticiones o quejas, facilitándose dicha información:",
+      "options": {
+        "a": "Exclusivamente a través de su abogado, sin entrega directa de información al propio internado",
+        "b": "Únicamente en castellano, con independencia de la nacionalidad o idioma del internado",
+        "c": "Solo de forma verbal por el funcionario de turno, sin necesidad de soporte escrito alguno",
+        "d": "En un idioma que entiendan"
+      },
+      "correct": "d",
+      "explicacion": "Los extranjeros recibirán a su ingreso en el centro información escrita sobre sus derechos y obligaciones, las cuestiones de organización general, las normas de funcionamiento y disciplinarias, y los medios para formular peticiones o quejas, facilitándose dicha información en un idioma que entiendan.",
+      "ley": "Artículo 62 quáter.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las peticiones o quejas de los internados sobre cuestiones referentes a su situación de internamiento, presentadas al director del centro:",
+      "options": {
+        "a": "Solo pueden presentarse por escrito, descartándose expresamente la posibilidad de formularlas verbalmente",
+        "b": "Quedan siempre archivadas sin tramitación posterior, al carecer el director de competencia en la materia",
+        "c": "Requieren obligatoriamente la previa autorización del Ministerio Fiscal antes de su presentación formal",
+        "d": "Serán atendidas por este si son de su competencia, o puestas en conocimiento de la autoridad competente en caso contrario"
+      },
+      "correct": "d",
+      "explicacion": "Los internados podrán formular, verbalmente o por escrito, peticiones y quejas sobre cuestiones referentes a su situación de internamiento, que también podrán presentarse al director del centro, quien las atenderá si son de su competencia o las pondrá en conocimiento de la autoridad competente en caso contrario.",
+      "ley": "Artículo 62 quáter.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El uso de medios de contención física personal en los centros de internamiento será proporcional a la finalidad perseguida y:",
+      "options": {
+        "a": "Podrá utilizarse libremente como medida disciplinaria ordinaria ante cualquier incumplimiento leve de las normas internas",
+        "b": "No podrá suponer una sanción encubierta, debiendo usarse solo cuando no exista otra manera menos gravosa y por el tiempo estrictamente necesario",
+        "c": "Se aplicará automáticamente a todos los internados durante las primeras veinticuatro horas de su ingreso en el centro",
+        "d": "Queda excluido de cualquier comunicación posterior a la autoridad judicial que hubiera autorizado el internamiento correspondiente"
+      },
+      "correct": "b",
+      "explicacion": "El uso de los medios de contención será proporcional a la finalidad perseguida, no podrán suponer una sanción encubierta y solo se usarán cuando no exista otra manera menos gravosa para conseguir la finalidad perseguida y por el tiempo estrictamente necesario.",
+      "ley": "Artículo 62 quinquies.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La utilización de medios de contención será previamente autorizada por:",
+      "options": {
+        "a": "El Ministerio Fiscal, en sustitución de cualquier intervención del personal del propio centro",
+        "b": "El director del centro, salvo razones de urgencia que no lo permitan, en cuyo caso se le pondrá en conocimiento inmediatamente",
+        "c": "El propio interno afectado, mediante consentimiento informado previo a cada actuación concreta",
+        "d": "Exclusivamente el Juez de Instrucción que autorizó el internamiento, sin posibilidad de actuación previa del director"
+      },
+      "correct": "b",
+      "explicacion": "La utilización de medios de contención será previamente autorizada por el director del centro, salvo que razones de urgencia no lo permitan, en cuyo caso se pondrá en su conocimiento inmediatamente, debiendo además comunicarse lo antes posible a la autoridad judicial correspondiente.",
+      "ley": "Artículo 62 quinquies.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En cada centro de internamiento de extranjeros habrá un director responsable de su funcionamiento, encargado, entre otras funciones, de:",
+      "options": {
+        "a": "Adoptar las directrices de organización necesarias, asegurar el orden y la correcta convivencia y el cumplimiento de los derechos de los extranjeros",
+        "b": "Sustituir al Juez de Instrucción en la resolución sobre la duración del internamiento de cada extranjero",
+        "c": "Decidir, sin intervención de ninguna otra autoridad, sobre la concesión de autorizaciones de residencia a los internados",
+        "d": "Ejercer funciones jurisdiccionales sobre los recursos presentados contra la resolución de expulsión correspondiente"
+      },
+      "correct": "a",
+      "explicacion": "El director de cada centro de internamiento es responsable de su funcionamiento, debiendo adoptar las directrices de organización necesarias, coordinar y supervisar su ejecución, asegurar el orden y la correcta convivencia, y el cumplimiento de los derechos de los extranjeros internados.",
+      "ley": "Artículo 62 sexies de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La incoación del expediente, las medidas cautelares de detención e internamiento y la resolución final del expediente de expulsión serán comunicadas a:",
+      "options": {
+        "a": "Únicamente a la Organización Internacional para las Migraciones, sin intervención diplomática alguna",
+        "b": "Solo al Defensor del Pueblo, en su función de supervisión general de la actuación administrativa",
+        "c": "El Ministerio de Asuntos Exteriores y a la embajada o consulado del país del extranjero",
+        "d": "Exclusivamente al Ministerio Fiscal, sin necesidad de información a la representación consular"
+      },
+      "correct": "c",
+      "explicacion": "La incoación del expediente, las medidas cautelares de detención e internamiento y la resolución final del expediente de expulsión del extranjero serán comunicadas al Ministerio de Asuntos Exteriores y a la embajada o consulado de su país.",
+      "ley": "Artículo 62.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_15_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El Juez competente para el control de la estancia de los extranjeros en los Centros de Internamiento conocerá, sin ulterior recurso, de las peticiones y quejas que afecten a:",
+      "options": {
+        "a": "Los derechos fundamentales de los internos, pudiendo además visitar los centros cuando conozca algún incumplimiento grave o lo considere conveniente",
+        "b": "Únicamente cuestiones de horario de visitas familiares, sin extenderse a otros aspectos del internamiento",
+        "c": "Cualquier reclamación de naturaleza estrictamente económica relativa a la pensión alimenticia de los hijos del interno",
+        "d": "Solo aquellas quejas que el propio director del centro decida elevar voluntariamente a su consideración"
+      },
+      "correct": "a",
+      "explicacion": "El Juez competente para el control de la estancia de los extranjeros en los Centros de Internamiento conocerá, sin ulterior recurso, de las peticiones y quejas que planteen los internos en cuanto afecten a sus derechos fundamentales, pudiendo igualmente visitar dichos centros cuando conozca algún incumplimiento grave o lo considere conveniente.",
+      "ley": "Artículo 62.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

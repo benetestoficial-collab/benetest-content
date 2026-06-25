@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 6",
+  "preguntas": [
+    {
+      "id": "tema_13_test_06_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 1.1 de la Ley 5/2014, las actividades y servicios de seguridad privada tienen la consideración de:",
+      "options": {
+        "a": "Sustitutivas de la seguridad pública en zonas rurales",
+        "b": "Complementarias y subordinadas respecto de la seguridad pública",
+        "c": "Equivalentes en rango a las funciones de las Fuerzas y Cuerpos de Seguridad",
+        "d": "Independientes y no relacionadas con la seguridad pública"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 1.1 califica expresamente las actividades de seguridad privada como complementarias y subordinadas respecto de la seguridad pública.",
+      "ley": "Ley 5/2014, art. 1"
+    },
+    {
+      "id": "tema_13_test_06_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 2.1 de la Ley 5/2014, se entiende por seguridad privada el conjunto de actividades, servicios, funciones y medidas adoptadas para hacer frente a actos deliberados o riesgos accidentales con la finalidad de:",
+      "options": {
+        "a": "Generar beneficios económicos para el sector asegurador",
+        "b": "Sustituir las competencias estatales en materia de orden público",
+        "c": "Garantizar la seguridad de las personas, proteger su patrimonio y velar por el normal desarrollo de sus actividades",
+        "d": "Coordinar exclusivamente la seguridad en el transporte público"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 2.1 define la seguridad privada en torno a la finalidad de garantizar la seguridad de las personas, proteger su patrimonio y velar por el normal desarrollo de sus actividades.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_06_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 2 de la Ley 5/2014, se denomina despacho de detectives privados a:",
+      "options": {
+        "a": "Las oficinas constituidas por uno o más detectives privados que prestan servicios de investigación privada",
+        "b": "Cualquier empresa de seguridad privada con licencia para vigilancia",
+        "c": "El órgano administrativo encargado de habilitar a los detectives",
+        "d": "Las dependencias policiales destinadas a la investigación criminal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 2.11 define los despachos de detectives privados como oficinas constituidas por uno o más detectives que prestan servicios de investigación privada.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_06_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes definiciones del artículo 2 de la Ley 5/2014 NO es correcta:",
+      "options": {
+        "a": "Usuario de seguridad privada es quien contrata servicios o adopta medidas de seguridad privada, voluntaria u obligatoriamente",
+        "b": "Personal acreditado incluye a profesores de centros de formación, ingenieros, técnicos y operadores de seguridad",
+        "c": "Funciones de seguridad privada son las facultades atribuidas al personal de seguridad privada",
+        "d": "Empresa de seguridad privada es cualquier sociedad mercantil con objeto social relacionado con la vigilancia, sin necesidad de autorización"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 2.7 exige que la empresa de seguridad privada esté autorizada o sometida al régimen de declaración responsable, requisito que la afirmación incorrecta omite.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_06_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 3.3 de la Ley 5/2014, el régimen sancionador y las facultades de inspección se aplicarán también a quienes presten servicios de seguridad privada:",
+      "options": {
+        "a": "Solo cuando exista denuncia previa de un competidor",
+        "b": "Exclusivamente en territorio de otra comunidad autónoma",
+        "c": "Únicamente si han sido condenados previamente por delito",
+        "d": "Sin estar autorizados o sin haber presentado declaración responsable, o sin estar habilitados o acreditados"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 3.3 extiende el régimen sancionador y la potestad de inspección a quienes operen sin autorización, declaración responsable, habilitación o acreditación.",
+      "ley": "Ley 5/2014, art. 3"
+    },
+    {
+      "id": "tema_13_test_06_006",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Entre los fines de la seguridad privada enumerados en el artículo 4 de la Ley 5/2014 se incluye:",
+      "options": {
+        "a": "Garantizar el orden público en eventos deportivos de forma exclusiva",
+        "b": "Sustituir progresivamente a las Fuerzas y Cuerpos de Seguridad en sus funciones",
+        "c": "Complementar el monopolio de la seguridad que corresponde al Estado, como recurso externo de la seguridad pública",
+        "d": "Establecer aranceles propios independientes del mercado"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 4 incluye entre los fines complementar el monopolio estatal de la seguridad, integrando funcionalmente sus medios como recurso externo de la seguridad pública.",
+      "ley": "Ley 5/2014, art. 4"
+    },
+    {
+      "id": "tema_13_test_06_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 5.1 de la Ley 5/2014, constituye actividad de seguridad privada:",
+      "options": {
+        "a": "La fabricación de uniformes para cuerpos policiales",
+        "b": "La asesoría fiscal a empresas del sector de la seguridad",
+        "c": "La vigilancia y protección de bienes, establecimientos, lugares y eventos, así como de las personas que se encuentren en ellos",
+        "d": "La gestión de archivos históricos de organismos públicos"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 5.1 incluye expresamente entre las actividades de seguridad privada la vigilancia y protección de bienes, establecimientos, lugares, eventos y personas.",
+      "ley": "Ley 5/2014, art. 5"
+    },
+    {
+      "id": "tema_13_test_06_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 5.2 de la Ley 5/2014, los despachos de detectives podrán prestar, con carácter exclusivo y excluyente, servicios sobre:",
+      "options": {
+        "a": "La investigación privada en relación con personas, hechos o delitos solo perseguibles a instancia de parte",
+        "b": "La vigilancia y protección de bienes y establecimientos",
+        "c": "El transporte y distribución de joyas y metales preciosos",
+        "d": "La instalación de sistemas de videovigilancia conectados a centrales de alarma"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5.2 reserva en exclusiva a los despachos de detectives la investigación privada referida a personas, hechos o delitos perseguibles solo a instancia de parte.",
+      "ley": "Ley 5/2014, art. 5"
+    },
+    {
+      "id": "tema_13_test_06_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 5.3 de la Ley 5/2014, las centrales receptoras de alarmas de uso propio requieren para su constitución:",
+      "options": {
+        "a": "Visto bueno de la comunidad de propietarios del edificio",
+        "b": "Simple comunicación a la compañía aseguradora del inmueble",
+        "c": "Inscripción en el Registro de la Propiedad",
+        "d": "Autorización previa del Ministerio del Interior o del órgano autonómico competente"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 5.3 exige autorización previa del Ministerio del Interior o del órgano autonómico competente para constituir centrales receptoras de alarmas de uso propio.",
+      "ley": "Ley 5/2014, art. 5"
+    },
+    {
+      "id": "tema_13_test_06_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes actividades queda fuera del ámbito de la Ley 5/2014, conforme a su artículo 6.1:",
+      "options": {
+        "a": "La vigilancia y protección de bienes en establecimientos comerciales",
+        "b": "La fabricación, comercialización, venta, entrega, instalación o mantenimiento de elementos de cerrajería de seguridad",
+        "c": "El depósito y custodia de explosivos y armas",
+        "d": "La explotación de centrales receptoras de alarmas conectadas a centros de control"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 6.1 excluye del ámbito de la Ley la fabricación, comercialización, venta, entrega, instalación o mantenimiento de elementos de cerrajería de seguridad.",
+      "ley": "Ley 5/2014, art. 6"
+    },
+    {
+      "id": "tema_13_test_06_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 6.3 de la Ley 5/2014, el personal no habilitado que preste servicios auxiliares de información o control de accesos:",
+      "options": {
+        "a": "Podrá portar armas siempre que disponga de licencia de caza",
+        "b": "No podrá ejercer función alguna reservada al personal de seguridad privada, ni portar armas o medios de defensa",
+        "c": "Podrá ejercer funciones de seguridad privada si lo autoriza el titular del establecimiento",
+        "d": "Estará habilitado automáticamente tras dos años de servicio"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 6.3 prohíbe a este personal no habilitado ejercer funciones reservadas a seguridad privada, así como portar o usar armas o medios de defensa.",
+      "ley": "Ley 5/2014, art. 6"
+    },
+    {
+      "id": "tema_13_test_06_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 7.1 de la Ley 5/2014, no están sujetas a esta ley las actuaciones de autoprotección entendidas como:",
+      "options": {
+        "a": "Las cautelas que adopten directamente los interesados para proteger su entorno personal o patrimonial, sin contraprestación a terceros",
+        "b": "Cualquier medida de seguridad contratada con una empresa especializada",
+        "c": "La contratación de un vigilante de seguridad para el propio domicilio",
+        "d": "La instalación de un sistema de videovigilancia conectado a una central de alarmas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 7.1 excluye del ámbito de la Ley las actuaciones de autoprotección ejecutadas directamente por los interesados, sin contraprestación ni prestación de servicio a terceros.",
+      "ley": "Ley 5/2014, art. 7"
+    },
+    {
+      "id": "tema_13_test_06_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 8.4 de la Ley 5/2014, las empresas, despachos y personal de seguridad privada tienen prohibido comunicar a terceros, salvo a autoridades judiciales y policiales:",
+      "options": {
+        "a": "La ubicación de las oficinas centrales de la compañía",
+        "b": "Los horarios de apertura del establecimiento vigilado",
+        "c": "El número de empleados de la empresa de seguridad",
+        "d": "Cualquier información conocida en el desarrollo de sus servicios sobre clientes, personas relacionadas o bienes a su cargo"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 8.4 prohíbe comunicar a terceros la información conocida en el ejercicio de sus servicios sobre clientes, personas relacionadas y bienes a su cargo, salvo a autoridades judiciales o policiales.",
+      "ley": "Ley 5/2014, art. 8"
+    },
+    {
+      "id": "tema_13_test_06_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los principios rectores del artículo 8 de la Ley 5/2014 NO es correcta:",
+      "options": {
+        "a": "Los prestadores de servicios de seguridad privada colaborarán en todo momento con las Fuerzas y Cuerpos de Seguridad",
+        "b": "No podrán intervenir ni interferir en la celebración de reuniones y manifestaciones mientras ejerzan sus servicios",
+        "c": "No podrán ejercer ningún tipo de control sobre opiniones políticas, sindicales o religiosas",
+        "d": "Podrán tratar de forma automatizada datos sobre ideología o afiliación sindical si el cliente lo autoriza expresamente"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 8.4 prohíbe de forma absoluta el tratamiento automatizado o no de datos relativos a ideología, afiliación sindical, religión o creencias, sin que la autorización del cliente permita excepción alguna.",
+      "ley": "Ley 5/2014, art. 8"
+    },
+    {
+      "id": "tema_13_test_06_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 9.2 de la Ley 5/2014, los contratos de prestación de servicios de seguridad privada deberán:",
+      "options": {
+        "a": "Inscribirse en el Registro de la Propiedad correspondiente",
+        "b": "Formalizarse por escrito y comunicarse al Ministerio del Interior u órgano autonómico antes de iniciar el servicio",
+        "c": "Ser ratificados ante notario en todos los casos",
+        "d": "Ser comunicados a la Agencia Tributaria exclusivamente"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 9.2 exige la formalización escrita del contrato y su comunicación previa al Ministerio del Interior o al órgano autonómico competente antes de iniciar el servicio.",
+      "ley": "Ley 5/2014, art. 9"
+    },
+    {
+      "id": "tema_13_test_06_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 10.2 de la Ley 5/2014, los despachos de detectives no podrán celebrar contratos que tengan por objeto:",
+      "options": {
+        "a": "La investigación de delitos perseguibles de oficio",
+        "b": "La investigación de incumplimientos contractuales civiles",
+        "c": "La localización de personas desaparecidas voluntariamente",
+        "d": "La investigación de fraudes en seguros privados"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 10.2 prohíbe a los despachos de detectives celebrar contratos para investigar delitos perseguibles de oficio, debiendo denunciarlos inmediatamente si llegan a su conocimiento.",
+      "ley": "Ley 5/2014, art. 10"
+    },
+    {
+      "id": "tema_13_test_06_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 10.3 de la Ley 5/2014, las empresas de seguridad privada no podrán realizar los servicios de investigación privada propios de:",
+      "options": {
+        "a": "Los despachos de detectives privados",
+        "b": "Las centrales receptoras de alarmas",
+        "c": "Los centros de formación de personal de seguridad",
+        "d": "Las administraciones públicas competentes"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 10.3 establece la separación funcional entre empresas de seguridad y despachos de detectives, prohibiendo a las primeras realizar servicios de investigación privada propios de los segundos.",
+      "ley": "Ley 5/2014, art. 10"
+    },
+    {
+      "id": "tema_13_test_06_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 11.1 de la Ley 5/2014, serán objeto de inscripción de oficio en el Registro Nacional de Seguridad Privada:",
+      "options": {
+        "a": "Solo las empresas de seguridad privada con sede en Madrid",
+        "b": "Únicamente las empresas que coticen en bolsa",
+        "c": "El personal de seguridad privada, las empresas de seguridad y los despachos de detectives, una vez concedidas las autorizaciones",
+        "d": "Exclusivamente los centros de formación universitarios"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 11.1 prevé la inscripción de oficio del personal, las empresas de seguridad y los despachos de detectives una vez concedidas las autorizaciones o cumplidos los requisitos de declaración responsable o habilitación.",
+      "ley": "Ley 5/2014, art. 11"
+    },
+    {
+      "id": "tema_13_test_06_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 11.6 de la Ley 5/2014, los registros nacional y autonómicos de seguridad privada serán públicos exclusivamente en cuanto a:",
+      "options": {
+        "a": "Los datos personales completos del personal de seguridad habilitado",
+        "b": "La denominación o razón social, domicilio, NIF y actividades autorizadas de las empresas inscritas",
+        "c": "El historial de sanciones impuestas a cada profesional",
+        "d": "Los contratos íntegros suscritos por cada empresa"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 11.6 limita el carácter público de estos registros a los asientos referentes a denominación o razón social, domicilio, NIF y actividades autorizadas.",
+      "ley": "Ley 5/2014, art. 11"
+    },
+    {
+      "id": "tema_13_test_06_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 9.3 de la Ley 5/2014, la comunicación de contratos de servicios de investigación privada contendrá exclusivamente los datos necesarios para identificar a las partes contratantes, excluyendo:",
+      "options": {
+        "a": "La fecha de inicio del contrato",
+        "b": "El precio acordado del servicio",
+        "c": "Los datos de carácter personal",
+        "d": "El objeto general de la investigación"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 9.3 excluye de la comunicación de estos contratos los datos de carácter personal, limitándola a la identificación de las partes contratantes.",
+      "ley": "Ley 5/2014, art. 9"
+    }
+  ]
+}

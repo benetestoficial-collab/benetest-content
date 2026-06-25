@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_12_test_17_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando las autoridades españolas lo determinen para rutas procedentes de fuera del Espacio Schengen, toda compañía o transportista estará obligada a remitir información sobre los pasajeros antes de la salida del medio de transporte, con la finalidad de:",
+      "options": {
+        "a": "Determinar el precio final del billete según el origen de cada pasajero transportado",
+        "b": "Calcular el importe de las tasas aeroportuarias correspondientes a cada vuelo",
+        "c": "Combatir la inmigración ilegal y garantizar la seguridad pública",
+        "d": "Facilitar exclusivamente la gestión comercial de la propia empresa transportista"
+      },
+      "correct": "c",
+      "explicacion": "Cuando así lo determinen las autoridades españolas respecto de rutas procedentes de fuera del Espacio Schengen en las que la intensidad de los flujos migratorios lo haga necesario, los transportistas estarán obligados a remitir información de pasajeros a efectos de combatir la inmigración ilegal y garantizar la seguridad pública.",
+      "ley": "Artículo 66.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las autoridades encargadas del control de entrada guardarán los datos de pasajeros recibidos de los transportistas en un fichero temporal, borrándolos:",
+      "options": {
+        "a": "Únicamente al finalizar el año natural en curso, con independencia de la fecha de recepción de los datos",
+        "b": "Nunca, debiendo conservarse de forma permanente con fines estadísticos generales",
+        "c": "Tras la entrada y en un plazo de 24 horas desde su comunicación, salvo necesidades en el ejercicio de sus funciones",
+        "d": "Solo cuando el pasajero lo solicite expresamente por escrito ante la autoridad competente"
+      },
+      "correct": "c",
+      "explicacion": "Las autoridades encargadas del control de entrada guardarán los datos en un fichero temporal, borrándolos tras la entrada y en un plazo de 24 horas desde su comunicación, salvo necesidades en el ejercicio de sus funciones, estando los transportistas obligados a borrar también sus datos en ese mismo plazo.",
+      "ley": "Artículo 66.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Toda compañía o transportista estará obligada a enviar a las autoridades españolas la información sobre el número de billetes de vuelta no utilizados, en un plazo no superior a:",
+      "options": {
+        "a": "1 mes desde la fecha de compra original del billete de ida y vuelta",
+        "b": "24 horas desde la salida del medio de transporte correspondiente",
+        "c": "7 días desde que el pasajero comunique su intención de no utilizar el billete",
+        "d": "48 horas desde la fecha de caducidad del billete"
+      },
+      "correct": "d",
+      "explicacion": "La información sobre billetes de vuelta no utilizados deberá enviarse en un plazo no superior a 48 horas desde la fecha de caducidad del billete, complementando así el control migratorio sobre rutas procedentes de fuera del Espacio Schengen.",
+      "ley": "Artículo 66.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Toda compañía, empresa de transporte o transportista estará obligada a hacerse cargo inmediatamente del extranjero que hubiese trasladado hasta la frontera, si a este se le hubiera denegado la entrada por:",
+      "options": {
+        "a": "Carecer de medios económicos suficientes acreditados durante el vuelo o trayecto",
+        "b": "Haber incumplido las normas internas de comportamiento durante el propio transporte",
+        "c": "Deficiencias en la documentación necesaria para el cruce de fronteras",
+        "d": "No hablar el idioma oficial del país de destino final del viaje contratado"
+      },
+      "correct": "c",
+      "explicacion": "Toda compañía, empresa de transporte o transportista estará obligada a hacerse cargo inmediatamente del extranjero que hubiese trasladado hasta la frontera correspondiente del territorio español, si a este se le hubiera denegado la entrada por deficiencias en la documentación necesaria para el cruce de fronteras.",
+      "ley": "Artículo 66.3.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La compañía o transportista que tenga a su cargo un extranjero conforme a las obligaciones del artículo 66.3 deberá garantizarle:",
+      "options": {
+        "a": "Únicamente el reembolso íntegro del importe del billete adquirido por dicho extranjero",
+        "b": "Solo el transporte hasta cualquier país que el propio extranjero elija libremente",
+        "c": "Unas condiciones de vida adecuadas mientras permanezca a su cargo",
+        "d": "Exclusivamente atención médica especializada, sin obligación de manutención adicional"
+      },
+      "correct": "c",
+      "explicacion": "La compañía, empresa de transportes o transportista que tenga a su cargo un extranjero en virtud de los supuestos previstos deberá garantizar al mismo unas condiciones de vida adecuadas mientras permanezca a su cargo, en tanto se procede a su traslado o devolución correspondiente.",
+      "ley": "Artículo 66.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Lo establecido sobre obligaciones de los transportistas se entiende también aplicable cuando el transporte aéreo o marítimo se realice:",
+      "options": {
+        "a": "Solo en transportes de mercancías, sin extensión al transporte específico de pasajeros",
+        "b": "Únicamente en rutas internacionales con destino final en un país comunitario distinto a España",
+        "c": "Exclusivamente entre puertos o aeropuertos situados fuera de la Unión Europea",
+        "d": "Desde Ceuta o Melilla hasta cualquier otro punto del territorio español"
+      },
+      "correct": "d",
+      "explicacion": "Lo establecido sobre obligaciones de los transportistas se entiende también para el caso en que el transporte aéreo o marítimo se realice desde Ceuta o Melilla hasta cualquier otro punto del territorio español, extendiendo así el régimen de control a estos trayectos interiores específicos.",
+      "ley": "Artículo 66.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El Gobierno llevará a cabo una observación permanente de las magnitudes y características del fenómeno inmigratorio con objeto de:",
+      "options": {
+        "a": "Analizar su impacto en la sociedad española y facilitar información objetiva que evite corrientes xenófobas o racistas",
+        "b": "Determinar exclusivamente cuotas anuales de entrada por nacionalidad sin más finalidad adicional",
+        "c": "Elaborar estadísticas comerciales sobre el consumo de los inmigrantes en territorio español",
+        "d": "Establecer un ranking público de Comunidades Autónomas según su tasa de inmigración recibida"
+      },
+      "correct": "a",
+      "explicacion": "El Gobierno llevará a cabo una observación permanente de las magnitudes y características más significativas del fenómeno inmigratorio con objeto de analizar su impacto en la sociedad española y facilitar una información objetiva y contrastada que evite o dificulte corrientes xenófobas o racistas.",
+      "ley": "Artículo 67.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El Gobierno unificará en Oficinas provinciales los servicios existentes, dependientes de diferentes órganos de la Administración del Estado con competencia en inmigración, con el objeto de:",
+      "options": {
+        "a": "Conseguir una adecuada coordinación de su actuación administrativa",
+        "b": "Eliminar cualquier intervención estatal en favor de una gestión municipal descentralizada",
+        "c": "Reducir exclusivamente el número de funcionarios destinados a estas materias",
+        "d": "Trasladar íntegramente dichas competencias a las Comunidades Autónomas correspondientes"
+      },
+      "correct": "a",
+      "explicacion": "El Gobierno unificará en Oficinas provinciales los servicios existentes, dependientes de diferentes órganos de la Administración del Estado con competencia en inmigración, al objeto de conseguir una adecuada coordinación de su actuación administrativa.",
+      "ley": "Artículo 67.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los planes, programas y directrices que elabore el Gobierno sobre la actuación de la Inspección de Trabajo previa al procedimiento sancionador se destinan especialmente a comprobar:",
+      "options": {
+        "a": "Únicamente el grado de satisfacción de los empleadores con la plantilla extranjera contratada",
+        "b": "Exclusivamente el cumplimiento de los horarios laborales pactados en convenio colectivo sectorial",
+        "c": "Solo la afiliación sindical de los trabajadores extranjeros en cada centro de trabajo concreto",
+        "d": "El cumplimiento del principio de igualdad y no discriminación de los trabajadores extranjeros, así como la normativa de autorización de trabajo"
+      },
+      "correct": "d",
+      "explicacion": "El Gobierno elaborará planes, programas y directrices sobre la actuación de la Inspección de Trabajo destinados especialmente a comprobar el cumplimiento del principio de igualdad y no discriminación de los trabajadores extranjeros, así como el cumplimiento efectivo de la normativa de autorización de trabajo.",
+      "ley": "Artículo 67.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El órgano a través del cual se asegurará la adecuada coordinación de las actuaciones de las Administraciones Públicas en materia de inmigración es:",
+      "options": {
+        "a": "El Observatorio Español del Racismo y la Xenofobia, ampliando sus funciones originarias",
+        "b": "La Conferencia Sectorial de Inmigración",
+        "c": "El Foro para la Integración Social de los Inmigrantes, en exclusiva sustitución de cualquier otro órgano",
+        "d": "La Comisión Laboral Tripartita de Inmigración, en su función general de coordinación interadministrativa"
+      },
+      "correct": "b",
+      "explicacion": "La Conferencia Sectorial de Inmigración es el órgano a través del cual se asegurará la adecuada coordinación de las actuaciones que desarrollen las Administraciones Públicas en materia de inmigración.",
+      "ley": "Artículo 68.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las Comunidades Autónomas que asuman competencias ejecutivas en autorización inicial de trabajo deberán desarrollarlas en necesaria coordinación con las competencias estatales, garantizando, entre otros aspectos:",
+      "options": {
+        "a": "La aplicación de criterios y plazos completamente distintos en cada Comunidad Autónoma sin coordinación entre sí",
+        "b": "La fijación de cuotas migratorias diferenciadas según el nivel de renta de cada Comunidad Autónoma",
+        "c": "La igualdad en la aplicación de la normativa en todo el territorio, la celeridad de los procedimientos y el intercambio de información",
+        "d": "La sustitución absoluta de toda intervención estatal en la materia, asumiendo competencia exclusiva y excluyente"
+      },
+      "correct": "c",
+      "explicacion": "Las Comunidades Autónomas con competencias ejecutivas en autorización inicial de trabajo deberán coordinarse con las competencias estatales de manera que se garantice la igualdad en la aplicación de la normativa en todo el territorio, la celeridad de los procedimientos y el intercambio de información necesario.",
+      "ley": "Artículo 68.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Con carácter previo a la concesión de autorizaciones por arraigo, las Comunidades Autónomas o, en su caso, los Ayuntamientos, emitirán un informe sobre:",
+      "options": {
+        "a": "La integración social del extranjero cuyo domicilio habitual se encuentre en su territorio",
+        "b": "Únicamente la cuantía de los ingresos económicos declarados por el solicitante en el último año",
+        "c": "Solo el número de denuncias penales presentadas contra el extranjero en cualquier territorio español",
+        "d": "Exclusivamente la nacionalidad de origen del extranjero solicitante de la autorización"
+      },
+      "correct": "a",
+      "explicacion": "Con carácter previo a la concesión de autorizaciones por arraigo, las Comunidades Autónomas o, en su caso, los Ayuntamientos, emitirán un informe sobre la integración social del extranjero cuyo domicilio habitual se encuentre en su territorio, teniendo en cuenta permanencia, vivienda, vínculos familiares y esfuerzos de integración.",
+      "ley": "Artículo 68.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las Comunidades Autónomas con competencias en seguridad ciudadana mediante policía propia podrán aportar un informe sobre afectación al orden público, que se incorporará al expediente:",
+      "options": {
+        "a": "Al igual que el que, en su caso, aporten las Fuerzas y Cuerpos de Seguridad del Estado en el ejercicio de sus competencias",
+        "b": "Sustituyendo siempre y en todo caso al informe de las Fuerzas y Cuerpos de Seguridad del Estado correspondiente",
+        "c": "Únicamente si el extranjero solicitante lo autoriza expresamente por escrito de forma previa",
+        "d": "Solo cuando el procedimiento se refiera exclusivamente a autorizaciones de residencia de larga duración"
+      },
+      "correct": "a",
+      "explicacion": "Las Comunidades Autónomas que hayan asumido competencias en seguridad ciudadana mediante policía propia podrán aportar un informe sobre afectación al orden público en procedimientos de autorización de residencia, que se incorporará al expediente al igual que el que aporten las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "ley": "Artículo 68.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los poderes públicos impulsarán el fortalecimiento del movimiento asociativo entre los inmigrantes y apoyarán a las organizaciones sin ánimo de lucro que favorezcan su integración social mediante:",
+      "options": {
+        "a": "Exclusivamente exenciones fiscales totales sobre cualquier actividad económica que desarrollen dichas organizaciones",
+        "b": "Solo formación gratuita en materia jurídica destinada exclusivamente a sus directivos y representantes",
+        "c": "Únicamente cesión gratuita y permanente de inmuebles de titularidad pública para su sede social",
+        "d": "Ayuda económica, tanto a través de programas generales como en relación con sus actividades específicas"
+      },
+      "correct": "d",
+      "explicacion": "Los poderes públicos impulsarán el fortalecimiento del movimiento asociativo entre los inmigrantes y apoyarán a los sindicatos, organizaciones empresariales y organizaciones no gubernamentales que favorezcan su integración social, facilitándoles ayuda económica a través de programas generales y actividades específicas.",
+      "ley": "Artículo 69 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El Foro para la Integración Social de los Inmigrantes, constituido de forma tripartita y equilibrada, está integrado por representantes de:",
+      "options": {
+        "a": "Las Administraciones Públicas, las asociaciones de inmigrantes y otras organizaciones con interés e implantación en el ámbito migratorio, incluidos sindicatos y empresarios",
+        "b": "Únicamente las Administraciones Públicas, sin participación de entidades sociales ni representativas",
+        "c": "Solo representantes diplomáticos de los países de origen de los principales colectivos de inmigrantes",
+        "d": "Exclusivamente las organizaciones sindicales y empresariales, sin presencia de las propias asociaciones de inmigrantes"
+      },
+      "correct": "a",
+      "explicacion": "El Foro para la Integración Social de los Inmigrantes, constituido de forma tripartita y equilibrada, está formado por representantes de las Administraciones Públicas, de las asociaciones de inmigrantes y de otras organizaciones con interés e implantación en el ámbito migratorio, incluyendo sindicatos y organizaciones empresariales más representativas.",
+      "ley": "Artículo 70.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El Foro para la Integración Social de los Inmigrantes constituye el órgano de:",
+      "options": {
+        "a": "Resolución vinculante de los expedientes sancionadores tramitados en materia de extranjería",
+        "b": "Imposición directa de sanciones administrativas a los empleadores de trabajadores extranjeros",
+        "c": "Ejecución material y directa de las resoluciones de expulsión acordadas por la autoridad competente",
+        "d": "Consulta, información y asesoramiento en materia de integración de los inmigrantes"
+      },
+      "correct": "d",
+      "explicacion": "El Foro para la Integración Social de los Inmigrantes constituye el órgano de consulta, información y asesoramiento en materia de integración de los inmigrantes, determinándose reglamentariamente su composición, competencias, funcionamiento y adscripción administrativa.",
+      "ley": "Artículo 70.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El Observatorio Español del Racismo y la Xenofobia tiene funciones de:",
+      "options": {
+        "a": "Imposición directa de sanciones administrativas a quienes cometan actos discriminatorios graves o muy graves",
+        "b": "Estudio y análisis, con capacidad para elevar propuestas de actuación en materia de lucha contra el racismo y la xenofobia",
+        "c": "Resolución vinculante de reclamaciones individuales presentadas por víctimas de discriminación racial",
+        "d": "Tramitación exclusiva de expedientes de asilo basados en persecución por motivos étnicos o raciales"
+      },
+      "correct": "b",
+      "explicacion": "Se constituirá el Observatorio Español del Racismo y la Xenofobia, con funciones de estudio y análisis, y con capacidad para elevar propuestas de actuación, en materia de lucha contra el racismo y la xenofobia, sin que tenga atribuidas funciones sancionadoras directas.",
+      "ley": "Artículo 71 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La Comisión Laboral Tripartita de Inmigración es el órgano colegiado adscrito al Ministerio competente en materia de inmigración, del que forman parte:",
+      "options": {
+        "a": "Exclusivamente funcionarios públicos de la Administración General del Estado en materia laboral",
+        "b": "Las organizaciones sindicales y empresariales más representativas",
+        "c": "Solo representantes designados por las asociaciones de defensa de los derechos de los inmigrantes",
+        "d": "Únicamente representantes de las Comunidades Autónomas, sin presencia de agentes sociales"
+      },
+      "correct": "b",
+      "explicacion": "La Comisión Laboral Tripartita de Inmigración es el órgano colegiado adscrito al Ministerio competente en materia de inmigración, de la que forman parte las organizaciones sindicales y empresariales más representativas, siendo consultada en aspectos clave como el Catálogo de Ocupaciones de Difícil Cobertura.",
+      "ley": "Artículo 72.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La información que los transportistas deben remitir sobre pasajeros, conforme al artículo 66.1, será comprensiva, entre otros datos, de:",
+      "options": {
+        "a": "Únicamente el número de asiento ocupado durante el trayecto, sin más datos identificativos adicionales",
+        "b": "Nombre y apellidos, fecha de nacimiento, nacionalidad, número de pasaporte, paso fronterizo de entrada y número total de personas transportadas",
+        "c": "Solo la dirección de correo electrónico de contacto facilitada por cada pasajero al adquirir el billete",
+        "d": "Exclusivamente la tarjeta de crédito utilizada para el pago del billete correspondiente al trayecto"
+      },
+      "correct": "b",
+      "explicacion": "La información será comprensiva del nombre y apellidos de cada pasajero, su fecha de nacimiento, nacionalidad, número de pasaporte o documento de viaje y tipo del mismo, paso fronterizo de entrada, código de transporte, hora de salida y llegada, número total de personas transportadas, y lugar inicial de embarque.",
+      "ley": "Artículo 66.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_17_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La información sobre billetes de vuelta no utilizados, cuando así lo determinen las autoridades españolas, comprenderá adicionalmente, para pasajeros no nacionales de la UE, del EEE o de países con convenio asimilado:",
+      "options": {
+        "a": "Únicamente el motivo concreto por el que el pasajero decidió no utilizar finalmente el billete de vuelta",
+        "b": "El nombre y apellidos de cada pasajero, su fecha de nacimiento, nacionalidad y número de pasaporte o documento de viaje",
+        "c": "Solo la compañía aérea o naviera alternativa que finalmente hubiera utilizado el pasajero para su regreso",
+        "d": "Exclusivamente el precio abonado originalmente por el billete de vuelta que resultó no utilizado"
+      },
+      "correct": "b",
+      "explicacion": "Cuando así lo determinen las autoridades españolas, la información sobre billetes de vuelta no utilizados comprenderá, además, para pasajeros no nacionales de la UE, del EEE o de países con convenio asimilado, el nombre y apellidos de cada pasajero, su fecha de nacimiento, nacionalidad y número de pasaporte o documento de viaje.",
+      "ley": "Artículo 66.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 20",
+  "preguntas": [
+    {
+      "id": "tema_13_test_20_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 1 de la LO 4/2015, la seguridad ciudadana constituye un bien jurídico de carácter:",
+      "options": {
+        "a": "Patrimonial",
+        "b": "Estrictamente individual",
+        "c": "Colectivo",
+        "d": "Contractual"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 1 de la LO 4/2015 califica la seguridad ciudadana como un bien jurídico de carácter colectivo.",
+      "ley": "LO 4/2015, art. 1"
+    },
+    {
+      "id": "tema_13_test_20_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 9 de la LO 4/2015, el Documento Nacional de Identidad es obligatorio a partir de los ______ años.",
+      "options": {
+        "a": "Doce",
+        "b": "Dieciséis",
+        "c": "Catorce",
+        "d": "Dieciocho"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 9.1 de la LO 4/2015 fija en catorce años la edad de obligatoriedad del Documento Nacional de Identidad.",
+      "ley": "LO 4/2015, art. 9"
+    },
+    {
+      "id": "tema_13_test_20_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 1 de la Ley 5/2014, las actividades de seguridad privada tienen la consideración de complementarias y subordinadas respecto de:",
+      "options": {
+        "a": "La seguridad pública",
+        "b": "Las compañías de seguros",
+        "c": "La actividad notarial",
+        "d": "El sistema judicial"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 1.1 de la Ley 5/2014 califica las actividades de seguridad privada como complementarias y subordinadas a la seguridad pública.",
+      "ley": "Ley 5/2014, art. 1"
+    },
+    {
+      "id": "tema_13_test_20_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la identificación de personas, conforme al artículo 16 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Procede cuando existan indicios de participación en una infracción",
+        "b": "El traslado a dependencias policiales no podrá superar las seis horas",
+        "c": "Los asientos del libro-registro se cancelan de oficio a los tres años",
+        "d": "Estas diligencias están sujetas a las mismas formalidades que una detención"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 19.1 de la LO 4/2015 aclara que estas diligencias no están sujetas a las mismas formalidades que la detención.",
+      "ley": "LO 4/2015, art. 16"
+    },
+    {
+      "id": "tema_13_test_20_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 39.1 de la LO 4/2015, las infracciones muy graves se sancionan con multa de 30.001 a ______ euros.",
+      "options": {
+        "a": "300.000",
+        "b": "450.000",
+        "c": "600.000",
+        "d": "1.000.000"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 39.1 de la LO 4/2015 fija en 600.000 euros el límite máximo de la multa por infracciones muy graves.",
+      "ley": "LO 4/2015, art. 39"
+    },
+    {
+      "id": "tema_13_test_20_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 5 de la Ley 5/2014, los despachos de detectives podrán prestar, con carácter exclusivo y excluyente, servicios sobre:",
+      "options": {
+        "a": "La investigación privada de personas, hechos o delitos solo perseguibles a instancia de parte",
+        "b": "La vigilancia de bienes y establecimientos",
+        "c": "El transporte de fondos y valores",
+        "d": "El depósito de explosivos y sustancias peligrosas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5.2 de la Ley 5/2014 reserva en exclusiva a los despachos de detectives la investigación privada de personas, hechos o delitos perseguibles solo a instancia de parte.",
+      "ley": "Ley 5/2014, art. 5"
+    },
+    {
+      "id": "tema_13_test_20_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los vigilantes de seguridad, conforme al artículo 32 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Pueden impedir el acceso a un inmueble si se niega la exhibición de la identificación",
+        "b": "Pueden retener la documentación personal de quien se niegue a identificarse",
+        "c": "Deben oponerse a la comisión de infracciones cuando las presenciaren en relación con el objeto de su protección",
+        "d": "Pueden detener y poner inmediatamente a disposición de las Fuerzas y Cuerpos de Seguridad a los delincuentes"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 32.1 de la Ley 5/2014 prohíbe expresamente retener la documentación personal, aunque sí permite impedir el acceso o el uso del inmueble.",
+      "ley": "Ley 5/2014, art. 32"
+    },
+    {
+      "id": "tema_13_test_20_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 38.1 de la LO 4/2015, las infracciones leves prescriben a los ______ meses de haberse cometido.",
+      "options": {
+        "a": "Tres",
+        "b": "Seis",
+        "c": "Nueve",
+        "d": "Doce"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 38.1 de la LO 4/2015 fija en seis meses el plazo de prescripción de las infracciones leves.",
+      "ley": "LO 4/2015, art. 38"
+    },
+    {
+      "id": "tema_13_test_20_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 27 de la Ley 5/2014, la habilitación profesional como personal de seguridad privada corresponde a la Dirección General de la Policía, excepto la de los guardas rurales, cuya habilitación corresponde a:",
+      "options": {
+        "a": "La Dirección General de la Guardia Civil",
+        "b": "El Ministerio de Agricultura",
+        "c": "Las comunidades autónomas en todo caso",
+        "d": "Los colegios profesionales de detectives"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 27.3 de la Ley 5/2014 reserva a la Dirección General de la Guardia Civil la habilitación de los guardas rurales y sus especialidades.",
+      "ley": "Ley 5/2014, art. 27"
+    },
+    {
+      "id": "tema_13_test_20_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el carácter subsidiario del procedimiento sancionador, conforme al artículo 45 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "No podrán sancionarse hechos ya sancionados penal o administrativamente con identidad de sujeto, hecho y fundamento",
+        "b": "El órgano administrativo pasará el tanto de culpa a la autoridad judicial cuando los hechos pudieran ser delito",
+        "c": "El plazo de prescripción queda interrumpido durante la pendencia del proceso penal",
+        "d": "El órgano administrativo puede resolver el expediente sancionador sin esperar a la resolución penal sobre los mismos hechos"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 45.2 de la LO 4/2015 obliga a abstenerse de continuar el procedimiento sancionador mientras no concluya la vía penal sobre los mismos hechos.",
+      "ley": "LO 4/2015, art. 45"
+    },
+    {
+      "id": "tema_13_test_20_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 49.4 de la Ley 5/2014, los informes de investigación deberán conservarse archivados, al menos, durante ______ años.",
+      "options": {
+        "a": "Dos",
+        "b": "Tres",
+        "c": "Cuatro",
+        "d": "Cinco"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 49.4 de la Ley 5/2014 fija en tres años el plazo mínimo de conservación de los informes de investigación.",
+      "ley": "Ley 5/2014, art. 49"
+    },
+    {
+      "id": "tema_13_test_20_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 23 de la LO 4/2015, la disolución de reuniones y manifestaciones en lugares de tránsito público constituye:",
+      "options": {
+        "a": "El último recurso, dentro de medidas graduales y proporcionadas",
+        "b": "La primera medida ante cualquier incidente menor",
+        "c": "Una facultad exclusiva de los ayuntamientos",
+        "d": "Una decisión que no requiere proporcionalidad alguna"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 23.2 de la LO 4/2015 exige que las medidas de intervención sean graduales y proporcionadas, reservando la disolución como último recurso.",
+      "ley": "LO 4/2015, art. 23"
+    },
+    {
+      "id": "tema_13_test_20_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los requisitos de las empresas de seguridad privada, conforme al artículo 19 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Deben estar legalmente constituidas e inscritas en el registro mercantil o registro público correspondiente",
+        "b": "Deben tener la nacionalidad de un Estado miembro de la Unión Europea o del Espacio Económico Europeo",
+        "c": "Deben constituir el aval o seguro de caución que se determine reglamentariamente",
+        "d": "Quedan exoneradas de cualquier requisito si llevan más de veinte años operando"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 19 de la Ley 5/2014 no contempla ninguna exoneración de requisitos por antigüedad de la empresa en el mercado.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_20_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 53.3 de la LO 4/2015, las sanciones pecuniarias no abonadas deberán hacerse efectivas dentro de los ______ días siguientes a la firmeza de la sanción.",
+      "options": {
+        "a": "Diez",
+        "b": "Quince",
+        "c": "Veinte",
+        "d": "Treinta"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 53.3 de la LO 4/2015 fija en quince días el plazo para hacer efectivo el pago de las sanciones pecuniarias desde su firmeza.",
+      "ley": "LO 4/2015, art. 53"
+    },
+    {
+      "id": "tema_13_test_20_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 36 de la Ley 5/2014, corresponde a los directores de seguridad, en relación con la empresa o entidad en que prestan servicios:",
+      "options": {
+        "a": "La representación legal de la empresa ante notario",
+        "b": "La negociación de los convenios colectivos del sector",
+        "c": "La identificación, análisis y evaluación de situaciones de riesgo para la vida, integridad y patrimonio",
+        "d": "La auditoría fiscal anual de la entidad"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 36.1 de la Ley 5/2014 encomienda a los directores de seguridad la identificación, análisis y evaluación de situaciones de riesgo.",
+      "ley": "Ley 5/2014, art. 36"
+    },
+    {
+      "id": "tema_13_test_20_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las infracciones muy graves, conforme al artículo 35 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Incluyen reuniones no comunicadas en infraestructuras de servicios básicos cuando generen riesgo para la vida",
+        "b": "Incluyen la celebración de espectáculos quebrantando una prohibición ordenada por seguridad pública",
+        "c": "Incluyen la proyección de haces de luz que puedan deslumbrar a conductores",
+        "d": "Incluyen cualquier infracción administrativa leve reiterada más de tres veces en un año"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 35 de la LO 4/2015 no convierte infracciones leves reiteradas en infracciones muy graves; cada categoría está tipificada de forma autónoma según su propia gravedad.",
+      "ley": "LO 4/2015, art. 35"
+    },
+    {
+      "id": "tema_13_test_20_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 22.2 de la Ley 5/2014, los representantes legales de empresas de seguridad deben carecer de antecedentes penales por delitos ______.",
+      "options": {
+        "a": "Dolosos",
+        "b": "De tráfico",
+        "c": "Fiscales prescritos",
+        "d": "Leves de cualquier naturaleza"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 22.2 de la Ley 5/2014 exige carecer de antecedentes penales por delitos dolosos.",
+      "ley": "Ley 5/2014, art. 22"
+    },
+    {
+      "id": "tema_13_test_20_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 11 de la LO 4/2015, el pasaporte español es un documento público, personal, individual e intransferible que acredita, salvo prueba en contrario:",
+      "options": {
+        "a": "El estado civil del titular",
+        "b": "La capacidad económica del titular",
+        "c": "La identidad y nacionalidad de los ciudadanos españoles fuera de España",
+        "d": "La situación laboral del titular"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 11.1 de la LO 4/2015 define el pasaporte por su función de acreditar la identidad y nacionalidad de los ciudadanos españoles fuera de España.",
+      "ley": "LO 4/2015, art. 11"
+    },
+    {
+      "id": "tema_13_test_20_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las medidas provisionales anteriores al procedimiento, conforme al artículo 55 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Pueden consistir en la ocupación o precinto de vehículos, armas o material peligroso en supuestos de grave riesgo",
+        "b": "Habrán de ser ratificadas, modificadas o revocadas en el plazo máximo de quince días",
+        "c": "Su duración no podrá exceder de seis meses",
+        "d": "No requieren notificación alguna a los interesados mientras estén vigentes"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 55.3 de la Ley 5/2014 exige que la duración de estas medidas sea notificada a los interesados, sin que puedan mantenerse sin conocimiento de los afectados.",
+      "ley": "Ley 5/2014, art. 55"
+    },
+    {
+      "id": "tema_13_test_20_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 30 de la LO 4/2015, estarán exentos de responsabilidad por las infracciones cometidas los menores de ______ años.",
+      "options": {
+        "a": "Doce",
+        "b": "Catorce",
+        "c": "Dieciséis",
+        "d": "Dieciocho"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 30.2 de la LO 4/2015 exime de responsabilidad a los menores de catorce años, debiendo ponerse el hecho en conocimiento del Ministerio Fiscal.",
+      "ley": "LO 4/2015, art. 30"
+    }
+  ]
+}

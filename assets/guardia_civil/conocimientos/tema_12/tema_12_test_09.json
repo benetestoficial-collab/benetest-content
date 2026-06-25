@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 9",
+  "preguntas": [
+    {
+      "id": "tema_12_test_09_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros mayores de 16 años precisarán, para ejercer cualquier actividad lucrativa, de:",
+      "options": {
+        "a": "Únicamente un certificado médico de aptitud laboral, sin más trámite administrativo",
+        "b": "La correspondiente autorización administrativa previa para residir y trabajar, concedida conjuntamente salvo excepciones",
+        "c": "Autorización exclusivamente del empleador, sin intervención de la Administración",
+        "d": "Solo inscripción en el padrón municipal, sin necesidad de autorización adicional"
+      },
+      "correct": "b",
+      "explicacion": "Los extranjeros mayores de 16 años precisarán, para ejercer cualquier actividad lucrativa, laboral o profesional, de la correspondiente autorización administrativa previa para residir y trabajar. La autorización de trabajo se concederá conjuntamente con la de residencia, salvo excepciones reglamentarias.",
+      "ley": "Artículo 36.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La eficacia de la autorización de residencia y trabajo inicial se condiciona a:",
+      "options": {
+        "a": "El alta del trabajador en la Seguridad Social",
+        "b": "La firma de un seguro privado de responsabilidad civil",
+        "c": "El abono anticipado de las cuotas de un año completo de cotización",
+        "d": "La superación de un examen de idioma español de nivel intermedio"
+      },
+      "correct": "a",
+      "explicacion": "La eficacia de la autorización de residencia y trabajo inicial se condicionará al alta del trabajador en la Seguridad Social, comprobando la Entidad Gestora en cada caso la previa habilitación de los extranjeros para residir y realizar la actividad.",
+      "ley": "Artículo 36.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La carencia de autorización de residencia y trabajo, sin perjuicio de las responsabilidades del empresario:",
+      "options": {
+        "a": "Solo afecta a la validez del contrato si la actividad se desarrolló durante más de un año",
+        "b": "Permite al trabajador acceder a todas las prestaciones, incluida la de desempleo, sin restricción",
+        "c": "Anula automáticamente cualquier efecto del contrato laboral, sin derecho a reclamación alguna",
+        "d": "No invalidará el contrato de trabajo respecto a los derechos del trabajador extranjero, aunque no podrá obtener prestaciones por desempleo"
+      },
+      "correct": "d",
+      "explicacion": "La carencia de autorización de residencia y trabajo no invalidará el contrato de trabajo respecto a los derechos del trabajador extranjero, ni será obstáculo para prestaciones derivadas de convenios internacionales u otras compatibles con su situación. En todo caso, el trabajador sin autorización no podrá obtener prestaciones por desempleo.",
+      "ley": "Artículo 36.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Para la concesión inicial de autorización de trabajo podrán aplicarse criterios especiales para determinadas nacionalidades en función de:",
+      "options": {
+        "a": "El criterio del idioma oficial común con España",
+        "b": "El principio de reciprocidad",
+        "c": "El nivel de renta per cápita del país de origen del solicitante",
+        "d": "La distancia geográfica entre España y el país de origen"
+      },
+      "correct": "b",
+      "explicacion": "En la concesión inicial de la autorización administrativa para trabajar podrán aplicarse criterios especiales para determinadas nacionalidades en función del principio de reciprocidad, lo que permite adaptar el régimen a las relaciones bilaterales con cada Estado.",
+      "ley": "Artículo 36.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La autorización inicial de residencia y trabajo por cuenta propia se limitará a un ámbito geográfico no superior al de:",
+      "options": {
+        "a": "Un único municipio, sin posibilidad de extenderse a localidades vecinas",
+        "b": "Todo el territorio nacional, sin restricción geográfica de ningún tipo desde el inicio",
+        "c": "Una Comunidad Autónoma, y a un sector de actividad",
+        "d": "Toda la Unión Europea, equiparándose al régimen comunitario desde la primera concesión"
+      },
+      "correct": "c",
+      "explicacion": "La autorización inicial de residencia y trabajo por cuenta propia se limitará a un ámbito geográfico no superior al de una Comunidad Autónoma, y a un sector de actividad, determinándose reglamentariamente su duración.",
+      "ley": "Artículo 37.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La concesión de la autorización inicial de trabajo por cuenta propia corresponderá a:",
+      "options": {
+        "a": "Las Cámaras de Comercio territoriales, sin intervención administrativa pública",
+        "b": "Exclusivamente el Ministerio de Trabajo, sin participación autonómica de ningún tipo",
+        "c": "Las Comunidades Autónomas, de acuerdo con las competencias asumidas en sus Estatutos, coordinándose con la competencia estatal en residencia",
+        "d": "Los Ayuntamientos del municipio donde se vaya a desarrollar la actividad"
+      },
+      "correct": "c",
+      "explicacion": "La concesión de la autorización inicial de trabajo por cuenta propia, en necesaria coordinación con la que corresponde al Estado en materia de residencia, corresponderá a las Comunidades Autónomas de acuerdo con las competencias asumidas en los correspondientes Estatutos.",
+      "ley": "Artículo 37.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Para la concesión inicial de la autorización de residencia y trabajo por cuenta ajena se tendrá en cuenta:",
+      "options": {
+        "a": "Únicamente la opinión del empleador sobre la idoneidad del candidato extranjero",
+        "b": "Exclusivamente la nacionalidad del trabajador, sin valorar otros factores económicos",
+        "c": "Solo si el trabajador acredita estudios superiores homologados en España",
+        "d": "La situación nacional de empleo, determinada por el Servicio Público de Empleo Estatal mediante el Catálogo de Ocupaciones de Difícil Cobertura"
+      },
+      "correct": "d",
+      "explicacion": "Para la concesión inicial de la autorización de residencia y trabajo por cuenta ajena se tendrá en cuenta la situación nacional de empleo, determinada por el Servicio Público de Empleo Estatal con información de las Comunidades Autónomas, plasmada en el Catálogo de Ocupaciones de Difícil Cobertura.",
+      "ley": "Artículo 38.1 y 38.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El procedimiento de concesión de la autorización de residencia y trabajo inicial se basará en la solicitud de cobertura de un puesto vacante presentada por:",
+      "options": {
+        "a": "El consulado del país de origen del trabajador en exclusiva",
+        "b": "Un empresario o empleador, junto con el contrato de trabajo y la documentación exigible, ofrecido al trabajador residente en un tercer país",
+        "c": "Cualquier sindicato representativo en nombre colectivo de varios trabajadores",
+        "d": "El propio trabajador extranjero exclusivamente, sin intervención previa de ningún empleador"
+      },
+      "correct": "b",
+      "explicacion": "El procedimiento de concesión se basará en la solicitud de cobertura de un puesto vacante, presentada por un empresario o empleador ante la autoridad competente, junto con el contrato de trabajo y demás documentación exigible, ofrecido al trabajador extranjero residente en un tercer país.",
+      "ley": "Artículo 38.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. A partir de la primera concesión de la autorización de residencia y trabajo por cuenta ajena, las renovaciones sucesivas:",
+      "options": {
+        "a": "Se concederán sin limitación alguna de ámbito geográfico u ocupación",
+        "b": "Quedan limitadas exclusivamente al mismo empleador que solicitó la autorización inicial",
+        "c": "Mantienen siempre la misma restricción geográfica y de ocupación inicial",
+        "d": "Solo pueden ampliarse de ámbito tras diez años de relación laboral continuada"
+      },
+      "correct": "a",
+      "explicacion": "A partir de la primera concesión, las autorizaciones se concederán sin limitación alguna de ámbito geográfico u ocupación, lo que amplía progresivamente la libertad de movilidad laboral del trabajador extranjero tras su primera autorización.",
+      "ley": "Artículo 38.7 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La autorización de residencia y trabajo se renovará a su expiración, entre otros supuestos, cuando:",
+      "options": {
+        "a": "El empleador certifique que el rendimiento del trabajador es excelente, sin más requisito",
+        "b": "El trabajador acredite haber cambiado de domicilio durante el último año",
+        "c": "Persista o se renueve el contrato de trabajo que motivó su concesión inicial, o se cuente con un nuevo contrato",
+        "d": "Hayan transcurrido exactamente cinco años desde la primera concesión, sin más condición"
+      },
+      "correct": "c",
+      "explicacion": "La autorización de residencia y trabajo se renovará a su expiración cuando persista o se renueve el contrato de trabajo que motivó su concesión inicial, o cuando se cuente con un nuevo contrato, así como en otros supuestos como prestación contributiva por desempleo o circunstancias reglamentarias específicas.",
+      "ley": "Artículo 38.6.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El Catálogo de Ocupaciones de Difícil Cobertura será aprobado:",
+      "options": {
+        "a": "Por decisión unilateral exclusiva del Ministerio de Trabajo sin consulta previa",
+        "b": "Mediante referéndum entre las organizaciones empresariales y sindicales",
+        "c": "Por cada Comunidad Autónoma de forma autónoma e independiente",
+        "d": "Previa consulta de la Comisión Laboral Tripartita de Inmigración"
+      },
+      "correct": "d",
+      "explicacion": "El Catálogo de Ocupaciones de Difícil Cobertura contendrá una relación de empleos susceptibles de ser satisfechos mediante contratación de trabajadores extranjeros, siendo aprobado previa consulta de la Comisión Laboral Tripartita de Inmigración.",
+      "ley": "Artículo 38.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las ofertas de empleo gestionadas mediante contratación colectiva en origen se orientarán preferentemente hacia:",
+      "options": {
+        "a": "Los países con los que España haya firmado acuerdos sobre regulación de flujos migratorios",
+        "b": "Exclusivamente países limítrofes con territorio español",
+        "c": "Países que no formen parte de ningún acuerdo internacional con España",
+        "d": "Únicamente países de habla hispana, sin posibilidad de extensión a otros idiomas"
+      },
+      "correct": "a",
+      "explicacion": "Las ofertas de empleo realizadas a través del procedimiento de gestión colectiva de contrataciones en origen se orientarán preferentemente hacia los países con los que España haya firmado acuerdos sobre regulación de flujos migratorios.",
+      "ley": "Artículo 39.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. No se tendrá en cuenta la situación nacional de empleo cuando el contrato de trabajo vaya dirigido, entre otros supuestos, a:",
+      "options": {
+        "a": "Trabajadores procedentes exclusivamente de países con tratado de doble nacionalidad",
+        "b": "Cualquier trabajador con más de veinte años de experiencia laboral acreditada",
+        "c": "Únicamente trabajadores con titulación universitaria homologada en España",
+        "d": "Los hijos o nietos de español de origen"
+      },
+      "correct": "d",
+      "explicacion": "No se tendrá en cuenta la situación nacional de empleo, entre otros supuestos, cuando el contrato vaya dirigido a los hijos o nietos de español de origen, así como a familiares reagrupados en edad laboral, refugiados, apátridas y otros colectivos expresamente enumerados en la ley.",
+      "ley": "Artículo 40.1.h) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Tampoco se tendrá en cuenta la situación nacional de empleo, en las condiciones reglamentarias, para:",
+      "options": {
+        "a": "Cualquier trabajador no cualificado del sector de la hostelería sin más requisito específico",
+        "b": "Los trabajadores domésticos contratados por cualquier familia residente en España",
+        "c": "Los profesionales altamente cualificados, técnicos y científicos contratados por entidades públicas, universidades o centros de I+D+i",
+        "d": "Cualquier solicitante con conocimiento básico del idioma español, sin más criterio profesional"
+      },
+      "correct": "c",
+      "explicacion": "Tampoco se tendrá en cuenta la situación nacional de empleo, en las condiciones reglamentarias, para la cobertura de puestos directivos, profesionales altamente cualificados incluyendo técnicos y científicos contratados por entidades públicas, universidades o centros de I+D+i, trabajadores intraempresariales y artistas de reconocido prestigio.",
+      "ley": "Artículo 40.2.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. No será necesaria la obtención de autorización de trabajo, entre otros casos, para:",
+      "options": {
+        "a": "Cualquier extranjero que acredite estudios universitarios homologados en España",
+        "b": "Los trabajadores domésticos contratados por un particular sin más condición",
+        "c": "Los profesores extranjeros invitados o contratados por una universidad española",
+        "d": "Cualquier trabajador autónomo extranjero que ejerza una profesión liberal"
+      },
+      "correct": "c",
+      "explicacion": "No será necesaria la obtención de autorización de trabajo, entre otros supuestos, para los profesores extranjeros invitados o contratados por una universidad española, así como para técnicos, científicos, corresponsales de prensa, ministros religiosos y otros colectivos taxativamente enumerados en la ley.",
+      "ley": "Artículo 41.1.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Entre las excepciones a la exigencia de autorización de trabajo figuran los artistas que vengan a España a realizar:",
+      "options": {
+        "a": "Actuaciones concretas que no supongan una actividad continuada",
+        "b": "Contratos artísticos de duración superior a un año, sin más requisito",
+        "c": "Cualquier tipo de gira, con independencia de su duración o continuidad temporal",
+        "d": "Exposiciones permanentes en museos o galerías de titularidad pública"
+      },
+      "correct": "a",
+      "explicacion": "No será necesaria la obtención de autorización de trabajo para los artistas que vengan a España a realizar actuaciones concretas que no supongan una actividad continuada, diferenciándose así de los trabajadores artísticos que desarrollan actividad estable en territorio español.",
+      "ley": "Artículo 41.1.g) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Para conceder las autorizaciones de residencia y trabajo de temporada deberá garantizarse que los trabajadores temporeros:",
+      "options": {
+        "a": "Recibirán un salario superior al doble del salario mínimo interprofesional",
+        "b": "Serán alojados en condiciones de dignidad e higiene adecuadas",
+        "c": "Tendrán garantizado el acceso gratuito a formación universitaria durante su estancia",
+        "d": "Contarán con vehículo propio facilitado por el empleador para sus desplazamientos"
+      },
+      "correct": "b",
+      "explicacion": "Para conceder las autorizaciones de residencia y trabajo a los trabajadores de temporada deberá garantizarse que estos serán alojados en condiciones de dignidad e higiene adecuadas, promoviendo además las Administraciones Públicas la asistencia de los servicios sociales adecuados.",
+      "ley": "Artículo 42.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las Comunidades Autónomas, Ayuntamientos y agentes sociales promoverán, en colaboración con la Administración General del Estado:",
+      "options": {
+        "a": "La eliminación total del régimen de trabajo de temporada en favor del contrato indefinido",
+        "b": "Los circuitos que permitan la concatenación de los trabajadores de temporada",
+        "c": "La supresión de cualquier control administrativo sobre los flujos migratorios estacionales",
+        "d": "La sustitución completa de los trabajadores de temporada por personal local exclusivamente"
+      },
+      "correct": "b",
+      "explicacion": "Las Comunidades Autónomas, los Ayuntamientos y los agentes sociales promoverán los circuitos que permitan la concatenación de los trabajadores de temporada, en colaboración con la Administración General del Estado, facilitando así la continuidad laboral entre distintas campañas.",
+      "ley": "Artículo 42.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Los trabajadores transfronterizos que residen en zona limítrofe y desarrollan su actividad en España regresando diariamente deberán:",
+      "options": {
+        "a": "Obtener la correspondiente autorización administrativa, con los requisitos de las autorizaciones de régimen general, aplicándose en seguridad social el artículo 14.1",
+        "b": "Solicitar visado de tránsito renovable cada veinticuatro horas para cada jornada laboral",
+        "c": "Quedar completamente exentos de cualquier autorización por su condición transfronteriza",
+        "d": "Tributar exclusivamente en su país de residencia, sin obligación documental en España"
+      },
+      "correct": "a",
+      "explicacion": "Los trabajadores extranjeros que, residiendo en zona limítrofe, desarrollen su actividad en España y regresen diariamente a su lugar de residencia, deberán obtener la correspondiente autorización administrativa, con los requisitos y condiciones de las autorizaciones de régimen general, siéndoles aplicable en materia de seguridad social lo establecido en el artículo 14.1 de la ley.",
+      "ley": "Artículo 43.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_09_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El Ministerio de Trabajo e Inmigración, en la gestión colectiva de contrataciones en origen, podrá aprobar:",
+      "options": {
+        "a": "Un calendario laboral único válido para todos los sectores productivos sin distinción",
+        "b": "Una lista cerrada y permanente de nacionalidades excluidas de cualquier procedimiento de contratación",
+        "c": "Cuotas obligatorias de contratación impuestas a cada Comunidad Autónoma sin posibilidad de adaptación",
+        "d": "Una previsión anual de ocupaciones y cifras de empleos a cubrir, a los que solo tendrán acceso quienes no se hallen o residan en España"
+      },
+      "correct": "d",
+      "explicacion": "El Ministerio de Trabajo e Inmigración, atendiendo a la situación nacional de empleo, podrá aprobar una previsión anual de ocupaciones y, en su caso, cifras previstas de empleos a cubrir mediante gestión colectiva de contrataciones en origen, a las que solo tendrán acceso quienes no se hallen o residan en España.",
+      "ley": "Artículo 39.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

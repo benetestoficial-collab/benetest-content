@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 13",
+  "preguntas": [
+    {
+      "id": "tema_13_test_13_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 26 de la Ley 5/2014, el personal de seguridad privada está integrado, entre otros, por vigilantes de seguridad, escoltas privados, guardas rurales, jefes y directores de seguridad y:",
+      "options": {
+        "a": "Detectives privados",
+        "b": "Inspectores de Hacienda",
+        "c": "Agentes de tráfico municipal",
+        "d": "Auxiliares judiciales"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 26.1 de la Ley 5/2014 incluye a los detectives privados entre el personal de seguridad privada, junto a vigilantes, escoltas, guardas rurales, jefes y directores de seguridad.",
+      "ley": "Ley 5/2014, art. 26"
+    },
+    {
+      "id": "tema_13_test_13_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 40.1 de la LO 4/2015, las infracciones graves se sancionan con multa de 601 a ______ euros.",
+      "options": {
+        "a": "20.000",
+        "b": "30.000",
+        "c": "40.000",
+        "d": "50.000"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 39.1 de la LO 4/2015 fija el límite máximo de la multa por infracciones graves en 30.000 euros.",
+      "ley": "LO 4/2015, art. 39"
+    },
+    {
+      "id": "tema_13_test_13_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los registros corporales, identificaciones y comprobaciones, conforme a los artículos 16 a 20 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "El traslado a dependencias policiales a efectos de identificación no podrá superar las seis horas",
+        "b": "Los registros corporales externos respetarán el principio de injerencia mínima",
+        "c": "Las diligencias de identificación, registro y comprobación están sujetas a las mismas formalidades que la detención",
+        "d": "El registro corporal externo se realizará, salvo urgencia, por un agente del mismo sexo"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 19.1 de la LO 4/2015 aclara que estas diligencias no están sujetas a las mismas formalidades que la detención.",
+      "ley": "LO 4/2015, art. 19"
+    },
+    {
+      "id": "tema_13_test_13_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 6 de la Ley 5/2014, queda fuera del ámbito de aplicación de esta ley, entre otras, la fabricación y comercialización de:",
+      "options": {
+        "a": "Elementos o productos de seguridad y de cerrajería de seguridad",
+        "b": "Sistemas de videovigilancia conectados a centrales receptoras de alarmas",
+        "c": "Armamento reglamentario para vigilantes de seguridad",
+        "d": "Uniformes de las Fuerzas y Cuerpos de Seguridad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 6.1 de la Ley 5/2014 excluye del ámbito de la ley la fabricación, comercialización, venta, entrega, instalación o mantenimiento de elementos de seguridad y cerrajería de seguridad.",
+      "ley": "Ley 5/2014, art. 6"
+    },
+    {
+      "id": "tema_13_test_13_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 40.1 de la LO 4/2015, las sanciones por infracciones graves prescriben a los ______ años, computados desde la firmeza de la sanción.",
+      "options": {
+        "a": "Uno",
+        "b": "Dos",
+        "c": "Tres",
+        "d": "Cuatro"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 40.1 de la LO 4/2015 fija en dos años el plazo de prescripción de las sanciones por infracciones graves.",
+      "ley": "LO 4/2015, art. 40"
+    },
+    {
+      "id": "tema_13_test_13_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el procedimiento sancionador abreviado, conforme al artículo 54 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "No será de aplicación a las infracciones muy graves",
+        "b": "El pago voluntario dentro de los quince días reduce la sanción de multa en un 50%",
+        "c": "El interesado dispone de quince días para realizar el pago voluntario o formular alegaciones",
+        "d": "La sanción derivada del pago voluntario es recurrible ante cualquier orden jurisdiccional, incluido el penal"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 54.3 de la LO 4/2015 establece que la sanción derivada del pago voluntario solo es recurrible ante el orden jurisdiccional contencioso-administrativo.",
+      "ley": "LO 4/2015, art. 54"
+    },
+    {
+      "id": "tema_13_test_13_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 17 de la Ley 5/2014, las empresas de seguridad privada únicamente podrán prestar servicios sobre las actividades del artículo 5.1, excepto:",
+      "options": {
+        "a": "La investigación privada, reservada a los despachos de detectives",
+        "b": "La vigilancia de bienes muebles",
+        "c": "El depósito de explosivos",
+        "d": "El transporte de joyas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 17.1 de la Ley 5/2014 excluye expresamente la investigación privada de las actividades propias de las empresas de seguridad, al estar reservada a los despachos de detectives.",
+      "ley": "Ley 5/2014, art. 17"
+    },
+    {
+      "id": "tema_13_test_13_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 16.2 de la LO 4/2015, el traslado a dependencias policiales a los solos efectos de identificación no podrá superar las ______ horas.",
+      "options": {
+        "a": "Tres",
+        "b": "Cuatro",
+        "c": "Seis",
+        "d": "Ocho"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 16.2 de la LO 4/2015 limita este traslado a un máximo de seis horas.",
+      "ley": "LO 4/2015, art. 16"
+    },
+    {
+      "id": "tema_13_test_13_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los directores de seguridad, conforme al artículo 36 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Corresponde a ellos la identificación, análisis y evaluación de situaciones de riesgo para personas y patrimonio",
+        "b": "Deben comunicar a las Fuerzas y Cuerpos de Seguridad las circunstancias relevantes para la seguridad ciudadana",
+        "c": "En las empresas de seguridad pueden compatibilizar sus funciones con las de jefe de seguridad",
+        "d": "Su designación es siempre potestativa, sin que ninguna normativa pueda exigirla"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 36.2 de la Ley 5/2014 exige la designación de un director de seguridad cuando lo requiera la normativa de desarrollo, una decisión gubernativa o una disposición especial, por lo que no es siempre meramente potestativa.",
+      "ley": "Ley 5/2014, art. 36"
+    },
+    {
+      "id": "tema_13_test_13_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 37 de la LO 4/2015, constituye infracción leve la ocupación de cualquier inmueble, vivienda o edificio ajenos contra la voluntad de su propietario cuando:",
+      "options": {
+        "a": "No sea constitutiva de infracción penal",
+        "b": "El ocupante carezca de domicilio propio",
+        "c": "El inmueble esté deshabitado más de un año",
+        "d": "Se produzca en zona rural exclusivamente"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 37.7 de la LO 4/2015 tipifica esta ocupación como infracción leve precisamente cuando no constituya infracción penal.",
+      "ley": "LO 4/2015, art. 37"
+    },
+    {
+      "id": "tema_13_test_13_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 28.1 de la LO 4/2015, corresponde al Gobierno la regulación de los requisitos de fabricación, circulación y tenencia de ______.",
+      "options": {
+        "a": "Vehículos de transporte público",
+        "b": "Armas, sus imitaciones, réplicas y piezas fundamentales",
+        "c": "Sustancias alimentarias de riesgo",
+        "d": "Productos farmacéuticos controlados"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 28.1 de la LO 4/2015 atribuye al Gobierno la regulación de fabricación, circulación y tenencia de armas, sus imitaciones, réplicas y piezas fundamentales.",
+      "ley": "LO 4/2015, art. 28"
+    },
+    {
+      "id": "tema_13_test_13_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los requisitos de las empresas de seguridad privada, conforme al artículo 19 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Deben estar legalmente constituidas e inscritas en el registro mercantil o registro público correspondiente",
+        "b": "Deben tener la nacionalidad de un Estado miembro de la Unión Europea o del Espacio Económico Europeo",
+        "c": "Deben suscribir un contrato de seguro de responsabilidad civil o constituir garantías financieras equivalentes",
+        "d": "Quedan exentas de constituir aval o seguro de caución si cuentan con más de cien empleados"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 19.1.f) de la Ley 5/2014 exige a todas las empresas de seguridad constituir el aval o seguro de caución correspondiente, sin prever exención por número de empleados.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_13_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 5 de la LO 4/2015, entre las autoridades y órganos competentes en materia de seguridad ciudadana en la Administración General del Estado se encuentran:",
+      "options": {
+        "a": "Los rectores de las universidades públicas",
+        "b": "Los presidentes de las diputaciones provinciales",
+        "c": "El Ministro del Interior y el Secretario de Estado de Seguridad",
+        "d": "Los directores de los centros penitenciarios"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 5.2 de la LO 4/2015 incluye expresamente al Ministro del Interior y al Secretario de Estado de Seguridad entre las autoridades competentes.",
+      "ley": "LO 4/2015, art. 5"
+    },
+    {
+      "id": "tema_13_test_13_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 22.2 de la Ley 5/2014, los representantes legales de las empresas de seguridad no podrán haber sido sancionados en los ______ años anteriores por infracción muy grave en materia de seguridad privada.",
+      "options": {
+        "a": "Dos",
+        "b": "Tres",
+        "c": "Cuatro",
+        "d": "Cinco"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 22.2 de la Ley 5/2014 exige no haber sido sancionado en los cuatro años anteriores por infracción muy grave, frente a los dos años exigidos para infracción grave.",
+      "ley": "Ley 5/2014, art. 22"
+    },
+    {
+      "id": "tema_13_test_13_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las infracciones muy graves, conforme al artículo 35 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Incluyen las reuniones no comunicadas en infraestructuras de servicios básicos cuando generen riesgo para la vida",
+        "b": "Incluyen la celebración de espectáculos quebrantando una prohibición ordenada por razones de seguridad pública",
+        "c": "Incluyen la proyección de haces de luz que puedan deslumbrar a conductores y provocar accidentes",
+        "d": "Incluyen la simple tenencia de un arma de fuego con licencia en vigor, sin incumplimiento alguno"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 35.2 de la LO 4/2015 exige incumplimiento de la normativa, falta de documentación o exceso de los límites autorizados para tipificar la infracción, no la mera tenencia de un arma con licencia en vigor.",
+      "ley": "LO 4/2015, art. 35"
+    },
+    {
+      "id": "tema_13_test_13_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 11 de la Ley 5/2014, los registros nacional y autonómicos de seguridad privada serán públicos exclusivamente en cuanto a:",
+      "options": {
+        "a": "Los datos personales completos del personal habilitado",
+        "b": "Los contratos íntegros suscritos por cada empresa",
+        "c": "La denominación o razón social, domicilio, NIF y actividades autorizadas de las empresas inscritas",
+        "d": "El historial sancionador detallado de cada empresa"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 11.6 de la Ley 5/2014 limita el carácter público de estos registros a denominación, domicilio, NIF y actividades autorizadas.",
+      "ley": "Ley 5/2014, art. 11"
+    },
+    {
+      "id": "tema_13_test_13_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 33.2 de la LO 4/2015, la reincidencia por comisión de más de una infracción de la misma naturaleza en el término de ______ años determina la imposición de la multa en grado medio.",
+      "options": {
+        "a": "Uno",
+        "b": "Dos",
+        "c": "Tres",
+        "d": "Cuatro"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 33.2 de la LO 4/2015 fija en dos años el plazo dentro del cual la reincidencia en infracciones de la misma naturaleza determina la multa en grado medio.",
+      "ley": "LO 4/2015, art. 33"
+    },
+    {
+      "id": "tema_13_test_13_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los servicios de videovigilancia, conforme al artículo 42 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Cuando su finalidad sea prevenir infracciones y evitar daños, deben prestarse por vigilantes de seguridad o guardas rurales",
+        "b": "Las grabaciones no podrán destinarse a un uso distinto del de su finalidad",
+        "c": "Las cámaras que formen parte de medidas de seguridad obligatorias no requieren autorización administrativa para su instalación",
+        "d": "Puede grabarse el interior de domicilios particulares sin consentimiento del titular si el sistema está homologado"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 42.2 de la Ley 5/2014 exige expresamente el consentimiento del titular para grabar el interior de los domicilios, sin que la homologación del sistema exima de este requisito.",
+      "ley": "Ley 5/2014, art. 42"
+    },
+    {
+      "id": "tema_13_test_13_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 7 de la LO 4/2015, las autoridades y los miembros de las Fuerzas y Cuerpos de Seguridad podrán recabar la ayuda de los particulares especialmente en casos de:",
+      "options": {
+        "a": "Simple aglomeración de tráfico en horas punta",
+        "b": "Grave calamidad pública o catástrofe extraordinaria",
+        "c": "Eventos deportivos sin incidentes previstos",
+        "d": "Mudanzas particulares en vía pública"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7.2 de la LO 4/2015 prevé esta colaboración de los particulares especialmente en supuestos de grave calamidad pública o catástrofe extraordinaria.",
+      "ley": "LO 4/2015, art. 7"
+    },
+    {
+      "id": "tema_13_test_13_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 18.2 de la Ley 5/2014, la autorización administrativa de las empresas de seguridad privada se suplirá por una declaración responsable cuando pretendan dedicarse exclusivamente a la actividad de ______.",
+      "options": {
+        "a": "Instalación y mantenimiento de sistemas conectados a centrales receptoras de alarmas",
+        "b": "Vigilancia armada en buques mercantes",
+        "c": "Protección personal de autoridades públicas",
+        "d": "Investigación privada de delitos perseguibles a instancia de parte"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 18.2 de la Ley 5/2014 prevé la sustitución de la autorización por declaración responsable únicamente para la actividad de instalación y mantenimiento de sistemas conectados a centrales receptoras de alarmas.",
+      "ley": "Ley 5/2014, art. 18"
+    }
+  ]
+}

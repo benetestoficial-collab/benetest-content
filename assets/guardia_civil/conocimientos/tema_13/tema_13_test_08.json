@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 8",
+  "preguntas": [
+    {
+      "id": "tema_13_test_08_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 25.1 de la Ley 5/2014, los despachos de detectives privados deben llevar un libro-registro en el que anotarán:",
+      "options": {
+        "a": "Los datos personales de todos sus empleados",
+        "b": "Únicamente los servicios facturados a empresas públicas",
+        "c": "Solo los contratos superiores a mil euros",
+        "d": "Cada servicio de investigación contratado o subcontratado"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 25.1 exige llevar un libro-registro en el que se anote cada servicio de investigación contratado o subcontratado por el despacho.",
+      "ley": "Ley 5/2014, art. 25"
+    },
+    {
+      "id": "tema_13_test_08_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 25.1 de la Ley 5/2014, en caso de cierre del despacho de detectives por cualquier causa, la documentación profesional deberá depositarse en:",
+      "options": {
+        "a": "El domicilio particular del titular del despacho",
+        "b": "Las dependencias del Cuerpo Nacional de Policía o, en su caso, del cuerpo de policía autonómico competente",
+        "c": "Un notario de la localidad donde estuviera ubicado",
+        "d": "El Registro Civil del municipio correspondiente"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 25.1 obliga a depositar la documentación profesional en las dependencias del Cuerpo Nacional de Policía o del cuerpo de policía autonómico competente en caso de cierre.",
+      "ley": "Ley 5/2014, art. 25"
+    },
+    {
+      "id": "tema_13_test_08_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 25.2 de la Ley 5/2014, los titulares de despachos de detectives responderán civilmente de:",
+      "options": {
+        "a": "Los delitos cometidos por terceros ajenos al despacho",
+        "b": "Cualquier daño causado por sus clientes a terceros",
+        "c": "Las acciones u omisiones en que, durante la ejecución de sus servicios, incurran los detectives dependientes o asociados",
+        "d": "Las deudas tributarias de sus clientes"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 25.2 establece la responsabilidad civil de los titulares por las acciones u omisiones de los detectives dependientes o asociados durante la ejecución de sus servicios.",
+      "ley": "Ley 5/2014, art. 25"
+    },
+    {
+      "id": "tema_13_test_08_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 26.1 de la Ley 5/2014, el personal de seguridad privada está integrado, entre otros, por:",
+      "options": {
+        "a": "Auxiliares administrativos de las comisarías de policía",
+        "b": "Inspectores de Hacienda especializados en seguridad",
+        "c": "Vigilantes de seguridad, escoltas privados, guardas rurales, jefes y directores de seguridad y detectives privados",
+        "d": "Bomberos voluntarios con formación en seguridad ciudadana"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 26.1 enumera como personal de seguridad privada a los vigilantes de seguridad, escoltas privados, guardas rurales, jefes y directores de seguridad y detectives privados.",
+      "ley": "Ley 5/2014, art. 26"
+    },
+    {
+      "id": "tema_13_test_08_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 26.2 de la Ley 5/2014, para habilitarse como vigilante de explosivos será necesario:",
+      "options": {
+        "a": "Acreditar diez años de experiencia en seguridad privada",
+        "b": "Haber obtenido previamente la habilitación como vigilante de seguridad",
+        "c": "Poseer titulación universitaria en química",
+        "d": "Haber prestado servicio militar en unidades de desactivación de explosivos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 26.2 exige haber obtenido previamente la habilitación de vigilante de seguridad para poder habilitarse como vigilante de explosivos.",
+      "ley": "Ley 5/2014, art. 26"
+    },
+    {
+      "id": "tema_13_test_08_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 27.2 de la Ley 5/2014, la tarjeta de identidad profesional constituye:",
+      "options": {
+        "a": "Una licencia de armas independiente de la habilitación",
+        "b": "Un documento meramente informativo sin valor acreditativo",
+        "c": "Un certificado de antecedentes penales actualizado",
+        "d": "El documento público de acreditación del personal de seguridad privada mientras ejerce sus funciones"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 27.2 califica la tarjeta de identidad profesional como documento público de acreditación del personal mientras se encuentra en ejercicio de sus funciones.",
+      "ley": "Ley 5/2014, art. 27"
+    },
+    {
+      "id": "tema_13_test_08_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 27.3 de la Ley 5/2014, la habilitación del personal de seguridad privada corresponde a la Dirección General de la Policía, excepto la de:",
+      "options": {
+        "a": "Los escoltas privados, que corresponde a las comunidades autónomas en exclusiva",
+        "b": "Los detectives privados, que corresponde a los colegios profesionales",
+        "c": "Los jefes de seguridad, que corresponde al Ministerio de Justicia",
+        "d": "Los guardas rurales y sus especialidades, que corresponde a la Dirección General de la Guardia Civil"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 27.3 reserva a la Dirección General de la Guardia Civil la habilitación de los guardas rurales y sus especialidades, frente a la competencia general de la Dirección General de la Policía.",
+      "ley": "Ley 5/2014, art. 27"
+    },
+    {
+      "id": "tema_13_test_08_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Entre los requisitos generales para obtener la habilitación profesional, conforme al artículo 28.1 de la Ley 5/2014, se exige:",
+      "options": {
+        "a": "Carecer de antecedentes penales por delitos dolosos",
+        "b": "Estar en posesión de un máster oficial",
+        "c": "Haber residido en España durante al menos diez años",
+        "d": "Disponer de vehículo propio para el desempeño del servicio"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 28.1 exige, entre los requisitos generales, carecer de antecedentes penales por delitos dolosos para obtener la habilitación profesional.",
+      "ley": "Ley 5/2014, art. 28"
+    },
+    {
+      "id": "tema_13_test_08_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 28.4 de la Ley 5/2014, los funcionarios públicos en activo podrán habilitarse como personal de seguridad privada, pero no podrán ejercer dichas funciones, excepto cuando desempeñen:",
+      "options": {
+        "a": "Tareas de detective privado en su tiempo libre",
+        "b": "Cualquier función de vigilante de seguridad en horario fuera de su jornada laboral",
+        "c": "Funciones de escolta privado para autoridades de su misma administración",
+        "d": "La función de director de seguridad en el propio centro al que pertenezcan"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 28.4 permite a los funcionarios públicos en activo ejercer únicamente la función de director de seguridad en el propio centro al que pertenecen.",
+      "ley": "Ley 5/2014, art. 28"
+    },
+    {
+      "id": "tema_13_test_08_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 28.3 de la Ley 5/2014, la pérdida de alguno de los requisitos exigidos para la habilitación profesional producirá:",
+      "options": {
+        "a": "La suspensión temporal de seis meses, recuperable tras formación adicional",
+        "b": "Una sanción económica equivalente a tres meses de salario",
+        "c": "La extinción de la habilitación y la cancelación de oficio de la inscripción en el Registro Nacional",
+        "d": "Ninguna consecuencia si el titular lo comunica voluntariamente"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 28.3 vincula la pérdida de requisitos a la extinción automática de la habilitación y la cancelación de oficio de la inscripción registral.",
+      "ley": "Ley 5/2014, art. 28"
+    },
+    {
+      "id": "tema_13_test_08_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 29.1 de la Ley 5/2014, la formación de jefes y directores de seguridad consiste en la obtención de:",
+      "options": {
+        "a": "Un certificado de manipulador de alimentos",
+        "b": "Un título universitario oficial de grado en seguridad o del curso de dirección de seguridad reconocido por el Ministerio del Interior",
+        "c": "Una titulación de formación profesional básica",
+        "d": "Un curso de veinte horas impartido por cualquier entidad privada"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 29.1 exige para jefes y directores de seguridad un título universitario de grado en seguridad o el curso de dirección de seguridad reconocido por el Ministerio del Interior.",
+      "ley": "Ley 5/2014, art. 29"
+    },
+    {
+      "id": "tema_13_test_08_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 29.4 de la Ley 5/2014, los centros de formación del personal de seguridad privada requieren para su apertura y funcionamiento:",
+      "options": {
+        "a": "La presentación de declaración responsable ante el Ministerio del Interior u órgano autonómico competente",
+        "b": "Una autorización administrativa previa con silencio negativo",
+        "c": "Concesión administrativa por un plazo máximo de cinco años",
+        "d": "Aprobación expresa del Consejo de Ministros"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 29.4 exige la presentación de declaración responsable ante el Ministerio del Interior o el órgano autonómico competente, no una autorización ni concesión administrativa.",
+      "ley": "Ley 5/2014, art. 29"
+    },
+    {
+      "id": "tema_13_test_08_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Entre los principios de actuación del personal de seguridad privada, conforme al artículo 30 de la Ley 5/2014, se incluye:",
+      "options": {
+        "a": "La prioridad del interés comercial sobre la seguridad de las personas",
+        "b": "La autonomía total respecto de las Fuerzas y Cuerpos de Seguridad",
+        "c": "La reserva profesional sobre los hechos que conozca en el ejercicio de sus funciones",
+        "d": "La discrecionalidad absoluta en el uso de medios de defensa"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 30 incluye entre los principios de actuación la reserva profesional sobre los hechos conocidos en el ejercicio de las funciones de seguridad privada.",
+      "ley": "Ley 5/2014, art. 30"
+    },
+    {
+      "id": "tema_13_test_08_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 31 de la Ley 5/2014, se considerarán agresiones y desobediencias a agentes de la autoridad las cometidas contra el personal de seguridad privada cuando:",
+      "options": {
+        "a": "Desarrolle actividades de seguridad privada en cooperación y bajo el mando de las Fuerzas y Cuerpos de Seguridad",
+        "b": "Se encuentre fuera de servicio en cualquier circunstancia",
+        "c": "Vista de paisano sin uniforme identificativo",
+        "d": "Preste servicio en un domicilio particular"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 31 exige que el personal de seguridad privada actúe en cooperación y bajo el mando de las Fuerzas y Cuerpos de Seguridad para que las agresiones se asimilen a las cometidas contra agentes de la autoridad.",
+      "ley": "Ley 5/2014, art. 31"
+    },
+    {
+      "id": "tema_13_test_08_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 32.1 de la Ley 5/2014, los vigilantes de seguridad, al efectuar controles de identidad o de objetos personales, en ningún caso podrán:",
+      "options": {
+        "a": "Impedir el acceso al inmueble protegido",
+        "b": "Retener la documentación personal",
+        "c": "Ordenar el abandono de la propiedad protegida",
+        "d": "Comprobar el contenido de paquetería"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 32.1 prohíbe expresamente que los vigilantes retengan la documentación personal, aunque sí pueden impedir el acceso o el uso del inmueble ante la negativa a colaborar.",
+      "ley": "Ley 5/2014, art. 32"
+    },
+    {
+      "id": "tema_13_test_08_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las funciones de los vigilantes de seguridad, conforme al artículo 32.1 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Pueden detener y poner inmediatamente a disposición de las Fuerzas y Cuerpos de Seguridad a los delincuentes",
+        "b": "Pueden proceder al interrogatorio de los detenidos antes de su entrega a las Fuerzas y Cuerpos de Seguridad",
+        "c": "Pueden anotar los datos personales del detenido para su comunicación a las autoridades",
+        "d": "Deben oponerse a la comisión de infracciones cuando las presenciaren en relación con el objeto de su protección"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 32.1 prohíbe expresamente a los vigilantes proceder al interrogatorio de los detenidos, permitiendo únicamente la anotación de sus datos personales para su comunicación a las autoridades.",
+      "ley": "Ley 5/2014, art. 32"
+    },
+    {
+      "id": "tema_13_test_08_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 32.2 de la Ley 5/2014, los vigilantes de seguridad se dedicarán exclusivamente a:",
+      "options": {
+        "a": "Las funciones de seguridad propias, sin poder simultanearlas con otras no directamente relacionadas",
+        "b": "Cualquier función administrativa que les asigne la empresa",
+        "c": "Funciones comerciales complementarias del establecimiento protegido",
+        "d": "Tareas de mantenimiento de instalaciones cuando se requiera"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 32.2 limita la actuación de los vigilantes a sus funciones de seguridad propias, sin posibilidad de simultanearlas con otras tareas ajenas.",
+      "ley": "Ley 5/2014, art. 32"
+    },
+    {
+      "id": "tema_13_test_08_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 33.1 de la Ley 5/2014, son funciones de los escoltas privados:",
+      "options": {
+        "a": "El acompañamiento, defensa y protección de personas determinadas o de grupos concretos, impidiendo agresiones o actos delictivos",
+        "b": "La vigilancia general de polígonos industriales",
+        "c": "El transporte de fondos y valores entre sucursales bancarias",
+        "d": "La investigación privada de hechos delictivos perseguibles a instancia de parte"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 33.1 define las funciones de los escoltas privados como el acompañamiento, defensa y protección de personas determinadas o grupos concretos frente a agresiones o actos delictivos.",
+      "ley": "Ley 5/2014, art. 33"
+    },
+    {
+      "id": "tema_13_test_08_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 33.2 de la Ley 5/2014, los escoltas privados podrán impedir o restringir la libre circulación de personas únicamente cuando:",
+      "options": {
+        "a": "Lo decida unilateralmente el escolta por motivos de comodidad",
+        "b": "Lo solicite expresamente la persona protegida sin más justificación",
+        "c": "Exista riesgo meramente hipotético sin indicios concretos",
+        "d": "Resulte imprescindible como consecuencia de una agresión o intento manifiesto de agresión a la persona protegida o a los propios escoltas"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 33.2 limita esta facultad excepcional a los casos en que resulte imprescindible por una agresión o intento manifiesto de agresión a la persona protegida o al propio escolta.",
+      "ley": "Ley 5/2014, art. 33"
+    },
+    {
+      "id": "tema_13_test_08_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 33.3 de la Ley 5/2014, a los escoltas privados les resulta aplicable lo determinado para los vigilantes de seguridad, con la salvedad de:",
+      "options": {
+        "a": "La obligación de colaboración con las Fuerzas y Cuerpos de Seguridad",
+        "b": "El armamento reglamentario",
+        "c": "La uniformidad",
+        "d": "La prohibición de interrogar a los detenidos"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 33.3 exceptúa únicamente lo referente a la uniformidad al hacer aplicable a los escoltas el régimen previsto para los vigilantes de seguridad.",
+      "ley": "Ley 5/2014, art. 33"
+    }
+  ]
+}

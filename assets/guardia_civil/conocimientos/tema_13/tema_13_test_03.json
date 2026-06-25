@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_13_test_03_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 25.1 de la LO 4/2015, quedan sujetas a obligaciones de registro documental e información actividades como:",
+      "options": {
+        "a": "La venta de prensa y publicaciones periódicas",
+        "b": "La venta de productos alimenticios envasados",
+        "c": "La prestación de servicios de telefonía móvil a particulares",
+        "d": "El hospedaje, el transporte de personas y la compraventa de joyas y metales preciosos o no preciosos"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 25.1 enumera entre las actividades sujetas a registro documental el hospedaje, el transporte de personas, el comercio de objetos usados y la compraventa de joyas y metales, sean preciosos o no.",
+      "ley": "LO 4/2015, art. 25"
+    },
+    {
+      "id": "tema_13_test_03_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 25.2 de la LO 4/2015, estarán obligados a realizar actuaciones de registro documental e información los titulares de:",
+      "options": {
+        "a": "Vehículos turismo de uso particular",
+        "b": "Embarcaciones de alta velocidad y aeronaves ligeras",
+        "c": "Bicicletas eléctricas de alquiler",
+        "d": "Drones de uso recreativo"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 25.2 extiende esta obligación de registro documental a los titulares de embarcaciones de alta velocidad y de aeronaves ligeras.",
+      "ley": "LO 4/2015, art. 25"
+    },
+    {
+      "id": "tema_13_test_03_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. El artículo 26 de la LO 4/2015 habilita a establecer reglamentariamente la necesidad de adoptar medidas de seguridad en establecimientos e instalaciones con la finalidad de:",
+      "options": {
+        "a": "Reducir el consumo energético de los establecimientos",
+        "b": "Prevenir la comisión de actos delictivos o infracciones administrativas, o cuando generen riesgos directos para terceros",
+        "c": "Favorecer la accesibilidad universal de los locales",
+        "d": "Fomentar el turismo en las zonas próximas"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 26 vincula la exigencia de medidas de seguridad a la prevención de actos delictivos o infracciones administrativas, o a la existencia de riesgos directos para terceros o de especial vulnerabilidad.",
+      "ley": "LO 4/2015, art. 26"
+    },
+    {
+      "id": "tema_13_test_03_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 27.2 de la LO 4/2015, las autoridades podrán prohibir o suspender espectáculos y actividades recreativas cuando:",
+      "options": {
+        "a": "El aforo previsto supere las cien personas",
+        "b": "Exista un peligro cierto para personas y bienes, o se prevean graves alteraciones de la seguridad ciudadana",
+        "c": "No se haya contratado un seguro de responsabilidad civil",
+        "d": "El organizador carezca de experiencia previa en eventos similares"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 27.2 habilita la prohibición o suspensión de espectáculos cuando exista peligro cierto para personas y bienes o se prevean graves alteraciones de la seguridad ciudadana.",
+      "ley": "LO 4/2015, art. 27"
+    },
+    {
+      "id": "tema_13_test_03_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 27.4 de la LO 4/2015, los espectáculos deportivos quedan sujetos, en todo caso, a las medidas de prevención de:",
+      "options": {
+        "a": "La violencia, el racismo, la xenofobia y la intolerancia en el deporte",
+        "b": "El consumo excesivo de bebidas alcohólicas",
+        "c": "La especulación en la reventa de entradas",
+        "d": "El uso indebido de pirotecnia ornamental"
+      },
+      "correct": "a",
+      "explicacion": "El precepto remite a la legislación específica contra la violencia, el racismo, la xenofobia y la intolerancia en el deporte para los espectáculos deportivos.",
+      "ley": "LO 4/2015, art. 27"
+    },
+    {
+      "id": "tema_13_test_03_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el control administrativo de armas y explosivos, conforme al artículo 28 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Corresponde al Gobierno la regulación de los requisitos de fabricación, circulación y tenencia de armas",
+        "b": "Corresponde al Gobierno la regulación de los requisitos relativos a explosivos, cartuchería y artículos pirotécnicos",
+        "c": "La intervención de armas y explosivos corresponde al Ministerio del Interior, ejercida a través de la Dirección General de la Guardia Civil",
+        "d": "Las inspecciones en espacios de fabricación o depósito solo pueden realizarse con previo aviso de cuarenta y ocho horas"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 28.2 habilita a los servicios de la Dirección General de la Guardia Civil a realizar en cualquier momento las inspecciones y comprobaciones necesarias, sin exigir un preaviso de cuarenta y ocho horas.",
+      "ley": "LO 4/2015, art. 28"
+    },
+    {
+      "id": "tema_13_test_03_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 29.1 de la LO 4/2015, la expedición de licencias, permisos o autorizaciones para armas de defensa personal tendrá carácter:",
+      "options": {
+        "a": "Permanente sin necesidad de renovación",
+        "b": "Automático tras el pago de la tasa correspondiente",
+        "c": "Restrictivo, limitándose a supuestos de estricta necesidad",
+        "d": "Transferible a terceros mediante autorización notarial"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 29.1 establece que la expedición de licencias para armas de defensa personal tendrá carácter restrictivo y se limitará a supuestos de estricta necesidad.",
+      "ley": "LO 4/2015, art. 29"
+    },
+    {
+      "id": "tema_13_test_03_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Para la concesión de licencias de armas, según el artículo 29.1 de la LO 4/2015, el solicitante deberá prestar su consentimiento expreso para que se recaben:",
+      "options": {
+        "a": "Sus antecedentes penales",
+        "b": "Su historial médico completo",
+        "c": "Su declaración de la renta de los últimos cinco años",
+        "d": "Sus movimientos bancarios"
+      },
+      "correct": "a",
+      "explicacion": "El precepto exige el consentimiento expreso del solicitante para que el órgano que tramita la solicitud recabe sus antecedentes penales, dado que se valoran su conducta y antecedentes.",
+      "ley": "LO 4/2015, art. 29"
+    },
+    {
+      "id": "tema_13_test_03_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 30.2 de la LO 4/2015, estarán exentos de responsabilidad por las infracciones cometidas:",
+      "options": {
+        "a": "Las personas mayores de setenta años",
+        "b": "Los menores de dieciocho años en todo caso",
+        "c": "Los menores de catorce años",
+        "d": "Los funcionarios públicos en el ejercicio de su cargo"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 30.2 exime de responsabilidad a los menores de catorce años, debiendo la autoridad competente poner el hecho en conocimiento del Ministerio Fiscal.",
+      "ley": "LO 4/2015, art. 30"
+    },
+    {
+      "id": "tema_13_test_03_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los sujetos responsables, conforme al artículo 30 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "La responsabilidad por las infracciones recae directamente en el autor del hecho",
+        "b": "Se consideran organizadores de una manifestación quienes hayan suscrito la preceptiva comunicación",
+        "c": "También se consideran organizadores quienes de hecho presidan o dirijan la reunión, aunque no hayan presentado comunicación",
+        "d": "Solo puede considerarse organizador a quien haya firmado expresamente la comunicación, sin ninguna otra circunstancia"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 30.3 amplía la consideración de organizador a quienes, sin haber suscrito la comunicación, presidan o dirijan de hecho la reunión o puedan identificarse como tales por otros indicios, por lo que no se exige únicamente la firma de la comunicación.",
+      "ley": "LO 4/2015, art. 30"
+    },
+    {
+      "id": "tema_13_test_03_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 31.1 de la LO 4/2015, cuando un hecho sea susceptible de calificarse con arreglo a dos o más preceptos, la primera regla concursal aplicable es que:",
+      "options": {
+        "a": "Se acumularán todas las sanciones previstas en cada precepto",
+        "b": "El precepto especial se aplicará con preferencia al general",
+        "c": "Se aplicará siempre el precepto más antiguo en el tiempo",
+        "d": "Se sancionará conforme al precepto de menor cuantía"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 31.1 fija como primera regla concursal que el precepto especial se aplique con preferencia al general.",
+      "ley": "LO 4/2015, art. 31"
+    },
+    {
+      "id": "tema_13_test_03_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 31.2 de la LO 4/2015, cuando un solo hecho constituya dos o más infracciones, o una sea medio necesario para cometer la otra, la conducta se sancionará:",
+      "options": {
+        "a": "Únicamente por la infracción de menor gravedad",
+        "b": "Por todas las infracciones de forma acumulativa",
+        "c": "Por aquella infracción que aplique una mayor sanción",
+        "d": "De forma proporcional al número de infracciones concurrentes"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 31.2 dispone que, en estos supuestos de concurso, la conducta se sancionará conforme a la infracción que conlleve la mayor sanción.",
+      "ley": "LO 4/2015, art. 31"
+    },
+    {
+      "id": "tema_13_test_03_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 32.1 de la LO 4/2015, en el ámbito de la Administración General del Estado, la sanción de las infracciones muy graves en grado máximo corresponde a:",
+      "options": {
+        "a": "Los Delegados del Gobierno",
+        "b": "El Secretario de Estado de Seguridad",
+        "c": "El Ministro del Interior",
+        "d": "Los alcaldes"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 32.1 atribuye al Ministro del Interior la competencia para sancionar las infracciones muy graves en grado máximo.",
+      "ley": "LO 4/2015, art. 32"
+    },
+    {
+      "id": "tema_13_test_03_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 32.1 de la LO 4/2015, la sanción de las infracciones graves y leves en el ámbito de la Administración General del Estado corresponde a:",
+      "options": {
+        "a": "Los Delegados del Gobierno en las comunidades autónomas y en Ceuta y Melilla",
+        "b": "El Secretario de Estado de Seguridad",
+        "c": "El Director General de la Policía",
+        "d": "El Ministro del Interior"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 32.1 atribuye a los Delegados del Gobierno en las comunidades autónomas y en las Ciudades de Ceuta y Melilla la competencia sancionadora respecto de las infracciones graves y leves.",
+      "ley": "LO 4/2015, art. 32"
+    },
+    {
+      "id": "tema_13_test_03_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 32.3 de la LO 4/2015, los alcaldes podrán imponer las sanciones previstas en la Ley cuando las infracciones:",
+      "options": {
+        "a": "Afecten exclusivamente a bienes de titularidad estatal",
+        "b": "Hayan sido cometidas por funcionarios municipales",
+        "c": "Se hayan producido en cualquier punto del territorio nacional",
+        "d": "Se cometieran en espacios públicos municipales o afecten a bienes de titularidad local"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 32.3 habilita a los alcaldes a sancionar cuando la infracción se cometa en espacios públicos municipales o afecte a bienes de titularidad local, con competencia sobre la materia.",
+      "ley": "LO 4/2015, art. 32"
+    },
+    {
+      "id": "tema_13_test_03_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes circunstancias NO determina, conforme al artículo 33.2 de la LO 4/2015, la imposición de la multa en grado medio:",
+      "options": {
+        "a": "La reincidencia por comisión de más de una infracción de la misma naturaleza en dos años, declarada por resolución firme",
+        "b": "La realización de los hechos interviniendo violencia, amenaza o intimidación",
+        "c": "La ejecución de los hechos ocultando el rostro para impedir o dificultar la identificación",
+        "d": "La comisión de la infracción durante el horario nocturno"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 33.2 enumera como circunstancias que determinan la multa en grado medio la reincidencia, la violencia o intimidación, la ocultación del rostro y la utilización de menores o personas vulnerables, sin incluir el horario nocturno como criterio.",
+      "ley": "LO 4/2015, art. 33"
+    },
+    {
+      "id": "tema_13_test_03_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 33.1 de la LO 4/2015, en la imposición de las sanciones se observará el principio de:",
+      "options": {
+        "a": "Proporcionalidad",
+        "b": "Gratuidad",
+        "c": "Irretroactividad absoluta",
+        "d": "Confidencialidad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 33.1 exige que la imposición de sanciones por las infracciones tipificadas en la Ley se rija por el principio de proporcionalidad.",
+      "ley": "LO 4/2015, art. 33"
+    },
+    {
+      "id": "tema_13_test_03_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: dentro de los límites previstos para las infracciones muy graves y graves, las multas se dividirán en ______ tramos de igual extensión, correspondientes a los grados mínimo, medio y máximo.",
+      "options": {
+        "a": "Dos",
+        "b": "Tres",
+        "c": "Cuatro",
+        "d": "Cinco"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 33.2 divide las multas en tres tramos de igual extensión, correspondientes a los grados mínimo, medio y máximo.",
+      "ley": "LO 4/2015, art. 33"
+    },
+    {
+      "id": "tema_13_test_03_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 33.2 de la LO 4/2015, las infracciones solo se sancionarán con multa en grado máximo cuando:",
+      "options": {
+        "a": "Los hechos revistan especial gravedad, atendiendo al número y entidad de las circunstancias concurrentes",
+        "b": "El infractor carezca de antecedentes administrativos previos",
+        "c": "La infracción se cometa en un municipio de gran población",
+        "d": "El infractor sea una persona jurídica y no física"
+      },
+      "correct": "a",
+      "explicacion": "El precepto reserva la multa en grado máximo a los supuestos de especial gravedad, valorando el número y entidad de las circunstancias concurrentes y los criterios de individualización previstos.",
+      "ley": "LO 4/2015, art. 33"
+    },
+    {
+      "id": "tema_13_test_03_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 33.3 de la LO 4/2015, la multa por la comisión de infracciones leves se determinará:",
+      "options": {
+        "a": "Mediante baremo fijo establecido por ordenanza municipal",
+        "b": "Siempre en el grado máximo previsto para las infracciones graves",
+        "c": "Directamente atendiendo a las circunstancias y criterios de individualización, sin división en tramos de grado",
+        "d": "Por remisión automática a la sanción mínima de las infracciones muy graves"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 33.3 indica que la multa por infracciones leves se determina directamente conforme a las circunstancias y criterios del apartado anterior, sin la división en tramos prevista para las infracciones muy graves y graves.",
+      "ley": "LO 4/2015, art. 33"
+    }
+  ]
+}

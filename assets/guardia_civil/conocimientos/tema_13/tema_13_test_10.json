@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_13_test_10_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 45 de la Ley 5/2014, los servicios de transporte de seguridad consisten en el traslado material y protección de objetos y sustancias mediante vehículos acondicionados, a cargo de:",
+      "options": {
+        "a": "Personal administrativo de la empresa contratante",
+        "b": "Cualquier transportista con licencia de mercancías generales",
+        "c": "Vigilantes de seguridad o vigilantes de explosivos, según el tipo de objeto transportado",
+        "d": "Detectives privados habilitados para tal fin"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 45 atribuye estos servicios de transporte a vigilantes de seguridad o vigilantes de explosivos, en función de la naturaleza de los objetos o sustancias transportadas.",
+      "ley": "Ley 5/2014, art. 45"
+    },
+    {
+      "id": "tema_13_test_10_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 46.1 de la Ley 5/2014, los servicios de instalación y mantenimiento de sistemas de seguridad requieren la previa elaboración del proyecto de instalación por:",
+      "options": {
+        "a": "Ingenieros acreditados",
+        "b": "Cualquier instalador autorizado sin necesidad de titulación específica",
+        "c": "El propio titular del establecimiento",
+        "d": "Inspectores de la Dirección General de Tráfico"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 46.1 exige que el proyecto de instalación de los sistemas de seguridad sea elaborado por ingenieros acreditados, previo a su ejecución por técnicos acreditados.",
+      "ley": "Ley 5/2014, art. 46"
+    },
+    {
+      "id": "tema_13_test_10_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 47.1 de la Ley 5/2014, los servicios de gestión de alarmas, a cargo de operadores de seguridad, consisten en la recepción, verificación no personal y transmisión de señales de alarma a:",
+      "options": {
+        "a": "El Ayuntamiento del municipio donde se ubique el inmueble",
+        "b": "La compañía aseguradora del inmueble exclusivamente",
+        "c": "Las Fuerzas y Cuerpos de Seguridad competentes",
+        "d": "Cualquier vecino designado como contacto de emergencia"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 47.1 dirige la transmisión de las señales de alarma verificadas hacia las Fuerzas y Cuerpos de Seguridad competentes.",
+      "ley": "Ley 5/2014, art. 47"
+    },
+    {
+      "id": "tema_13_test_10_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 47.2 de la Ley 5/2014, los servicios de respuesta ante alarmas se prestarán por vigilantes de seguridad o guardas rurales y pueden comprender:",
+      "options": {
+        "a": "La imposición directa de sanciones administrativas al titular del inmueble",
+        "b": "La sustitución del sistema de alarma por uno nuevo sin autorización del titular",
+        "c": "La investigación de los autores de la falsa alarma como si fueran detectives privados",
+        "d": "El depósito y custodia de llaves de los inmuebles donde estén instalados los sistemas conectados a la central de alarmas"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 47.2 incluye entre los servicios de respuesta el depósito y custodia de llaves de los inmuebles conectados a la central de alarmas, así como su traslado o apertura a distancia.",
+      "ley": "Ley 5/2014, art. 47"
+    },
+    {
+      "id": "tema_13_test_10_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 48.1 de la Ley 5/2014, los servicios de investigación privada consisten en la obtención de información y pruebas sobre conductas o hechos privados relacionados, entre otros aspectos, con:",
+      "options": {
+        "a": "La actividad legislativa de las Cortes Generales",
+        "b": "El ámbito económico, laboral, mercantil, financiero y, en general, la vida personal, familiar o social",
+        "c": "Los procedimientos de contratación pública estatal",
+        "d": "Los expedientes disciplinarios de funcionarios públicos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 48.1 incluye entre el objeto de la investigación privada el ámbito económico, laboral, mercantil, financiero y, en general, la vida personal, familiar o social del investigado.",
+      "ley": "Ley 5/2014, art. 48"
+    },
+    {
+      "id": "tema_13_test_10_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 48.3 de la Ley 5/2014, en ningún caso se podrá investigar:",
+      "options": {
+        "a": "La vida íntima de las personas que transcurra en sus domicilios u otros lugares reservados",
+        "b": "El historial laboral de una persona en una empresa anterior",
+        "c": "Las actividades públicas de una persona en redes sociales abiertas",
+        "d": "Los movimientos de una persona en la vía pública en horario diurno"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 48.3 prohíbe de forma absoluta investigar la vida íntima desarrollada en domicilios u otros lugares reservados, así como el uso de medios que atenten contra derechos fundamentales.",
+      "ley": "Ley 5/2014, art. 48"
+    },
+    {
+      "id": "tema_13_test_10_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 48.2 de la Ley 5/2014, la aceptación de un encargo de investigación privada requerirá, en todo caso:",
+      "options": {
+        "a": "La conformidad expresa de la persona a investigar",
+        "b": "El pago anticipado del cincuenta por ciento del servicio",
+        "c": "La autorización previa de un juzgado de instrucción",
+        "d": "La acreditación por el solicitante del interés legítimo alegado"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 48.2 condiciona la aceptación del encargo a que el solicitante acredite el interés legítimo alegado para la investigación.",
+      "ley": "Ley 5/2014, art. 48"
+    },
+    {
+      "id": "tema_13_test_10_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 49.4 de la Ley 5/2014, los informes de investigación deberán conservarse archivados, al menos, durante ______ años.",
+      "options": {
+        "a": "Dos",
+        "b": "Tres",
+        "c": "Cuatro",
+        "d": "Cinco"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 49.4 fija en tres años el plazo mínimo de conservación archivada de los informes de investigación.",
+      "ley": "Ley 5/2014, art. 49"
+    },
+    {
+      "id": "tema_13_test_10_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 50.1 de la Ley 5/2014, los detectives privados solo podrán facilitar datos o informaciones sobre sus investigaciones a:",
+      "options": {
+        "a": "Las personas que les encomendaron el servicio y a los órganos judiciales y policiales competentes",
+        "b": "Cualquier persona que lo solicite acreditando interés",
+        "c": "Los medios de comunicación, previa autorización del cliente",
+        "d": "Las compañías de seguros relacionadas con el asunto investigado"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 50.1 limita la comunicación de datos de la investigación a quienes la encomendaron y a los órganos judiciales y policiales competentes.",
+      "ley": "Ley 5/2014, art. 50"
+    },
+    {
+      "id": "tema_13_test_10_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 50.2 de la Ley 5/2014, el acceso al contenido de las investigaciones realizadas por detectives privados solo podrá producirse mediante:",
+      "options": {
+        "a": "Simple petición verbal de un familiar del investigado",
+        "b": "Requerimiento judicial o solicitud policial relacionada con una investigación criminal o procedimiento sancionador",
+        "c": "Solicitud de cualquier letrado colegiado",
+        "d": "Petición de un periodista de investigación acreditado"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 50.2 exige requerimiento judicial o solicitud policial vinculada a una investigación criminal o a un procedimiento sancionador para acceder al contenido de las investigaciones.",
+      "ley": "Ley 5/2014, art. 50"
+    },
+    {
+      "id": "tema_13_test_10_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 51.1 de la Ley 5/2014, las medidas de seguridad privada que pueden adoptar las personas físicas o jurídicas van dirigidas a:",
+      "options": {
+        "a": "La obtención de beneficios fiscales adicionales",
+        "b": "La sustitución de los seguros privados de responsabilidad civil",
+        "c": "La protección de personas y bienes y al aseguramiento del normal desarrollo de sus actividades",
+        "d": "La reducción de las primas de los seguros contratados"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 51.1 vincula la adopción de medidas de seguridad privada a la protección de personas y bienes y al normal desarrollo de las actividades del titular.",
+      "ley": "Ley 5/2014, art. 51"
+    },
+    {
+      "id": "tema_13_test_10_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 51.6 de la Ley 5/2014, los órganos competentes podrán eximir de la implantación de medidas de seguridad obligatorias cuando:",
+      "options": {
+        "a": "Las circunstancias del caso concreto las hicieran innecesarias o improcedentes",
+        "b": "El titular del establecimiento lo solicite por motivos económicos",
+        "c": "El establecimiento lleve menos de un año en funcionamiento",
+        "d": "Se trate de pequeñas y medianas empresas, sin necesidad de motivación"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 51.6 permite la exención de medidas obligatorias únicamente cuando las circunstancias concretas las hagan innecesarias o improcedentes.",
+      "ley": "Ley 5/2014, art. 51"
+    },
+    {
+      "id": "tema_13_test_10_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 52.1 de la Ley 5/2014, las medidas de seguridad física tienen como funcionalidad:",
+      "options": {
+        "a": "Detectar amenazas mediante dispositivos electrónicos",
+        "b": "Impedir o dificultar el acceso a determinados lugares o bienes mediante barreras físicas",
+        "c": "Proteger la integridad de los sistemas de información",
+        "d": "Planificar funciones o tareas formalizadas por personas"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 52.1 define las medidas de seguridad física por su finalidad de impedir o dificultar el acceso mediante la interposición de barreras físicas.",
+      "ley": "Ley 5/2014, art. 52"
+    },
+    {
+      "id": "tema_13_test_10_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 52.1 de la Ley 5/2014, las medidas de seguridad informática tienen por objeto:",
+      "options": {
+        "a": "La auditoría contable de los sistemas informáticos empresariales",
+        "b": "La vigilancia física de los centros de procesamiento de datos",
+        "c": "La formación del personal en materia de ciberseguridad exclusivamente",
+        "d": "La protección y salvaguarda de la integridad, confidencialidad y disponibilidad de los sistemas de información y comunicación"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 52.1 define las medidas de seguridad informática por su objeto de proteger la integridad, confidencialidad y disponibilidad de los sistemas de información y comunicación.",
+      "ley": "Ley 5/2014, art. 52"
+    },
+    {
+      "id": "tema_13_test_10_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 53.1 de la Ley 5/2014, corresponde a las Fuerzas y Cuerpos de Seguridad competentes el ejercicio de las funciones de:",
+      "options": {
+        "a": "Designación de los representantes legales de las empresas de seguridad",
+        "b": "Fijación de tarifas máximas para los servicios de seguridad privada",
+        "c": "Aprobación de los estatutos sociales de las empresas de seguridad",
+        "d": "Control de las empresas, despachos de detectives, su personal, servicios y medios en materia de seguridad privada"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 53.1 atribuye a las Fuerzas y Cuerpos de Seguridad las funciones de control de empresas, despachos, personal, servicios y medios en materia de seguridad privada.",
+      "ley": "Ley 5/2014, art. 53"
+    },
+    {
+      "id": "tema_13_test_10_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 54.1 de la Ley 5/2014, las Fuerzas y Cuerpos de Seguridad competentes establecerán, sobre empresas, despachos de detectives y demás sujetos regulados, planes anuales de:",
+      "options": {
+        "a": "Auditoría financiera obligatoria",
+        "b": "Inspección ordinaria",
+        "c": "Formación continua sin carácter inspector",
+        "d": "Evaluación de satisfacción del cliente"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 54.1 prevé el establecimiento de planes anuales de inspección ordinaria sobre las empresas, despachos de detectives, personal y demás sujetos regulados.",
+      "ley": "Ley 5/2014, art. 54"
+    },
+    {
+      "id": "tema_13_test_10_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 54.6 de la Ley 5/2014, las inspecciones se realizarán por el Cuerpo Nacional de Policía o, en el caso de los guardas rurales y sus especialidades, por:",
+      "options": {
+        "a": "Inspectores de trabajo especializados",
+        "b": "La policía judicial adscrita a juzgados de instrucción",
+        "c": "La Guardia Civil",
+        "d": "El Ministerio de Agricultura, Pesca y Alimentación"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 54.6 atribuye a la Guardia Civil las inspecciones relativas a los guardas rurales y sus especialidades, así como a sus centros y cursos de formación.",
+      "ley": "Ley 5/2014, art. 54"
+    },
+    {
+      "id": "tema_13_test_10_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 55.2 de la Ley 5/2014, las medidas provisionales anteriores al procedimiento sancionador habrán de ser ratificadas, modificadas o revocadas en el plazo máximo de ______ días.",
+      "options": {
+        "a": "Veinte",
+        "b": "Treinta",
+        "c": "Diez",
+        "d": "Quince"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 55.2 fija en quince días el plazo máximo para ratificar, modificar o revocar estas medidas provisionales.",
+      "ley": "Ley 5/2014, art. 55"
+    },
+    {
+      "id": "tema_13_test_10_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 55.3 de la Ley 5/2014, la duración de las medidas provisionales previas al procedimiento sancionador, en materia de seguridad privada, no podrá exceder de:",
+      "options": {
+        "a": "Seis meses",
+        "b": "Un mes",
+        "c": "Un año",
+        "d": "Tres meses"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 55.3 limita la duración de estas medidas provisionales a un máximo de seis meses, debiendo notificarse a los interesados.",
+      "ley": "Ley 5/2014, art. 55"
+    },
+    {
+      "id": "tema_13_test_10_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 55.1 de la Ley 5/2014, entre las medidas provisionales que pueden acordar excepcionalmente los miembros de las Fuerzas y Cuerpos de Seguridad se incluye:",
+      "options": {
+        "a": "La revocación automática y definitiva de todas las habilitaciones del sector",
+        "b": "La expropiación forzosa de la empresa infractora",
+        "c": "La ocupación o precinto de vehículos, armas, material o equipos prohibidos o peligrosos en supuestos de grave riesgo inminente",
+        "d": "La imposición inmediata de la sanción máxima prevista en la Ley"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 55.1 incluye entre estas medidas la ocupación o precinto de vehículos, armas, material o equipos peligrosos en supuestos de grave riesgo o peligro inminente.",
+      "ley": "Ley 5/2014, art. 55"
+    }
+  ]
+}

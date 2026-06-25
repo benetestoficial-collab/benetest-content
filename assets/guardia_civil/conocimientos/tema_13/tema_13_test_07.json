@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 7",
+  "preguntas": [
+    {
+      "id": "tema_13_test_07_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 12.1 de la Ley 5/2014, corresponde a la Administración General del Estado, a través del Ministerio del Interior, la habilitación e inhabilitación de:",
+      "options": {
+        "a": "Los funcionarios de la administración local",
+        "b": "El personal de seguridad privada, así como la determinación de su armamento, documentación, uniformidad y distintivos",
+        "c": "Los miembros de las Fuerzas Armadas en situación de reserva",
+        "d": "Los jueces de paz de los municipios"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 12.1 atribuye al Ministerio del Interior la habilitación e inhabilitación del personal de seguridad privada y la determinación de su armamento, documentación, uniformidad, distintivos y medios de defensa.",
+      "ley": "Ley 5/2014, art. 12"
+    },
+    {
+      "id": "tema_13_test_07_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 12.2 de la Ley 5/2014, corresponde a la Dirección General de la Guardia Civil el ejercicio de sus competencias en materia de armas sobre las empresas y el personal de seguridad privada, así como:",
+      "options": {
+        "a": "El control de todas las empresas de seguridad sin excepción",
+        "b": "El control de los guardas rurales y sus especialidades",
+        "c": "La habilitación de los directores de seguridad",
+        "d": "La inspección de los despachos de detectives privados"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 12.2 atribuye a la Dirección General de la Guardia Civil, junto a sus competencias en materia de armas, el control de los guardas rurales y sus especialidades.",
+      "ley": "Ley 5/2014, art. 12"
+    },
+    {
+      "id": "tema_13_test_07_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 13.1 de la Ley 5/2014, las comunidades autónomas con competencia para la protección de personas y bienes ejecutarán la legislación del Estado, entre otras materias, sobre:",
+      "options": {
+        "a": "La regulación íntegra del régimen sancionador en materia de seguridad privada",
+        "b": "La autorización de empresas de seguridad privada domiciliadas en la comunidad autónoma con actuación limitada a su territorio",
+        "c": "La aprobación de tratados internacionales sobre seguridad privada",
+        "d": "La fijación de las cuantías de las multas muy graves en todo el territorio nacional"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 13.1 atribuye a las comunidades autónomas competentes la autorización de empresas de seguridad privada domiciliadas en su territorio con actuación limitada al mismo.",
+      "ley": "Ley 5/2014, art. 13"
+    },
+    {
+      "id": "tema_13_test_07_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 14.1 de la Ley 5/2014, la especial obligación de colaboración de las empresas de seguridad con las Fuerzas y Cuerpos de Seguridad se basará exclusivamente en:",
+      "options": {
+        "a": "La existencia de una orden judicial específica para cada caso",
+        "b": "El interés comercial de las empresas de seguridad privada",
+        "c": "Un convenio bilateral previamente suscrito y publicado",
+        "d": "La necesidad de asegurar el buen fin de las actuaciones tendentes a preservar la seguridad pública"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 14.1 fundamenta esta obligación de colaboración exclusivamente en la necesidad de asegurar el buen fin de las actuaciones dirigidas a preservar la seguridad pública.",
+      "ley": "Ley 5/2014, art. 14"
+    },
+    {
+      "id": "tema_13_test_07_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la colaboración profesional, conforme al artículo 14.2 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Las empresas deben comunicar a las Fuerzas y Cuerpos de Seguridad cualquier hecho delictivo conocido en el ejercicio de su actividad",
+        "b": "Deben poner a disposición de las Fuerzas y Cuerpos de Seguridad a los presuntos delincuentes y los instrumentos relacionados",
+        "c": "La comunicación debe hacerse tan pronto como sea posible",
+        "d": "Las empresas pueden retener la información hasta que finalice su propia investigación interna del incidente"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 14.2 exige comunicar tan pronto como sea posible las informaciones relevantes y los hechos delictivos conocidos, sin que quepa demorar dicha comunicación hasta concluir una investigación interna.",
+      "ley": "Ley 5/2014, art. 14"
+    },
+    {
+      "id": "tema_13_test_07_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 15.1 de la Ley 5/2014, se autoriza el acceso de las Fuerzas y Cuerpos de Seguridad a los sistemas instalados por las empresas de seguridad privada cuando sea necesario para:",
+      "options": {
+        "a": "La prevención de un peligro real para la seguridad pública o la represión de infracciones penales",
+        "b": "Cualquier actuación de inspección tributaria de la empresa",
+        "c": "Comprobar la satisfacción del cliente con el servicio",
+        "d": "Verificar el cumplimiento de la normativa laboral interna"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 15.1 supedita este acceso a la necesidad de prevenir un peligro real para la seguridad pública o reprimir infracciones penales.",
+      "ley": "Ley 5/2014, art. 15"
+    },
+    {
+      "id": "tema_13_test_07_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 16.2 de la Ley 5/2014, en el ámbito de la Administración General del Estado se constituirán comisiones mixtas de seguridad privada, nacionales, autonómicas o provinciales, con el carácter de:",
+      "options": {
+        "a": "Organismos con potestad sancionadora directa",
+        "b": "Órganos jurisdiccionales especializados",
+        "c": "Órganos consultivos y de colaboración entre administraciones públicas y representantes del sector",
+        "d": "Entidades privadas de arbitraje comercial"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 16.2 califica a estas comisiones mixtas como órganos consultivos y de colaboración entre las administraciones públicas y los representantes del sector.",
+      "ley": "Ley 5/2014, art. 16"
+    },
+    {
+      "id": "tema_13_test_07_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 17.1 de la Ley 5/2014, las empresas de seguridad privada únicamente podrán prestar servicios sobre las actividades previstas en el artículo 5.1, con la excepción de:",
+      "options": {
+        "a": "La investigación privada, reservada a los despachos de detectives",
+        "b": "La vigilancia y protección de bienes y establecimientos",
+        "c": "El transporte y distribución de objetos valiosos",
+        "d": "La instalación de sistemas de seguridad conectados a centrales de alarma"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 17.1 excluye de las actividades propias de las empresas de seguridad la investigación privada, reservada en exclusiva a los despachos de detectives.",
+      "ley": "Ley 5/2014, art. 17"
+    },
+    {
+      "id": "tema_13_test_07_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 17.3 de la Ley 5/2014, las empresas de seguridad privada podrán revestir:",
+      "options": {
+        "a": "Forma societaria o de empresario individual, cumpliendo en ambos casos todos los requisitos previstos para las empresas de seguridad",
+        "b": "Únicamente forma de sociedad anónima cotizada",
+        "c": "Únicamente forma de cooperativa de trabajo asociado",
+        "d": "Forma de fundación sin ánimo de lucro exclusivamente"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 17.3 permite tanto la forma societaria como la de empresario individual, exigiendo en ambos casos el cumplimiento íntegro de los requisitos previstos.",
+      "ley": "Ley 5/2014, art. 17"
+    },
+    {
+      "id": "tema_13_test_07_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 18.3 de la Ley 5/2014, la validez de la autorización administrativa o de la declaración responsable de las empresas de seguridad privada será:",
+      "options": {
+        "a": "Indefinida",
+        "b": "De cinco años, renovable",
+        "c": "De un año, prorrogable tácitamente",
+        "d": "De diez años improrrogables"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 18.3 establece que la validez de la autorización o de la declaración responsable será indefinida.",
+      "ley": "Ley 5/2014, art. 18"
+    },
+    {
+      "id": "tema_13_test_07_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 18.2 de la Ley 5/2014, la autorización administrativa se suplirá por una declaración responsable cuando la empresa pretenda dedicarse exclusivamente a:",
+      "options": {
+        "a": "El transporte de explosivos y armas",
+        "b": "La instalación y mantenimiento de aparatos y sistemas de seguridad conectados a centrales receptoras de alarmas",
+        "c": "El acompañamiento y protección de personas físicas",
+        "d": "El depósito y custodia de joyas y metales preciosos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 18.2 prevé la sustitución de la autorización por declaración responsable únicamente para la actividad de instalación y mantenimiento de sistemas conectados a centrales receptoras de alarmas, prevista en el artículo 5.1.",
+      "ley": "Ley 5/2014, art. 18"
+    },
+    {
+      "id": "tema_13_test_07_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 19.1 de la Ley 5/2014, entre los requisitos generales que deben reunir las empresas de seguridad privada se encuentra:",
+      "options": {
+        "a": "Contar con al menos cien empleados en plantilla",
+        "b": "Tener un capital social mínimo de un millón de euros",
+        "c": "Disponer de sede social en la capital del Estado",
+        "d": "Estar legalmente constituidas e inscritas en el registro mercantil o registro público correspondiente"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 19.1 exige, entre otros requisitos, que la empresa esté legalmente constituida e inscrita en el registro mercantil o registro público correspondiente.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_07_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 19.1 de la Ley 5/2014, las empresas de seguridad privada deben suscribir un contrato de seguro de responsabilidad civil o constituir otras garantías financieras, así como:",
+      "options": {
+        "a": "Avalar personalmente sus administradores con su patrimonio privado en todo caso",
+        "b": "Depositar el cien por cien de su facturación anual en una cuenta bloqueada",
+        "c": "Contratar un seguro de vida individual para cada empleado",
+        "d": "Constituir el aval o seguro de caución que reglamentariamente se determine para atender responsabilidades administrativas"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 19.1 exige, junto al seguro de responsabilidad civil, la constitución de un aval o seguro de caución para atender las responsabilidades administrativas derivadas del funcionamiento de la empresa.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_07_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 20.2 de la Ley 5/2014, no podrá inscribirse en el Registro Nacional de Seguridad Privada ninguna empresa cuya denominación:",
+      "options": {
+        "a": "Supere los treinta caracteres de longitud",
+        "b": "Contenga términos en idioma extranjero",
+        "c": "Coincida o pueda inducir a error o confusión con la de otra ya inscrita o con órganos de las administraciones públicas",
+        "d": "Incluya el nombre de un municipio español"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 20.2 impide la inscripción cuando la denominación pueda inducir a confusión con otra empresa ya inscrita o con órganos de las administraciones públicas, o con una marca registrada anterior.",
+      "ley": "Ley 5/2014, art. 20"
+    },
+    {
+      "id": "tema_13_test_07_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Entre las obligaciones generales de las empresas de seguridad privada, conforme al artículo 21.1 de la Ley 5/2014, se incluye:",
+      "options": {
+        "a": "Comunicar al Registro Nacional o autonómico todo cambio en su forma jurídica, denominación, domicilio o representantes legales",
+        "b": "Publicar anualmente sus beneficios en el Boletín Oficial del Estado",
+        "c": "Renovar su autorización administrativa cada dos años",
+        "d": "Contratar exclusivamente personal con titulación universitaria"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 21.1 obliga a comunicar al registro correspondiente cualquier cambio en la forma jurídica, denominación, NIF, domicilio, delegaciones o representantes legales de la empresa.",
+      "ley": "Ley 5/2014, art. 21"
+    },
+    {
+      "id": "tema_13_test_07_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 21.1 de la Ley 5/2014, las empresas de seguridad privada deben presentar cada año al Ministerio del Interior o al órgano autonómico competente:",
+      "options": {
+        "a": "El listado de todos los incidentes de seguridad ocurridos en sus clientes",
+        "b": "Una memoria detallada de cada cliente atendido durante el ejercicio",
+        "c": "Un informe sobre sus actividades y el resumen de las cuentas anuales, sin datos de carácter personal",
+        "d": "Una copia íntegra de todos los contratos de prestación de servicios suscritos"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 21.1 exige un informe anual de actividades y resumen de cuentas, precisando expresamente que dicha memoria no contendrá datos de carácter personal.",
+      "ley": "Ley 5/2014, art. 21"
+    },
+    {
+      "id": "tema_13_test_07_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 22.1 de la Ley 5/2014, se entiende por representante legal de una empresa de seguridad privada a quien:",
+      "options": {
+        "a": "Sea el empleado con mayor antigüedad en la empresa",
+        "b": "Posea más del cincuenta por ciento de las acciones de la sociedad",
+        "c": "Asuma o realice tareas de dirección, administración, gestión y representación, o cualquiera de ellas, en nombre de la empresa",
+        "d": "Ostente la titulación de ingeniero de seguridad"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 22.1 define al representante legal por la realización de tareas de dirección, administración, gestión o representación en nombre de la empresa.",
+      "ley": "Ley 5/2014, art. 22"
+    },
+    {
+      "id": "tema_13_test_07_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de los siguientes requisitos NO se exige a los representantes legales de las empresas de seguridad privada conforme al artículo 22.2 de la Ley 5/2014:",
+      "options": {
+        "a": "Ser residentes en el territorio de un Estado miembro de la Unión Europea o del Espacio Económico Europeo",
+        "b": "Carecer de antecedentes penales por delitos dolosos",
+        "c": "Acreditar una titulación universitaria de grado superior",
+        "d": "No haber sido separados del servicio en las Fuerzas Armadas o en las Fuerzas y Cuerpos de Seguridad en los dos años anteriores"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 22.2 no exige una titulación universitaria de grado superior entre los requisitos de los representantes legales, centrándose en residencia, ausencia de antecedentes penales y determinadas incompatibilidades.",
+      "ley": "Ley 5/2014, art. 22"
+    },
+    {
+      "id": "tema_13_test_07_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 23.1 de la Ley 5/2014, las empresas de seguridad privada tienen la consideración de:",
+      "options": {
+        "a": "Servicio público de titularidad estatal exclusiva",
+        "b": "Sector económico con regulación específica en materia de derecho de establecimiento",
+        "c": "Actividad exenta de toda regulación administrativa",
+        "d": "Sector reservado únicamente a empresas públicas"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 23.1 califica a las empresas de seguridad privada como sector económico con regulación específica en materia de derecho de establecimiento.",
+      "ley": "Ley 5/2014, art. 23"
+    },
+    {
+      "id": "tema_13_test_07_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 23.2 de la Ley 5/2014, la autorización previa de inversiones de capital extranjero en empresas de seguridad privada, cuando se suspenda el régimen de liberalización, exigirá en todo caso:",
+      "options": {
+        "a": "Autorización del Banco de España únicamente",
+        "b": "Aprobación del Parlamento Europeo",
+        "c": "Dictamen vinculante del Consejo de Estado",
+        "d": "Informe previo del Ministerio del Interior"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 23.2 exige, en estos supuestos, informe previo del Ministerio del Interior para autorizar la inversión de capital extranjero en empresas de seguridad privada.",
+      "ley": "Ley 5/2014, art. 23"
+    }
+  ]
+}

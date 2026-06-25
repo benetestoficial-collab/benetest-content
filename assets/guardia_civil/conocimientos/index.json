@@ -1215,12 +1215,214 @@
       "total_preguntas": 400
     },
     "tema_12": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Extranjería. Inmigración",
+          "archivo": "guardia_civil/conocimientos/tema_12/tema_12_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_13": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_01.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 2 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_03.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 4 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_04.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 5 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_05.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 6 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_06.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 7 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_07.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 8 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_08.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 9 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_09.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 10 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_10.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 11 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_11.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 12 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_12.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 13 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_13.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 14 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_14.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 15 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_15.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 16 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_16.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 17 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_17.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 18 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_18.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 19 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_19.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 20 — Seguridad Pública y Seguridad Privada",
+          "archivo": "guardia_civil/conocimientos/tema_13/tema_13_test_20.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_14": {
       "tests": [],

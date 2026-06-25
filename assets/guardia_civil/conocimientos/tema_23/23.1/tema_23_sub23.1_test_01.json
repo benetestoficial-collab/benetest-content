@@ -1,0 +1,327 @@
+{
+  "tema_numero": 23,
+  "tema": "Estatuto del Personal",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_23_sub23.1_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23. Estatuto del Personal. Según el artículo 1, ¿cuál es el objeto de la Ley 29/2014?",
+      "options": {
+        "a": "Establecer el régimen del personal de la Guardia Civil y, específicamente, la carrera profesional de sus miembros y los aspectos que la conforman.",
+        "b": "Establecer exclusivamente el régimen disciplinario aplicable a los miembros de la Guardia Civil.",
+        "c": "Regular únicamente las retribuciones y el sistema de protección social de los guardias civiles.",
+        "d": "Determinar la estructura orgánica básica del Ministerio del Interior y de la Dirección General de la Guardia Civil."
+      },
+      "correct": "a",
+      "explicacion": "El artículo 1 fija como objeto de la Ley establecer el régimen del personal de la Guardia Civil y, en concreto, la carrera profesional de sus miembros y todos los aspectos que la conforman, para que el Cuerpo pueda cumplir la misión del artículo 104.1 de la Constitución.",
+      "ley": "Ley 29/2014, art. 1",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. Sobre el ámbito de aplicación (artículo 2), señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los principios y normas de aplicación general al personal de la Administración General del Estado, conforme a la Ley 7/2007, se incorporan al régimen del personal de la Guardia Civil siempre que no contradigan su legislación específica.",
+        "b": "La Ley es de aplicación a los guardias civiles.",
+        "c": "Los principios y normas del Estatuto Básico del Empleado Público se aplican a la Guardia Civil incluso cuando contradigan su legislación específica.",
+        "d": "También es de aplicación, en los términos establecidos en la Ley, a quienes ingresen en los centros docentes de formación de la Guardia Civil."
+      },
+      "correct": "c",
+      "explicacion": "El artículo 2.2 condiciona expresamente la incorporación de las normas generales de la Administración General del Estado a que no contradigan la legislación específica de la Guardia Civil; por tanto, no se aplican en caso de contradicción.",
+      "ley": "Ley 29/2014, art. 2",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. De acuerdo con el artículo 3, ¿cómo se adquiere la condición de guardia civil?",
+      "options": {
+        "a": "Al finalizar el periodo de prácticas en la unidad de destino asignada tras la superación del plan de estudios.",
+        "b": "Al obtener el primer empleo, conferido por el Rey y refrendado por el Ministro de Defensa, e incorporarse a la escala correspondiente del Cuerpo.",
+        "c": "Al prestar juramento ante la Bandera, momento en el que se considera adquirida la condición con independencia del primer empleo.",
+        "d": "Al superar únicamente la fase de oposición del proceso selectivo, con independencia de la incorporación a una escala."
+      },
+      "correct": "b",
+      "explicacion": "El artículo 3.2 establece que la condición de guardia civil se adquiere al obtener el primer empleo, conferido por el Rey y refrendado por el Ministro de Defensa, e incorporarse a la escala correspondiente del Cuerpo.",
+      "ley": "Ley 29/2014, art. 3.2",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. Respecto a la definición de guardias civiles (artículo 3), señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El primer empleo se obtiene mediante la superación de las pruebas de selección y del plan de estudios del centro docente de formación correspondiente.",
+        "b": "Son miembros de las Fuerzas y Cuerpos de Seguridad del Estado y, por la naturaleza militar del Instituto, militares de carrera de la Guardia Civil.",
+        "c": "La calificación obtenida al concluir la enseñanza de formación no tiene ninguna incidencia en el orden de escalafón.",
+        "d": "Son guardias civiles los españoles vinculados al Cuerpo por una relación de servicios profesionales de carácter permanente."
+      },
+      "correct": "c",
+      "explicacion": "El artículo 3.4 dispone justamente lo contrario: la calificación obtenida al concluir la enseñanza de formación determinará el orden de escalafón, por lo que sí tiene incidencia directa.",
+      "ley": "Ley 29/2014, art. 3",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23. Estatuto del Personal. Sobre el juramento o promesa ante la Bandera (artículo 4), ¿qué afirmación es CORRECTA?",
+      "options": {
+        "a": "Solo prestan juramento o promesa quienes acceden a la escala de oficiales; el resto de escalas queda exento de este requisito.",
+        "b": "El juramento o promesa puede sustituirse por una declaración escrita sin necesidad de acto público ante la Bandera.",
+        "c": "La fórmula del juramento hace referencia exclusivamente a la obediencia a los jefes, sin mención a la Constitución ni al Rey.",
+        "d": "El acto será público, revestido de la mayor solemnidad, y se ajustará a la secuencia establecida en la Ley, incluyendo la fórmula pronunciada por el jefe de la unidad."
+      },
+      "correct": "d",
+      "explicacion": "El artículo 4 exige un acto público y solemne ante la Bandera, con una secuencia y fórmula determinadas, en la que se jura o promete cumplir las obligaciones profesionales, lealtad al Rey y guardar y hacer guardar la Constitución.",
+      "ley": "Ley 29/2014, art. 4",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23. Estatuto del Personal. Sobre la fórmula del juramento o promesa (artículo 4), señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El jefe de la unidad pregunta si juran o prometen cumplir fielmente sus obligaciones y guardar y hacer guardar la Constitución como norma fundamental del Estado.",
+        "b": "La fórmula del juramento incluye expresamente la mención a obedecer y respetar al Presidente del Gobierno y a vuestros jefes.",
+        "c": "Los guardias civiles responden a la fórmula del jefe de la unidad con la expresión «Sí, lo hacemos».",
+        "d": "Tras la respuesta afirmativa, los guardias civiles besan uno a uno la Bandera y desfilan bajo ella."
+      },
+      "correct": "b",
+      "explicacion": "La fórmula recogida en el artículo 4 menciona obedecer y respetar «al Rey y a vuestros jefes», no al Presidente del Gobierno.",
+      "ley": "Ley 29/2014, art. 4",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. En materia de igualdad de género y conciliación (artículo 5), ¿cuál de las siguientes es CORRECTA?",
+      "options": {
+        "a": "Las normas sobre igualdad y conciliación de la Administración General del Estado no resultan en ningún caso aplicables a la Guardia Civil.",
+        "b": "Para asegurar la efectividad del principio de igualdad de género se realizarán evaluaciones periódicas y se establecerán los mecanismos necesarios, en la forma que reglamentariamente se determine.",
+        "c": "La igualdad efectiva de mujeres y hombres es un principio orientativo sin desarrollo normativo posterior previsto en la Ley.",
+        "d": "Las medidas para facilitar el ingreso y promoción profesional de la mujer quedan excluidas expresamente del articulado."
+      },
+      "correct": "b",
+      "explicacion": "El artículo 5.3 prevé evaluaciones periódicas y mecanismos reglamentarios para garantizar la efectividad del principio de igualdad de género en la Guardia Civil.",
+      "ley": "Ley 29/2014, art. 5",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. El artículo 6 (Código de conducta) remite a los principios y deberes establecidos en otras normas. ¿En cuáles?",
+      "options": {
+        "a": "En el artículo 5 de la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad, y en el Título III de la Ley Orgánica 11/2007, reguladora de los derechos y deberes de los miembros de la Guardia Civil.",
+        "b": "En el Reglamento de Régimen Interior de los centros docentes de formación de la Guardia Civil.",
+        "c": "Únicamente en las Reales Ordenanzas para las Fuerzas Armadas, sin remisión a ninguna otra norma.",
+        "d": "Exclusivamente en el Estatuto Básico del Empleado Público, sin mención a normas de naturaleza militar o policial."
+      },
+      "correct": "a",
+      "explicacion": "El artículo 6 remite expresamente al artículo 5 de la LO 2/1986 y al Título III de la LO 11/2007, además de a las reglas de comportamiento del artículo siguiente, como base del código de conducta.",
+      "ley": "Ley 29/2014, art. 6",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23. Estatuto del Personal. Sobre las reglas de comportamiento del guardia civil (artículo 7), señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El guardia civil hará un empleo legítimo de la fuerza, con un uso gradual y proporcionado, rigiéndose por los principios de congruencia, oportunidad y proporcionalidad.",
+        "b": "Usará el saludo militar como muestra de respeto mutuo, disciplina y unión entre los integrantes del Instituto, y también como símbolo externo de corrección con los ciudadanos.",
+        "c": "Evitará todo comportamiento que pueda comprometer el prestigio del Cuerpo o la eficacia del servicio que presta a la sociedad.",
+        "d": "No renunciará ni podrá compartir la responsabilidad en el ejercicio del mando, si bien todo mando puede ordenar actos contrarios a la Constitución cuando lo exijan las circunstancias del servicio."
+      },
+      "correct": "d",
+      "explicacion": "El artículo 7.1.12 establece justamente lo contrario: el mando no podrá ordenar actos contrarios a la Constitución, a las leyes o que constituyan delito, sin excepción alguna por necesidades del servicio.",
+      "ley": "Ley 29/2014, art. 7.1",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23. Estatuto del Personal. Respecto a la regla 1ª del artículo 7.1, ¿qué disposición permanente debe mantener el guardia civil?",
+      "options": {
+        "a": "La de cooperar exclusivamente con organismos internacionales de seguridad, dejando en segundo plano la seguridad ciudadana nacional.",
+        "b": "La de mantenerse políticamente activo para promover reformas legislativas en materia de seguridad ciudadana.",
+        "c": "La de defender a España y proteger el ejercicio de los derechos y libertades de los ciudadanos, con expresión diaria en el exacto cumplimiento de la Constitución y las leyes.",
+        "d": "La de subordinar el cumplimiento de la Constitución a las órdenes recibidas de sus superiores jerárquicos."
+      },
+      "correct": "c",
+      "explicacion": "La regla 1ª del artículo 7.1 exige mantener una disposición permanente para defender a España y proteger el ejercicio de los derechos y libertades, expresada diariamente en el cumplimiento de la Constitución y las leyes.",
+      "ley": "Ley 29/2014, art. 7.1.1ª",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. Sobre las reglas 2ª a 5ª del artículo 7.1, señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Pondrá empeño en preservar la seguridad y el bienestar de los ciudadanos sin discriminación alguna, actuando con dignidad, prudencia y honradez.",
+        "b": "Estará preparado para afrontar con valor, abnegación y espíritu de servicio las situaciones derivadas de sus misiones.",
+        "c": "Cumplirá con exactitud sus deberes y obligaciones impulsado por el sentimiento del honor, verdadera seña de identidad del guardia civil.",
+        "d": "Considerará la persuasión y la fuerza moral como armas secundarias, priorizando siempre el empleo de la fuerza física."
+      },
+      "correct": "d",
+      "explicacion": "La regla 4ª dispone justamente lo contrario: la persuasión y la fuerza moral son sus primeras armas, empleando la fuerza de forma gradual y proporcionada.",
+      "ley": "Ley 29/2014, art. 7.1.4ª",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. ¿Qué establece la regla 7ª del artículo 7.1 sobre la disciplina?",
+      "options": {
+        "a": "Que la disciplina es factor de cohesión que obliga a mandar con responsabilidad y a obedecer lo mandado, con expresión colectiva en el acatamiento a la Constitución e individual en el cumplimiento de las órdenes.",
+        "b": "Que la disciplina se limita al ámbito interno de cada unidad, sin proyección hacia el acatamiento de la Constitución.",
+        "c": "Que la disciplina solo resulta exigible en las misiones de carácter militar, no en las funciones policiales ordinarias.",
+        "d": "Que la disciplina es un valor secundario frente a la iniciativa personal de cada guardia civil."
+      },
+      "correct": "a",
+      "explicacion": "La regla 7ª define la disciplina como factor de cohesión, con expresión colectiva en el acatamiento a la Constitución y manifestación individual en el cumplimiento de las órdenes recibidas.",
+      "ley": "Ley 29/2014, art. 7.1.7ª",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23. Estatuto del Personal. Sobre el concepto de orden y los deberes de obediencia (regla 9ª del artículo 7.1), señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El guardia civil deberá atender los requerimientos que reciba de un guardia civil de empleo superior referentes a disposiciones y normas generales de orden y comportamiento.",
+        "b": "Las órdenes solo pueden darse por escrito, no siendo válidas las impartidas verbalmente en el ejercicio del servicio.",
+        "c": "La obediencia a las órdenes se enmarca dentro del respeto al orden jerárquico que define mando, subordinación y responsabilidad.",
+        "d": "Las órdenes son los mandatos relativos al servicio que un guardia civil da a un subordinado en forma adecuada y dentro de sus atribuciones."
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7.1.9ª no exige forma escrita para las órdenes; estas son mandatos relativos al servicio, sin que la Ley imponga dicha formalidad como requisito de validez.",
+      "ley": "Ley 29/2014, art. 7.1.9ª",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. ¿Qué dispone la regla 11ª del artículo 7.1 sobre el estilo de mando?",
+      "options": {
+        "a": "Que el ejercicio del mando queda reservado en exclusiva a la categoría de oficiales generales.",
+        "b": "Que el liderazgo personal es incompatible con el respeto al orden jerárquico establecido en la estructura orgánica.",
+        "c": "Que el estilo de mando debe basarse exclusivamente en la imposición jerárquica sin necesidad de buscar la cooperación de los subordinados.",
+        "d": "Que se ejercerá un estilo de mando basado en el ejemplo y el liderazgo personal, procurando el apoyo y cooperación de los subordinados mediante prestigio, preparación, iniciativa y capacidad de decisión."
+      },
+      "correct": "d",
+      "explicacion": "La regla 11ª describe un estilo de mando basado en el ejemplo y el liderazgo personal, buscando el apoyo de los subordinados mediante prestigio, dedicación, preparación, iniciativa y capacidad de decisión.",
+      "ley": "Ley 29/2014, art. 7.1.11ª",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. Sobre las reglas 13ª a 15ª del artículo 7.1, señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las reglas esenciales de comportamiento del guardia civil son de aplicación voluntaria y quedan sujetas a la libre apreciación de cada mando.",
+        "b": "Evitará todo comportamiento que pueda comprometer el prestigio del Cuerpo o la eficacia del servicio que presta a la sociedad.",
+        "c": "En el cumplimiento de misiones de carácter militar actuará conforme a las reglas del artículo 6 de la Ley Orgánica 9/2011, además de a las suyas propias.",
+        "d": "Se preparará para alcanzar el más alto nivel de competencia profesional y desarrollar la capacidad de adaptarse a diferentes misiones y circunstancias."
+      },
+      "correct": "a",
+      "explicacion": "Las reglas esenciales de comportamiento del artículo 7.1 no son de aplicación voluntaria: constituyen las normas básicas del código de conducta, de obligado cumplimiento, sin perjuicio de su desarrollo reglamentario posterior.",
+      "ley": "Ley 29/2014, art. 7",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23. Estatuto del Personal. ¿Qué prevé el artículo 7.2 sobre el desarrollo reglamentario de las reglas de comportamiento?",
+      "options": {
+        "a": "Que el desarrollo reglamentario solo podrá llevarse a cabo transcurridos diez años desde la entrada en vigor de la Ley.",
+        "b": "Que se desarrollarán reglamentariamente incorporando, por la condición militar y con las adaptaciones necesarias, las reglas esenciales del militar, las Reales Ordenanzas para las Fuerzas Armadas y el código de conducta de los empleados públicos.",
+        "c": "Que las Reales Ordenanzas para las Fuerzas Armadas quedan expresamente excluidas de cualquier desarrollo reglamentario de estas reglas.",
+        "d": "Que dicho desarrollo queda excluido por tratarse de una materia reservada en exclusiva a la Ley Orgánica 11/2007."
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7.2 prevé el desarrollo reglamentario de las reglas esenciales de comportamiento, incorporando, con las adaptaciones necesarias por la condición militar, las reglas del militar, las Reales Ordenanzas para las Fuerzas Armadas y el código de conducta de los empleados públicos.",
+      "ley": "Ley 29/2014, art. 7.2",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23. Estatuto del Personal. ¿Cuál de las siguientes afirmaciones sobre el artículo 2.1 de la Ley 29/2014 es CORRECTA?",
+      "options": {
+        "a": "La Ley solo es de aplicación a los guardias civiles en situación de servicio activo, excluyendo a los alumnos de los centros docentes.",
+        "b": "La Ley excluye expresamente de su ámbito a quienes cursan la enseñanza de formación para el acceso a la escala de cabos y guardias.",
+        "c": "La Ley es de aplicación a los guardias civiles y, en los términos en ella establecidos, a quienes ingresen en los centros docentes de formación de la Guardia Civil.",
+        "d": "La Ley se aplica exclusivamente a la escala de oficiales, remitiéndose el resto de escalas a su normativa anterior."
+      },
+      "correct": "c",
+      "explicacion": "El artículo 2.1 extiende expresamente la aplicación de la Ley, en los términos en ella establecidos, a quienes ingresen en los centros docentes de formación, no solo a quienes ya tienen la condición de guardia civil.",
+      "ley": "Ley 29/2014, art. 2.1",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. Sobre el artículo 5 (igualdad de género y conciliación), señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Se implementarán las medidas necesarias para facilitar el ingreso y la promoción profesional de la mujer.",
+        "b": "La igualdad efectiva de mujeres y hombres estará especialmente presente en el desarrollo y aplicación de la Ley.",
+        "c": "La aplicación del principio de igualdad de género en la Guardia Civil queda excluida de cualquier mecanismo de seguimiento o evaluación posterior.",
+        "d": "Las normas y criterios sobre igualdad, prevención de violencia de género y conciliación establecidos para la Administración General del Estado se aplican a la Guardia Civil con las adaptaciones y desarrollos necesarios."
+      },
+      "correct": "c",
+      "explicacion": "El artículo 5.3 prevé justamente lo contrario: se realizarán evaluaciones periódicas y se establecerán mecanismos para garantizar la efectividad del principio de igualdad de género.",
+      "ley": "Ley 29/2014, art. 5",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23. Estatuto del Personal. ¿Qué papel desempeña el artículo 6 respecto a la actuación de los guardias civiles?",
+      "options": {
+        "a": "Permite que, en situaciones excepcionales declaradas por el mando, se prescinda temporalmente del respeto al ordenamiento jurídico.",
+        "b": "Sustituye, sin remisión a otras normas, cualquier otro código de conducta aplicable a la Guardia Civil.",
+        "c": "Limita la exigencia de respeto a la Constitución exclusivamente al ejercicio de funciones de naturaleza militar.",
+        "d": "Exige que desarrollen sus funciones con absoluto respeto a la Constitución y al resto del ordenamiento jurídico, actuando conforme a los principios y deberes que en él se citan."
+      },
+      "correct": "d",
+      "explicacion": "El artículo 6 exige el desarrollo de las funciones con absoluto respeto a la Constitución y al resto del ordenamiento jurídico, remitiéndose a los principios de la LO 2/1986 y a los deberes del Título III de la LO 11/2007.",
+      "ley": "Ley 29/2014, art. 6",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_sub23.1_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23. Estatuto del Personal. ¿Cuál de las siguientes afirmaciones sobre la regla 8ª del artículo 7.1 es CORRECTA?",
+      "options": {
+        "a": "El guardia civil desempeñará sus cometidos con estricto respeto al orden jerárquico establecido en la estructura orgánica y operativa de la Guardia Civil, que define la situación relativa entre sus miembros en cuanto a mando, subordinación y responsabilidad.",
+        "b": "El respeto al orden jerárquico es una recomendación, no una regla esencial de comportamiento.",
+        "c": "La regla 8ª excluye expresamente a los suboficiales de la sujeción al orden jerárquico.",
+        "d": "El orden jerárquico solo resulta aplicable en el ámbito de la estructura operativa, no en la orgánica."
+      },
+      "correct": "a",
+      "explicacion": "La regla 8ª exige el estricto respeto al orden jerárquico de la estructura orgánica y operativa de la Guardia Civil, que define la situación relativa entre sus miembros en mando, subordinación y responsabilidad.",
+      "ley": "Ley 29/2014, art. 7.1.8ª",
+      "subtema": "23.1"
+    }
+  ]
+}

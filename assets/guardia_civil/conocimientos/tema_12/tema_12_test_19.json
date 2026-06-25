@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_12_test_19_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El fallecimiento del ciudadano de un Estado miembro de la UE, su salida de España, o la nulidad del vínculo matrimonial, divorcio o separación legal:",
+      "options": {
+        "a": "Solo afecta al cónyuge, manteniéndose intacto el derecho de los hijos en todo caso",
+        "b": "Obliga a todos los familiares a abandonar España en el plazo improrrogable de un mes",
+        "c": "Determina la pérdida automática e inmediata del derecho de residencia de cualquier familiar, sin excepción",
+        "d": "No afectará al derecho de residencia de los miembros de su familia ciudadanos de uno de dichos Estados"
+      },
+      "correct": "d",
+      "explicacion": "El fallecimiento del ciudadano de un Estado miembro, su salida de España, o la nulidad del vínculo matrimonial, divorcio, separación legal o cancelación de la inscripción como pareja registrada, no afectará al derecho de residencia de los miembros de su familia ciudadanos de uno de dichos Estados.",
+      "ley": "Artículo 9.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Para conservar el derecho de residencia tras la nulidad, divorcio o cancelación de inscripción como pareja registrada, el familiar no comunitario deberá acreditar, entre otros supuestos:",
+      "options": {
+        "a": "Disponer de vivienda en propiedad situada en cualquier punto del territorio nacional español",
+        "b": "Contar con nacionalidad de un país que mantenga acuerdo bilateral específico de reciprocidad con España",
+        "c": "Una duración de al menos 3 años de matrimonio o pareja registrada, de los cuales al menos uno transcurrido en España",
+        "d": "Haber residido en España un mínimo de diez años continuados desde la celebración del matrimonio"
+      },
+      "correct": "c",
+      "explicacion": "Para conservar el derecho de residencia tras la nulidad del vínculo, divorcio o cancelación de pareja registrada, deberá acreditarse, entre otros supuestos, una duración de al menos 3 años de matrimonio o pareja registrada hasta el inicio del procedimiento, de los cuales al menos uno debe haber transcurrido en España.",
+      "ley": "Artículo 9.4.a) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Entre las circunstancias especialmente difíciles que permiten conservar el derecho de residencia tras la ruptura matrimonial figura haber sido víctima de violencia de género, circunstancia que se considerará acreditada provisionalmente cuando exista:",
+      "options": {
+        "a": "Únicamente una declaración jurada del propio interesado, sin necesidad de ningún otro respaldo documental",
+        "b": "Solo el testimonio de un familiar directo, sin intervención de ninguna autoridad judicial o fiscal",
+        "c": "Sentencia penal firme condenatoria contra el ex cónyuge, sin posibilidad de acreditación provisional anterior",
+        "d": "Una orden de protección a su favor o informe del Ministerio Fiscal que indique indicios de violencia de género"
+      },
+      "correct": "d",
+      "explicacion": "Haber sido víctima de violencia de género durante el matrimonio o pareja registrada se considerará acreditada de manera provisional cuando exista una orden de protección a su favor o informe del Ministerio Fiscal que indique la existencia de indicios de violencia de género, y con carácter definitivo cuando recaiga resolución judicial.",
+      "ley": "Artículo 9.4.c) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El recurso a la asistencia social en España de un ciudadano de un Estado miembro de la UE o de un familiar:",
+      "options": {
+        "a": "Implica la pérdida automática del derecho de residencia desde el momento en que se solicita",
+        "b": "No tendrá por consecuencia automática una medida de expulsión",
+        "c": "Determina siempre la incoación inmediata de un expediente de expulsión por dicho motivo",
+        "d": "Solo es relevante si se produce durante los primeros tres meses de residencia en España"
+      },
+      "correct": "b",
+      "explicacion": "El recurso a la asistencia social en España de un ciudadano de un Estado miembro de la Unión Europea o de un miembro de su familia no tendrá por consecuencia automática una medida de expulsión, debiendo valorarse las circunstancias del caso concreto.",
+      "ley": "Artículo 9 bis.2 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En ningún caso podrá adoptarse una medida de expulsión contra ciudadanos comunitarios o sus familiares si son trabajadores por cuenta ajena o propia, o si:",
+      "options": {
+        "a": "Disponen de un seguro médico privado contratado en su país de origen antes de desplazarse a España",
+        "b": "Acreditan haber estudiado en cualquier centro educativo español durante al menos un curso académico completo",
+        "c": "Cuentan con el respaldo económico de cualquier familiar de nacionalidad española residente en territorio nacional",
+        "d": "Han entrado en España para buscar trabajo y demuestran que siguen buscando empleo con posibilidades reales de ser contratados"
+      },
+      "correct": "d",
+      "explicacion": "Sin perjuicio de las limitaciones por orden público, seguridad y salud pública, en ningún caso podrá adoptarse medida de expulsión contra ciudadanos comunitarios o sus familiares si son trabajadores por cuenta ajena o propia, o si han entrado para buscar trabajo y demuestran que siguen buscándolo con posibilidades reales de contratación.",
+      "ley": "Artículo 9 bis.3 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Son titulares del derecho a residir con carácter permanente los ciudadanos comunitarios y sus familiares no comunitarios que hayan residido legalmente en España durante un período continuado de:",
+      "options": {
+        "a": "10 años, plazo idéntico al previsto para la protección reforzada frente a expulsión por motivos imperiosos",
+        "b": "2 años, equivalente al de pérdida del derecho de residencia permanente por ausencia del territorio",
+        "c": "5 años",
+        "d": "3 años, coincidiendo con el plazo mínimo de matrimonio para conservar la residencia tras el divorcio"
+      },
+      "correct": "c",
+      "explicacion": "Son titulares del derecho a residir con carácter permanente los ciudadanos de un Estado miembro de la UE o del EEE, y los familiares que no sean nacionales de dichos Estados, que hayan residido legalmente en España durante un período continuado de 5 años, sin sujeción a las condiciones del Capítulo III.",
+      "ley": "Artículo 10.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Tendrá derecho a la residencia permanente antes de finalizar el período de 5 años el trabajador que cese su actividad por haber alcanzado la edad de jubilación con derecho a pensión, cuando haya ejercido su actividad en España al menos los últimos 12 meses y haya residido de forma continuada durante más de:",
+      "options": {
+        "a": "10 años, equivalente al plazo de protección reforzada frente a la expulsión por motivos imperiosos",
+        "b": "3 años",
+        "c": "1 año, plazo idéntico al exigido en pareja registrada para conservar la residencia tras la ruptura",
+        "d": "6 meses, coincidiendo con el límite de ausencia que determina la caducidad de la tarjeta de familiar"
+      },
+      "correct": "b",
+      "explicacion": "Tendrá derecho a la residencia permanente antes de finalizar el período de 5 años el trabajador que, al cesar su actividad, haya alcanzado la edad de jubilación con derecho a pensión, cuando haya ejercido su actividad en España al menos los últimos 12 meses y residido de forma continuada durante más de 3 años.",
+      "ley": "Artículo 10.2.a) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. No será necesario acreditar tiempo alguno de residencia para acceder anticipadamente a la residencia permanente por incapacidad permanente si esta resultara de:",
+      "options": {
+        "a": "Accidente de trabajo o enfermedad profesional que dé derecho a pensión de la que sea responsable, total o parcialmente, un organismo del Estado español",
+        "b": "Cualquier enfermedad común diagnosticada con posterioridad a la entrada en territorio español",
+        "c": "Una dolencia preexistente ya diagnosticada antes de la entrada del trabajador en territorio español",
+        "d": "Un accidente de tráfico ocurrido en cualquier país de la Unión Europea, sin relación con la actividad laboral"
+      },
+      "correct": "a",
+      "explicacion": "No será necesario acreditar tiempo alguno de residencia si la incapacidad permanente resultara de accidente de trabajo o enfermedad profesional que dé derecho a una pensión de la que sea responsable, total o parcialmente, un organismo del Estado español, frente a la regla general que exige 2 años de residencia continuada.",
+      "ley": "Artículo 10.2.b) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Se perderá el derecho de residencia permanente por ausencia del territorio español durante más de:",
+      "options": {
+        "a": "2 años consecutivos",
+        "b": "5 años, equivalente al período mínimo de residencia exigido para adquirir el derecho permanente",
+        "c": "1 año, coincidiendo con el plazo mínimo de convivencia marital exigido en pareja de hecho estable",
+        "d": "6 meses, plazo idéntico al que determina la caducidad de la tarjeta de familiar de ciudadano de la Unión"
+      },
+      "correct": "a",
+      "explicacion": "Se perderá el derecho de residencia permanente por ausencia del territorio español durante más de 2 años consecutivos, lo que constituye un plazo más amplio que el previsto para la caducidad de la tarjeta de familiar por ausencias inferiores a 6 meses en un año.",
+      "ley": "Artículo 10.7 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las autoridades competentes expedirán la tarjeta de residencia permanente para familiares no comunitarios en el plazo de:",
+      "options": {
+        "a": "6 meses, doble del plazo previsto para la tarjeta de residencia ordinaria de familiar de ciudadano de la Unión",
+        "b": "3 meses contados desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente",
+        "c": "10 días, plazo equivalente al de comunicación de designaciones de delegado de protección de datos",
+        "d": "1 mes, plazo idéntico al de la tarjeta de identidad de extranjero del régimen general de extranjería"
+      },
+      "correct": "b",
+      "explicacion": "Las autoridades competentes expedirán a los familiares con derecho de residencia permanente que no sean nacionales comunitarios una tarjeta de residencia permanente en el plazo de 3 meses contados desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente.",
+      "ley": "Artículo 11.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La tarjeta de residencia permanente para familiares no comunitarios será renovable automáticamente cada:",
+      "options": {
+        "a": "5 años, idéntico al plazo de validez de la tarjeta ordinaria de familiar de ciudadano de la Unión",
+        "b": "1 año, coincidiendo con el plazo mínimo de convivencia exigido para reconocer pareja de hecho estable",
+        "c": "10 años",
+        "d": "2 años, equivalente al plazo máximo de ausencia que determina la pérdida de la residencia permanente"
+      },
+      "correct": "c",
+      "explicacion": "La tarjeta de residencia permanente para miembros de la familia que no tengan nacionalidad de un Estado miembro será renovable automáticamente cada 10 años, frente a los 5 años de validez de la tarjeta ordinaria de familiar de ciudadano de la Unión.",
+      "ley": "Artículo 11.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las interrupciones de residencia no superiores a 2 años consecutivos:",
+      "options": {
+        "a": "Solo se admiten si están motivadas por razones laborales acreditadas documentalmente",
+        "b": "No afectarán a la vigencia de la tarjeta de residencia permanente",
+        "c": "Determinan siempre la pérdida automática de la tarjeta, con independencia de su duración concreta",
+        "d": "Obligan a iniciar de nuevo el cómputo de los cinco años exigidos para la residencia permanente"
+      },
+      "correct": "b",
+      "explicacion": "Las interrupciones de residencia no superiores a 2 años consecutivos no afectarán a la vigencia de la tarjeta de residencia permanente, coherentemente con el plazo de 2 años que determina la pérdida del derecho de residencia permanente por ausencia del territorio.",
+      "ley": "Artículo 11.3 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La solicitud y tramitación del certificado de registro o de las tarjetas de residencia previstas en el RD 240/2007:",
+      "options": {
+        "a": "Impide al interesado salir de territorio español mientras se resuelve la solicitud presentada",
+        "b": "No supondrá obstáculo alguno a la permanencia provisional de los interesados en España, ni al desarrollo de sus actividades",
+        "c": "Determina la suspensión automática de cualquier actividad laboral del interesado hasta la resolución expresa",
+        "d": "Exige que el interesado permanezca en situación de desempleo durante toda la tramitación del expediente"
+      },
+      "correct": "b",
+      "explicacion": "La solicitud y tramitación del certificado de registro o de las tarjetas de residencia no supondrá obstáculo alguno a la permanencia provisional de los interesados en España, ni al desarrollo de sus actividades, garantizando así la continuidad de su situación durante la tramitación.",
+      "ley": "Artículo 12.2 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La expedición del certificado de registro o de la tarjeta de residencia se realizará previo abono de una tasa cuya cuantía será equivalente a:",
+      "options": {
+        "a": "La exigida a los españoles para la obtención y renovación del documento nacional de identidad",
+        "b": "El importe que libremente determine cada Comunidad Autónoma para los certificados expedidos en su territorio",
+        "c": "Una cantidad fija idéntica en toda la Unión Europea, sin variación según el Estado miembro receptor",
+        "d": "El doble de la tasa exigida en el régimen general de extranjería para la tarjeta de identidad"
+      },
+      "correct": "a",
+      "explicacion": "La expedición del certificado de registro o de la tarjeta de residencia se realizará previo abono de la tasa correspondiente, conforme a la legislación vigente de tasas y precios públicos, cuya cuantía será la equivalente a la que se exige a los españoles para la obtención y renovación del DNI.",
+      "ley": "Artículo 14.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La vigencia de la tarjeta de residencia de familiar de ciudadano de la Unión caducará por ausencias superiores a:",
+      "options": {
+        "a": "2 años consecutivos, en todo caso, sin posibilidad de excepción alguna por motivos personales o profesionales",
+        "b": "1 mes continuado, con independencia de la causa concreta que motive la ausencia del titular",
+        "c": "6 meses en 1 año, salvo excepciones por obligaciones militares, gestación, parto, enfermedad grave, estudios o traslados profesionales",
+        "d": "3 meses en 1 año, plazo notablemente más restrictivo que el aplicable a la residencia permanente"
+      },
+      "correct": "c",
+      "explicacion": "La vigencia de la tarjeta de residencia de familiar de ciudadano de la Unión caducará por ausencias superiores a 6 meses en 1 año, salvo excepciones por cumplimiento de obligaciones militares o ausencias no superiores a 12 meses por gestación, parto, posparto, enfermedad grave, estudios o traslados profesionales.",
+      "ley": "Artículo 14.3 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos comunitarios que hayan adquirido el derecho de residencia permanente si existen:",
+      "options": {
+        "a": "Motivos graves de orden público o seguridad pública",
+        "b": "Antecedentes penales previos, por sí solos, sin valoración adicional de otras circunstancias",
+        "c": "Razones de mera conveniencia económica apreciadas discrecionalmente por la autoridad competente",
+        "d": "Cualquier infracción administrativa leve relacionada con el régimen de extranjería general"
+      },
+      "correct": "a",
+      "explicacion": "Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos comunitarios o sus familiares que hayan adquirido el derecho de residencia permanente en España si existen motivos graves de orden público o seguridad pública, debiendo valorarse además duración de residencia, integración, edad, salud y vínculos familiares.",
+      "ley": "Artículo 15.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La existencia de condenas penales anteriores, por sí sola, respecto de las medidas por razones de orden público o seguridad pública:",
+      "options": {
+        "a": "Determina necesariamente la denegación de cualquier solicitud de residencia futura del afectado",
+        "b": "Solo es irrelevante si la condena se hubiera dictado fuera del territorio de la Unión Europea",
+        "c": "Constituye siempre causa suficiente y automática para adoptar la medida correspondiente",
+        "d": "No constituirá razón para adoptar dichas medidas"
+      },
+      "correct": "d",
+      "explicacion": "Cuando las medidas se adopten por razones de orden público o seguridad pública, deberán fundarse exclusivamente en la conducta personal de quien sea objeto de ellas, constituyendo una amenaza real, actual y suficientemente grave; la existencia de condenas penales anteriores no constituirá, por sí sola, razón para adoptar dichas medidas.",
+      "ley": "Artículo 15.5.d) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. No podrá adoptarse decisión de expulsión o repatriación respecto a ciudadanos comunitarios, salvo motivos imperiosos de seguridad pública, si el afectado:",
+      "options": {
+        "a": "Hubiera residido en España durante los 10 años anteriores",
+        "b": "Acredita haber estudiado en territorio español durante un único curso académico completo",
+        "c": "Es mayor de sesenta y cinco años, con independencia de cualquier otra circunstancia personal",
+        "d": "Dispone de cualquier tipo de seguro médico privado vigente en el momento de la decisión"
+      },
+      "correct": "a",
+      "explicacion": "No podrá adoptarse una decisión de expulsión o repatriación respecto a ciudadanos comunitarios, salvo si existen motivos imperiosos de seguridad pública, si hubiera residido en España durante los 10 años anteriores, o si fuera menor de edad, salvo que la repatriación sea conforme al interés superior del menor.",
+      "ley": "Artículo 15.6.a) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La resolución administrativa de expulsión de un titular de tarjeta o certificado requerirá, con anterioridad a que se dicte:",
+      "options": {
+        "a": "Autorización previa del Parlamento Europeo, dado el carácter comunitario del ciudadano afectado",
+        "b": "Sentencia penal firme condenatoria dictada por un órgano jurisdiccional español competente",
+        "c": "La aprobación expresa y previa del Ministerio de Asuntos Exteriores, sin excepción alguna posible",
+        "d": "El informe previo de la Abogacía del Estado en la provincia, salvo razones de urgencia debidamente motivadas"
+      },
+      "correct": "d",
+      "explicacion": "La resolución administrativa de expulsión de un titular de tarjeta o certificado requerirá, con anterioridad a que se dicte, el informe previo de la Abogacía del Estado en la provincia, salvo en aquellos casos en que concurran razones de urgencia debidamente motivadas.",
+      "ley": "Artículo 16.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_19_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las resoluciones de expulsión, conforme al RD 240/2007, establecerán un plazo para abandonar el territorio español que, excepto en casos urgentes debidamente justificados, no podrá ser inferior a:",
+      "options": {
+        "a": "3 meses, equivalente al plazo de solicitud del certificado de registro tras la entrada en España",
+        "b": "15 días, coincidiendo con el plazo medio entre los extremos del procedimiento ordinario general",
+        "c": "1 mes a partir de la fecha de notificación",
+        "d": "7 días, plazo idéntico al mínimo previsto en el procedimiento ordinario del régimen general"
+      },
+      "correct": "c",
+      "explicacion": "Las resoluciones de expulsión establecerán un plazo para abandonar el territorio español que, excepto en casos urgentes debidamente justificados, no podrá ser inferior a 1 mes a partir de la fecha de notificación, sin que ello impida el control de la resolución en vía administrativa o judicial.",
+      "ley": "Artículo 18.2 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    }
+  ]
+}

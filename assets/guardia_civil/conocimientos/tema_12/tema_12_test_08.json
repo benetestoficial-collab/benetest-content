@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 8",
+  "preguntas": [
+    {
+      "id": "tema_12_test_08_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El Gobierno promoverá el establecimiento de Acuerdos de colaboración con los países de origen que contemplen, de forma integrada:",
+      "options": {
+        "a": "Únicamente la concesión automática de visados de estudios a menores de cualquier nacionalidad",
+        "b": "Solo la repatriación inmediata de cualquier menor indocumentado sin más trámite",
+        "c": "La prevención de la inmigración irregular, la protección y el retorno de los menores no acompañados",
+        "d": "Exclusivamente acuerdos comerciales bilaterales sin relación con la protección de menores"
+      },
+      "correct": "c",
+      "explicacion": "El Gobierno promoverá el establecimiento de Acuerdos de colaboración con los países de origen que contemplen, integradamente, la prevención de la inmigración irregular, la protección y el retorno de los menores no acompañados, siendo informadas de tales Acuerdos las Comunidades Autónomas.",
+      "ley": "Artículo 35.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando los Cuerpos y Fuerzas de Seguridad localicen a un extranjero indocumentado cuya minoría de edad no pueda establecerse con seguridad, se pondrá el hecho en conocimiento inmediato de:",
+      "options": {
+        "a": "El Ministerio Fiscal, que dispondrá la determinación de su edad con colaboración prioritaria de las instituciones sanitarias",
+        "b": "Únicamente el consulado del país de origen presumido del extranjero",
+        "c": "La Delegación de Gobierno, que decidirá discrecionalmente sin intervención de otros organismos",
+        "d": "El juzgado de guardia, que resolverá directamente sobre la repatriación sin más trámite"
+      },
+      "correct": "a",
+      "explicacion": "En estos supuestos se dará al extranjero la atención inmediata que precise, de acuerdo con la legislación de protección jurídica del menor, poniéndose el hecho en conocimiento inmediato del Ministerio Fiscal, que dispondrá la determinación de su edad, colaborando las instituciones sanitarias con carácter prioritario en las pruebas necesarias.",
+      "ley": "Artículo 35.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Determinada la edad, si se tratase de un menor, el Ministerio Fiscal lo pondrá a disposición de:",
+      "options": {
+        "a": "Los servicios competentes de protección de menores de la Comunidad Autónoma en la que se halle",
+        "b": "Cualquier organización no gubernamental que se ofrezca voluntariamente a su cuidado",
+        "c": "Directamente la representación diplomática de su país de origen, sin más trámite previo",
+        "d": "El juzgado de menores competente, en sustitución de los servicios de protección autonómicos"
+      },
+      "correct": "a",
+      "explicacion": "Determinada la edad, si se tratase de un menor, el Ministerio Fiscal lo pondrá a disposición de los servicios competentes de protección de menores de la Comunidad Autónoma en la que se halle, iniciándose así el procedimiento de protección correspondiente.",
+      "ley": "Artículo 35.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Antes de iniciar un procedimiento de repatriación de un menor extranjero no acompañado, la Administración del Estado deberá:",
+      "options": {
+        "a": "Solicitar informe sobre las circunstancias familiares del menor a la representación diplomática del país de origen",
+        "b": "Obtener el consentimiento expreso del propio menor, sin más requisito de información adicional",
+        "c": "Comunicar la decisión directamente a las Naciones Unidas para su visto bueno",
+        "d": "Esperar autorización judicial previa específica para cada caso individual"
+      },
+      "correct": "a",
+      "explicacion": "La Administración del Estado solicitará informe sobre las circunstancias familiares del menor a la representación diplomática del país de origen con carácter previo a la decisión relativa a la iniciación de un procedimiento sobre su repatriación.",
+      "ley": "Artículo 35.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Acordada la iniciación del procedimiento de repatriación, tras oír al menor con suficiente juicio y previo informe de los servicios de protección y del Ministerio Fiscal, la Administración resolverá sobre:",
+      "options": {
+        "a": "Únicamente la deportación inmediata sin posibilidad de valorar otras alternativas",
+        "b": "La concesión automática de la nacionalidad española, descartando cualquier retorno",
+        "c": "El traslado obligatorio a un tercer país sin vinculación con el menor ni su familia",
+        "d": "El retorno al país de origen, a aquel donde se encuentren sus familiares o, en su defecto, sobre su permanencia en España"
+      },
+      "correct": "d",
+      "explicacion": "Acordada la iniciación del procedimiento, tras haber oído al menor si tiene suficiente juicio, y previo informe de los servicios de protección de menores y del Ministerio Fiscal, la Administración del Estado resolverá lo que proceda sobre el retorno a su país de origen, a aquel donde se encontrasen sus familiares o, en su defecto, sobre su permanencia en España, conforme al interés superior del menor.",
+      "ley": "Artículo 35.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. A los mayores de 16 y menores de 18 años se les reconocerá capacidad para actuar:",
+      "options": {
+        "a": "Solo si cuentan con autorización previa expresa del Ministerio Fiscal para cada actuación concreta",
+        "b": "Exclusivamente en procedimientos civiles, no en los contencioso-administrativos",
+        "c": "En el procedimiento de repatriación y en el orden jurisdiccional contencioso-administrativo, personalmente o mediante representante que designen",
+        "d": "Únicamente a través de sus padres biológicos, sin posibilidad de actuación personal directa"
+      },
+      "correct": "c",
+      "explicacion": "A los mayores de 16 y menores de 18 años se les reconocerá capacidad para actuar en el procedimiento de repatriación, así como en el orden jurisdiccional contencioso-administrativo por el mismo objeto, pudiendo intervenir personalmente o a través del representante que designen.",
+      "ley": "Artículo 35.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando un menor de 16 años con juicio suficiente manifieste voluntad contraria a la de quien ostenta su tutela en el procedimiento de repatriación:",
+      "options": {
+        "a": "Prevalece siempre el criterio del tutor, continuándose el procedimiento sin más incidencias",
+        "b": "Se resuelve inmediatamente a favor de la voluntad del menor sin trámite adicional",
+        "c": "Queda automáticamente nulo todo el procedimiento sin posibilidad de continuarlo posteriormente",
+        "d": "Se suspenderá el curso del procedimiento hasta el nombramiento del defensor judicial que le represente"
+      },
+      "correct": "d",
+      "explicacion": "Cuando se trate de menores de 16 años, con juicio suficiente, que hubieran manifestado una voluntad contraria a la de quien ostenta su tutela o representación, se suspenderá el curso del procedimiento, hasta el nombramiento del defensor judicial que les represente.",
+      "ley": "Artículo 35.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Se considerará regular, a todos los efectos, la residencia de los menores tutelados en España por:",
+      "options": {
+        "a": "Solo entidades religiosas reconocidas oficialmente por el Estado español",
+        "b": "Únicamente sus padres biológicos, excluyendo cualquier otra figura tutelar",
+        "c": "Una organización internacional sin vinculación administrativa española alguna",
+        "d": "Una Administración Pública o, en virtud de resolución judicial, por cualquier otra entidad"
+      },
+      "correct": "d",
+      "explicacion": "Se considerará regular, a todos los efectos, la residencia de los menores que sean tutelados en España por una Administración Pública o, en virtud de resolución judicial, por cualquier otra entidad, sin necesidad de que exista necesariamente autorización de residencia formal.",
+      "ley": "Artículo 35.7 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La ausencia de autorización de residencia respecto del menor tutelado:",
+      "options": {
+        "a": "Determina la obligación inmediata de su repatriación sin valoración de otras circunstancias",
+        "b": "No impedirá el reconocimiento y disfrute de todos los derechos que le correspondan por su condición de menor",
+        "c": "Le priva automáticamente de cualquier derecho a la educación o a la asistencia sanitaria",
+        "d": "Solo le permite acceder a derechos básicos durante los primeros seis meses de estancia"
+      },
+      "correct": "b",
+      "explicacion": "La ausencia de autorización de residencia no impedirá el reconocimiento y disfrute de todos los derechos que le correspondan al menor por su condición de tal, lo que garantiza la protección integral del menor con independencia de su situación administrativa documental.",
+      "ley": "Artículo 35.7 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. A instancia del organismo que ejerza la tutela y acreditada la imposibilidad de retorno con su familia o al país de origen, se otorgará al menor:",
+      "options": {
+        "a": "La nacionalidad española automática, sin necesidad de tramitación posterior específica",
+        "b": "Una autorización de residencia que solo surte efectos desde la fecha de su concesión formal, sin retroactividad alguna",
+        "c": "Una autorización de residencia cuyos efectos se retrotraerán al momento en que fue puesto a disposición de los servicios de protección",
+        "d": "Un permiso temporal de treinta días, renovable mensualmente hasta su mayoría de edad"
+      },
+      "correct": "c",
+      "explicacion": "A instancia del organismo que ejerza la tutela y una vez acreditada la imposibilidad de retorno con su familia o al país de origen, se otorgará al menor una autorización de residencia, cuyos efectos se retrotraerán al momento en que el menor hubiere sido puesto a disposición de los servicios de protección de menores.",
+      "ley": "Artículo 35.7 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La concesión de una autorización de residencia al menor extranjero no acompañado:",
+      "options": {
+        "a": "No será obstáculo para la ulterior repatriación cuando favorezca el interés superior del menor",
+        "b": "Es siempre incompatible con la tramitación posterior de procedimiento de reagrupación familiar",
+        "c": "Implica automáticamente la renuncia definitiva a cualquier posibilidad de repatriación futura",
+        "d": "Solo puede concederse tras agotar previamente todas las vías de repatriación posibles"
+      },
+      "correct": "a",
+      "explicacion": "La concesión de una autorización de residencia no será obstáculo para la ulterior repatriación cuando favorezca el interés superior del menor, en los términos establecidos en el apartado cuarto del artículo 35, lo que evidencia el carácter dinámico y revisable de esta situación según evolucione el interés del menor.",
+      "ley": "Artículo 35.8 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Para que un menor tutelado con autorización de residencia que alcance la mayoría de edad pueda renovar dicha autorización o acceder a residencia y trabajo, se tendrán en cuenta, entre otros factores:",
+      "options": {
+        "a": "Exclusivamente el número de años de internamiento previo en centro de menores",
+        "b": "Los informes positivos de las entidades públicas referidos a su esfuerzo de integración, continuidad formativa e incorporación al mercado de trabajo",
+        "c": "Únicamente el dictamen vinculante del Ministerio Fiscal, sin valoración de otros aspectos",
+        "d": "Solo la opinión personal y discrecional del trabajador social asignado al caso"
+      },
+      "correct": "b",
+      "explicacion": "Reglamentariamente se determinarán las condiciones para que los menores tutelados con autorización de residencia que alcancen la mayoría de edad renueven su autorización o accedan a una de residencia y trabajo, teniendo en cuenta los informes positivos sobre su esfuerzo de integración, continuidad de formación o estudios, y su incorporación efectiva o potencial al mercado de trabajo.",
+      "ley": "Artículo 35.9 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las Comunidades Autónomas desarrollarán las políticas necesarias para:",
+      "options": {
+        "a": "Exigir el abandono inmediato del centro de acogida sin período de transición alguno",
+        "b": "Suprimir cualquier ayuda asistencial al menor desde el momento en que cumple 18 años",
+        "c": "Posibilitar la inserción de los menores tutelados en el mercado laboral cuando alcancen la mayoría de edad",
+        "d": "Trasladar de oficio a todos los menores tutelados a otra Comunidad Autónoma al cumplir la mayoría de edad"
+      },
+      "correct": "c",
+      "explicacion": "Las Comunidades Autónomas desarrollarán las políticas necesarias para posibilitar la inserción de los menores en el mercado laboral cuando alcancen la mayoría de edad, complementando así el régimen de renovación de autorizaciones previsto en la ley.",
+      "ley": "Artículo 35.9 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Los Cuerpos y Fuerzas de Seguridad del Estado adoptarán medidas técnicas para la identificación de menores extranjeros indocumentados con el fin de:",
+      "options": {
+        "a": "Sustituir definitivamente la intervención del Ministerio Fiscal en estos procedimientos",
+        "b": "Conocer posibles referencias existentes sobre ellos en instituciones públicas nacionales o extranjeras encargadas de su protección, sin uso de esos datos para finalidad distinta",
+        "c": "Compartir dichos datos automáticamente con cualquier organismo internacional sin filtro previo",
+        "d": "Elaborar un registro de carácter público accesible a cualquier interesado sin restricción"
+      },
+      "correct": "b",
+      "explicacion": "Los Cuerpos y Fuerzas de Seguridad del Estado adoptarán las medidas técnicas necesarias para la identificación de los menores extranjeros indocumentados, con el fin de conocer las posibles referencias que sobre ellos pudieran existir en alguna institución pública nacional o extranjera encargada de su protección. Estos datos no podrán ser usados para una finalidad distinta a la prevista.",
+      "ley": "Artículo 35.10 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La Administración General del Estado y las Comunidades Autónomas podrán establecer convenios con organizaciones no gubernamentales, fundaciones y entidades dedicadas a la protección de menores con el fin de:",
+      "options": {
+        "a": "Trasladarles íntegramente la competencia sancionadora en materia de extranjería",
+        "b": "Delegarles la potestad de resolver expedientes de expulsión de adultos",
+        "c": "Atribuirles la tutela ordinaria de los menores extranjeros no acompañados",
+        "d": "Encomendarles la gestión de visados y autorizaciones de residencia ordinaria"
+      },
+      "correct": "c",
+      "explicacion": "La Administración General del Estado y las Comunidades Autónomas podrán establecer convenios con organizaciones no gubernamentales, fundaciones y entidades dedicadas a la protección de menores, con el fin de atribuirles la tutela ordinaria de los menores extranjeros no acompañados, especificando cada convenio el número de menores, lugar de residencia y medios destinados.",
+      "ley": "Artículo 35.11 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El régimen de la tutela de los menores extranjeros no acompañados, conforme al artículo 35.11, será el previsto en:",
+      "options": {
+        "a": "Exclusivamente normas administrativas específicas de extranjería sin remisión al derecho civil común",
+        "b": "El derecho consuetudinario del país de origen del menor, aplicado supletoriamente",
+        "c": "Un reglamento autónomo creado por cada Comunidad Autónoma sin marco estatal común",
+        "d": "El Código Civil y en la Ley de Enjuiciamiento Civil, junto con las restantes previsiones sobre protección de menores"
+      },
+      "correct": "d",
+      "explicacion": "El régimen de la tutela será el previsto en el Código Civil y en la Ley de Enjuiciamiento Civil. Además, serán aplicables a los menores extranjeros no acompañados las restantes previsiones sobre protección de menores recogidas en el Código Civil y en la legislación vigente en la materia.",
+      "ley": "Artículo 35.11 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Estará legitimada para promover la constitución de la tutela de menores extranjeros no acompañados conforme a convenios con entidades:",
+      "options": {
+        "a": "La Comunidad Autónoma bajo cuya custodia se encuentre el menor",
+        "b": "Solo la Administración General del Estado, con exclusión de competencia autonómica",
+        "c": "Únicamente el propio Ministerio Fiscal de oficio, sin intervención autonómica posible",
+        "d": "Cualquier particular que invoque interés legítimo en el bienestar del menor"
+      },
+      "correct": "a",
+      "explicacion": "Estará legitimada para promover la constitución de la tutela la Comunidad Autónoma bajo cuya custodia se encuentre el menor, debiendo dirigirse al juzgado competente que proceda en función del lugar en que vaya a residir el menor, adjuntando el convenio correspondiente y la conformidad de la entidad que vaya a asumir la tutela.",
+      "ley": "Artículo 35.11 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las Comunidades Autónomas podrán establecer acuerdos con países de origen dirigidos a que la atención e integración social de los menores se realice:",
+      "options": {
+        "a": "Siempre en territorio español, descartando cualquier alternativa de retorno o vinculación con el país de origen",
+        "b": "En su entorno de procedencia, asegurando debidamente la protección de su interés y contemplando mecanismos de seguimiento",
+        "c": "Exclusivamente a través de internamiento en centros especializados, sin posibilidad de acogimiento familiar",
+        "d": "Bajo la tutela permanente del Estado central, sin intervención autonómica en su ejecución"
+      },
+      "correct": "b",
+      "explicacion": "Las Comunidades Autónomas podrán establecer acuerdos con los países de origen dirigidos a procurar que la atención e integración social de los menores se realice en su entorno de procedencia, debiendo dichos acuerdos asegurar debidamente la protección del interés del menor y contemplar mecanismos para su adecuado seguimiento.",
+      "ley": "Artículo 35.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. De acuerdo con el principio de interés superior del menor, la repatriación al país de origen se efectuará:",
+      "options": {
+        "a": "Solo cuando exista resolución judicial firme dictada en el país de origen del menor",
+        "b": "Únicamente cuando el menor lo solicite expresamente, sin posibilidad de decisión administrativa al respecto",
+        "c": "Exclusivamente a través de devolución inmediata sin intervención de ningún organismo de protección",
+        "d": "Bien mediante reagrupación familiar, bien mediante la puesta a disposición del menor ante los servicios de protección si se dieran las condiciones adecuadas para su tutela"
+      },
+      "correct": "d",
+      "explicacion": "De acuerdo con el principio de interés superior del menor, la repatriación al país de origen se efectuará bien mediante reagrupación familiar, bien mediante la puesta a disposición del menor ante los servicios de protección de menores, si se dieran las condiciones adecuadas para su tutela por parte de los mismos.",
+      "ley": "Artículo 35.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_08_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las Comunidades Autónomas podrán llegar a acuerdos entre sí, respecto de menores extranjeros no acompañados, con el fin de:",
+      "options": {
+        "a": "Repartirse únicamente los costes económicos sin alterar la atribución competencial de la tutela",
+        "b": "Asumir la tutela y custodia entre Comunidades Autónomas, garantizando al menor mejores condiciones de integración",
+        "c": "Excluir cualquier intervención del Ministerio Fiscal en los acuerdos interautonómicos suscritos",
+        "d": "Centralizar exclusivamente en una sola Comunidad Autónoma la totalidad de menores extranjeros del territorio nacional"
+      },
+      "correct": "b",
+      "explicacion": "Las Comunidades Autónomas podrán llegar a acuerdos con las Comunidades Autónomas donde se encuentren los menores extranjeros no acompañados para asumir la tutela y custodia, con el fin de garantizar a los menores unas mejores condiciones de integración.",
+      "ley": "Artículo 35.12 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

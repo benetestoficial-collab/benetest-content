@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_13_test_04_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 34 de la LO 4/2015, las infracciones tipificadas en la Ley se clasifican en:",
+      "options": {
+        "a": "Continuadas y discontinuas",
+        "b": "Graves y leves únicamente",
+        "c": "Administrativas y penales",
+        "d": "Muy graves, graves y leves"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 34 establece una clasificación tripartita de las infracciones en muy graves, graves y leves.",
+      "ley": "LO 4/2015, art. 34"
+    },
+    {
+      "id": "tema_13_test_04_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 35 de la LO 4/2015, constituye infracción muy grave la celebración de espectáculos públicos o actividades recreativas:",
+      "options": {
+        "a": "Fuera del horario autorizado por menos de treinta minutos",
+        "b": "Sin disponer de seguro de responsabilidad civil",
+        "c": "Quebrantando la prohibición o suspensión ordenada por la autoridad por razones de seguridad pública",
+        "d": "Sin la presencia de personal de limpieza contratado"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 35.3 tipifica como infracción muy grave la celebración de espectáculos o actividades recreativas quebrantando la prohibición o suspensión acordada por razones de seguridad pública.",
+      "ley": "LO 4/2015, art. 35"
+    },
+    {
+      "id": "tema_13_test_04_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes conductas NO constituye infracción muy grave conforme al artículo 35 de la LO 4/2015:",
+      "options": {
+        "a": "La intrusión en infraestructuras de servicios básicos para la comunidad cuando se genere riesgo para la vida o integridad física",
+        "b": "La proyección de haces de luz sobre pilotos o conductores que puedan deslumbrarles y provocar accidentes",
+        "c": "La negativa a identificarse a requerimiento de la autoridad cuando no sea constitutiva de delito",
+        "d": "La fabricación de armas reglamentarias incumpliendo la normativa, causando perjuicios muy graves"
+      },
+      "correct": "c",
+      "explicacion": "La negativa a identificarse a requerimiento de la autoridad se tipifica como infracción grave en el artículo 36.6, no como infracción muy grave del artículo 35.",
+      "ley": "LO 4/2015, art. 35"
+    },
+    {
+      "id": "tema_13_test_04_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 36.6 de la LO 4/2015, constituye infracción grave la desobediencia o resistencia a la autoridad cuando no sea constitutiva de delito, así como:",
+      "options": {
+        "a": "La negativa a identificarse o la alegación de datos falsos en los procesos de identificación",
+        "b": "El simple silencio ante una pregunta no formulada de manera oficial",
+        "c": "La ausencia de respuesta a encuestas administrativas voluntarias",
+        "d": "La falta de saludo protocolario a un agente de la autoridad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 36.6 incluye, junto a la desobediencia o resistencia, la negativa a identificarse a requerimiento de la autoridad o la alegación de datos falsos o inexactos en los procesos de identificación.",
+      "ley": "LO 4/2015, art. 36"
+    },
+    {
+      "id": "tema_13_test_04_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 36.11 de la LO 4/2015, constituye infracción grave la solicitud o aceptación de servicios sexuales retribuidos por el demandante:",
+      "options": {
+        "a": "En zonas de tránsito público próximas a lugares destinados a uso por menores, o cuando genere riesgo para la seguridad vial",
+        "b": "En cualquier domicilio particular con consentimiento de los ocupantes",
+        "c": "En establecimientos hoteleros debidamente autorizados",
+        "d": "Fuera del horario comercial habitual"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 36.11 circunscribe esta infracción a las zonas de tránsito público próximas a lugares de uso por menores, como centros educativos o parques infantiles, o cuando puedan generar riesgo para la seguridad vial.",
+      "ley": "LO 4/2015, art. 36"
+    },
+    {
+      "id": "tema_13_test_04_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 36.16 de la LO 4/2015, constituye infracción grave el consumo o tenencia ilícitos de drogas tóxicas, estupefacientes o sustancias psicotrópicas:",
+      "options": {
+        "a": "Únicamente cuando se acredite su destino al tráfico ilícito",
+        "b": "En lugares, vías, establecimientos públicos o transportes colectivos, aunque no estuvieran destinadas al tráfico",
+        "c": "Solo en el interior de centros educativos",
+        "d": "Exclusivamente cuando la cantidad supere los cien gramos"
+      },
+      "correct": "b",
+      "explicacion": "El precepto tipifica como infracción grave el consumo o tenencia de estas sustancias en lugares, vías, establecimientos públicos o transportes colectivos, aunque no estuvieran destinadas al tráfico.",
+      "ley": "LO 4/2015, art. 36"
+    },
+    {
+      "id": "tema_13_test_04_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 37.4 de la LO 4/2015, constituye infracción leve las faltas de respeto y consideración cuyo destinatario sea:",
+      "options": {
+        "a": "Un trabajador de empresa de seguridad privada fuera de servicio",
+        "b": "Un funcionario de cualquier administración pública en horario laboral",
+        "c": "Un cargo electo en el ejercicio de su mandato",
+        "d": "Un miembro de las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones de protección de la seguridad"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 37.4 tipifica como infracción leve las faltas de respeto y consideración hacia un miembro de las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones de protección de la seguridad, cuando no sean constitutivas de delito.",
+      "ley": "LO 4/2015, art. 37"
+    },
+    {
+      "id": "tema_13_test_04_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 37.11 de la LO 4/2015, se considera infracción leve por negligencia en la custodia de la documentación personal cuando se produzcan:",
+      "options": {
+        "a": "La primera pérdida acreditada de la documentación",
+        "b": "La tercera y posteriores pérdidas o extravíos en el plazo de un año",
+        "c": "Dos pérdidas en un plazo de cinco años",
+        "d": "Cualquier pérdida, sin necesidad de reiteración"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 37.11 considera negligencia en la custodia la tercera y posteriores pérdidas o extravíos de la documentación personal dentro del plazo de un año.",
+      "ley": "LO 4/2015, art. 37"
+    },
+    {
+      "id": "tema_13_test_04_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 37.16 de la LO 4/2015, constituye infracción leve dejar sueltos o en condiciones de causar daños a animales feroces o dañinos, así como:",
+      "options": {
+        "a": "Pasear animales domésticos sin correa en parques públicos",
+        "b": "Abandonar animales domésticos en condiciones en que pueda peligrar su vida",
+        "c": "No vacunar anualmente a los animales de compañía",
+        "d": "Alimentar animales callejeros en la vía pública"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 37.16 vincula esta infracción al abandono de animales domésticos en condiciones en que pueda peligrar su vida, junto con dejar sueltos animales feroces o dañinos.",
+      "ley": "LO 4/2015, art. 37"
+    },
+    {
+      "id": "tema_13_test_04_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: las infracciones administrativas tipificadas en la LO 4/2015 prescribirán a los seis meses, al año o a los ______ años de haberse cometido, según sean leves, graves o muy graves.",
+      "options": {
+        "a": "Dos",
+        "b": "Tres",
+        "c": "Cuatro",
+        "d": "Cinco"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 38.1 fija plazos de prescripción de seis meses, un año o dos años, según la infracción sea leve, grave o muy grave, respectivamente.",
+      "ley": "LO 4/2015, art. 38"
+    },
+    {
+      "id": "tema_13_test_04_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 38.3 de la LO 4/2015, la prescripción de las infracciones se interrumpirá por cualquier actuación administrativa dirigida a la sanción, reanudándose el cómputo si el procedimiento se paraliza por causa no imputable al presunto responsable durante más de:",
+      "options": {
+        "a": "Un mes",
+        "b": "Tres meses",
+        "c": "Seis meses",
+        "d": "Un año"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 38.3 reanuda el cómputo del plazo de prescripción cuando el procedimiento esté paralizado más de un mes por causa no imputable al presunto responsable.",
+      "ley": "LO 4/2015, art. 38"
+    },
+    {
+      "id": "tema_13_test_04_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 38.2 de la LO 4/2015, en los casos de infracciones de efectos permanentes, el plazo de prescripción se computará desde:",
+      "options": {
+        "a": "La fecha de denuncia formal",
+        "b": "El día en que se cometió la primera infracción",
+        "c": "Que se eliminó la situación ilícita",
+        "d": "La firmeza de la resolución sancionadora"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 38.2 establece que, en infracciones de efectos permanentes, el cómputo se inicia desde que se eliminó la situación ilícita, frente a las infracciones continuadas que se computan desde la última infracción.",
+      "ley": "LO 4/2015, art. 38"
+    },
+    {
+      "id": "tema_13_test_04_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 39.1 de la LO 4/2015, las infracciones muy graves se sancionarán con multa de:",
+      "options": {
+        "a": "1.000 a 100.000 euros",
+        "b": "601 a 30.000 euros",
+        "c": "100 a 600 euros",
+        "d": "30.001 a 600.000 euros"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 39.1 fija la multa para infracciones muy graves entre 30.001 y 600.000 euros, frente a las cuantías inferiores previstas para infracciones graves y leves.",
+      "ley": "LO 4/2015, art. 39"
+    },
+    {
+      "id": "tema_13_test_04_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 39.1 de la LO 4/2015, la multa prevista para las infracciones leves es de:",
+      "options": {
+        "a": "601 a 30.000 euros",
+        "b": "100 a 600 euros",
+        "c": "30.001 a 600.000 euros",
+        "d": "50 a 300 euros"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 39.1 establece la multa para infracciones leves en una horquilla de 100 a 600 euros.",
+      "ley": "LO 4/2015, art. 39"
+    },
+    {
+      "id": "tema_13_test_04_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Entre las sanciones accesorias que puede llevar aparejada la multa, conforme al artículo 39.2 de la LO 4/2015, se incluye:",
+      "options": {
+        "a": "La retirada de las armas y de las licencias o permisos correspondientes a las mismas",
+        "b": "La inhabilitación para el ejercicio de cargo público",
+        "c": "El cierre definitivo e irreversible del establecimiento",
+        "d": "La expulsión del territorio nacional en todo caso"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 39.2 contempla, entre otras sanciones accesorias, la retirada de armas y de las licencias o permisos correspondientes, atendiendo a la naturaleza de los hechos.",
+      "ley": "LO 4/2015, art. 39"
+    },
+    {
+      "id": "tema_13_test_04_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: las sanciones impuestas por infracciones muy graves prescribirán a los ______ años, computados desde el día siguiente a aquel en que adquiera firmeza en vía administrativa la resolución sancionadora.",
+      "options": {
+        "a": "Dos",
+        "b": "Tres",
+        "c": "Cuatro",
+        "d": "Cinco"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 40.1 fija en tres años el plazo de prescripción de las sanciones por infracciones muy graves, frente a los dos años para las graves y el año para las leves.",
+      "ley": "LO 4/2015, art. 40"
+    },
+    {
+      "id": "tema_13_test_04_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 41 de la LO 4/2015, las disposiciones reglamentarias de desarrollo podrán introducir especificaciones o graduaciones en el cuadro de infracciones y sanciones siempre que:",
+      "options": {
+        "a": "Se limiten exclusivamente a las infracciones leves",
+        "b": "Cuenten con la aprobación previa del Congreso de los Diputados",
+        "c": "No constituyan nuevas infracciones o sanciones ni alteren su naturaleza y límites",
+        "d": "Sean ratificadas por referéndum municipal"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 41 condiciona estas especificaciones reglamentarias a que no creen nuevas infracciones o sanciones ni alteren su naturaleza y límites.",
+      "ley": "LO 4/2015, art. 41"
+    },
+    {
+      "id": "tema_13_test_04_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 42.2 de la LO 4/2015, la responsabilidad civil derivada de una infracción será:",
+      "options": {
+        "a": "Subsidiaria respecto de la responsabilidad de la administración",
+        "b": "Mancomunada y proporcional a la participación de cada causante",
+        "c": "Siempre solidaria entre todos los causantes del daño",
+        "d": "Exclusiva del autor material de los hechos"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 42.2 establece el carácter solidario de la responsabilidad civil derivada de la infracción entre todos los causantes del daño.",
+      "ley": "LO 4/2015, art. 42"
+    },
+    {
+      "id": "tema_13_test_04_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 42.3 de la LO 4/2015, cuando el autor de los hechos sea un menor de dieciocho años no emancipado, responderán solidariamente con él de los daños y perjuicios:",
+      "options": {
+        "a": "Los hermanos mayores de edad del menor",
+        "b": "Únicamente el centro educativo al que asista",
+        "c": "El Estado a través del fondo de garantía correspondiente",
+        "d": "Sus padres, tutores, curadores, acogedores o guardadores legales o de hecho"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 42.3 extiende la responsabilidad solidaria a padres, tutores, curadores, acogedores o guardadores legales o de hecho del menor de dieciocho años no emancipado.",
+      "ley": "LO 4/2015, art. 42"
+    },
+    {
+      "id": "tema_13_test_04_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la reparación del daño, conforme al artículo 42.1 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "La resolución del procedimiento exigirá la reposición a su estado originario de la situación alterada cuando sea posible",
+        "b": "Si la reposición no fuera posible, procederá la indemnización por los daños y perjuicios causados",
+        "c": "Si el importe de los daños no estuviera determinado, se fijará en un procedimiento complementario",
+        "d": "La administración renuncia automáticamente a la reparación cuando el infractor sea insolvente"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 42 no contempla ninguna renuncia automática a la reparación por insolvencia del infractor; la resolución debe pronunciarse sobre la reposición o, en su caso, la indemnización correspondiente.",
+      "ley": "LO 4/2015, art. 42"
+    }
+  ]
+}

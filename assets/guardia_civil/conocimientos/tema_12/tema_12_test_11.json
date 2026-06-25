@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 11",
+  "preguntas": [
+    {
+      "id": "tema_12_test_11_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El ejercicio de la potestad sancionadora por las infracciones administrativas de la LO 4/2000 se ajustará a:",
+      "options": {
+        "a": "Un reglamento específico ajeno por completo a la legislación general de procedimiento administrativo",
+        "b": "Exclusivamente las normas internas de cada Delegación de Gobierno, sin marco legal común",
+        "c": "Lo dispuesto en la propia ley y sus disposiciones de desarrollo, y en la Ley de Régimen Jurídico de las Administraciones Públicas",
+        "d": "El criterio discrecional del funcionario instructor en cada expediente individual concreto"
+      },
+      "correct": "c",
+      "explicacion": "El ejercicio de la potestad sancionadora por la comisión de las infracciones administrativas previstas en la LO 4/2000 se ajustará a lo dispuesto en la misma y en sus disposiciones de desarrollo, y en la Ley de Régimen Jurídico de las Administraciones Públicas.",
+      "ley": "Artículo 50 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las infracciones administrativas establecidas en la LO 4/2000 se clasifican en:",
+      "options": {
+        "a": "Únicamente leves y graves, sin existir una tercera categoría adicional",
+        "b": "Administrativas y penales, según la gravedad apreciada por el instructor",
+        "c": "Permanentes y temporales, en función de la duración de la situación irregular",
+        "d": "Leves, graves y muy graves"
+      },
+      "correct": "d",
+      "explicacion": "Las infracciones administrativas establecidas en la LO 4/2000 se clasifican en leves, graves y muy graves, incurriendo en responsabilidad administrativa quienes sean autores o participen en cualquiera de las infracciones tipificadas.",
+      "ley": "Artículo 51.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye infracción leve el retraso en la solicitud de renovación de las autorizaciones una vez hayan caducado, siempre que dicho retraso no exceda de:",
+      "options": {
+        "a": "1 mes, equivalente al plazo general de solicitud de la tarjeta de identidad",
+        "b": "6 meses, plazo que coincide con el de prescripción de las infracciones leves",
+        "c": "12 meses, plazo que se asimila a la duración mínima de la residencia temporal",
+        "d": "3 meses"
+      },
+      "correct": "d",
+      "explicacion": "Constituye infracción leve el retraso, hasta 3 meses, en la solicitud de renovación de las autorizaciones una vez hayan caducado, transformándose en infracción grave si el retraso supera dicho plazo de 3 meses sin haberse solicitado la renovación.",
+      "ley": "Artículo 52.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye infracción leve encontrarse trabajando en España sin haber solicitado autorización administrativa para trabajar por cuenta propia, cuando:",
+      "options": {
+        "a": "Se cuente con autorización de residencia temporal",
+        "b": "El trabajador sea menor de 18 años, con independencia de su situación documental",
+        "c": "El trabajador carezca de cualquier tipo de documentación identificativa válida",
+        "d": "La actividad se desarrolle exclusivamente en el sector agrícola de temporada"
+      },
+      "correct": "a",
+      "explicacion": "Constituye infracción leve encontrarse trabajando en España sin haber solicitado autorización administrativa para trabajar por cuenta propia, cuando se cuente con autorización de residencia temporal, diferenciándose de la infracción grave que se produce cuando no se cuenta con autorización de residencia válida.",
+      "ley": "Artículo 52.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La contratación de trabajadores cuya autorización no les habilita para trabajar en esa ocupación o ámbito geográfico:",
+      "options": {
+        "a": "Constituye infracción leve, incurriéndose en una infracción por cada uno de los trabajadores extranjeros ocupados",
+        "b": "Solo se sanciona si afecta a más de cinco trabajadores simultáneamente en la misma empresa",
+        "c": "Es siempre infracción muy grave, sin posibilidad de calificación leve en ningún supuesto",
+        "d": "Constituye delito penal directo, sin tramitación de expediente administrativo previo alguno"
+      },
+      "correct": "a",
+      "explicacion": "Constituye infracción leve la contratación de trabajadores cuya autorización no les habilita para trabajar en esa ocupación o ámbito geográfico, incurriéndose en una infracción por cada uno de los trabajadores extranjeros ocupados, lo que multiplica la sanción según el número de afectados.",
+      "ley": "Artículo 52.e) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye infracción leve la ausencia de comunicación a la autoridad pública de la localización de menores extranjeros no acompañados por parte de:",
+      "options": {
+        "a": "Las entidades cuyo objeto se refiera total o parcialmente a la atención de dichos menores, así como las personas que actúen en su representación",
+        "b": "Los centros educativos donde el menor estuviera matriculado en el momento de su localización",
+        "c": "Exclusivamente las Fuerzas y Cuerpos de Seguridad del Estado, sin extensión a entidades privadas",
+        "d": "Cualquier ciudadano particular que aviste casualmente a un menor extranjero en la calle"
+      },
+      "correct": "a",
+      "explicacion": "Constituye infracción leve la ausencia de comunicación a la autoridad pública por parte de las entidades cuyo objeto se refiera total o parcialmente a la atención de menores extranjeros no acompañados, así como de las personas que actúen en su representación o encuadradas en su actividad habitual, de la localización de dichos menores.",
+      "ley": "Artículo 52.f) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Encontrarse irregularmente en territorio español, por no haber obtenido prórroga de estancia o carecer de autorización de residencia, constituye infracción grave cuando, además:",
+      "options": {
+        "a": "El extranjero presente solicitud de protección internacional de forma simultánea a la detección",
+        "b": "El extranjero acredite estar inscrito en el padrón municipal del lugar donde resida habitualmente",
+        "c": "El extranjero tenga hijos menores escolarizados en cualquier centro educativo español",
+        "d": "El interesado no hubiere solicitado la renovación de la autorización en el plazo previsto reglamentariamente"
+      },
+      "correct": "d",
+      "explicacion": "Constituye infracción grave encontrarse irregularmente en territorio español, por no haber obtenido la prórroga de estancia, carecer de autorización de residencia o tener caducada más de 3 meses dicha autorización, siempre que el interesado no hubiere solicitado la renovación en el plazo reglamentario.",
+      "ley": "Artículo 53.1.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando cualquier autoridad tenga conocimiento de una posible falsedad grave en la declaración de datos del padrón municipal por un extranjero:",
+      "options": {
+        "a": "Debe abstenerse de comunicar nada, dado que se trata de información protegida por confidencialidad estricta",
+        "b": "Lo pondrá en conocimiento de las autoridades competentes para que pueda instruirse el oportuno expediente sancionador",
+        "c": "Iniciará automáticamente, por sí misma, el expediente sancionador sin remisión a otra autoridad",
+        "d": "Solo puede actuar si el propio Ayuntamiento presenta denuncia formal previa al respecto"
+      },
+      "correct": "b",
+      "explicacion": "Cuando cualquier autoridad tuviera conocimiento de una posible infracción por incurrir en falsedad en la declaración de datos obligatorios del padrón municipal, lo pondrá en conocimiento de las autoridades competentes con el fin de que pueda instruirse el oportuno expediente sancionador.",
+      "ley": "Artículo 53.1.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La comisión de una tercera infracción leve constituye infracción grave cuando, en el plazo de un año anterior:",
+      "options": {
+        "a": "El extranjero hubiera sido sancionado por dos faltas leves de la misma naturaleza",
+        "b": "El extranjero hubiera acumulado tres infracciones de cualquier categoría sin distinción",
+        "c": "El extranjero hubiera sido sancionado por cualquier tipo de infracción, sin importar su naturaleza",
+        "d": "Hubiera transcurrido al menos un año desde la última sanción impuesta previamente"
+      },
+      "correct": "a",
+      "explicacion": "Constituye infracción grave la comisión de una tercera infracción leve, siempre que en el plazo de un año anterior hubiera sido sancionado por dos faltas leves de la misma naturaleza, exigiéndose así homogeneidad en el tipo de infracciones previas para la reincidencia cualificada.",
+      "ley": "Artículo 53.1.e) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye infracción grave incumplir la obligación de obtener:",
+      "options": {
+        "a": "El certificado de antecedentes penales del país de origen, en todo caso",
+        "b": "La tarjeta de identidad de extranjero",
+        "c": "El permiso de conducir español, aunque se disponga de licencia extranjera homologable",
+        "d": "El número de identificación fiscal, con independencia de cualquier actividad económica"
+      },
+      "correct": "b",
+      "explicacion": "Constituye infracción grave incumplir la obligación de obtener la tarjeta de identidad de extranjero, prevista en el artículo 4.2 de la ley, que exige su solicitud en el plazo de un mes desde la entrada o desde la concesión de la autorización correspondiente.",
+      "ley": "Artículo 53.1.h) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye infracción grave la participación por el extranjero en actividades contrarias al orden público previstas como graves en:",
+      "options": {
+        "a": "El Código Penal, en su título relativo a los delitos contra el orden público",
+        "b": "La Ley Orgánica sobre Protección de la Seguridad Ciudadana",
+        "c": "El reglamento interno de cada centro de internamiento de extranjeros",
+        "d": "Cualquier ordenanza municipal de convivencia ciudadana, sin remisión a norma estatal"
+      },
+      "correct": "b",
+      "explicacion": "Constituye infracción grave la participación por el extranjero en la realización de actividades contrarias al orden público previstas como graves en la Ley Orgánica sobre Protección de la Seguridad Ciudadana, estableciéndose así una remisión normativa expresa a dicha ley.",
+      "ley": "Artículo 53.1.f) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El empresario que no dé de alta en la Seguridad Social al trabajador extranjero cuya autorización había solicitado quedará exento de responsabilidad cuando:",
+      "options": {
+        "a": "Hayan transcurrido más de seis meses desde la concesión de la autorización inicial solicitada",
+        "b": "Alegue desconocimiento total de la normativa de extranjería aplicable al caso concreto",
+        "c": "Comunique a las autoridades competentes razones sobrevenidas que puedan poner en riesgo objetivo la viabilidad de la empresa o que impidan el inicio de la relación",
+        "d": "El trabajador afectado renuncie voluntariamente y por escrito a iniciar la relación laboral"
+      },
+      "correct": "c",
+      "explicacion": "Estará exento de esta responsabilidad el empresario que comunique a las autoridades competentes la concurrencia de razones sobrevenidas que puedan poner en riesgo objetivo la viabilidad de la empresa o que, conforme a la legislación, impidan el inicio de dicha relación laboral.",
+      "ley": "Artículo 53.2.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Contraer matrimonio o simular relación afectiva análoga con el propósito de obtener indebidamente un derecho de residencia, siempre que no constituya delito, se califica como infracción:",
+      "options": {
+        "a": "Leve, al tratarse de una conducta de escasa entidad sancionadora",
+        "b": "Grave",
+        "c": "Muy grave en todo caso, sin posibilidad de calificación intermedia",
+        "d": "Exclusivamente penal, excluyéndose cualquier vía administrativa sancionadora"
+      },
+      "correct": "b",
+      "explicacion": "También son infracciones graves contraer matrimonio, simular relación afectiva análoga o constituirse en representante legal de un menor, cuando dichas conductas se realicen con ánimo de lucro o con el propósito de obtener indebidamente un derecho de residencia, siempre que no constituyan delito.",
+      "ley": "Artículo 53.2.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Para graduar la sanción correspondiente a promover la permanencia irregular en España de un extranjero invitado por el infractor, se tendrán en cuenta:",
+      "options": {
+        "a": "Únicamente el número de días de permanencia irregular acumulados por el extranjero",
+        "b": "Solo el nivel de estudios del extranjero cuya permanencia se hubiera promovido",
+        "c": "Exclusivamente la cuantía económica que el infractor hubiera percibido por dicha conducta",
+        "d": "Las circunstancias personales y familiares concurrentes"
+      },
+      "correct": "d",
+      "explicacion": "Constituye infracción grave promover la permanencia irregular en España de un extranjero cuando su entrada legal haya contado con invitación expresa del infractor y continúe a su cargo tras el período de su visado o autorización, debiendo tenerse en cuenta para graduar la sanción las circunstancias personales y familiares concurrentes.",
+      "ley": "Artículo 53.2.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Consentir la inscripción de un extranjero en el Padrón Municipal cuando la vivienda no constituya su domicilio real, por parte del titular habilitado:",
+      "options": {
+        "a": "No constituye infracción administrativa alguna, al tratarse de competencia municipal exclusiva",
+        "b": "Solo constituye infracción si la inscripción afecta a más de diez personas en el mismo padrón",
+        "c": "Constituye infracción grave, incurriéndose en una infracción por cada persona indebidamente inscrita",
+        "d": "Es siempre infracción leve, salvo que se acredite ánimo de lucro explícito y probado"
+      },
+      "correct": "c",
+      "explicacion": "Constituye infracción grave consentir la inscripción de un extranjero en el Padrón Municipal por parte del titular de una vivienda habilitado para tal fin, cuando dicha vivienda no constituya el domicilio real del extranjero, incurriéndose en una infracción por cada persona indebidamente inscrita.",
+      "ley": "Artículo 53.2.d) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye infracción grave el incumplimiento de las medidas impuestas por razón de seguridad pública relativas a:",
+      "options": {
+        "a": "Suscripción de un seguro de responsabilidad civil con cobertura mínima anual establecida",
+        "b": "Asistencia obligatoria a cursos de formación cívica organizados por el Ayuntamiento correspondiente",
+        "c": "Presentación periódica o alejamiento de fronteras o núcleos de población concretados singularmente",
+        "d": "Inscripción inmediata en cualquier asociación de inmigrantes legalmente constituida"
+      },
+      "correct": "c",
+      "explicacion": "Constituye infracción grave el incumplimiento de las medidas impuestas por razón de seguridad pública, de presentación periódica o de alejamiento de fronteras o núcleos de población concretados singularmente, de acuerdo con lo dispuesto en la ley.",
+      "ley": "Artículo 53.1.d) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye infracción grave las salidas del territorio español:",
+      "options": {
+        "a": "Por puestos no habilitados, sin exhibir la documentación prevista o contraviniendo las prohibiciones legalmente impuestas",
+        "b": "Realizadas exclusivamente por vía terrestre, con independencia de la documentación que se porte",
+        "c": "Que se produzcan dentro de los primeros seis meses desde la concesión de la primera autorización de residencia",
+        "d": "Acompañadas de menores de edad sin autorización notarial específica de ambos progenitores"
+      },
+      "correct": "a",
+      "explicacion": "Constituye infracción grave las salidas del territorio español por puestos no habilitados, sin exhibir la documentación prevista o contraviniendo las prohibiciones legalmente impuestas, en coherencia con el régimen general de entrada y salida del territorio.",
+      "ley": "Artículo 53.1.g) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La omisión o el retraso en la comunicación a las autoridades españolas de cambios de nacionalidad, estado civil o domicilio constituye infracción:",
+      "options": {
+        "a": "Muy grave en todo caso, sin posibilidad de modulación según las circunstancias",
+        "b": "Leve, cuando dichos cambios sean exigibles conforme a la normativa aplicable",
+        "c": "Penal directa, debiendo trasladarse el expediente de oficio al Ministerio Fiscal",
+        "d": "Inexistente, al no estar tipificada expresamente esta conducta en la ley"
+      },
+      "correct": "b",
+      "explicacion": "Constituye infracción leve la omisión o el retraso en la comunicación a las autoridades españolas de los cambios de nacionalidad, de estado civil o de domicilio, así como de otras circunstancias determinantes de su situación laboral, cuando les sean exigibles por la normativa aplicable.",
+      "ley": "Artículo 52.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Encontrarse trabajando en España sin autorización de trabajo o autorización previa, cuando el extranjero no cuente además con autorización de residencia válida, se califica como infracción:",
+      "options": {
+        "a": "Muy grave, al exigirse simultáneamente la ausencia de residencia y de trabajo",
+        "b": "Leve, equiparándose al supuesto de quien sí dispone de residencia temporal vigente",
+        "c": "Grave",
+        "d": "Atípica, por no estar expresamente prevista en el catálogo legal de infracciones"
+      },
+      "correct": "c",
+      "explicacion": "Constituye infracción grave encontrarse trabajando en España sin haber obtenido autorización de trabajo o autorización administrativa previa para trabajar, cuando no cuente con autorización de residencia válida, diferenciándose de la infracción leve que exige sí contar con residencia temporal.",
+      "ley": "Artículo 53.1.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_11_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Incurrir en ocultación dolosa o falsedad grave en el cumplimiento de comunicar cambios de nacionalidad, estado civil o domicilio se califica como infracción grave siempre que:",
+      "options": {
+        "a": "El extranjero acredite carecer de medios económicos suficientes para afrontar la sanción",
+        "b": "El extranjero no cuente con residencia de larga duración en el momento de detectarse",
+        "c": "La ocultación se haya mantenido durante un período superior a tres años continuados",
+        "d": "Tales hechos no constituyan delito"
+      },
+      "correct": "d",
+      "explicacion": "Constituye infracción grave incurrir en ocultación dolosa o falsedad grave en el cumplimiento de la obligación de comunicar cambios de nacionalidad, estado civil o domicilio, así como falsedad en datos del padrón municipal, siempre que tales hechos no constituyan delito, en cuyo caso correspondería la vía penal.",
+      "ley": "Artículo 53.1.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

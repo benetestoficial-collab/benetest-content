@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 5",
+  "preguntas": [
+    {
+      "id": "tema_13_test_05_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. El Registro Central de Infracciones contra la Seguridad Ciudadana, creado en el Ministerio del Interior conforme al artículo 43 de la LO 4/2015, tiene por finalidad exclusiva:",
+      "options": {
+        "a": "Centralizar las denuncias de tráfico de todo el territorio",
+        "b": "Elaborar estadísticas de criminalidad para uso periodístico",
+        "c": "Apreciar la reincidencia en la comisión de infracciones tipificadas en la Ley",
+        "d": "Sustituir al Registro Central de Penados y Rebeldes"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 43.1 crea este registro con la finalidad exclusiva de apreciar la reincidencia en la comisión de infracciones tipificadas en la Ley.",
+      "ley": "LO 4/2015, art. 43"
+    },
+    {
+      "id": "tema_13_test_05_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 43.3 de la LO 4/2015, los asientos del Registro Central de Infracciones se cancelarán de oficio, en el caso de infracciones leves, transcurrido:",
+      "options": {
+        "a": "Tres años desde la firmeza de la sanción",
+        "b": "Dos años desde la firmeza de la sanción",
+        "c": "Un año desde la firmeza de la sanción",
+        "d": "Seis meses desde la firmeza de la sanción"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 43.3 fija la cancelación de oficio en un año para las infracciones leves, dos años para las graves y tres años para las muy graves, a contar desde la firmeza de la sanción.",
+      "ley": "LO 4/2015, art. 43"
+    },
+    {
+      "id": "tema_13_test_05_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 44 de la LO 4/2015, el ejercicio de la potestad sancionadora en materia de seguridad ciudadana se rige por:",
+      "options": {
+        "a": "Los reglamentos internos de cada cuerpo policial",
+        "b": "La legislación procesal penal en todo caso",
+        "c": "La normativa de derecho administrativo, sin perjuicio de las especialidades de este capítulo",
+        "d": "Las ordenanzas municipales con carácter exclusivo"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 44 remite a la normativa general de derecho administrativo, con las especialidades propias previstas en el capítulo correspondiente.",
+      "ley": "LO 4/2015, art. 44"
+    },
+    {
+      "id": "tema_13_test_05_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 45.1 de la LO 4/2015, no podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente cuando se aprecie:",
+      "options": {
+        "a": "Mera coincidencia temporal entre ambos procedimientos",
+        "b": "Identidad de sujeto, de hecho y de fundamento",
+        "c": "Identidad exclusivamente del órgano que sancionó",
+        "d": "Coincidencia parcial en el lugar de los hechos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 45.1 consagra el principio non bis in idem exigiendo identidad de sujeto, hecho y fundamento para impedir la doble sanción.",
+      "ley": "LO 4/2015, art. 45"
+    },
+    {
+      "id": "tema_13_test_05_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el carácter subsidiario del procedimiento sancionador, conforme al artículo 45.2 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "El órgano administrativo pasará el tanto de culpa a la autoridad judicial o al Ministerio Fiscal cuando los hechos pudieran ser delito",
+        "b": "El órgano administrativo se abstendrá de seguir el procedimiento mientras no haya sentencia firme o resolución que ponga fin al proceso penal",
+        "c": "El plazo de prescripción queda interrumpido mientras dura la pendencia del proceso penal",
+        "d": "El procedimiento administrativo sancionador continúa en paralelo sin ninguna interrupción mientras se tramita la causa penal"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 45.2 obliga precisamente a abstenerse de continuar el procedimiento sancionador mientras la vía penal no concluya, interrumpiendo el plazo de prescripción, por lo que no existe tramitación paralela sin interrupción.",
+      "ley": "LO 4/2015, art. 45"
+    },
+    {
+      "id": "tema_13_test_05_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 45.3 de la LO 4/2015, si no se hubiera estimado la existencia de ilícito penal, el órgano administrativo, al iniciar o proseguir el procedimiento sancionador, quedará vinculado por:",
+      "options": {
+        "a": "El criterio del denunciante inicial",
+        "b": "La calificación jurídica propuesta por la defensa",
+        "c": "Los hechos declarados probados en vía judicial",
+        "d": "La opinión pública sobre el caso"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 45.3 vincula al órgano administrativo a los hechos que hayan quedado declarados probados en la vía judicial.",
+      "ley": "LO 4/2015, art. 45"
+    },
+    {
+      "id": "tema_13_test_05_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 46.1 de la LO 4/2015, las autoridades competentes podrán acceder a los datos de los sujetos infractores relacionados con la investigación de los hechos:",
+      "options": {
+        "a": "Sin necesidad de consentimiento previo del titular de los datos, con las garantías de seguridad, integridad y disponibilidad",
+        "b": "Solo previa autorización judicial expresa en cada caso",
+        "c": "Únicamente mediante solicitud al Defensor del Pueblo",
+        "d": "Solo si el titular de los datos lo autoriza expresamente por escrito"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 46.1 permite este acceso sin consentimiento previo del titular, siempre con las garantías de seguridad, integridad y disponibilidad de los datos.",
+      "ley": "LO 4/2015, art. 46"
+    },
+    {
+      "id": "tema_13_test_05_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 47.2 de la LO 4/2015, las medidas provisionales adoptadas directamente por los agentes de la autoridad con carácter previo a la incoación del procedimiento, en supuestos de grave riesgo, deberán ser ratificadas, modificadas o revocadas en el acuerdo de incoación en el plazo máximo de:",
+      "options": {
+        "a": "Quince días",
+        "b": "Treinta días",
+        "c": "Cuarenta y ocho horas",
+        "d": "Tres días"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 47.2 fija en quince días el plazo máximo para que el acuerdo de incoación ratifique, modifique o revoque estas medidas provisionales adoptadas con carácter previo.",
+      "ley": "LO 4/2015, art. 47"
+    },
+    {
+      "id": "tema_13_test_05_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 48.3 de la LO 4/2015, la práctica de actuaciones previas a la incoación del procedimiento sancionador:",
+      "options": {
+        "a": "Interrumpe automáticamente la prescripción por dos años",
+        "b": "No interrumpirá la prescripción de las infracciones",
+        "c": "Solo puede realizarse con autorización judicial previa",
+        "d": "Sustituye a la fase de instrucción del procedimiento"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 48.3 aclara que la práctica de actuaciones previas no produce el efecto de interrumpir la prescripción de las infracciones.",
+      "ley": "LO 4/2015, art. 48"
+    },
+    {
+      "id": "tema_13_test_05_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Las medidas de carácter provisional que puede adoptar el órgano competente conforme al artículo 49.1 de la LO 4/2015 no podrán tener, en ningún caso:",
+      "options": {
+        "a": "Eficacia inmediata",
+        "b": "Carácter sancionador",
+        "c": "Carácter proporcionado",
+        "d": "Vigencia superior a un día"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 49.1 excluye expresamente que las medidas provisionales puedan tener carácter sancionador, debiendo limitarse a asegurar la eficacia del procedimiento.",
+      "ley": "LO 4/2015, art. 49"
+    },
+    {
+      "id": "tema_13_test_05_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 49.3 de la LO 4/2015, la duración de las medidas de carácter provisional no podrá exceder, salvo acuerdo motivado, de:",
+      "options": {
+        "a": "Un plazo fijo de seis meses en todo caso",
+        "b": "Un tercio del plazo de prescripción de la infracción",
+        "c": "El doble del plazo previsto para la sanción correspondiente",
+        "d": "La mitad del plazo previsto para la sanción que pudiera corresponder"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 49.3 limita la duración de estas medidas a la mitad del plazo previsto para la sanción correspondiente a la infracción, salvo acuerdo motivado en contrario.",
+      "ley": "LO 4/2015, art. 49"
+    },
+    {
+      "id": "tema_13_test_05_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 49.2 de la LO 4/2015, los gastos ocasionados por la adopción de medidas provisionales correrán a cargo de:",
+      "options": {
+        "a": "La administración pública instructora del procedimiento",
+        "b": "El causante de los hechos objeto del expediente sancionador",
+        "c": "El Fondo de Garantía de la Seguridad Ciudadana",
+        "d": "El denunciante de los hechos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 49.2 imputa estos gastos al causante de los hechos objeto del expediente sancionador.",
+      "ley": "LO 4/2015, art. 49"
+    },
+    {
+      "id": "tema_13_test_05_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las medidas provisionales del artículo 49 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Son inmediatamente ejecutivas, sin perjuicio de que los interesados puedan solicitar su suspensión",
+        "b": "Pueden ser modificadas o levantadas cuando varíen las circunstancias que motivaron su adopción",
+        "c": "Se extinguirán siempre con la resolución que ponga fin al procedimiento",
+        "d": "Para solicitar su suspensión basta una simple alegación verbal sin necesidad de justificar nada"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 49.5 exige que el interesado justifique la apariencia de buen derecho y la existencia de daños de difícil o imposible reparación para solicitar la suspensión, prestando en su caso caución.",
+      "ley": "LO 4/2015, art. 49"
+    },
+    {
+      "id": "tema_13_test_05_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: el procedimiento sancionador caducará, conforme al artículo 50.1 de la LO 4/2015, transcurrido ______ desde su incoación sin que se haya notificado la resolución.",
+      "options": {
+        "a": "Dos años",
+        "b": "Seis meses",
+        "c": "Un año",
+        "d": "Tres meses"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 50.1 fija en un año el plazo de caducidad del procedimiento sancionador desde su incoación, salvo paralizaciones imputables al interesado o suspensión por causa penal.",
+      "ley": "LO 4/2015, art. 50"
+    },
+    {
+      "id": "tema_13_test_05_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 51 de la LO 4/2015, contra la resolución que ponga fin a la vía administrativa podrá interponerse:",
+      "options": {
+        "a": "Recurso contencioso-administrativo, en su caso por el procedimiento de protección de derechos fundamentales",
+        "b": "Recurso de casación directamente ante el Tribunal Supremo",
+        "c": "Recurso de amparo ante el Tribunal Constitucional sin trámites previos",
+        "d": "Recurso de revisión ante el Consejo de Estado en todo caso"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 51 habilita el recurso contencioso-administrativo, pudiendo emplearse el procedimiento especial de protección de derechos fundamentales cuando proceda.",
+      "ley": "LO 4/2015, art. 51"
+    },
+    {
+      "id": "tema_13_test_05_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 52 de la LO 4/2015, las denuncias, atestados o actas formulados por los agentes de la autoridad que hubiesen presenciado los hechos constituirán base suficiente para la resolución, salvo:",
+      "options": {
+        "a": "Que existan más de dos agentes denunciantes",
+        "b": "Que el infractor sea reincidente",
+        "c": "Que la sanción sea muy grave",
+        "d": "Prueba en contrario"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 52 atribuye a estas denuncias y actas valor probatorio suficiente, salvo prueba en contrario, sin perjuicio de aportar los demás elementos probatorios disponibles.",
+      "ley": "LO 4/2015, art. 52"
+    },
+    {
+      "id": "tema_13_test_05_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 53.3 de la LO 4/2015, las sanciones pecuniarias no abonadas previamente deberán hacerse efectivas dentro de los siguientes días, desde la firmeza de la sanción:",
+      "options": {
+        "a": "Treinta días",
+        "b": "Quince días",
+        "c": "Veinte días",
+        "d": "Diez días"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 53.3 fija un plazo de quince días desde la firmeza de la sanción para hacer efectivo el pago de las sanciones pecuniarias.",
+      "ley": "LO 4/2015, art. 53"
+    },
+    {
+      "id": "tema_13_test_05_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 53.2 de la LO 4/2015, el cumplimiento de la sanción de suspensión de licencias, autorizaciones o permisos se iniciará transcurrido:",
+      "options": {
+        "a": "Un mes desde que la sanción haya adquirido firmeza en vía administrativa",
+        "b": "Inmediatamente desde la notificación de la propuesta de resolución",
+        "c": "Quince días desde la presentación de alegaciones",
+        "d": "Un año desde la comisión de la infracción"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 53.2 establece que la suspensión de licencias se inicia transcurrido un mes desde la firmeza de la sanción en vía administrativa.",
+      "ley": "LO 4/2015, art. 53"
+    },
+    {
+      "id": "tema_13_test_05_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Según el artículo 54.2 de la LO 4/2015, el procedimiento sancionador abreviado no será de aplicación a:",
+      "options": {
+        "a": "Ninguna infracción, siendo siempre aplicable",
+        "b": "Las infracciones leves",
+        "c": "Las infracciones graves cometidas por reincidentes",
+        "d": "Las infracciones muy graves"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 54.2 excluye expresamente las infracciones muy graves del ámbito de aplicación del procedimiento sancionador abreviado.",
+      "ley": "LO 4/2015, art. 54"
+    },
+    {
+      "id": "tema_13_test_05_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 54.3 de la LO 4/2015, el pago voluntario de la multa dentro del plazo de quince días, en el procedimiento abreviado, conlleva una reducción del importe de la sanción de:",
+      "options": {
+        "a": "El 50%",
+        "b": "El 25%",
+        "c": "El 75%",
+        "d": "El 10%"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 54.3 reconoce una reducción del 50% del importe de la multa cuando se realice el pago voluntario dentro del plazo de quince días.",
+      "ley": "LO 4/2015, art. 54"
+    }
+  ]
+}

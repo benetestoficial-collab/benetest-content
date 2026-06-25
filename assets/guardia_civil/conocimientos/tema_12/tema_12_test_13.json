@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 13",
+  "preguntas": [
+    {
+      "id": "tema_12_test_13_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La expulsión podrá aplicarse, en lugar de la sanción de multa, en atención al principio de:",
+      "options": {
+        "a": "Igualdad de trato entre todas las nacionalidades sin distinción de gravedad",
+        "b": "Reciprocidad con el país de origen del extranjero infractor concreto",
+        "c": "Oportunidad política valorada discrecionalmente por cada Delegación de Gobierno",
+        "d": "Proporcionalidad, previa tramitación del correspondiente expediente y resolución motivada"
+      },
+      "correct": "d",
+      "explicacion": "Podrá aplicarse, en atención al principio de proporcionalidad, en lugar de la sanción de multa, la expulsión del territorio español, previa la tramitación del correspondiente expediente administrativo y mediante resolución motivada que valore los hechos que configuran la infracción.",
+      "ley": "Artículo 57.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Constituirá causa de expulsión, previa tramitación del expediente correspondiente, que el extranjero haya sido condenado, dentro o fuera de España, por una conducta dolosa que constituya en nuestro país delito sancionado con:",
+      "options": {
+        "a": "Cualquier pena, incluida la de multa, con independencia de su cuantía o duración",
+        "b": "Pena privativa de libertad inferior a seis meses, exclusivamente, sin importar otras circunstancias",
+        "c": "Pena privativa de libertad superior a un año, salvo que los antecedentes penales hubieran sido cancelados",
+        "d": "Inhabilitación profesional, sin que sea relevante la existencia de pena privativa de libertad"
+      },
+      "correct": "c",
+      "explicacion": "Constituirá causa de expulsión que el extranjero haya sido condenado, dentro o fuera de España, por una conducta dolosa que constituya en España delito sancionado con pena privativa de libertad superior a un año, salvo que los antecedentes penales hubieran sido cancelados.",
+      "ley": "Artículo 57.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En relación con las sanciones de expulsión y multa, la ley establece que:",
+      "options": {
+        "a": "Solo pueden imponerse conjuntamente si el infractor presta su consentimiento expreso",
+        "b": "La multa se impone primero y, transcurrido un año, se añade la expulsión",
+        "c": "En ningún caso podrán imponerse conjuntamente",
+        "d": "Deben imponerse siempre de forma conjunta cuando concurra infracción muy grave"
+      },
+      "correct": "c",
+      "explicacion": "En ningún caso podrán imponerse conjuntamente las sanciones de expulsión y multa, debiendo la autoridad competente optar por una u otra en función del principio de proporcionalidad y las circunstancias del caso concreto.",
+      "ley": "Artículo 57.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La expulsión conllevará, en todo caso:",
+      "options": {
+        "a": "La obligación de indemnizar económicamente al Estado español por los gastos del expediente",
+        "b": "La pérdida automática de la nacionalidad de origen del extranjero expulsado, sin excepción",
+        "c": "La imposibilidad permanente de solicitar protección internacional en cualquier momento futuro",
+        "d": "La extinción de cualquier autorización para permanecer legalmente en España y el archivo de cualquier procedimiento sobre autorización de residencia o trabajo"
+      },
+      "correct": "d",
+      "explicacion": "La expulsión conllevará, en todo caso, la extinción de cualquier autorización para permanecer legalmente en España, así como el archivo de cualquier procedimiento que tuviera por objeto la autorización para residir o trabajar del extranjero expulsado, sin perjuicio de su posible revocación reglamentaria.",
+      "ley": "Artículo 57.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La sanción de expulsión, salvo excepciones específicas previstas en la ley, no podrá ser impuesta a:",
+      "options": {
+        "a": "Cualquier extranjero que acredite haber trabajado en España al menos un mes",
+        "b": "Quienes hayan presentado cualquier tipo de recurso administrativo previo en su expediente",
+        "c": "Los extranjeros menores de treinta años, sin distinción de su situación administrativa",
+        "d": "Los nacidos en España que hayan residido legalmente en los últimos 5 años"
+      },
+      "correct": "d",
+      "explicacion": "La sanción de expulsión no podrá ser impuesta, salvo en supuestos cualificados como seguridad nacional o reincidencia grave, a determinados colectivos protegidos, entre ellos los nacidos en España que hayan residido legalmente en los últimos 5 años.",
+      "ley": "Artículo 57.5.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Antes de adoptar la decisión de expulsar a un residente de larga duración, deberá tomarse en consideración:",
+      "options": {
+        "a": "El tiempo de su residencia en España, los vínculos creados, su edad, las consecuencias para él y su familia, y los vínculos con el país de destino",
+        "b": "Únicamente el saldo de su cuenta bancaria en territorio español en el momento de la decisión",
+        "c": "Exclusivamente el número de denuncias previas presentadas contra él, sin valorar otras circunstancias",
+        "d": "Solo si dispone de vivienda en propiedad situada dentro del territorio español"
+      },
+      "correct": "a",
+      "explicacion": "Antes de adoptar la decisión de la expulsión de un residente de larga duración, deberá tomarse en consideración el tiempo de su residencia en España y los vínculos creados, su edad, las consecuencias para el interesado y para los miembros de su familia, y los vínculos con el país al que va a ser expulsado.",
+      "ley": "Artículo 57.5.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Tampoco se podrá imponer o ejecutar la sanción de expulsión al cónyuge de un extranjero protegido que haya residido legalmente en España durante más de:",
+      "options": {
+        "a": "1 año, siempre que el matrimonio se hubiera celebrado fuera de territorio español",
+        "b": "6 meses, sin necesidad de que existan hijos o ascendientes a cargo del cónyuge",
+        "c": "2 años, ni a sus ascendientes e hijos menores o con discapacidad a su cargo",
+        "d": "10 años, exigiéndose adicionalmente la acreditación de nacionalidad española de los hijos"
+      },
+      "correct": "c",
+      "explicacion": "Tampoco se podrá imponer o ejecutar la sanción de expulsión al cónyuge del extranjero protegido que haya residido legalmente en España durante más de 2 años, ni a sus ascendientes e hijos menores, o mayores con discapacidad que no sean capaces de proveer a sus propias necesidades y estén a su cargo.",
+      "ley": "Artículo 57.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La expulsión no podrá ser ejecutada cuando esta conculcase el principio de no devolución, o afecte a:",
+      "options": {
+        "a": "Cualquier extranjero mayor de sesenta años, con independencia de su estado de salud concreto",
+        "b": "Extranjeros que hayan residido en España durante un período inferior a seis meses",
+        "c": "Personas que acrediten estudios universitarios homologados en territorio español",
+        "d": "Mujeres embarazadas, cuando la medida pueda suponer un riesgo para la gestación o la salud de la madre"
+      },
+      "correct": "d",
+      "explicacion": "La expulsión no podrá ser ejecutada cuando esta conculcase el principio de no devolución, o afecte a las mujeres embarazadas, cuando la medida pueda suponer un riesgo para la gestación o la salud de la madre, estableciéndose así dos límites materiales a la ejecutividad de la expulsión.",
+      "ley": "Artículo 57.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando el extranjero se encuentre procesado o imputado en un procedimiento judicial por un delito de pena inferior a 6 años, y conste este hecho en el expediente de expulsión, el Juez, previa audiencia del Ministerio Fiscal, deberá:",
+      "options": {
+        "a": "Trasladar el asunto al Tribunal Supremo para que decida en única instancia sobre la expulsión",
+        "b": "Autorizar la expulsión en el plazo más breve posible, no superior a tres días, salvo que aprecie motivadamente circunstancias que justifiquen la denegación",
+        "c": "Denegar siempre la autorización mientras no concluya el proceso penal correspondiente",
+        "d": "Suspender indefinidamente el expediente de expulsión hasta sentencia firme en el proceso penal"
+      },
+      "correct": "b",
+      "explicacion": "Cuando el extranjero se encuentre procesado o imputado por un delito con pena privativa de libertad inferior a 6 años, en el plazo más breve posible y no superior a tres días, el Juez, previa audiencia del Ministerio Fiscal, autorizará la expulsión, salvo que de forma motivada aprecie circunstancias que justifiquen su denegación.",
+      "ley": "Artículo 57.7.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las previsiones sobre autorización judicial de expulsión de procesados no se aplican cuando se trate de delitos tipificados en los artículos 312.1, 313.1 y 318 bis del Código Penal, relativos a:",
+      "options": {
+        "a": "Tráfico ilegal de mano de obra, simulación de emigración mediante engaño, y ayuda a entrada o permanencia irregular en España",
+        "b": "Delitos contra la propiedad intelectual e industrial, sin relación con la situación migratoria del afectado",
+        "c": "Delitos fiscales relacionados exclusivamente con el impago de tasas de extranjería",
+        "d": "Delitos contra el honor y la intimidad cometidos a través de redes sociales"
+      },
+      "correct": "a",
+      "explicacion": "No serán de aplicación las previsiones sobre autorización judicial cuando se trate de delitos tipificados en los artículos 312.1 (tráfico ilegal de mano de obra), 313.1 (favorecer la emigración simulando contrato o mediante engaño) y 318 bis (ayudar a la entrada o permanencia irregular) del Código Penal.",
+      "ley": "Artículo 57.7.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando los extranjeros hayan sido condenados por los delitos de los artículos 312.1, 313.1 y 318 bis del Código Penal, la expulsión se llevará a efecto:",
+      "options": {
+        "a": "Nunca, al quedar excluida la expulsión para estos tipos delictivos específicos",
+        "b": "Inmediatamente tras dictarse sentencia firme, sin esperar al cumplimiento de la condena",
+        "c": "Solo si el penado solicita expresamente acogerse al procedimiento de expulsión anticipada",
+        "d": "Una vez cumplida la pena privativa de libertad"
+      },
+      "correct": "d",
+      "explicacion": "Cuando los extranjeros, residentes o no, hayan sido condenados por conductas tipificadas como delitos en los artículos 312.1, 313.1 y 318 bis del Código Penal, la expulsión se llevará a efecto una vez cumplida la pena privativa de libertad impuesta.",
+      "ley": "Artículo 57.8 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La resolución de expulsión deberá ser notificada al interesado, con indicación de:",
+      "options": {
+        "a": "El nombre completo del funcionario instructor del expediente, sin más información procesal",
+        "b": "Únicamente la fecha exacta en que se ejecutará materialmente la expulsión acordada",
+        "c": "Los recursos que contra la misma se puedan interponer, órgano ante el que presentarlos y plazo para hacerlo",
+        "d": "La cuantía económica que el interesado deberá abonar por los gastos del procedimiento"
+      },
+      "correct": "c",
+      "explicacion": "La resolución de expulsión deberá ser notificada al interesado, con indicación de los recursos que contra la misma se puedan interponer, órgano ante el que hubieran de presentarse y plazo para presentarlos, en garantía de su derecho de defensa.",
+      "ley": "Artículo 57.9 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La expulsión de un residente de larga duración de otro Estado miembro de la UE que se encuentre en España solo podrá efectuarse fuera del territorio de la Unión cuando la infracción sea de las específicamente previstas en la ley, debiendo además:",
+      "options": {
+        "a": "Obtenerse el consentimiento expreso y escrito del propio extranjero afectado por la expulsión",
+        "b": "Consultarse al respecto a las Autoridades competentes de dicho Estado miembro de forma previa a la decisión de expulsión",
+        "c": "Esperar a que transcurran al menos cinco años desde que adquirió la residencia de larga duración",
+        "d": "Tramitar previamente un procedimiento penal completo, aunque los hechos sean meramente administrativos"
+      },
+      "correct": "b",
+      "explicacion": "Cuando proceda expulsar fuera del territorio de la Unión a un residente de larga duración de otro Estado miembro, por darse alguna de las infracciones específicamente previstas, deberá consultarse a las Autoridades competentes de dicho Estado miembro de forma previa a la adopción de la decisión de expulsión.",
+      "ley": "Artículo 57.10 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando España decida expulsar a un residente de larga duración beneficiario de protección internacional reconocida por otro Estado miembro, las autoridades españolas solicitarán información sobre la vigencia de dicha protección, debiendo dicha solicitud ser respondida en el plazo de:",
+      "options": {
+        "a": "Tres días, plazo idéntico al de autorización judicial de expulsión de procesados",
+        "b": "Un mes, entendiéndose, en caso contrario, que la protección internacional sigue vigente",
+        "c": "Una semana, entendiéndose en caso contrario que la protección ha quedado extinguida",
+        "d": "Seis meses, sin previsión legal alguna sobre los efectos del silencio del Estado consultado"
+      },
+      "correct": "b",
+      "explicacion": "Las autoridades españolas solicitarán a las autoridades del Estado miembro que reconoció la protección internacional información sobre si dicha condición continúa vigente, debiendo ser respondida en el plazo de un mes, entendiéndose, en caso contrario, que la protección internacional sigue vigente.",
+      "ley": "Artículo 57.11 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye conducta grave susceptible de dar lugar a expulsión, junto con las infracciones muy graves, entre otras:",
+      "options": {
+        "a": "El incumplimiento de medidas de seguridad pública relativas a presentación periódica o alejamiento de fronteras o núcleos de población",
+        "b": "El simple cambio de domicilio sin comunicación inmediata a las autoridades competentes",
+        "c": "La asistencia a manifestaciones de carácter político organizadas en territorio español",
+        "d": "Cualquier retraso inferior a un mes en la solicitud de renovación de la autorización de residencia"
+      },
+      "correct": "a",
+      "explicacion": "Podrá aplicarse la expulsión, en lugar de multa, cuando los infractores realicen conductas muy graves o determinadas conductas graves expresamente enumeradas, entre ellas el incumplimiento de medidas de seguridad pública de presentación periódica o alejamiento de fronteras o núcleos de población.",
+      "ley": "Artículo 57.1.d) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En el caso de las infracciones de irregularidad o falta de autorización de trabajo, si el extranjero fuese titular de una autorización de residencia válida expedida por otro Estado miembro, salvo razones de orden público o seguridad nacional, se le advertirá:",
+      "options": {
+        "a": "Mediante diligencia en el pasaporte, de la obligación de dirigirse de inmediato al territorio de dicho Estado, tramitándose el expediente de expulsión si no cumpliese esa advertencia",
+        "b": "De la obligación de abonar una sanción económica equivalente al doble de la multa ordinaria",
+        "c": "De su derecho a permanecer en España indefinidamente sin más trámite ni consecuencia administrativa",
+        "d": "De que dispone de un plazo de cinco años para regularizar su situación en territorio español"
+      },
+      "correct": "a",
+      "explicacion": "En el caso de las infracciones de irregularidad o falta de autorización de trabajo, salvo razones de orden público o seguridad nacional, si el extranjero fuese titular de autorización de residencia válida en otro Estado miembro, se le advertirá mediante diligencia en el pasaporte de la obligación de dirigirse de inmediato a dicho Estado; si no lo cumpliese, se tramitará el expediente de expulsión.",
+      "ley": "Artículo 57.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La sanción de expulsión sí podrá imponerse a los colectivos especialmente protegidos cuando la infracción cometida sea:",
+      "options": {
+        "a": "Encontrarse trabajando sin autorización cuando se cuenta con residencia temporal vigente",
+        "b": "Participar en actividades contrarias a la seguridad nacional, o suponer reincidencia en el plazo de un año de una infracción de la misma naturaleza sancionable con expulsión",
+        "c": "Cualquier infracción leve relacionada con el retraso en la comunicación de cambio de domicilio",
+        "d": "El simple incumplimiento de la obligación de obtener la tarjeta de identidad de extranjero"
+      },
+      "correct": "b",
+      "explicacion": "La sanción de expulsión no podrá ser impuesta a los colectivos protegidos, salvo que la infracción cometida sea participar en actividades contrarias a la seguridad nacional o suponga reincidencia, en el término de un año, de una infracción de la misma naturaleza sancionable con expulsión.",
+      "ley": "Artículo 57.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Entre los colectivos a los que no podrá imponerse la sanción de expulsión, salvo excepciones tasadas, se encuentran quienes sean beneficiarios de:",
+      "options": {
+        "a": "Una beca de estudios concedida por una universidad pública española durante el curso vigente",
+        "b": "Una prestación por incapacidad permanente para el trabajo derivada de accidente laboral o enfermedad profesional ocurridos en España, o prestación contributiva por desempleo",
+        "c": "Un préstamo hipotecario concedido por una entidad bancaria con sede en territorio español",
+        "d": "Cualquier ayuda económica puntual concedida por una entidad benéfica de carácter privado"
+      },
+      "correct": "b",
+      "explicacion": "Entre los colectivos protegidos frente a la expulsión se encuentran quienes sean beneficiarios de una prestación por incapacidad permanente para el trabajo como consecuencia de accidente de trabajo o enfermedad profesional ocurridos en España, así como quienes perciban prestación contributiva por desempleo o prestación asistencial de inserción social o laboral.",
+      "ley": "Artículo 57.5.d) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El juez, a instancias del interesado y previa audiencia del Ministerio Fiscal, podrá autorizar:",
+      "options": {
+        "a": "La concesión automática de un indulto particular vinculado a la situación migratoria del afectado",
+        "b": "Solo la suspensión indefinida del proceso penal mientras dure la tramitación de la expulsión",
+        "c": "La salida del extranjero del territorio español en la forma que determina la Ley de Enjuiciamiento Criminal",
+        "d": "Únicamente el traslado del extranjero a un centro penitenciario distinto al de origen"
+      },
+      "correct": "c",
+      "explicacion": "No obstante la regla general sobre autorización judicial para la expulsión de procesados, el juez podrá autorizar, a instancias del interesado y previa audiencia del Ministerio Fiscal, la salida del extranjero del territorio español en la forma que determina la Ley de Enjuiciamiento Criminal.",
+      "ley": "Artículo 57.7.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_13_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Si no se reúnen los requisitos para que la expulsión de un residente de larga duración de otro Estado miembro se realice fuera del territorio de la Unión, dicha expulsión:",
+      "options": {
+        "a": "Se efectuará al Estado miembro en el que se reconoció la residencia de larga duración",
+        "b": "Se sustituye automáticamente por una sanción de multa de cuantía máxima legal",
+        "c": "Queda completamente excluida, sin posibilidad de ejecutar ninguna medida de expulsión",
+        "d": "Se traslada al país de origen de la nacionalidad del extranjero, con independencia de la UE"
+      },
+      "correct": "a",
+      "explicacion": "En caso de no reunirse los requisitos para que la expulsión se realice fuera del territorio de la Unión Europea, la misma se efectuará al Estado miembro en el que se reconoció la residencia de larga duración, manteniendo así al extranjero dentro del espacio de la Unión.",
+      "ley": "Artículo 57.10 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

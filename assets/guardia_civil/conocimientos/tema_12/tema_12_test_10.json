@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 10",
+  "preguntas": [
+    {
+      "id": "tema_12_test_10_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye el hecho imponible de las tasas:",
+      "options": {
+        "a": "El simple hecho de residir en territorio español, con independencia de cualquier trámite documental",
+        "b": "La tramitación de las autorizaciones administrativas y documentos de identidad de la ley, así como sus prórrogas y renovaciones",
+        "c": "La mera entrada en territorio español por un puesto fronterizo habilitado al efecto",
+        "d": "La inscripción voluntaria en el padrón municipal del lugar de residencia habitual"
+      },
+      "correct": "b",
+      "explicacion": "Constituye el hecho imponible de las tasas la tramitación de las autorizaciones administrativas y de los documentos de identidad previstos en la ley, así como de sus prórrogas, modificaciones y renovaciones, incluyendo estancia, residencia, trabajo, tarjetas y visados.",
+      "ley": "Artículo 44.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. No constituye hecho imponible de la tasa la tramitación de autorizaciones de trabajo cuando estas se refieran a:",
+      "options": {
+        "a": "Contratos firmados directamente en territorio nacional por el propio trabajador",
+        "b": "Profesiones que exijan titulación universitaria homologada previamente en España",
+        "c": "Trabajadores de cualquier nacionalidad iberoamericana, sin importar la duración pactada",
+        "d": "Un período inferior a seis meses"
+      },
+      "correct": "d",
+      "explicacion": "Constituye hecho imponible la tramitación de autorizaciones de trabajo, salvo que se trate de autorizaciones para un período inferior a seis meses, que quedan así excluidas de este concreto supuesto generador de la tasa.",
+      "ley": "Artículo 44.2.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las tasas se devengarán, con carácter general:",
+      "options": {
+        "a": "Únicamente tras la primera nómina percibida por el trabajador extranjero contratado",
+        "b": "Cuando se solicite la autorización, la prórroga, la modificación, la renovación, o el visado",
+        "c": "En el momento exacto en que se concede definitivamente la autorización solicitada",
+        "d": "Al finalizar el plazo de vigencia de la autorización, junto con su renovación"
+      },
+      "correct": "b",
+      "explicacion": "Las tasas se devengarán cuando se solicite la autorización, la prórroga, la modificación, la renovación, o el visado, vinculándose así el devengo al momento de la solicitud y no al de la resolución administrativa.",
+      "ley": "Artículo 45.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En las autorizaciones de residencia y trabajo a favor de trabajadores de servicio doméstico de carácter parcial o discontinuo, el devengo de la tasa se producirá:",
+      "options": {
+        "a": "El mismo día en que se presenta la solicitud inicial ante el organismo competente",
+        "b": "En el momento de afiliación y/o alta del trabajador en la Seguridad Social",
+        "c": "Tras la primera mensualidad completa de salario abonada al trabajador",
+        "d": "En el momento exacto de la firma del contrato laboral correspondiente"
+      },
+      "correct": "b",
+      "explicacion": "En los casos de autorización de residencia y trabajo por cuenta ajena a favor de trabajadores de servicio doméstico de carácter parcial o discontinuo, el devengo de la tasa se producirá en el momento de afiliación y/o alta del trabajador en la Seguridad Social, en lugar del momento de la solicitud.",
+      "ley": "Artículo 45.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Serán sujetos pasivos de las tasas, con carácter general:",
+      "options": {
+        "a": "Siempre el empleador, con independencia del tipo de autorización tramitada en cada caso concreto",
+        "b": "El consulado o misión diplomática que tramita la solicitud en nombre del interesado",
+        "c": "Los solicitantes de visado y las personas a cuyo favor se concedan las autorizaciones o se expidan los documentos previstos en la ley",
+        "d": "Exclusivamente las Comunidades Autónomas con competencias en materia de trabajo"
+      },
+      "correct": "c",
+      "explicacion": "Serán sujetos pasivos de las tasas los solicitantes de visado y las personas en cuyo favor se concedan las autorizaciones o se expidan los documentos previstos en el artículo 44, salvo en las autorizaciones de trabajo por cuenta ajena, en cuyo caso será sujeto pasivo el empleador o empresario.",
+      "ley": "Artículo 46.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En las autorizaciones de trabajo por cuenta ajena del servicio doméstico de carácter parcial o discontinuo, el sujeto pasivo de la tasa será:",
+      "options": {
+        "a": "El Ayuntamiento del domicilio donde se preste el servicio doméstico contratado",
+        "b": "Siempre el empleador, sin ninguna excepción aplicable a este sector concreto",
+        "c": "El propio trabajador, como excepción a la regla general que designa al empleador",
+        "d": "La empresa de trabajo temporal que gestionó la contratación correspondiente"
+      },
+      "correct": "c",
+      "explicacion": "El sujeto pasivo de las tasas en autorizaciones de trabajo por cuenta ajena es el empleador o empresario, excepto en el supuesto de relaciones laborales en el sector del servicio doméstico de carácter parcial o discontinuo, en que lo será el propio trabajador.",
+      "ley": "Artículo 46.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Todo pacto por el que el trabajador por cuenta ajena asuma la obligación de pagar el importe de las tasas que correspondan al empleador:",
+      "options": {
+        "a": "Solo es nulo si el trabajador es menor de edad en el momento de la firma",
+        "b": "Es plenamente válido siempre que conste por escrito y firma de ambas partes",
+        "c": "Requiere únicamente la aprobación previa de la autoridad laboral competente",
+        "d": "Será nulo"
+      },
+      "correct": "d",
+      "explicacion": "Será nulo todo pacto por el que el trabajador por cuenta ajena asuma la obligación de pagar en todo o en parte el importe de las tasas establecidas, protegiendo así al trabajador frente a la traslación indebida de esta carga económica.",
+      "ley": "Artículo 46.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. No vendrán obligados al pago de tasas por la concesión de autorizaciones para trabajar, entre otros colectivos:",
+      "options": {
+        "a": "Todos los menores extranjeros, sin distinción de nacionalidad ni de tipo de autorización",
+        "b": "Los nacionales iberoamericanos, filipinos, andorranos, ecuatoguineanos y los sefardíes",
+        "c": "Cualquier extranjero que acredite cinco años de residencia legal continuada en España",
+        "d": "Los nacionales de cualquier país con embajada permanente abierta en territorio español"
+      },
+      "correct": "b",
+      "explicacion": "No vendrán obligados al pago de las tasas por la concesión de autorizaciones para trabajar los nacionales iberoamericanos, filipinos, andorranos, ecuatoguineanos, los sefardíes, los hijos y nietos de español de origen, y los extranjeros nacidos en España para actividad por cuenta propia.",
+      "ley": "Artículo 47 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las entidades públicas de protección de menores, respecto de las autorizaciones que solicitan en representación legal de los menores tutelados:",
+      "options": {
+        "a": "Estarán exentas del pago de las tasas derivadas de dichas autorizaciones",
+        "b": "Deberán abonar la tasa íntegra, sin posibilidad de exención específica por esta condición",
+        "c": "Solo quedan exentas si el menor lleva tutelado más de dos años consecutivos",
+        "d": "Pagan una tasa reducida al cincuenta por ciento del importe ordinario fijado"
+      },
+      "correct": "a",
+      "explicacion": "Las entidades públicas de protección de menores estarán exentas del pago de las tasas derivadas de las autorizaciones que están obligadas a solicitar para los menores en ejercicio de la representación legal que de ellos ostentan.",
+      "ley": "Artículo 47 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En aplicación de la normativa comunitaria, quedan exentos del pago de la tasa de visados de tránsito o estancia, entre otros:",
+      "options": {
+        "a": "Los niños menores de seis años",
+        "b": "Los titulares de pasaporte diplomático de cualquier nacionalidad",
+        "c": "Cualquier persona mayor de sesenta y cinco años, sin distinción adicional",
+        "d": "Los estudiantes universitarios matriculados en cualquier centro europeo"
+      },
+      "correct": "a",
+      "explicacion": "En aplicación de la normativa comunitaria, quedarán exentos del pago de la tasa de visados de tránsito o estancia los niños menores de seis años, así como los investigadores que se desplacen con fines de investigación científica y representantes jóvenes de organizaciones sin ánimo de lucro.",
+      "ley": "Artículo 47 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El importe de las tasas se establecerá:",
+      "options": {
+        "a": "Por decisión unilateral y discrecional de cada Delegación de Gobierno provincial",
+        "b": "A través de convenio colectivo sectorial negociado con los agentes sociales",
+        "c": "Por orden ministerial de los departamentos competentes, sin perjuicio de la normativa comunitaria sobre visados",
+        "d": "Mediante ley orgánica aprobada específicamente por las Cortes Generales para cada caso"
+      },
+      "correct": "c",
+      "explicacion": "El importe de las tasas se establecerá por orden ministerial de los departamentos competentes, sin perjuicio de lo dispuesto por la normativa comunitaria en relación con los procedimientos de solicitud de visados de tránsito o estancia.",
+      "ley": "Artículo 48.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las normas que determinen la cuantía de las tasas deberán ir acompañadas de:",
+      "options": {
+        "a": "La aprobación expresa de la Comisión Europea con carácter previo a su publicación",
+        "b": "Únicamente la firma del titular del Ministerio competente, sin más documentación adicional",
+        "c": "Un informe vinculante previo emitido por el Tribunal de Cuentas en cada caso concreto",
+        "d": "Una memoria económico-financiera sobre el coste de la actividad y la justificación de la cuantía propuesta"
+      },
+      "correct": "d",
+      "explicacion": "Las normas que determinen la cuantía de las tasas deberán ir acompañadas de una memoria económico-financiera sobre el coste de la actividad de que se trate y sobre la justificación de la cuantía propuesta, ajustándose a la Ley 8/1989, de Tasas y Precios Públicos.",
+      "ley": "Artículo 48.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En todo caso, será criterio cuantitativo de las tasas:",
+      "options": {
+        "a": "El carácter individual o colectivo de las autorizaciones, prórrogas, modificaciones o renovaciones",
+        "b": "Exclusivamente la nacionalidad concreta del solicitante de cada autorización tramitada",
+        "c": "Solo el nivel de estudios acreditado por el extranjero en su país de origen",
+        "d": "Únicamente el lugar geográfico donde resida el solicitante dentro de España"
+      },
+      "correct": "a",
+      "explicacion": "En todo caso, será criterio cuantitativo de las tasas el carácter individual o colectivo de las autorizaciones, prórrogas, modificaciones o renovaciones, lo que se añade a otros criterios específicos según el tipo concreto de trámite.",
+      "ley": "Artículo 48.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En la concesión de autorizaciones de residencia, se considera elemento esencial de cuantificación de la tasa:",
+      "options": {
+        "a": "La duración de la autorización, su carácter definitivo o temporal, y si se trata de primera concesión, ulteriores concesiones o renovaciones",
+        "b": "Exclusivamente el número de viajes internacionales realizados por el solicitante durante el último año",
+        "c": "El sector de actividad económica en el que el extranjero pretenda desarrollar su carrera profesional",
+        "d": "Únicamente la edad del solicitante en el momento de presentar la solicitud correspondiente"
+      },
+      "correct": "a",
+      "explicacion": "En la concesión de autorizaciones de residencia se considera elemento esencial de cuantificación la duración de la autorización, así como su carácter definitivo o temporal, y dentro de estas últimas, si se trata de la primera o ulteriores concesiones o sus renovaciones.",
+      "ley": "Artículo 48.3.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los importes de las tasas por tramitación de la solicitud de visado se acomodarán, además de a la revisión por derecho comunitario, al importe que pueda establecerse por:",
+      "options": {
+        "a": "El tipo de cambio de divisas vigente en el momento de presentar la solicitud",
+        "b": "Decisión adoptada anualmente por cada Comunidad Autónoma de forma independiente",
+        "c": "Aplicación del principio de reciprocidad",
+        "d": "Aplicación exclusiva del criterio de capacidad económica del solicitante concreto"
+      },
+      "correct": "c",
+      "explicacion": "Los importes de las tasas por tramitación de la solicitud de visado se adecuarán a la revisión que proceda por aplicación del derecho comunitario, y se acomodarán asimismo al importe que pueda establecerse por aplicación del principio de reciprocidad con el país de origen del solicitante.",
+      "ley": "Artículo 48.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La gestión y recaudación de las tasas corresponderá a:",
+      "options": {
+        "a": "Las entidades bancarias colaboradoras designadas anualmente por convenio específico",
+        "b": "Exclusivamente la Agencia Estatal de Administración Tributaria, sin intervención de otros órganos",
+        "c": "El Tribunal de Cuentas, en su función general de control del gasto público estatal",
+        "d": "Los órganos competentes para la concesión de las autorizaciones, modificaciones, renovaciones y prórrogas y la tramitación del visado"
+      },
+      "correct": "d",
+      "explicacion": "La gestión y recaudación de las tasas corresponderá a los órganos competentes para la concesión de las autorizaciones, modificaciones, renovaciones y prórrogas, la expedición de la documentación correspondiente y la tramitación de la solicitud de visado.",
+      "ley": "Artículo 49.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Los sujetos pasivos de las tasas estarán obligados a practicar operaciones de autoliquidación tributaria:",
+      "options": {
+        "a": "Solo cuando el importe de la tasa supere los quinientos euros en un único trámite",
+        "b": "Cuando así se prevea reglamentariamente, realizando el ingreso de su importe en el Tesoro",
+        "c": "Únicamente si la solicitud se presenta por medios electrónicos certificados",
+        "d": "En todo caso, sin posibilidad de que la normativa reglamentaria module esta obligación"
+      },
+      "correct": "b",
+      "explicacion": "Los sujetos pasivos de las tasas estarán obligados a practicar operaciones de autoliquidación tributaria y a realizar el ingreso de su importe en el Tesoro cuando así se prevea reglamentariamente, condicionándose por tanto esta obligación al desarrollo reglamentario correspondiente.",
+      "ley": "Artículo 49.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Se podrán establecer precios públicos por la prestación de servicios de tramitación de visados a través de:",
+      "options": {
+        "a": "Únicamente funcionarios públicos destinados en las Misiones Diplomáticas correspondientes",
+        "b": "Cualquier particular interesado que se ofrezca voluntariamente a colaborar",
+        "c": "Empresas de mensajería privadas sin ningún tipo de control administrativo previo",
+        "d": "Proveedores de servicios externos, de conformidad con la normativa aplicable"
+      },
+      "correct": "d",
+      "explicacion": "Se podrán establecer precios públicos por la prestación de servicios de tramitación de visados por parte de proveedores de servicios externos, de conformidad con la normativa aplicable, complementando así el régimen tributario de tasas con esta figura de precios públicos.",
+      "ley": "Artículo 44.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las solicitudes de visado presentadas por nacionales de terceros países beneficiarios del derecho comunitario de libre circulación y residencia:",
+      "options": {
+        "a": "Estarán exentas del pago de las tasas de tramitación",
+        "b": "Solo están exentas si el solicitante es menor de dieciocho años de edad",
+        "c": "Pagan siempre la tasa completa, sin distinción respecto del resto de solicitantes",
+        "d": "Tributan al cincuenta por ciento del importe ordinario, en todo caso"
+      },
+      "correct": "a",
+      "explicacion": "Las solicitudes de visado presentadas por nacionales de terceros países beneficiarios de derecho comunitario en materia de libre circulación y residencia estarán exentas del pago de las tasas de tramitación, en coherencia con su régimen jurídico privilegiado vinculado al régimen comunitario.",
+      "ley": "Artículo 47 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_10_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando las Comunidades Autónomas tienen traspasadas las competencias en materia de autorización inicial de trabajo, respecto del importe de las tasas correspondientes:",
+      "options": {
+        "a": "Requieren autorización previa expresa del Ministerio de Hacienda en cada actualización",
+        "b": "Mantienen siempre el mismo importe fijado a nivel estatal, sin posibilidad de variación",
+        "c": "Se regirán por la legislación correspondiente de dichas Comunidades Autónomas",
+        "d": "Quedan completamente exentas de cualquier tasa por la sola atribución competencial"
+      },
+      "correct": "c",
+      "explicacion": "El importe de las tasas se establecerá por orden ministerial de los departamentos competentes; no obstante, cuando las Comunidades Autónomas tengan traspasadas las competencias en materia de autorización inicial de trabajo, estas se regirán por la legislación correspondiente de dichas Comunidades.",
+      "ley": "Artículo 45.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

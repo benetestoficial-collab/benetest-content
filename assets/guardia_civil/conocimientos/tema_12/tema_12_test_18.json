@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 18",
+  "preguntas": [
+    {
+      "id": "tema_12_test_18_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El RD 240/2007 regula las condiciones para el ejercicio de los derechos de entrada, salida, libre circulación, estancia, residencia y trabajo en España, así como:",
+      "options": {
+        "a": "Solo el procedimiento de obtención de la nacionalidad española por residencia comunitaria",
+        "b": "Únicamente el régimen fiscal aplicable a los ciudadanos comunitarios residentes en España",
+        "c": "Las limitaciones a dichos derechos por razones de orden público, seguridad pública o salud pública",
+        "d": "Exclusivamente las condiciones de acceso al empleo público de los ciudadanos comunitarios"
+      },
+      "correct": "c",
+      "explicacion": "El RD 240/2007 regula las condiciones para el ejercicio de los derechos de entrada y salida, libre circulación, estancia, residencia, residencia permanente y trabajo en España de ciudadanos de la UE y del EEE, así como las limitaciones a dichos derechos por razones de orden público, seguridad pública o salud pública.",
+      "ley": "Artículo 1.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El RD 240/2007 se aplica también, cualquiera que sea su nacionalidad, a los familiares del ciudadano de la Unión que le acompañen o se reúnan con él, entre ellos:",
+      "options": {
+        "a": "Únicamente sus hermanos mayores de edad, con independencia de su situación de dependencia económica",
+        "b": "Cualquier amigo cercano del ciudadano comunitario, sin necesidad de acreditar vínculo familiar o de pareja",
+        "c": "Solo sus empleados domésticos contratados en su país de origen antes del desplazamiento a España",
+        "d": "Su cónyuge, siempre que no haya recaído acuerdo o declaración de nulidad del vínculo matrimonial o divorcio"
+      },
+      "correct": "d",
+      "explicacion": "El RD 240/2007 se aplica también a los familiares del ciudadano de la Unión, entre ellos su cónyuge, siempre que no haya recaído el acuerdo o la declaración de nulidad del vínculo matrimonial o divorcio, así como a la pareja registrada, descendientes y ascendientes en los términos previstos.",
+      "ley": "Artículo 2 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las situaciones de matrimonio e inscripción como pareja registrada del familiar de ciudadano de la Unión:",
+      "options": {
+        "a": "Pueden coexistir simultáneamente sin ninguna restricción legal específica al respecto",
+        "b": "Se considerarán, en todo caso, incompatibles entre sí",
+        "c": "Solo son incompatibles si ambas relaciones se hubieran inscrito en el mismo Estado miembro",
+        "d": "La incompatibilidad solo opera si el matrimonio se celebró con posterioridad a la inscripción registral"
+      },
+      "correct": "b",
+      "explicacion": "Las situaciones de matrimonio y de inscripción como pareja registrada se considerarán, en todo caso, incompatibles entre sí, por lo que un mismo ciudadano de la Unión no puede acumular ambas condiciones respecto de personas distintas a efectos del RD 240/2007.",
+      "ley": "Artículo 2.b) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En relación con otros familiares no incluidos en el artículo 2, se entenderá acreditada la convivencia previa cuando se demuestre fehacientemente una convivencia continuada en el país de procedencia de, al menos:",
+      "options": {
+        "a": "3 meses, coincidiendo con el plazo de solicitud del certificado de registro",
+        "b": "6 meses, plazo idéntico al previsto para mantener la condición de trabajador en paro involuntario",
+        "c": "5 años, equivalente al plazo general para adquirir la residencia permanente comunitaria",
+        "d": "24 meses"
+      },
+      "correct": "d",
+      "explicacion": "Para valorar la dependencia o convivencia de otros familiares no incluidos en el artículo 2, en todo caso se entenderá acreditada la convivencia cuando se demuestre fehacientemente una convivencia continuada de 24 meses en el país de procedencia.",
+      "ley": "Artículo 2 bis.4.a) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Para considerar acreditada una pareja de hecho estable a efectos del artículo 2 bis, se entenderá la existencia de vínculo duradero si se acredita un tiempo de convivencia marital de al menos un año continuado, salvo que:",
+      "options": {
+        "a": "Tuvieran descendencia en común, en cuyo caso bastará la acreditación de convivencia estable debidamente probada",
+        "b": "Uno de los miembros de la pareja sea menor de veinticinco años en el momento de la solicitud",
+        "c": "La relación se hubiera iniciado con posterioridad a la entrada del ciudadano de la Unión en España",
+        "d": "Residan en distintos domicilios dentro del mismo Estado miembro de procedencia"
+      },
+      "correct": "a",
+      "explicacion": "Se considerará pareja estable aquella que acredite la existencia de un vínculo duradero, entendiéndose este si se acredita convivencia marital de al menos un año continuado, salvo que tuvieran descendencia en común, en cuyo caso bastará la acreditación de convivencia estable debidamente probada.",
+      "ley": "Artículo 2 bis.4.b) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las personas incluidas en el ámbito del RD 240/2007 tienen derecho a acceder a cualquier actividad, por cuenta ajena o propia, prestación de servicios o estudios:",
+      "options": {
+        "a": "En las mismas condiciones que los españoles, sin perjuicio de la limitación del artículo 39.4 del Tratado Constitutivo de la Comunidad Europea",
+        "b": "Exclusivamente tras la obtención previa de la tarjeta de residencia permanente comunitaria",
+        "c": "Solo en sectores económicos específicamente abiertos a ciudadanos comunitarios por convenio bilateral",
+        "d": "Únicamente si acreditan previamente un nivel mínimo de idioma español certificado oficialmente"
+      },
+      "correct": "a",
+      "explicacion": "Las personas incluidas en el ámbito de aplicación del RD 240/2007 tienen derecho a acceder a cualquier actividad, tanto por cuenta ajena como por cuenta propia, prestación de servicios o estudios, en las mismas condiciones que los españoles, sin perjuicio de la limitación del artículo 39.4 del Tratado constitutivo de la Comunidad Europea relativa al empleo en la administración pública.",
+      "ley": "Artículo 3.2 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los titulares de los derechos del RD 240/2007 que pretendan permanecer o fijar su residencia en España durante más de 3 meses estarán obligados a:",
+      "options": {
+        "a": "Solicitar un certificado de registro o una tarjeta de residencia de familiar de ciudadano de la Unión",
+        "b": "Acreditar conocimiento del idioma oficial de la Comunidad Autónoma donde pretendan residir",
+        "c": "Inscribirse en el censo electoral del municipio donde fijen su residencia habitual de forma obligatoria",
+        "d": "Obtener previamente un visado de larga duración expedido por la misión diplomática española correspondiente"
+      },
+      "correct": "a",
+      "explicacion": "Los titulares de los derechos a entrar, salir, circular y residir que pretendan permanecer o fijar su residencia en España durante más de 3 meses estarán obligados a solicitar un certificado de registro o una tarjeta de residencia de familiar de ciudadano de la Unión, según el procedimiento establecido.",
+      "ley": "Artículo 3.3 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Todos los ciudadanos de la Unión que residan en España conforme al RD 240/2007 gozarán de igualdad de trato respecto de los ciudadanos españoles, extendiéndose este derecho también a:",
+      "options": {
+        "a": "Únicamente a los familiares directos que ostenten nacionalidad de algún Estado miembro de la Unión Europea",
+        "b": "Solo a quienes hayan adquirido previamente la nacionalidad española por residencia continuada",
+        "c": "Exclusivamente al cónyuge del ciudadano comunitario, con exclusión del resto de familiares reconocidos",
+        "d": "Los miembros de la familia sin nacionalidad de un Estado miembro que sean beneficiarios del derecho de residencia o residencia permanente"
+      },
+      "correct": "d",
+      "explicacion": "Todos los ciudadanos de la Unión que residan en España gozarán de igualdad de trato respecto de los ciudadanos españoles, extendiendo este derecho sus efectos a los miembros de la familia que no tengan nacionalidad de un Estado miembro, beneficiarios del derecho de residencia o de residencia permanente.",
+      "ley": "Artículo 3.4 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La entrada en territorio español del ciudadano de la Unión se efectuará con:",
+      "options": {
+        "a": "Exclusivamente el carné de conducir comunitario, sin necesidad de pasaporte ni documento de identidad",
+        "b": "Únicamente el certificado de registro que previamente debe haber obtenido en su país de origen",
+        "c": "El pasaporte o documento de identidad válido y en vigor en el que conste su nacionalidad",
+        "d": "Solo la tarjeta de residencia permanente, sin posibilidad de utilizar otro documento identificativo"
+      },
+      "correct": "c",
+      "explicacion": "La entrada en territorio español del ciudadano de la Unión se efectuará con el pasaporte o documento de identidad válido y en vigor y en el que conste la nacionalidad del titular, sin que se le pueda exigir ningún otro documento adicional para acceder al territorio.",
+      "ley": "Artículo 4.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La posesión de la tarjeta de residencia de familiar de ciudadano de la Unión, válida y en vigor, expedida por otro Estado del EEE, eximirá a dichos familiares de:",
+      "options": {
+        "a": "Cualquier obligación documental, pudiendo entrar en España sin pasaporte ni documento de identidad alguno",
+        "b": "La obligación de obtener el visado de entrada, sin requerirse tampoco la estampación de sello de entrada o salida en el pasaporte",
+        "c": "La necesidad de acreditar el vínculo familiar con el ciudadano de la Unión al que acompañan",
+        "d": "El cumplimiento de cualquier requisito sanitario exigido con carácter general en frontera"
+      },
+      "correct": "b",
+      "explicacion": "La posesión de la tarjeta de residencia de familiar de ciudadano de la Unión, válida y en vigor, expedida por otro Estado parte en el EEE, eximirá a dichos miembros de la familia de la obligación de obtener visado de entrada, y no se requerirá tampoco la estampación del sello de entrada o salida en el pasaporte.",
+      "ley": "Artículo 4.2 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Cualquier resolución denegatoria de una solicitud de visado o de entrada en el ámbito del RD 240/2007 deberá:",
+      "options": {
+        "a": "Ser ratificada previamente por el Tribunal de Justicia de la Unión Europea antes de su notificación al interesado",
+        "b": "Notificarse exclusivamente al consulado del país de origen, sin comunicación directa al interesado afectado",
+        "c": "Carecer de cualquier motivación expresa, al tratarse de una decisión discrecional de la autoridad de control fronterizo",
+        "d": "Ser motivada, indicando si se debe a no acreditar los requisitos exigidos o a motivos de orden público, seguridad o salud pública"
+      },
+      "correct": "d",
+      "explicacion": "Cualquier resolución denegatoria de una solicitud de visado o de entrada deberá ser motivada, indicando las razones, bien por no acreditar debidamente los requisitos exigidos, bien por motivos de orden público, seguridad o salud públicas, puestas en conocimiento del interesado salvo que sea contrario a la seguridad del Estado.",
+      "ley": "Artículo 4.3 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los ciudadanos de un Estado miembro de la Unión y los miembros de su familia tendrán derecho a salir de España para trasladarse a otro Estado miembro, con independencia de:",
+      "options": {
+        "a": "La obtención previa de autorización expresa del Estado miembro de destino al que pretendan trasladarse",
+        "b": "La presentación del pasaporte o documento de identidad en vigor para su comprobación en el puesto fronterizo, si la salida se efectúa por puesto habilitado",
+        "c": "El cumplimiento de cualquier requisito sanitario, dado que estos quedan completamente excluidos para ciudadanos de la UE",
+        "d": "Cualquier supuesto legal de prohibición de salida, que en ningún caso resulta aplicable a estos ciudadanos comunitarios"
+      },
+      "correct": "b",
+      "explicacion": "Los ciudadanos de un Estado miembro de la UE o del EEE y los miembros de su familia tendrán derecho a salir de España, con independencia de la presentación del pasaporte o documento de identidad en vigor para su comprobación si la salida se efectúa por puesto habilitado, y sin perjuicio de los supuestos legales de prohibición de salida por seguridad o salud pública.",
+      "ley": "Artículo 5 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En la situación de estancia inferior a tres meses de un ciudadano comunitario, será suficiente la posesión de pasaporte o documento de identidad en vigor, sin que dicha permanencia:",
+      "options": {
+        "a": "Se compute a los efectos derivados de la situación de residencia",
+        "b": "Habilite para el ejercicio de cualquier actividad económica, sea por cuenta propia o ajena",
+        "c": "Genere ningún derecho de acceso al sistema sanitario público español durante ese período",
+        "d": "Permita acompañar al ciudadano comunitario a ningún familiar no comunitario durante ese plazo"
+      },
+      "correct": "a",
+      "explicacion": "En los supuestos de permanencia inferior a 3 meses, cualquiera que sea su finalidad, será suficiente la posesión de pasaporte o documento de identidad en vigor en virtud del cual se haya efectuado la entrada, no computándose dicha permanencia a los efectos derivados de la situación de residencia.",
+      "ley": "Artículo 6.1 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Todo ciudadano de un Estado miembro de la UE o del EEE tiene derecho de residencia por período superior a 3 meses si, entre otros supuestos:",
+      "options": {
+        "a": "Únicamente demuestra hablar con fluidez al menos dos de las lenguas oficiales reconocidas en España",
+        "b": "Acredita exclusivamente disponer de vivienda en propiedad situada en cualquier punto del territorio español",
+        "c": "Dispone, para sí y su familia, de recursos suficientes para no ser una carga para la asistencia social, junto con un seguro de enfermedad que cubra todos los riesgos",
+        "d": "Solo presenta una declaración jurada genérica de buena conducta, sin más documentación adicional"
+      },
+      "correct": "c",
+      "explicacion": "Todo ciudadano de un Estado miembro tiene derecho de residencia superior a 3 meses si es trabajador por cuenta ajena o propia, o si dispone de recursos suficientes para sí y su familia junto con seguro de enfermedad, o si está matriculado en un centro educativo con seguro y recursos suficientes.",
+      "ley": "Artículo 7.1.b) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El ciudadano de la Unión que ya no ejerza actividad por cuenta ajena o propia mantendrá la condición de trabajador, entre otros supuestos:",
+      "options": {
+        "a": "Si su empresa traslada su sede social a otro Estado miembro distinto de España",
+        "b": "Únicamente si acredita más de diez años de cotización continuada en territorio español",
+        "c": "Si decide voluntariamente abandonar su empleo para iniciar un período de descanso prolongado",
+        "d": "Si sufre una incapacidad temporal resultante de enfermedad o accidente"
+      },
+      "correct": "d",
+      "explicacion": "El ciudadano de la Unión que ya no ejerza actividad por cuenta ajena o propia mantendrá la condición de trabajador, entre otros supuestos, si sufre incapacidad temporal resultante de enfermedad o accidente, o si queda en paro involuntario debidamente acreditado inscribiéndose en el servicio de empleo competente.",
+      "ley": "Artículo 7.3.a) del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los nacionales de un Estado miembro de la UE o del EEE estarán obligados a solicitar personalmente su inscripción en el Registro Central de Extranjeros en el plazo de:",
+      "options": {
+        "a": "1 mes, plazo idéntico al previsto para la tarjeta de identidad de extranjero del régimen general",
+        "b": "6 meses, coincidiendo con el límite de retraso admisible en la renovación de autorizaciones",
+        "c": "3 meses contados desde la fecha de entrada en España",
+        "d": "15 días, plazo equivalente al de comunicación de designación de delegado de protección de datos"
+      },
+      "correct": "c",
+      "explicacion": "Los nacionales de un Estado miembro de la UE o del EEE estarán obligados a solicitar personalmente ante la oficina de extranjeros o, en su defecto, ante la Comisaría de Policía correspondiente, su inscripción en el Registro Central de Extranjeros, en el plazo de 3 meses desde la entrada en España.",
+      "ley": "Artículo 7.5 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En lo que se refiere a medios económicos suficientes para el derecho de residencia, dicho importe:",
+      "options": {
+        "a": "Coincidirá necesariamente con el salario mínimo interprofesional vigente en el momento de la solicitud",
+        "b": "Será siempre una cantidad fija idéntica para todos los solicitantes, sin atender a la situación personal de cada caso",
+        "c": "No podrá establecerse de forma fija, no superando el nivel de recursos por debajo del cual se concede asistencia social a los españoles o el importe de la pensión mínima",
+        "d": "Se determinará exclusivamente en función del país de origen del solicitante, sin más criterio adicional"
+      },
+      "correct": "c",
+      "explicacion": "En lo que se refiere a medios económicos suficientes, no podrá establecerse un importe fijo, sino que habrá de tenerse en cuenta la situación personal del solicitante, sin que dicho importe supere el nivel de recursos por debajo del cual se concede asistencia social a los españoles o la pensión mínima de Seguridad Social.",
+      "ley": "Artículo 7.7 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La solicitud de la tarjeta de residencia de familiar de ciudadano de la Unión deberá presentarse en el plazo de:",
+      "options": {
+        "a": "3 meses desde la fecha de entrada en España",
+        "b": "15 días, plazo notablemente más breve que el previsto para el certificado de registro",
+        "c": "1 mes desde la fecha de entrada, plazo idéntico al del régimen general de extranjería",
+        "d": "6 meses, plazo doble respecto del previsto para la inscripción del propio ciudadano comunitario"
+      },
+      "correct": "a",
+      "explicacion": "La solicitud de la tarjeta de residencia de familiar de ciudadano de la Unión deberá presentarse en el plazo de tres meses desde la fecha de entrada en España, ante la Oficina de Extranjeros o, en su defecto, ante la Comisaría de Policía correspondiente.",
+      "ley": "Artículo 8.2 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La expedición de la tarjeta de residencia de familiar de ciudadano de la Unión deberá realizarse en el plazo de los 3 meses siguientes a la solicitud, teniendo la resolución favorable:",
+      "options": {
+        "a": "Efectos suspendidos hasta que se acredite el alta en la Seguridad Social del familiar solicitante",
+        "b": "Efectos retroactivos, entendiéndose vigente la situación de residencia desde la fecha acreditada de entrada en España",
+        "c": "Efectos exclusivamente desde la fecha de notificación de la resolución, sin posibilidad de retroactividad alguna",
+        "d": "Efectos condicionados a la renovación simultánea del documento del ciudadano de la Unión acompañado"
+      },
+      "correct": "b",
+      "explicacion": "La expedición de la tarjeta de residencia de familiar de ciudadano de la Unión deberá realizarse en el plazo de los 3 meses siguientes a la presentación de la solicitud. La resolución favorable tendrá efectos retroactivos, entendiéndose vigente la situación de residencia desde la fecha acreditada de entrada en España.",
+      "ley": "Artículo 8.4 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    },
+    {
+      "id": "tema_12_test_18_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La tarjeta de residencia de familiar de ciudadano de la Unión tendrá una validez de:",
+      "options": {
+        "a": "1 año, renovable anualmente mientras se mantenga el vínculo familiar correspondiente",
+        "b": "5 años a partir de su expedición, o por el período previsto de residencia del ciudadano de la Unión si fuera inferior",
+        "c": "Carácter indefinido desde su primera expedición, sin necesidad de renovación posterior alguna",
+        "d": "10 años fijos en todo caso, sin posibilidad de adaptación al período de residencia del ciudadano acompañado"
+      },
+      "correct": "b",
+      "explicacion": "La tarjeta de residencia de familiar de ciudadano de la Unión tendrá una validez de 5 años a partir de la fecha de su expedición, o por el período previsto de residencia del ciudadano de la Unión o de un Estado parte en el EEE, si dicho período fuera inferior a 5 años.",
+      "ley": "Artículo 8.5 del Real Decreto 240/2007, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea"
+    }
+  ]
+}

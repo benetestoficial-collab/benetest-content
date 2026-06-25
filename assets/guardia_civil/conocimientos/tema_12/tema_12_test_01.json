@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_12_test_01_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. A los efectos de la LO 4/2000, se consideran extranjeros:",
+      "options": {
+        "a": "Cualquier persona que resida fuera de España, aunque tenga nacionalidad española",
+        "b": "Los nacionales de países sin tratado bilateral con España",
+        "c": "Solo los ciudadanos de fuera de la Unión Europea",
+        "d": "Los que carezcan de la nacionalidad española"
+      },
+      "correct": "d",
+      "explicacion": "Se consideran extranjeros, a los efectos de la aplicación de la LO 4/2000, a los que carezcan de la nacionalidad española, criterio general que rige todo el ámbito subjetivo de la ley.",
+      "ley": "Artículo 1.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los nacionales de los Estados miembros de la Unión Europea se regirán por:",
+      "options": {
+        "a": "Las normas del régimen comunitario, aplicándoseles la LO 4/2000 solo en lo que les resulte más favorable",
+        "b": "Únicamente los tratados bilaterales firmados por su país de origen",
+        "c": "El Código Civil español en materia de capacidad de las personas",
+        "d": "Exclusivamente la LO 4/2000, en idénticas condiciones que el resto de extranjeros"
+      },
+      "correct": "a",
+      "explicacion": "Los nacionales de los Estados miembros de la Unión Europea y aquellos a quienes sea de aplicación el régimen comunitario se regirán por las normas que lo regulan, siéndoles de aplicación la LO 4/2000 en aquellos aspectos que pudieran ser más favorables.",
+      "ley": "Artículo 1.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Quedan excluidos del ámbito de aplicación de la LO 4/2000, entre otros:",
+      "options": {
+        "a": "Los estudiantes extranjeros matriculados en universidades públicas",
+        "b": "Los trabajadores de temporada con autorización vigente",
+        "c": "Cualquier turista que visite España por menos de noventa días",
+        "d": "Los agentes diplomáticos y funcionarios consulares acreditados en España exentos de inscripción como extranjeros según el Derecho internacional"
+      },
+      "correct": "d",
+      "explicacion": "Se excluyen del ámbito de la ley los agentes diplomáticos y funcionarios consulares acreditados en España, así como otros miembros de misiones diplomáticas y oficinas consulares y sus familiares que, conforme al Derecho internacional, estén exentos de la inscripción como extranjeros y de la autorización de residencia.",
+      "ley": "Artículo 2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Conforme al artículo 149.1.2.ª de la Constitución, la definición, planificación, regulación y desarrollo de la política de inmigración corresponde a:",
+      "options": {
+        "a": "El Parlamento Europeo, dado el carácter armonizado de la política migratoria",
+        "b": "El Gobierno, sin perjuicio de las competencias asumidas por Comunidades Autónomas y Entidades Locales",
+        "c": "Los Ayuntamientos, como administración más próxima a los inmigrantes",
+        "d": "Exclusivamente las Comunidades Autónomas, por tratarse de materia de proximidad"
+      },
+      "correct": "b",
+      "explicacion": "Corresponde al Gobierno, de conformidad con el artículo 149.1.2.ª de la Constitución, la definición, planificación, regulación y desarrollo de la política de inmigración, sin perjuicio de las competencias que puedan asumir las Comunidades Autónomas y las Entidades Locales.",
+      "ley": "Artículo 2 bis.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Entre los principios en que las Administraciones Públicas basarán su política de inmigración figura:",
+      "options": {
+        "a": "La libre circulación absoluta sin ningún tipo de control fronterizo",
+        "b": "La supresión total de la colaboración con países de origen y tránsito",
+        "c": "La coordinación con las políticas definidas por la Unión Europea y la ordenación de los flujos migratorios laborales según las necesidades del empleo nacional",
+        "d": "La eliminación de cualquier diferencia normativa entre nacionales y extranjeros"
+      },
+      "correct": "c",
+      "explicacion": "Entre los principios rectores se incluyen la coordinación con las políticas de la Unión Europea, la ordenación de los flujos migratorios laborales según las necesidades de la situación nacional del empleo, la integración social, la igualdad efectiva, la lucha contra la inmigración irregular y otros principios enumerados expresamente en la ley.",
+      "ley": "Artículo 2 bis.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los poderes públicos promoverán la plena integración de los extranjeros en la sociedad española, en un marco de convivencia de identidades y culturas diversas, sin más límite que:",
+      "options": {
+        "a": "El criterio discrecional de cada autoridad autonómica",
+        "b": "El respeto a la Constitución y la ley",
+        "c": "Los acuerdos bilaterales con el país de origen del extranjero",
+        "d": "Las convenciones sociales mayoritarias de cada municipio"
+      },
+      "correct": "b",
+      "explicacion": "Los poderes públicos promoverán la plena integración de los extranjeros en la sociedad española, en un marco de convivencia de identidades y culturas diversas sin más límite que el respeto a la Constitución y la ley.",
+      "ley": "Artículo 2 ter.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El plan estratégico plurianual de integración elaborado en cooperación con Comunidades Autónomas y Ayuntamientos deberá incluir entre sus objetivos:",
+      "options": {
+        "a": "Atender a la integración de los menores extranjeros no acompañados",
+        "b": "La supresión de cualquier requisito documental para residir en España",
+        "c": "La regularización masiva automática de todos los extranjeros en situación irregular",
+        "d": "La concesión automática de la nacionalidad española tras un año de residencia"
+      },
+      "correct": "a",
+      "explicacion": "La Administración General del Estado cooperará con las Comunidades Autónomas, las Ciudades de Ceuta y Melilla y los Ayuntamientos para la integración, en el marco de un plan estratégico plurianual que incluirá entre sus objetivos atender a la integración de los menores extranjeros no acompañados.",
+      "ley": "Artículo 2 ter.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Como criterio interpretativo general respecto de los derechos de los extranjeros reconocidos en el Título I de la Constitución:",
+      "options": {
+        "a": "Solo se aplicará dicho criterio a los extranjeros comunitarios, excluyendo a los extracomunitarios",
+        "b": "Se presumirá siempre una situación de inferioridad jurídica frente a los nacionales españoles",
+        "c": "Se interpretará de forma restrictiva en todo caso, primando el interés del Estado receptor",
+        "d": "Se entenderá que los extranjeros ejercitan los derechos que les reconoce la ley en condiciones de igualdad con los españoles"
+      },
+      "correct": "d",
+      "explicacion": "Como criterio interpretativo general, se entenderá que los extranjeros ejercitan los derechos que les reconoce la LO 4/2000 en condiciones de igualdad con los españoles, lo que constituye una pauta hermenéutica básica para la aplicación de toda la norma.",
+      "ley": "Artículo 3.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las normas relativas a los derechos fundamentales de los extranjeros se interpretarán de conformidad con:",
+      "options": {
+        "a": "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales vigentes en España sobre dichas materias",
+        "b": "Únicamente la legislación interna del país de origen del extranjero",
+        "c": "Los usos y costumbres locales del municipio de residencia del extranjero",
+        "d": "Las directrices internas no publicadas de cada Delegación de Gobierno"
+      },
+      "correct": "a",
+      "explicacion": "Las normas relativas a los derechos fundamentales de los extranjeros serán interpretadas de conformidad con la Declaración Universal de Derechos Humanos y con los tratados y acuerdos internacionales sobre las mismas materias vigentes en España.",
+      "ley": "Artículo 3.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros que se encuentren en territorio español tienen, respecto de su documentación:",
+      "options": {
+        "a": "Solo el deber de conservarla, sin que exista un derecho correlativo de igual naturaleza",
+        "b": "El derecho y el deber de conservar la documentación que acredite su identidad y su situación en España",
+        "c": "La obligación de entregarla a las autoridades municipales al llegar a España",
+        "d": "Plena libertad para prescindir de ella si han residido más de un año en territorio español"
+      },
+      "correct": "b",
+      "explicacion": "Los extranjeros que se encuentren en territorio español tienen el derecho y el deber de conservar la documentación que acredite su identidad, expedida por las autoridades del país de origen, así como la que acredite su situación en España.",
+      "ley": "Artículo 4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros a los que se haya expedido un visado o autorización para permanecer en España más de seis meses deberán solicitar la tarjeta de identidad de extranjero:",
+      "options": {
+        "a": "Solo si así lo requiere expresamente la oficina de extranjería competente",
+        "b": "En cualquier momento durante su estancia, sin plazo determinado",
+        "c": "Antes de cumplirse seis meses desde la entrada, en todo caso",
+        "d": "Personalmente, en el plazo de un mes desde su entrada en España o desde que se conceda la autorización"
+      },
+      "correct": "d",
+      "explicacion": "Los extranjeros a quienes se haya expedido visado o autorización para permanecer en España por más de seis meses obtendrán la tarjeta de identidad de extranjero, debiendo solicitarla personalmente en el plazo de un mes desde su entrada en España o desde que se conceda su autorización, salvo los titulares de visado de residencia y trabajo de temporada.",
+      "ley": "Artículo 4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros no podrán ser privados de su documentación, salvo:",
+      "options": {
+        "a": "Cuando lo decida discrecionalmente cualquier agente de policía local",
+        "b": "Si el extranjero no abona las tasas administrativas pendientes",
+        "c": "En ningún caso, siendo este derecho absoluto sin excepción alguna",
+        "d": "En los supuestos y con los requisitos previstos en la LO 4/2000 y en la Ley Orgánica de Protección de la Seguridad Ciudadana"
+      },
+      "correct": "d",
+      "explicacion": "Los extranjeros no podrán ser privados de su documentación, salvo en los supuestos y con los requisitos previstos en la LO 4/2000 y en la Ley Orgánica 1/1992, sobre Protección de la Seguridad Ciudadana, lo que matiza el carácter no absoluto del derecho.",
+      "ley": "Artículo 4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las medidas limitativas de la libertad de circulación adoptadas excepcionalmente por razones de seguridad pública requieren:",
+      "options": {
+        "a": "Simple comunicación verbal de cualquier autoridad policial sin necesidad de motivación expresa",
+        "b": "Acuerdo previo de la Conferencia Sectorial de Inmigración, sin intervención ministerial",
+        "c": "Resolución motivada del Ministro del Interior, individualizada y proporcionada, conforme a las garantías del procedimiento sancionador",
+        "d": "Decreto-ley aprobado por el Consejo de Ministros para cada caso individual"
+      },
+      "correct": "c",
+      "explicacion": "Excepcionalmente, por razones de seguridad pública, las medidas limitativas de la libertad de circulación podrán adoptarse de forma individualizada, motivada y proporcionada a las circunstancias, mediante resolución del Ministro del Interior, adoptada conforme a las garantías jurídicas del procedimiento sancionador previsto en la ley.",
+      "ley": "Artículo 5.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros residentes en España podrán ser titulares del derecho de sufragio en:",
+      "options": {
+        "a": "Cualquier proceso electoral celebrado en España, incluidas las elecciones generales",
+        "b": "Las elecciones al Parlamento Europeo, con independencia de su nacionalidad",
+        "c": "Las elecciones municipales, en los términos establecidos en la Constitución, los tratados internacionales y la ley",
+        "d": "Los referendos de reforma constitucional sin ninguna limitación adicional"
+      },
+      "correct": "c",
+      "explicacion": "Los extranjeros residentes en España podrán ser titulares del derecho de sufragio en las elecciones municipales, en los términos establecidos en la Constitución, en los tratados internacionales, en su caso, y en la ley.",
+      "ley": "Artículo 6.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los Ayuntamientos, respecto del padrón municipal de extranjeros, tienen la obligación de:",
+      "options": {
+        "a": "Comunicar de oficio a las autoridades de extranjería cualquier inscripción de un extranjero",
+        "b": "Incorporar al padrón a los extranjeros con domicilio habitual en el municipio y mantener actualizada su información",
+        "c": "Exigir visado vigente como requisito previo e inexcusable para la inscripción padronal",
+        "d": "Excluir del padrón a cualquier extranjero en situación irregular en territorio español"
+      },
+      "correct": "b",
+      "explicacion": "Los Ayuntamientos incorporarán al padrón a los extranjeros que tengan su domicilio habitual en el municipio y mantendrán actualizada la información relativa a los mismos, con independencia de otras consideraciones sobre su situación administrativa.",
+      "ley": "Artículo 6.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Respecto de las libertades de reunión y manifestación, los extranjeros tienen este derecho:",
+      "options": {
+        "a": "Solo si cuentan con autorización previa expresa de la Delegación del Gobierno",
+        "b": "En las mismas condiciones que los españoles",
+        "c": "Solo los extranjeros con residencia de larga duración reconocida",
+        "d": "Únicamente para reuniones de carácter cultural o religioso, no político"
+      },
+      "correct": "b",
+      "explicacion": "Los extranjeros tienen el derecho de reunión en las mismas condiciones que los españoles, debiendo los promotores de reuniones en lugares de tránsito público dar comunicación previa a la autoridad competente conforme a la Ley Orgánica reguladora del Derecho de Reunión.",
+      "ley": "Artículo 7.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Todos los extranjeros tienen el derecho de asociación:",
+      "options": {
+        "a": "En las mismas condiciones que los españoles",
+        "b": "Solo para fines exclusivamente culturales o deportivos",
+        "c": "Únicamente si llevan más de cinco años residiendo en España",
+        "d": "Con autorización previa del Ministerio del Interior en todo caso"
+      },
+      "correct": "a",
+      "explicacion": "Todos los extranjeros tienen el derecho de asociación en las mismas condiciones que los españoles, sin que la ley exija requisitos adicionales de antigüedad de residencia ni limitación a determinados fines asociativos.",
+      "ley": "Artículo 8 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El derecho a la educación de los extranjeros menores de 16 años incluye:",
+      "options": {
+        "a": "Únicamente clases de idioma español, sin acceso al resto del currículo educativo ordinario",
+        "b": "El derecho a la educación queda condicionado a la situación administrativa regular de sus padres",
+        "c": "El acceso a una enseñanza básica, gratuita y obligatoria, así como la obtención de la titulación y acceso al sistema de becas en igualdad con los españoles",
+        "d": "Solo enseñanza concertada o privada, excluyendo los centros públicos"
+      },
+      "correct": "c",
+      "explicacion": "Los extranjeros menores de 16 años tienen el derecho y el deber a la educación, que incluye el acceso a una enseñanza básica, gratuita y obligatoria, así como la obtención de la titulación académica correspondiente y el acceso al sistema público de becas y ayudas en las mismas condiciones que los españoles.",
+      "ley": "Artículo 9.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Si un extranjero alcanza la edad de 18 años en el transcurso de un curso escolar, respecto del derecho a la enseñanza posobligatoria:",
+      "options": {
+        "a": "Debe solicitar una nueva autorización específica para continuar sus estudios",
+        "b": "El derecho queda suspendido hasta obtener una autorización de residencia independiente",
+        "c": "Conservará ese derecho hasta la finalización del curso",
+        "d": "Pierde automáticamente ese derecho desde el día en que cumple los 18 años"
+      },
+      "correct": "c",
+      "explicacion": "Los extranjeros menores de 18 años tienen derecho a la enseñanza posobligatoria, y en caso de alcanzar la edad de 18 años en el transcurso del curso escolar, conservarán ese derecho hasta su finalización.",
+      "ley": "Artículo 9.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros residentes que tengan menores a su cargo en edad de escolarización obligatoria deberán acreditar dicha escolarización:",
+      "options": {
+        "a": "Mediante informe de las autoridades autonómicas competentes, en las solicitudes de renovación o de residencia de larga duración",
+        "b": "No existe obligación legal de acreditación, siendo un dato meramente informativo opcional",
+        "c": "Solo si lo solicita expresamente el centro escolar correspondiente, sin trámite administrativo asociado",
+        "d": "Únicamente al finalizar el curso escolar completo, no en cualquier otro momento"
+      },
+      "correct": "a",
+      "explicacion": "Los extranjeros residentes que tengan en España menores a su cargo en edad de escolarización obligatoria deberán acreditar dicha escolarización, mediante informe emitido por las autoridades autonómicas competentes, en las solicitudes de renovación de su autorización o en su solicitud de residencia de larga duración.",
+      "ley": "Artículo 9.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 15",
+  "preguntas": [
+    {
+      "id": "tema_13_test_15_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 2 de la LO 4/2015, las disposiciones de esta ley son aplicables en:",
+      "options": {
+        "a": "Todo el territorio nacional",
+        "b": "Las ciudades de más de cien mil habitantes exclusivamente",
+        "c": "Las zonas declaradas de especial interés turístico",
+        "d": "Los puertos y aeropuertos internacionales únicamente"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 2.1 de la LO 4/2015 extiende la aplicación de sus disposiciones a todo el territorio nacional.",
+      "ley": "LO 4/2015, art. 2"
+    },
+    {
+      "id": "tema_13_test_15_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 28.1 de la Ley 5/2014, entre los requisitos generales para la habilitación profesional se exige carecer de antecedentes penales por delitos ______.",
+      "options": {
+        "a": "Imprudentes",
+        "b": "Dolosos",
+        "c": "Leves de tráfico",
+        "d": "Fiscales prescritos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 28.1.e) de la Ley 5/2014 exige carecer de antecedentes penales por delitos dolosos para obtener la habilitación profesional.",
+      "ley": "Ley 5/2014, art. 28"
+    },
+    {
+      "id": "tema_13_test_15_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las infracciones graves del artículo 36 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Incluyen causar desórdenes en vías públicas que ocasionen alteración grave de la seguridad ciudadana",
+        "b": "Incluyen los actos de obstrucción al ejercicio legítimo de funciones de autoridades o empleados públicos",
+        "c": "Incluyen la falta de colaboración con las Fuerzas y Cuerpos de Seguridad en los supuestos del artículo 7",
+        "d": "Incluyen cualquier crítica pública a la actuación policial, aunque sea respetuosa y fundada"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 36 de la LO 4/2015 no tipifica como infracción la crítica respetuosa y fundada a la actuación policial, que queda amparada por las libertades de expresión e información.",
+      "ley": "LO 4/2015, art. 36"
+    },
+    {
+      "id": "tema_13_test_15_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 14 de la Ley 5/2014, la colaboración de las empresas de seguridad con las Fuerzas y Cuerpos de Seguridad debe garantizar, cuando sea necesario:",
+      "options": {
+        "a": "La debida reserva y confidencialidad",
+        "b": "La publicidad de todas las actuaciones realizadas",
+        "c": "La intervención directa del cliente en cada comunicación",
+        "d": "La grabación íntegra de todas las conversaciones mantenidas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 14.1 de la Ley 5/2014 exige garantizar la debida reserva y confidencialidad cuando sea necesario en el desarrollo de esta colaboración.",
+      "ley": "Ley 5/2014, art. 14"
+    },
+    {
+      "id": "tema_13_test_15_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 43.3 de la LO 4/2015, los asientos del Registro Central de Infracciones por infracciones muy graves se cancelan de oficio transcurridos ______ años desde la firmeza de la sanción.",
+      "options": {
+        "a": "Dos",
+        "b": "Tres",
+        "c": "Cuatro",
+        "d": "Cinco"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 43.3 de la LO 4/2015 fija en tres años la cancelación de oficio de los asientos correspondientes a infracciones muy graves.",
+      "ley": "LO 4/2015, art. 43"
+    },
+    {
+      "id": "tema_13_test_15_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los requisitos de los representantes legales de empresas de seguridad, conforme al artículo 22 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Deben ser personas físicas residentes en un Estado miembro de la Unión Europea o del Espacio Económico Europeo",
+        "b": "Deben carecer de antecedentes penales por delitos dolosos",
+        "c": "No pueden haber sido separados del servicio en las Fuerzas Armadas o Fuerzas y Cuerpos de Seguridad en los dos años anteriores",
+        "d": "Pueden haber sido administradores de una empresa declarada en concurso culpable sin ninguna limitación temporal"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 22.2.e) de la Ley 5/2014 impide haber sido administrador de una empresa declarada en concurso calificado como culpable en los diez años anteriores, por lo que sí existe una limitación temporal.",
+      "ley": "Ley 5/2014, art. 22"
+    },
+    {
+      "id": "tema_13_test_15_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 6 de la LO 4/2015, las administraciones públicas con competencias en seguridad ciudadana se regirán en sus relaciones por los principios de:",
+      "options": {
+        "a": "Reciprocidad económica entre territorios",
+        "b": "Subsidiariedad exclusiva del Estado",
+        "c": "Cooperación y lealtad institucional",
+        "d": "Autonomía absoluta sin coordinación"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 6 de la LO 4/2015 establece los principios de cooperación y lealtad institucional para las relaciones entre administraciones competentes.",
+      "ley": "LO 4/2015, art. 6"
+    },
+    {
+      "id": "tema_13_test_15_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 5.1 de la Ley 5/2014, constituye actividad de seguridad privada el depósito y custodia de explosivos, armas y cartuchería metálica que por su ______ precisen vigilancia y protección especial.",
+      "options": {
+        "a": "Valor artístico",
+        "b": "Antigüedad",
+        "c": "Peligrosidad",
+        "d": "Origen geográfico"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 5.1 de la Ley 5/2014 vincula esta actividad a la peligrosidad de los objetos que requieren vigilancia y protección especial.",
+      "ley": "Ley 5/2014, art. 5"
+    },
+    {
+      "id": "tema_13_test_15_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las medidas provisionales anteriores al procedimiento, conforme al artículo 55 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Pueden consistir en la ocupación o precinto de vehículos, armas o material peligroso en supuestos de grave riesgo",
+        "b": "Habrán de ser ratificadas, modificadas o revocadas en el plazo máximo de quince días",
+        "c": "Su duración no podrá exceder de seis meses",
+        "d": "Pueden mantenerse de forma indefinida si la autoridad competente no se pronuncia expresamente"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 55.2 de la Ley 5/2014 establece que estas medidas quedarán sin efecto si, transcurrido el plazo de quince días, no se incoa el procedimiento o no hay pronunciamiento expreso, por lo que no pueden mantenerse indefinidamente por silencio.",
+      "ley": "Ley 5/2014, art. 55"
+    },
+    {
+      "id": "tema_13_test_15_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 12 de la LO 4/2015, la competencia para la expedición del pasaporte en el extranjero corresponde a:",
+      "options": {
+        "a": "Las Representaciones Diplomáticas y Consulares de España",
+        "b": "Las embajadas de terceros países en territorio español",
+        "c": "La Organización de las Naciones Unidas",
+        "d": "Las oficinas consulares honorarias exclusivamente"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 12.1 de la LO 4/2015 atribuye esta competencia a las Representaciones Diplomáticas y Consulares de España en el extranjero.",
+      "ley": "LO 4/2015, art. 12"
+    },
+    {
+      "id": "tema_13_test_15_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 53.2 de la LO 4/2015, el cumplimiento de la sanción de suspensión de licencias se iniciará transcurrido ______ desde que la sanción haya adquirido firmeza en vía administrativa.",
+      "options": {
+        "a": "Una semana",
+        "b": "Quince días",
+        "c": "Un mes",
+        "d": "Un año"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 53.2 de la LO 4/2015 fija en un mes el plazo para iniciar el cumplimiento de la suspensión de licencias tras la firmeza administrativa de la sanción.",
+      "ley": "LO 4/2015, art. 53"
+    },
+    {
+      "id": "tema_13_test_15_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la actividad de los guardas rurales, conforme al artículo 34 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Ejercen funciones de vigilancia y protección en fincas rústicas e instalaciones situadas en ellas",
+        "b": "Se atienen al régimen general de los vigilantes de seguridad, con ciertas especificidades",
+        "c": "Los guardas de caza y guardapescas marítimos pueden retirar piezas y medios de caza utilizados en una infracción",
+        "d": "Pueden ejercer funciones de depósito, custodia y clasificación de joyas y obras de arte como los vigilantes generales"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 34.1 de la Ley 5/2014 excluye expresamente a los guardas rurales de las funciones contempladas para el depósito y custodia de objetos valiosos previstas para otros vigilantes.",
+      "ley": "Ley 5/2014, art. 34"
+    },
+    {
+      "id": "tema_13_test_15_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 46 de la LO 4/2015, las autoridades competentes para imponer sanciones podrán acceder a los datos de los sujetos infractores relacionados con la investigación:",
+      "options": {
+        "a": "Sin necesidad de consentimiento previo del titular, con garantías de seguridad, integridad y disponibilidad",
+        "b": "Solo si el infractor lo autoriza expresamente por escrito",
+        "c": "Únicamente mediante mandamiento judicial específico para cada dato",
+        "d": "Solo tras la firmeza de la resolución sancionadora"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 46.1 de la LO 4/2015 permite este acceso sin consentimiento previo del titular, con las garantías de seguridad, integridad y disponibilidad correspondientes.",
+      "ley": "LO 4/2015, art. 46"
+    },
+    {
+      "id": "tema_13_test_15_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 2 de la Ley 5/2014, se entiende por personal acreditado a los profesores de centros de formación, ingenieros y técnicos, así como a los ______ de seguridad.",
+      "options": {
+        "a": "Escoltas",
+        "b": "Vigilantes",
+        "c": "Operadores",
+        "d": "Detectives"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 2.9 de la Ley 5/2014 incluye a los operadores de seguridad dentro de la definición de personal acreditado.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_15_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la entrada y registro en domicilio, conforme al artículo 15 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Solo se podrá proceder en los casos permitidos por la Constitución y en los términos que fijen las Leyes",
+        "b": "Será causa legítima la necesidad de evitar daños inminentes y graves en supuestos de catástrofe o ruina inminente",
+        "c": "Para la entrada en edificios de organismos oficiales no será preciso el consentimiento del funcionario a cargo",
+        "d": "Cuando se entre en un domicilio particular por estas causas, no es necesario informar a ninguna autoridad judicial"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 15.4 de la LO 4/2015 obliga a remitir sin dilación el acta o atestado a la autoridad judicial competente cuando se entre en un domicilio particular por estas causas.",
+      "ley": "LO 4/2015, art. 15"
+    },
+    {
+      "id": "tema_13_test_15_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 20 de la Ley 5/2014, no podrá inscribirse en el Registro Nacional de Seguridad Privada ninguna empresa cuya denominación:",
+      "options": {
+        "a": "Incluya términos técnicos del sector de la seguridad",
+        "b": "Pueda inducir a error o confusión con la de otra empresa ya inscrita",
+        "c": "Supere los cuarenta caracteres",
+        "d": "Contenga el nombre de una provincia española"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 20.2 de la Ley 5/2014 impide la inscripción cuando la denominación pueda inducir a error o confusión con otra empresa ya inscrita o con órganos públicos.",
+      "ley": "Ley 5/2014, art. 20"
+    },
+    {
+      "id": "tema_13_test_15_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 37.11 de la LO 4/2015, se considera infracción leve por negligencia en la custodia de la documentación personal la tercera y posteriores pérdidas en el plazo de ______.",
+      "options": {
+        "a": "Seis meses",
+        "b": "Un año",
+        "c": "Dos años",
+        "d": "Tres meses"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 37.11 de la LO 4/2015 fija en un año el plazo en el que la tercera y posteriores pérdidas constituyen negligencia sancionable.",
+      "ley": "LO 4/2015, art. 37"
+    },
+    {
+      "id": "tema_13_test_15_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el deber de reserva profesional de los detectives privados, conforme al artículo 50 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Solo pueden facilitar datos de sus investigaciones a quienes se las encomendaron y a los órganos judiciales y policiales competentes",
+        "b": "El acceso al contenido de sus investigaciones requiere requerimiento judicial o solicitud policial vinculada a una investigación criminal",
+        "c": "Pueden compartir libremente los resultados de sus investigaciones con cualquier interesado que alegue curiosidad legítima",
+        "d": "El deber de reserva opera incluso frente a terceros ajenos al encargo de investigación"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 50.1 de la Ley 5/2014 limita estrictamente a quienes encomendaron la investigación y a los órganos judiciales y policiales el acceso a los datos, sin permitir su difusión a terceros por mera curiosidad.",
+      "ley": "Ley 5/2014, art. 50"
+    },
+    {
+      "id": "tema_13_test_15_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 41 de la LO 4/2015, las disposiciones reglamentarias de desarrollo podrán introducir especificaciones en el cuadro de infracciones y sanciones siempre que no alteren:",
+      "options": {
+        "a": "Su naturaleza y límites",
+        "b": "El órgano competente para sancionar",
+        "c": "La fecha de entrada en vigor de la Ley",
+        "d": "El procedimiento judicial penal aplicable"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 41 de la LO 4/2015 condiciona estas especificaciones reglamentarias a que no alteren la naturaleza y los límites de las infracciones y sanciones tipificadas.",
+      "ley": "LO 4/2015, art. 41"
+    },
+    {
+      "id": "tema_13_test_15_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 9.2 de la Ley 5/2014, los contratos de prestación de servicios de seguridad privada deben formalizarse por ______ y comunicarse antes de iniciar el servicio.",
+      "options": {
+        "a": "Vía telefónica grabada",
+        "b": "Escrito",
+        "c": "Acuerdo verbal con testigos",
+        "d": "Comunicación electrónica no firmada"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 9.2 de la Ley 5/2014 exige la formalización escrita de los contratos y su comunicación previa al órgano competente.",
+      "ley": "Ley 5/2014, art. 9"
+    }
+  ]
+}

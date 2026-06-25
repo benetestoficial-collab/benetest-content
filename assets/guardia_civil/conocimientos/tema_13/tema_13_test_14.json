@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 14",
+  "preguntas": [
+    {
+      "id": "tema_13_test_14_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 1 de la Ley 5/2014, las actividades de seguridad privada son complementarias y ______ respecto de la seguridad pública.",
+      "options": {
+        "a": "Subordinadas",
+        "b": "Equivalentes",
+        "c": "Independientes",
+        "d": "Sustitutivas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 1.1 de la Ley 5/2014 califica las actividades de seguridad privada como complementarias y subordinadas respecto de la seguridad pública.",
+      "ley": "Ley 5/2014, art. 1"
+    },
+    {
+      "id": "tema_13_test_14_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 33 de la Ley 5/2014, los escoltas privados no podrán realizar identificaciones, restricciones de circulación o detenciones, salvo en caso de:",
+      "options": {
+        "a": "Petición verbal de cualquier transeúnte",
+        "b": "Simple sospecha sin indicios concretos",
+        "c": "Agresión o intento manifiesto de agresión a la persona protegida o a los propios escoltas",
+        "d": "Orden de un superior jerárquico de la empresa"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 33.2 de la Ley 5/2014 limita esta facultad excepcional al supuesto de agresión o intento manifiesto de agresión a la persona protegida o a los propios escoltas.",
+      "ley": "Ley 5/2014, art. 33"
+    },
+    {
+      "id": "tema_13_test_14_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los espectáculos y actividades recreativas, conforme al artículo 27 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "El Estado podrá dictar normas de seguridad pública para los edificios donde se celebren espectáculos",
+        "b": "Las autoridades podrán prohibir o suspender espectáculos cuando exista peligro cierto para personas y bienes",
+        "c": "Los espectáculos deportivos quedan sujetos en todo caso a la legislación contra la violencia en el deporte",
+        "d": "La suspensión de un espectáculo por razones de urgencia nunca puede acordarse sin previo aviso al organizador"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 27.3 de la LO 4/2015 permite a los delegados de la autoridad suspender espectáculos por razones de máxima urgencia, previo aviso a los organizadores, pero la urgencia puede justificar la inmediatez de la medida.",
+      "ley": "LO 4/2015, art. 27"
+    },
+    {
+      "id": "tema_13_test_14_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 26 de la LO 4/2015, las medidas de seguridad en establecimientos e instalaciones se exigen con la finalidad de prevenir actos delictivos o cuando generen riesgos ______ para terceros.",
+      "options": {
+        "a": "Hipotéticos",
+        "b": "Directos",
+        "c": "Remotos",
+        "d": "Estadísticos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 26 de la LO 4/2015 vincula la exigencia de medidas de seguridad a la existencia de riesgos directos para terceros o de especial vulnerabilidad.",
+      "ley": "LO 4/2015, art. 26"
+    },
+    {
+      "id": "tema_13_test_14_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 29 de la Ley 5/2014, la formación previa del personal de seguridad privada que no posea formación profesional o certificados de profesionalidad se llevará a cabo en:",
+      "options": {
+        "a": "Las propias dependencias del Ministerio del Interior",
+        "b": "Universidades públicas exclusivamente",
+        "c": "Centros de formación de seguridad privada que hayan presentado declaración responsable",
+        "d": "Academias militares de las Fuerzas Armadas"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 29.3 de la Ley 5/2014 exige que esta formación se imparta en centros de formación de seguridad privada que hayan presentado la correspondiente declaración responsable.",
+      "ley": "Ley 5/2014, art. 29"
+    },
+    {
+      "id": "tema_13_test_14_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la reparación del daño, conforme al artículo 42 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "La resolución exigirá la reposición al estado originario de la situación alterada por la infracción cuando sea posible",
+        "b": "Si la reposición no fuera posible, procederá la indemnización por los daños y perjuicios causados",
+        "c": "La responsabilidad civil derivada de una infracción será siempre solidaria entre todos los causantes",
+        "d": "Cuando el infractor sea menor de edad no emancipado, ningún tercero responde solidariamente con él"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 42.3 de la LO 4/2015 extiende la responsabilidad solidaria a padres, tutores, curadores o guardadores del menor de dieciocho años no emancipado.",
+      "ley": "LO 4/2015, art. 42"
+    },
+    {
+      "id": "tema_13_test_14_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 24 de la Ley 5/2014, los despachos de detectives privados podrán abrir sucursales de acuerdo con lo dispuesto reglamentariamente, debiendo fijar un domicilio como sede física donde se llevará el ______.",
+      "options": {
+        "a": "Inventario de armas",
+        "b": "Libro-registro",
+        "c": "Censo de clientes",
+        "d": "Registro de visitantes"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 24.2 de la Ley 5/2014 exige fijar un domicilio como sede física donde se llevará el libro-registro y se archivarán los expedientes de contratación e informes.",
+      "ley": "Ley 5/2014, art. 24"
+    },
+    {
+      "id": "tema_13_test_14_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 32 de la LO 4/2015, son competentes para sancionar las infracciones graves y leves en el ámbito de la Administración General del Estado:",
+      "options": {
+        "a": "El Ministro del Interior exclusivamente",
+        "b": "Los Delegados del Gobierno en las comunidades autónomas y en Ceuta y Melilla",
+        "c": "Los Subdelegados del Gobierno en todo caso",
+        "d": "El Director General de la Policía"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 32.1 de la LO 4/2015 atribuye a los Delegados del Gobierno la competencia sancionadora respecto de las infracciones graves y leves.",
+      "ley": "LO 4/2015, art. 32"
+    },
+    {
+      "id": "tema_13_test_14_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la coordinación entre seguridad pública y privada, conforme al artículo 15 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Se autorizan las cesiones de datos necesarias para salvaguardar la seguridad ciudadana",
+        "b": "Se autoriza el acceso de las Fuerzas y Cuerpos de Seguridad a los sistemas instalados por empresas de seguridad cuando sea necesario por peligro real",
+        "c": "El tratamiento de datos personales se somete a la normativa de protección de datos",
+        "d": "La comunicación de buena fe de información a las Fuerzas y Cuerpos de Seguridad constituye siempre vulneración contractual sancionable"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 15.3 de la Ley 5/2014 establece justamente lo contrario: dicha comunicación de buena fe no constituye vulneración de las restricciones contractuales o legales sobre divulgación de información.",
+      "ley": "Ley 5/2014, art. 15"
+    },
+    {
+      "id": "tema_13_test_14_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 38.1 de la LO 4/2015, las infracciones graves prescriben al ______ de haberse cometido.",
+      "options": {
+        "a": "Semestre",
+        "b": "Año",
+        "c": "Bienio",
+        "d": "Trienio"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 38.1 de la LO 4/2015 fija en un año el plazo de prescripción de las infracciones graves.",
+      "ley": "LO 4/2015, art. 38"
+    },
+    {
+      "id": "tema_13_test_14_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 10 de la Ley 5/2014, entre las prohibiciones generales se encuentra la prestación de servicios de seguridad privada:",
+      "options": {
+        "a": "Por parte de personas carentes de la correspondiente autorización o sin haber presentado declaración responsable",
+        "b": "En horario nocturno sin recargo salarial",
+        "c": "En polígonos industriales sin iluminación adecuada",
+        "d": "Mediante subcontratación entre empresas autorizadas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 10.1 de la Ley 5/2014 prohíbe la prestación o publicidad de servicios de seguridad privada por quienes carezcan de autorización o declaración responsable.",
+      "ley": "Ley 5/2014, art. 10"
+    },
+    {
+      "id": "tema_13_test_14_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las medidas provisionales del artículo 49 de la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "No pueden tener en ningún caso carácter sancionador",
+        "b": "Su duración no podrá exceder, salvo acuerdo motivado, de la mitad del plazo previsto para la sanción correspondiente",
+        "c": "Los gastos ocasionados por su adopción corren a cargo del causante de los hechos",
+        "d": "Una vez adoptadas, no pueden modificarse ni levantarse bajo ninguna circunstancia"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 49.6 de la LO 4/2015 permite modificar o levantar las medidas provisionales cuando varíen las circunstancias que motivaron su adopción.",
+      "ley": "LO 4/2015, art. 49"
+    },
+    {
+      "id": "tema_13_test_14_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 19.1 de la Ley 5/2014, los ingenieros y técnicos de las empresas de seguridad privada deben disponer de acreditación expedida por el ______.",
+      "options": {
+        "a": "Ministerio del Interior",
+        "b": "Colegio de Ingenieros correspondiente",
+        "c": "Ministerio de Industria",
+        "d": "Ayuntamiento de su domicilio"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 19.1 de la Ley 5/2014 exige que estos profesionales dispongan de acreditación expedida por el Ministerio del Interior.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_14_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 4 de la LO 4/2015, las disposiciones de los capítulos III y V deberán interpretarse del modo más favorable a la efectividad de los derechos fundamentales, singularmente el derecho de reunión, las libertades de expresión e información, la libertad sindical y el derecho de:",
+      "options": {
+        "a": "Huelga",
+        "b": "Propiedad",
+        "c": "Asociación religiosa",
+        "d": "Petición individual"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 4.1 de la LO 4/2015 menciona expresamente el derecho de huelga entre los derechos a los que debe darse la interpretación más favorable.",
+      "ley": "LO 4/2015, art. 4"
+    },
+    {
+      "id": "tema_13_test_14_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las obligaciones generales de las empresas de seguridad, conforme al artículo 21 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Deben comunicar al registro todo cambio en su forma jurídica, denominación o domicilio",
+        "b": "Deben garantizar la formación y actualización profesional de su personal de seguridad",
+        "c": "Deben presentar anualmente un informe de actividades sin datos de carácter personal",
+        "d": "Pueden eximirse de presentar dicho informe anual si facturan menos de cien mil euros al año"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 21.1.e) de la Ley 5/2014 no contempla ninguna exención del informe anual de actividades por razón del volumen de facturación de la empresa.",
+      "ley": "Ley 5/2014, art. 21"
+    },
+    {
+      "id": "tema_13_test_14_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 39.1 de la LO 4/2015, las infracciones muy graves se sancionan con multa de ______ a 600.000 euros.",
+      "options": {
+        "a": "20.000",
+        "b": "25.000",
+        "c": "30.001",
+        "d": "35.000"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 39.1 de la LO 4/2015 fija el límite mínimo de la multa por infracciones muy graves en 30.001 euros.",
+      "ley": "LO 4/2015, art. 39"
+    },
+    {
+      "id": "tema_13_test_14_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 13 de la Ley 5/2014, las comunidades autónomas con competencia ejecutiva en seguridad privada la ejercerán si disponen de cuerpo de policía propia o de fórmulas de colaboración con:",
+      "options": {
+        "a": "El Cuerpo Nacional de Policía",
+        "b": "Las Fuerzas Armadas",
+        "c": "Los servicios de aduanas",
+        "d": "Las policías locales de otras comunidades"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 13.2 de la Ley 5/2014 condiciona el ejercicio de esta competencia a disponer de cuerpo de policía propio o de fórmulas de colaboración con el Cuerpo Nacional de Policía.",
+      "ley": "Ley 5/2014, art. 13"
+    },
+    {
+      "id": "tema_13_test_14_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el valor probatorio de las declaraciones de los agentes, conforme al artículo 52 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Las denuncias, atestados o actas de los agentes que hubiesen presenciado los hechos constituyen base suficiente para la resolución",
+        "b": "Este valor probatorio opera salvo prueba en contrario",
+        "c": "Este valor probatorio convierte la denuncia del agente en prueba irrefutable que no admite contradicción alguna",
+        "d": "Los agentes deben aportar al expediente todos los elementos probatorios disponibles"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 52 de la LO 4/2015 admite expresamente prueba en contrario, por lo que la denuncia o acta del agente no tiene carácter irrefutable.",
+      "ley": "LO 4/2015, art. 52"
+    },
+    {
+      "id": "tema_13_test_14_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 9.1 de la LO 4/2015, el Documento Nacional de Identidad es obligatorio a partir de los catorce años, debiendo su titular mantenerlo en vigor y ______ con la debida diligencia.",
+      "options": {
+        "a": "Renovarlo anualmente",
+        "b": "Plastificarlo",
+        "c": "Custodiarlo",
+        "d": "Fotocopiarlo"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 9.1 de la LO 4/2015 exige al titular mantener en vigor el documento y custodiarlo con la debida diligencia.",
+      "ley": "LO 4/2015, art. 9"
+    },
+    {
+      "id": "tema_13_test_14_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 23 de la Ley 5/2014, las empresas de seguridad privada tienen la consideración de sector económico con regulación específica en materia de:",
+      "options": {
+        "a": "Derecho concursal",
+        "b": "Derecho de establecimiento",
+        "c": "Derecho de familia",
+        "d": "Derecho urbanístico"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 23.1 de la Ley 5/2014 califica a las empresas de seguridad privada como sector con regulación específica en materia de derecho de establecimiento.",
+      "ley": "Ley 5/2014, art. 23"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 12",
+  "preguntas": [
+    {
+      "id": "tema_12_test_12_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye infracción muy grave participar en actividades contrarias a la seguridad nacional o que puedan perjudicar las relaciones de España con otros países, o estar implicados en actividades previstas como muy graves en:",
+      "options": {
+        "a": "El Código Civil, en su título relativo a los derechos de la personalidad",
+        "b": "El reglamento de régimen interior de cada centro de internamiento",
+        "c": "Cualquier ordenanza municipal sobre convivencia y civismo, sin remisión a norma estatal",
+        "d": "La Ley Orgánica sobre Protección de la Seguridad Ciudadana"
+      },
+      "correct": "d",
+      "explicacion": "Constituye infracción muy grave participar en actividades contrarias a la seguridad nacional o que puedan perjudicar las relaciones de España con otros países, o estar implicados en actividades contrarias al orden público previstas como muy graves en la Ley Orgánica sobre Protección de la Seguridad Ciudadana.",
+      "ley": "Artículo 54.1.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Inducir, promover, favorecer o facilitar con ánimo de lucro la inmigración clandestina de personas con destino al territorio español constituye infracción muy grave, siempre que:",
+      "options": {
+        "a": "Se realice de forma individual, sin posibilidad de calificación si actúa una organización",
+        "b": "El infractor sea de la misma nacionalidad que las personas trasladadas",
+        "c": "Las personas afectadas hayan ingresado efectivamente en territorio español de forma física",
+        "d": "El hecho no constituya delito"
+      },
+      "correct": "d",
+      "explicacion": "Constituye infracción muy grave inducir, promover, favorecer o facilitar con ánimo de lucro, individualmente o formando parte de una organización, la inmigración clandestina de personas en tránsito o con destino al territorio español o su permanencia en el mismo, siempre que el hecho no constituya delito.",
+      "ley": "Artículo 54.1.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La realización de conductas de discriminación por motivos raciales, étnicos, nacionales o religiosos, en los términos del artículo 23 de la ley, constituye infracción muy grave siempre que:",
+      "options": {
+        "a": "El hecho se haya producido reiteradamente al menos en tres ocasiones distintas",
+        "b": "El hecho no constituya delito",
+        "c": "La víctima presente denuncia formal en sede penal con carácter previo a la sanción",
+        "d": "Se acredite que el autor pertenece a una organización con fines discriminatorios reconocida"
+      },
+      "correct": "b",
+      "explicacion": "Constituye infracción muy grave la realización de conductas de discriminación por motivos raciales, étnicos, nacionales o religiosos, en los términos previstos en el artículo 23 de la ley, siempre que el hecho no constituya delito, en cuyo caso correspondería la vía penal en lugar de la administrativa.",
+      "ley": "Artículo 54.1.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La contratación de trabajadores extranjeros sin haber obtenido con carácter previo la correspondiente autorización de residencia y trabajo constituye infracción muy grave, incurriéndose en una infracción por:",
+      "options": {
+        "a": "Cada centro de trabajo donde se desarrolle la actividad económica de la empresa",
+        "b": "Cada mes de duración de la relación laboral irregular detectada por la inspección",
+        "c": "Cada uno de los trabajadores extranjeros ocupados, siempre que el hecho no constituya delito",
+        "d": "Cada empresa que haya intervenido en el proceso de contratación, sin distinción de trabajadores"
+      },
+      "correct": "c",
+      "explicacion": "Constituye infracción muy grave la contratación de trabajadores extranjeros sin haber obtenido con carácter previo la correspondiente autorización de residencia y trabajo, incurriéndose en una infracción por cada uno de los trabajadores extranjeros ocupados, siempre que el hecho no constituya delito.",
+      "ley": "Artículo 54.1.d) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Realizar, con ánimo de lucro, la inscripción de un extranjero en el Padrón Municipal cuando la vivienda no constituya su domicilio real se califica como infracción:",
+      "options": {
+        "a": "Grave, idéntica calificación que cuando no concurre ánimo de lucro alguno",
+        "b": "Muy grave",
+        "c": "Penal exclusivamente, excluyéndose cualquier respuesta administrativa al respecto",
+        "d": "Leve, al tratarse de un mero error administrativo en la inscripción padronal"
+      },
+      "correct": "b",
+      "explicacion": "Constituye infracción muy grave realizar, con ánimo de lucro, la inscripción de un extranjero en el Padrón Municipal por parte del titular de una vivienda habilitado para tal fin, cuando dicha vivienda no constituya el domicilio real del extranjero, agravándose respecto del supuesto sin ánimo de lucro, que es infracción grave.",
+      "ley": "Artículo 54.1.e) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Simular la relación laboral con un extranjero, cuando se realice con ánimo de lucro o con el propósito de obtener indebidamente derechos de la ley, constituye infracción muy grave siempre que:",
+      "options": {
+        "a": "El empleador haya sido sancionado previamente por una infracción de idéntica naturaleza",
+        "b": "El extranjero afectado tenga conocimiento previo y consienta expresamente dicha simulación",
+        "c": "Tales hechos no constituyan delito",
+        "d": "La simulación se mantenga durante un período superior a dos años continuados"
+      },
+      "correct": "c",
+      "explicacion": "Constituye infracción muy grave simular la relación laboral con un extranjero, cuando dicha conducta se realice con ánimo de lucro o con el propósito de obtener indebidamente derechos reconocidos en la ley, siempre que tales hechos no constituyan delito, supuesto en el que correspondería la vía penal.",
+      "ley": "Artículo 54.1.f) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La comisión de una tercera infracción grave constituye infracción muy grave siempre que, en el plazo de un año anterior:",
+      "options": {
+        "a": "Hubiera sido sancionado por dos faltas graves de la misma naturaleza",
+        "b": "Hubiera transcurrido íntegramente dicho plazo sin sanción alguna previa",
+        "c": "Hubiera sido sancionado por cualquier tipo de infracción administrativa, sin importar su categoría",
+        "d": "El extranjero hubiera presentado al menos dos recursos administrativos sobre infracciones anteriores"
+      },
+      "correct": "a",
+      "explicacion": "Constituye infracción muy grave la comisión de una tercera infracción grave siempre que en el plazo de un año anterior hubiera sido sancionado por dos faltas graves de la misma naturaleza, exigiéndose homogeneidad típica para la reincidencia cualificada, en paralelo al régimen de las infracciones leves.",
+      "ley": "Artículo 54.1.g) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las infracciones leves serán sancionadas con:",
+      "options": {
+        "a": "Suspensión temporal de la autorización de residencia por un mes completo",
+        "b": "Multa fija de exactamente 1.000 euros, sin posibilidad de graduación inferior",
+        "c": "Amonestación verbal exclusivamente, sin componente económico de ningún tipo",
+        "d": "Multa hasta 500 euros"
+      },
+      "correct": "d",
+      "explicacion": "Las infracciones leves serán sancionadas con multa hasta 500 euros, constituyendo la sanción de menor cuantía dentro del catálogo sancionador de la LO 4/2000.",
+      "ley": "Artículo 55.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las infracciones graves serán sancionadas, con carácter general, con:",
+      "options": {
+        "a": "Multa de 100 a 300 euros, idéntica a la prevista para las infracciones leves",
+        "b": "Expulsión automática e inmediata, sin posibilidad de imponer sanción pecuniaria alternativa",
+        "c": "Multa de 501 a 10.000 euros",
+        "d": "Multa fija de 5.000 euros, sin posibilidad de graduación entre un mínimo y un máximo"
+      },
+      "correct": "c",
+      "explicacion": "Las infracciones graves serán sancionadas, con carácter general, con multa de 501 a 10.000 euros, existiendo además reglas especiales para determinados supuestos, como el de no dar de alta al trabajador en la Seguridad Social, que añade la obligación de sufragar los costes del viaje.",
+      "ley": "Artículo 55.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Las infracciones muy graves serán sancionadas, con carácter general, con multa de:",
+      "options": {
+        "a": "200.001 a 500.000 euros, sin distinción según el tipo concreto de infracción muy grave",
+        "b": "10.001 a 100.000 euros",
+        "c": "1.000 a 5.000 euros, idéntico rango que las infracciones graves de menor entidad",
+        "d": "Únicamente decomiso de bienes, sin componente económico adicional de multa"
+      },
+      "correct": "b",
+      "explicacion": "Las infracciones muy graves serán sancionadas, con carácter general, con multa de 10.001 a 100.000 euros, existiendo reglas especiales más elevadas para supuestos como el transporte irregular de extranjeros, que puede alcanzar hasta 750.000 euros a tanto alzado.",
+      "ley": "Artículo 55.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La imposición de sanciones por las infracciones administrativas de la LO 4/2000 corresponderá, con carácter general, a:",
+      "options": {
+        "a": "El Defensor del Pueblo, en su función general de tutela de los derechos fundamentales",
+        "b": "El Subdelegado del Gobierno o el Delegado del Gobierno en las Comunidades Autónomas uniprovinciales",
+        "c": "Los Juzgados de lo Contencioso-Administrativo, sustituyendo a la Administración instructora",
+        "d": "El Ministro del Interior en todo caso, sin posibilidad de delegación territorial alguna"
+      },
+      "correct": "b",
+      "explicacion": "La imposición de sanciones por las infracciones administrativas establecidas en la LO 4/2000 corresponderá al Subdelegado del Gobierno o al Delegado del Gobierno en las Comunidades Autónomas uniprovinciales, sin perjuicio de competencias autonómicas en determinados supuestos.",
+      "ley": "Artículo 55.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En el supuesto de participación en actividades contrarias a la seguridad nacional o que perjudiquen las relaciones de España con otros países, la competencia sancionadora corresponderá a:",
+      "options": {
+        "a": "El Ayuntamiento del domicilio del extranjero presuntamente infractor",
+        "b": "Cualquier Juzgado de Instrucción del lugar donde se detectara la conducta",
+        "c": "El Secretario de Estado de Seguridad",
+        "d": "El Consejo de Ministros, reunido en sesión extraordinaria para cada caso"
+      },
+      "correct": "c",
+      "explicacion": "En los supuestos de participación en actividades contrarias a la seguridad nacional o que puedan perjudicar las relaciones de España con otros países, de acuerdo con el procedimiento sancionador reglamentario, la competencia sancionadora corresponderá al Secretario de Estado de Seguridad.",
+      "ley": "Artículo 55.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Para la graduación de las sanciones, el órgano competente se ajustará a criterios de proporcionalidad, valorando:",
+      "options": {
+        "a": "Exclusivamente la nacionalidad del infractor, sin atender a ningún otro criterio adicional",
+        "b": "Únicamente el número de denuncias previas presentadas contra el infractor, sin distinción de resultado",
+        "c": "Solo el tiempo de residencia en España, descartando cualquier valoración sobre la propia conducta",
+        "d": "El grado de culpabilidad y, en su caso, el daño producido o el riesgo derivado de la infracción y su trascendencia"
+      },
+      "correct": "d",
+      "explicacion": "Para la graduación de las sanciones, el órgano competente para imponerlas se ajustará a criterios de proporcionalidad, valorando el grado de culpabilidad y, en su caso, el daño producido o el riesgo derivado de la infracción y su trascendencia.",
+      "ley": "Artículo 55.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Para la determinación de la cuantía de la sanción se tendrá especialmente en cuenta:",
+      "options": {
+        "a": "La capacidad económica del infractor",
+        "b": "Exclusivamente la antigüedad de la primera entrada del infractor en España",
+        "c": "El número de familiares a cargo, con independencia de su situación administrativa",
+        "d": "El idioma materno del infractor, sin valoración de ningún otro factor adicional"
+      },
+      "correct": "a",
+      "explicacion": "Para la determinación de la cuantía de la sanción se tendrá especialmente en cuenta la capacidad económica del infractor, lo que permite individualizar la respuesta sancionadora dentro de los márgenes legalmente establecidos para cada tipo de infracción.",
+      "ley": "Artículo 55.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En el supuesto de inmigración clandestina con ánimo de lucro, serán objeto de decomiso, salvo que pertenezcan a un tercero no responsable de la infracción:",
+      "options": {
+        "a": "Los vehículos, embarcaciones, aeronaves y cuantos bienes muebles o inmuebles hayan servido de instrumento para la comisión de la infracción",
+        "b": "Exclusivamente los documentos de identidad falsificados utilizados en la operación",
+        "c": "Solo los inmuebles de titularidad exclusiva del propio infractor, excluyendo bienes muebles",
+        "d": "Únicamente el dinero en efectivo encontrado en el momento de la detención del infractor"
+      },
+      "correct": "a",
+      "explicacion": "Salvo que pertenezcan a un tercero no responsable de la infracción, en el supuesto de inducir, promover, favorecer o facilitar con ánimo de lucro la inmigración clandestina, serán objeto de decomiso los vehículos, embarcaciones, aeronaves y cuantos bienes muebles o inmuebles hayan servido de instrumento para su comisión.",
+      "ley": "Artículo 55.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En el supuesto de contratación de trabajadores extranjeros sin autorización previa, la autoridad gubernativa podrá adoptar, sin perjuicio de la sanción correspondiente:",
+      "options": {
+        "a": "La clausura del establecimiento o local desde 6 meses a 5 años",
+        "b": "El cierre definitivo de la empresa, sin posibilidad de reapertura bajo ninguna circunstancia",
+        "c": "La expulsión inmediata del empresario del territorio nacional, con independencia de su nacionalidad",
+        "d": "La inhabilitación profesional permanente del empresario sin posibilidad de rehabilitación futura"
+      },
+      "correct": "a",
+      "explicacion": "En el supuesto relativo a la contratación de trabajadores extranjeros sin haber obtenido con carácter previo la correspondiente autorización de residencia y trabajo, la autoridad gubernativa podrá adoptar, sin perjuicio de la sanción que corresponda, la clausura del establecimiento o local desde 6 meses a 5 años.",
+      "ley": "Artículo 55.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando una empresa sancionada por contratar trabajadores extranjeros sin autorización fuera subcontratista de otra, el contratista principal y subcontratistas intermedios que conocieran la irregularidad:",
+      "options": {
+        "a": "Solo responden si hubieran percibido directamente algún beneficio económico de la subcontratación",
+        "b": "Responderán solidariamente de las sanciones económicas y demás responsabilidades, salvo que hubieran respetado la diligencia debida",
+        "c": "Responden únicamente de forma subsidiaria, nunca de forma solidaria con la empresa principal sancionada",
+        "d": "Quedan completamente exentos de cualquier responsabilidad por tratarse de empresas jurídicamente distintas"
+      },
+      "correct": "b",
+      "explicacion": "Si el sancionado fuera subcontratista de otra empresa, el contratista principal y todos los subcontratistas intermedios que conocieran que la empresa sancionada empleaba extranjeros sin autorización responderán solidariamente, salvo que hubieran respetado la diligencia debida en sus obligaciones contractuales.",
+      "ley": "Artículo 55.7 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El plazo de prescripción de las infracciones leves es de:",
+      "options": {
+        "a": "1 año, idéntico al de prescripción de las sanciones leves",
+        "b": "3 años, coincidiendo con el plazo de prescripción de las infracciones muy graves",
+        "c": "Indefinido, sin plazo alguno de prescripción para esta categoría de infracciones",
+        "d": "6 meses"
+      },
+      "correct": "d",
+      "explicacion": "El plazo de prescripción de las infracciones leves es de 6 meses, mientras que las infracciones graves prescriben a los 2 años y las muy graves a los 3 años, existiendo plazos diferenciados según la gravedad de la infracción cometida.",
+      "ley": "Artículo 56 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Si la sanción impuesta fuera la expulsión del territorio nacional, la prescripción de dicha sanción:",
+      "options": {
+        "a": "No empezará a contar hasta que haya transcurrido el período de prohibición de entrada fijado en la resolución, con un máximo de 10 años",
+        "b": "Comienza a contar desde el mismo día en que se dicta la resolución de expulsión, sin excepción alguna",
+        "c": "Se computa siempre desde la fecha de entrada en vigor de la LO 4/2000, sin relación con la resolución concreta",
+        "d": "Queda excluida de cualquier régimen de prescripción, manteniéndose indefinidamente vigente la sanción"
+      },
+      "correct": "a",
+      "explicacion": "Si la sanción impuesta fuera la de expulsión del territorio nacional, la prescripción no empezará a contar hasta que haya transcurrido el período de prohibición de entrada fijado en la resolución, con un máximo de 10 años, lo que difiere el inicio del cómputo respecto de otras sanciones.",
+      "ley": "Artículo 56 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_12_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El plazo de prescripción de las sanciones muy graves, frente a los 2 años de las sanciones graves y el año de las leves, es de:",
+      "options": {
+        "a": "10 años, coincidiendo con el máximo de prohibición de entrada por expulsión",
+        "b": "2 años, sin diferenciación respecto del plazo previsto para las sanciones graves",
+        "c": "5 años",
+        "d": "3 años, idéntico al plazo de prescripción de las infracciones muy graves"
+      },
+      "correct": "c",
+      "explicacion": "El plazo de prescripción de las sanciones es de 1 año para las leves, 2 años para las graves y 5 años para las muy graves, frente al plazo de prescripción de las infracciones, que es de 6 meses, 2 años y 3 años respectivamente.",
+      "ley": "Artículo 56 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_12_test_04_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los procedimientos administrativos en materia de extranjería respetarán en todo caso las garantías de la legislación general de procedimiento, especialmente en lo relativo a:",
+      "options": {
+        "a": "La intervención preceptiva del Defensor del Pueblo en cada expediente individual",
+        "b": "La presencia obligatoria de un observador internacional en cada resolución administrativa",
+        "c": "La gratuidad absoluta de cualquier trámite, sin excepción alguna respecto de tasas",
+        "d": "Publicidad de las normas, contradicción, audiencia del interesado y motivación de las resoluciones, salvo lo dispuesto en el artículo 27"
+      },
+      "correct": "d",
+      "explicacion": "Los procedimientos administrativos que se establezcan en materia de extranjería respetarán en todo caso las garantías previstas en la legislación general sobre procedimiento administrativo, especialmente en lo relativo a publicidad de las normas, contradicción, audiencia del interesado y motivación de las resoluciones, salvo lo dispuesto en el artículo 27.",
+      "ley": "Artículo 20.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En los procedimientos administrativos en materia de extranjería, estarán legitimadas para intervenir como interesadas:",
+      "options": {
+        "a": "Exclusivamente los sindicatos más representativos a nivel estatal",
+        "b": "Solo el Ministerio Fiscal, con exclusión de otras entidades sociales",
+        "c": "Las organizaciones constituidas legalmente en España para la defensa de los inmigrantes, expresamente designadas por estos",
+        "d": "Cualquier ciudadano que invoque un interés social genérico sin designación expresa"
+      },
+      "correct": "c",
+      "explicacion": "En los procedimientos administrativos estarán legitimadas para intervenir como interesadas las organizaciones constituidas legalmente en España para la defensa de los inmigrantes, expresamente designadas por estos, lo que exige tanto la legalidad de la constitución como la designación expresa del extranjero afectado.",
+      "ley": "Artículo 20.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los actos y resoluciones administrativas adoptados en relación con los extranjeros:",
+      "options": {
+        "a": "Solo pueden recurrirse mediante recurso de amparo directo ante el Tribunal Constitucional",
+        "b": "Únicamente admiten recurso si el extranjero cuenta con autorización de residencia previa",
+        "c": "Serán recurribles con arreglo a lo dispuesto en las leyes",
+        "d": "Son siempre firmes desde su notificación, sin posibilidad de recurso administrativo ni judicial"
+      },
+      "correct": "c",
+      "explicacion": "Los actos y resoluciones administrativas adoptados en relación con los extranjeros serán recurribles con arreglo a lo dispuesto en las leyes, reconociéndose así con carácter general el derecho al recurso frente a este tipo de actos.",
+      "ley": "Artículo 21.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El régimen de ejecutividad de los actos administrativos en materia de extranjería es:",
+      "options": {
+        "a": "Determinado libremente por cada Delegación o Subdelegación de Gobierno",
+        "b": "El previsto con carácter general en la legislación vigente, salvo lo dispuesto para la tramitación de expedientes de expulsión con carácter preferente",
+        "c": "Nunca ejecutivo hasta que adquiera firmeza en vía judicial, sin excepciones",
+        "d": "Siempre inmediatamente ejecutivo desde su dictado, sin excepción para ningún expediente"
+      },
+      "correct": "b",
+      "explicacion": "El régimen de ejecutividad de los actos administrativos dictados en materia de extranjería será el previsto con carácter general en la legislación vigente, salvo lo dispuesto en la LO 4/2000 para la tramitación de expedientes de expulsión con carácter preferente, que tiene su propio régimen específico.",
+      "ley": "Artículo 21.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros que se hallen en España tienen derecho a la asistencia jurídica gratuita en los procesos en los que sean parte:",
+      "options": {
+        "a": "Solo en la jurisdicción contencioso-administrativa, excluyendo el resto de órdenes jurisdiccionales",
+        "b": "Solo respecto de procedimientos penales, no en procesos civiles ni laborales",
+        "c": "Cualquiera que sea la jurisdicción en que se sigan, en las mismas condiciones que los ciudadanos españoles",
+        "d": "Únicamente si carecen de cualquier tipo de recurso económico, sin posibilidad de gradación"
+      },
+      "correct": "c",
+      "explicacion": "Los extranjeros que se hallen en España tienen derecho a la asistencia jurídica gratuita en los procesos en los que sean parte, cualquiera que sea la jurisdicción en la que se sigan, en las mismas condiciones que los ciudadanos españoles.",
+      "ley": "Artículo 22.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En procedimientos que puedan llevar a la denegación de entrada, devolución o expulsión, así como en procedimientos de protección internacional, el extranjero tiene derecho a:",
+      "options": {
+        "a": "Asistencia letrada y, si no comprende o habla la lengua oficial, a la asistencia de intérprete, siendo ambas gratuitas si carece de recursos suficientes",
+        "b": "Una indemnización económica automática si finalmente se acuerda su expulsión",
+        "c": "Recurrir directamente al Tribunal Supremo sin agotar la vía administrativa previa",
+        "d": "Designar libremente al funcionario instructor del expediente que le afecta"
+      },
+      "correct": "a",
+      "explicacion": "Los extranjeros tienen derecho a asistencia letrada en procedimientos que puedan llevar a denegación de entrada, devolución o expulsión, y en procedimientos de protección internacional, así como a la asistencia de intérprete si no comprenden o hablan la lengua oficial utilizada, siendo gratuitas estas asistencias cuando carezcan de recursos económicos suficientes.",
+      "ley": "Artículo 22.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Si el extranjero tuviera derecho a la asistencia jurídica gratuita y se encontrase fuera de España, la solicitud de la misma y la manifestación de voluntad de recurrir podrán realizarse:",
+      "options": {
+        "a": "Ante la misión diplomática u oficina consular correspondiente",
+        "b": "Únicamente mediante representante legal con poder notarial otorgado en España",
+        "c": "Solo si se persona físicamente de nuevo en territorio español en el plazo de un mes",
+        "d": "Exclusivamente a través de medios electrónicos certificados por la sede del Ministerio de Justicia"
+      },
+      "correct": "a",
+      "explicacion": "Cuando el extranjero tuviera derecho a la asistencia jurídica gratuita y se encontrase fuera de España, la solicitud de la misma y, en su caso, la manifestación de la voluntad de recurrir, podrán realizarse ante la misión diplomática u oficina consular correspondiente.",
+      "ley": "Artículo 22.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. A los efectos de la LO 4/2000, representa discriminación todo acto que:",
+      "options": {
+        "a": "Exija al extranjero acreditar su identidad mediante documentación oficial vigente",
+        "b": "Limite el acceso al empleo público a extranjeros sin nacionalidad comunitaria, en todo caso",
+        "c": "Suponga cualquier diferencia de trato sin importar su causa o motivación concreta",
+        "d": "Conlleve una distinción, exclusión, restricción o preferencia contra un extranjero basada en raza, color, ascendencia u origen nacional o étnico, entre otras causas, que limite el ejercicio de derechos en igualdad"
+      },
+      "correct": "d",
+      "explicacion": "Representa discriminación todo acto que, directa o indirectamente, conlleve una distinción, exclusión, restricción o preferencia contra un extranjero basada en la raza, color, ascendencia u origen nacional o étnico, convicciones y prácticas religiosas, y que tenga como fin o efecto destruir o limitar el reconocimiento o ejercicio en igualdad de los derechos humanos y libertades fundamentales.",
+      "ley": "Artículo 23.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye un acto de discriminación, conforme al artículo 23.2 de la LO 4/2000:",
+      "options": {
+        "a": "La simple petición de pasaporte para identificación en un control fronterizo ordinario",
+        "b": "Cualquier comentario informal realizado por un particular en el ámbito estrictamente privado de su domicilio",
+        "c": "La exigencia generalizada de un nivel de idioma español para todos los puestos públicos sin distinción",
+        "d": "El efectuado por autoridad, funcionario público o personal de un servicio público que, en ejercicio de sus funciones, por acción u omisión, realice un acto discriminatorio prohibido contra un extranjero por su condición de tal o por su raza, religión, etnia o nacionalidad"
+      },
+      "correct": "d",
+      "explicacion": "Constituyen actos de discriminación, entre otros, los efectuados por la autoridad o funcionario público o personal encargado de un servicio público que, en el ejercicio de sus funciones, por acción u omisión, realice cualquier acto discriminatorio prohibido por la ley contra un extranjero por su condición de tal o por pertenecer a determinada raza, religión, etnia o nacionalidad.",
+      "ley": "Artículo 23.2.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Constituye discriminación indirecta, conforme al artículo 23.2.e) de la LO 4/2000:",
+      "options": {
+        "a": "La exigencia de experiencia profesional previa acreditada para acceder a un puesto de trabajo",
+        "b": "Cualquier preferencia entre candidatos basada exclusivamente en su nivel de formación académica",
+        "c": "Únicamente la discriminación que se produzca a través de medios de comunicación digitales",
+        "d": "Todo tratamiento derivado de la adopción de criterios que perjudiquen a los trabajadores por su condición de extranjeros o por pertenecer a determinada raza, religión, etnia o nacionalidad"
+      },
+      "correct": "d",
+      "explicacion": "Constituye discriminación indirecta todo tratamiento derivado de la adopción de criterios que perjudiquen a los trabajadores por su condición de extranjeros o por pertenecer a una determinada raza, religión, etnia o nacionalidad, categoría que abarca prácticas formalmente neutras pero con efecto discriminatorio.",
+      "ley": "Artículo 23.2.e) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La tutela judicial contra cualquier práctica discriminatoria que vulnere derechos y libertades fundamentales podrá exigirse por el procedimiento previsto en:",
+      "options": {
+        "a": "El artículo 24 de la Constitución, exclusivamente, sin referencia a otros preceptos",
+        "b": "El artículo 53.2 de la Constitución, en los términos legalmente establecidos",
+        "c": "El procedimiento contencioso-administrativo común, sin posibilidad de procedimiento sumario",
+        "d": "Una jurisdicción especial creada ad hoc por la propia LO 4/2000"
+      },
+      "correct": "b",
+      "explicacion": "La tutela judicial contra cualquier práctica discriminatoria que comporte vulneración de derechos y libertades fundamentales podrá ser exigida por el procedimiento previsto en el artículo 53.2 de la Constitución en los términos legalmente establecidos, esto es, mediante el procedimiento preferente y sumario para la protección de derechos fundamentales.",
+      "ley": "Artículo 24 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Entre los actos que la LO 4/2000 califica expresamente como discriminatorios figura también:",
+      "options": {
+        "a": "El que impida, por acción u omisión, el ejercicio de una actividad económica emprendida legítimamente por un extranjero residente legal en España, solo por su condición de tal o por su raza, religión, etnia o nacionalidad",
+        "b": "La exigencia de un certificado de antecedentes penales para determinados puestos de responsabilidad",
+        "c": "El simple cobro de una tasa administrativa idéntica a la exigida a los nacionales españoles",
+        "d": "La aplicación uniforme de la normativa fiscal general a residentes extranjeros"
+      },
+      "correct": "a",
+      "explicacion": "Constituyen actos de discriminación todos los que impidan, a través de acciones u omisiones, el ejercicio de una actividad económica emprendida legítimamente por un extranjero residente legalmente en España, solo por su condición de tal o por pertenecer a determinada raza, religión, etnia o nacionalidad.",
+      "ley": "Artículo 23.2.d) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En los procesos contencioso-administrativos en materia de extranjería, estarán legitimadas para intervenir:",
+      "options": {
+        "a": "Únicamente el extranjero personalmente, sin posibilidad de personación de entidades terceras",
+        "b": "Las entidades que resulten afectadas",
+        "c": "Exclusivamente entidades de ámbito estatal, no de ámbito local o autonómico",
+        "d": "Solo el Ministerio Fiscal, en sustitución de cualquier entidad social interesada"
+      },
+      "correct": "b",
+      "explicacion": "En los procesos contencioso-administrativos en materia de extranjería estarán legitimadas para intervenir las entidades que resulten afectadas, completando así la previsión sobre legitimación en el procedimiento administrativo previo.",
+      "ley": "Artículo 20.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Constituyen actos discriminatorios, conforme al artículo 23.2.c), los que impongan ilegítimamente condiciones más gravosas que a los españoles, o restrinjan el acceso, entre otros ámbitos, al extranjero que se encuentre regularmente en España:",
+      "options": {
+        "a": "Exclusivamente al acceso a la nacionalidad española por residencia",
+        "b": "Únicamente al acceso a clubes deportivos privados de carácter recreativo",
+        "c": "Solo al ejercicio del derecho de voto en elecciones municipales, sin extensión a otros ámbitos",
+        "d": "Al trabajo, vivienda, educación, formación profesional, servicios sociales y cualquier otro derecho de la ley, solo por su condición o pertenencia a determinada raza, religión, etnia o nacionalidad"
+      },
+      "correct": "d",
+      "explicacion": "Constituyen actos de discriminación los que impongan ilegítimamente condiciones más gravosas que a los españoles o restrinjan o limiten el acceso al trabajo, la vivienda, la educación, la formación profesional, los servicios sociales y socio-asistenciales, así como a cualquier otro derecho de la ley, al extranjero regular en España, por su condición o pertenencia a determinada raza, religión, etnia o nacionalidad.",
+      "ley": "Artículo 23.2.c) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Los extranjeros tienen derecho a la tutela judicial efectiva conforme a:",
+      "options": {
+        "a": "Un régimen exclusivamente reservado a extranjeros con residencia de larga duración",
+        "b": "El artículo 20.1 de la LO 4/2000, en términos generales aplicables a cualquier extranjero",
+        "c": "Una jurisdicción especial diferenciada de la jurisdicción ordinaria española",
+        "d": "Convenios bilaterales suscritos específicamente para cada nacionalidad"
+      },
+      "correct": "b",
+      "explicacion": "Los extranjeros tienen derecho a la tutela judicial efectiva, reconociéndose este derecho con carácter general en el artículo 20.1 de la LO 4/2000, sin distinción según el tipo de autorización administrativa que ostente el extranjero.",
+      "ley": "Artículo 20.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En procesos contencioso-administrativos contra resoluciones que pongan fin a la vía administrativa en materia de denegación de entrada, devolución o expulsión, el reconocimiento del derecho a la asistencia jurídica gratuita requerirá:",
+      "options": {
+        "a": "Que el extranjero cuente ya con autorización de residencia temporal en vigor",
+        "b": "Acreditar previamente nacionalidad de un país con convenio bilateral con España",
+        "c": "La oportuna solicitud en los términos previstos en las normas que regulan dicha asistencia, con constancia expresa de la voluntad de recurrir",
+        "d": "Únicamente la mera presentación del recurso, sin más trámite específico adicional"
+      },
+      "correct": "c",
+      "explicacion": "En los procesos contencioso-administrativos contra resoluciones de denegación de entrada, devolución o expulsión, el reconocimiento del derecho a la asistencia jurídica gratuita requerirá la oportuna solicitud en los términos previstos en las normas que regulan la asistencia jurídica gratuita, con constancia expresa de la voluntad de interponer el recurso conforme a la Ley de Enjuiciamiento Civil.",
+      "ley": "Artículo 22.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las normas relativas a publicidad, contradicción, audiencia del interesado y motivación de las resoluciones en los procedimientos de extranjería tienen como excepción expresa:",
+      "options": {
+        "a": "Lo dispuesto en el artículo 27 de la LO 4/2000",
+        "b": "Los procedimientos de reagrupación familiar de cónyuges",
+        "c": "Cualquier procedimiento relacionado con la concesión de visados de turismo",
+        "d": "Los expedientes de renovación ordinaria de autorizaciones de residencia"
+      },
+      "correct": "a",
+      "explicacion": "Los procedimientos administrativos en materia de extranjería respetarán las garantías generales del procedimiento administrativo, especialmente en publicidad, contradicción, audiencia y motivación, salvo lo dispuesto en el artículo 27 de la LO 4/2000, que prevé un régimen específico para determinados supuestos relacionados con la denegación de visado.",
+      "ley": "Artículo 20.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Constituyen actos de discriminación, conforme al artículo 23.2.b), los que impongan condiciones más gravosas que a los españoles o impliquen resistencia a facilitar a un extranjero:",
+      "options": {
+        "a": "Información meteorológica de carácter público, sin restricción adicional sobre otros servicios",
+        "b": "Bienes o servicios ofrecidos al público, solo por su condición de tal o por pertenecer a determinada raza, religión, etnia o nacionalidad",
+        "c": "Acceso a archivos históricos de carácter reservado por motivos de seguridad nacional",
+        "d": "Servicios exclusivamente de naturaleza privada sin ninguna proyección pública"
+      },
+      "correct": "b",
+      "explicacion": "Constituyen actos de discriminación todos los que impongan condiciones más gravosas que a los españoles, o que impliquen resistencia a facilitar a un extranjero bienes o servicios ofrecidos al público, solo por su condición de tal o por pertenecer a una determinada raza, religión, etnia o nacionalidad.",
+      "ley": "Artículo 23.2.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El derecho a la asistencia jurídica gratuita de los extranjeros, en los procesos en los que sean parte, se reconoce:",
+      "options": {
+        "a": "En las mismas condiciones que a los ciudadanos españoles, cualquiera que sea la jurisdicción en que se sigan dichos procesos",
+        "b": "Solo cuando el proceso afecte a derechos fundamentales de naturaleza estrictamente personal",
+        "c": "Únicamente para extranjeros mayores de edad que residan en España de forma legal",
+        "d": "Solo en el orden jurisdiccional penal, no en otros órdenes jurisdiccionales"
+      },
+      "correct": "a",
+      "explicacion": "Los extranjeros que se hallen en España tienen derecho a la asistencia jurídica gratuita en los procesos en los que sean parte, cualquiera que sea la jurisdicción en la que se sigan, en las mismas condiciones que los ciudadanos españoles, sin restricción a una jurisdicción concreta.",
+      "ley": "Artículo 22.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_04_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La definición general de discriminación del artículo 23.1 de la LO 4/2000 exige que el acto, directa o indirectamente, tenga como fin o efecto:",
+      "options": {
+        "a": "Provocar un perjuicio económico cuantificable y acreditado mediante informe pericial",
+        "b": "Reducir el número de extranjeros empadronados en un municipio determinado",
+        "c": "Destruir o limitar el reconocimiento o ejercicio, en condiciones de igualdad, de los derechos humanos y libertades fundamentales en el ámbito político, económico, social o cultural",
+        "d": "Causar un daño moral resarcible exclusivamente por la vía civil ordinaria"
+      },
+      "correct": "c",
+      "explicacion": "A los efectos de la LO 4/2000, representa discriminación todo acto que, directa o indirectamente, conlleve una distinción, exclusión, restricción o preferencia contra un extranjero basada en los motivos enumerados, y que tenga como fin o efecto destruir o limitar el reconocimiento o el ejercicio, en condiciones de igualdad, de los derechos humanos y libertades fundamentales en el campo político, económico, social o cultural.",
+      "ley": "Artículo 23.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

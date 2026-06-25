@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_13_test_17_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 2 de la Ley 5/2014, se entiende por usuario de seguridad privada a:",
+      "options": {
+        "a": "El propio personal habilitado de seguridad privada",
+        "b": "Únicamente las administraciones públicas que contratan vigilantes",
+        "c": "Las personas físicas o jurídicas que contratan servicios o adoptan medidas de seguridad privada",
+        "d": "Las compañías aseguradoras del sector"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 2.10 de la Ley 5/2014 define al usuario de seguridad privada como quien contrata servicios o adopta medidas, voluntaria u obligatoriamente.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_17_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 8 de la LO 4/2015, el Documento Nacional de Identidad es el único documento con suficiente valor por sí solo para acreditar, a todos los efectos, la identidad y los ______ de su titular.",
+      "options": {
+        "a": "Datos personales",
+        "b": "Bienes inmuebles",
+        "c": "Estudios académicos",
+        "d": "Antecedentes laborales"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 8.1 de la LO 4/2015 reconoce al Documento Nacional de Identidad el valor de acreditar la identidad y los datos personales de su titular.",
+      "ley": "LO 4/2015, art. 8"
+    },
+    {
+      "id": "tema_13_test_17_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes definiciones del artículo 2 de la Ley 5/2014 NO es correcta:",
+      "options": {
+        "a": "Servicios de seguridad privada son las acciones llevadas a cabo para materializar las actividades de seguridad privada",
+        "b": "Funciones de seguridad privada son las facultades atribuidas al personal de seguridad privada",
+        "c": "Medidas de seguridad privada son las disposiciones adoptadas para el cumplimiento de fines de prevención o protección",
+        "d": "Prestadores de servicios de seguridad privada son exclusivamente las empresas de seguridad, sin incluir a despachos de detectives"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 2.6 de la Ley 5/2014 incluye también a los despachos de detectives y al personal habilitado dentro del concepto de prestadores de servicios de seguridad privada.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_17_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 1 de la LO 4/2015, esta ley regula un conjunto de actuaciones orientadas a la tutela de la seguridad ciudadana mediante la protección de personas y bienes y:",
+      "options": {
+        "a": "El mantenimiento de la tranquilidad de los ciudadanos",
+        "b": "La promoción del turismo sostenible",
+        "c": "El fomento de la actividad económica local",
+        "d": "La gestión de infraestructuras viarias"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 1.2 de la LO 4/2015 vincula la tutela de la seguridad ciudadana a la protección de personas y bienes y al mantenimiento de la tranquilidad de los ciudadanos.",
+      "ley": "LO 4/2015, art. 1"
+    },
+    {
+      "id": "tema_13_test_17_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 5.1 de la LO 4/2015, las personas físicas o jurídicas son consideradas organizadoras de una manifestación cuando hayan suscrito la preceptiva ______.",
+      "options": {
+        "a": "Licencia municipal",
+        "b": "Autorización judicial",
+        "c": "Comunicación",
+        "d": "Fianza"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 30.3 de la LO 4/2015 vincula la condición de organizador a la suscripción de la preceptiva comunicación de la reunión o manifestación.",
+      "ley": "LO 4/2015, art. 30"
+    },
+    {
+      "id": "tema_13_test_17_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los tipos de medidas de seguridad privada, conforme al artículo 52 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Las medidas de seguridad física impiden o dificultan el acceso mediante barreras físicas",
+        "b": "Las medidas de seguridad electrónica detectan amenazas mediante dispositivos electrónicos",
+        "c": "Las medidas de seguridad organizativa se basan en la planificación de funciones realizadas por personas",
+        "d": "Las medidas de seguridad personal consisten exclusivamente en sistemas de alarma conectados a centrales"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 52.1 de la Ley 5/2014 define las medidas de seguridad personal como aquellas destinadas a la prestación de servicios de seguridad distintos de los específicos de las demás categorías, no limitadas a sistemas de alarma.",
+      "ley": "Ley 5/2014, art. 52"
+    },
+    {
+      "id": "tema_13_test_17_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 34 de la LO 4/2015, las infracciones tipificadas en la ley se clasifican en:",
+      "options": {
+        "a": "Penales y administrativas",
+        "b": "Muy graves, graves y leves",
+        "c": "Permanentes y continuadas",
+        "d": "Dolosas e imprudentes"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 34 de la LO 4/2015 establece la clasificación tripartita de las infracciones en muy graves, graves y leves.",
+      "ley": "LO 4/2015, art. 34"
+    },
+    {
+      "id": "tema_13_test_17_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 2 de la Ley 5/2014, los despachos de detectives privados son oficinas constituidas por uno o más detectives privados que prestan servicios de ______.",
+      "options": {
+        "a": "Vigilancia armada",
+        "b": "Investigación privada",
+        "c": "Mediación civil",
+        "d": "Tasación pericial"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 2.11 de la Ley 5/2014 define los despachos de detectives por la prestación de servicios de investigación privada.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_17_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el concepto de seguridad privada, conforme al artículo 2.1 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Incluye actividades, servicios, funciones y medidas adoptadas de forma voluntaria u obligatoria",
+        "b": "Tiene por finalidad garantizar la seguridad de las personas y proteger su patrimonio",
+        "c": "Puede ser realizada o prestada por empresas de seguridad, despachos de detectives y personal habilitado",
+        "d": "Sustituye completamente la necesidad de intervención de las Fuerzas y Cuerpos de Seguridad"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 1.1 de la Ley 5/2014 califica la seguridad privada como complementaria y subordinada a la seguridad pública, sin sustituir en ningún caso a las Fuerzas y Cuerpos de Seguridad.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_17_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 3 de la LO 4/2015, entre los fines de la ley se incluye la protección de personas y bienes, con especial atención a los menores y a:",
+      "options": {
+        "a": "Las personas con discapacidad necesitadas de especial protección",
+        "b": "Los turistas extranjeros",
+        "c": "Los funcionarios en activo",
+        "d": "Los profesionales del sector financiero"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 3 de la LO 4/2015 menciona expresamente a las personas con discapacidad necesitadas de especial protección, junto a los menores, entre los colectivos de especial atención.",
+      "ley": "LO 4/2015, art. 3"
+    },
+    {
+      "id": "tema_13_test_17_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 2 de la Ley 5/2014, las actividades de seguridad privada son los ámbitos de actuación material en que los prestadores llevan a cabo su acción ______ y profesional.",
+      "options": {
+        "a": "Asociativa",
+        "b": "Sindical",
+        "c": "Empresarial",
+        "d": "Cooperativa"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 2.2 de la Ley 5/2014 define las actividades de seguridad privada como los ámbitos de actuación material de la acción empresarial y profesional de los prestadores de servicios.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_17_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los fines de la LO 4/2015, conforme a su artículo 3, NO es correcta:",
+      "options": {
+        "a": "Incluye el mantenimiento y, en su caso, el restablecimiento de la seguridad ciudadana",
+        "b": "Incluye la protección del libre ejercicio de los derechos fundamentales y libertades públicas",
+        "c": "Incluye la garantía del normal funcionamiento de las instituciones",
+        "d": "Tiene como único fin la persecución de delitos contra el patrimonio"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 3 de la LO 4/2015 enumera múltiples fines, sin limitarse en absoluto a la persecución de delitos contra el patrimonio, que ni siquiera se menciona como fin específico.",
+      "ley": "LO 4/2015, art. 3"
+    },
+    {
+      "id": "tema_13_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 2 de la Ley 5/2014, se entiende por elemento, producto o servicio homologado aquel que reúne las especificaciones técnicas o criterios que recoge:",
+      "options": {
+        "a": "Un manual interno de la empresa fabricante",
+        "b": "Una norma técnica al efecto",
+        "c": "Un contrato privado entre fabricante y distribuidor",
+        "d": "Una recomendación no vinculante del sector"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 2.13 de la Ley 5/2014 define la homologación por la conformidad con las especificaciones técnicas recogidas en una norma técnica al efecto.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_17_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 4 de la Ley 5/2014, uno de los fines de la seguridad privada es complementar el ______ de la seguridad que corresponde al Estado.",
+      "options": {
+        "a": "Presupuesto",
+        "b": "Monopolio",
+        "c": "Organigrama",
+        "d": "Catálogo"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 4 de la Ley 5/2014 incluye entre los fines complementar el monopolio de la seguridad que corresponde al Estado, como recurso externo de la seguridad pública.",
+      "ley": "Ley 5/2014, art. 4"
+    },
+    {
+      "id": "tema_13_test_17_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre las actividades de seguridad privada, conforme al artículo 5.1 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Incluyen la vigilancia y protección de bienes, establecimientos, lugares y eventos públicos o privados",
+        "b": "Incluyen el acompañamiento, defensa y protección de personas físicas determinadas",
+        "c": "Incluyen la explotación de centrales de conexión y recepción de señales de alarma",
+        "d": "Incluyen la redacción de informes periciales judiciales en procesos civiles"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 5.1 de la Ley 5/2014 no incluye entre las actividades de seguridad privada la redacción de informes periciales judiciales en procesos civiles, ajena al objeto de la norma.",
+      "ley": "Ley 5/2014, art. 5"
+    },
+    {
+      "id": "tema_13_test_17_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 26 de la Ley 5/2014, la uniformidad, distintivos y medios de defensa de los vigilantes de seguridad y guardas rurales se determinarán:",
+      "options": {
+        "a": "Por cada empresa de seguridad libremente",
+        "b": "Reglamentariamente",
+        "c": "Por acuerdo sindical sectorial",
+        "d": "Por el cliente que contrata el servicio"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 26.5 de la Ley 5/2014 remite a la vía reglamentaria la determinación de la uniformidad, distintivos y medios de defensa de este personal.",
+      "ley": "Ley 5/2014, art. 26"
+    },
+    {
+      "id": "tema_13_test_17_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 30 de la Ley 5/2014, entre los principios de actuación del personal de seguridad privada se incluye la ______ profesional sobre los hechos que conozca en el ejercicio de sus funciones.",
+      "options": {
+        "a": "Reserva",
+        "b": "Publicidad",
+        "c": "Transparencia",
+        "d": "Difusión"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 30 de la Ley 5/2014 incluye la reserva profesional entre los principios básicos de actuación del personal de seguridad privada.",
+      "ley": "Ley 5/2014, art. 30"
+    },
+    {
+      "id": "tema_13_test_17_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la definición de seguridad ciudadana en la LO 4/2015 NO es correcta:",
+      "options": {
+        "a": "Se configura como un bien jurídico de carácter colectivo",
+        "b": "Es requisito indispensable para el ejercicio de los derechos fundamentales y libertades públicas",
+        "c": "Se identifica exclusivamente con la ausencia total de cualquier tipo de delito en el territorio",
+        "d": "Su salvaguarda es función del Estado, con sujeción a la Constitución y a las leyes"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 1 de la LO 4/2015 no define la seguridad ciudadana como la ausencia absoluta de delito, sino como un bien jurídico colectivo vinculado al ejercicio efectivo de derechos y libertades.",
+      "ley": "LO 4/2015, art. 1"
+    },
+    {
+      "id": "tema_13_test_17_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 2 de la Ley 5/2014, se entiende por centro de formación de personal de seguridad privada a los establecimientos sometidos al régimen de declaración responsable para impartir en sus locales:",
+      "options": {
+        "a": "Formación al personal de seguridad privada",
+        "b": "Formación universitaria de grado en derecho",
+        "c": "Cursos de idiomas para opositores",
+        "d": "Formación militar reglada"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 2.12 de la Ley 5/2014 define estos centros por su finalidad de impartir formación al personal de seguridad privada.",
+      "ley": "Ley 5/2014, art. 2"
+    },
+    {
+      "id": "tema_13_test_17_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 2 de la Ley 5/2014, un elemento, producto o servicio acreditado, certificado o verificado es aquel que lo ha sido por una entidad independiente reconocida por cualquier Estado miembro de la ______.",
+      "options": {
+        "a": "Organización de las Naciones Unidas",
+        "b": "Organización Mundial del Comercio",
+        "c": "Unión Europea",
+        "d": "OTAN"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 2.14 de la Ley 5/2014 exige que dicha entidad esté reconocida por un Estado miembro de la Unión Europea.",
+      "ley": "Ley 5/2014, art. 2"
+    }
+  ]
+}

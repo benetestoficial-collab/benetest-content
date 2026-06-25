@@ -1,0 +1,307 @@
+{
+  "tema_numero": 12,
+  "tema": "Extranjería. Inmigración",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_12_test_16_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. El procedimiento preferente se aplica, entre otros supuestos, cuando el expediente trae causa de:",
+      "options": {
+        "a": "El simple incumplimiento de la obligación de obtener la tarjeta de identidad de extranjero",
+        "b": "Encontrarse trabajando sin autorización cuando se cuenta con residencia temporal vigente",
+        "c": "Participar en actividades contrarias a la seguridad nacional o que puedan perjudicar las relaciones de España con otros países",
+        "d": "Cualquier retraso inferior a un mes en la comunicación de un cambio de domicilio del extranjero"
+      },
+      "correct": "c",
+      "explicacion": "Incoado el expediente en el que pueda proponerse la expulsión, la tramitación tendrá carácter preferente, entre otros casos, por tratarse de la participación en actividades contrarias a la seguridad nacional o que puedan perjudicar las relaciones de España con otros países.",
+      "ley": "Artículo 63.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El procedimiento preferente también será aplicable en supuestos de irregularidad documental cuando concurra, entre otras, la circunstancia de:",
+      "options": {
+        "a": "Riesgo de incomparecencia",
+        "b": "Disponibilidad de vivienda en propiedad situada en el municipio de residencia habitual",
+        "c": "Presentación previa de una solicitud de reagrupación familiar a favor de hijos menores",
+        "d": "Acreditación de estudios universitarios homologados por el extranjero afectado"
+      },
+      "correct": "a",
+      "explicacion": "El procedimiento preferente será aplicable a la irregularidad documental cuando se diera, entre otras circunstancias, riesgo de incomparecencia, que el extranjero evitara o dificultase la expulsión, o que representase un riesgo para el orden público, la seguridad pública o la seguridad nacional.",
+      "ley": "Artículo 63.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En los supuestos del procedimiento preferente vinculados a irregularidad documental con riesgo de incomparecencia u orden público:",
+      "options": {
+        "a": "Se aplica automáticamente el período máximo de salida voluntaria de noventa días",
+        "b": "Se exige al extranjero abonar una fianza para acceder al período de salida voluntaria",
+        "c": "No cabrá la concesión del período de salida voluntaria",
+        "d": "Se concede siempre un período mínimo de treinta días para la salida voluntaria del territorio"
+      },
+      "correct": "c",
+      "explicacion": "En los supuestos de procedimiento preferente por irregularidad documental con concurrencia de riesgo de incomparecencia, dificultad de la expulsión o riesgo para el orden público o seguridad, no cabrá la concesión del período de salida voluntaria.",
+      "ley": "Artículo 63.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Iniciado el expediente preferente, se dará traslado al interesado del acuerdo de iniciación para que alegue lo que considere adecuado en el plazo de:",
+      "options": {
+        "a": "1 mes, equivalente al plazo de comunicación de cambios de domicilio en residencia temporal",
+        "b": "10 días, plazo idéntico al de comunicación de designación de delegado de protección de datos",
+        "c": "48 horas",
+        "d": "72 horas, plazo idéntico al de detención cautelar previa al internamiento"
+      },
+      "correct": "c",
+      "explicacion": "Iniciado el expediente, se dará traslado al interesado del acuerdo de iniciación debidamente motivado y por escrito, para que alegue lo que considere adecuado, en el plazo de 48 horas, advirtiéndole de las consecuencias de no hacerlo así.",
+      "ley": "Artículo 63.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Si el interesado no efectuase alegaciones ni proposición de prueba sobre el contenido del acuerdo de iniciación del procedimiento preferente, dicho acuerdo:",
+      "options": {
+        "a": "Será considerado como propuesta de resolución con remisión a la autoridad competente para resolver",
+        "b": "Queda automáticamente archivado sin posibilidad de continuar la tramitación del expediente",
+        "c": "Determina la nulidad de pleno derecho de todo lo actuado hasta ese momento procesal",
+        "d": "Se transforma de oficio en procedimiento ordinario, perdiendo así su carácter preferente"
+      },
+      "correct": "a",
+      "explicacion": "Si el interesado, o su representante, no efectuase alegaciones ni proposición de prueba, o si no se admitiesen por improcedentes o innecesarias, sin cambiar la calificación de los hechos, el acuerdo de iniciación del expediente será considerado como propuesta de resolución con remisión a la autoridad competente.",
+      "ley": "Artículo 63.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En el supuesto de irregularidad documental cuando el extranjero acredite haber solicitado con anterioridad autorización de residencia temporal por arraigo, el órgano encargado de tramitar la expulsión:",
+      "options": {
+        "a": "Continúa el expediente de expulsión sin atender a la solicitud de residencia presentada con anterioridad",
+        "b": "Archiva definitivamente el expediente de expulsión, con independencia del resultado de la solicitud",
+        "c": "Suspenderá la misma hasta la resolución de la solicitud, continuando el expediente en caso de denegación",
+        "d": "Solicita la suspensión cautelar de la propia solicitud de residencia hasta resolver primero la expulsión"
+      },
+      "correct": "c",
+      "explicacion": "En los supuestos de irregularidad documental, cuando el extranjero acredite haber solicitado con anterioridad autorización de residencia temporal por arraigo, el órgano encargado de tramitar la expulsión suspenderá la misma hasta la resolución de la solicitud, procediendo a la continuación en caso de denegación.",
+      "ley": "Artículo 63.6 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. La ejecución de la orden de expulsión en los supuestos del procedimiento preferente se efectuará:",
+      "options": {
+        "a": "Tras transcurrir un plazo mínimo de cumplimiento voluntario de siete días desde la notificación",
+        "b": "Solo cuando lo autorice expresamente el Tribunal Superior de Justicia correspondiente",
+        "c": "De forma inmediata",
+        "d": "Una vez transcurrido el plazo general de treinta días previsto para el procedimiento ordinario"
+      },
+      "correct": "c",
+      "explicacion": "La ejecución de la orden de expulsión en los supuestos previstos para el procedimiento preferente se efectuará de forma inmediata, sin que proceda en estos casos la concesión de un plazo de cumplimiento voluntario propio del procedimiento ordinario.",
+      "ley": "Artículo 63.7 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando se tramite la expulsión para supuestos distintos a los previstos para el procedimiento preferente, el procedimiento a seguir será:",
+      "options": {
+        "a": "El especial de menores, con independencia de la edad del extranjero afectado",
+        "b": "El ordinario",
+        "c": "Siempre el sumario, sin posibilidad de aplicación del procedimiento ordinario en ningún caso",
+        "d": "El de urgencia, idéntico en plazos al procedimiento preferente con alguna salvedad menor"
+      },
+      "correct": "b",
+      "explicacion": "Cuando se tramite la expulsión para supuestos distintos a los previstos en el artículo 63 (procedimiento preferente), el procedimiento a seguir será el ordinario, regulado en el artículo 63 bis de la ley.",
+      "ley": "Artículo 63 bis.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La resolución de expulsión tramitada por el procedimiento ordinario incluirá un plazo de cumplimiento voluntario cuya duración oscilará entre:",
+      "options": {
+        "a": "Un mes y seis meses, en función de la gravedad de la infracción cometida por el extranjero",
+        "b": "Siete y treinta días, contados desde la notificación de la resolución",
+        "c": "Tres y diez días, plazo idéntico al previsto para alegar en el procedimiento preferente",
+        "d": "Quince días fijos, sin posibilidad de variación según las circunstancias del caso concreto"
+      },
+      "correct": "b",
+      "explicacion": "La resolución en que se adopte la expulsión tramitada mediante el procedimiento ordinario incluirá un plazo de cumplimiento voluntario para que el interesado abandone el territorio nacional, cuya duración oscilará entre siete y treinta días, comenzando a contar desde la notificación de la resolución.",
+      "ley": "Artículo 63 bis.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. El plazo de cumplimiento voluntario de la orden de expulsión podrá prorrogarse durante un tiempo prudencial en atención a circunstancias como:",
+      "options": {
+        "a": "Solo si el extranjero acredita disponer de medios económicos suficientes para costear su salida",
+        "b": "Únicamente la voluntad expresa de prórroga manifestada por el empleador del extranjero afectado",
+        "c": "Exclusivamente el idioma que hable el extranjero, sin valoración de cualquier otra circunstancia",
+        "d": "La duración de la estancia, estar a cargo de niños escolarizados o la existencia de otros vínculos familiares y sociales"
+      },
+      "correct": "d",
+      "explicacion": "El plazo de cumplimiento voluntario podrá prorrogarse durante un tiempo prudencial en atención a las circunstancias que concurran en cada caso, como pueden ser la duración de la estancia, estar a cargo de niños escolarizados o la existencia de otros vínculos familiares y sociales.",
+      "ley": "Artículo 63 bis.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. En la fase de tramitación del procedimiento ordinario y durante el plazo de cumplimiento voluntario, podrán adoptarse las medidas cautelares del artículo 61, excepto:",
+      "options": {
+        "a": "La de internamiento",
+        "b": "La de residencia obligatoria en determinado lugar, vetada en el procedimiento ordinario",
+        "c": "La de presentación periódica, reservada exclusivamente al procedimiento preferente",
+        "d": "La de retirada del pasaporte, que solo puede aplicarse en procedimiento preferente"
+      },
+      "correct": "a",
+      "explicacion": "Tanto en la fase de tramitación del procedimiento ordinario como durante el plazo de cumplimiento voluntario, podrá adoptarse alguna o algunas de las medidas cautelares del artículo 61, excepto la de internamiento, lo que diferencia este procedimiento del preferente.",
+      "ley": "Artículo 63 bis.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Expirado el plazo de cumplimiento voluntario sin que el extranjero haya abandonado el territorio, se procederá a su detención y conducción hasta el puesto de salida; si la expulsión no pudiera ejecutarse en 72 horas:",
+      "options": {
+        "a": "Se prorroga automáticamente el plazo de cumplimiento voluntario por otros treinta días adicionales",
+        "b": "El extranjero queda en libertad inmediata sin posibilidad de adoptar medida cautelar alguna",
+        "c": "Se archiva el expediente de expulsión, sin posibilidad de adoptar ninguna medida adicional",
+        "d": "Podrá solicitarse la medida de internamiento, que no podrá exceder del período establecido en el artículo 62"
+      },
+      "correct": "d",
+      "explicacion": "Expirado el plazo de cumplimiento voluntario sin abandono del territorio, se procederá a la detención y conducción al puesto de salida; si la expulsión no pudiera ejecutarse en 72 horas, podrá solicitarse la medida de internamiento, sin exceder el período máximo establecido en el artículo 62.",
+      "ley": "Artículo 64.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. En los supuestos de prórroga del plazo de cumplimiento voluntario o de aplazamiento de la expulsión, se tendrá en cuenta la garantía para el extranjero del mantenimiento de la unidad familiar, así como:",
+      "options": {
+        "a": "El acceso gratuito a formación universitaria de grado completo durante todo el período de aplazamiento",
+        "b": "La atención sanitaria de urgencia y tratamiento básico de enfermedades, y el acceso de los menores a la enseñanza básica",
+        "c": "La exención total del pago de cualquier tasa administrativa pendiente de liquidación previa",
+        "d": "La concesión automática de un permiso de trabajo provisional mientras dure el aplazamiento acordado"
+      },
+      "correct": "b",
+      "explicacion": "En los supuestos de prórroga o aplazamiento se tendrá en cuenta la garantía del mantenimiento de la unidad familiar, la prestación de atención sanitaria de urgencia y tratamiento básico de enfermedades, el acceso de los menores a la enseñanza básica, y las necesidades especiales de personas vulnerables.",
+      "ley": "Artículo 64.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. La ejecución de la resolución de expulsión se efectuará, en su caso, a costa del empleador sancionado por determinadas infracciones, o en el resto de supuestos:",
+      "options": {
+        "a": "A costa del extranjero si tuviere medios económicos para ello, comunicándose en otro caso al representante diplomático o consular",
+        "b": "A costa exclusivamente de la organización no gubernamental que hubiera asistido al extranjero",
+        "c": "Siempre y en todo caso a costa del Estado español, sin posibilidad de repercusión de coste alguno",
+        "d": "Mediante repercusión obligatoria al país de origen del extranjero, sin valorar otras circunstancias"
+      },
+      "correct": "a",
+      "explicacion": "La ejecución de la resolución de expulsión se efectuará a costa del empleador sancionado por determinadas infracciones o, en el resto de supuestos, a costa del extranjero si tuviere medios económicos; de no darse ninguna de dichas condiciones, se comunicará al representante diplomático o consular de su país.",
+      "ley": "Artículo 64.3 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando un extranjero detenido en España tenga dictada una resolución de expulsión por un Estado miembro de la Unión Europea:",
+      "options": {
+        "a": "Se requiere siempre incoar un nuevo expediente completo de expulsión conforme a la legislación española",
+        "b": "Se exige obtener primero el consentimiento expreso del propio extranjero afectado por la resolución",
+        "c": "Solo puede ejecutarse tras la ratificación expresa de la Audiencia Nacional sobre dicha resolución",
+        "d": "Se procederá a ejecutar inmediatamente dicha resolución, sin necesidad de incoar nuevo expediente de expulsión"
+      },
+      "correct": "d",
+      "explicacion": "Cuando un extranjero sea detenido en territorio español y se constate que contra él se ha dictado una resolución de expulsión por un Estado miembro de la Unión Europea, se procederá a ejecutar inmediatamente la resolución, sin necesidad de incoar nuevo expediente de expulsión.",
+      "ley": "Artículo 64.4 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Se suspenderá la ejecución de la resolución de expulsión cuando:",
+      "options": {
+        "a": "Se formalice una petición de protección internacional, hasta que se haya inadmitido a trámite o resuelto",
+        "b": "El extranjero presente cualquier escrito ante la Administración, sin importar su contenido o naturaleza",
+        "c": "El extranjero acredite haber abonado íntegramente la multa correspondiente a su infracción previa",
+        "d": "Hayan transcurrido menos de cinco días desde la notificación de la propia resolución de expulsión"
+      },
+      "correct": "a",
+      "explicacion": "Se suspenderá la ejecución de la resolución de expulsión cuando se formalice una petición de protección internacional, hasta que se haya inadmitido a trámite o resuelto, conforme a lo dispuesto en la normativa de protección internacional aplicable.",
+      "ley": "Artículo 64.5 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. No será precisa la incoación de expediente de expulsión para el traslado escoltado de solicitantes de protección internacional cuya solicitud haya sido inadmitida a trámite, cuando:",
+      "options": {
+        "a": "El propio solicitante consienta expresamente y por escrito el traslado a un tercer país elegido por él mismo",
+        "b": "El solicitante manifieste su intención de recurrir judicialmente la inadmisión de su solicitud presentada",
+        "c": "Hayan transcurrido más de seis meses desde la presentación de la solicitud de protección internacional",
+        "d": "Sea responsable otro Estado del examen de la solicitud, conforme a convenios internacionales, dentro del plazo en que dicho Estado debe estudiarla"
+      },
+      "correct": "d",
+      "explicacion": "No será precisa la incoación de expediente de expulsión para proceder al traslado escoltado de solicitantes de protección internacional cuya solicitud haya sido inadmitida a trámite por ser responsable otro Estado del examen de la solicitud, conforme a los convenios internacionales aplicables.",
+      "ley": "Artículo 64.6.a) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. Las resoluciones administrativas sancionadoras en materia de extranjería serán recurribles:",
+      "options": {
+        "a": "Exclusivamente ante el Defensor del Pueblo, sin posibilidad de acudir a otra vía de revisión",
+        "b": "Solo si el extranjero acredita disponer de asistencia jurídica gratuita previamente reconocida",
+        "c": "Únicamente mediante recurso de amparo directo ante el Tribunal Constitucional, sin vía previa adicional",
+        "d": "Con arreglo a lo dispuesto en las leyes, siendo el régimen de ejecutividad el previsto con carácter general"
+      },
+      "correct": "d",
+      "explicacion": "Las resoluciones administrativas sancionadoras serán recurribles con arreglo a lo dispuesto en las leyes, siendo el régimen de ejecutividad de las mismas el previsto con carácter general en la legislación de procedimiento administrativo común.",
+      "ley": "Artículo 65.1 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 12. Extranjería. Inmigración. Cuando el extranjero no se encuentre en España, podrá cursar los recursos procedentes, tanto en vía administrativa como jurisdiccional:",
+      "options": {
+        "a": "Únicamente mediante representación letrada designada por el propio extranjero en territorio español",
+        "b": "A través de las representaciones diplomáticas o consulares correspondientes, quienes los remitirán al organismo competente",
+        "c": "Solo si previamente solicita autorización expresa de retorno a España para presentar dichos recursos",
+        "d": "Exclusivamente a través de la organización no gubernamental que en su momento le hubiera asistido"
+      },
+      "correct": "b",
+      "explicacion": "En todo caso, cuando el extranjero no se encuentre en España, podrá cursar los recursos procedentes, tanto en vía administrativa como jurisdiccional, a través de las representaciones diplomáticas o consulares correspondientes, quienes los remitirán al organismo competente.",
+      "ley": "Artículo 65.2 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    },
+    {
+      "id": "tema_12_test_16_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 12. Extranjería. Inmigración. No será precisa la incoación de expediente de expulsión para el traslado de extranjeros en tránsito por territorio español solicitado por un Estado miembro de la UE, cuando dicho tránsito se efectúe:",
+      "options": {
+        "a": "Únicamente si el extranjero presta su consentimiento expreso por escrito al tránsito propuesto",
+        "b": "A efectos de repatriación o alejamiento por vía aérea",
+        "c": "Solo cuando el tránsito se realice íntegramente por vía marítima, sin extensión a la vía aérea",
+        "d": "Exclusivamente con fines turísticos acreditados mediante reserva hotelera previa"
+      },
+      "correct": "b",
+      "explicacion": "No será precisa la incoación de expediente de expulsión para proceder al traslado, manutención o custodia de extranjeros que realicen un tránsito en territorio español solicitado por un Estado miembro de la Unión Europea, a efectos de repatriación o alejamiento por vía aérea.",
+      "ley": "Artículo 64.6.b) de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    }
+  ]
+}

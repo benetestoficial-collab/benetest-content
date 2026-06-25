@@ -1,0 +1,307 @@
+{
+  "tema_numero": 13,
+  "tema": "Seguridad Pública y Seguridad Privada",
+  "test": "Test 19",
+  "preguntas": [
+    {
+      "id": "tema_13_test_19_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 32 de la Ley 5/2014, los vigilantes de seguridad no podrán, en ningún caso, proceder al interrogatorio de los detenidos, sin que se considere como tal:",
+      "options": {
+        "a": "La anotación de sus datos personales para su comunicación a las autoridades",
+        "b": "La solicitud de su domicilio completo y profesión",
+        "c": "La grabación en vídeo de su declaración voluntaria",
+        "d": "La obtención de su firma en un documento de reconocimiento de hechos"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 32.1 de la Ley 5/2014 excluye del concepto de interrogatorio la simple anotación de datos personales para su comunicación a las autoridades.",
+      "ley": "Ley 5/2014, art. 32"
+    },
+    {
+      "id": "tema_13_test_19_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 36.2 de la LO 4/2015, constituye infracción grave la perturbación grave de la seguridad ciudadana con ocasión de reuniones frente a las sedes del Congreso de los Diputados, el Senado y las asambleas legislativas autonómicas, ______ no estuvieran reunidas.",
+      "options": {
+        "a": "Salvo que",
+        "b": "Aunque",
+        "c": "A menos que",
+        "d": "Excepto si"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 36.2 de la LO 4/2015 tipifica esta infracción aunque dichas cámaras no estuvieran reunidas en el momento de los hechos.",
+      "ley": "LO 4/2015, art. 36"
+    },
+    {
+      "id": "tema_13_test_19_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los servicios con armas de fuego, conforme al artículo 40 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Incluyen la vigilancia del almacenamiento, recuento y transporte de dinero, valores y objetos valiosos",
+        "b": "Incluyen la vigilancia de fábricas y depósitos o transporte de armas, cartuchería y explosivos",
+        "c": "Incluyen la vigilancia perimetral en centros penitenciarios cuando sus características lo requieran",
+        "d": "Permiten portar el arma de fuego en cualquier momento, incluso fuera de servicio"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 40.3 de la Ley 5/2014 limita la portación del arma de fuego a los momentos en que el personal esté efectivamente de servicio.",
+      "ley": "Ley 5/2014, art. 40"
+    },
+    {
+      "id": "tema_13_test_19_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 21.1 de la Ley 5/2014, las empresas de seguridad deben comunicar al registro correspondiente las altas y bajas del personal de seguridad privada y:",
+      "options": {
+        "a": "Los sueldos brutos de cada trabajador",
+        "b": "Las incidencias concretas relacionadas con los servicios que prestan",
+        "c": "El historial médico de cada vigilante",
+        "d": "Las vacaciones anuales del personal"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 21.1 de la Ley 5/2014 exige comunicar al registro las altas y bajas de personal, así como las incidencias concretas relacionadas con los servicios prestados.",
+      "ley": "Ley 5/2014, art. 21"
+    },
+    {
+      "id": "tema_13_test_19_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la potestad sancionadora administrativa, conforme al artículo 44 de la LO 4/2015, NO es correcta:",
+      "options": {
+        "a": "Se rige por la normativa de derecho administrativo común",
+        "b": "Admite especialidades reguladas en el propio capítulo sancionador de la ley",
+        "c": "Es plenamente independiente y compatible con el ejercicio de la acción penal por los mismos hechos sin ninguna limitación",
+        "d": "Forma parte del título dedicado al régimen sancionador de la ley"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 45 de la LO 4/2015 establece el carácter subsidiario de la potestad sancionadora administrativa respecto de la penal, impidiendo sancionar dos veces los mismos hechos cuando exista identidad de sujeto, hecho y fundamento.",
+      "ley": "LO 4/2015, art. 44"
+    },
+    {
+      "id": "tema_13_test_19_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 29.1 de la Ley 5/2014, para los jefes y directores de seguridad, la formación consiste en la obtención de un título universitario oficial de grado en seguridad o del curso de ______ de seguridad reconocido por el Ministerio del Interior.",
+      "options": {
+        "a": "Dirección",
+        "b": "Vigilancia",
+        "c": "Investigación",
+        "d": "Escolta"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 29.1 de la Ley 5/2014 prevé el curso de dirección de seguridad como alternativa al título universitario para jefes y directores de seguridad.",
+      "ley": "Ley 5/2014, art. 29"
+    },
+    {
+      "id": "tema_13_test_19_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 37.17 de la LO 4/2015, constituye infracción leve el consumo de bebidas alcohólicas en lugares, vías, establecimientos o transportes públicos cuando:",
+      "options": {
+        "a": "Perturbe gravemente la tranquilidad ciudadana",
+        "b": "Se realice después de las diez de la noche",
+        "c": "El consumidor sea menor de treinta años",
+        "d": "Se realice en grupos de más de tres personas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 37.17 de la LO 4/2015 condiciona esta infracción leve a que el consumo perturbe gravemente la tranquilidad ciudadana.",
+      "ley": "LO 4/2015, art. 37"
+    },
+    {
+      "id": "tema_13_test_19_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la investigación privada, conforme al artículo 48 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Puede referirse al ámbito económico, laboral, mercantil o financiero del investigado",
+        "b": "Puede dirigirse a garantizar el normal desarrollo de actividades en ferias, hoteles o grandes superficies",
+        "c": "Requiere la acreditación del interés legítimo alegado por el solicitante",
+        "d": "Puede extenderse sin limitación a la vida íntima desarrollada en el domicilio del investigado"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 48.3 de la Ley 5/2014 prohíbe en todo caso investigar la vida íntima desarrollada en el domicilio u otros lugares reservados.",
+      "ley": "Ley 5/2014, art. 48"
+    },
+    {
+      "id": "tema_13_test_19_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 9.1 de la Ley 5/2014, no podrá prestarse ningún tipo de servicio de seguridad privada que no haya sido previamente ______ y, en su caso, autorizado.",
+      "options": {
+        "a": "Subvencionado",
+        "b": "Anunciado públicamente",
+        "c": "Contratado",
+        "d": "Auditado"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 9.1 de la Ley 5/2014 exige que el servicio haya sido previamente contratado y, en su caso, autorizado.",
+      "ley": "Ley 5/2014, art. 9"
+    },
+    {
+      "id": "tema_13_test_19_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 17.1 de la LO 4/2015, los agentes podrán ocupar preventivamente los efectos o instrumentos susceptibles de ser utilizados para acciones ilegales, dándoles:",
+      "options": {
+        "a": "Venta en subasta pública sin trámite previo",
+        "b": "Uso inmediato por las propias Fuerzas de Seguridad",
+        "c": "El destino que legalmente proceda",
+        "d": "Destrucción automática sin posibilidad de recurso"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 17.1 de la LO 4/2015 ordena dar a estos efectos el destino que legalmente proceda, conforme al procedimiento aplicable.",
+      "ley": "LO 4/2015, art. 17"
+    },
+    {
+      "id": "tema_13_test_19_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre los servicios de protección personal, conforme al artículo 43 de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "Están a cargo de escoltas privados y consisten en el acompañamiento, custodia y defensa de personas determinadas",
+        "b": "Se prestan con independencia del lugar donde se encuentre la persona protegida, incluido su tránsito por vías públicas",
+        "c": "Requieren autorización previa del Ministerio del Interior o del órgano autonómico competente",
+        "d": "Permiten realizar identificaciones y restricciones de circulación de forma habitual, sin necesidad de causa específica"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 43.2 de la Ley 5/2014 prohíbe realizar identificaciones, restricciones de circulación o detenciones, salvo en caso de flagrante delito relacionado con el objeto de la protección.",
+      "ley": "Ley 5/2014, art. 43"
+    },
+    {
+      "id": "tema_13_test_19_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 36.10 de la LO 4/2015, constituye infracción grave portar, exhibir o usar armas de modo negligente, temerario o intimidatorio, o fuera de los lugares habilitados, aun cuando se tuviera ______.",
+      "options": {
+        "a": "Justificación médica",
+        "b": "Licencia",
+        "c": "Autorización verbal",
+        "d": "Permiso de residencia"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 36.10 de la LO 4/2015 tipifica esta conducta como infracción grave aun cuando se tuviera licencia para el arma utilizada de forma negligente, temeraria o intimidatoria.",
+      "ley": "LO 4/2015, art. 36"
+    },
+    {
+      "id": "tema_13_test_19_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 19.1 de la Ley 5/2014, las empresas de seguridad privada deben suscribir un contrato de seguro de responsabilidad civil o constituir otras garantías financieras en la cuantía que se determine:",
+      "options": {
+        "a": "Por el colegio profesional correspondiente",
+        "b": "Por acuerdo entre las partes contratantes",
+        "c": "Reglamentariamente",
+        "d": "Por la entidad bancaria de la empresa"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 19.1.e) de la Ley 5/2014 remite a la vía reglamentaria la determinación de la cuantía y condiciones del seguro de responsabilidad civil.",
+      "ley": "Ley 5/2014, art. 19"
+    },
+    {
+      "id": "tema_13_test_19_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre la responsabilidad por infracciones, comparando el artículo 30 de la LO 4/2015 y el régimen de la Ley 5/2014, NO es correcta:",
+      "options": {
+        "a": "En la LO 4/2015 la responsabilidad recae directamente en el autor del hecho",
+        "b": "En la LO 4/2015 los menores de catorce años están exentos de responsabilidad",
+        "c": "En la Ley 5/2014 las empresas de seguridad responden civilmente de los actos de sus detectives dependientes",
+        "d": "Ambas leyes excluyen cualquier forma de responsabilidad solidaria entre varios sujetos"
+      },
+      "correct": "d",
+      "explicacion": "Tanto la LO 4/2015, en su artículo 42.2 sobre responsabilidad civil, como la Ley 5/2014, en su artículo 25.2 sobre titulares de despachos de detectives, contemplan supuestos de responsabilidad solidaria o civil de terceros.",
+      "ley": "LO 4/2015 y Ley 5/2014, régimen de responsabilidad"
+    },
+    {
+      "id": "tema_13_test_19_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 41.2 de la Ley 5/2014, la vigilancia en polígonos industriales y urbanizaciones delimitados requiere ______ por parte del órgano competente.",
+      "options": {
+        "a": "Simple comunicación posterior",
+        "b": "Autorización previa",
+        "c": "Acuerdo verbal con la policía local",
+        "d": "Ninguna formalidad específica"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 41.2 de la Ley 5/2014 exige autorización previa del órgano competente para estos servicios de vigilancia en polígonos y urbanizaciones delimitados.",
+      "ley": "Ley 5/2014, art. 41"
+    },
+    {
+      "id": "tema_13_test_19_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 9.2 de la LO 4/2015, la sustracción o extravío del Documento Nacional de Identidad debe comunicarse tan pronto como sea posible a:",
+      "options": {
+        "a": "La comisaría de Policía o puesto de las Fuerzas y Cuerpos de Seguridad más próximo",
+        "b": "El Registro Civil del lugar de nacimiento del titular",
+        "c": "La oficina de correos más cercana",
+        "d": "El ayuntamiento del domicilio del titular exclusivamente"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 9.2 de la LO 4/2015 exige comunicar la sustracción o extravío a la comisaría de Policía o puesto de las Fuerzas y Cuerpos de Seguridad más próximo.",
+      "ley": "LO 4/2015, art. 9"
+    },
+    {
+      "id": "tema_13_test_19_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Señale cuál de las siguientes afirmaciones sobre el control de armas y explosivos en ambas leyes NO es correcta:",
+      "options": {
+        "a": "La LO 4/2015 atribuye al Gobierno la regulación de fabricación y circulación de armas",
+        "b": "La Ley 5/2014 regula los servicios de seguridad privada con armas de fuego en su artículo 40",
+        "c": "La intervención de armas conforme a la LO 4/2015 corresponde al Ministerio del Interior, vía Dirección General de la Guardia Civil",
+        "d": "La Ley 5/2014 permite a cualquier vigilante de seguridad portar armas de fuego sin necesidad de licencia específica"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 39.3 de la Ley 5/2014 exige el otorgamiento de las correspondientes licencias para que los servicios de seguridad privada puedan desarrollarse con armas de fuego.",
+      "ley": "LO 4/2015 y Ley 5/2014, régimen de armas"
+    },
+    {
+      "id": "tema_13_test_19_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 16.1 de la LO 4/2015, en la práctica de la identificación se respetarán estrictamente los principios de proporcionalidad, igualdad de trato y no ______.",
+      "options": {
+        "a": "Discriminación",
+        "b": "Reciprocidad",
+        "c": "Confidencialidad",
+        "d": "Injerencia"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 16.1 de la LO 4/2015 exige respetar estrictamente los principios de proporcionalidad, igualdad de trato y no discriminación durante la práctica de la identificación.",
+      "ley": "LO 4/2015, art. 16"
+    },
+    {
+      "id": "tema_13_test_19_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Conforme al artículo 25.1 de la Ley 5/2014, los despachos de detectives privados deben informar a sus clientes sobre las incidencias relativas a los asuntos encargados, con entrega, en su caso, de:",
+      "options": {
+        "a": "Una factura desglosada hora a hora",
+        "b": "El informe de investigación elaborado",
+        "c": "Una copia del libro-registro completo",
+        "d": "Una declaración jurada notarial"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 25.1 de la Ley 5/2014 obliga a informar al cliente sobre las incidencias y a entregar, en su caso, el informe de investigación elaborado.",
+      "ley": "Ley 5/2014, art. 25"
+    },
+    {
+      "id": "tema_13_test_19_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13. Seguridad Pública y Seguridad Privada. Complete: conforme al artículo 33.3 de la LO 4/2015, la multa por la comisión de infracciones leves se determinará directamente atendiendo a las circunstancias y los criterios del apartado anterior, sin la división en ______ propia de las infracciones graves y muy graves.",
+      "options": {
+        "a": "Zonas territoriales",
+        "b": "Categorías profesionales",
+        "c": "Tramos de grado",
+        "d": "Periodos anuales"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 33.3 de la LO 4/2015 excluye para las infracciones leves la división en tramos de grado mínimo, medio y máximo prevista para las graves y muy graves.",
+      "ley": "LO 4/2015, art. 33"
+    }
+  ]
+}
