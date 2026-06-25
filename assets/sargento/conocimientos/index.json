@@ -291,8 +291,15 @@
       "total_preguntas": 0
     },
     "tema_23": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Estatuto del Personal",
+          "archivo": "sargento/conocimientos/tema_23/tema_23_sub23.1_test_01.json",
+          "preguntas": 20,
+          "subtema": "23.1"
+        }
+      ],
+      "total_preguntas": 20
     }
   }
 }
