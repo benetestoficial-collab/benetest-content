@@ -1,0 +1,328 @@
+{
+  "tema_numero": 13,
+  "tema": "Tema 13 - Normas Complementarias del Derecho Procesal",
+  "test": "Test 9",
+  "preguntas": [
+    {
+      "id": "tema_13_sub13.1_test_09_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Mediante auto, el Juez acordará la incoación del procedimiento o, en su caso, denegará la solicitud por ser improcedente",
+        "b": "Promovida la solicitud, el Juez examina la concurrencia de los requisitos para su tramitación y da traslado de la misma al Ministerio Fiscal",
+        "c": "El Juez puede incoar el procedimiento sin dar traslado previo de la solicitud al Ministerio Fiscal",
+        "d": "Contra la resolución que se adopte sobre la incoación o denegación inicial no cabe recurso alguno"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 Ley 4/2015. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Se notificarán a la víctima las resoluciones que acuerden la prisión o la posterior puesta en libertad del infractor",
+        "b": "La víctima no tiene derecho a conocer la fecha y lugar del juicio si no se ha constituido como parte acusadora",
+        "c": "La decisión de no iniciar el procedimiento penal nunca se comunica a la víctima del presunto delito",
+        "d": "Las resoluciones sobre la situación personal del infractor (prisión o libertad) son siempre confidenciales para la víctima"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 7 de la Ley 4/2015 reconoce a la víctima el derecho a ser informada de manera inmediata de la fecha, hora y lugar del juicio y del contenido de la acusación, así como a que se le notifiquen resoluciones relevantes como la de no incoar el procedimiento o las relativas a la situación personal del infractor.",
+      "ley": "Art. 7 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La admisión de pruebas en el procedimiento de Habeas Corpus queda excluida por el carácter sumario del procedimiento",
+        "b": "El plazo para resolver el Habeas Corpus desde la incoación es de setenta y dos horas, igual que el de la detención ordinaria",
+        "c": "El Juez tiene vedado admitir pruebas distintas de las aportadas inicialmente con el escrito de solicitud",
+        "d": "El Juez admite, si las estima pertinentes, las pruebas que se aporten y las que se propongan practicar en el acto"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 7 de la LO 6/1984 permite al Juez admitir las pruebas que estime pertinentes y exige que, en el plazo de veinticuatro horas desde el auto de incoación, se practiquen todas las actuaciones y se dicte la resolución que proceda, reflejando la celeridad característica del procedimiento.",
+      "ley": "Art. 7 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Promovida la solicitud, el Juez examina la concurrencia de los requisitos para su tramitación y da traslado de la misma al Ministerio Fiscal",
+        "b": "El Ministerio Fiscal no necesita ser notificado del auto que resuelve sobre la incoación o denegación",
+        "c": "Mediante auto, el Juez acordará la incoación del procedimiento o, en su caso, denegará la solicitud por ser improcedente",
+        "d": "Contra la resolución que se adopte sobre la incoación o denegación inicial no cabe recurso alguno"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Arts. 19, 20 y 25 Ley 4/2015. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El derecho a la protección frente a represalias del infractor no está contemplado en la Ley 4/2015",
+        "b": "Las víctimas tienen derecho a la protección, pudiendo solicitarse medidas frente a represalias del infractor",
+        "c": "Está prohibido por ley adoptar cualquier medida que limite la comunicación entre infractor y víctima",
+        "d": "El derecho a evitar el contacto con el infractor solo se aplica durante la celebración del juicio oral, nunca antes"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 19, 20 y 25 de la Ley 4/2015 reconocen el derecho de las víctimas a la protección frente a represalias, a que se evite el contacto con el infractor en las dependencias del proceso, y prevén medidas de protección adaptadas al caso, como la limitación de comunicación con la víctima.",
+      "ley": "Arts. 19, 20 y 25 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Contra el auto de incoación o denegación inicial cabe recurso de apelación ante la Audiencia Provincial",
+        "b": "El auto que acuerde la incoación o la denegación se notifica en todo caso al Ministerio Fiscal",
+        "c": "Promovida la solicitud, el Juez examina la concurrencia de los requisitos para su tramitación y da traslado de la misma al Ministerio Fiscal",
+        "d": "Contra la resolución que se adopte sobre la incoación o denegación inicial no cabe recurso alguno"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 1 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Habeas Corpus solo permite revisar condenas firmes ya dictadas por un Tribunal",
+        "b": "Mediante el procedimiento de Habeas Corpus se puede obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente",
+        "c": "El Habeas Corpus únicamente protege a los detenidos que tengan nacionalidad española",
+        "d": "El procedimiento de Habeas Corpus está reservado en exclusiva a detenciones practicadas por la Guardia Civil"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 1 de la LO 6/1984 define el Habeas Corpus como el procedimiento para obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente, considerando ilegalmente detenida, entre otros casos, a quien lo sea sin concurrir los supuestos legales o sin cumplirse las formalidades exigidas, o a quien esté ilícitamente internado en cualquier establecimiento o lugar.",
+      "ley": "Art. 1 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 3 LO 19/1994. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La protección policial de testigos solo puede solicitarla el propio acusado, nunca el Ministerio Fiscal",
+        "b": "Está expresamente prohibido facilitar a un testigo protegido cualquier ayuda económica para cambiar de residencia",
+        "c": "La autoridad judicial debe evitar que se hagan fotografías o se tome la imagen de los testigos o peritos por cualquier procedimiento",
+        "d": "La protección policial de testigos se limita estrictamente a la duración de la vista oral, sin posibilidad de extenderse"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 3 de la LO 19/1994 prevé la protección policial de testigos y peritos a instancia del Ministerio Fiscal, la posibilidad excepcional de facilitarles nueva identidad documental y medios para cambiar de residencia o trabajo, y la obligación de evitar y retirar fotografías o grabaciones no autorizadas de su imagen.",
+      "ley": "Art. 3 LO 19/1994",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Juez puede constituirse en el lugar donde se encuentre el privado de libertad",
+        "b": "El Juez tiene vedado por ley constituirse personalmente en el lugar de custodia del detenido",
+        "c": "La comparecencia del detenido ante el Juez es meramente facultativa para la autoridad custodiadora",
+        "d": "La autoridad que custodia al detenido puede negarse a presentarlo ante el Juez si alega razones de seguridad internas"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 7 de la LO 6/1984 ordena que, en el auto de incoación, el Juez exija la puesta de manifiesto inmediata del privado de libertad ante él, pudiendo constituirse en el lugar donde se encuentre, y que oiga antes de resolver al detenido o su representante y Abogado, así como al Ministerio Fiscal y a quien practicó la detención.",
+      "ley": "Art. 7 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Si no constare el lugar donde se encuentra el detenido, es competente el Juez de Instrucción del lugar en que se produjo la detención",
+        "b": "En el ámbito de la Jurisdicción Militar es competente el Juez Togado Militar de Instrucción de la circunscripción donde se efectuó la detención",
+        "c": "En defecto de los anteriores, es competente el Juez del lugar donde se hayan tenido las últimas noticias sobre el paradero del detenido",
+        "d": "Si se desconoce el paradero del detenido, el procedimiento de Habeas Corpus queda automáticamente archivado sin más trámite"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 2 de la LO 6/1984 establece una competencia escalonada: el Juez de Instrucción del lugar donde se halle el detenido; en su defecto, el del lugar de la detención; en su defecto, el del lugar de las últimas noticias sobre su paradero; y, en el ámbito militar, el Juez Togado Militar de Instrucción de la circunscripción de la detención.",
+      "ley": "Art. 2 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La denegación inicial de la solicitud de Habeas Corpus por improcedente se acuerda siempre verbalmente, nunca por auto",
+        "b": "Mediante auto, el Juez acordará la incoación del procedimiento o, en su caso, denegará la solicitud por ser improcedente",
+        "c": "El Ministerio Fiscal no necesita ser notificado del auto que resuelve sobre la incoación o denegación",
+        "d": "El Juez puede incoar el procedimiento sin dar traslado previo de la solicitud al Ministerio Fiscal"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 3 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Puede instar el Habeas Corpus el cónyuge del privado de libertad o persona unida a él por análoga relación de afectividad",
+        "b": "Puede instar el Habeas Corpus el propio privado de libertad",
+        "c": "El Ministerio Fiscal tiene vedada por ley cualquier intervención en el procedimiento de Habeas Corpus",
+        "d": "Puede instar el Habeas Corpus el Defensor del Pueblo"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 3 de la LO 6/1984 legitima para instar el Habeas Corpus al propio privado de libertad, a su cónyuge o persona unida por análoga relación de afectividad, descendientes, ascendientes y hermanos, al Ministerio Fiscal, al Defensor del Pueblo y al abogado defensor del privado de libertad.",
+      "ley": "Art. 3 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 Ley 4/2015. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las resoluciones sobre la situación personal del infractor (prisión o libertad) son siempre confidenciales para la víctima",
+        "b": "La decisión de no iniciar el procedimiento penal nunca se comunica a la víctima del presunto delito",
+        "c": "El contenido de la acusación contra el infractor es información reservada que la víctima no puede conocer",
+        "d": "Se notificarán a la víctima las resoluciones que acuerden la prisión o la posterior puesta en libertad del infractor"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 7 de la Ley 4/2015 reconoce a la víctima el derecho a ser informada de manera inmediata de la fecha, hora y lugar del juicio y del contenido de la acusación, así como a que se le notifiquen resoluciones relevantes como la de no incoar el procedimiento o las relativas a la situación personal del infractor.",
+      "ley": "Art. 7 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Juez puede constituirse en el lugar donde se encuentre el privado de libertad",
+        "b": "La autoridad que custodia al detenido puede negarse a presentarlo ante el Juez si alega razones de seguridad internas",
+        "c": "El Juez tiene vedado por ley constituirse personalmente en el lugar de custodia del detenido",
+        "d": "El Juez resuelve sin necesidad de oír en ningún caso al Ministerio Fiscal ni al propio privado de libertad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 7 de la LO 6/1984 ordena que, en el auto de incoación, el Juez exija la puesta de manifiesto inmediata del privado de libertad ante él, pudiendo constituirse en el lugar donde se encuentre, y que oiga antes de resolver al detenido o su representante y Abogado, así como al Ministerio Fiscal y a quien practicó la detención.",
+      "ley": "Art. 7 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 23 Ley 4/2015. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La evaluación individual de necesidades de protección es idéntica para todas las víctimas, sin distinción de circunstancias",
+        "b": "Se realiza una evaluación individual de las víctimas para determinar sus necesidades especiales de protección",
+        "c": "La naturaleza del delito cometido es un dato irrelevante para la evaluación individual de la víctima",
+        "d": "Los menores de edad quedan excluidos de cualquier consideración especial en la evaluación de necesidades de protección"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 23 de la Ley 4/2015 establece la evaluación individual de las víctimas para determinar sus necesidades especiales de protección, atendiendo a sus características personales y a la naturaleza y circunstancias del delito, con especial atención a víctimas vulnerables como menores o personas con discapacidad.",
+      "ley": "Art. 23 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 3 LO 19/1994. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La autoridad judicial debe evitar que se hagan fotografías o se tome la imagen de los testigos o peritos por cualquier procedimiento",
+        "b": "Las autoridades tienen vedado retirar material fotográfico tomado ilícitamente a un testigo protegido",
+        "c": "La protección policial de testigos se limita estrictamente a la duración de la vista oral, sin posibilidad de extenderse",
+        "d": "La protección policial de testigos solo puede solicitarla el propio acusado, nunca el Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 3 de la LO 19/1994 prevé la protección policial de testigos y peritos a instancia del Ministerio Fiscal, la posibilidad excepcional de facilitarles nueva identidad documental y medios para cambiar de residencia o trabajo, y la obligación de evitar y retirar fotografías o grabaciones no autorizadas de su imagen.",
+      "ley": "Art. 3 LO 19/1994",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 4 LO 19/1994. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La identidad de un testigo protegido jamás puede ser revelada a las partes bajo ninguna circunstancia, ni siquiera motivadamente",
+        "b": "El órgano de enjuiciamiento carece de competencia para modificar las medidas de protección acordadas por el Juez de Instrucción",
+        "c": "Las declaraciones de testigos protegidos durante la instrucción solo tienen valor de prueba si son ratificadas en el juicio oral por quien las prestó",
+        "d": "La solicitud de conocer la identidad del testigo protegido debe formularse siempre verbalmente el día del juicio"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 4 de la LO 19/1994 atribuye al órgano de enjuiciamiento la decisión motivada sobre mantener, modificar o suprimir las medidas de protección, prevé el conocimiento de la identidad del testigo cuando una parte lo solicite motivadamente y se declare pertinente la prueba, y exige que las declaraciones protegidas en instrucción se ratifiquen en el juicio oral para tener valor probatorio.",
+      "ley": "Art. 4 LO 19/1994",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Mediante auto, el Juez acordará la incoación del procedimiento o, en su caso, denegará la solicitud por ser improcedente",
+        "b": "El auto que acuerde la incoación o la denegación se notifica en todo caso al Ministerio Fiscal",
+        "c": "Promovida la solicitud, el Juez examina la concurrencia de los requisitos para su tramitación y da traslado de la misma al Ministerio Fiscal",
+        "d": "Contra el auto de incoación o denegación inicial cabe recurso de apelación ante la Audiencia Provincial"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 1 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El incumplimiento de los derechos del detenido reconocidos en la Constitución es irrelevante a efectos del Habeas Corpus",
+        "b": "La duración excesiva de una detención solo puede denunciarse mediante recurso de apelación, nunca mediante Habeas Corpus",
+        "c": "Es persona ilegalmente detenida la que lo estuviera por plazo superior al señalado en las leyes si, transcurrido éste, no fuese puesta en libertad o entregada al Juez más próximo",
+        "d": "El Habeas Corpus solo protege contra detenciones ilegales desde su origen, nunca contra el mantenimiento ilegal de una detención inicialmente legal"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 1 de la LO 6/1984 también considera ilegalmente detenida a la persona retenida por plazo superior al legal sin ser puesta en libertad o entregada al Juez, y a quien no se le respeten los derechos constitucionales y procesales del detenido, extendiendo el Habeas Corpus tanto a detenciones ilegales de origen como a las que se prolongan ilegalmente.",
+      "ley": "Art. 1 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_09_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Juez resuelve sin necesidad de oír en ningún caso al Ministerio Fiscal ni al propio privado de libertad",
+        "b": "La comparecencia del detenido ante el Juez es meramente facultativa para la autoridad custodiadora",
+        "c": "La autoridad que custodia al detenido puede negarse a presentarlo ante el Juez si alega razones de seguridad internas",
+        "d": "Antes de resolver, el Juez oye a la persona privada de libertad o, en su caso, a su representante legal y Abogado, así como al Ministerio Fiscal"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 7 de la LO 6/1984 ordena que, en el auto de incoación, el Juez exija la puesta de manifiesto inmediata del privado de libertad ante él, pudiendo constituirse en el lugar donde se encuentre, y que oiga antes de resolver al detenido o su representante y Abogado, así como al Ministerio Fiscal y a quien practicó la detención.",
+      "ley": "Art. 7 LO 6/1984",
+      "subtema": "13.1"
+    }
+  ],
+  "subtema": "13.1"
+}

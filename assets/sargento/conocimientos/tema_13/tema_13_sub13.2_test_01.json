@@ -1,0 +1,328 @@
+{
+  "tema_numero": 13,
+  "tema": "Tema 13 - Normas Complementarias del Derecho Procesal",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_13_sub13.2_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 527 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El control de la incomunicación corresponde exclusivamente a la policía, sin ninguna intervención judicial",
+        "b": "Una vez levantada la incomunicación, el Juez puede volver a incomunicar al detenido tantas veces como considere oportuno",
+        "c": "El reconocimiento médico del detenido incomunicado es opcional y queda a discreción exclusiva del propio detenido",
+        "d": "El control de las condiciones de la incomunicación y del respeto a los derechos del detenido corresponde al Juez"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 527 LECrim atribuye al Juez el control de las condiciones de la incomunicación y de los derechos del detenido, exige su reconocimiento médico al menos dos veces cada veinticuatro horas, y limita la incomunicación al tiempo estrictamente necesario, con un máximo de cinco días prorrogables por otros cinco, sin posibilidad de volver a incomunicar una vez levantada la medida.",
+      "ley": "Art. 527 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 501 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El auto que eleva la detención a prisión o la deja sin efecto se pone en conocimiento del Ministerio Fiscal",
+        "b": "Al procesado se le hace saber el derecho que le asiste para pedir la reposición de la medida adoptada",
+        "c": "Dicho auto se notifica también al querellante particular, si lo hubiere, y al procesado",
+        "d": "La notificación al querellante particular solo procede si éste paga una tasa judicial específica"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 501 LECrim dispone que el auto que eleve la detención a prisión o la deje sin efecto se ponga en conocimiento del Ministerio Fiscal y se notifique al querellante particular y al procesado, a quien se informará de su derecho a solicitar de palabra o por escrito la reposición de la medida.",
+      "ley": "Art. 501 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.2 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La información de derechos solo es exigible cuando el detenido lo solicita expresamente",
+        "b": "Tiene derecho a guardar silencio, a no contestar alguna o algunas preguntas, o a manifestar que solo declarará ante el Juez",
+        "c": "El derecho a guardar silencio desaparece si el detenido ya ha realizado alguna manifestación previa ante la policía",
+        "d": "El detenido tiene la obligación legal de declarar contra sí mismo si existen pruebas que lo incriminan"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 520.2 LECrim exige informar por escrito y de forma comprensible al detenido sobre los hechos que se le atribuyen y sus derechos, entre ellos el derecho a guardar silencio total o parcial, a declarar solo ante el Juez, y a no declarar contra sí mismo ni confesarse culpable.",
+      "ley": "Art. 520.2 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 490 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El artículo 490 LECrim no contempla ningún supuesto relacionado con fugas de personas privadas de libertad",
+        "b": "La fuga durante el traslado a un centro penitenciario queda fuera de los supuestos de detención por particular",
+        "c": "Cualquier persona puede detener al que se fugare del establecimiento penal en que se halle extinguiendo condena",
+        "d": "Solo los miembros de las Fuerzas y Cuerpos de Seguridad pueden detener a alguien que se fuga de un traslado penitenciario"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 490 LECrim incluye entre los supuestos de detención por particular la fuga del establecimiento penal donde se cumple condena, la fuga de la cárcel en espera de traslado, y la fuga durante el propio traslado al establecimiento o lugar de cumplimiento de condena.",
+      "ley": "Art. 490 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.1 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La detención y la prisión provisional deben practicarse en la forma que menos perjudique al detenido o preso en su persona, reputación y patrimonio",
+        "b": "En todo caso, el detenido debe ser puesto en libertad o a disposición de la autoridad judicial en el plazo máximo de setenta y dos horas",
+        "c": "La forma de practicar la detención es indiferente para la ley, no existe ninguna previsión sobre el respeto a la reputación del detenido",
+        "d": "La detención preventiva no puede durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 520.1 LECrim exige practicar la detención y prisión provisional en la forma que menos perjudique al detenido, limita la detención preventiva al tiempo estrictamente necesario para las averiguaciones, y fija el plazo máximo de setenta y dos horas para la puesta en libertad o a disposición judicial, debiendo el atestado reflejar lugar y hora de ambos momentos.",
+      "ley": "Art. 520.1 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.2.c) y 520.6 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El detenido tiene derecho a designar abogado y a ser asistido por él sin demora injustificada",
+        "b": "El abogado puede entrevistarse reservadamente con el detenido, incluso antes de que se le reciba declaración",
+        "c": "El derecho a la asistencia letrada puede ser denegado discrecionalmente por el agente instructor del atestado",
+        "d": "Si por lejanía geográfica no es posible la inmediata asistencia de letrado, se facilita al detenido comunicación telefónica o por videoconferencia con él"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 520.2.c) y 520.6 LECrim reconocen al detenido el derecho a designar abogado y ser asistido sin demora injustificada, previendo comunicación telefónica o por videoconferencia si la lejanía geográfica impide la asistencia inmediata, y garantizando la entrevista reservada con el letrado incluso antes de la declaración.",
+      "ley": "Art. 520.2.c) y 520.6 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 527 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El control de las condiciones de la incomunicación y del respeto a los derechos del detenido corresponde al Juez",
+        "b": "La incomunicación puede prolongarse de forma indefinida si así lo decide la autoridad gubernativa",
+        "c": "El reconocimiento médico del detenido incomunicado es opcional y queda a discreción exclusiva del propio detenido",
+        "d": "El control de la incomunicación corresponde exclusivamente a la policía, sin ninguna intervención judicial"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 527 LECrim atribuye al Juez el control de las condiciones de la incomunicación y de los derechos del detenido, exige su reconocimiento médico al menos dos veces cada veinticuatro horas, y limita la incomunicación al tiempo estrictamente necesario, con un máximo de cinco días prorrogables por otros cinco, sin posibilidad de volver a incomunicar una vez levantada la medida.",
+      "ley": "Art. 527 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 498 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Cuando el detenido es entregado a un Juez distinto del de la causa, no es necesario documentar ninguna diligencia al respecto",
+        "b": "La falta de firma de alguno de los concurrentes invalida automáticamente toda la diligencia, sin posibilidad de testigos sustitutos",
+        "c": "El Juez que recibe al detenido en estos casos debe remitirlo directamente a prisión sin levantar ninguna diligencia",
+        "d": "Dicha diligencia debe ser firmada por el Juez, el Letrado de la Administración de Justicia, quien ejecutó la detención y las demás personas concurrentes"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 498 LECrim exige que, cuando el detenido sea entregado a un Juez distinto del de la causa, éste extienda una diligencia sobre la persona que practicó la detención y sus circunstancias, firmada por el Juez, el Letrado de la Administración de Justicia, quien ejecutó la detención y los demás concurrentes (o dos testigos si alguno no firma).",
+      "ley": "Art. 498 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 496 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El plazo del artículo 496 LECrim para entregar al detenido al Juez más próximo es de setenta y dos horas",
+        "b": "El detenido debe ser entregado siempre al Juez de su domicilio habitual, sin importar la distancia",
+        "c": "Si se demora la entrega más de veinticuatro horas, se incurre en la responsabilidad que establece el Código Penal",
+        "d": "El incumplimiento del plazo de entrega del detenido carece de cualquier consecuencia penal para quien lo demora"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 496 LECrim obliga a poner en libertad o entregar al detenido al Juez más próximo al lugar de la detención dentro de las veinticuatro horas siguientes, incurriendo quien demore esa entrega más allá de dicho plazo en la responsabilidad penal correspondiente.",
+      "ley": "Art. 496 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.1 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La detención y la prisión provisional deben practicarse en la forma que menos perjudique al detenido o preso en su persona, reputación y patrimonio",
+        "b": "La detención preventiva puede prolongarse indefinidamente mientras dure la investigación, sin límite temporal alguno",
+        "c": "En todo caso, el detenido debe ser puesto en libertad o a disposición de la autoridad judicial en el plazo máximo de setenta y dos horas",
+        "d": "La detención preventiva no puede durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 520.1 LECrim exige practicar la detención y prisión provisional en la forma que menos perjudique al detenido, limita la detención preventiva al tiempo estrictamente necesario para las averiguaciones, y fija el plazo máximo de setenta y dos horas para la puesta en libertad o a disposición judicial, debiendo el atestado reflejar lugar y hora de ambos momentos.",
+      "ley": "Art. 520.1 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.1 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El atestado no necesita reflejar el lugar y la hora de la detención ni de la puesta a disposición judicial",
+        "b": "La detención preventiva no puede durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos",
+        "c": "En todo caso, el detenido debe ser puesto en libertad o a disposición de la autoridad judicial en el plazo máximo de setenta y dos horas",
+        "d": "La detención y la prisión provisional deben practicarse en la forma que menos perjudique al detenido o preso en su persona, reputación y patrimonio"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 520.1 LECrim exige practicar la detención y prisión provisional en la forma que menos perjudique al detenido, limita la detención preventiva al tiempo estrictamente necesario para las averiguaciones, y fija el plazo máximo de setenta y dos horas para la puesta en libertad o a disposición judicial, debiendo el atestado reflejar lugar y hora de ambos momentos.",
+      "ley": "Art. 520.1 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 490 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El artículo 490 LECrim impone a cualquier ciudadano la obligación de detener, no una mera facultad",
+        "b": "El artículo 490 LECrim solo permite la detención de quien ya hubiera sido condenado por sentencia firme",
+        "c": "La detención por particular solo es posible si previamente ha sido autorizada por un Juez de guardia",
+        "d": "Cualquier persona puede detener al que intentare cometer un delito en el momento de ir a cometerlo"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 490 LECrim regula la detención por particular como una facultad (puede detener), no una obligación, enumerando supuestos como el intento de delito, la flagrancia, la fuga de quien está detenido o preso por causa pendiente, y la rebeldía del procesado o condenado.",
+      "ley": "Art. 490 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.1 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "En todo caso, el detenido debe ser puesto en libertad o a disposición de la autoridad judicial en el plazo máximo de setenta y dos horas",
+        "b": "El plazo máximo de setenta y dos horas del artículo 520 LECrim solo se aplica a los delitos leves",
+        "c": "La detención y la prisión provisional deben practicarse en la forma que menos perjudique al detenido o preso en su persona, reputación y patrimonio",
+        "d": "La detención preventiva no puede durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 520.1 LECrim exige practicar la detención y prisión provisional en la forma que menos perjudique al detenido, limita la detención preventiva al tiempo estrictamente necesario para las averiguaciones, y fija el plazo máximo de setenta y dos horas para la puesta en libertad o a disposición judicial, debiendo el atestado reflejar lugar y hora de ambos momentos.",
+      "ley": "Art. 520.1 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 498 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Dicha diligencia debe ser firmada por el Juez, el Letrado de la Administración de Justicia, quien ejecutó la detención y las demás personas concurrentes",
+        "b": "El Juez que recibe al detenido en estos casos debe remitirlo directamente a prisión sin levantar ninguna diligencia",
+        "c": "La diligencia que documenta la entrega del detenido solo puede ser firmada por el propio detenido",
+        "d": "Cuando el detenido es entregado a un Juez distinto del de la causa, no es necesario documentar ninguna diligencia al respecto"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 498 LECrim exige que, cuando el detenido sea entregado a un Juez distinto del de la causa, éste extienda una diligencia sobre la persona que practicó la detención y sus circunstancias, firmada por el Juez, el Letrado de la Administración de Justicia, quien ejecutó la detención y los demás concurrentes (o dos testigos si alguno no firma).",
+      "ley": "Art. 498 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 501 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Al procesado se le hace saber el derecho que le asiste para pedir la reposición de la medida adoptada",
+        "b": "El auto sobre prisión o libertad del detenido es secreto y no se comunica a ninguna de las partes del proceso",
+        "c": "La notificación al querellante particular solo procede si éste paga una tasa judicial específica",
+        "d": "El procesado carece de cualquier derecho a solicitar la revisión de la medida que se le haya impuesto"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 501 LECrim dispone que el auto que eleve la detención a prisión o la deje sin efecto se ponga en conocimiento del Ministerio Fiscal y se notifique al querellante particular y al procesado, a quien se informará de su derecho a solicitar de palabra o por escrito la reposición de la medida.",
+      "ley": "Art. 501 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 490 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Cualquier persona puede detener al que intentare cometer un delito en el momento de ir a cometerlo",
+        "b": "El artículo 490 LECrim impone a cualquier ciudadano la obligación de detener, no una mera facultad",
+        "c": "Cualquier persona puede detener al procesado o condenado que estuviere en rebeldía",
+        "d": "Cualquier persona puede detener al que se fugare estando detenido o preso por causa pendiente"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 490 LECrim regula la detención por particular como una facultad (puede detener), no una obligación, enumerando supuestos como el intento de delito, la flagrancia, la fuga de quien está detenido o preso por causa pendiente, y la rebeldía del procesado o condenado.",
+      "ley": "Art. 490 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 489 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La detención es una facultad discrecional que cualquier funcionario puede ejercer sin base legal previa",
+        "b": "Ningún español ni extranjero podrá ser detenido sino en los casos y en la forma que las leyes prescriban",
+        "c": "El principio de legalidad de la detención solo se aplica a los procedimientos por delitos graves",
+        "d": "Las leyes españolas no establecen ningún límite a las causas o formas de detención de una persona"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 489 LECrim consagra el principio de legalidad de la detención, disponiendo que ningún español ni extranjero podrá ser detenido sino en los casos y en la forma que las leyes prescriban.",
+      "ley": "Art. 489 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.2 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El detenido tiene la obligación legal de declarar contra sí mismo si existen pruebas que lo incriminan",
+        "b": "El derecho a guardar silencio desaparece si el detenido ya ha realizado alguna manifestación previa ante la policía",
+        "c": "La información sobre los hechos y derechos puede comunicarse verbalmente y de forma genérica, sin necesidad de adaptarla a la lengua del detenido",
+        "d": "Tiene derecho a guardar silencio, a no contestar alguna o algunas preguntas, o a manifestar que solo declarará ante el Juez"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 520.2 LECrim exige informar por escrito y de forma comprensible al detenido sobre los hechos que se le atribuyen y sus derechos, entre ellos el derecho a guardar silencio total o parcial, a declarar solo ante el Juez, y a no declarar contra sí mismo ni confesarse culpable.",
+      "ley": "Art. 520.2 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 501 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Al procesado se le hace saber el derecho que le asiste para pedir la reposición de la medida adoptada",
+        "b": "Dicho auto se notifica también al querellante particular, si lo hubiere, y al procesado",
+        "c": "El procesado carece de cualquier derecho a solicitar la revisión de la medida que se le haya impuesto",
+        "d": "El auto que eleva la detención a prisión o la deja sin efecto se pone en conocimiento del Ministerio Fiscal"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 501 LECrim dispone que el auto que eleve la detención a prisión o la deje sin efecto se ponga en conocimiento del Ministerio Fiscal y se notifique al querellante particular y al procesado, a quien se informará de su derecho a solicitar de palabra o por escrito la reposición de la medida.",
+      "ley": "Art. 501 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.1 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "En todo caso, el detenido debe ser puesto en libertad o a disposición de la autoridad judicial en el plazo máximo de setenta y dos horas",
+        "b": "La detención preventiva puede prolongarse indefinidamente mientras dure la investigación, sin límite temporal alguno",
+        "c": "La forma de practicar la detención es indiferente para la ley, no existe ninguna previsión sobre el respeto a la reputación del detenido",
+        "d": "El atestado no necesita reflejar el lugar y la hora de la detención ni de la puesta a disposición judicial"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 520.1 LECrim exige practicar la detención y prisión provisional en la forma que menos perjudique al detenido, limita la detención preventiva al tiempo estrictamente necesario para las averiguaciones, y fija el plazo máximo de setenta y dos horas para la puesta en libertad o a disposición judicial, debiendo el atestado reflejar lugar y hora de ambos momentos.",
+      "ley": "Art. 520.1 LECrim",
+      "subtema": "13.2"
+    }
+  ],
+  "subtema": "13.2"
+}

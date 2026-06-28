@@ -1,0 +1,328 @@
+{
+  "tema_numero": 22,
+  "tema": "Tema 22 - Fuerzas y Cuerpos de Seguridad",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_22_sub22.1_test_04_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 34 a 36 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El régimen funcionarial de la Policía Judicial es completamente distinto e independiente del aplicable a las FCSE",
+        "b": "Los informes de la autoridad judicial o fiscal sobre un expediente disciplinario carecen de cualquier valor procedimental",
+        "c": "Solo el Ministerio del Interior puede instar el ejercicio de la potestad disciplinaria sobre estos funcionarios",
+        "d": "Salvo lo dispuesto en este capítulo, el régimen funcionarial del personal integrado en las Unidades de Policía Judicial es el de las FCSE"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 34 a 36 LOFCS reconocen a Jueces, Tribunales y Ministerio Fiscal la facultad de impartir órdenes e instrucciones a la Policía Judicial e instar el ejercicio de la potestad disciplinaria mediante los informes pertinentes, precisando que el régimen funcionarial de este personal es, salvo lo dispuesto en el capítulo, el de las FCSE.",
+      "ley": "Arts. 34 a 36 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 32 y 33 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La posesión del diploma correspondiente es requisito necesario para ocupar puestos en las Unidades de Policía Judicial",
+        "b": "Los funcionarios de Policía Judicial tienen vedado por ley desarrollar cualquier otra función distinta a la judicial",
+        "c": "El diploma de especialización en Policía Judicial es opcional y no condiciona el acceso a sus Unidades",
+        "d": "La formación en Policía Judicial se imparte exclusivamente en centros privados ajenos a la Administración"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 32 y 33 LOFCS regulan la especialización de la función de Policía Judicial, cursada en los Centros de Formación de las FCSE con participación de Judicatura y Ministerio Fiscal, exigiendo el diploma correspondiente para ocupar puestos en sus Unidades, que se desempeñan con carácter exclusivo sin perjuicio de otras misiones encomendadas.",
+      "ley": "Arts. 32 y 33 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 6 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los estudios cursados en centros de las Administraciones Públicas nunca pueden ser objeto de convalidación",
+        "b": "La promoción profesional de los miembros de las FCS depende exclusivamente de la antigüedad, sin valorar el mérito",
+        "c": "Esta promoción se ajustará a los principios de objetividad, igualdad de oportunidades, mérito y capacidad",
+        "d": "La formación de los miembros de las FCS es ajena a los principios básicos de actuación del artículo 5"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 6 LOFCS encomienda a los Poderes Públicos promover condiciones favorables para la promoción profesional, social y humana de los miembros de las FCS conforme a los principios de objetividad, igualdad de oportunidades, mérito y capacidad, vinculando su formación a los principios básicos de actuación del artículo 5.",
+      "ley": "Art. 6 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 45 y 46 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El auxilio mutuo entre FCSE y Policías Autonómicas solo opera en situaciones de estado de alarma",
+        "b": "Las FCSE y las Policías Autonómicas tienen prohibido por ley cualquier intercambio de información",
+        "c": "La colaboración entre las FCSE y las Policías Autonómicas es meramente facultativa y carece de cobertura legal",
+        "d": "Esta colaboración se concreta especialmente en el intercambio de información de interés policial"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 45 y 46 LOFCS establecen el deber de colaboración y auxilio mutuo entre las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas, concretado especialmente en el intercambio de información de interés policial.",
+      "ley": "Arts. 45 y 46 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 3 y 4 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las empresas de seguridad privada están exentas de cualquier obligación de colaborar con las FCS",
+        "b": "Los miembros de las FCS ajustarán su actuación al principio de cooperación recíproca",
+        "c": "La coordinación entre las FCS es meramente voluntaria y carece de cauce legal",
+        "d": "Los miembros de las FCS actúan de forma independiente entre sí, sin ningún deber de coordinación"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 3 y 4 LOFCS establecen el principio de cooperación recíproca y coordinación entre las FCS, el deber general de todos de auxiliarlas en la investigación y persecución de los delitos, y la especial obligación de colaboración de quienes ejercen funciones de vigilancia, seguridad o custodia de personas, bienes o servicios.",
+      "ley": "Arts. 3 y 4 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 11.1 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El personal de Policía Local y Autonómica nunca puede tener la consideración de colaborador de las FCSE",
+        "b": "Para el cumplimiento de estas funciones, el personal de Policía de las CCAA y Corporaciones Locales tiene carácter colaborador de las FCSE",
+        "c": "Entre las funciones de las FCSE está captar, recibir y analizar cuantos datos tengan interés para el orden y la seguridad pública",
+        "d": "Entre las funciones de las FCSE está investigar los delitos para descubrir y detener a los presuntos culpables"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 11.1 LOFCS incluye entre las funciones de las FCSE investigar los delitos, captar y analizar datos de interés para el orden y la seguridad pública, y colaborar con Protección Civil en casos de catástrofe, atribuyendo carácter colaborador de las FCSE, para el cumplimiento de dicha función, al personal de Policía de las CCAA y Corporaciones Locales.",
+      "ley": "Art. 11.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 6 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La formación y perfeccionamiento de los miembros de las FCS se adecuará a los principios señalados en el artículo 5",
+        "b": "Los Poderes Públicos promoverán las condiciones más favorables para la promoción profesional, social y humana de los miembros de las FCS",
+        "c": "La formación de los miembros de las FCS es ajena a los principios básicos de actuación del artículo 5",
+        "d": "Esta promoción se ajustará a los principios de objetividad, igualdad de oportunidades, mérito y capacidad"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 6 LOFCS encomienda a los Poderes Públicos promover condiciones favorables para la promoción profesional, social y humana de los miembros de las FCS conforme a los principios de objetividad, igualdad de oportunidades, mérito y capacidad, vinculando su formación a los principios básicos de actuación del artículo 5.",
+      "ley": "Art. 6 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 11.1 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Entre las funciones de las FCSE está captar, recibir y analizar cuantos datos tengan interés para el orden y la seguridad pública",
+        "b": "Las FCSE no tienen ninguna función relacionada con la captación de datos de interés para la seguridad pública",
+        "c": "Para el cumplimiento de estas funciones, el personal de Policía de las CCAA y Corporaciones Locales tiene carácter colaborador de las FCSE",
+        "d": "Entre las funciones de las FCSE está colaborar con los servicios de Protección Civil en los casos de grave riesgo, catástrofe o calamidad pública"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 11.1 LOFCS incluye entre las funciones de las FCSE investigar los delitos, captar y analizar datos de interés para el orden y la seguridad pública, y colaborar con Protección Civil en casos de catástrofe, atribuyendo carácter colaborador de las FCSE, para el cumplimiento de dicha función, al personal de Policía de las CCAA y Corporaciones Locales.",
+      "ley": "Art. 11.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.4, 5.5 y 5.6 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La responsabilidad por una actuación irregular recae siempre y exclusivamente en la Administración, nunca en el agente",
+        "b": "Deben actuar con la decisión necesaria, sin demora, cuando de ello dependa evitar un daño grave, inmediato e irreparable",
+        "c": "Deben guardar riguroso secreto respecto de las informaciones que conozcan por razón de su cargo",
+        "d": "Son responsables personal y directamente por los actos que en su actuación profesional llevaren a cabo infringiendo las normas legales"
+      },
+      "correct": "a",
+      "explicacion": "Los apartados 4 a 6 del artículo 5 LOFCS exigen dedicación profesional permanente -incluso fuera de servicio ante riesgo grave-, decisión sin demora para evitar daños graves e irreparables, riguroso secreto profesional, y responsabilidad personal y directa del agente por los actos contrarios a las normas legales o reglamentarias.",
+      "ley": "Art. 5.4, 5.5 y 5.6 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 37 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El artículo 148.1.22 de la Constitución prohíbe expresamente la existencia de Policías autonómicas",
+        "b": "Las restantes Comunidades Autónomas podrán crear Cuerpos de Policía en los términos que establezcan sus Estatutos y previo acuerdo con el Gobierno",
+        "c": "Las Comunidades Autónomas sin previsión estatutaria específica nunca pueden crear ningún tipo de Cuerpo policial",
+        "d": "Todas las Comunidades Autónomas, sin excepción ni requisito estatutario, tienen reconocido por ley un Cuerpo de Policía propio"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 37 LOFCS permite a las Comunidades Autónomas cuyo Estatuto lo prevea crear Cuerpos de Policía para las funciones de vigilancia y protección del artículo 148.1.22 de la Constitución, y habilita a las restantes a crearlos en los términos de sus Estatutos y previo acuerdo con el Gobierno.",
+      "ley": "Art. 37 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 53 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Policías Locales tienen vedada por ley cualquier función relacionada con el tráfico urbano",
+        "b": "Las funciones de la Policía Local se limitan exclusivamente a la persecución de delitos graves",
+        "c": "Las Policías Locales carecen de cualquier función de cooperación en la resolución de conflictos privados",
+        "d": "Corresponde a los Cuerpos de Policía Local cooperar en la resolución de conflictos privados cuando sean requeridos para ello"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 53 LOFCS atribuye a los Cuerpos de Policía Local funciones como la protección de autoridades y edificios municipales, la ordenación y dirección del tráfico urbano, y la cooperación en la resolución de conflictos privados cuando sean requeridos.",
+      "ley": "Art. 53 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 11.1 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La investigación de delitos para detener a los culpables corresponde en exclusiva al Ministerio Fiscal, no a las FCSE",
+        "b": "Las FCSE no tienen ninguna función relacionada con la captación de datos de interés para la seguridad pública",
+        "c": "Entre las funciones de las FCSE está investigar los delitos para descubrir y detener a los presuntos culpables",
+        "d": "El personal de Policía Local y Autonómica nunca puede tener la consideración de colaborador de las FCSE"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 11.1 LOFCS incluye entre las funciones de las FCSE investigar los delitos, captar y analizar datos de interés para el orden y la seguridad pública, y colaborar con Protección Civil en casos de catástrofe, atribuyendo carácter colaborador de las FCSE, para el cumplimiento de dicha función, al personal de Policía de las CCAA y Corporaciones Locales.",
+      "ley": "Art. 11.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 10 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las relaciones de colaboración policial internacional corresponden en exclusiva a cada Comunidad Autónoma",
+        "b": "La administración general de la seguridad ciudadana corresponde al Ministro de Defensa, no al del Interior",
+        "c": "El mando provincial de las FCSE excluye totalmente cualquier dependencia funcional respecto de Jueces o Fiscales",
+        "d": "Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando superior de las FCSE"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 10 LOFCS atribuye al Ministro del Interior la administración general de la seguridad ciudadana, el mando superior de las FCSE y las relaciones de colaboración policial internacional, y prevé el mando provincial de las FCSE por la autoridad gubernativa correspondiente, sin perjuicio de la dependencia funcional de las Unidades de Policía Judicial respecto de la autoridad judicial y fiscal.",
+      "ley": "Art. 10 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.4, 5.5 y 5.6 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Pueden divulgar libremente la información reservada que conozcan por razón de su cargo una vez finalizado el turno",
+        "b": "Deben actuar con la decisión necesaria, sin demora, cuando de ello dependa evitar un daño grave, inmediato e irreparable",
+        "c": "Solo deben intervenir ante un riesgo grave para las personas si se encuentran formalmente de servicio en ese momento",
+        "d": "El principio de dedicación profesional permite demorar la actuación siempre que se redacte un informe posterior"
+      },
+      "correct": "b",
+      "explicacion": "Los apartados 4 a 6 del artículo 5 LOFCS exigen dedicación profesional permanente -incluso fuera de servicio ante riesgo grave-, decisión sin demora para evitar daños graves e irreparables, riguroso secreto profesional, y responsabilidad personal y directa del agente por los actos contrarios a las normas legales o reglamentarias.",
+      "ley": "Art. 5.4, 5.5 y 5.6 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 51 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Policías Locales pueden actuar libremente en cualquier punto del territorio nacional sin restricción alguna",
+        "b": "La legislación de Régimen Local resulta irrelevante para la creación de Cuerpos de Policía Local",
+        "c": "Las funciones de las Policías Locales se ejercen en el ámbito territorial del propio Municipio, salvo las excepciones legalmente previstas",
+        "d": "La creación de un Cuerpo de Policía Local corresponde en exclusiva a la Comunidad Autónoma respectiva, no al Municipio"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 51 LOFCS reconoce a los Municipios la facultad de crear Cuerpos de Policía Local conforme a la legislación de Régimen Local, ejerciendo sus funciones, con carácter general, en el ámbito territorial del propio Municipio.",
+      "ley": "Art. 51 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 16 y 17 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Cuerpo Nacional de Policía se organiza de acuerdo con los principios de jerarquía y disciplina",
+        "b": "Las escalas del Cuerpo Nacional de Policía se determinan libremente por cada Comisaría sin marco legal común",
+        "c": "El ingreso en el Cuerpo Nacional de Policía puede realizarse sin convocatoria pública si la urgencia del servicio lo justifica",
+        "d": "El sistema de acceso al Cuerpo Nacional de Policía es competencia exclusiva de cada Comunidad Autónoma"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 16 y 17 LOFCS organizan el Cuerpo Nacional de Policía conforme a los principios de jerarquía y disciplina, estableciendo que el ingreso se realiza mediante convocatoria pública y los procedimientos legalmente previstos.",
+      "ley": "Arts. 16 y 17 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 6 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los principios de igualdad de oportunidades no resultan aplicables a la promoción dentro de las FCS",
+        "b": "Los Poderes Públicos promoverán las condiciones más favorables para la promoción profesional, social y humana de los miembros de las FCS",
+        "c": "La formación y perfeccionamiento de los miembros de las FCS se adecuará a los principios señalados en el artículo 5",
+        "d": "Esta promoción se ajustará a los principios de objetividad, igualdad de oportunidades, mérito y capacidad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 6 LOFCS encomienda a los Poderes Públicos promover condiciones favorables para la promoción profesional, social y humana de los miembros de las FCS conforme a los principios de objetividad, igualdad de oportunidades, mérito y capacidad, vinculando su formación a los principios básicos de actuación del artículo 5.",
+      "ley": "Art. 6 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 3 y 4 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los miembros de las FCS actúan de forma independiente entre sí, sin ningún deber de coordinación",
+        "b": "Los miembros de las FCS ajustarán su actuación al principio de cooperación recíproca",
+        "c": "Solo los funcionarios públicos tienen el deber de auxiliar a las FCS en la investigación de los delitos",
+        "d": "La coordinación entre las FCS es meramente voluntaria y carece de cauce legal"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 3 y 4 LOFCS establecen el principio de cooperación recíproca y coordinación entre las FCS, el deber general de todos de auxiliarlas en la investigación y persecución de los delitos, y la especial obligación de colaboración de quienes ejercen funciones de vigilancia, seguridad o custodia de personas, bienes o servicios.",
+      "ley": "Arts. 3 y 4 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.2 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Deben observar en todo momento un trato correcto y esmerado en sus relaciones con los ciudadanos",
+        "b": "Deben impedir cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral",
+        "c": "El trato correcto y esmerado con los ciudadanos es una recomendación deontológica sin carácter normativo",
+        "d": "En sus intervenciones deben proporcionar información cumplida y tan amplia como sea posible sobre las causas y finalidad de las mismas"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 5.2 LOFCS, sobre relaciones con la comunidad, obliga a los miembros de las FCS a impedir prácticas abusivas, arbitrarias o discriminatorias con violencia física o moral, a observar un trato correcto y esmerado con los ciudadanos, y a proporcionarles información cumplida y amplia sobre las causas y finalidad de sus intervenciones.",
+      "ley": "Art. 5.2 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_sub22.1_test_04_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.4, 5.5 y 5.6 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Solo deben intervenir ante un riesgo grave para las personas si se encuentran formalmente de servicio en ese momento",
+        "b": "El principio de dedicación profesional permite demorar la actuación siempre que se redacte un informe posterior",
+        "c": "La responsabilidad por una actuación irregular recae siempre y exclusivamente en la Administración, nunca en el agente",
+        "d": "Deben actuar con la decisión necesaria, sin demora, cuando de ello dependa evitar un daño grave, inmediato e irreparable"
+      },
+      "correct": "d",
+      "explicacion": "Los apartados 4 a 6 del artículo 5 LOFCS exigen dedicación profesional permanente -incluso fuera de servicio ante riesgo grave-, decisión sin demora para evitar daños graves e irreparables, riguroso secreto profesional, y responsabilidad personal y directa del agente por los actos contrarios a las normas legales o reglamentarias.",
+      "ley": "Art. 5.4, 5.5 y 5.6 LOFCS",
+      "subtema": "22.1"
+    }
+  ],
+  "subtema": "22.1"
+}

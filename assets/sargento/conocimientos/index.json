@@ -251,8 +251,129 @@
       "total_preguntas": 0
     },
     "tema_13": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_01.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 2 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_02.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 3 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_03.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 4 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_04.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 5 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_05.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 6 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_06.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 7 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_07.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 8 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_08.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 9 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_09.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 10 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_10.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 1 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_01.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 2 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_02.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 3 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_03.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 4 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_04.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 5 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_05.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 6 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_06.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 7 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_07.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 8 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_08.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 9 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_09.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 10 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_10.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_14": {
       "tests": [],
@@ -287,8 +408,129 @@
       "total_preguntas": 0
     },
     "tema_22": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 1 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_01.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 2 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_02.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 3 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_03.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 4 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_04.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 5 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_05.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 6 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_06.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 7 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_07.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 8 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_08.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 9 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_09.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 10 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_10.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 11 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_11.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 12 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_12.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 13 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_13.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 14 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_14.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 15 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_15.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 1 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_01.json",
+          "preguntas": 20,
+          "subtema": "22.2"
+        },
+        {
+          "nombre": "Test 2 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_02.json",
+          "preguntas": 20,
+          "subtema": "22.2"
+        },
+        {
+          "nombre": "Test 3 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_03.json",
+          "preguntas": 20,
+          "subtema": "22.2"
+        },
+        {
+          "nombre": "Test 4 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_04.json",
+          "preguntas": 20,
+          "subtema": "22.2"
+        },
+        {
+          "nombre": "Test 5 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_05.json",
+          "preguntas": 20,
+          "subtema": "22.2"
+        }
+      ],
+      "total_preguntas": 400
     },
     "tema_23": {
       "tests": [

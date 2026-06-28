@@ -1,0 +1,328 @@
+{
+  "tema_numero": 13,
+  "tema": "Tema 13 - Normas Complementarias del Derecho Procesal",
+  "test": "Test 8",
+  "preguntas": [
+    {
+      "id": "tema_13_sub13.1_test_08_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 4 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Debe constar el motivo concreto por el que se solicita el Habeas Corpus",
+        "b": "El motivo de la solicitud solo puede formularse oralmente ante un Notario, nunca por escrito ante el Juez",
+        "c": "El escrito de solicitud debe necesariamente citar el número de expediente penitenciario, so pena de inadmisión",
+        "d": "Basta con manifestar genéricamente no estar de acuerdo con la detención, sin necesidad de concretar ningún motivo"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 4 de la LO 6/1984 exige que en el escrito o comparecencia conste el lugar donde se halle el privado de libertad y la autoridad o persona bajo cuya custodia se encuentre, si fueren conocidos, así como el motivo concreto por el que se solicita el Habeas Corpus.",
+      "ley": "Art. 4 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Arts. 1 y 3 Ley 4/2015. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Toda víctima tiene derecho a recibir un trato respetuoso, profesional, individualizado y no discriminatorio desde su primer contacto con las autoridades",
+        "b": "El derecho a un trato respetuoso y no discriminatorio solo surge una vez dictada sentencia condenatoria",
+        "c": "Son aplicables también con independencia de si la víctima es mayor o menor de edad o de si disfruta o no de residencia legal",
+        "d": "Toda víctima tiene derecho a la protección, información, apoyo, asistencia y atención, así como a la participación activa en el proceso penal"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 1 y 3 de la Ley 4/2015 extienden su aplicación a toda víctima de delitos cometidos o perseguibles en España, con independencia de su nacionalidad, edad o situación de residencia, reconociéndole derechos de protección, información, apoyo, participación y un trato respetuoso desde el primer contacto con las autoridades.",
+      "ley": "Arts. 1 y 3 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Arts. 1 y 3 Ley 4/2015. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Ley 4/2015 solo protege a las víctimas que tengan nacionalidad española",
+        "b": "La residencia legal en España es requisito imprescindible para que una víctima pueda acceder a estos derechos",
+        "c": "Son aplicables también con independencia de si la víctima es mayor o menor de edad o de si disfruta o no de residencia legal",
+        "d": "Las víctimas menores de edad quedan excluidas del ámbito de aplicación de esta ley"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 1 y 3 de la Ley 4/2015 extienden su aplicación a toda víctima de delitos cometidos o perseguibles en España, con independencia de su nacionalidad, edad o situación de residencia, reconociéndole derechos de protección, información, apoyo, participación y un trato respetuoso desde el primer contacto con las autoridades.",
+      "ley": "Arts. 1 y 3 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 5 Ley 4/2015. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Esta información incluye las medidas de asistencia y apoyo disponibles y el procedimiento para obtenerlas",
+        "b": "Toda víctima tiene derecho, desde el primer contacto con las autoridades, incluso antes de presentar la denuncia, a recibir información inmediata adaptada a sus circunstancias",
+        "c": "El derecho a ser informado sobre el procedimiento de denuncia se reserva exclusivamente a las víctimas de delitos violentos",
+        "d": "Esta información incluye el derecho a denunciar y, en su caso, el procedimiento para interponer la denuncia"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 5 de la Ley 4/2015 reconoce a toda víctima el derecho a recibir, desde el primer contacto con las autoridades -incluso antes de denunciar-, información inmediata y adaptada a sus circunstancias sobre las medidas de asistencia y apoyo disponibles y sobre el derecho a denunciar y su procedimiento.",
+      "ley": "Art. 5 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 23 Ley 4/2015. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La evaluación individual de necesidades de protección es idéntica para todas las víctimas, sin distinción de circunstancias",
+        "b": "Se realiza una evaluación individual de las víctimas para determinar sus necesidades especiales de protección",
+        "c": "La evaluación de necesidades de protección solo se realiza si la víctima paga una tasa administrativa",
+        "d": "La naturaleza del delito cometido es un dato irrelevante para la evaluación individual de la víctima"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 23 de la Ley 4/2015 establece la evaluación individual de las víctimas para determinar sus necesidades especiales de protección, atendiendo a sus características personales y a la naturaleza y circunstancias del delito, con especial atención a víctimas vulnerables como menores o personas con discapacidad.",
+      "ley": "Art. 23 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 19/1994. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las medidas de protección solo pueden adoptarse una vez dictada sentencia firme",
+        "b": "Las medidas de protección de testigos solo pueden adoptarse a instancia exclusiva del propio testigo, nunca de oficio",
+        "c": "El Juez instructor no puede ocultar el domicilio del testigo bajo ninguna circunstancia, aunque exista riesgo grave",
+        "d": "Estas medidas se adoptan sin perjuicio de la acción de contradicción que asiste a la defensa del procesado"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 2 de la LO 19/1994 faculta al Juez instructor para acordar motivadamente, de oficio o a instancia de parte, medidas como la ocultación del nombre, domicilio, profesión y lugar de trabajo del testigo o perito, sin perjuicio de la acción de contradicción que corresponde a la defensa del procesado.",
+      "ley": "Art. 2 LO 19/1994",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Juez puede incoar el procedimiento sin dar traslado previo de la solicitud al Ministerio Fiscal",
+        "b": "Contra la resolución que se adopte sobre la incoación o denegación inicial no cabe recurso alguno",
+        "c": "Contra el auto de incoación o denegación inicial cabe recurso de apelación ante la Audiencia Provincial",
+        "d": "La denegación inicial de la solicitud de Habeas Corpus por improcedente se acuerda siempre verbalmente, nunca por auto"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 Ley 4/2015. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La víctima no tiene derecho a conocer la fecha y lugar del juicio si no se ha constituido como parte acusadora",
+        "b": "Se notificarán a la víctima las resoluciones que acuerden la prisión o la posterior puesta en libertad del infractor",
+        "c": "Las resoluciones sobre la situación personal del infractor (prisión o libertad) son siempre confidenciales para la víctima",
+        "d": "El contenido de la acusación contra el infractor es información reservada que la víctima no puede conocer"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7 de la Ley 4/2015 reconoce a la víctima el derecho a ser informada de manera inmediata de la fecha, hora y lugar del juicio y del contenido de la acusación, así como a que se le notifiquen resoluciones relevantes como la de no incoar el procedimiento o las relativas a la situación personal del infractor.",
+      "ley": "Art. 7 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 5 Ley 4/2015. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La información a la víctima nunca debe adaptarse a sus circunstancias personales, debe ser siempre idéntica para todos los casos",
+        "b": "El derecho a ser informado sobre el procedimiento de denuncia se reserva exclusivamente a las víctimas de delitos violentos",
+        "c": "El derecho a la información de la víctima solo surge una vez admitida a trámite la denuncia por el Juzgado",
+        "d": "Esta información incluye el derecho a denunciar y, en su caso, el procedimiento para interponer la denuncia"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 5 de la Ley 4/2015 reconoce a toda víctima el derecho a recibir, desde el primer contacto con las autoridades -incluso antes de denunciar-, información inmediata y adaptada a sus circunstancias sobre las medidas de asistencia y apoyo disponibles y sobre el derecho a denunciar y su procedimiento.",
+      "ley": "Art. 5 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 4 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El escrito o comparecencia inicial puede omitir cualquier dato sobre la identidad del solicitante sin consecuencia alguna",
+        "b": "El procedimiento de Habeas Corpus solo puede iniciarse mediante escrito formal redactado por un Procurador",
+        "c": "El procedimiento se inicia, salvo cuando se incoe de oficio, por medio de escrito o comparecencia",
+        "d": "Solo se admite la comparecencia verbal cuando el solicitante sea menor de edad"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 4 de la LO 6/1984 permite iniciar el procedimiento, salvo incoación de oficio, mediante escrito o comparecencia, sin que sea preceptiva la intervención de Abogado ni Procurador, debiendo constar el nombre y circunstancias del solicitante y de la persona para quien se pide el amparo.",
+      "ley": "Art. 4 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Solo es competente para el Habeas Corpus el Juez del domicilio habitual del detenido, sea cual sea el lugar de la detención",
+        "b": "En el ámbito de la Jurisdicción Militar es competente el Juez Togado Militar de Instrucción de la circunscripción donde se efectuó la detención",
+        "c": "Si no constare el lugar donde se encuentra el detenido, es competente el Juez de Instrucción del lugar en que se produjo la detención",
+        "d": "Es competente para conocer del Habeas Corpus el Juez de Instrucción del lugar en que se encuentre la persona privada de libertad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 2 de la LO 6/1984 establece una competencia escalonada: el Juez de Instrucción del lugar donde se halle el detenido; en su defecto, el del lugar de la detención; en su defecto, el del lugar de las últimas noticias sobre su paradero; y, en el ámbito militar, el Juez Togado Militar de Instrucción de la circunscripción de la detención.",
+      "ley": "Art. 2 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La denegación inicial de la solicitud de Habeas Corpus por improcedente se acuerda siempre verbalmente, nunca por auto",
+        "b": "El Ministerio Fiscal no necesita ser notificado del auto que resuelve sobre la incoación o denegación",
+        "c": "Contra la resolución que se adopte sobre la incoación o denegación inicial no cabe recurso alguno",
+        "d": "Contra el auto de incoación o denegación inicial cabe recurso de apelación ante la Audiencia Provincial"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Arts. 1 y 3 Ley 4/2015. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Son aplicables también con independencia de si la víctima es mayor o menor de edad o de si disfruta o no de residencia legal",
+        "b": "Las disposiciones de la Ley 4/2015 son aplicables a las víctimas de delitos cometidos en España con independencia de su nacionalidad",
+        "c": "El derecho a un trato respetuoso y no discriminatorio solo surge una vez dictada sentencia condenatoria",
+        "d": "Toda víctima tiene derecho a recibir un trato respetuoso, profesional, individualizado y no discriminatorio desde su primer contacto con las autoridades"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 1 y 3 de la Ley 4/2015 extienden su aplicación a toda víctima de delitos cometidos o perseguibles en España, con independencia de su nacionalidad, edad o situación de residencia, reconociéndole derechos de protección, información, apoyo, participación y un trato respetuoso desde el primer contacto con las autoridades.",
+      "ley": "Arts. 1 y 3 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 Ley 4/2015. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Se notificará a la víctima la resolución por la que se acuerde no iniciar el procedimiento penal",
+        "b": "El contenido de la acusación contra el infractor es información reservada que la víctima no puede conocer",
+        "c": "Se notificarán a la víctima las resoluciones que acuerden la prisión o la posterior puesta en libertad del infractor",
+        "d": "Toda víctima será informada de manera inmediata de la fecha, hora y lugar del juicio, así como del contenido de la acusación dirigida contra el infractor"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7 de la Ley 4/2015 reconoce a la víctima el derecho a ser informada de manera inmediata de la fecha, hora y lugar del juicio y del contenido de la acusación, así como a que se le notifiquen resoluciones relevantes como la de no incoar el procedimiento o las relativas a la situación personal del infractor.",
+      "ley": "Art. 7 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "En el ámbito de la Jurisdicción Militar es competente el Juez Togado Militar de Instrucción de la circunscripción donde se efectuó la detención",
+        "b": "La competencia para el Habeas Corpus corresponde siempre a la Audiencia Provincial, nunca a un Juzgado de Instrucción",
+        "c": "Si se desconoce el paradero del detenido, el procedimiento de Habeas Corpus queda automáticamente archivado sin más trámite",
+        "d": "Solo es competente para el Habeas Corpus el Juez del domicilio habitual del detenido, sea cual sea el lugar de la detención"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 2 de la LO 6/1984 establece una competencia escalonada: el Juez de Instrucción del lugar donde se halle el detenido; en su defecto, el del lugar de la detención; en su defecto, el del lugar de las últimas noticias sobre su paradero; y, en el ámbito militar, el Juez Togado Militar de Instrucción de la circunscripción de la detención.",
+      "ley": "Art. 2 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 19/1994. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Apreciada la circunstancia de peligro, el Juez instructor acuerda motivadamente las medidas necesarias para preservar la identidad de los testigos y peritos",
+        "b": "El Juez instructor no puede ocultar el domicilio del testigo bajo ninguna circunstancia, aunque exista riesgo grave",
+        "c": "La preservación de la identidad del testigo elimina por completo el derecho de defensa del procesado a contradecir la prueba",
+        "d": "Las medidas de protección de testigos solo pueden adoptarse a instancia exclusiva del propio testigo, nunca de oficio"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 2 de la LO 19/1994 faculta al Juez instructor para acordar motivadamente, de oficio o a instancia de parte, medidas como la ocultación del nombre, domicilio, profesión y lugar de trabajo del testigo o perito, sin perjuicio de la acción de contradicción que corresponde a la defensa del procesado.",
+      "ley": "Art. 2 LO 19/1994",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "En el ámbito militar, la competencia para el Habeas Corpus corresponde al Tribunal Supremo en todo caso",
+        "b": "Solo es competente para el Habeas Corpus el Juez del domicilio habitual del detenido, sea cual sea el lugar de la detención",
+        "c": "La competencia para el Habeas Corpus corresponde siempre a la Audiencia Provincial, nunca a un Juzgado de Instrucción",
+        "d": "Si no constare el lugar donde se encuentra el detenido, es competente el Juez de Instrucción del lugar en que se produjo la detención"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 2 de la LO 6/1984 establece una competencia escalonada: el Juez de Instrucción del lugar donde se halle el detenido; en su defecto, el del lugar de la detención; en su defecto, el del lugar de las últimas noticias sobre su paradero; y, en el ámbito militar, el Juez Togado Militar de Instrucción de la circunscripción de la detención.",
+      "ley": "Art. 2 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 3 LO 19/1994. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Se puede brindar protección policial a los testigos y peritos, a instancia del Ministerio Fiscal, para todo el proceso",
+        "b": "La protección policial de testigos se limita estrictamente a la duración de la vista oral, sin posibilidad de extenderse",
+        "c": "Está expresamente prohibido facilitar a un testigo protegido cualquier ayuda económica para cambiar de residencia",
+        "d": "Las autoridades tienen vedado retirar material fotográfico tomado ilícitamente a un testigo protegido"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 3 de la LO 19/1994 prevé la protección policial de testigos y peritos a instancia del Ministerio Fiscal, la posibilidad excepcional de facilitarles nueva identidad documental y medios para cambiar de residencia o trabajo, y la obligación de evitar y retirar fotografías o grabaciones no autorizadas de su imagen.",
+      "ley": "Art. 3 LO 19/1994",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 4 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Solo se admite la comparecencia verbal cuando el solicitante sea menor de edad",
+        "b": "El escrito o comparecencia inicial puede omitir cualquier dato sobre la identidad del solicitante sin consecuencia alguna",
+        "c": "Es siempre obligatoria la intervención de Abogado para presentar la solicitud de Habeas Corpus",
+        "d": "El procedimiento se inicia, salvo cuando se incoe de oficio, por medio de escrito o comparecencia"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 4 de la LO 6/1984 permite iniciar el procedimiento, salvo incoación de oficio, mediante escrito o comparecencia, sin que sea preceptiva la intervención de Abogado ni Procurador, debiendo constar el nombre y circunstancias del solicitante y de la persona para quien se pide el amparo.",
+      "ley": "Art. 4 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_08_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Si se desconoce el paradero del detenido, el procedimiento de Habeas Corpus queda automáticamente archivado sin más trámite",
+        "b": "En el ámbito militar, la competencia para el Habeas Corpus corresponde al Tribunal Supremo en todo caso",
+        "c": "La competencia para el Habeas Corpus corresponde siempre a la Audiencia Provincial, nunca a un Juzgado de Instrucción",
+        "d": "Si no constare el lugar donde se encuentra el detenido, es competente el Juez de Instrucción del lugar en que se produjo la detención"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 2 de la LO 6/1984 establece una competencia escalonada: el Juez de Instrucción del lugar donde se halle el detenido; en su defecto, el del lugar de la detención; en su defecto, el del lugar de las últimas noticias sobre su paradero; y, en el ámbito militar, el Juez Togado Militar de Instrucción de la circunscripción de la detención.",
+      "ley": "Art. 2 LO 6/1984",
+      "subtema": "13.1"
+    }
+  ],
+  "subtema": "13.1"
+}

@@ -1,0 +1,328 @@
+{
+  "tema_numero": 13,
+  "tema": "Tema 13 - Normas Complementarias del Derecho Procesal",
+  "test": "Test 1",
+  "preguntas": [
+    {
+      "id": "tema_13_sub13.1_test_01_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 1 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El procedimiento de Habeas Corpus está reservado en exclusiva a detenciones practicadas por la Guardia Civil",
+        "b": "Una detención legal en su origen nunca puede dar lugar a un Habeas Corpus, sea cual sea su evolución posterior",
+        "c": "Es persona ilegalmente detenida la que esté ilícitamente internada en cualquier establecimiento o lugar",
+        "d": "El Habeas Corpus únicamente protege a los detenidos que tengan nacionalidad española"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 1 de la LO 6/1984 define el Habeas Corpus como el procedimiento para obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente, considerando ilegalmente detenida, entre otros casos, a quien lo sea sin concurrir los supuestos legales o sin cumplirse las formalidades exigidas, o a quien esté ilícitamente internado en cualquier establecimiento o lugar.",
+      "ley": "Art. 1 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 1 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Mediante el procedimiento de Habeas Corpus se puede obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente",
+        "b": "El procedimiento de Habeas Corpus está reservado en exclusiva a detenciones practicadas por la Guardia Civil",
+        "c": "Es persona ilegalmente detenida la que lo fuere sin que concurran los supuestos legales o sin haberse cumplido las formalidades exigidas por las leyes",
+        "d": "Es persona ilegalmente detenida la que esté ilícitamente internada en cualquier establecimiento o lugar"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 1 de la LO 6/1984 define el Habeas Corpus como el procedimiento para obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente, considerando ilegalmente detenida, entre otros casos, a quien lo sea sin concurrir los supuestos legales o sin cumplirse las formalidades exigidas, o a quien esté ilícitamente internado en cualquier establecimiento o lugar.",
+      "ley": "Art. 1 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_003",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 1 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El incumplimiento de los derechos del detenido reconocidos en la Constitución es irrelevante a efectos del Habeas Corpus",
+        "b": "El Habeas Corpus solo protege contra detenciones ilegales desde su origen, nunca contra el mantenimiento ilegal de una detención inicialmente legal",
+        "c": "El Habeas Corpus alcanza tanto a detenciones ilegales desde su origen como a detenciones que, siendo legales al inicio, se prolongan o mantienen ilegalmente",
+        "d": "La duración excesiva de una detención solo puede denunciarse mediante recurso de apelación, nunca mediante Habeas Corpus"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 1 de la LO 6/1984 también considera ilegalmente detenida a la persona retenida por plazo superior al legal sin ser puesta en libertad o entregada al Juez, y a quien no se le respeten los derechos constitucionales y procesales del detenido, extendiendo el Habeas Corpus tanto a detenciones ilegales de origen como a las que se prolongan ilegalmente.",
+      "ley": "Art. 1 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 19/1994. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Juez puede acordar que no consten en las diligencias el nombre, apellidos, domicilio, lugar de trabajo y profesión del testigo o perito",
+        "b": "Las medidas de protección de testigos solo pueden adoptarse a instancia exclusiva del propio testigo, nunca de oficio",
+        "c": "Apreciada la circunstancia de peligro, el Juez instructor acuerda motivadamente las medidas necesarias para preservar la identidad de los testigos y peritos",
+        "d": "Estas medidas se adoptan sin perjuicio de la acción de contradicción que asiste a la defensa del procesado"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 2 de la LO 19/1994 faculta al Juez instructor para acordar motivadamente, de oficio o a instancia de parte, medidas como la ocultación del nombre, domicilio, profesión y lugar de trabajo del testigo o perito, sin perjuicio de la acción de contradicción que corresponde a la defensa del procesado.",
+      "ley": "Art. 2 LO 19/1994",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 3 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Juez nunca puede iniciar de oficio el procedimiento de Habeas Corpus, siempre necesita instancia de parte",
+        "b": "La legitimación para instar el Habeas Corpus se extingue si el detenido pierde el conocimiento",
+        "c": "Los representantes legales de un menor privado de libertad no están legitimados para instar el Habeas Corpus en su nombre",
+        "d": "El abogado defensor del privado de libertad está legitimado para instar el procedimiento de Habeas Corpus"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 3 de la LO 6/1984 reconoce legitimación al abogado defensor del privado de libertad y permite que el Juez competente inicie de oficio el procedimiento, contemplando también, respecto de los menores, la legitimación de sus representantes legales.",
+      "ley": "Art. 3 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Contra el auto de incoación o denegación inicial cabe recurso de apelación ante la Audiencia Provincial",
+        "b": "El Juez puede incoar el procedimiento sin dar traslado previo de la solicitud al Ministerio Fiscal",
+        "c": "Contra la resolución que se adopte sobre la incoación o denegación inicial no cabe recurso alguno",
+        "d": "El Ministerio Fiscal no necesita ser notificado del auto que resuelve sobre la incoación o denegación"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 23 Ley 4/2015. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los menores de edad quedan excluidos de cualquier consideración especial en la evaluación de necesidades de protección",
+        "b": "Esta evaluación tiene en cuenta las características personales de la víctima y la naturaleza y circunstancias del delito",
+        "c": "Se presta especial atención a las víctimas más vulnerables, como los menores o las personas con discapacidad necesitadas de especial protección",
+        "d": "Se realiza una evaluación individual de las víctimas para determinar sus necesidades especiales de protección"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 23 de la Ley 4/2015 establece la evaluación individual de las víctimas para determinar sus necesidades especiales de protección, atendiendo a sus características personales y a la naturaleza y circunstancias del delito, con especial atención a víctimas vulnerables como menores o personas con discapacidad.",
+      "ley": "Art. 23 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 4 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El escrito o comparecencia inicial puede omitir cualquier dato sobre la identidad del solicitante sin consecuencia alguna",
+        "b": "Es siempre obligatoria la intervención de Abogado para presentar la solicitud de Habeas Corpus",
+        "c": "El procedimiento de Habeas Corpus solo puede iniciarse mediante escrito formal redactado por un Procurador",
+        "d": "No es preceptiva la intervención de Abogado ni de Procurador para iniciar el procedimiento de Habeas Corpus"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 4 de la LO 6/1984 permite iniciar el procedimiento, salvo incoación de oficio, mediante escrito o comparecencia, sin que sea preceptiva la intervención de Abogado ni Procurador, debiendo constar el nombre y circunstancias del solicitante y de la persona para quien se pide el amparo.",
+      "ley": "Art. 4 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Contra la resolución que se adopte sobre la incoación o denegación inicial no cabe recurso alguno",
+        "b": "El auto que acuerde la incoación o la denegación se notifica en todo caso al Ministerio Fiscal",
+        "c": "Mediante auto, el Juez acordará la incoación del procedimiento o, en su caso, denegará la solicitud por ser improcedente",
+        "d": "Contra el auto de incoación o denegación inicial cabe recurso de apelación ante la Audiencia Provincial"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 3 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Puede instar el Habeas Corpus el Defensor del Pueblo",
+        "b": "Puede instar el Habeas Corpus el propio privado de libertad",
+        "c": "El Defensor del Pueblo carece de legitimación para instar el Habeas Corpus",
+        "d": "Puede instar el Habeas Corpus el Ministerio Fiscal"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 3 de la LO 6/1984 legitima para instar el Habeas Corpus al propio privado de libertad, a su cónyuge o persona unida por análoga relación de afectividad, descendientes, ascendientes y hermanos, al Ministerio Fiscal, al Defensor del Pueblo y al abogado defensor del privado de libertad.",
+      "ley": "Art. 3 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 1 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El incumplimiento de los derechos del detenido reconocidos en la Constitución es irrelevante a efectos del Habeas Corpus",
+        "b": "Superar el plazo legal de detención nunca convierte la detención en ilegal si en origen fue correctamente practicada",
+        "c": "La duración excesiva de una detención solo puede denunciarse mediante recurso de apelación, nunca mediante Habeas Corpus",
+        "d": "El Habeas Corpus alcanza tanto a detenciones ilegales desde su origen como a detenciones que, siendo legales al inicio, se prolongan o mantienen ilegalmente"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 1 de la LO 6/1984 también considera ilegalmente detenida a la persona retenida por plazo superior al legal sin ser puesta en libertad o entregada al Juez, y a quien no se le respeten los derechos constitucionales y procesales del detenido, extendiendo el Habeas Corpus tanto a detenciones ilegales de origen como a las que se prolongan ilegalmente.",
+      "ley": "Art. 1 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 4 LO 19/1994. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las declaraciones de testigos protegidos en instrucción tienen pleno valor de prueba en sentencia sin necesidad de ratificación en el juicio oral",
+        "b": "Las declaraciones de testigos protegidos durante la instrucción solo tienen valor de prueba si son ratificadas en el juicio oral por quien las prestó",
+        "c": "El órgano judicial competente para el enjuiciamiento se pronuncia motivadamente sobre mantener, modificar o suprimir las medidas de protección adoptadas por el Juez de Instrucción",
+        "d": "Si una parte solicita motivadamente conocer la identidad de los testigos o peritos propuestos, el Juez o Tribunal debe facilitar su nombre y apellidos en el auto que declare pertinente la prueba"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 4 de la LO 19/1994 atribuye al órgano de enjuiciamiento la decisión motivada sobre mantener, modificar o suprimir las medidas de protección, prevé el conocimiento de la identidad del testigo cuando una parte lo solicite motivadamente y se declare pertinente la prueba, y exige que las declaraciones protegidas en instrucción se ratifiquen en el juicio oral para tener valor probatorio.",
+      "ley": "Art. 4 LO 19/1994",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 6 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La denegación inicial de la solicitud de Habeas Corpus por improcedente se acuerda siempre verbalmente, nunca por auto",
+        "b": "Contra la resolución que se adopte sobre la incoación o denegación inicial no cabe recurso alguno",
+        "c": "Mediante auto, el Juez acordará la incoación del procedimiento o, en su caso, denegará la solicitud por ser improcedente",
+        "d": "El auto que acuerde la incoación o la denegación se notifica en todo caso al Ministerio Fiscal"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 6 de la LO 6/1984 dispone que el Juez, tras examinar los requisitos y dar traslado al Ministerio Fiscal, decide mediante auto la incoación del procedimiento o la denegación de la solicitud por improcedente, notificándose en todo caso al Ministerio Fiscal, sin que contra dicha resolución quepa recurso alguno.",
+      "ley": "Art. 6 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 7 Ley 4/2015. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Se notificará a la víctima la resolución por la que se acuerde no iniciar el procedimiento penal",
+        "b": "La víctima no tiene derecho a conocer la fecha y lugar del juicio si no se ha constituido como parte acusadora",
+        "c": "Se notificarán a la víctima las resoluciones que acuerden la prisión o la posterior puesta en libertad del infractor",
+        "d": "Toda víctima será informada de manera inmediata de la fecha, hora y lugar del juicio, así como del contenido de la acusación dirigida contra el infractor"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7 de la Ley 4/2015 reconoce a la víctima el derecho a ser informada de manera inmediata de la fecha, hora y lugar del juicio y del contenido de la acusación, así como a que se le notifiquen resoluciones relevantes como la de no incoar el procedimiento o las relativas a la situación personal del infractor.",
+      "ley": "Art. 7 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 1 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Es persona ilegalmente detenida la que lo fuere sin que concurran los supuestos legales o sin haberse cumplido las formalidades exigidas por las leyes",
+        "b": "Mediante el procedimiento de Habeas Corpus se puede obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente",
+        "c": "Una detención legal en su origen nunca puede dar lugar a un Habeas Corpus, sea cual sea su evolución posterior",
+        "d": "Es persona ilegalmente detenida la que esté ilícitamente internada en cualquier establecimiento o lugar"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 1 de la LO 6/1984 define el Habeas Corpus como el procedimiento para obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente, considerando ilegalmente detenida, entre otros casos, a quien lo sea sin concurrir los supuestos legales o sin cumplirse las formalidades exigidas, o a quien esté ilícitamente internado en cualquier establecimiento o lugar.",
+      "ley": "Art. 1 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 23 Ley 4/2015. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Se presta especial atención a las víctimas más vulnerables, como los menores o las personas con discapacidad necesitadas de especial protección",
+        "b": "Esta evaluación tiene en cuenta las características personales de la víctima y la naturaleza y circunstancias del delito",
+        "c": "Se realiza una evaluación individual de las víctimas para determinar sus necesidades especiales de protección",
+        "d": "La evaluación individual de necesidades de protección es idéntica para todas las víctimas, sin distinción de circunstancias"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 23 de la Ley 4/2015 establece la evaluación individual de las víctimas para determinar sus necesidades especiales de protección, atendiendo a sus características personales y a la naturaleza y circunstancias del delito, con especial atención a víctimas vulnerables como menores o personas con discapacidad.",
+      "ley": "Art. 23 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 2 LO 6/1984. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Si no constare el lugar donde se encuentra el detenido, es competente el Juez de Instrucción del lugar en que se produjo la detención",
+        "b": "Solo es competente para el Habeas Corpus el Juez del domicilio habitual del detenido, sea cual sea el lugar de la detención",
+        "c": "Es competente para conocer del Habeas Corpus el Juez de Instrucción del lugar en que se encuentre la persona privada de libertad",
+        "d": "En defecto de los anteriores, es competente el Juez del lugar donde se hayan tenido las últimas noticias sobre el paradero del detenido"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 2 de la LO 6/1984 establece una competencia escalonada: el Juez de Instrucción del lugar donde se halle el detenido; en su defecto, el del lugar de la detención; en su defecto, el del lugar de las últimas noticias sobre su paradero; y, en el ámbito militar, el Juez Togado Militar de Instrucción de la circunscripción de la detención.",
+      "ley": "Art. 2 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 5 Ley 4/2015. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La información sobre medidas de asistencia disponibles es opcional y queda a discreción del funcionario actuante",
+        "b": "Toda víctima tiene derecho, desde el primer contacto con las autoridades, incluso antes de presentar la denuncia, a recibir información inmediata adaptada a sus circunstancias",
+        "c": "Esta información incluye las medidas de asistencia y apoyo disponibles y el procedimiento para obtenerlas",
+        "d": "Esta información incluye el derecho a denunciar y, en su caso, el procedimiento para interponer la denuncia"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5 de la Ley 4/2015 reconoce a toda víctima el derecho a recibir, desde el primer contacto con las autoridades -incluso antes de denunciar-, información inmediata y adaptada a sus circunstancias sobre las medidas de asistencia y apoyo disponibles y sobre el derecho a denunciar y su procedimiento.",
+      "ley": "Art. 5 Ley 4/2015",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 3 LO 6/1984. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Juez nunca puede iniciar de oficio el procedimiento de Habeas Corpus, siempre necesita instancia de parte",
+        "b": "El abogado defensor del privado de libertad está legitimado para instar el procedimiento de Habeas Corpus",
+        "c": "Los representantes legales de un menor privado de libertad no están legitimados para instar el Habeas Corpus en su nombre",
+        "d": "El abogado defensor del detenido carece de legitimación propia para instar el Habeas Corpus si el detenido no lo autoriza expresamente por escrito"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 3 de la LO 6/1984 reconoce legitimación al abogado defensor del privado de libertad y permite que el Juez competente inicie de oficio el procedimiento, contemplando también, respecto de los menores, la legitimación de sus representantes legales.",
+      "ley": "Art. 3 LO 6/1984",
+      "subtema": "13.1"
+    },
+    {
+      "id": "tema_13_sub13.1_test_01_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 3 LO 19/1994. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La protección policial de testigos se limita estrictamente a la duración de la vista oral, sin posibilidad de extenderse",
+        "b": "Se puede brindar protección policial a los testigos y peritos, a instancia del Ministerio Fiscal, para todo el proceso",
+        "c": "En casos excepcionales pueden facilitarse a los testigos y peritos documentos de una nueva identidad y medios económicos para cambiar su residencia o lugar de trabajo",
+        "d": "La autoridad judicial debe evitar que se hagan fotografías o se tome la imagen de los testigos o peritos por cualquier procedimiento"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 3 de la LO 19/1994 prevé la protección policial de testigos y peritos a instancia del Ministerio Fiscal, la posibilidad excepcional de facilitarles nueva identidad documental y medios para cambiar de residencia o trabajo, y la obligación de evitar y retirar fotografías o grabaciones no autorizadas de su imagen.",
+      "ley": "Art. 3 LO 19/1994",
+      "subtema": "13.1"
+    }
+  ],
+  "subtema": "13.1"
+}

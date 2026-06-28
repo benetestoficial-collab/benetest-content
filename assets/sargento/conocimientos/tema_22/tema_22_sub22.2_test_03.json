@@ -1,0 +1,328 @@
+{
+  "tema_numero": 22,
+  "tema": "Tema 22 - Fuerzas y Cuerpos de Seguridad",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_22_sub22.2_test_03_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 8 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Corresponde al Secretario redactar las actas de cada sesión y expedir certificados de los acuerdos adoptados",
+        "b": "El Secretario tiene la facultad de convocar las sesiones por iniciativa propia, sin orden del Presidente",
+        "c": "La redacción de las actas corresponde al vocal de mayor antigüedad, no al Secretario",
+        "d": "La custodia de la documentación de la Junta corresponde al Ayuntamiento en su conjunto, no a una persona concreta"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 8 del RD 1087/2010 encomienda al Secretario efectuar la convocatoria de las sesiones por orden del Presidente, redactar las actas y expedir certificados de los acuerdos, y custodiar la documentación de la Junta, entre otras funciones inherentes a su cargo.",
+      "ley": "Art. 8 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 4 RD 1087/2010. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Evalúan y proponen la integración del Cuerpo de Policía Local en el Sistema Estatal de Bases de Datos Policiales",
+        "b": "Conocen, en el ámbito de sus atribuciones, los conflictos e incidentes de competencia entre las FCS del Estado y el Cuerpo de Policía Local",
+        "c": "Las Juntas Locales de Seguridad tienen prohibido por reglamento conocer de cualquier conflicto entre Cuerpos policiales",
+        "d": "Cooperan con los servicios de Protección Civil en los términos de la legislación y planeamiento en esa materia"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 4 del RD 1087/2010 también atribuye a las Juntas Locales de Seguridad evaluar la integración de la Policía Local en el Sistema Estatal de Bases de Datos Policiales, conocer conflictos competenciales entre Cuerpos, cooperar con Protección Civil y efectuar el seguimiento y evaluación de los acuerdos adoptados.",
+      "ley": "Art. 4 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 17 a 19 RD 1087/2010. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las Juntas de Distrito ejercen, dentro de su ámbito, las competencias del artículo 4 del Reglamento que les encomiende la Junta Local de Seguridad",
+        "b": "Los acuerdos de las Juntas de Distrito se adoptan por mayoría y deben ser ratificados por la Junta Local de Seguridad de la que dependen",
+        "c": "El régimen de funcionamiento de las Juntas de Seguridad de Distrito se ajusta, dentro de sus peculiaridades, a lo establecido para las Juntas Locales de Seguridad",
+        "d": "El funcionamiento de las Juntas de Distrito es totalmente distinto e independiente del de las Juntas Locales de Seguridad"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 17 a 19 del RD 1087/2010 ajustan el funcionamiento de las Juntas de Seguridad de Distrito al régimen de las Juntas Locales de Seguridad, exigen que sus acuerdos, adoptados por mayoría, sean ratificados por la Junta Local de la que dependen, y limitan sus competencias a las del artículo 4 que ésta les encomiende.",
+      "ley": "Arts. 17 a 19 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Presidencia de la Junta Local de Seguridad corresponde siempre al Delegado del Gobierno, nunca al Alcalde",
+        "b": "Entre los vocales de la Administración General del Estado figura el Jefe o Jefes de las FCSE que ejerzan sus funciones en el municipio",
+        "c": "La concurrencia del Delegado del Gobierno a las sesiones no altera en ningún caso el régimen de presidencia",
+        "d": "Los vocales de la Administración General del Estado están integrados exclusivamente por representantes municipales"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 5 del RD 1087/2010 atribuye la Presidencia de la Junta Local de Seguridad al Alcalde, compartida con el Delegado del Gobierno en la Comunidad Autónoma cuando concurra a sus sesiones, incluyendo entre los vocales de la Administración General del Estado al Jefe o Jefes de las FCSE con funciones en el municipio.",
+      "ley": "Art. 5 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 16 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Secretaría la desempeña un funcionario de la Junta Municipal designado por su Presidente, con voz pero sin voto",
+        "b": "La Presidencia de la Junta de Seguridad de Distrito corresponde siempre al Alcalde del municipio, no al Concejal de Distrito",
+        "c": "Los vocales de la Junta de Distrito son designados libremente por el Delegado del Gobierno, sin relación con el territorio del Distrito",
+        "d": "La composición de la Junta de Seguridad de Distrito es idéntica, artículo por artículo, a la de la Junta Local de Seguridad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 16 del RD 1087/2010 establece que la Junta de Seguridad de Distrito está presidida por el Concejal Presidente de la Junta Municipal de Distrito, con los Jefes de Unidades policiales del Distrito como vocales y un funcionario municipal como Secretario, con voz pero sin voto.",
+      "ley": "Art. 16 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 4 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El seguimiento de los acuerdos adoptados corresponde en exclusiva al Ministerio del Interior, no a la Junta",
+        "b": "Evalúan y proponen la integración del Cuerpo de Policía Local en el Sistema Estatal de Bases de Datos Policiales",
+        "c": "Las Juntas Locales de Seguridad tienen prohibido por reglamento conocer de cualquier conflicto entre Cuerpos policiales",
+        "d": "La cooperación con Protección Civil queda fuera de las competencias reglamentariamente atribuidas a estas Juntas"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 4 del RD 1087/2010 también atribuye a las Juntas Locales de Seguridad evaluar la integración de la Policía Local en el Sistema Estatal de Bases de Datos Policiales, conocer conflictos competenciales entre Cuerpos, cooperar con Protección Civil y efectuar el seguimiento y evaluación de los acuerdos adoptados.",
+      "ley": "Art. 4 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 9 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Podrá reunirse en sesión extraordinaria cuando las necesidades lo aconsejen",
+        "b": "La Junta Local de Seguridad solo puede reunirse una vez cada cuatro años, coincidiendo con el mandato municipal",
+        "c": "La convocatoria de sesiones extraordinarias requiere siempre autorización previa del Ministerio del Interior",
+        "d": "Las sesiones extraordinarias están prohibidas por el Reglamento bajo cualquier circunstancia"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 9 del RD 1087/2010 establece que la Junta Local de Seguridad se reunirá en sesión ordinaria al menos una vez al semestre, pudiendo además reunirse en sesión extraordinaria cuando las necesidades del servicio lo aconsejen.",
+      "ley": "Art. 9 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 7 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La convocatoria de las sesiones corresponde siempre al Secretario por iniciativa propia, sin intervención del Presidente",
+        "b": "La moderación del debate corresponde en exclusiva al vocal más antiguo, nunca al Presidente",
+        "c": "El Alcalde pierde la atribución de dirigir las sesiones en cuanto asiste el Delegado del Gobierno",
+        "d": "Corresponde al Alcalde, como Presidente de la Junta, convocar las sesiones y fijar el orden del día"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 7 del RD 1087/2010 atribuye al Alcalde, como Presidente de la Junta Local de Seguridad, convocar las sesiones, fijar el orden del día -incluyendo las propuestas estatales y autonómicas- y dirigir y moderar el debate, de forma compartida con el Delegado o Subdelegado del Gobierno cuando asista a la reunión.",
+      "ley": "Art. 7 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_009",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Entre los vocales de la Administración autonómica figura un representante designado por la consejería competente",
+        "b": "La Administración autonómica carece de representación alguna en la composición de la Junta Local de Seguridad",
+        "c": "La composición de la Junta Local de Seguridad excluye por completo la presencia autonómica y local conjunta",
+        "d": "Los vocales de la Administración Local son designados siempre por el Delegado del Gobierno, nunca por el Alcalde"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5 del RD 1087/2010 incluye entre los vocales de la Junta Local de Seguridad a un representante de la Administración autonómica designado por la consejería competente y a representantes de la Administración Local designados por el Alcalde, desempeñando la Secretaría un funcionario con voz pero sin voto.",
+      "ley": "Art. 5 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 9 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La periodicidad mínima de las sesiones ordinarias es mensual",
+        "b": "La convocatoria de sesiones extraordinarias requiere siempre autorización previa del Ministerio del Interior",
+        "c": "La Junta Local de Seguridad se reunirá en sesión ordinaria, al menos, una vez al semestre",
+        "d": "Las sesiones extraordinarias están prohibidas por el Reglamento bajo cualquier circunstancia"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 9 del RD 1087/2010 establece que la Junta Local de Seguridad se reunirá en sesión ordinaria al menos una vez al semestre, pudiendo además reunirse en sesión extraordinaria cuando las necesidades del servicio lo aconsejen.",
+      "ley": "Art. 9 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 11 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los miembros de la Junta pueden divulgar libremente cualquier información tratada, sin ninguna reserva",
+        "b": "La reserva sobre los asuntos tratados es una recomendación sin carácter vinculante",
+        "c": "El deber de colaboración leal solo se exige al Presidente, no al resto de vocales",
+        "d": "Deben colaborar lealmente en el cumplimiento de los fines de la Junta"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 11 del RD 1087/2010 impone a los miembros de la Junta Local de Seguridad el deber de guardar reserva sobre los asuntos tratados cuando así se acuerde, así como el de colaborar lealmente en el cumplimiento de los fines de la Junta.",
+      "ley": "Art. 11 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 8 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La custodia de la documentación de la Junta corresponde al Ayuntamiento en su conjunto, no a una persona concreta",
+        "b": "El Secretario carece de cualquier función relacionada con la expedición de certificados de acuerdos",
+        "c": "La redacción de las actas corresponde al vocal de mayor antigüedad, no al Secretario",
+        "d": "Corresponde al Secretario redactar las actas de cada sesión y expedir certificados de los acuerdos adoptados"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 8 del RD 1087/2010 encomienda al Secretario efectuar la convocatoria de las sesiones por orden del Presidente, redactar las actas y expedir certificados de los acuerdos, y custodiar la documentación de la Junta, entre otras funciones inherentes a su cargo.",
+      "ley": "Art. 8 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 3 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Solo el Ministerio del Interior puede constituir una Junta Local de Seguridad, sin intervención municipal",
+        "b": "Las Juntas Locales de Seguridad se constituyen automáticamente en todos los municipios españoles sin necesidad de acuerdo alguno",
+        "c": "Las Juntas Locales de Seguridad podrán constituirse en municipios o agrupaciones de municipios que tengan Cuerpo de Policía propio",
+        "d": "El acta de constitución es un documento meramente informal que no requiere contenido mínimo alguno"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 3 del RD 1087/2010 permite constituir Juntas Locales de Seguridad en municipios o agrupaciones de municipios con Cuerpo de Policía propio, mediante Acuerdo del Alcalde y del Delegado o Subdelegado del Gobierno, prevé la Comisión Local de Seguridad para municipios sin Policía Local, y exige que el acta de constitución recoja al menos denominación, sede, ámbito territorial y composición.",
+      "ley": "Art. 3 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 1 y 2 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Juntas Locales de Seguridad son órganos unipersonales presididos siempre por el Delegado del Gobierno",
+        "b": "El ámbito de actuación de estas Juntas se extiende siempre a toda la provincia, no solo al municipio",
+        "c": "Las Juntas Locales de Seguridad carecen de cualquier función relacionada con la coordinación policial",
+        "d": "Aseguran de forma específica la cooperación y coordinación operativa de las FCS que intervienen en el término municipal"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 1 y 2 del RD 1087/2010 determinan que el Reglamento regula la constitución, composición, competencias y funcionamiento de las Juntas Locales de Seguridad, configurándolas como órganos colegiados que facilitan la cooperación y coordinación de las Administraciones Públicas en materia de seguridad y, en particular, la coordinación operativa de las FCS en el término municipal.",
+      "ley": "Arts. 1 y 2 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 12 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los órganos de asesoramiento solo pueden estar compuestos por personal ajeno a cualquier Administración Pública",
+        "b": "La Junta Local de Seguridad puede contar con órganos de asesoramiento técnico para el ejercicio de sus competencias",
+        "c": "Los órganos de asesoramiento sustituyen por completo a la Junta en la adopción de acuerdos",
+        "d": "El Reglamento excluye expresamente la posibilidad de apoyo técnico a la Junta Local de Seguridad"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 12 del RD 1087/2010 permite que la Junta Local de Seguridad cuente con órganos de asesoramiento técnico, integrados por personal de las distintas Administraciones representadas, para el mejor ejercicio de sus competencias.",
+      "ley": "Art. 12 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 12 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los órganos de asesoramiento sustituyen por completo a la Junta en la adopción de acuerdos",
+        "b": "La Junta Local de Seguridad puede contar con órganos de asesoramiento técnico para el ejercicio de sus competencias",
+        "c": "Los órganos de asesoramiento solo pueden estar compuestos por personal ajeno a cualquier Administración Pública",
+        "d": "La Junta Local de Seguridad tiene prohibido contar con cualquier órgano de asesoramiento técnico"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 12 del RD 1087/2010 permite que la Junta Local de Seguridad cuente con órganos de asesoramiento técnico, integrados por personal de las distintas Administraciones representadas, para el mejor ejercicio de sus competencias.",
+      "ley": "Art. 12 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 3 RD 1087/2010. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las Juntas Locales de Seguridad se constituyen automáticamente en todos los municipios españoles sin necesidad de acuerdo alguno",
+        "b": "Su constitución se lleva a cabo mediante Acuerdo del Alcalde y del Delegado del Gobierno en la Comunidad Autónoma, o del Subdelegado por delegación de éste",
+        "c": "Las Juntas Locales de Seguridad podrán constituirse en municipios o agrupaciones de municipios que tengan Cuerpo de Policía propio",
+        "d": "En municipios sin Cuerpo de Policía Local podrá constituirse, de mutuo acuerdo entre la AGE y el Ayuntamiento, una Comisión Local de Seguridad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 3 del RD 1087/2010 permite constituir Juntas Locales de Seguridad en municipios o agrupaciones de municipios con Cuerpo de Policía propio, mediante Acuerdo del Alcalde y del Delegado o Subdelegado del Gobierno, prevé la Comisión Local de Seguridad para municipios sin Policía Local, y exige que el acta de constitución recoja al menos denominación, sede, ámbito territorial y composición.",
+      "ley": "Art. 3 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 4 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Juntas Locales de Seguridad tienen vedada por reglamento cualquier función de análisis de la criminalidad municipal",
+        "b": "La coordinación entre Cuerpos de Seguridad del municipio es una competencia ajena a las Juntas Locales de Seguridad",
+        "c": "Elaboran el Plan Local de Seguridad e impulsan planes conjuntos de seguridad ciudadana y vial para el ámbito municipal",
+        "d": "Las competencias de las Juntas Locales de Seguridad se limitan a cuestiones puramente protocolarias"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 4 del RD 1087/2010 atribuye a las Juntas Locales de Seguridad, entre otras competencias, establecer formas de coordinación entre Cuerpos de Seguridad, analizar y valorar la seguridad ciudadana y la evolución de la criminalidad, y elaborar el Plan Local de Seguridad y planes conjuntos de seguridad ciudadana y vial.",
+      "ley": "Art. 4 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 16 RD 1087/2010. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Presidencia de la Junta de Seguridad de Distrito corresponde al Concejal Presidente de la respectiva Junta Municipal de Distrito",
+        "b": "La composición de la Junta de Seguridad de Distrito es idéntica, artículo por artículo, a la de la Junta Local de Seguridad",
+        "c": "La Secretaría la desempeña un funcionario de la Junta Municipal designado por su Presidente, con voz pero sin voto",
+        "d": "Son vocales los Jefes de las Unidades policiales con competencia territorial en el Distrito"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 16 del RD 1087/2010 establece que la Junta de Seguridad de Distrito está presidida por el Concejal Presidente de la Junta Municipal de Distrito, con los Jefes de Unidades policiales del Distrito como vocales y un funcionario municipal como Secretario, con voz pero sin voto.",
+      "ley": "Art. 16 RD 1087/2010",
+      "subtema": "22.2"
+    },
+    {
+      "id": "tema_22_sub22.2_test_03_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 10 RD 1087/2010. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los acuerdos de la Junta Local de Seguridad pueden adoptarse por decisión unilateral del Secretario",
+        "b": "Los acuerdos de la Junta Local de Seguridad no requieren respetar ningún procedimiento formal",
+        "c": "Los acuerdos de la Junta Local de Seguridad se adoptan conforme al régimen de funcionamiento previsto para los órganos colegiados",
+        "d": "Cualquier vocal puede imponer un acuerdo operativo a un Cuerpo de Seguridad sin necesidad de su conformidad"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 10 del RD 1087/2010 somete la adopción de acuerdos de la Junta Local de Seguridad al régimen de funcionamiento de los órganos colegiados, exigiendo la conformidad de los responsables de los Cuerpos de Seguridad implicados cuando se trate de propuestas que afecten a su actuación operativa.",
+      "ley": "Art. 10 RD 1087/2010",
+      "subtema": "22.2"
+    }
+  ],
+  "subtema": "22.2"
+}

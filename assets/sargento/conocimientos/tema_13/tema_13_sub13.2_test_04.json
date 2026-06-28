@@ -1,0 +1,328 @@
+{
+  "tema_numero": 13,
+  "tema": "Tema 13 - Normas Complementarias del Derecho Procesal",
+  "test": "Test 4",
+  "preguntas": [
+    {
+      "id": "tema_13_sub13.2_test_04_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 491 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Basta con una sospecha vaga, sin ninguna base racional, para que la detención por particular se considere siempre justificada",
+        "b": "El particular que detuviere a otro debe justificar, si éste lo exigiere, haber obrado por motivos racionalmente suficientes para creer que se hallaba en alguno de los casos del artículo 490",
+        "c": "La justificación de los motivos de la detención por particular solo puede exigirla un Juez, nunca el propio detenido",
+        "d": "El artículo 491 LECrim exime de cualquier responsabilidad al particular que detenga erróneamente a alguien, sin necesidad de motivo racional"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 491 LECrim exige al particular que practica una detención que, si el detenido lo exige, justifique haber actuado en virtud de motivos racionalmente suficientes para creer que concurría alguno de los supuestos del artículo 490.",
+      "ley": "Art. 491 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.2.c) y 520.6 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La lejanía geográfica del letrado elegido exime a la policía de cualquier obligación de facilitar comunicación con él",
+        "b": "El derecho a la asistencia letrada puede ser denegado discrecionalmente por el agente instructor del atestado",
+        "c": "La entrevista reservada con el abogado solo puede producirse después de haber concluido la declaración del detenido",
+        "d": "El abogado puede entrevistarse reservadamente con el detenido, incluso antes de que se le reciba declaración"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 520.2.c) y 520.6 LECrim reconocen al detenido el derecho a designar abogado y ser asistido sin demora injustificada, previendo comunicación telefónica o por videoconferencia si la lejanía geográfica impide la asistencia inmediata, y garantizando la entrevista reservada con el letrado incluso antes de la declaración.",
+      "ley": "Art. 520.2.c) y 520.6 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 496 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El plazo de veinticuatro horas del artículo 496 solo se aplica a las detenciones practicadas por particulares, no a las de agentes",
+        "b": "El detenido debe ser entregado siempre al Juez de su domicilio habitual, sin importar la distancia",
+        "c": "El incumplimiento del plazo de entrega del detenido carece de cualquier consecuencia penal para quien lo demora",
+        "d": "Si se demora la entrega más de veinticuatro horas, se incurre en la responsabilidad que establece el Código Penal"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 496 LECrim obliga a poner en libertad o entregar al detenido al Juez más próximo al lugar de la detención dentro de las veinticuatro horas siguientes, incurriendo quien demore esa entrega más allá de dicho plazo en la responsabilidad penal correspondiente.",
+      "ley": "Art. 496 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 492 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La autoridad o agente de Policía Judicial tiene obligación de detener a cualquiera que se halle en alguno de los casos del artículo 490",
+        "b": "Tiene obligación de detener al procesado por delito de pena inferior si sus antecedentes o las circunstancias del hecho hacen presumir que no comparecerá cuando sea llamado",
+        "c": "Tiene obligación de detener al procesado por delito que tenga señalada en el Código pena superior a la de prisión correccional",
+        "d": "Solo los Jueces, nunca los agentes de Policía Judicial, están obligados a detener en los casos del artículo 492"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 492 LECrim, a diferencia del 490 (facultad del particular), impone a la autoridad o agente de Policía Judicial la obligación de detener en los casos del artículo 490, al procesado por delito con pena superior a prisión correccional, y al procesado por delito de pena inferior cuando se presuma su incomparecencia.",
+      "ley": "Art. 492 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 501 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El auto que eleva la detención a prisión o la deja sin efecto se pone en conocimiento del Ministerio Fiscal",
+        "b": "Al procesado se le hace saber el derecho que le asiste para pedir la reposición de la medida adoptada",
+        "c": "Dicho auto se notifica también al querellante particular, si lo hubiere, y al procesado",
+        "d": "El Ministerio Fiscal queda excluido de cualquier conocimiento sobre la resolución que eleva la detención a prisión"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 501 LECrim dispone que el auto que eleve la detención a prisión o la deje sin efecto se ponga en conocimiento del Ministerio Fiscal y se notifique al querellante particular y al procesado, a quien se informará de su derecho a solicitar de palabra o por escrito la reposición de la medida.",
+      "ley": "Art. 501 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.2.e) y f) LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El detenido tiene derecho a que se ponga en conocimiento del familiar o persona que desee, sin demora injustificada, su privación de libertad y el lugar de custodia",
+        "b": "La comunicación de la detención a un familiar es una facultad exclusiva de la policía, no un derecho del detenido",
+        "c": "Los extranjeros tienen derecho a que estas circunstancias se comuniquen a la oficina consular de su país",
+        "d": "El detenido tiene derecho a comunicarse telefónicamente, sin demora injustificada, con un tercero de su elección"
+      },
+      "correct": "b",
+      "explicacion": "Los apartados e) y f) del artículo 520.2 LECrim reconocen al detenido el derecho a que se informe sin demora a un familiar o persona de su elección sobre su privación de libertad y lugar de custodia, a comunicarse telefónicamente con un tercero, y, si es extranjero, a que se informe a la oficina consular de su país.",
+      "ley": "Art. 520.2.e) y f) LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 527 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Una vez levantada la incomunicación, el Juez puede volver a incomunicar al detenido tantas veces como considere oportuno",
+        "b": "El control de las condiciones de la incomunicación y del respeto a los derechos del detenido corresponde al Juez",
+        "c": "El reconocimiento médico del detenido incomunicado es opcional y queda a discreción exclusiva del propio detenido",
+        "d": "La incomunicación puede prolongarse de forma indefinida si así lo decide la autoridad gubernativa"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 527 LECrim atribuye al Juez el control de las condiciones de la incomunicación y de los derechos del detenido, exige su reconocimiento médico al menos dos veces cada veinticuatro horas, y limita la incomunicación al tiempo estrictamente necesario, con un máximo de cinco días prorrogables por otros cinco, sin posibilidad de volver a incomunicar una vez levantada la medida.",
+      "ley": "Art. 527 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 490 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Cualquier persona puede detener al procesado o condenado que estuviere en rebeldía",
+        "b": "Cualquier persona puede detener al que se fugare estando detenido o preso por causa pendiente",
+        "c": "El artículo 490 LECrim solo permite la detención de quien ya hubiera sido condenado por sentencia firme",
+        "d": "Cualquier persona puede detener al que intentare cometer un delito en el momento de ir a cometerlo"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 490 LECrim regula la detención por particular como una facultad (puede detener), no una obligación, enumerando supuestos como el intento de delito, la flagrancia, la fuga de quien está detenido o preso por causa pendiente, y la rebeldía del procesado o condenado.",
+      "ley": "Art. 490 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 527 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El control de las condiciones de la incomunicación y del respeto a los derechos del detenido corresponde al Juez",
+        "b": "Una vez levantada la incomunicación, el Juez puede volver a incomunicar al detenido tantas veces como considere oportuno",
+        "c": "Durante la incomunicación, el detenido debe ser reconocido por un médico al menos dos veces cada veinticuatro horas, según criterio facultativo",
+        "d": "La incomunicación dura el tiempo estrictamente necesario, sin poder exceder de cinco días, con posibilidad de prórroga por otro plazo no superior a cinco días"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 527 LECrim atribuye al Juez el control de las condiciones de la incomunicación y de los derechos del detenido, exige su reconocimiento médico al menos dos veces cada veinticuatro horas, y limita la incomunicación al tiempo estrictamente necesario, con un máximo de cinco días prorrogables por otros cinco, sin posibilidad de volver a incomunicar una vez levantada la medida.",
+      "ley": "Art. 527 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 497 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Juez de la causa dispone de un plazo indefinido para decidir si eleva la detención a prisión o la deja sin efecto",
+        "b": "El plazo de setenta y dos horas del artículo 497 LECrim se computa desde el momento de la detención, no desde la entrega al Juez",
+        "c": "El mismo plazo de setenta y dos horas rige para el Juez o Tribunal respecto de la persona cuya detención hubiere él mismo acordado",
+        "d": "El plazo de setenta y dos horas solo es aplicable cuando la detención la hubiera practicado un particular"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 497 LECrim fija en setenta y dos horas, contadas desde la entrega del detenido, el plazo del que dispone el Juez o Tribunal de la causa para elevar la detención a prisión o dejarla sin efecto, plazo que también rige cuando el propio órgano judicial hubiera acordado la detención.",
+      "ley": "Art. 497 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 527 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Durante la incomunicación, el detenido debe ser reconocido por un médico al menos dos veces cada veinticuatro horas, según criterio facultativo",
+        "b": "Una vez levantada la incomunicación, el Juez puede volver a incomunicar al detenido tantas veces como considere oportuno",
+        "c": "El control de la incomunicación corresponde exclusivamente a la policía, sin ninguna intervención judicial",
+        "d": "El reconocimiento médico del detenido incomunicado es opcional y queda a discreción exclusiva del propio detenido"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 527 LECrim atribuye al Juez el control de las condiciones de la incomunicación y de los derechos del detenido, exige su reconocimiento médico al menos dos veces cada veinticuatro horas, y limita la incomunicación al tiempo estrictamente necesario, con un máximo de cinco días prorrogables por otros cinco, sin posibilidad de volver a incomunicar una vez levantada la medida.",
+      "ley": "Art. 527 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520 bis LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Si se excede el plazo legalmente previsto para la detención sin justificación, ésta se considera ilegal",
+        "b": "La prórroga de la detención por terrorismo se acuerda automáticamente, sin necesidad de autorización judicial",
+        "c": "La prórroga por terrorismo se aplica automáticamente a cualquier delito grave, no solo a los de terrorismo o banda armada",
+        "d": "El plazo máximo de detención por terrorismo, incluida la prórroga, puede prolongarse indefinidamente sin límite legal alguno"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 520 bis LECrim permite, en investigaciones por delitos de terrorismo o banda armada, prorrogar la detención otras cuarenta y ocho horas además de las setenta y dos ordinarias mediante autorización judicial motivada, considerándose ilegal la detención que exceda los plazos legalmente previstos sin justificación.",
+      "ley": "Art. 520 bis LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 489 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Ningún español ni extranjero podrá ser detenido sino en los casos y en la forma que las leyes prescriban",
+        "b": "Los extranjeros pueden ser detenidos sin sujeción a ningún requisito legal, a diferencia de los españoles",
+        "c": "El principio de legalidad de la detención solo se aplica a los procedimientos por delitos graves",
+        "d": "Las leyes españolas no establecen ningún límite a las causas o formas de detención de una persona"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 489 LECrim consagra el principio de legalidad de la detención, disponiendo que ningún español ni extranjero podrá ser detenido sino en los casos y en la forma que las leyes prescriban.",
+      "ley": "Art. 489 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 527 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El control de las condiciones de la incomunicación y del respeto a los derechos del detenido corresponde al Juez",
+        "b": "Durante la incomunicación, el detenido debe ser reconocido por un médico al menos dos veces cada veinticuatro horas, según criterio facultativo",
+        "c": "El control de la incomunicación corresponde exclusivamente a la policía, sin ninguna intervención judicial",
+        "d": "La incomunicación dura el tiempo estrictamente necesario, sin poder exceder de cinco días, con posibilidad de prórroga por otro plazo no superior a cinco días"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 527 LECrim atribuye al Juez el control de las condiciones de la incomunicación y de los derechos del detenido, exige su reconocimiento médico al menos dos veces cada veinticuatro horas, y limita la incomunicación al tiempo estrictamente necesario, con un máximo de cinco días prorrogables por otros cinco, sin posibilidad de volver a incomunicar una vez levantada la medida.",
+      "ley": "Art. 527 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 491 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El particular que practica una detención nunca tiene que justificar los motivos de su actuación, ni siquiera si el detenido lo exige",
+        "b": "El artículo 491 LECrim exime de cualquier responsabilidad al particular que detenga erróneamente a alguien, sin necesidad de motivo racional",
+        "c": "El particular que detuviere a otro debe justificar, si éste lo exigiere, haber obrado por motivos racionalmente suficientes para creer que se hallaba en alguno de los casos del artículo 490",
+        "d": "La justificación de los motivos de la detención por particular solo puede exigirla un Juez, nunca el propio detenido"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 491 LECrim exige al particular que practica una detención que, si el detenido lo exige, justifique haber actuado en virtud de motivos racionalmente suficientes para creer que concurría alguno de los supuestos del artículo 490.",
+      "ley": "Art. 491 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 520.2 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El derecho a guardar silencio desaparece si el detenido ya ha realizado alguna manifestación previa ante la policía",
+        "b": "La información sobre los hechos y derechos puede comunicarse verbalmente y de forma genérica, sin necesidad de adaptarla a la lengua del detenido",
+        "c": "La información de derechos solo es exigible cuando el detenido lo solicita expresamente",
+        "d": "Tiene derecho a guardar silencio, a no contestar alguna o algunas preguntas, o a manifestar que solo declarará ante el Juez"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 520.2 LECrim exige informar por escrito y de forma comprensible al detenido sobre los hechos que se le atribuyen y sus derechos, entre ellos el derecho a guardar silencio total o parcial, a declarar solo ante el Juez, y a no declarar contra sí mismo ni confesarse culpable.",
+      "ley": "Art. 520.2 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Arts. 493 y 494 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Juez o Tribunal puede acordar también la detención de los comprendidos en el artículo 492, a prevención con las autoridades y agentes de Policía Judicial",
+        "b": "El Juez o Tribunal carece de cualquier facultad para acordar por sí mismo la detención de una persona comprendida en el artículo 492",
+        "c": "El traslado de la nota de identificación al órgano judicial es opcional, queda a discreción del agente actuante",
+        "d": "Si no se detiene a una persona por no concurrir los supuestos del artículo 492, no existe ninguna obligación de identificarla ni de informar de ello"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 493 y 494 LECrim prevén que, cuando no proceda detener conforme al artículo 492, la autoridad o agente tome nota de los datos identificativos de la persona y la traslade al órgano judicial competente, que además puede acordar por sí mismo la detención de los comprendidos en dicho artículo.",
+      "ley": "Arts. 493 y 494 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 501 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Al procesado se le hace saber el derecho que le asiste para pedir la reposición de la medida adoptada",
+        "b": "El procesado carece de cualquier derecho a solicitar la revisión de la medida que se le haya impuesto",
+        "c": "El auto sobre prisión o libertad del detenido es secreto y no se comunica a ninguna de las partes del proceso",
+        "d": "El Ministerio Fiscal queda excluido de cualquier conocimiento sobre la resolución que eleva la detención a prisión"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 501 LECrim dispone que el auto que eleve la detención a prisión o la deje sin efecto se ponga en conocimiento del Ministerio Fiscal y se notifique al querellante particular y al procesado, a quien se informará de su derecho a solicitar de palabra o por escrito la reposición de la medida.",
+      "ley": "Art. 501 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 490 LECrim. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La fuga durante el traslado a un centro penitenciario queda fuera de los supuestos de detención por particular",
+        "b": "El artículo 490 LECrim no contempla ningún supuesto relacionado con fugas de personas privadas de libertad",
+        "c": "Cualquier persona puede detener al que se fugare de la cárcel en que estuviere esperando su traslación al establecimiento penal",
+        "d": "Solo los miembros de las Fuerzas y Cuerpos de Seguridad pueden detener a alguien que se fuga de un traslado penitenciario"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 490 LECrim incluye entre los supuestos de detención por particular la fuga del establecimiento penal donde se cumple condena, la fuga de la cárcel en espera de traslado, y la fuga durante el propio traslado al establecimiento o lugar de cumplimiento de condena.",
+      "ley": "Art. 490 LECrim",
+      "subtema": "13.2"
+    },
+    {
+      "id": "tema_13_sub13.2_test_04_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 13 - Normas Complementarias del Derecho Procesal. Sobre Art. 490 LECrim. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Cualquier persona puede detener al que se fugare de la cárcel en que estuviere esperando su traslación al establecimiento penal",
+        "b": "El artículo 490 LECrim no contempla ningún supuesto relacionado con fugas de personas privadas de libertad",
+        "c": "Cualquier persona puede detener al que se fugare al ser conducido al establecimiento o lugar donde deba cumplir su condena",
+        "d": "Cualquier persona puede detener al que se fugare del establecimiento penal en que se halle extinguiendo condena"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 490 LECrim incluye entre los supuestos de detención por particular la fuga del establecimiento penal donde se cumple condena, la fuga de la cárcel en espera de traslado, y la fuga durante el propio traslado al establecimiento o lugar de cumplimiento de condena.",
+      "ley": "Art. 490 LECrim",
+      "subtema": "13.2"
+    }
+  ],
+  "subtema": "13.2"
+}
