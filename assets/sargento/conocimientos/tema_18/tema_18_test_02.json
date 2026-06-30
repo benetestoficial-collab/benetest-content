@@ -1,0 +1,307 @@
+{
+  "tema_numero": 18,
+  "tema": "Tema 18 - Seguridad Privada",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_18_test_02_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 41 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los servicios de vigilancia y protección tienen vedada por ley cualquier prestación en polígonos industriales",
+        "b": "Los servicios de vigilancia y protección pueden prestarse en polígonos industriales y urbanizaciones privadas delimitadas, con autorización previa",
+        "c": "El artículo 41 de la Ley 5/2014 no contempla ninguna excepción a la prestación de servicios en el interior de inmuebles",
+        "d": "La regla general de la Ley 5/2014 es que los servicios de vigilancia se presten siempre en la vía pública, sin limitación al interior de inmuebles"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 41 de la Ley 5/2014 establece como regla general que los servicios de vigilancia y protección se prestan en el interior de inmuebles o propiedades, contemplando excepciones como su prestación en polígonos industriales y urbanizaciones privadas delimitadas, previa autorización.",
+      "ley": "Art. 41 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 4 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La seguridad privada tiene como fin sustituir íntegramente a las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus competencias",
+        "b": "La seguridad privada tiene como fin exclusivo generar beneficios económicos para las empresas del sector, sin relación con la seguridad pública",
+        "c": "La seguridad privada tiene como fin satisfacer las necesidades legítimas de seguridad o información de sus usuarios",
+        "d": "La seguridad privada tiene como fin limitar el acceso de las Fuerzas y Cuerpos de Seguridad a la información que recaben sus empresas"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 4 de la Ley 5/2014 enumera los fines de la seguridad privada: satisfacer las necesidades legítimas de seguridad o información de sus usuarios, contribuir a garantizar la seguridad pública y prevenir infracciones, y complementar -nunca sustituir- el monopolio estatal de la seguridad como recurso externo.",
+      "ley": "Art. 4 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 5 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Entre las actividades de seguridad privada se encuentra la vigilancia y protección de bienes, establecimientos, lugares y eventos",
+        "b": "Las actividades de seguridad privada no incluyen en ningún caso la vigilancia de eventos públicos",
+        "c": "La investigación privada regulada por la Ley 5/2014 puede referirse a cualquier delito, incluidos los perseguibles de oficio sin limitación",
+        "d": "La planificación y asesoramiento de seguridad es una actividad reservada en exclusiva a las Fuerzas y Cuerpos de Seguridad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5 de la Ley 5/2014 enumera las actividades de seguridad privada, entre ellas la vigilancia y protección de bienes y eventos, la investigación privada limitada a hechos o delitos perseguibles a instancia de parte, y la planificación y asesoramiento de las actividades de seguridad.",
+      "ley": "Art. 5 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_004",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 26 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las profesiones de seguridad privada se reducen, según la Ley 5/2014, únicamente al vigilante de seguridad",
+        "b": "El vigilante de seguridad carece de cualquier especialidad reconocida por la ley",
+        "c": "Las profesiones de seguridad privada incluyen al Juez de Paz como una de sus categorías",
+        "d": "El vigilante de seguridad cuenta con la especialidad de vigilante de explosivos"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 26 de la Ley 5/2014 reconoce seis profesiones de seguridad privada: vigilante de seguridad (con la especialidad de vigilante de explosivos), escolta privado, guarda rural (con sus especialidades), jefe de seguridad, director de seguridad y detective privado.",
+      "ley": "Art. 26 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Señale la opción que reproduce LITERALMENTE el art. 9.1 Ley 5/2014:",
+      "options": {
+        "a": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 8, y al resto del ordenamiento jurídico.",
+        "b": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios rectores establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "c": "Los servicios y funciones de seguridad pública se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "d": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9.1 de la Ley 5/2014. Las variantes incorrectas cambian la remisión al 'artículo 30' por 'artículo 8', sustituyen 'seguridad privada' por 'seguridad pública', cambian 'se prestarán' por 'podrán prestarse', o 'principios de actuación' por 'principios rectores'.",
+      "ley": "art. 9.1 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 7 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Cualquier empresa puede acogerse a la excepción de autoprotección para prestar servicios de seguridad a sus clientes",
+        "b": "Las actuaciones de autoprotección deben estar estrictamente dirigidas a la protección del propio entorno personal o patrimonial",
+        "c": "La autoprotección puede prestarse a terceros mediante contraprestación económica sin quedar sujeta a la Ley 5/2014",
+        "d": "Las actuaciones de autoprotección están siempre sujetas a la Ley 5/2014, igual que cualquier otra actividad de seguridad"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7 de la Ley 5/2014 excluye de su ámbito de aplicación las actuaciones de autoprotección, entendidas como las cautelas que los propios interesados ejecutan directamente y sin contraprestación para proteger su propio entorno personal o patrimonial.",
+      "ley": "Art. 7 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 5 Ley 5/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Entre las actividades de seguridad privada se encuentra la investigación privada en relación con personas, hechos o delitos solo perseguibles a instancia de parte",
+        "b": "Entre las actividades de seguridad privada se encuentra la planificación y asesoramiento de las actividades de seguridad",
+        "c": "Entre las actividades de seguridad privada se encuentra la vigilancia y protección de bienes, establecimientos, lugares y eventos",
+        "d": "La investigación privada regulada por la Ley 5/2014 puede referirse a cualquier delito, incluidos los perseguibles de oficio sin limitación"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 5 de la Ley 5/2014 enumera las actividades de seguridad privada, entre ellas la vigilancia y protección de bienes y eventos, la investigación privada limitada a hechos o delitos perseguibles a instancia de parte, y la planificación y asesoramiento de las actividades de seguridad.",
+      "ley": "Art. 5 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Arts. 1 y 2 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Ley 5/2014 tiene por objeto regular en exclusiva la actuación de las Fuerzas y Cuerpos de Seguridad del Estado",
+        "b": "Las funciones de seguridad privada son las facultades atribuidas al personal de seguridad privada",
+        "c": "Las funciones de seguridad privada son las facultades atribuidas en exclusiva a los Jueces de Instrucción",
+        "d": "Las actividades de seguridad privada se definen legalmente como los ámbitos de actuación exclusivos de la Administración Pública"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 1 y 2 de la Ley 5/2014 fijan el objeto de la norma -regular la prestación de actividades y servicios de seguridad privada por personas privadas- y definen conceptos como actividades de seguridad privada (ámbitos de actuación material) y funciones de seguridad privada (facultades del personal habilitado).",
+      "ley": "Arts. 1 y 2 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 4 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La seguridad privada tiene como fin satisfacer las necesidades legítimas de seguridad o información de sus usuarios",
+        "b": "La seguridad privada tiene como fin sustituir íntegramente a las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus competencias",
+        "c": "La seguridad privada tiene como fin exclusivo generar beneficios económicos para las empresas del sector, sin relación con la seguridad pública",
+        "d": "La seguridad privada tiene como fin sustituir el monopolio estatal de la seguridad por un sistema privado autónomo"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 4 de la Ley 5/2014 enumera los fines de la seguridad privada: satisfacer las necesidades legítimas de seguridad o información de sus usuarios, contribuir a garantizar la seguridad pública y prevenir infracciones, y complementar -nunca sustituir- el monopolio estatal de la seguridad como recurso externo.",
+      "ley": "Art. 4 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 4 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La seguridad privada tiene como fin sustituir el monopolio estatal de la seguridad por un sistema privado autónomo",
+        "b": "La seguridad privada tiene como fin limitar el acceso de las Fuerzas y Cuerpos de Seguridad a la información que recaben sus empresas",
+        "c": "La seguridad privada tiene como fin satisfacer las necesidades legítimas de seguridad o información de sus usuarios",
+        "d": "La seguridad privada tiene como fin exclusivo generar beneficios económicos para las empresas del sector, sin relación con la seguridad pública"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 4 de la Ley 5/2014 enumera los fines de la seguridad privada: satisfacer las necesidades legítimas de seguridad o información de sus usuarios, contribuir a garantizar la seguridad pública y prevenir infracciones, y complementar -nunca sustituir- el monopolio estatal de la seguridad como recurso externo.",
+      "ley": "Art. 4 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 4 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La seguridad privada tiene como fin sustituir el monopolio estatal de la seguridad por un sistema privado autónomo",
+        "b": "La seguridad privada tiene como fin limitar el acceso de las Fuerzas y Cuerpos de Seguridad a la información que recaben sus empresas",
+        "c": "La seguridad privada tiene como fin sustituir íntegramente a las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus competencias",
+        "d": "La seguridad privada tiene como fin satisfacer las necesidades legítimas de seguridad o información de sus usuarios"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 4 de la Ley 5/2014 enumera los fines de la seguridad privada: satisfacer las necesidades legítimas de seguridad o información de sus usuarios, contribuir a garantizar la seguridad pública y prevenir infracciones, y complementar -nunca sustituir- el monopolio estatal de la seguridad como recurso externo.",
+      "ley": "Art. 4 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_012",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Señale la opción que reproduce LITERALMENTE el art. 9.1 Ley 5/2014:",
+      "options": {
+        "a": "Los servicios y funciones de seguridad privada podrán prestarse con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "b": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios rectores establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "c": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "d": "Los servicios y funciones de seguridad pública se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico."
+      },
+      "correct": "c",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9.1 de la Ley 5/2014. Las variantes incorrectas cambian la remisión al 'artículo 30' por 'artículo 8', sustituyen 'seguridad privada' por 'seguridad pública', cambian 'se prestarán' por 'podrán prestarse', o 'principios de actuación' por 'principios rectores'.",
+      "ley": "art. 9.1 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 8 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los principios rectores de la seguridad privada del artículo 8 solo son exigibles a las empresas, nunca al personal habilitado",
+        "b": "Entre los principios rectores de la seguridad privada se encuentra la congruencia, aplicando medidas proporcionadas y adecuadas a los riesgos",
+        "c": "El principio de congruencia permite aplicar cualquier medida de seguridad sin valorar su proporción con el riesgo real",
+        "d": "Los principios rectores del artículo 8 carecen de cualquier exigencia de adecuación de las medidas a los riesgos existentes"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 8 de la Ley 5/2014 establece los principios rectores de la seguridad privada, exigibles tanto a empresas como a personal, entre ellos la congruencia (medidas proporcionadas a los riesgos) y la proporcionalidad en el uso de técnicas y medios de defensa e investigación.",
+      "ley": "Art. 8 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Arts. 30 y 31 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los principios de actuación del artículo 30 sustituyen completamente a los del artículo 8, dejándolos sin efecto",
+        "b": "La protección jurídica análoga a los agentes de la autoridad solo se reconoce a los directores de seguridad",
+        "c": "El personal de seguridad privada dispone de una protección jurídica análoga a la de los agentes de la autoridad",
+        "d": "La protección jurídica del personal de seguridad privada es idéntica, sin matices, a la de cualquier ciudadano particular"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 30 y 31 de la Ley 5/2014 establecen que el personal de seguridad privada se atiene, además de a los principios del artículo 8, a los principios básicos de actuación del artículo 30, y le reconocen una protección jurídica análoga a la de los agentes de la autoridad.",
+      "ley": "Arts. 30 y 31 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Señale la opción que reproduce LITERALMENTE el art. 9.1 Ley 5/2014:",
+      "options": {
+        "a": "Los servicios y funciones de seguridad privada podrán prestarse con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "b": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios rectores establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "c": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "d": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 8, y al resto del ordenamiento jurídico."
+      },
+      "correct": "c",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9.1 de la Ley 5/2014. Las variantes incorrectas cambian la remisión al 'artículo 30' por 'artículo 8', sustituyen 'seguridad privada' por 'seguridad pública', cambian 'se prestarán' por 'podrán prestarse', o 'principios de actuación' por 'principios rectores'.",
+      "ley": "art. 9.1 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 5 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Entre las actividades de seguridad privada se encuentra la planificación y asesoramiento de las actividades de seguridad",
+        "b": "Entre las actividades de seguridad privada se encuentra la instrucción de causas penales",
+        "c": "Las actividades de seguridad privada no incluyen en ningún caso la vigilancia de eventos públicos",
+        "d": "La planificación y asesoramiento de seguridad es una actividad reservada en exclusiva a las Fuerzas y Cuerpos de Seguridad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5 de la Ley 5/2014 enumera las actividades de seguridad privada, entre ellas la vigilancia y protección de bienes y eventos, la investigación privada limitada a hechos o delitos perseguibles a instancia de parte, y la planificación y asesoramiento de las actividades de seguridad.",
+      "ley": "Art. 5 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Señale la opción que reproduce LITERALMENTE el art. 9.1 Ley 5/2014:",
+      "options": {
+        "a": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 8, y al resto del ordenamiento jurídico.",
+        "b": "Los servicios y funciones de seguridad pública se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "c": "Los servicios y funciones de seguridad privada podrán prestarse con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico.",
+        "d": "Los servicios y funciones de seguridad privada se prestarán con respeto a la Constitución, a lo dispuesto en esta ley, especialmente en lo referente a los principios de actuación establecidos en el artículo 30, y al resto del ordenamiento jurídico."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9.1 de la Ley 5/2014. Las variantes incorrectas cambian la remisión al 'artículo 30' por 'artículo 8', sustituyen 'seguridad privada' por 'seguridad pública', cambian 'se prestarán' por 'podrán prestarse', o 'principios de actuación' por 'principios rectores'.",
+      "ley": "art. 9.1 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_018",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 26 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El vigilante de seguridad carece de cualquier especialidad reconocida por la ley",
+        "b": "El vigilante de seguridad cuenta con la especialidad de vigilante de explosivos",
+        "c": "Las profesiones de seguridad privada incluyen al Juez de Paz como una de sus categorías",
+        "d": "El guarda rural fue suprimido como profesión de seguridad privada por la Ley 5/2014"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 26 de la Ley 5/2014 reconoce seis profesiones de seguridad privada: vigilante de seguridad (con la especialidad de vigilante de explosivos), escolta privado, guarda rural (con sus especialidades), jefe de seguridad, director de seguridad y detective privado.",
+      "ley": "Art. 26 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 5 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Entre las actividades de seguridad privada se encuentra la vigilancia y protección de bienes, establecimientos, lugares y eventos",
+        "b": "Las actividades de seguridad privada no incluyen en ningún caso la vigilancia de eventos públicos",
+        "c": "Entre las actividades de seguridad privada se encuentra la instrucción de causas penales",
+        "d": "La planificación y asesoramiento de seguridad es una actividad reservada en exclusiva a las Fuerzas y Cuerpos de Seguridad"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5 de la Ley 5/2014 enumera las actividades de seguridad privada, entre ellas la vigilancia y protección de bienes y eventos, la investigación privada limitada a hechos o delitos perseguibles a instancia de parte, y la planificación y asesoramiento de las actividades de seguridad.",
+      "ley": "Art. 5 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_02_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 26 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El guarda rural cuenta con especialidades reconocidas legalmente",
+        "b": "El guarda rural fue suprimido como profesión de seguridad privada por la Ley 5/2014",
+        "c": "El vigilante de seguridad carece de cualquier especialidad reconocida por la ley",
+        "d": "Las profesiones de seguridad privada incluyen al Juez de Paz como una de sus categorías"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 26 de la Ley 5/2014 reconoce seis profesiones de seguridad privada: vigilante de seguridad (con la especialidad de vigilante de explosivos), escolta privado, guarda rural (con sus especialidades), jefe de seguridad, director de seguridad y detective privado.",
+      "ley": "Art. 26 Ley 5/2014"
+    }
+  ]
+}

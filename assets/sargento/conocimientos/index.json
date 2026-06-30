@@ -101,9 +101,19 @@
           "nombre": "Test 20 — Derechos Humanos",
           "archivo": "sargento/conocimientos/tema_01/tema_01_test_20.json",
           "preguntas": 20
+        },
+        {
+          "nombre": "Test 21 — Tema 1 - Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_21.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 22 — Tema 1 - Derechos Humanos",
+          "archivo": "sargento/conocimientos/tema_01/tema_01_test_22.json",
+          "preguntas": 20
         }
       ],
-      "total_preguntas": 400
+      "total_preguntas": 440
     },
     "tema_02": {
       "tests": [],
@@ -222,9 +232,19 @@
           "nombre": "Test 20 — Tema 6 - Poder Judicial",
           "archivo": "sargento/conocimientos/tema_06/tema_06_test_20.json",
           "preguntas": 20
+        },
+        {
+          "nombre": "Test 21 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_21.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 22 — Tema 6 - Poder Judicial",
+          "archivo": "sargento/conocimientos/tema_06/tema_06_test_22.json",
+          "preguntas": 20
         }
       ],
-      "total_preguntas": 400
+      "total_preguntas": 440
     },
     "tema_07": {
       "tests": [],
@@ -313,6 +333,18 @@
           "subtema": "13.1"
         },
         {
+          "nombre": "Test 11 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_11.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
+          "nombre": "Test 12 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.1_test_12.json",
+          "preguntas": 20,
+          "subtema": "13.1"
+        },
+        {
           "nombre": "Test 1 — Tema 13 - Normas Complementarias del Derecho Procesal",
           "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_01.json",
           "preguntas": 20,
@@ -371,9 +403,21 @@
           "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_10.json",
           "preguntas": 20,
           "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 11 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_11.json",
+          "preguntas": 20,
+          "subtema": "13.2"
+        },
+        {
+          "nombre": "Test 12 — Tema 13 - Normas Complementarias del Derecho Procesal",
+          "archivo": "sargento/conocimientos/tema_13/tema_13_sub13.2_test_12.json",
+          "preguntas": 20,
+          "subtema": "13.2"
         }
       ],
-      "total_preguntas": 400
+      "total_preguntas": 480
     },
     "tema_14": {
       "tests": [],
@@ -392,8 +436,19 @@
       "total_preguntas": 0
     },
     "tema_18": {
-      "tests": [],
-      "total_preguntas": 0
+      "tests": [
+        {
+          "nombre": "Test 2 — Tema 18 - Seguridad Privada",
+          "archivo": "sargento/conocimientos/tema_18/tema_18_test_02.json",
+          "preguntas": 20
+        },
+        {
+          "nombre": "Test 3 — Tema 18 - Seguridad Privada",
+          "archivo": "sargento/conocimientos/tema_18/tema_18_test_03.json",
+          "preguntas": 20
+        }
+      ],
+      "total_preguntas": 40
     },
     "tema_19": {
       "tests": [],
@@ -500,6 +555,18 @@
           "subtema": "22.1"
         },
         {
+          "nombre": "Test 16 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_16.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
+          "nombre": "Test 17 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.1_test_17.json",
+          "preguntas": 20,
+          "subtema": "22.1"
+        },
+        {
           "nombre": "Test 1 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
           "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_01.json",
           "preguntas": 20,
@@ -528,9 +595,21 @@
           "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_05.json",
           "preguntas": 20,
           "subtema": "22.2"
+        },
+        {
+          "nombre": "Test 6 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_06.json",
+          "preguntas": 20,
+          "subtema": "22.2"
+        },
+        {
+          "nombre": "Test 7 — Tema 22 - Fuerzas y Cuerpos de Seguridad",
+          "archivo": "sargento/conocimientos/tema_22/tema_22_sub22.2_test_07.json",
+          "preguntas": 20,
+          "subtema": "22.2"
         }
       ],
-      "total_preguntas": 400
+      "total_preguntas": 480
     },
     "tema_23": {
       "tests": [
@@ -539,9 +618,33 @@
           "archivo": "sargento/conocimientos/tema_23/tema_23_sub23.1_test_01.json",
           "preguntas": 20,
           "subtema": "23.1"
+        },
+        {
+          "nombre": "Test 2 — Tema 23 - Estatuto del Personal",
+          "archivo": "sargento/conocimientos/tema_23/tema_23_sub23.1_test_02.json",
+          "preguntas": 20,
+          "subtema": "23.1"
+        },
+        {
+          "nombre": "Test 3 — Tema 23 - Estatuto del Personal",
+          "archivo": "sargento/conocimientos/tema_23/tema_23_sub23.1_test_03.json",
+          "preguntas": 20,
+          "subtema": "23.1"
+        },
+        {
+          "nombre": "Test 2 — Tema 23 - Estatuto del Personal",
+          "archivo": "sargento/conocimientos/tema_23/tema_23_sub23.2_test_02.json",
+          "preguntas": 20,
+          "subtema": "23.2"
+        },
+        {
+          "nombre": "Test 3 — Tema 23 - Estatuto del Personal",
+          "archivo": "sargento/conocimientos/tema_23/tema_23_sub23.2_test_03.json",
+          "preguntas": 20,
+          "subtema": "23.2"
         }
       ],
-      "total_preguntas": 20
+      "total_preguntas": 100
     }
   }
 }

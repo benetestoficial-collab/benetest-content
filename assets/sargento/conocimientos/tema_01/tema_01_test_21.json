@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Tema 1 - Derechos Humanos",
+  "test": "Test 21",
+  "preguntas": [
+    {
+      "id": "tema_01_test_21_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 6 a 9 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes",
+        "b": "La detención arbitraria está permitida si la ordena una autoridad gubernativa sin intervención judicial",
+        "c": "El reconocimiento de la personalidad jurídica solo se otorga en el país de nacionalidad de la persona",
+        "d": "El derecho a un recurso efectivo ante los tribunales solo existe si lo concede graciablemente el Estado"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 6 a 9 DUDH reconocen el derecho al reconocimiento de la personalidad jurídica en todas partes, la igualdad ante la ley, el derecho a un recurso efectivo ante tribunales nacionales, y la prohibición de la detención, prisión o destierro arbitrarios.",
+      "ley": "Arts. 6 a 9 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Señale la opción que reproduce LITERALMENTE el art. 5 de la Declaración Universal de los Derechos Humanos:",
+      "options": {
+        "a": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "b": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos y degradantes.",
+        "c": "Nadie será sometido a torturas ni a castigos o tratos crueles, inhumanos o degradantes.",
+        "d": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o humillantes."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 5 de la DUDH. Las variantes incorrectas cambian 'será' por 'podrá ser', la conjunción 'o' por 'y' entre 'inhumanos' y 'degradantes', 'degradantes' por 'humillantes', o 'penas' por 'castigos'.",
+      "ley": "art. 5 de la Declaración Universal de los Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_21_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 18 a 20 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El derecho a la libertad de opinión permite ser sancionado únicamente por mantener una opinión política minoritaria",
+        "b": "Todo individuo tiene derecho a la libertad de opinión y de expresión, incluyendo el de no ser molestado por sus opiniones",
+        "c": "La libertad de reunión y asociación reconocida en la Declaración excluye expresamente las reuniones de carácter pacífico",
+        "d": "La libertad de expresión de la Declaración se limita a la comunicación oral, excluyendo otros medios"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 18 a 20 DUDH reconocen la libertad de pensamiento, conciencia y religión (incluido el cambio de religión o creencia), la libertad de opinión y expresión sin ser molestado por las propias opiniones, y la libertad de reunión y asociación pacífica.",
+      "ley": "Arts. 18 a 20 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 6 a 9 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El reconocimiento de la personalidad jurídica solo se otorga en el país de nacionalidad de la persona",
+        "b": "El derecho a un recurso efectivo ante los tribunales solo existe si lo concede graciablemente el Estado",
+        "c": "La detención arbitraria está permitida si la ordena una autoridad gubernativa sin intervención judicial",
+        "d": "Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 6 a 9 DUDH reconocen el derecho al reconocimiento de la personalidad jurídica en todas partes, la igualdad ante la ley, el derecho a un recurso efectivo ante tribunales nacionales, y la prohibición de la detención, prisión o destierro arbitrarios.",
+      "ley": "Arts. 6 a 9 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 3 a 5 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los tratos crueles o degradantes están permitidos cuando se aplican en el ámbito penitenciario",
+        "b": "El derecho a la libertad y seguridad de la persona admite excepciones por motivos económicos",
+        "c": "La esclavitud está prohibida salvo que medie consentimiento expreso de la persona afectada",
+        "d": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 3 a 5 DUDH reconocen el derecho a la vida, libertad y seguridad de la persona, prohíben de forma absoluta la esclavitud y la trata de esclavos en cualquier forma, y prohíben sin excepción las torturas y los tratos crueles, inhumanos o degradantes.",
+      "ley": "Arts. 3 a 5 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Pactos Internacionales de 1966 (PIDCP y PIDESC). Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Pacto Internacional de Derechos Civiles y Políticos fue adoptado en 1948, el mismo año que la Declaración Universal",
+        "b": "A diferencia de la Declaración Universal, los Pactos de 1966 sí son jurídicamente vinculantes para los Estados que los ratifican",
+        "c": "El Pacto Internacional de Derechos Económicos, Sociales y Culturales fue adoptado por el Consejo de Europa, no por la ONU",
+        "d": "Los Pactos de 1966 carecen de cualquier fuerza vinculante para los Estados que los ratifican, igual que la Declaración"
+      },
+      "correct": "b",
+      "explicacion": "El PIDCP y el PIDESC fueron adoptados por la Asamblea General de la ONU en 1966 y, a diferencia de la Declaración Universal, son jurídicamente vinculantes para los Estados que los ratifican; junto con la DUDH constituyen la Carta Internacional de Derechos Humanos.",
+      "ley": "Pactos Internacionales de 1966 (PIDCP y PIDESC)"
+    },
+    {
+      "id": "tema_01_test_21_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Pactos Internacionales de 1966 (PIDCP y PIDESC). Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Pacto Internacional de Derechos Económicos, Sociales y Culturales fue adoptado por el Consejo de Europa, no por la ONU",
+        "b": "A diferencia de la Declaración Universal, los Pactos de 1966 sí son jurídicamente vinculantes para los Estados que los ratifican",
+        "c": "Los Pactos de 1966 carecen de cualquier fuerza vinculante para los Estados que los ratifican, igual que la Declaración",
+        "d": "La Carta Internacional de Derechos Humanos está formada únicamente por la Declaración Universal, sin incluir ningún Pacto"
+      },
+      "correct": "b",
+      "explicacion": "El PIDCP y el PIDESC fueron adoptados por la Asamblea General de la ONU en 1966 y, a diferencia de la Declaración Universal, son jurídicamente vinculantes para los Estados que los ratifican; junto con la DUDH constituyen la Carta Internacional de Derechos Humanos.",
+      "ley": "Pactos Internacionales de 1966 (PIDCP y PIDESC)"
+    },
+    {
+      "id": "tema_01_test_21_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Señale la opción que reproduce LITERALMENTE el art. 1 de la Declaración Universal de los Derechos Humanos:",
+      "options": {
+        "a": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como estaban de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+        "b": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+        "c": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse solidariamente los unos con los otros.",
+        "d": "Todos los seres humanos nacen libres e iguales en derechos y dignidad y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros."
+      },
+      "correct": "b",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 1 de la DUDH. Las variantes incorrectas alteran palabras concretas: cambian 'fraternalmente' por 'solidariamente', 'conciencia' por 'voluntad', invierten el orden 'dignidad y derechos' por 'derechos y dignidad', o cambian el tiempo verbal 'están' por 'estaban'.",
+      "ley": "art. 1 de la Declaración Universal de los Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_21_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 12 a 14 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia",
+        "b": "En caso de persecución, toda persona tiene derecho a buscar asilo y a disfrutar de él en cualquier país",
+        "c": "La correspondencia de las personas carece de cualquier protección frente a injerencias arbitrarias",
+        "d": "Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 12 a 14 DUDH protegen frente a injerencias arbitrarias en la vida privada, familia, domicilio o correspondencia, reconocen la libertad de circulación y elección de residencia, y el derecho de asilo, que no puede invocarse frente a acciones judiciales por delitos comunes.",
+      "ley": "Arts. 12 a 14 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_010",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 3 a 5 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Nadie estará sometido a esclavitud ni a servidumbre, prohibiéndose la esclavitud y la trata de esclavos en todas sus formas",
+        "b": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes",
+        "c": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona",
+        "d": "Los tratos crueles o degradantes están permitidos cuando se aplican en el ámbito penitenciario"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 3 a 5 DUDH reconocen el derecho a la vida, libertad y seguridad de la persona, prohíben de forma absoluta la esclavitud y la trata de esclavos en cualquier forma, y prohíben sin excepción las torturas y los tratos crueles, inhumanos o degradantes.",
+      "ley": "Arts. 3 a 5 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 28 a 30 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Toda persona tiene deberes respecto a la comunidad, puesto que solo en ella puede desarrollar libre y plenamente su personalidad",
+        "b": "Los derechos de la Declaración se ejercen sin ningún tipo de límite derivado del reconocimiento de los derechos de los demás",
+        "c": "El orden social e internacional al que se refiere la Declaración es ajeno a la efectividad de los derechos proclamados",
+        "d": "La Declaración permite expresamente invocarla para justificar actividades dirigidas a destruir los derechos que ella misma proclama"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 28 a 30 DUDH reconocen el derecho a un orden social e internacional que haga efectivos los derechos proclamados, establecen los deberes de la persona respecto a la comunidad, y prohíben interpretar la Declaración como amparo de actividades destinadas a destruir los derechos y libertades que ella misma reconoce.",
+      "ley": "Arts. 28 a 30 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Señale la opción que reproduce LITERALMENTE el art. 5 de la Declaración Universal de los Derechos Humanos:",
+      "options": {
+        "a": "Nadie podrá ser sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "b": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o humillantes.",
+        "c": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "d": "Nadie será sometido a torturas ni a castigos o tratos crueles, inhumanos o degradantes."
+      },
+      "correct": "c",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 5 de la DUDH. Las variantes incorrectas cambian 'será' por 'podrá ser', la conjunción 'o' por 'y' entre 'inhumanos' y 'degradantes', 'degradantes' por 'humillantes', o 'penas' por 'castigos'.",
+      "ley": "art. 5 de la Declaración Universal de los Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_21_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 12 a 14 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado",
+        "b": "En caso de persecución, toda persona tiene derecho a buscar asilo y a disfrutar de él en cualquier país",
+        "c": "La injerencia arbitraria en la vida privada está permitida si la autoridad la considera conveniente",
+        "d": "Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 12 a 14 DUDH protegen frente a injerencias arbitrarias en la vida privada, familia, domicilio o correspondencia, reconocen la libertad de circulación y elección de residencia, y el derecho de asilo, que no puede invocarse frente a acciones judiciales por delitos comunes.",
+      "ley": "Arts. 12 a 14 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 28 a 30 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene deberes respecto a la comunidad, puesto que solo en ella puede desarrollar libre y plenamente su personalidad",
+        "b": "Toda persona tiene derecho a que se establezca un orden social e internacional en el que los derechos y libertades de la Declaración se hagan plenamente efectivos",
+        "c": "La Declaración permite expresamente invocarla para justificar actividades dirigidas a destruir los derechos que ella misma proclama",
+        "d": "Nada en la Declaración podrá interpretarse en el sentido de conferir derecho alguno para emprender actividades encaminadas a la destrucción de los derechos y libertades proclamados en ella"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 28 a 30 DUDH reconocen el derecho a un orden social e internacional que haga efectivos los derechos proclamados, establecen los deberes de la persona respecto a la comunidad, y prohíben interpretar la Declaración como amparo de actividades destinadas a destruir los derechos y libertades que ella misma reconoce.",
+      "ley": "Arts. 28 a 30 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Señale la opción que reproduce LITERALMENTE el art. 1 de la Declaración Universal de los Derechos Humanos:",
+      "options": {
+        "a": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+        "b": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y voluntad, deben comportarse fraternalmente los unos con los otros.",
+        "c": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse solidariamente los unos con los otros.",
+        "d": "Todos los seres humanos nacen libres e iguales en derechos y dignidad y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 1 de la DUDH. Las variantes incorrectas alteran palabras concretas: cambian 'fraternalmente' por 'solidariamente', 'conciencia' por 'voluntad', invierten el orden 'dignidad y derechos' por 'derechos y dignidad', o cambian el tiempo verbal 'están' por 'estaban'.",
+      "ley": "art. 1 de la Declaración Universal de los Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_21_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Pactos Internacionales de 1966 (PIDCP y PIDESC). Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Carta Internacional de Derechos Humanos está formada únicamente por la Declaración Universal, sin incluir ningún Pacto",
+        "b": "Los Pactos de 1966 carecen de cualquier fuerza vinculante para los Estados que los ratifican, igual que la Declaración",
+        "c": "El Pacto Internacional de Derechos Civiles y Políticos fue adoptado en 1948, el mismo año que la Declaración Universal",
+        "d": "A diferencia de la Declaración Universal, los Pactos de 1966 sí son jurídicamente vinculantes para los Estados que los ratifican"
+      },
+      "correct": "d",
+      "explicacion": "El PIDCP y el PIDESC fueron adoptados por la Asamblea General de la ONU en 1966 y, a diferencia de la Declaración Universal, son jurídicamente vinculantes para los Estados que los ratifican; junto con la DUDH constituyen la Carta Internacional de Derechos Humanos.",
+      "ley": "Pactos Internacionales de 1966 (PIDCP y PIDESC)"
+    },
+    {
+      "id": "tema_01_test_21_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Convenio Europeo de Derechos Humanos (Roma, 1950). Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Convenio Europeo de Derechos Humanos fue firmado en 1948, el mismo año que la Declaración Universal",
+        "b": "El Convenio Europeo de Derechos Humanos se adoptó en el marco de las Naciones Unidas",
+        "c": "El Convenio Europeo de Derechos Humanos fue firmado en Roma el 4 de noviembre de 1950",
+        "d": "El Convenio Europeo de Derechos Humanos fue firmado en Bruselas en 1957 en el marco de la Unión Europea"
+      },
+      "correct": "c",
+      "explicacion": "El Convenio Europeo de Derechos Humanos, firmado en Roma el 4 de noviembre de 1950 en el marco del Consejo de Europa, invoca expresamente la Declaración Universal de Derechos Humanos como referencia para asegurar el reconocimiento y la aplicación universal y efectiva de los derechos que enuncia.",
+      "ley": "Convenio Europeo de Derechos Humanos (Roma, 1950)"
+    },
+    {
+      "id": "tema_01_test_21_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre DUDH - Preámbulo y adopción. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Declaración Universal de Derechos Humanos no es un tratado jurídicamente vinculante para los Estados",
+        "b": "La Declaración Universal de Derechos Humanos fue adoptada por el Consejo de Seguridad de la ONU en 1945",
+        "c": "La Declaración Universal de Derechos Humanos consta de 30 artículos",
+        "d": "La Declaración Universal de Derechos Humanos fue adoptada por la Asamblea General de la ONU el 10 de diciembre de 1948 en París"
+      },
+      "correct": "b",
+      "explicacion": "La DUDH fue adoptada por la Asamblea General de la ONU el 10 de diciembre de 1948 en París, mediante la Resolución 217 A (III); no es un tratado vinculante sino una declaración con 30 artículos que ha inspirado numerosos tratados posteriores.",
+      "ley": "DUDH - Preámbulo y adopción"
+    },
+    {
+      "id": "tema_01_test_21_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 18 a 20 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La libertad religiosa reconocida en la Declaración no incluye la posibilidad de cambiar de religión",
+        "b": "Toda persona tiene derecho a la libertad de reunión y de asociación pacífica",
+        "c": "Todo individuo tiene derecho a la libertad de opinión y de expresión, incluyendo el de no ser molestado por sus opiniones",
+        "d": "Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de religión, incluyendo la libertad de cambiar de religión o creencia"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 18 a 20 DUDH reconocen la libertad de pensamiento, conciencia y religión (incluido el cambio de religión o creencia), la libertad de opinión y expresión sin ser molestado por las propias opiniones, y la libertad de reunión y asociación pacífica.",
+      "ley": "Arts. 18 a 20 DUDH"
+    },
+    {
+      "id": "tema_01_test_21_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre DUDH - Preámbulo y adopción. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Declaración Universal de Derechos Humanos fue adoptada en Ginebra en 1966",
+        "b": "La Declaración Universal de Derechos Humanos consta de 50 artículos",
+        "c": "La Declaración Universal de Derechos Humanos fue adoptada por el Consejo de Seguridad de la ONU en 1945",
+        "d": "La Declaración Universal de Derechos Humanos no es un tratado jurídicamente vinculante para los Estados"
+      },
+      "correct": "d",
+      "explicacion": "La DUDH fue adoptada por la Asamblea General de la ONU el 10 de diciembre de 1948 en París, mediante la Resolución 217 A (III); no es un tratado vinculante sino una declaración con 30 artículos que ha inspirado numerosos tratados posteriores.",
+      "ley": "DUDH - Preámbulo y adopción"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "tema_numero": 18,
+  "tema": "Tema 18 - Seguridad Privada",
+  "test": "Test 3",
+  "preguntas": [
+    {
+      "id": "tema_18_test_03_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 7 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las actuaciones de autoprotección están siempre sujetas a la Ley 5/2014, igual que cualquier otra actividad de seguridad",
+        "b": "La autoprotección excluida de la Ley no puede conllevar contraprestación alguna ni suponer un servicio de seguridad privada a terceros",
+        "c": "La autoprotección puede prestarse a terceros mediante contraprestación económica sin quedar sujeta a la Ley 5/2014",
+        "d": "Cualquier empresa puede acogerse a la excepción de autoprotección para prestar servicios de seguridad a sus clientes"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7 de la Ley 5/2014 excluye de su ámbito de aplicación las actuaciones de autoprotección, entendidas como las cautelas que los propios interesados ejecutan directamente y sin contraprestación para proteger su propio entorno personal o patrimonial.",
+      "ley": "Art. 7 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_002",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 9 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las empresas de seguridad privada actúan con total independencia de las Fuerzas y Cuerpos de Seguridad, sin ninguna sujeción a sus disposiciones",
+        "b": "Los servicios de seguridad privada pueden prestarse libremente sin necesidad de contratación ni comunicación previa",
+        "c": "No podrá prestarse ningún servicio de seguridad privada que no haya sido previamente contratado o, en su caso, comunicado conforme a la ley",
+        "d": "La obligación de contratación o comunicación previa solo afecta a los despachos de detectives, no a las empresas de vigilancia"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 9 de la Ley 5/2014 exige que todo servicio de seguridad privada esté previamente contratado o comunicado conforme a la ley, e impone a las empresas de seguridad colaborar con las Fuerzas y Cuerpos de Seguridad con sujeción a lo que estas dispongan sobre la ejecución material de sus actividades.",
+      "ley": "Art. 9 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Señale la opción que reproduce LITERALMENTE el art. 9.3 Ley 5/2014:",
+      "options": {
+        "a": "Las empresas de seguridad y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "b": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "c": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada podrán tener obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "d": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con la Administración de Justicia en el ejercicio de sus funciones."
+      },
+      "correct": "b",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9.3 de la Ley 5/2014. Las variantes incorrectas cambian 'en todo momento' por 'cuando se les requiera', omiten 'los despachos de detectives', cambian 'tendrán' por 'podrán tener', o sustituyen 'Fuerzas y Cuerpos de Seguridad' por 'Administración de Justicia'.",
+      "ley": "art. 9.3 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Arts. 1 y 2 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las funciones de seguridad privada son las facultades atribuidas en exclusiva a los Jueces de Instrucción",
+        "b": "Las funciones de seguridad privada son las facultades atribuidas al personal de seguridad privada",
+        "c": "La Ley 5/2014 no contiene ninguna definición legal de los conceptos que emplea",
+        "d": "La Ley 5/2014 tiene por objeto regular en exclusiva la actuación de las Fuerzas y Cuerpos de Seguridad del Estado"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 1 y 2 de la Ley 5/2014 fijan el objeto de la norma -regular la prestación de actividades y servicios de seguridad privada por personas privadas- y definen conceptos como actividades de seguridad privada (ámbitos de actuación material) y funciones de seguridad privada (facultades del personal habilitado).",
+      "ley": "Arts. 1 y 2 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 9 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las empresas de seguridad privada actúan con total independencia de las Fuerzas y Cuerpos de Seguridad, sin ninguna sujeción a sus disposiciones",
+        "b": "La colaboración con las Fuerzas y Cuerpos de Seguridad es meramente potestativa para las empresas de seguridad privada",
+        "c": "La obligación de contratación o comunicación previa solo afecta a los despachos de detectives, no a las empresas de vigilancia",
+        "d": "No podrá prestarse ningún servicio de seguridad privada que no haya sido previamente contratado o, en su caso, comunicado conforme a la ley"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 9 de la Ley 5/2014 exige que todo servicio de seguridad privada esté previamente contratado o comunicado conforme a la ley, e impone a las empresas de seguridad colaborar con las Fuerzas y Cuerpos de Seguridad con sujeción a lo que estas dispongan sobre la ejecución material de sus actividades.",
+      "ley": "Art. 9 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Señale la opción que reproduce LITERALMENTE el art. 9.3 Ley 5/2014:",
+      "options": {
+        "a": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, cuando se les requiera, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "b": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con la Administración de Justicia en el ejercicio de sus funciones.",
+        "c": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "d": "Las empresas de seguridad y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones."
+      },
+      "correct": "c",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9.3 de la Ley 5/2014. Las variantes incorrectas cambian 'en todo momento' por 'cuando se les requiera', omiten 'los despachos de detectives', cambian 'tendrán' por 'podrán tener', o sustituyen 'Fuerzas y Cuerpos de Seguridad' por 'Administración de Justicia'.",
+      "ley": "art. 9.3 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_007",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 7 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Cualquier empresa puede acogerse a la excepción de autoprotección para prestar servicios de seguridad a sus clientes",
+        "b": "La autoprotección puede prestarse a terceros mediante contraprestación económica sin quedar sujeta a la Ley 5/2014",
+        "c": "Las actuaciones de autoprotección están siempre sujetas a la Ley 5/2014, igual que cualquier otra actividad de seguridad",
+        "d": "No están sujetas a la Ley 5/2014 las actuaciones de autoprotección que los propios interesados ejecuten directamente para sí mismos"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 7 de la Ley 5/2014 excluye de su ámbito de aplicación las actuaciones de autoprotección, entendidas como las cautelas que los propios interesados ejecutan directamente y sin contraprestación para proteger su propio entorno personal o patrimonial.",
+      "ley": "Art. 7 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_008",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 9 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "No podrá prestarse ningún servicio de seguridad privada que no haya sido previamente contratado o, en su caso, comunicado conforme a la ley",
+        "b": "La obligación de contratación o comunicación previa solo afecta a los despachos de detectives, no a las empresas de vigilancia",
+        "c": "Los servicios de seguridad privada pueden prestarse libremente sin necesidad de contratación ni comunicación previa",
+        "d": "La colaboración con las Fuerzas y Cuerpos de Seguridad es meramente potestativa para las empresas de seguridad privada"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 9 de la Ley 5/2014 exige que todo servicio de seguridad privada esté previamente contratado o comunicado conforme a la ley, e impone a las empresas de seguridad colaborar con las Fuerzas y Cuerpos de Seguridad con sujeción a lo que estas dispongan sobre la ejecución material de sus actividades.",
+      "ley": "Art. 9 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Señale la opción que reproduce LITERALMENTE el art. 9.3 Ley 5/2014:",
+      "options": {
+        "a": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con la Administración de Justicia en el ejercicio de sus funciones.",
+        "b": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, cuando se les requiera, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "c": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada podrán tener obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "d": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9.3 de la Ley 5/2014. Las variantes incorrectas cambian 'en todo momento' por 'cuando se les requiera', omiten 'los despachos de detectives', cambian 'tendrán' por 'podrán tener', o sustituyen 'Fuerzas y Cuerpos de Seguridad' por 'Administración de Justicia'.",
+      "ley": "art. 9.3 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Señale la opción que reproduce LITERALMENTE el art. 9.3 Ley 5/2014:",
+      "options": {
+        "a": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "b": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, cuando se les requiera, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "c": "Las empresas de seguridad, los despachos de detectives y el personal de seguridad privada podrán tener obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+        "d": "Las empresas de seguridad y el personal de seguridad privada tendrán especial obligación de auxiliar y colaborar, en todo momento, con las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9.3 de la Ley 5/2014. Las variantes incorrectas cambian 'en todo momento' por 'cuando se les requiera', omiten 'los despachos de detectives', cambian 'tendrán' por 'podrán tener', o sustituyen 'Fuerzas y Cuerpos de Seguridad' por 'Administración de Justicia'.",
+      "ley": "art. 9.3 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Arts. 30 y 31 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El personal de seguridad privada dispone de una protección jurídica análoga a la de los agentes de la autoridad",
+        "b": "La protección jurídica del personal de seguridad privada es idéntica, sin matices, a la de cualquier ciudadano particular",
+        "c": "La protección jurídica análoga a los agentes de la autoridad solo se reconoce a los directores de seguridad",
+        "d": "El personal de seguridad privada queda exento de cualquier principio de actuación distinto a los de sus superiores empresariales"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 30 y 31 de la Ley 5/2014 establecen que el personal de seguridad privada se atiene, además de a los principios del artículo 8, a los principios básicos de actuación del artículo 30, y le reconocen una protección jurídica análoga a la de los agentes de la autoridad.",
+      "ley": "Arts. 30 y 31 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 7 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Cualquier empresa puede acogerse a la excepción de autoprotección para prestar servicios de seguridad a sus clientes",
+        "b": "Las actuaciones de autoprotección deben estar estrictamente dirigidas a la protección del propio entorno personal o patrimonial",
+        "c": "La autoprotección regulada en el artículo 7 se refiere exclusivamente a la protección de bienes públicos",
+        "d": "Las actuaciones de autoprotección están siempre sujetas a la Ley 5/2014, igual que cualquier otra actividad de seguridad"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7 de la Ley 5/2014 excluye de su ámbito de aplicación las actuaciones de autoprotección, entendidas como las cautelas que los propios interesados ejecutan directamente y sin contraprestación para proteger su propio entorno personal o patrimonial.",
+      "ley": "Art. 7 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 7 Ley 5/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las actuaciones de autoprotección están siempre sujetas a la Ley 5/2014, igual que cualquier otra actividad de seguridad",
+        "b": "No están sujetas a la Ley 5/2014 las actuaciones de autoprotección que los propios interesados ejecuten directamente para sí mismos",
+        "c": "Las actuaciones de autoprotección deben estar estrictamente dirigidas a la protección del propio entorno personal o patrimonial",
+        "d": "La autoprotección excluida de la Ley no puede conllevar contraprestación alguna ni suponer un servicio de seguridad privada a terceros"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 7 de la Ley 5/2014 excluye de su ámbito de aplicación las actuaciones de autoprotección, entendidas como las cautelas que los propios interesados ejecutan directamente y sin contraprestación para proteger su propio entorno personal o patrimonial.",
+      "ley": "Art. 7 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 5 Ley 5/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Entre las actividades de seguridad privada se encuentra la planificación y asesoramiento de las actividades de seguridad",
+        "b": "La planificación y asesoramiento de seguridad es una actividad reservada en exclusiva a las Fuerzas y Cuerpos de Seguridad",
+        "c": "Entre las actividades de seguridad privada se encuentra la investigación privada en relación con personas, hechos o delitos solo perseguibles a instancia de parte",
+        "d": "Entre las actividades de seguridad privada se encuentra la vigilancia y protección de bienes, establecimientos, lugares y eventos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 5 de la Ley 5/2014 enumera las actividades de seguridad privada, entre ellas la vigilancia y protección de bienes y eventos, la investigación privada limitada a hechos o delitos perseguibles a instancia de parte, y la planificación y asesoramiento de las actividades de seguridad.",
+      "ley": "Art. 5 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 8 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El principio de congruencia permite aplicar cualquier medida de seguridad sin valorar su proporción con el riesgo real",
+        "b": "La proporcionalidad en el uso de medios de defensa es un principio ajeno a la regulación de la seguridad privada",
+        "c": "Entre los principios rectores de la seguridad privada se encuentra la congruencia, aplicando medidas proporcionadas y adecuadas a los riesgos",
+        "d": "Los principios rectores de la seguridad privada del artículo 8 solo son exigibles a las empresas, nunca al personal habilitado"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 8 de la Ley 5/2014 establece los principios rectores de la seguridad privada, exigibles tanto a empresas como a personal, entre ellos la congruencia (medidas proporcionadas a los riesgos) y la proporcionalidad en el uso de técnicas y medios de defensa e investigación.",
+      "ley": "Art. 8 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_016",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 5 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Entre las actividades de seguridad privada se encuentra la planificación y asesoramiento de las actividades de seguridad",
+        "b": "Las actividades de seguridad privada no incluyen en ningún caso la vigilancia de eventos públicos",
+        "c": "La planificación y asesoramiento de seguridad es una actividad reservada en exclusiva a las Fuerzas y Cuerpos de Seguridad",
+        "d": "La investigación privada regulada por la Ley 5/2014 puede referirse a cualquier delito, incluidos los perseguibles de oficio sin limitación"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5 de la Ley 5/2014 enumera las actividades de seguridad privada, entre ellas la vigilancia y protección de bienes y eventos, la investigación privada limitada a hechos o delitos perseguibles a instancia de parte, y la planificación y asesoramiento de las actividades de seguridad.",
+      "ley": "Art. 5 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Arts. 30 y 31 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los principios de actuación del artículo 30 sustituyen completamente a los del artículo 8, dejándolos sin efecto",
+        "b": "La protección jurídica del personal de seguridad privada es idéntica, sin matices, a la de cualquier ciudadano particular",
+        "c": "El personal de seguridad privada dispone de una protección jurídica análoga a la de los agentes de la autoridad",
+        "d": "El personal de seguridad privada queda exento de cualquier principio de actuación distinto a los de sus superiores empresariales"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 30 y 31 de la Ley 5/2014 establecen que el personal de seguridad privada se atiene, además de a los principios del artículo 8, a los principios básicos de actuación del artículo 30, y le reconocen una protección jurídica análoga a la de los agentes de la autoridad.",
+      "ley": "Arts. 30 y 31 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_018",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 8 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los principios rectores de la seguridad privada del artículo 8 solo son exigibles a las empresas, nunca al personal habilitado",
+        "b": "Los principios rectores del artículo 8 carecen de cualquier exigencia de adecuación de las medidas a los riesgos existentes",
+        "c": "La proporcionalidad en el uso de medios de defensa es un principio ajeno a la regulación de la seguridad privada",
+        "d": "Entre los principios rectores de la seguridad privada se encuentra la congruencia, aplicando medidas proporcionadas y adecuadas a los riesgos"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 8 de la Ley 5/2014 establece los principios rectores de la seguridad privada, exigibles tanto a empresas como a personal, entre ellos la congruencia (medidas proporcionadas a los riesgos) y la proporcionalidad en el uso de técnicas y medios de defensa e investigación.",
+      "ley": "Art. 8 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_019",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 41 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los servicios de vigilancia y protección tienen vedada por ley cualquier prestación en polígonos industriales",
+        "b": "El artículo 41 de la Ley 5/2014 no contempla ninguna excepción a la prestación de servicios en el interior de inmuebles",
+        "c": "Los servicios de vigilancia y protección pueden prestarse en polígonos industriales y urbanizaciones privadas delimitadas, con autorización previa",
+        "d": "Los servicios de vigilancia en urbanizaciones privadas delimitadas no requieren ninguna autorización previa"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 41 de la Ley 5/2014 establece como regla general que los servicios de vigilancia y protección se prestan en el interior de inmuebles o propiedades, contemplando excepciones como su prestación en polígonos industriales y urbanizaciones privadas delimitadas, previa autorización.",
+      "ley": "Art. 41 Ley 5/2014"
+    },
+    {
+      "id": "tema_18_test_03_020",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 18 - Seguridad Privada. Sobre Art. 41 Ley 5/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los servicios de vigilancia y protección tienen vedada por ley cualquier prestación en polígonos industriales",
+        "b": "Los servicios de vigilancia en urbanizaciones privadas delimitadas no requieren ninguna autorización previa",
+        "c": "La regla general de la Ley 5/2014 es que los servicios de vigilancia se presten siempre en la vía pública, sin limitación al interior de inmuebles",
+        "d": "Los servicios de vigilancia y protección pueden prestarse en polígonos industriales y urbanizaciones privadas delimitadas, con autorización previa"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 41 de la Ley 5/2014 establece como regla general que los servicios de vigilancia y protección se prestan en el interior de inmuebles o propiedades, contemplando excepciones como su prestación en polígonos industriales y urbanizaciones privadas delimitadas, previa autorización.",
+      "ley": "Art. 41 Ley 5/2014"
+    }
+  ]
+}

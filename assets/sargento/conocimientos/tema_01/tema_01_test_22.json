@@ -1,0 +1,307 @@
+{
+  "tema_numero": 1,
+  "tema": "Tema 1 - Derechos Humanos",
+  "test": "Test 22",
+  "preguntas": [
+    {
+      "id": "tema_01_test_22_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 10 y 11 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Una persona puede ser condenada retroactivamente por actos que no eran delictivos cuando se cometieron",
+        "b": "El derecho a un tribunal independiente e imparcial solo se reconoce en materia civil, no en materia penal",
+        "c": "Nadie será condenado por actos u omisiones que en el momento de cometerse no fueran delictivos según el Derecho nacional o internacional",
+        "d": "La presunción de inocencia puede invertirse libremente cuando el delito imputado es especialmente grave"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 10 y 11 DUDH reconocen el derecho a un juicio público con todas las garantías ante un tribunal independiente e imparcial, la presunción de inocencia hasta que se pruebe la culpabilidad conforme a la ley, y la prohibición de la retroactividad penal desfavorable.",
+      "ley": "Arts. 10 y 11 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 6 a 9 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes",
+        "b": "El reconocimiento de la personalidad jurídica solo se otorga en el país de nacionalidad de la persona",
+        "c": "Todos son iguales ante la ley y tienen derecho a igual protección de la ley sin distinción",
+        "d": "Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 6 a 9 DUDH reconocen el derecho al reconocimiento de la personalidad jurídica en todas partes, la igualdad ante la ley, el derecho a un recurso efectivo ante tribunales nacionales, y la prohibición de la detención, prisión o destierro arbitrarios.",
+      "ley": "Arts. 6 a 9 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 12 a 14 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado",
+        "b": "En caso de persecución, toda persona tiene derecho a buscar asilo y a disfrutar de él en cualquier país",
+        "c": "El derecho de asilo puede invocarse frente a una acción judicial originada por delitos comunes",
+        "d": "Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 12 a 14 DUDH protegen frente a injerencias arbitrarias en la vida privada, familia, domicilio o correspondencia, reconocen la libertad de circulación y elección de residencia, y el derecho de asilo, que no puede invocarse frente a acciones judiciales por delitos comunes.",
+      "ley": "Arts. 12 a 14 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Convenio Europeo de Derechos Humanos (Roma, 1950). Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Convenio Europeo de Derechos Humanos fue firmado en Bruselas en 1957 en el marco de la Unión Europea",
+        "b": "El Convenio Europeo de Derechos Humanos se adoptó en el marco del Consejo de Europa",
+        "c": "El Convenio Europeo de Derechos Humanos se adoptó en el marco de las Naciones Unidas",
+        "d": "El Convenio Europeo de Derechos Humanos fue firmado en 1948, el mismo año que la Declaración Universal"
+      },
+      "correct": "b",
+      "explicacion": "El Convenio Europeo de Derechos Humanos, firmado en Roma el 4 de noviembre de 1950 en el marco del Consejo de Europa, invoca expresamente la Declaración Universal de Derechos Humanos como referencia para asegurar el reconocimiento y la aplicación universal y efectiva de los derechos que enuncia.",
+      "ley": "Convenio Europeo de Derechos Humanos (Roma, 1950)"
+    },
+    {
+      "id": "tema_01_test_22_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Señale la opción que reproduce LITERALMENTE el art. 5 de la Declaración Universal de los Derechos Humanos:",
+      "options": {
+        "a": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos y degradantes.",
+        "b": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "c": "Nadie podrá ser sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "d": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o humillantes."
+      },
+      "correct": "b",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 5 de la DUDH. Las variantes incorrectas cambian 'será' por 'podrá ser', la conjunción 'o' por 'y' entre 'inhumanos' y 'degradantes', 'degradantes' por 'humillantes', o 'penas' por 'castigos'.",
+      "ley": "art. 5 de la Declaración Universal de los Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_22_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 6 a 9 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El reconocimiento de la personalidad jurídica solo se otorga en el país de nacionalidad de la persona",
+        "b": "La detención arbitraria está permitida si la ordena una autoridad gubernativa sin intervención judicial",
+        "c": "La igualdad ante la ley admite excepciones según la posición económica de la persona",
+        "d": "Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 6 a 9 DUDH reconocen el derecho al reconocimiento de la personalidad jurídica en todas partes, la igualdad ante la ley, el derecho a un recurso efectivo ante tribunales nacionales, y la prohibición de la detención, prisión o destierro arbitrarios.",
+      "ley": "Arts. 6 a 9 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 1 y 2 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene todos los derechos y libertades proclamados en la Declaración sin distinción de raza, sexo, idioma o religión",
+        "b": "No se hará distinción alguna fundada en la condición política, jurídica o internacional del país de cuya jurisdicción dependa una persona",
+        "c": "Todos los seres humanos nacen libres e iguales en dignidad y derechos",
+        "d": "La igualdad de dignidad y derechos solo se reconoce a partir de la mayoría de edad"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 1 y 2 DUDH proclaman que todos los seres humanos nacen libres e iguales en dignidad y derechos, sin distinción de raza, sexo, idioma, religión u otra condición, y sin que la situación política o jurídica del país de origen pueda fundar discriminación alguna.",
+      "ley": "Arts. 1 y 2 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 1 y 2 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "No se hará distinción alguna fundada en la condición política, jurídica o internacional del país de cuya jurisdicción dependa una persona",
+        "b": "La condición política del país de origen de una persona puede justificar la negación de sus derechos",
+        "c": "Toda persona tiene todos los derechos y libertades proclamados en la Declaración sin distinción de raza, sexo, idioma o religión",
+        "d": "Todos los seres humanos nacen libres e iguales en dignidad y derechos"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 1 y 2 DUDH proclaman que todos los seres humanos nacen libres e iguales en dignidad y derechos, sin distinción de raza, sexo, idioma, religión u otra condición, y sin que la situación política o jurídica del país de origen pueda fundar discriminación alguna.",
+      "ley": "Arts. 1 y 2 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre DUDH - Preámbulo y adopción. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Declaración Universal de Derechos Humanos consta de 30 artículos",
+        "b": "La Declaración Universal de Derechos Humanos consta de 50 artículos",
+        "c": "La Declaración Universal de Derechos Humanos fue adoptada en Ginebra en 1966",
+        "d": "La Declaración Universal de Derechos Humanos fue adoptada por el Consejo de Seguridad de la ONU en 1945"
+      },
+      "correct": "a",
+      "explicacion": "La DUDH fue adoptada por la Asamblea General de la ONU el 10 de diciembre de 1948 en París, mediante la Resolución 217 A (III); no es un tratado vinculante sino una declaración con 30 artículos que ha inspirado numerosos tratados posteriores.",
+      "ley": "DUDH - Preámbulo y adopción"
+    },
+    {
+      "id": "tema_01_test_22_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Señale la opción que reproduce LITERALMENTE el art. 1 de la Declaración Universal de los Derechos Humanos:",
+      "options": {
+        "a": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como estaban de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+        "b": "Todos los seres humanos nacen libres e iguales en derechos y dignidad y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+        "c": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+        "d": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y voluntad, deben comportarse fraternalmente los unos con los otros."
+      },
+      "correct": "c",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 1 de la DUDH. Las variantes incorrectas alteran palabras concretas: cambian 'fraternalmente' por 'solidariamente', 'conciencia' por 'voluntad', invierten el orden 'dignidad y derechos' por 'derechos y dignidad', o cambian el tiempo verbal 'están' por 'estaban'.",
+      "ley": "art. 1 de la Declaración Universal de los Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_22_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Señale la opción que reproduce LITERALMENTE el art. 1 de la Declaración Universal de los Derechos Humanos:",
+      "options": {
+        "a": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse solidariamente los unos con los otros.",
+        "b": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+        "c": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y voluntad, deben comportarse fraternalmente los unos con los otros.",
+        "d": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como estaban de razón y conciencia, deben comportarse fraternalmente los unos con los otros."
+      },
+      "correct": "b",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 1 de la DUDH. Las variantes incorrectas alteran palabras concretas: cambian 'fraternalmente' por 'solidariamente', 'conciencia' por 'voluntad', invierten el orden 'dignidad y derechos' por 'derechos y dignidad', o cambian el tiempo verbal 'están' por 'estaban'.",
+      "ley": "art. 1 de la Declaración Universal de los Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_22_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 10 y 11 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad conforme a la ley",
+        "b": "El derecho a un tribunal independiente e imparcial solo se reconoce en materia civil, no en materia penal",
+        "c": "Una persona puede ser condenada retroactivamente por actos que no eran delictivos cuando se cometieron",
+        "d": "La presunción de inocencia puede invertirse libremente cuando el delito imputado es especialmente grave"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 10 y 11 DUDH reconocen el derecho a un juicio público con todas las garantías ante un tribunal independiente e imparcial, la presunción de inocencia hasta que se pruebe la culpabilidad conforme a la ley, y la prohibición de la retroactividad penal desfavorable.",
+      "ley": "Arts. 10 y 11 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_013",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 28 a 30 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene deberes respecto a la comunidad, puesto que solo en ella puede desarrollar libre y plenamente su personalidad",
+        "b": "Toda persona tiene derecho a que se establezca un orden social e internacional en el que los derechos y libertades de la Declaración se hagan plenamente efectivos",
+        "c": "Nada en la Declaración podrá interpretarse en el sentido de conferir derecho alguno para emprender actividades encaminadas a la destrucción de los derechos y libertades proclamados en ella",
+        "d": "Los derechos de la Declaración se ejercen sin ningún tipo de límite derivado del reconocimiento de los derechos de los demás"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 28 a 30 DUDH reconocen el derecho a un orden social e internacional que haga efectivos los derechos proclamados, establecen los deberes de la persona respecto a la comunidad, y prohíben interpretar la Declaración como amparo de actividades destinadas a destruir los derechos y libertades que ella misma reconoce.",
+      "ley": "Arts. 28 a 30 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Señale la opción que reproduce LITERALMENTE el art. 5 de la Declaración Universal de los Derechos Humanos:",
+      "options": {
+        "a": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+        "b": "Nadie será sometido a torturas ni a castigos o tratos crueles, inhumanos o degradantes.",
+        "c": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos y degradantes.",
+        "d": "Nadie podrá ser sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 5 de la DUDH. Las variantes incorrectas cambian 'será' por 'podrá ser', la conjunción 'o' por 'y' entre 'inhumanos' y 'degradantes', 'degradantes' por 'humillantes', o 'penas' por 'castigos'.",
+      "ley": "art. 5 de la Declaración Universal de los Derechos Humanos"
+    },
+    {
+      "id": "tema_01_test_22_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 1 y 2 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los seres humanos nacen libres pero con distinta dignidad según su origen social",
+        "b": "La igualdad de dignidad y derechos solo se reconoce a partir de la mayoría de edad",
+        "c": "Todos los seres humanos nacen libres e iguales en dignidad y derechos",
+        "d": "Los derechos y libertades de la Declaración solo se aplican a los ciudadanos de países democráticos"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 1 y 2 DUDH proclaman que todos los seres humanos nacen libres e iguales en dignidad y derechos, sin distinción de raza, sexo, idioma, religión u otra condición, y sin que la situación política o jurídica del país de origen pueda fundar discriminación alguna.",
+      "ley": "Arts. 1 y 2 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 3 a 5 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La esclavitud está prohibida salvo que medie consentimiento expreso de la persona afectada",
+        "b": "Nadie estará sometido a esclavitud ni a servidumbre, prohibiéndose la esclavitud y la trata de esclavos en todas sus formas",
+        "c": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona",
+        "d": "Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 3 a 5 DUDH reconocen el derecho a la vida, libertad y seguridad de la persona, prohíben de forma absoluta la esclavitud y la trata de esclavos en cualquier forma, y prohíben sin excepción las torturas y los tratos crueles, inhumanos o degradantes.",
+      "ley": "Arts. 3 a 5 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 6 a 9 DUDH. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El derecho a un recurso efectivo ante los tribunales solo existe si lo concede graciablemente el Estado",
+        "b": "La detención arbitraria está permitida si la ordena una autoridad gubernativa sin intervención judicial",
+        "c": "El reconocimiento de la personalidad jurídica solo se otorga en el país de nacionalidad de la persona",
+        "d": "Todos son iguales ante la ley y tienen derecho a igual protección de la ley sin distinción"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 6 a 9 DUDH reconocen el derecho al reconocimiento de la personalidad jurídica en todas partes, la igualdad ante la ley, el derecho a un recurso efectivo ante tribunales nacionales, y la prohibición de la detención, prisión o destierro arbitrarios.",
+      "ley": "Arts. 6 a 9 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 18 a 20 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de religión, incluyendo la libertad de cambiar de religión o creencia",
+        "b": "Toda persona tiene derecho a la libertad de reunión y de asociación pacífica",
+        "c": "Todo individuo tiene derecho a la libertad de opinión y de expresión, incluyendo el de no ser molestado por sus opiniones",
+        "d": "El derecho a la libertad de opinión permite ser sancionado únicamente por mantener una opinión política minoritaria"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 18 a 20 DUDH reconocen la libertad de pensamiento, conciencia y religión (incluido el cambio de religión o creencia), la libertad de opinión y expresión sin ser molestado por las propias opiniones, y la libertad de reunión y asociación pacífica.",
+      "ley": "Arts. 18 a 20 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 10 y 11 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El derecho a un tribunal independiente e imparcial solo se reconoce en materia civil, no en materia penal",
+        "b": "Nadie será condenado por actos u omisiones que en el momento de cometerse no fueran delictivos según el Derecho nacional o internacional",
+        "c": "Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad conforme a la ley",
+        "d": "Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 10 y 11 DUDH reconocen el derecho a un juicio público con todas las garantías ante un tribunal independiente e imparcial, la presunción de inocencia hasta que se pruebe la culpabilidad conforme a la ley, y la prohibición de la retroactividad penal desfavorable.",
+      "ley": "Arts. 10 y 11 DUDH"
+    },
+    {
+      "id": "tema_01_test_22_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 1 - Derechos Humanos. Sobre Arts. 6 a 9 DUDH. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Todos son iguales ante la ley y tienen derecho a igual protección de la ley sin distinción",
+        "b": "Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica",
+        "c": "La igualdad ante la ley admite excepciones según la posición económica de la persona",
+        "d": "Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 6 a 9 DUDH reconocen el derecho al reconocimiento de la personalidad jurídica en todas partes, la igualdad ante la ley, el derecho a un recurso efectivo ante tribunales nacionales, y la prohibición de la detención, prisión o destierro arbitrarios.",
+      "ley": "Arts. 6 a 9 DUDH"
+    }
+  ]
+}

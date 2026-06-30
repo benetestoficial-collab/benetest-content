@@ -1,0 +1,328 @@
+{
+  "tema_numero": 22,
+  "tema": "Tema 22 - Fuerzas y Cuerpos de Seguridad",
+  "test": "Test 17",
+  "preguntas": [
+    {
+      "id": "tema_22_test_17_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Señale la opción que reproduce LITERALMENTE el art. 10.1 LOFCS:",
+      "options": {
+        "a": "Corresponde al Ministro de Defensa la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "b": "Corresponde al Ministro del Interior la administración general de la seguridad pública y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "c": "Corresponde al Secretario de Estado de Seguridad la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "d": "Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 10.1 LOFCS. Las variantes incorrectas cambian 'Ministro del Interior' por 'Ministro de Defensa' o por 'Secretario de Estado de Seguridad', y sustituyen 'seguridad ciudadana' por 'seguridad pública' o 'mando superior' por 'mando ordinario'.",
+      "ley": "art. 10.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 16 y 17 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Cuerpo Nacional de Policía se organiza de acuerdo con los principios de jerarquía y disciplina",
+        "b": "Las escalas del Cuerpo Nacional de Policía se determinan libremente por cada Comisaría sin marco legal común",
+        "c": "El sistema de acceso al Cuerpo Nacional de Policía es competencia exclusiva de cada Comunidad Autónoma",
+        "d": "El Cuerpo Nacional de Policía se organiza al margen de cualquier criterio de jerarquía"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 16 y 17 LOFCS organizan el Cuerpo Nacional de Policía conforme a los principios de jerarquía y disciplina, estableciendo que el ingreso se realiza mediante convocatoria pública y los procedimientos legalmente previstos.",
+      "ley": "Arts. 16 y 17 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.1.d) y e) LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los miembros de las FCS solo colaboran con la Administración de Justicia cuando un superior jerárquico lo autoriza expresamente",
+        "b": "Los miembros de las FCS deben colaborar con la Administración de Justicia y auxiliarla en los términos establecidos en la ley",
+        "c": "La obediencia debida exime siempre de responsabilidad al agente, incluso ante órdenes manifiestamente delictivas",
+        "d": "Las órdenes contrarias a la Constitución deben cumplirse igualmente, reservando la protesta para un momento posterior"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 5.1.d) y e) LOFCS excluye la obediencia debida como amparo de órdenes manifiestamente delictivas o contrarias a la Constitución y las leyes, e impone a los miembros de las FCS el deber de colaborar con la Administración de Justicia y auxiliarla en los términos legales.",
+      "ley": "Art. 5.1.d) y e) LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 34 a 36 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El régimen funcionarial de la Policía Judicial es completamente distinto e independiente del aplicable a las FCSE",
+        "b": "Los Jueces y Fiscales carecen de cualquier potestad para impartir instrucciones a los funcionarios de Policía Judicial",
+        "c": "Salvo lo dispuesto en este capítulo, el régimen funcionarial del personal integrado en las Unidades de Policía Judicial es el de las FCSE",
+        "d": "Los informes de la autoridad judicial o fiscal sobre un expediente disciplinario carecen de cualquier valor procedimental"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 34 a 36 LOFCS reconocen a Jueces, Tribunales y Ministerio Fiscal la facultad de impartir órdenes e instrucciones a la Policía Judicial e instar el ejercicio de la potestad disciplinaria mediante los informes pertinentes, precisando que el régimen funcionarial de este personal es, salvo lo dispuesto en el capítulo, el de las FCSE.",
+      "ley": "Arts. 34 a 36 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 11.1 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El personal de Policía Local y Autonómica nunca puede tener la consideración de colaborador de las FCSE",
+        "b": "Entre las funciones de las FCSE está investigar los delitos para descubrir y detener a los presuntos culpables",
+        "c": "La colaboración con Protección Civil en catástrofes está expresamente excluida de las funciones de las FCSE",
+        "d": "Las FCSE no tienen ninguna función relacionada con la captación de datos de interés para la seguridad pública"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 11.1 LOFCS incluye entre las funciones de las FCSE investigar los delitos, captar y analizar datos de interés para el orden y la seguridad pública, y colaborar con Protección Civil en casos de catástrofe, atribuyendo carácter colaborador de las FCSE, para el cumplimiento de dicha función, al personal de Policía de las CCAA y Corporaciones Locales.",
+      "ley": "Art. 11.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Señale la opción que reproduce LITERALMENTE el art. 10.1 LOFCS:",
+      "options": {
+        "a": "Corresponde al Secretario de Estado de Seguridad la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "b": "Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "c": "Corresponde al Ministro del Interior la administración general de la seguridad pública y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "d": "Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando ordinario de las Fuerzas y Cuerpos de Seguridad del Estado."
+      },
+      "correct": "b",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 10.1 LOFCS. Las variantes incorrectas cambian 'Ministro del Interior' por 'Ministro de Defensa' o por 'Secretario de Estado de Seguridad', y sustituyen 'seguridad ciudadana' por 'seguridad pública' o 'mando superior' por 'mando ordinario'.",
+      "ley": "art. 10.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 11.1 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las FCSE carecen de cualquier función de auxilio a personas o bienes en situación de peligro",
+        "b": "Ejecutar las órdenes de las autoridades competentes es una función exclusiva de la Guardia Civil, no del conjunto de las FCSE",
+        "c": "Las FCSE tienen como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+        "d": "La misión de las FCSE se limita exclusivamente a la persecución de delitos ya cometidos, sin función preventiva alguna"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 11.1 LOFCS atribuye a las FCSE la misión de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana, mediante funciones como velar por el cumplimiento de las leyes, auxiliar y proteger a personas y bienes en peligro, y prevenir la comisión de actos delictivos.",
+      "ley": "Art. 11.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_008",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.3 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Deben identificarse debidamente como tales en el momento de efectuar una detención",
+        "b": "Deben dar cumplimiento y observancia a las normas legales y reglamentarias que garantizan los derechos del ciudadano detenido",
+        "c": "Velarán por la vida e integridad física de las personas a quienes detuvieren o que se encuentren bajo su custodia",
+        "d": "Las normas que garantizan los derechos del detenido son meramente orientativas para los agentes"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 5.3 LOFCS, sobre el tratamiento de detenidos, obliga a los miembros de las FCS a identificarse en la detención, a velar por la vida e integridad física de detenidos y custodiados, y a observar las normas legales y reglamentarias que garantizan sus derechos.",
+      "ley": "Art. 5.3 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Señale la opción que reproduce LITERALMENTE el art. 10.1 LOFCS:",
+      "options": {
+        "a": "Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "b": "Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando ordinario de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "c": "Corresponde al Secretario de Estado de Seguridad la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "d": "Corresponde al Ministro de Defensa la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 10.1 LOFCS. Las variantes incorrectas cambian 'Ministro del Interior' por 'Ministro de Defensa' o por 'Secretario de Estado de Seguridad', y sustituyen 'seguridad ciudadana' por 'seguridad pública' o 'mando superior' por 'mando ordinario'.",
+      "ley": "art. 10.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 42 a 44 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las funciones de Policía Judicial de las Policías Autonómicas son siempre idénticas a las de la Guardia Civil sin matiz alguno",
+        "b": "Las Policías Autonómicas tienen vedado por ley el ejercicio de cualquier función de Policía Judicial",
+        "c": "Los Cuerpos de Policía de las CCAA pueden ejercer, además, funciones de Policía Judicial en los términos establecidos legalmente",
+        "d": "Los miembros de las Policías Autonómicas carecen de la condición de agentes de la autoridad en el ejercicio de sus funciones"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 42 a 44 LOFCS reconocen a los Cuerpos de Policía de las Comunidades Autónomas, en los términos legalmente establecidos, el ejercicio de funciones de Policía Judicial, atribuyendo a sus miembros la condición de agentes de la autoridad.",
+      "ley": "Arts. 42 a 44 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 13 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El mando de la Guardia Civil puede ejercerlo cualquier funcionario civil ajeno al Cuerpo",
+        "b": "El Ministerio de Defensa no tiene potestad alguna para encomendar misiones a la Guardia Civil",
+        "c": "Las funciones de carácter militar de la Guardia Civil son fijadas por el Ministerio de Defensa o por el Gobierno",
+        "d": "Las funciones de carácter militar de la Guardia Civil solo pueden ser determinadas por el Ministerio del Interior"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 13 LOFCS reserva el mando de la Guardia Civil a oficiales de su propia procedencia en el desempeño de sus funciones, sean ordinarias o de naturaleza militar, correspondiendo al Ministerio de Defensa o al Gobierno fijar las misiones de carácter militar que se le encomienden.",
+      "ley": "Art. 13 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.4, 5.5 y 5.6 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Deben guardar riguroso secreto respecto de las informaciones que conozcan por razón de su cargo",
+        "b": "Solo deben intervenir ante un riesgo grave para las personas si se encuentran formalmente de servicio en ese momento",
+        "c": "Son responsables personal y directamente por los actos que en su actuación profesional llevaren a cabo infringiendo las normas legales",
+        "d": "Deben actuar con la decisión necesaria, sin demora, cuando de ello dependa evitar un daño grave, inmediato e irreparable"
+      },
+      "correct": "b",
+      "explicacion": "Los apartados 4 a 6 del artículo 5 LOFCS exigen dedicación profesional permanente -incluso fuera de servicio ante riesgo grave-, decisión sin demora para evitar daños graves e irreparables, riguroso secreto profesional, y responsabilidad personal y directa del agente por los actos contrarios a las normas legales o reglamentarias.",
+      "ley": "Art. 5.4, 5.5 y 5.6 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.4, 5.5 y 5.6 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Deben actuar con la decisión necesaria, sin demora, cuando de ello dependa evitar un daño grave, inmediato e irreparable",
+        "b": "La responsabilidad por una actuación irregular recae siempre y exclusivamente en la Administración, nunca en el agente",
+        "c": "Solo deben intervenir ante un riesgo grave para las personas si se encuentran formalmente de servicio en ese momento",
+        "d": "Pueden divulgar libremente la información reservada que conozcan por razón de su cargo una vez finalizado el turno"
+      },
+      "correct": "a",
+      "explicacion": "Los apartados 4 a 6 del artículo 5 LOFCS exigen dedicación profesional permanente -incluso fuera de servicio ante riesgo grave-, decisión sin demora para evitar daños graves e irreparables, riguroso secreto profesional, y responsabilidad personal y directa del agente por los actos contrarios a las normas legales o reglamentarias.",
+      "ley": "Art. 5.4, 5.5 y 5.6 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_014",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Señale la opción que reproduce LITERALMENTE el art. 9 LOFCS:",
+      "options": {
+        "a": "Las Fuerzas y Cuerpos de Seguridad de las Comunidades Autónomas ejercen sus funciones en todo el territorio nacional.",
+        "b": "Las Fuerzas y Cuerpos de Seguridad del Estado podrán ejercer sus funciones en todo el territorio nacional.",
+        "c": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercieron sus funciones en todo el territorio nacional.",
+        "d": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercen sus funciones en todo el territorio nacional."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9 LOFCS. Las variantes incorrectas cambian 'territorio nacional' por 'territorio autonómico', sustituyen 'del Estado' por 'de las Comunidades Autónomas', cambian 'ejercen' por 'podrán ejercer', o alteran el tiempo verbal a 'ejercieron'.",
+      "ley": "art. 9 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 50 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Juntas de Seguridad carecen de cualquier finalidad de armonización entre Cuerpos policiales",
+        "b": "La constitución de Juntas de Seguridad está reservada a los municipios sin Cuerpo de Policía propio",
+        "c": "Las Juntas de Seguridad pueden constituirse en las Comunidades Autónomas y en los municipios que dispongan de Cuerpos de Policía propios",
+        "d": "El artículo 50 LOFCS prohíbe expresamente la creación de órganos de coordinación a nivel local"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 50 LOFCS prevé la posibilidad de constituir Juntas de Seguridad en el ámbito autonómico y en los municipios que dispongan de Cuerpos de Policía propios, como mecanismo de armonización de la actuación de los distintos Cuerpos y Fuerzas de Seguridad.",
+      "ley": "Art. 50 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 6 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los estudios cursados en centros de las Administraciones Públicas nunca pueden ser objeto de convalidación",
+        "b": "Esta promoción se ajustará a los principios de objetividad, igualdad de oportunidades, mérito y capacidad",
+        "c": "La formación y perfeccionamiento de los miembros de las FCS se adecuará a los principios señalados en el artículo 5",
+        "d": "Los Poderes Públicos promoverán las condiciones más favorables para la promoción profesional, social y humana de los miembros de las FCS"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 6 LOFCS encomienda a los Poderes Públicos promover condiciones favorables para la promoción profesional, social y humana de los miembros de las FCS conforme a los principios de objetividad, igualdad de oportunidades, mérito y capacidad, vinculando su formación a los principios básicos de actuación del artículo 5.",
+      "ley": "Art. 6 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 7 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Administraciones Públicas competentes proveerán a los miembros de las FCS de los medios personales y materiales necesarios",
+        "b": "La movilidad de los miembros de las FCS queda excluida de cualquier regulación legal",
+        "c": "Los criterios de igualdad, mérito y capacidad solo se aplican al ingreso, no a la promoción interna",
+        "d": "Las Administraciones Públicas no tienen obligación legal de dotar de medios materiales a las FCS"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 7 LOFCS exige que la selección, formación, promoción y movilidad de los miembros de las FCS respeten los principios de igualdad, mérito y capacidad, y obliga a las Administraciones competentes a proveerles los medios personales y materiales necesarios para el cumplimiento de sus funciones.",
+      "ley": "Art. 7 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 9 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Guardia Civil depende en exclusiva del Ministro de Defensa, sin relación alguna con el Ministerio del Interior",
+        "b": "El Cuerpo Nacional de Policía es un Instituto Armado de naturaleza civil, dependiente del Ministro del Interior",
+        "c": "Las FCSE solo pueden ejercer sus funciones en el territorio de la Comunidad Autónoma donde tengan su sede principal",
+        "d": "En tiempo de guerra y durante el estado de sitio, la Guardia Civil sigue dependiendo del Ministro del Interior"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 9 LOFCS define a las Fuerzas y Cuerpos de Seguridad del Estado, que ejercen sus funciones en todo el territorio nacional y están integradas por el Cuerpo Nacional de Policía (Instituto Armado de naturaleza civil) y la Guardia Civil (Instituto Armado de naturaleza militar), dependiente del Ministro del Interior en sus funciones ordinarias y del Ministro de Defensa en las militares, pasando a depender en exclusiva de este último en tiempo de guerra y durante el estado de sitio.",
+      "ley": "Art. 9 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.1 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Pueden anteponer su ideología política personal al ejercicio neutral de sus funciones cuando lo consideren oportuno",
+        "b": "La jerarquía y subordinación quedan suspendidas cuando el agente discrepa del criterio de su superior",
+        "c": "La obediencia debida ampara cualquier orden recibida, incluso si constituye manifiestamente un delito",
+        "d": "Deben actuar con integridad y dignidad, absteniéndose de todo acto de corrupción y oponiéndose a él resueltamente"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 5.1 LOFCS, sobre adecuación al ordenamiento jurídico, exige a los miembros de las FCS respeto absoluto a la Constitución, neutralidad política e imparcialidad sin discriminación, integridad y oposición a la corrupción, y sujeción a jerarquía y subordinación, sin que la obediencia debida ampare órdenes que constituyan delito o sean contrarias a la Constitución o las leyes.",
+      "ley": "Art. 5.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_17_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 51 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Policías Locales pueden actuar libremente en cualquier punto del territorio nacional sin restricción alguna",
+        "b": "La legislación de Régimen Local resulta irrelevante para la creación de Cuerpos de Policía Local",
+        "c": "La creación de un Cuerpo de Policía Local corresponde en exclusiva a la Comunidad Autónoma respectiva, no al Municipio",
+        "d": "Corresponde a los Municipios crear Cuerpos de Policía Local, de acuerdo con lo establecido en la legislación de Régimen Local"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 51 LOFCS reconoce a los Municipios la facultad de crear Cuerpos de Policía Local conforme a la legislación de Régimen Local, ejerciendo sus funciones, con carácter general, en el ámbito territorial del propio Municipio.",
+      "ley": "Art. 51 LOFCS",
+      "subtema": "22.1"
+    }
+  ],
+  "subtema": "22.1"
+}

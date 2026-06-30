@@ -1,0 +1,307 @@
+{
+  "tema_numero": 6,
+  "tema": "Tema 6 - Poder Judicial",
+  "test": "Test 22",
+  "preguntas": [
+    {
+      "id": "tema_06_test_22_001",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 544 a 546 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El juramento o promesa de acatamiento a la Constitución es opcional para Abogados y Procuradores",
+        "b": "Los poderes públicos no tienen obligación alguna de garantizar la asistencia letrada",
+        "c": "Es obligación de los poderes públicos garantizar la defensa y la asistencia de Abogado en los términos constitucionales y legales",
+        "d": "Las partes nunca pueden elegir libremente a su Abogado, que les es siempre asignado de oficio"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 544 a 546 LOPJ exigen a Abogados, Procuradores y Graduados Sociales el juramento o promesa de acatamiento a la Constitución y, con carácter general, la colegiación obligatoria para actuar ante Juzgados y Tribunales, reconocen la libre designación de representante y defensor por las partes salvo previsión legal en contrario, y obligan a los poderes públicos a garantizar la defensa y asistencia letrada.",
+      "ley": "Arts. 544 a 546 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 541 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Ministerio Fiscal depende jerárquicamente del Consejo General del Poder Judicial",
+        "b": "El Ministerio Fiscal vela por la independencia de los Tribunales",
+        "c": "El Ministerio Fiscal se rige por lo que disponga su Estatuto Orgánico",
+        "d": "El Ministerio Fiscal procura ante los Tribunales la satisfacción del interés social"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 541 LOPJ encomienda al Ministerio Fiscal promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público, velar por la independencia de los Tribunales y procurar la satisfacción del interés social, rigiéndose por su propio Estatuto Orgánico sin integrar orgánicamente el Poder Judicial.",
+      "ley": "Art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_003",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 99 y 100 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción habrá un Juzgado de Paz",
+        "b": "Los Jueces de Paz carecen de cualquier competencia penal, por mínima que sea",
+        "c": "El Juzgado de Paz tiene jurisdicción dentro del término municipal correspondiente",
+        "d": "Los Jueces de Paz conocen en el orden civil y penal de los asuntos que la ley les atribuya"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 99 y 100 LOPJ disponen que existirá un Juzgado de Paz en cada municipio que no cuente con Juzgado de Primera Instancia e Instrucción, con jurisdicción en el término municipal, conociendo sus titulares en el orden civil y penal de los asuntos que la ley les atribuya y desempeñando también funciones de Registro Civil.",
+      "ley": "Arts. 99 y 100 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Señale la opción que reproduce LITERALMENTE el art. 398 LOPJ:",
+      "options": {
+        "a": "Los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito.",
+        "b": "Los Jueces y Magistrados en situación de excedencia solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito.",
+        "c": "Los Jueces y Magistrados en servicio activo deberán ser detenidos por orden de Juez competente o en caso de flagrante delito.",
+        "d": "Los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de autoridad competente o en caso de flagrante delito."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 398 LOPJ. Las variantes incorrectas cambian 'delito' por 'falta', 'Juez' por 'autoridad', 'servicio activo' por 'situación de excedencia', o 'podrán' por 'deberán'.",
+      "ley": "art. 398 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_005",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 62 y 63 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Presidente de la Audiencia Nacional es el Presidente nato de todas sus Salas",
+        "b": "La Audiencia Nacional tiene jurisdicción limitada a la provincia de Madrid",
+        "c": "La Audiencia Nacional tiene su sede en la villa de Madrid",
+        "d": "La Audiencia Nacional tiene jurisdicción en toda España"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 62 y 63 LOPJ establecen que la Audiencia Nacional, con sede en Madrid, tiene jurisdicción en toda España, y que su Presidente, que ostenta la consideración de Presidente de Sala del Tribunal Supremo, es el Presidente nato de todas las Salas de la Audiencia Nacional.",
+      "ley": "Arts. 62 y 63 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Señale la opción que reproduce LITERALMENTE el art. 541 LOPJ:",
+      "options": {
+        "a": "El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley.",
+        "b": "El Ministerio Fiscal tuvo por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley.",
+        "c": "El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por el Gobierno.",
+        "d": "El Consejo General del Poder Judicial tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 541 LOPJ. Las variantes incorrectas cambian 'público' por 'privado', sustituyen 'Ministerio Fiscal' por 'Consejo General del Poder Judicial', cambian 'la ley' por 'el Gobierno', o alteran el tiempo verbal 'tiene' por 'tuvo'.",
+      "ley": "art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 82 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las cuestiones de competencia penal entre Juzgados de distintas provincias las resuelve siempre la Audiencia Provincial de Madrid",
+        "b": "Las Audiencias Provinciales conocen de recursos contra resoluciones de los Juzgados de Vigilancia Penitenciaria, salvo competencia de la Audiencia Nacional",
+        "c": "Las Audiencias Provinciales conocen de cuestiones de competencia en materia civil y penal entre Juzgados de la provincia sin otro superior común",
+        "d": "Las Audiencias Provinciales conocen, en el orden penal, de las causas por delito salvo las atribuidas a los Juzgados de lo Penal u otros Tribunales"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 82 LOPJ atribuye a las Audiencias Provinciales, en el orden penal, el conocimiento de causas por delito no atribuidas a otros órganos, recursos contra Juzgados de Instrucción, de lo Penal, de Vigilancia Penitenciaria y de Menores de la provincia, y cuestiones de competencia civil y penal entre Juzgados de la provincia sin superior común.",
+      "ley": "Art. 82 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 70 a 72 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Tribunal Superior de Justicia toma el nombre de la Comunidad Autónoma y extiende su jurisdicción al ámbito de ésta",
+        "b": "El Tribunal Superior de Justicia culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma",
+        "c": "El Tribunal Superior de Justicia está integrado por las Salas de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social",
+        "d": "El Presidente del Tribunal Superior de Justicia nunca tiene consideración equiparable a Magistrado del Tribunal Supremo"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 70 a 72 LOPJ establecen que el Tribunal Superior de Justicia culmina la organización judicial en el ámbito de la Comunidad Autónoma cuyo nombre toma, sin perjuicio de la jurisdicción del Tribunal Supremo, y está integrado por las Salas de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social, presidido por quien también preside la Sala de lo Civil y Penal con consideración de Magistrado del Tribunal Supremo.",
+      "ley": "Arts. 70 a 72 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 101 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Jueces de Paz son elegidos por el Pleno del Ayuntamiento con el voto favorable de la mayoría absoluta de sus miembros",
+        "b": "Si el Ayuntamiento no efectúa la propuesta en tres meses, la Sala de Gobierno del TSJ designa al Juez de Paz",
+        "c": "Los Jueces de Paz y sus sustitutos son nombrados para un periodo de cuatro años por la Sala de Gobierno del Tribunal Superior de Justicia",
+        "d": "Si el Ayuntamiento no propone candidato, el cargo queda vacante indefinidamente sin que nadie pueda designarlo"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 101 LOPJ regula el nombramiento de los Jueces de Paz y sus sustitutos por un periodo de cuatro años, mediante designación de la Sala de Gobierno del Tribunal Superior de Justicia sobre la persona elegida por el Pleno del Ayuntamiento por mayoría absoluta; si el Ayuntamiento no propone en tres meses, la propia Sala de Gobierno procede a la designación.",
+      "ley": "Art. 101 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 64 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Audiencia Nacional está integrada por la Sala de Apelación",
+        "b": "La Audiencia Nacional está integrada por la Sala de lo Penal",
+        "c": "La Audiencia Nacional está integrada por una Sala de lo Civil",
+        "d": "La Audiencia Nacional está integrada por la Sala de lo Social"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 64 LOPJ enumera las Salas de la Audiencia Nacional: de Apelación, de lo Penal, de lo Contencioso-Administrativo y de lo Social; no existe Sala de lo Civil al carecer de competencias en ese orden jurisdiccional, y pueden crearse Secciones cuando el volumen de asuntos lo aconseje.",
+      "ley": "Art. 64 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_011",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Señale la opción que reproduce LITERALMENTE el art. 541 LOPJ:",
+      "options": {
+        "a": "El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés privado tutelado por la ley.",
+        "b": "El Consejo General del Poder Judicial tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley.",
+        "c": "El Ministerio Fiscal tuvo por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley.",
+        "d": "El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 541 LOPJ. Las variantes incorrectas cambian 'público' por 'privado', sustituyen 'Ministerio Fiscal' por 'Consejo General del Poder Judicial', cambian 'la ley' por 'el Gobierno', o alteran el tiempo verbal 'tiene' por 'tuvo'.",
+      "ley": "art. 541 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Señale la opción que reproduce LITERALMENTE el art. 398 LOPJ:",
+      "options": {
+        "a": "Los Jueces y Magistrados en servicio activo deberán ser detenidos por orden de Juez competente o en caso de flagrante delito.",
+        "b": "Los Jueces y Magistrados en situación de excedencia solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito.",
+        "c": "Los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante falta.",
+        "d": "Los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 398 LOPJ. Las variantes incorrectas cambian 'delito' por 'falta', 'Juez' por 'autoridad', 'servicio activo' por 'situación de excedencia', o 'podrán' por 'deberán'.",
+      "ley": "art. 398 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 84 y 85 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Juzgados de Primera Instancia conocen en primera instancia de los juicios civiles no atribuidos a otros Juzgados o Tribunales",
+        "b": "Los Juzgados de Primera Instancia e Instrucción tienen siempre su sede en la capital de la Comunidad Autónoma",
+        "c": "En cada partido habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital de aquél",
+        "d": "Los Juzgados de Primera Instancia conocen de los recursos contra resoluciones de los Juzgados de Paz del partido"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 84 y 85 LOPJ establecen que en cada partido judicial habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital del partido, que conocen en primera instancia de los asuntos civiles no atribuidos a otros órganos, de la jurisdicción voluntaria y de los recursos contra los Juzgados de Paz del partido.",
+      "ley": "Arts. 84 y 85 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 74 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "La Sala de lo Contencioso-Administrativo del TSJ conoce en segunda instancia de apelaciones contra sentencias de los Juzgados de lo Contencioso-Administrativo",
+        "b": "La Sala de lo Contencioso-Administrativo del TSJ conoce, en única instancia, de recursos contra actos de Entidades locales y de la Comunidad Autónoma",
+        "c": "Las apelaciones contra Juzgados de lo Contencioso-Administrativo corresponden siempre al Tribunal Supremo",
+        "d": "La Sala de lo Contencioso-Administrativo del TSJ conoce de recursos contra disposiciones generales emanadas de las Comunidades Autónomas"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 74 LOPJ atribuye a la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia el conocimiento en única instancia de recursos contra actos de Entidades locales, de la Administración autonómica y contra disposiciones generales de ambas, así como las apelaciones en segunda instancia frente a los Juzgados de lo Contencioso-Administrativo.",
+      "ley": "Art. 74 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_015",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 61 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Esta Sala conoce de los procesos de declaración de ilegalidad y disolución de partidos políticos",
+        "b": "Esta Sala conoce de los recursos de revisión contra sentencias dictadas en única instancia por la Sala de lo Contencioso-Administrativo",
+        "c": "Esta Sala conoce de los incidentes de recusación del Presidente del Tribunal Supremo",
+        "d": "La declaración de ilegalidad y disolución de partidos políticos corresponde al Tribunal Constitucional y no a esta Sala"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 61 LOPJ regula una Sala especial, integrada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una, que conoce de recursos de revisión contra la Sala de lo Contencioso-Administrativo, de incidentes de recusación de altos cargos del Tribunal y de los procesos de ilegalización de partidos políticos, conforme a la Ley Orgánica 6/2002.",
+      "ley": "Art. 61 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 398 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "En caso de flagrante delito, el detenido debe ser entregado siempre al Ministerio del Interior y no a la autoridad judicial",
+        "b": "En caso de flagrante delito se tomarán las medidas de aseguramiento indispensables y se entregará al detenido al Juez de Instrucción más próximo",
+        "c": "Los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito",
+        "d": "De toda detención se dará cuenta, por el medio más rápido, al Presidente del Tribunal o Audiencia de quien dependa el detenido"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 398 LOPJ, dentro de la inmunidad judicial, dispone que los Jueces y Magistrados en servicio activo solo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito, debiendo en este último caso entregarse al detenido al Juez de Instrucción más próximo y comunicarse de inmediato al Presidente del Tribunal o Audiencia de quien dependa.",
+      "ley": "Art. 398 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_017",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Arts. 59 y 60 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las cuestiones de competencia entre órganos del mismo orden jurisdiccional las resuelve siempre el Tribunal Constitucional",
+        "b": "La Sala de lo Social del Tribunal Supremo conoce de los recursos de casación en materia penal",
+        "c": "Cada Sala del Tribunal Supremo conoce de las recusaciones contra los Magistrados que la componen",
+        "d": "Las recusaciones contra Magistrados del Tribunal Supremo las resuelve siempre el Consejo General del Poder Judicial"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 59 y 60 LOPJ atribuyen a la Sala de lo Social del Tribunal Supremo los recursos de casación y revisión propios de ese orden, y a cada Sala del Tribunal Supremo el conocimiento de las recusaciones de sus propios Magistrados y de las cuestiones de competencia entre órganos del mismo orden sin superior común, quedando excluido de la Sala el Magistrado recusado.",
+      "ley": "Arts. 59 y 60 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 543 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Procuradores pueden realizar los actos de comunicación a las partes del proceso que la ley les autorice",
+        "b": "Corresponde exclusivamente a los Procuradores la representación de las partes en todo tipo de procesos, salvo que la ley autorice otra cosa",
+        "c": "Los Procuradores tienen reservada en exclusiva la dirección jurídica y defensa técnica de las partes",
+        "d": "En el ejercicio de su profesión, los Procuradores pueden ser sustituidos por otro Procurador"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 543 LOPJ reserva a los Procuradores, salvo excepción legal, la representación de las partes en todo tipo de procesos, permitiéndoles realizar los actos de comunicación procesal que la ley les autorice y admitiendo su sustitución por otro Procurador en el ejercicio de su profesión.",
+      "ley": "Art. 543 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 549 LOPJ. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Corresponde a estas unidades la realización material de actuaciones que exijan el ejercicio de la coerción y ordenare la autoridad judicial o fiscal",
+        "b": "Las unidades de Policía Judicial pueden encomendarse cualquier actuación administrativa ajena a la función de Policía Judicial",
+        "c": "Corresponde a estas unidades el auxilio a la autoridad judicial y fiscal en actuaciones fuera de su sede que requieran presencia policial",
+        "d": "Corresponde a estas unidades garantizar el cumplimiento de las órdenes y resoluciones de la autoridad judicial o fiscal"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 549 LOPJ enumera las funciones específicas de las unidades de Policía Judicial: averiguación de responsables y circunstancias del delito y detención de los primeros, auxilio a la autoridad judicial y fiscal fuera de su sede, ejecución material de actuaciones coercitivas ordenadas judicial o fiscalmente, y garantía del cumplimiento de órdenes y resoluciones judiciales o fiscales, sin que pueda encomendárseles otra actuación ajena a esta función.",
+      "ley": "Art. 549 LOPJ"
+    },
+    {
+      "id": "tema_06_test_22_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 6 - Poder Judicial. Sobre Art. 547 LOPJ. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los miembros de las Fuerzas y Cuerpos de Seguridad solo prestan auxilio judicial si dependen del Gobierno central",
+        "b": "Esta función genérica compete, cuando fueren requeridos para prestarla, a todos los miembros de las Fuerzas y Cuerpos de Seguridad",
+        "c": "La función genérica de Policía Judicial no requiere requerimiento previo de autoridad judicial o fiscal",
+        "d": "El auxilio a Juzgados y Tribunales en la averiguación de delitos corresponde en exclusiva al Ministerio Fiscal"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 547 LOPJ atribuye la función genérica de Policía Judicial -auxilio a Juzgados, Tribunales y Ministerio Fiscal en la averiguación de los delitos- a todos los miembros de las Fuerzas y Cuerpos de Seguridad cuando son requeridos para prestarla, dentro del ámbito de sus competencias, sin distinción de su dependencia central, autonómica o local.",
+      "ley": "Art. 547 LOPJ"
+    }
+  ]
+}

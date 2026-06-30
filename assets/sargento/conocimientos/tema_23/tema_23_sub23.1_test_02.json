@@ -1,0 +1,328 @@
+{
+  "tema_numero": 23,
+  "tema": "Tema 23 - Estatuto del Personal",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_23_test_02_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 5 a 7 Ley 29/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los guardias civiles deberán actuar con arreglo a los principios establecidos en el artículo 5 de la LO 2/1986 y en el Título III de la LO 11/2007",
+        "b": "Se realizarán evaluaciones periódicas para asegurar la efectividad del principio de igualdad de género en la Guardia Civil",
+        "c": "El código de conducta de la Guardia Civil incluye reglas esenciales de comportamiento de sus miembros",
+        "d": "Las evaluaciones de igualdad de género en la Guardia Civil son opcionales y dependen de la voluntad de cada unidad"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 5 a 7 de la Ley 29/2014 prevén evaluaciones periódicas de igualdad de género, remiten el código de conducta de los guardias civiles a los principios del artículo 5 de la LO 2/1986 y del Título III de la LO 11/2007, e incluyen reglas esenciales de comportamiento.",
+      "ley": "Arts. 5 a 7 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_002",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Señale la opción que reproduce LITERALMENTE el art. 3.1 Ley 29/2014:",
+      "options": {
+        "a": "Son guardias civiles los extranjeros vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "b": "Son guardias civiles los españoles vinculados al Cuerpo Nacional de Policía por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "c": "Son guardias civiles los españoles vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "d": "Son guardias civiles los españoles vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter temporal como miembros de las Fuerzas y Cuerpos de Seguridad del Estado."
+      },
+      "correct": "c",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 3.1 de la Ley 29/2014. Las variantes incorrectas cambian 'permanente' por 'temporal', 'españoles' por 'extranjeros', 'Cuerpo de la Guardia Civil' por 'Cuerpo Nacional de Policía', o 'Fuerzas y Cuerpos de Seguridad del Estado' por 'Fuerzas Armadas'.",
+      "ley": "art. 3.1 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 14 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Consejo de la Guardia Civil ejerce las competencias en materia de régimen de personal que le atribuye la LO 11/2007",
+        "b": "El Consejo de la Guardia Civil carece de cualquier finalidad relacionada con las condiciones profesionales del personal",
+        "c": "Las competencias del Consejo de la Guardia Civil en materia de personal las atribuye la Ley 5/2014 de Seguridad Privada",
+        "d": "El Consejo de la Guardia Civil está integrado exclusivamente por representantes del Ministerio de Defensa"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 14 de la Ley 29/2014 configura el Consejo de la Guardia Civil como órgano colegiado de participación de representantes de los miembros del Cuerpo y de los Ministerios de Defensa e Interior, con el fin de mejorar las condiciones profesionales y el funcionamiento del Instituto, ejerciendo las competencias que le atribuye la LO 11/2007.",
+      "ley": "Art. 14 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_004",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Señale la opción que reproduce LITERALMENTE el art. 3.1 Ley 29/2014:",
+      "options": {
+        "a": "Son guardias civiles los españoles vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "b": "Son guardias civiles los españoles vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas Armadas.",
+        "c": "Son guardias civiles los españoles vinculados al Cuerpo Nacional de Policía por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "d": "Son guardias civiles los españoles vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter temporal como miembros de las Fuerzas y Cuerpos de Seguridad del Estado."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 3.1 de la Ley 29/2014. Las variantes incorrectas cambian 'permanente' por 'temporal', 'españoles' por 'extranjeros', 'Cuerpo de la Guardia Civil' por 'Cuerpo Nacional de Policía', o 'Fuerzas y Cuerpos de Seguridad del Estado' por 'Fuerzas Armadas'.",
+      "ley": "art. 3.1 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 5 a 7 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las evaluaciones de igualdad de género en la Guardia Civil son opcionales y dependen de la voluntad de cada unidad",
+        "b": "El código de conducta de la Guardia Civil incluye reglas esenciales de comportamiento de sus miembros",
+        "c": "Los guardias civiles deben actuar conforme a principios que la Ley 29/2014 no concreta en ninguna otra norma",
+        "d": "El código de conducta de la Guardia Civil es un documento meramente orientativo sin ninguna base legal"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 5 a 7 de la Ley 29/2014 prevén evaluaciones periódicas de igualdad de género, remiten el código de conducta de los guardias civiles a los principios del artículo 5 de la LO 2/1986 y del Título III de la LO 11/2007, e incluyen reglas esenciales de comportamiento.",
+      "ley": "Arts. 5 a 7 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Señale la opción que reproduce LITERALMENTE el art. 3.1 Ley 29/2014:",
+      "options": {
+        "a": "Son guardias civiles los españoles vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "b": "Son guardias civiles los españoles vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas Armadas.",
+        "c": "Son guardias civiles los españoles vinculados al Cuerpo Nacional de Policía por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "d": "Son guardias civiles los extranjeros vinculados al Cuerpo de la Guardia Civil por una relación de servicios profesionales de carácter permanente como miembros de las Fuerzas y Cuerpos de Seguridad del Estado."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 3.1 de la Ley 29/2014. Las variantes incorrectas cambian 'permanente' por 'temporal', 'españoles' por 'extranjeros', 'Cuerpo de la Guardia Civil' por 'Cuerpo Nacional de Policía', o 'Fuerzas y Cuerpos de Seguridad del Estado' por 'Fuerzas Armadas'.",
+      "ley": "art. 3.1 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_007",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 14 Ley 29/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El Consejo de la Guardia Civil ejerce las competencias en materia de régimen de personal que le atribuye la LO 11/2007",
+        "b": "Las competencias del Consejo de la Guardia Civil en materia de personal las atribuye la Ley 5/2014 de Seguridad Privada",
+        "c": "El Consejo de la Guardia Civil es el órgano colegiado en el que participan representantes de los miembros del Cuerpo y de los Ministerios de Defensa y del Interior",
+        "d": "El Consejo de la Guardia Civil tiene como fin mejorar las condiciones profesionales de sus integrantes y el funcionamiento del Instituto"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 14 de la Ley 29/2014 configura el Consejo de la Guardia Civil como órgano colegiado de participación de representantes de los miembros del Cuerpo y de los Ministerios de Defensa e Interior, con el fin de mejorar las condiciones profesionales y el funcionamiento del Instituto, ejerciendo las competencias que le atribuye la LO 11/2007.",
+      "ley": "Art. 14 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Señale la opción que reproduce LITERALMENTE el art. 6 Ley 29/2014:",
+      "options": {
+        "a": "Los guardias civiles desarrollarán sus funciones con absoluto respeto a la Constitución y al resto del ordenamiento jurídico.",
+        "b": "Los guardias civiles podrán desarrollar sus funciones con absoluto respeto a la Constitución y al resto del ordenamiento jurídico.",
+        "c": "Los guardias civiles desarrollarán sus funciones con absoluto respeto al Gobierno y al resto del ordenamiento jurídico.",
+        "d": "Los guardias civiles desarrollarán sus funciones con razonable respeto a la Constitución y al resto del ordenamiento jurídico."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 6 de la Ley 29/2014. Las variantes incorrectas cambian 'la Constitución' por 'el Gobierno', 'desarrollarán' por 'podrán desarrollar', 'absoluto' por 'razonable', o 'Los guardias civiles' por 'Los oficiales de la Guardia Civil'.",
+      "ley": "art. 6 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 5 a 7 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las evaluaciones de igualdad de género en la Guardia Civil son opcionales y dependen de la voluntad de cada unidad",
+        "b": "El código de conducta de la Guardia Civil es un documento meramente orientativo sin ninguna base legal",
+        "c": "Se realizarán evaluaciones periódicas para asegurar la efectividad del principio de igualdad de género en la Guardia Civil",
+        "d": "Los guardias civiles deben actuar conforme a principios que la Ley 29/2014 no concreta en ninguna otra norma"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 5 a 7 de la Ley 29/2014 prevén evaluaciones periódicas de igualdad de género, remiten el código de conducta de los guardias civiles a los principios del artículo 5 de la LO 2/1986 y del Título III de la LO 11/2007, e incluyen reglas esenciales de comportamiento.",
+      "ley": "Arts. 5 a 7 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 16 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El personal de la Guardia Civil se agrupa en las escalas de oficiales, suboficiales y de cabos y guardias",
+        "b": "El personal de la Guardia Civil se agrupa en una única escala común para todos los empleos",
+        "c": "La escala de oficiales de la Guardia Civil desapareció con la entrada en vigor de la Ley 29/2014",
+        "d": "Las escalas de la Guardia Civil son idénticas a las categorías del Cuerpo Nacional de Policía"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 16 de la Ley 29/2014 agrupa al personal de la Guardia Civil en las escalas de oficiales, suboficiales y de cabos y guardias, estructura básica de la organización del personal del Cuerpo.",
+      "ley": "Art. 16 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 18 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El empleo militar de la Guardia Civil no otorga ningún derecho específico distinto de los de un funcionario civil ordinario",
+        "b": "El acceso a otra escala permite mantener simultáneamente el empleo de la escala de origen y el de la nueva escala",
+        "c": "La baja en la escala de origen al acceder a otra escala es opcional, según la voluntad del interesado",
+        "d": "Cuando se produce un acceso a otra escala se obtiene el empleo que en cada caso corresponda, causando baja en la escala de origen"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 18 de la Ley 29/2014 establece que el empleo militar conferido con arreglo a la ley otorga los derechos y obligaciones que ella establece, y que el acceso a otra escala conlleva obtener el empleo correspondiente causando baja en la escala de origen, con la consiguiente pérdida del empleo anterior.",
+      "ley": "Art. 18 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 y 4 Ley 29/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Son guardias civiles los españoles vinculados al Cuerpo por una relación de servicios profesionales de carácter permanente",
+        "b": "Los guardias civiles son militares de carrera de la Guardia Civil por la naturaleza militar del Instituto en que se integran",
+        "c": "Los guardias civiles, por la naturaleza militar de su Instituto, no tienen la condición de militares de carrera",
+        "d": "Para adquirir la condición de guardia civil debe prestarse juramento o promesa ante la Bandera de España"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 3 y 4 de la Ley 29/2014 definen a los guardias civiles como españoles vinculados al Cuerpo de forma permanente y, por la naturaleza militar del Instituto, militares de carrera, cuya condición se adquiere al obtener el primer empleo (conferido por el Rey y refrendado por el Ministro de Defensa) y al prestar juramento o promesa ante la Bandera.",
+      "ley": "Arts. 3 y 4 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_013",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 y 4 Ley 29/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los guardias civiles son militares de carrera de la Guardia Civil por la naturaleza militar del Instituto en que se integran",
+        "b": "El juramento o promesa para adquirir la condición de guardia civil es un acto meramente protocolario sin contenido jurídico",
+        "c": "La condición de guardia civil se adquiere al obtener el primer empleo, conferido por el Rey y refrendado por el Ministro de Defensa",
+        "d": "Son guardias civiles los españoles vinculados al Cuerpo por una relación de servicios profesionales de carácter permanente"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 3 y 4 de la Ley 29/2014 definen a los guardias civiles como españoles vinculados al Cuerpo de forma permanente y, por la naturaleza militar del Instituto, militares de carrera, cuya condición se adquiere al obtener el primer empleo (conferido por el Rey y refrendado por el Ministro de Defensa) y al prestar juramento o promesa ante la Bandera.",
+      "ley": "Arts. 3 y 4 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_014",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 y 4 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La condición de guardia civil se adquiere automáticamente al superar las pruebas de acceso, sin más trámite",
+        "b": "Los guardias civiles, por la naturaleza militar de su Instituto, no tienen la condición de militares de carrera",
+        "c": "El juramento o promesa para adquirir la condición de guardia civil es un acto meramente protocolario sin contenido jurídico",
+        "d": "Son guardias civiles los españoles vinculados al Cuerpo por una relación de servicios profesionales de carácter permanente"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 3 y 4 de la Ley 29/2014 definen a los guardias civiles como españoles vinculados al Cuerpo de forma permanente y, por la naturaleza militar del Instituto, militares de carrera, cuya condición se adquiere al obtener el primer empleo (conferido por el Rey y refrendado por el Ministro de Defensa) y al prestar juramento o promesa ante la Bandera.",
+      "ley": "Arts. 3 y 4 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_015",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 y 4 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La condición de guardia civil se adquiere automáticamente al superar las pruebas de acceso, sin más trámite",
+        "b": "Los guardias civiles, por la naturaleza militar de su Instituto, no tienen la condición de militares de carrera",
+        "c": "Los guardias civiles son militares de carrera de la Guardia Civil por la naturaleza militar del Instituto en que se integran",
+        "d": "El juramento o promesa para adquirir la condición de guardia civil es un acto meramente protocolario sin contenido jurídico"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 3 y 4 de la Ley 29/2014 definen a los guardias civiles como españoles vinculados al Cuerpo de forma permanente y, por la naturaleza militar del Instituto, militares de carrera, cuya condición se adquiere al obtener el primer empleo (conferido por el Rey y refrendado por el Ministro de Defensa) y al prestar juramento o promesa ante la Bandera.",
+      "ley": "Arts. 3 y 4 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 y 4 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La condición de guardia civil se adquiere automáticamente al superar las pruebas de acceso, sin más trámite",
+        "b": "Los guardias civiles, por la naturaleza militar de su Instituto, no tienen la condición de militares de carrera",
+        "c": "Para adquirir la condición de guardia civil debe prestarse juramento o promesa ante la Bandera de España",
+        "d": "El primer empleo de guardia civil es conferido por el Ministro del Interior, sin intervención del Rey"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 3 y 4 de la Ley 29/2014 definen a los guardias civiles como españoles vinculados al Cuerpo de forma permanente y, por la naturaleza militar del Instituto, militares de carrera, cuya condición se adquiere al obtener el primer empleo (conferido por el Rey y refrendado por el Ministro de Defensa) y al prestar juramento o promesa ante la Bandera.",
+      "ley": "Arts. 3 y 4 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_017",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 y 4 Ley 29/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Son guardias civiles los españoles vinculados al Cuerpo por una relación de servicios profesionales de carácter permanente",
+        "b": "Los guardias civiles, por la naturaleza militar de su Instituto, no tienen la condición de militares de carrera",
+        "c": "La condición de guardia civil se adquiere al obtener el primer empleo, conferido por el Rey y refrendado por el Ministro de Defensa",
+        "d": "Los guardias civiles son militares de carrera de la Guardia Civil por la naturaleza militar del Instituto en que se integran"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 3 y 4 de la Ley 29/2014 definen a los guardias civiles como españoles vinculados al Cuerpo de forma permanente y, por la naturaleza militar del Instituto, militares de carrera, cuya condición se adquiere al obtener el primer empleo (conferido por el Rey y refrendado por el Ministro de Defensa) y al prestar juramento o promesa ante la Bandera.",
+      "ley": "Arts. 3 y 4 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 y 4 Ley 29/2014. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Para adquirir la condición de guardia civil debe prestarse juramento o promesa ante la Bandera de España",
+        "b": "La condición de guardia civil se adquiere automáticamente al superar las pruebas de acceso, sin más trámite",
+        "c": "Los guardias civiles son militares de carrera de la Guardia Civil por la naturaleza militar del Instituto en que se integran",
+        "d": "Son guardias civiles los españoles vinculados al Cuerpo por una relación de servicios profesionales de carácter permanente"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 3 y 4 de la Ley 29/2014 definen a los guardias civiles como españoles vinculados al Cuerpo de forma permanente y, por la naturaleza militar del Instituto, militares de carrera, cuya condición se adquiere al obtener el primer empleo (conferido por el Rey y refrendado por el Ministro de Defensa) y al prestar juramento o promesa ante la Bandera.",
+      "ley": "Arts. 3 y 4 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 14 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Consejo de la Guardia Civil es un órgano unipersonal presidido por el Director General del Cuerpo",
+        "b": "El Consejo de la Guardia Civil está integrado exclusivamente por representantes del Ministerio de Defensa",
+        "c": "El Consejo de la Guardia Civil carece de cualquier finalidad relacionada con las condiciones profesionales del personal",
+        "d": "El Consejo de la Guardia Civil ejerce las competencias en materia de régimen de personal que le atribuye la LO 11/2007"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 14 de la Ley 29/2014 configura el Consejo de la Guardia Civil como órgano colegiado de participación de representantes de los miembros del Cuerpo y de los Ministerios de Defensa e Interior, con el fin de mejorar las condiciones profesionales y el funcionamiento del Instituto, ejerciendo las competencias que le atribuye la LO 11/2007.",
+      "ley": "Art. 14 Ley 29/2014",
+      "subtema": "23.1"
+    },
+    {
+      "id": "tema_23_test_02_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 5 a 7 Ley 29/2014. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El código de conducta de la Guardia Civil es un documento meramente orientativo sin ninguna base legal",
+        "b": "El artículo 6 de la Ley 29/2014 excluye expresamente cualquier referencia a la LO 2/1986",
+        "c": "Los guardias civiles deben actuar conforme a principios que la Ley 29/2014 no concreta en ninguna otra norma",
+        "d": "El código de conducta de la Guardia Civil incluye reglas esenciales de comportamiento de sus miembros"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 5 a 7 de la Ley 29/2014 prevén evaluaciones periódicas de igualdad de género, remiten el código de conducta de los guardias civiles a los principios del artículo 5 de la LO 2/1986 y del Título III de la LO 11/2007, e incluyen reglas esenciales de comportamiento.",
+      "ley": "Arts. 5 a 7 Ley 29/2014",
+      "subtema": "23.1"
+    }
+  ],
+  "subtema": "23.1"
+}

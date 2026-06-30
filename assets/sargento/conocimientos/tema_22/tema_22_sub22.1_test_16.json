@@ -1,0 +1,328 @@
+{
+  "tema_numero": 22,
+  "tema": "Tema 22 - Fuerzas y Cuerpos de Seguridad",
+  "test": "Test 16",
+  "preguntas": [
+    {
+      "id": "tema_22_test_16_001",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 53 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Corresponde a los Cuerpos de Policía Local ordenar, señalizar y dirigir el tráfico en el casco urbano de acuerdo con las normas de circulación",
+        "b": "La protección de las autoridades municipales corresponde en exclusiva a la Guardia Civil, nunca a la Policía Local",
+        "c": "Corresponde a los Cuerpos de Policía Local cooperar en la resolución de conflictos privados cuando sean requeridos para ello",
+        "d": "Corresponde a los Cuerpos de Policía Local, entre otras funciones, proteger a las autoridades de las Corporaciones Locales y vigilar sus edificios e instalaciones"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 53 LOFCS atribuye a los Cuerpos de Policía Local funciones como la protección de autoridades y edificios municipales, la ordenación y dirección del tráfico urbano, y la cooperación en la resolución de conflictos privados cuando sean requeridos.",
+      "ley": "Art. 53 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 27 y 28 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las faltas disciplinarias del Cuerpo Nacional de Policía carecen de clasificación legal por gravedad",
+        "b": "Ningún órgano puede imponer sanciones disciplinarias a un miembro del Cuerpo Nacional de Policía sin sentencia penal previa",
+        "c": "Las faltas disciplinarias del Cuerpo Nacional de Policía se clasifican legalmente según su gravedad",
+        "d": "El régimen disciplinario del Cuerpo Nacional de Policía es idéntico, sin matices, al de cualquier funcionario civil ordinario"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 27 y 28 LOFCS configuran el régimen disciplinario del Cuerpo Nacional de Policía conforme a los principios de la relación de especial sujeción de sus miembros con la Administración, clasificando legalmente las faltas disciplinarias según su gravedad.",
+      "ley": "Arts. 27 y 28 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Señale la opción que reproduce LITERALMENTE el art. 9 LOFCS:",
+      "options": {
+        "a": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercen sus funciones en todo el territorio nacional.",
+        "b": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercen sus funciones en todo el territorio autonómico.",
+        "c": "Las Fuerzas y Cuerpos de Seguridad de las Comunidades Autónomas ejercen sus funciones en todo el territorio nacional.",
+        "d": "Las Fuerzas y Cuerpos de Seguridad del Estado podrán ejercer sus funciones en todo el territorio nacional."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9 LOFCS. Las variantes incorrectas cambian 'territorio nacional' por 'territorio autonómico', sustituyen 'del Estado' por 'de las Comunidades Autónomas', cambian 'ejercen' por 'podrán ejercer', o alteran el tiempo verbal a 'ejercieron'.",
+      "ley": "art. 9 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Señale la opción que reproduce LITERALMENTE el art. 9 LOFCS:",
+      "options": {
+        "a": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercen sus funciones en todo el territorio nacional.",
+        "b": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercieron sus funciones en todo el territorio nacional.",
+        "c": "Las Fuerzas y Cuerpos de Seguridad del Estado podrán ejercer sus funciones en todo el territorio nacional.",
+        "d": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercen sus funciones en todo el territorio autonómico."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9 LOFCS. Las variantes incorrectas cambian 'territorio nacional' por 'territorio autonómico', sustituyen 'del Estado' por 'de las Comunidades Autónomas', cambian 'ejercen' por 'podrán ejercer', o alteran el tiempo verbal a 'ejercieron'.",
+      "ley": "art. 9 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_005",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 14 y 15 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los empleos superiores de la Guardia Civil se proveen sin intervención de ningún departamento ministerial",
+        "b": "El Director General de la Guardia Civil debe ser, en todo caso, un funcionario civil sin vinculación militar",
+        "c": "El Director General de la Guardia Civil podrá ser un oficial general del Cuerpo o de las Fuerzas Armadas",
+        "d": "La formación de la Guardia Civil en misiones militares corresponde en exclusiva al Ministerio del Interior"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 14 y 15 LOFCS regulan la intervención del Ministerio de Defensa en la propuesta de empleos superiores y en la formación de la Guardia Civil para sus misiones militares, y prevén que la Dirección General de la Guardia Civil pueda recaer en un oficial general del Cuerpo o de las Fuerzas Armadas.",
+      "ley": "Arts. 14 y 15 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_006",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 47 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "En el ejercicio de esas funciones, dichos funcionarios tienen la consideración de agentes de la autoridad, subordinados a los miembros de la Policía Autonómica",
+        "b": "Las Comunidades Autónomas que cumplan los requisitos legales podrán solicitar del Gobierno la adscripción de Unidades del Cuerpo Nacional de Policía",
+        "c": "Los funcionarios adscritos pasan a integrarse plenamente en el Cuerpo de Policía propio de la Comunidad Autónoma",
+        "d": "Dichos funcionarios no se integran en las Fuerzas y Cuerpos de Seguridad propios de la Comunidad Autónoma"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 47 LOFCS permite a las Comunidades Autónomas que cumplan los requisitos legales solicitar del Gobierno la adscripción de Unidades del Cuerpo Nacional de Policía, que no se integran en las FCS propias de la Comunidad, manteniendo la consideración de agentes de la autoridad subordinados a la Policía Autonómica en esas funciones.",
+      "ley": "Art. 47 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 3 y 4 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Solo los funcionarios públicos tienen el deber de auxiliar a las FCS en la investigación de los delitos",
+        "b": "Los miembros de las FCS ajustarán su actuación al principio de cooperación recíproca",
+        "c": "Los miembros de las FCS actúan de forma independiente entre sí, sin ningún deber de coordinación",
+        "d": "Las empresas de seguridad privada están exentas de cualquier obligación de colaborar con las FCS"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 3 y 4 LOFCS establecen el principio de cooperación recíproca y coordinación entre las FCS, el deber general de todos de auxiliarlas en la investigación y persecución de los delitos, y la especial obligación de colaboración de quienes ejercen funciones de vigilancia, seguridad o custodia de personas, bienes o servicios.",
+      "ley": "Arts. 3 y 4 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 1 y 2 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Comunidades Autónomas carecen de cualquier posibilidad de contar con Cuerpos de Policía propios",
+        "b": "Solo las FCS dependientes del Gobierno de la Nación tienen la consideración legal de Fuerzas y Cuerpos de Seguridad",
+        "c": "La seguridad pública es una competencia compartida al cincuenta por ciento entre el Estado y los Ayuntamientos",
+        "d": "Son Fuerzas y Cuerpos de Seguridad las dependientes del Gobierno de la Nación, de las CCAA y de las Corporaciones Locales"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 1 y 2 de la LOFCS atribuyen la seguridad pública como competencia exclusiva del Estado, correspondiendo su mantenimiento al Gobierno de la Nación y, en los términos de la ley, a las Comunidades Autónomas y Corporaciones Locales, e identifican como Fuerzas y Cuerpos de Seguridad a las del Estado, las de las CCAA y las de las Corporaciones Locales.",
+      "ley": "Arts. 1 y 2 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_009",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Señale la opción que reproduce LITERALMENTE el art. 9 LOFCS:",
+      "options": {
+        "a": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercen sus funciones en todo el territorio autonómico.",
+        "b": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercieron sus funciones en todo el territorio nacional.",
+        "c": "Las Fuerzas y Cuerpos de Seguridad de las Comunidades Autónomas ejercen sus funciones en todo el territorio nacional.",
+        "d": "Las Fuerzas y Cuerpos de Seguridad del Estado ejercen sus funciones en todo el territorio nacional."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 9 LOFCS. Las variantes incorrectas cambian 'territorio nacional' por 'territorio autonómico', sustituyen 'del Estado' por 'de las Comunidades Autónomas', cambian 'ejercen' por 'podrán ejercer', o alteran el tiempo verbal a 'ejercieron'.",
+      "ley": "art. 9 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_010",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 11.1 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las FCSE carecen de cualquier función de auxilio a personas o bienes en situación de peligro",
+        "b": "Las FCSE tienen como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+        "c": "La misión de las FCSE se limita exclusivamente a la persecución de delitos ya cometidos, sin función preventiva alguna",
+        "d": "La seguridad ciudadana es un concepto ajeno a la misión legalmente atribuida a las FCSE"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 11.1 LOFCS atribuye a las FCSE la misión de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana, mediante funciones como velar por el cumplimiento de las leyes, auxiliar y proteger a personas y bienes en peligro, y prevenir la comisión de actos delictivos.",
+      "ley": "Art. 11.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_011",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 54.1 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Junta Local de Seguridad carece de competencia alguna sobre la colaboración entre Cuerpos policiales del municipio",
+        "b": "En los municipios que tengan Cuerpo de Policía propio podrá constituirse una Junta Local de Seguridad",
+        "c": "Las Juntas Locales de Seguridad solo pueden constituirse en municipios sin Cuerpo de Policía propio",
+        "d": "La constitución de la Junta Local de Seguridad es obligatoria en todos los municipios, tengan o no Policía propia"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 54.1 LOFCS prevé la constitución de la Junta Local de Seguridad en los municipios con Cuerpo de Policía propio, como órgano competente para establecer las formas y procedimientos de colaboración entre las FCS que actúan en el municipio, compartiéndose la presidencia con el Delegado o Subdelegado del Gobierno cuando concurra a sus sesiones.",
+      "ley": "Art. 54.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_012",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 11.1 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Entre las funciones de las FCSE está investigar los delitos para descubrir y detener a los presuntos culpables",
+        "b": "Para el cumplimiento de estas funciones, el personal de Policía de las CCAA y Corporaciones Locales tiene carácter colaborador de las FCSE",
+        "c": "La investigación de delitos para detener a los culpables corresponde en exclusiva al Ministerio Fiscal, no a las FCSE",
+        "d": "Entre las funciones de las FCSE está captar, recibir y analizar cuantos datos tengan interés para el orden y la seguridad pública"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 11.1 LOFCS incluye entre las funciones de las FCSE investigar los delitos, captar y analizar datos de interés para el orden y la seguridad pública, y colaborar con Protección Civil en casos de catástrofe, atribuyendo carácter colaborador de las FCSE, para el cumplimiento de dicha función, al personal de Policía de las CCAA y Corporaciones Locales.",
+      "ley": "Art. 11.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.2 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Deben observar en todo momento un trato correcto y esmerado en sus relaciones con los ciudadanos",
+        "b": "Pueden emplear violencia física de forma discrecional siempre que consideren que agiliza la actuación",
+        "c": "Solo deben evitar prácticas discriminatorias cuando estén siendo grabados o supervisados",
+        "d": "No tienen obligación de informar a los ciudadanos sobre las causas de sus intervenciones"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 5.2 LOFCS, sobre relaciones con la comunidad, obliga a los miembros de las FCS a impedir prácticas abusivas, arbitrarias o discriminatorias con violencia física o moral, a observar un trato correcto y esmerado con los ciudadanos, y a proporcionarles información cumplida y amplia sobre las causas y finalidad de sus intervenciones.",
+      "ley": "Art. 5.2 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 25 y 26 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El Consejo de Policía está integrado únicamente por mandos superiores, sin representación de la base",
+        "b": "El Consejo de Policía es el órgano colegiado de participación de los funcionarios del Cuerpo Nacional de Policía",
+        "c": "Las competencias del Consejo de Policía son idénticas a las del Consejo General del Poder Judicial",
+        "d": "El Consejo de Policía carece de cualquier función relacionada con el régimen estatutario del Cuerpo Nacional de Policía"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 25 y 26 LOFCS configuran el Consejo de Policía como órgano colegiado de participación de los funcionarios del Cuerpo Nacional de Policía, competente para informar las normas relativas a su régimen estatutario.",
+      "ley": "Arts. 25 y 26 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 29 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las Unidades de Policía Judicial podrán adscribirse, total o parcialmente, a determinados Juzgados y Tribunales, oído el Consejo General del Poder Judicial",
+        "b": "El Ministerio del Interior organizará Unidades de Policía Judicial con funcionarios de las FCSE que cuenten con formación especializada",
+        "c": "Estas Unidades atienden a criterios territoriales y de especialización delictual y prestan esta función con carácter permanente y especial",
+        "d": "Las Unidades de Policía Judicial las organiza directamente el Consejo General del Poder Judicial, sin intervención del Ministerio del Interior"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 29 LOFCS encomienda al Ministerio del Interior la organización de Unidades de Policía Judicial con funcionarios de las FCSE especializados, atendiendo a criterios territoriales y de especialización delictual, con posibilidad de adscripción a Juzgados y Tribunales oído el Consejo General del Poder Judicial.",
+      "ley": "Art. 29 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_016",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 45 y 46 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El auxilio mutuo entre FCSE y Policías Autonómicas solo opera en situaciones de estado de alarma",
+        "b": "Las Policías Autonómicas no pueden, bajo ningún concepto, prestar auxilio a las FCSE",
+        "c": "Las FCSE y las Policías Autonómicas tienen prohibido por ley cualquier intercambio de información",
+        "d": "Esta colaboración se concreta especialmente en el intercambio de información de interés policial"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 45 y 46 LOFCS establecen el deber de colaboración y auxilio mutuo entre las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas, concretado especialmente en el intercambio de información de interés policial.",
+      "ley": "Arts. 45 y 46 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Arts. 48 y 49 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Entre sus funciones está elaborar fórmulas de coordinación, acuerdos y programas de formación, información y actuaciones conjuntas",
+        "b": "El órgano técnico que asiste al Consejo de Política de Seguridad se denomina Junta Local de Seguridad",
+        "c": "El Consejo de Política de Seguridad carece de cualquier función relativa a programas de formación o información",
+        "d": "Este Consejo está integrado únicamente por representantes municipales, sin presencia estatal ni autonómica"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 48 y 49 LOFCS configuran el Consejo de Política de Seguridad como órgano de coordinación entre el Estado y las Comunidades Autónomas con Policía propia, asistido por un Comité de Expertos, encargado de elaborar fórmulas de coordinación, acuerdos y programas conjuntos de formación e información.",
+      "ley": "Arts. 48 y 49 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Señale la opción que reproduce LITERALMENTE el art. 10.1 LOFCS:",
+      "options": {
+        "a": "Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "b": "Corresponde al Ministro de Defensa la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "c": "Corresponde al Ministro del Interior la administración general de la seguridad pública y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "d": "Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando ordinario de las Fuerzas y Cuerpos de Seguridad del Estado."
+      },
+      "correct": "a",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 10.1 LOFCS. Las variantes incorrectas cambian 'Ministro del Interior' por 'Ministro de Defensa' o por 'Secretario de Estado de Seguridad', y sustituyen 'seguridad ciudadana' por 'seguridad pública' o 'mando superior' por 'mando ordinario'.",
+      "ley": "art. 10.1 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_019",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 52 LOFCS. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las Policías Locales se rigen en exclusiva por reglamentos municipales sin sujeción a ningún principio estatal",
+        "b": "El régimen estatutario de la Policía Local es completamente ajeno a los principios generales de la LOFCS",
+        "c": "Los Cuerpos de Policía Local tienen naturaleza militar, equivalente a la de la Guardia Civil",
+        "d": "Los Cuerpos de Policía Local son Institutos armados de naturaleza civil, con estructura y organización jerarquizada"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 52 LOFCS califica a los Cuerpos de Policía Local como Institutos armados de naturaleza civil, con estructura y organización jerarquizada, sometidos en su régimen estatutario a los principios generales de los Capítulos II y III del Título I de la Ley, con las adecuaciones que exija su dependencia municipal.",
+      "ley": "Art. 52 LOFCS",
+      "subtema": "22.1"
+    },
+    {
+      "id": "tema_22_test_16_020",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 22 - Fuerzas y Cuerpos de Seguridad. Sobre Art. 5.1 LOFCS. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Deben actuar con integridad y dignidad, absteniéndose de todo acto de corrupción y oponiéndose a él resueltamente",
+        "b": "Los miembros de las FCS deben ejercer su función con absoluto respeto a la Constitución y al resto del ordenamiento jurídico",
+        "c": "Pueden anteponer su ideología política personal al ejercicio neutral de sus funciones cuando lo consideren oportuno",
+        "d": "Deben actuar con absoluta neutralidad política e imparcialidad, sin discriminación por razón de raza, religión u opinión"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 5.1 LOFCS, sobre adecuación al ordenamiento jurídico, exige a los miembros de las FCS respeto absoluto a la Constitución, neutralidad política e imparcialidad sin discriminación, integridad y oposición a la corrupción, y sujeción a jerarquía y subordinación, sin que la obediencia debida ampare órdenes que constituyan delito o sean contrarias a la Constitución o las leyes.",
+      "ley": "Art. 5.1 LOFCS",
+      "subtema": "22.1"
+    }
+  ],
+  "subtema": "22.1"
+}

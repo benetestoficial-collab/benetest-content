@@ -1,0 +1,328 @@
+{
+  "tema_numero": 23,
+  "tema": "Tema 23 - Estatuto del Personal",
+  "test": "Test 2",
+  "preguntas": [
+    {
+      "id": "tema_23_test_02_001",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 36 LO 11/2007. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Las asociaciones profesionales de Guardias Civiles se constituyen por tiempo indefinido",
+        "b": "El artículo 36 de la LO 11/2007 no exige ningún requisito de ámbito territorial para las asociaciones profesionales",
+        "c": "Tienen por finalidad principal la satisfacción de los intereses sociales, económicos y profesionales de sus asociados",
+        "d": "Las asociaciones profesionales de Guardias Civiles deben tener ámbito estatal"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 36 de la LO 11/2007 exige que las asociaciones profesionales de Guardias Civiles tengan ámbito estatal, se constituyan por tiempo indefinido, y tengan como finalidad principal la satisfacción de los intereses sociales, económicos y profesionales de sus asociados.",
+      "ley": "Art. 36 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_002",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 9 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El derecho de asociación de los Guardias Civiles solo puede ejercerse en su vertiente profesional, sin ninguna vertiente genérica",
+        "b": "El artículo 9 de la LO 11/2007 remite la regulación del derecho de asociación únicamente a normas reglamentarias internas",
+        "c": "El derecho de asociación de los Guardias Civiles se ejerce en una doble vertiente: la genérica conforme a la LO 1/2002 y la específicamente profesional",
+        "d": "El derecho de asociación está expresamente prohibido a los miembros de la Guardia Civil por su condición militar"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 9 de la LO 11/2007 reconoce a los Guardias Civiles el derecho de asociación conforme a los artículos 22 y 104.2 de la Constitución, en una doble vertiente: la genérica regulada por la LO 1/2002 y la específicamente profesional desarrollada en la propia Ley.",
+      "ley": "Art. 9 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_003",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 9 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Guardias Civiles tienen derecho a asociarse libremente y a constituir asociaciones, de conformidad con los artículos 22 y 104.2 de la Constitución",
+        "b": "El derecho de asociación está expresamente prohibido a los miembros de la Guardia Civil por su condición militar",
+        "c": "El artículo 9 de la LO 11/2007 remite la regulación del derecho de asociación únicamente a normas reglamentarias internas",
+        "d": "El derecho de asociación de los Guardias Civiles solo puede ejercerse en su vertiente profesional, sin ninguna vertiente genérica"
+      },
+      "correct": "a",
+      "explicacion": "El artículo 9 de la LO 11/2007 reconoce a los Guardias Civiles el derecho de asociación conforme a los artículos 22 y 104.2 de la Constitución, en una doble vertiente: la genérica regulada por la LO 1/2002 y la específicamente profesional desarrollada en la propia Ley.",
+      "ley": "Art. 9 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_004",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 9 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La Constitución no contiene ninguna previsión relacionada con el derecho de asociación de la Guardia Civil",
+        "b": "Los Guardias Civiles tienen derecho a asociarse libremente y a constituir asociaciones, de conformidad con los artículos 22 y 104.2 de la Constitución",
+        "c": "El derecho de asociación de los Guardias Civiles solo puede ejercerse en su vertiente profesional, sin ninguna vertiente genérica",
+        "d": "El derecho de asociación está expresamente prohibido a los miembros de la Guardia Civil por su condición militar"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 9 de la LO 11/2007 reconoce a los Guardias Civiles el derecho de asociación conforme a los artículos 22 y 104.2 de la Constitución, en una doble vertiente: la genérica regulada por la LO 1/2002 y la específicamente profesional desarrollada en la propia Ley.",
+      "ley": "Art. 9 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_005",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Señale la opción que reproduce LITERALMENTE el art. 18.1 LO 11/2007:",
+      "options": {
+        "a": "Los miembros de la Guardia Civil no podrán fundar ni afiliarse a asociaciones profesionales ni realizar actividades políticas o sindicales.",
+        "b": "Los miembros de la Guardia Civil no podrán fundar ni afiliarse a partidos políticos o sindicatos ni realizar actividades religiosas o sindicales.",
+        "c": "Los miembros de la Guardia Civil podrán fundar ni afiliarse a partidos políticos o sindicatos ni realizar actividades políticas o sindicales.",
+        "d": "Los miembros de la Guardia Civil no podrán fundar ni afiliarse a partidos políticos o sindicatos ni realizar actividades políticas o sindicales."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 18.1 de la LO 11/2007. Las variantes incorrectas cambian 'partidos políticos o sindicatos' por 'asociaciones profesionales', sustituyen 'no podrán' por 'podrán' (invirtiendo el sentido), cambian 'políticas' por 'religiosas', o 'Los miembros' por 'Los familiares de los miembros'.",
+      "ley": "art. 18.1 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_006",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Señale la opción que reproduce LITERALMENTE el art. 16 LO 11/2007:",
+      "options": {
+        "a": "Los miembros de la Guardia Civil deberán adecuar su actuación personal a los principios de jerarquía, disciplina y subordinación.",
+        "b": "Los mandos de la Guardia Civil deberán adecuar su actuación profesional a los principios de jerarquía, disciplina y subordinación.",
+        "c": "Los miembros de la Guardia Civil deberán adecuar su actuación profesional a los principios de jerarquía, disciplina y subordinación.",
+        "d": "Los miembros de la Guardia Civil deberán adecuar su actuación profesional a los principios de jerarquía, disciplina y neutralidad."
+      },
+      "correct": "c",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 16 de la LO 11/2007. Las variantes incorrectas cambian 'subordinación' por 'neutralidad', 'deberán' por 'podrán', 'Los miembros' por 'Los mandos', o 'actuación profesional' por 'actuación personal'.",
+      "ley": "art. 16 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_007",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Señale la opción que reproduce LITERALMENTE el art. 16 LO 11/2007:",
+      "options": {
+        "a": "Los mandos de la Guardia Civil deberán adecuar su actuación profesional a los principios de jerarquía, disciplina y subordinación.",
+        "b": "Los miembros de la Guardia Civil podrán adecuar su actuación profesional a los principios de jerarquía, disciplina y subordinación.",
+        "c": "Los miembros de la Guardia Civil deberán adecuar su actuación profesional a los principios de jerarquía, disciplina y neutralidad.",
+        "d": "Los miembros de la Guardia Civil deberán adecuar su actuación profesional a los principios de jerarquía, disciplina y subordinación."
+      },
+      "correct": "d",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 16 de la LO 11/2007. Las variantes incorrectas cambian 'subordinación' por 'neutralidad', 'deberán' por 'podrán', 'Los miembros' por 'Los mandos', o 'actuación profesional' por 'actuación personal'.",
+      "ley": "art. 16 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_008",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 7 LO 11/2007. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Los Guardias Civiles tienen derecho a la libertad de expresión y a comunicar y recibir libremente información en los términos establecidos por la Constitución",
+        "b": "El respeto a la dignidad de las instituciones no constituye un límite legal a la libertad de expresión del Guardia Civil",
+        "c": "En asuntos de servicio o relacionados con la Institución, el ejercicio de estos derechos está sujeto a los deberes de neutralidad política y sindical y de reserva",
+        "d": "El ejercicio de la libertad de expresión tiene como límites el régimen disciplinario, el secreto profesional y el respeto a la dignidad de las personas, instituciones y poderes públicos"
+      },
+      "correct": "b",
+      "explicacion": "El artículo 7 de la LO 11/2007 reconoce el derecho a la libertad de expresión e información en los términos constitucionales, con los límites del régimen disciplinario, el secreto profesional y el respeto a la dignidad de personas e instituciones, sujeto además a los deberes de neutralidad y reserva en asuntos de servicio.",
+      "ley": "Art. 7 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_009",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 15 y 16 LO 11/2007. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "Tienen el deber de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+        "b": "La obediencia debida ampara siempre al subordinado, incluso cuando la orden constituye manifiestamente un delito",
+        "c": "Los miembros de la Guardia Civil tienen el deber de respetar la Constitución y el resto del ordenamiento jurídico",
+        "d": "Deben adecuar su actuación profesional a los principios de jerarquía, disciplina y subordinación"
+      },
+      "correct": "b",
+      "explicacion": "Los artículos 15 y 16 de la LO 11/2007 imponen a todos los miembros de la Guardia Civil el deber de respetar la Constitución, proteger derechos y libertades y garantizar la seguridad ciudadana, y de actuar con jerarquía, disciplina y subordinación, sin que la obediencia debida ampare órdenes manifiestamente delictivas o contrarias a la Constitución o las Leyes.",
+      "ley": "Arts. 15 y 16 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_010",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 36 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Las asociaciones profesionales de Guardias Civiles deben constituirse por un plazo máximo de cuatro años renovables",
+        "b": "Las asociaciones profesionales de Guardias Civiles pueden tener ámbito exclusivamente provincial",
+        "c": "Tienen por finalidad principal la satisfacción de los intereses sociales, económicos y profesionales de sus asociados",
+        "d": "El artículo 36 de la LO 11/2007 no exige ningún requisito de ámbito territorial para las asociaciones profesionales"
+      },
+      "correct": "c",
+      "explicacion": "El artículo 36 de la LO 11/2007 exige que las asociaciones profesionales de Guardias Civiles tengan ámbito estatal, se constituyan por tiempo indefinido, y tengan como finalidad principal la satisfacción de los intereses sociales, económicos y profesionales de sus asociados.",
+      "ley": "Art. 36 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_011",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 15 y 16 LO 11/2007. Señale la afirmación INCORRECTA:",
+      "options": {
+        "a": "El deber de garantizar la seguridad ciudadana no está recogido entre los deberes legales de la Guardia Civil",
+        "b": "Deben adecuar su actuación profesional a los principios de jerarquía, disciplina y subordinación",
+        "c": "Los miembros de la Guardia Civil tienen el deber de respetar la Constitución y el resto del ordenamiento jurídico",
+        "d": "Tienen el deber de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 15 y 16 de la LO 11/2007 imponen a todos los miembros de la Guardia Civil el deber de respetar la Constitución, proteger derechos y libertades y garantizar la seguridad ciudadana, y de actuar con jerarquía, disciplina y subordinación, sin que la obediencia debida ampare órdenes manifiestamente delictivas o contrarias a la Constitución o las Leyes.",
+      "ley": "Arts. 15 y 16 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_012",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 a 6 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La igualdad entre hombres y mujeres en la Guardia Civil es una aspiración sin ningún desarrollo normativo concreto",
+        "b": "La libertad de residencia y circulación de los Guardias Civiles no admite ninguna limitación derivada del servicio",
+        "c": "El derecho a la intimidad y a la vida privada está expresamente excluido para los miembros de la Guardia Civil",
+        "d": "Los Guardias Civiles son titulares del derecho a la intimidad y a la vida privada"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 3 a 6 de la LO 11/2007 garantizan la igualdad efectiva entre hombres y mujeres, reconocen el derecho a la intimidad y vida privada, y admiten limitaciones a la libertad de residencia y circulación derivadas del cumplimiento de los servicios propios de la Guardia Civil.",
+      "ley": "Arts. 3 a 6 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_013",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Señale la opción que reproduce LITERALMENTE el art. 18.1 LO 11/2007:",
+      "options": {
+        "a": "Los miembros de la Guardia Civil no podrán fundar ni afiliarse a partidos políticos o sindicatos ni realizar actividades religiosas o sindicales.",
+        "b": "Los miembros de la Guardia Civil no podrán fundar ni afiliarse a partidos políticos o sindicatos ni realizar actividades políticas o sindicales.",
+        "c": "Los miembros de la Guardia Civil podrán fundar ni afiliarse a partidos políticos o sindicatos ni realizar actividades políticas o sindicales.",
+        "d": "Los familiares de los miembros de la Guardia Civil no podrán fundar ni afiliarse a partidos políticos o sindicatos ni realizar actividades políticas o sindicales."
+      },
+      "correct": "b",
+      "explicacion": "El texto correcto transcribe literalmente el artículo 18.1 de la LO 11/2007. Las variantes incorrectas cambian 'partidos políticos o sindicatos' por 'asociaciones profesionales', sustituyen 'no podrán' por 'podrán' (invirtiendo el sentido), cambian 'políticas' por 'religiosas', o 'Los miembros' por 'Los familiares de los miembros'.",
+      "ley": "art. 18.1 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_014",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 a 6 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Guardias Civiles son titulares del derecho a la intimidad y a la vida privada",
+        "b": "El derecho a la intimidad y a la vida privada está expresamente excluido para los miembros de la Guardia Civil",
+        "c": "La igualdad entre hombres y mujeres en la Guardia Civil es una aspiración sin ningún desarrollo normativo concreto",
+        "d": "Las medidas de igualdad de género solo se aplican al ingreso en el Cuerpo, no a los ascensos ni destinos"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 3 a 6 de la LO 11/2007 garantizan la igualdad efectiva entre hombres y mujeres, reconocen el derecho a la intimidad y vida privada, y admiten limitaciones a la libertad de residencia y circulación derivadas del cumplimiento de los servicios propios de la Guardia Civil.",
+      "ley": "Arts. 3 a 6 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_015",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 a 6 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "La libertad de residencia y circulación de los Guardias Civiles no admite ninguna limitación derivada del servicio",
+        "b": "La igualdad entre hombres y mujeres en la Guardia Civil es una aspiración sin ningún desarrollo normativo concreto",
+        "c": "Los Guardias Civiles son titulares del derecho a la intimidad y a la vida privada",
+        "d": "Las medidas de igualdad de género solo se aplican al ingreso en el Cuerpo, no a los ascensos ni destinos"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 3 a 6 de la LO 11/2007 garantizan la igualdad efectiva entre hombres y mujeres, reconocen el derecho a la intimidad y vida privada, y admiten limitaciones a la libertad de residencia y circulación derivadas del cumplimiento de los servicios propios de la Guardia Civil.",
+      "ley": "Arts. 3 a 6 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_016",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 1 y 2 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los alumnos de los Centros Docentes de la Guardia Civil quedan excluidos de cualquier aplicación de esta Ley Orgánica",
+        "b": "La LO 11/2007 regula exclusivamente el régimen retributivo de los miembros de la Guardia Civil",
+        "c": "La LO 11/2007 no contempla ninguna particularidad derivada de la naturaleza militar de la Guardia Civil",
+        "d": "Los alumnos de los Centros Docentes de la Guardia Civil están igualmente sujetos a esta Ley Orgánica"
+      },
+      "correct": "d",
+      "explicacion": "Los artículos 1 y 2 de la LO 11/2007 regulan los derechos y deberes de los miembros de la Guardia Civil con las particularidades de su naturaleza militar, reconociéndoles la titularidad de los derechos fundamentales constitucionales sin otros límites que los legalmente establecidos, y extendiendo su aplicación a los alumnos de los Centros Docentes.",
+      "ley": "Arts. 1 y 2 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_017",
+      "simulacro": 0,
+      "dificultad": "dificil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 1 y 2 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Guardias Civiles carecen de la titularidad de los derechos fundamentales reconocidos en la Constitución por su condición militar",
+        "b": "La LO 11/2007 no contempla ninguna particularidad derivada de la naturaleza militar de la Guardia Civil",
+        "c": "Los alumnos de los Centros Docentes de la Guardia Civil están igualmente sujetos a esta Ley Orgánica",
+        "d": "Los alumnos de los Centros Docentes de la Guardia Civil quedan excluidos de cualquier aplicación de esta Ley Orgánica"
+      },
+      "correct": "c",
+      "explicacion": "Los artículos 1 y 2 de la LO 11/2007 regulan los derechos y deberes de los miembros de la Guardia Civil con las particularidades de su naturaleza militar, reconociéndoles la titularidad de los derechos fundamentales constitucionales sin otros límites que los legalmente establecidos, y extendiendo su aplicación a los alumnos de los Centros Docentes.",
+      "ley": "Arts. 1 y 2 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_018",
+      "simulacro": 0,
+      "dificultad": "media",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 3 a 6 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los Guardias Civiles son titulares del derecho a la intimidad y a la vida privada",
+        "b": "La libertad de residencia y circulación de los Guardias Civiles no admite ninguna limitación derivada del servicio",
+        "c": "Las medidas de igualdad de género solo se aplican al ingreso en el Cuerpo, no a los ascensos ni destinos",
+        "d": "El derecho a la intimidad y a la vida privada está expresamente excluido para los miembros de la Guardia Civil"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 3 a 6 de la LO 11/2007 garantizan la igualdad efectiva entre hombres y mujeres, reconocen el derecho a la intimidad y vida privada, y admiten limitaciones a la libertad de residencia y circulación derivadas del cumplimiento de los servicios propios de la Guardia Civil.",
+      "ley": "Arts. 3 a 6 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_019",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Art. 36 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "El artículo 36 de la LO 11/2007 no exige ningún requisito de ámbito territorial para las asociaciones profesionales",
+        "b": "La finalidad principal de las asociaciones profesionales es exclusivamente la organización de actividades recreativas",
+        "c": "Las asociaciones profesionales de Guardias Civiles deben constituirse por un plazo máximo de cuatro años renovables",
+        "d": "Tienen por finalidad principal la satisfacción de los intereses sociales, económicos y profesionales de sus asociados"
+      },
+      "correct": "d",
+      "explicacion": "El artículo 36 de la LO 11/2007 exige que las asociaciones profesionales de Guardias Civiles tengan ámbito estatal, se constituyan por tiempo indefinido, y tengan como finalidad principal la satisfacción de los intereses sociales, económicos y profesionales de sus asociados.",
+      "ley": "Art. 36 LO 11/2007",
+      "subtema": "23.2"
+    },
+    {
+      "id": "tema_23_test_02_020",
+      "simulacro": 0,
+      "dificultad": "facil",
+      "question": "Tema 23 - Estatuto del Personal. Sobre Arts. 17 y 18 LO 11/2007. Señale la afirmación CORRECTA:",
+      "options": {
+        "a": "Los miembros de la Guardia Civil no podrán fundar ni afiliarse a partidos políticos o sindicatos ni realizar actividades políticas o sindicales",
+        "b": "Los miembros de la Guardia Civil pueden afiliarse libremente a partidos políticos siempre que no ocupen cargos de responsabilidad",
+        "c": "El respeto a la integridad física y moral de las personas solo se exige respecto de los propios compañeros de servicio",
+        "d": "La prohibición de actividad política de los Guardias Civiles afecta únicamente a la afiliación a sindicatos, no a partidos políticos"
+      },
+      "correct": "a",
+      "explicacion": "Los artículos 17 y 18 de la LO 11/2007 obligan a los miembros de la Guardia Civil a observar estrictamente las normas sobre uso legítimo de la fuerza, respetando vida e integridad física y moral, y les prohíben fundar o afiliarse a partidos políticos o sindicatos y realizar actividades políticas o sindicales.",
+      "ley": "Arts. 17 y 18 LO 11/2007",
+      "subtema": "23.2"
+    }
+  ],
+  "subtema": "23.2"
+}
